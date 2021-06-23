@@ -2,6 +2,14 @@ import("core.base.option")
 import("core.base.json")
 import("net.http")
 
+function get_manifestkey(manifest)
+    local key = ""
+    for _, k in ipairs(table.orderkey(manifest)) do
+        key = key .. manifest[k].urls .. manifest[k].sha256
+    end
+    return key
+end
+
 function main()
     local buildinfo = io.load(path.join(os.scriptdir(), "..", "build.txt"))
     local name = buildinfo.name:lower()
@@ -16,13 +24,18 @@ function main()
         os.exec("git clone git@github.com:xmake-mirror/build-artifacts.git")
         os.cd("build-artifacts")
         local manifestfile = path.join("packages", name:sub(1, 1), name, version, "manifest.txt")
-        local manifest = os.isfile(manifestfile) and io.load(manifestfile) or {}   
+        local manifest = os.isfile(manifestfile) and io.load(manifestfile) or {}
+        local manifest_oldkey = get_manifestkey(manifest)  
         for _, asset in ipairs(assets_json) do
             local buildid = path.basename(asset.name)
             manifest[buildid] = {
                 urls = asset.url,
                 sha256 = hash.sha256(path.join("..", "assets", asset.name))
             }
+        end
+        if get_manifestkey(manifest) == manifest_oldkey then
+            print("manifest not changed!")
+            return
         end
         local trycount = 0
         while trycount < 2 do
