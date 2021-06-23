@@ -1,0 +1,64 @@
+name: Windows
+
+on:
+  push:
+    branches:
+      - build
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest]
+        kind: [static, shared]
+        arch: [x64, x86]
+        vs_runtime: [MT, MD]
+
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v1
+      - uses: xmake-io/github-action-setup-xmake@v1
+        with:
+          xmake-version: branch@dev
+
+      - name: Prepare
+        run: |
+          iwr -useb get.scoop.sh | iex
+          scoop install gh
+          gh --version
+          Write-Output ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
+
+      - name: Build artifacts
+        run: |
+          xmake l scripts/build.lua -a ${{ matrix.arch }} -k ${{ matrix.kind }} -f "vs_runtime='${{ matrix.vs_runtime }}'" --vs_sdkver=10.0.19041.0
+
+  update:
+    needs: build
+    if: success()
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: xmake-io/github-action-setup-xmake@v1
+        with:
+          xmake-version: branch@dev
+
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_KEY }}
+          name: id_rsa # optional
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+      - name: Prepare
+        run: |
+          iwr -useb get.scoop.sh | iex
+          scoop install gh
+          gh --version
+          Write-Output ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
+          git config --global user.email "waruqi@gmail.com"
+          git config --global user.name "ruki"
+          
+      - name: Update manifest
+        run: |
+          xmake l scripts/update.lua
