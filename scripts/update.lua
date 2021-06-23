@@ -4,7 +4,7 @@ import("net.http")
 
 function get_manifestkey(manifest)
     local key = ""
-    for _, k in ipairs(table.orderkey(manifest)) do
+    for _, k in ipairs(table.orderkeys(manifest)) do
         key = key .. manifest[k].urls .. manifest[k].sha256
     end
     return key
