@@ -1,0 +1,34 @@
+name: Windows
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest]
+        kind: [static, shared]
+        arch: [x64, x86]
+        vs_runtime: [MT, MD]
+
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v1
+      - uses: xmake-io/github-action-setup-xmake@v1
+        with:
+          xmake-version: branch@dev
+
+      - name: Prepare
+        run: |
+          iwr -useb get.scoop.sh | iex
+          scoop install gh
+          gh --version
+          Write-Output ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
+
+      - name: Test packages
+        run: |
+          xmake l scripts/test.lua -a ${{ matrix.arch }} -k ${{ matrix.kind }} -f "vs_runtime='${{ matrix.vs_runtime }}'" --vs_sdkver=10.0.19041.0
