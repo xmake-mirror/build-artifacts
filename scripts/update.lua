@@ -49,6 +49,7 @@ function main()
                 os.exec("git commit -a -m \"autoupdate %s-%s by ci\"", name, version)
                 os.exec("git push origin main")
                 os.exec("git push git@gitee.com:xmake-mirror/build-artifacts.git main")
+                os.exec("git push git@gitlab.com:xmake-mirror/build_artifacts.git main")
                 return true
             end }
             if ok then
