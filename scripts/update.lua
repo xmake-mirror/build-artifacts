@@ -39,19 +39,27 @@ function main()
         end
         local trycount = 0
         while trycount < 2 do
-            local ok = try { function ()
-                os.exec("git reset --hard HEAD^")
-                os.exec("git pull origin main")
-                io.save(manifestfile, manifest)
-                print(manifestfile)
-                io.cat(manifestfile)
-                os.exec("git add -A")
-                os.exec("git commit -a -m \"autoupdate %s-%s by ci\"", name, version)
-                os.exec("git push origin main")
-                os.exec("git push git@gitee.com:xmake-mirror/build-artifacts.git main")
-                os.exec("git push git@gitlab.com:xmake-mirror/build_artifacts.git main")
-                return true
-            end }
+            local ok = try
+            {
+                function ()
+                    io.save(manifestfile, manifest)
+                    print(manifestfile)
+                    io.cat(manifestfile)
+                    os.exec("git add -A")
+                    os.exec("git commit -a -m \"autoupdate %s-%s by ci\"", name, version)
+                    os.exec("git push origin main")
+                    os.exec("git push git@gitee.com:xmake-mirror/build-artifacts.git main")
+                    os.exec("git push git@gitlab.com:xmake-mirror/build_artifacts.git main")
+                    return true
+                end,
+                catch
+                {
+                    function ()
+                        os.exec("git reset --hard HEAD^")
+                        os.exec("git pull origin main")
+                    end
+                }
+            }
             if ok then
                 break
             end
