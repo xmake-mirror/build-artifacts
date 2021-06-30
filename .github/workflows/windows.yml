@@ -28,6 +28,13 @@ jobs:
           scoop install gh
           gh --version
           Write-Output ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
+          
+      - name: Configure Pagefile
+        uses: al-cheb/configure-pagefile-action@v1.2
+        with:
+          minimum-size: 8GB
+          maximum-size: 32GB
+          disk-root: "D:"
 
       - name: Build artifacts
         run: |
