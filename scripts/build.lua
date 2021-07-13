@@ -68,7 +68,10 @@ function main(...)
         if found then
             os.execv("gh", {"release", "upload", "--clobber", tag, artifactfile})
         else
-            os.execv("gh", {"release", "create", "--notes", tag .. " artifacts", tag, artifactfile})
+            local created = try {function () os.execv("gh", {"release", "create", "--notes", tag .. " artifacts", tag, artifactfile}); return true end}
+            if not created then
+                os.execv("gh", {"release", "upload", "--clobber", tag, artifactfile})
+            end
         end
     end
 end
