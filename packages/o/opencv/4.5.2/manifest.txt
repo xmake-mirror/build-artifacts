@@ -1,34 +1,82 @@
 {
-    ["windows-x64-c9342f54012d4cce9b5d7b6a84351b8f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-c9342f54012d4cce9b5d7b6a84351b8f.7z",
-        sha256 = "a2d3753645811e2686288b8343f3322be70c6d435be7f0d52dcf6976466f9a1b"
+    ["windows-x64-b32926a34da9481583fe0a1cd7b1aea0"] = {
+        sha256 = "4e358bbeb04f358425dcd108de1e904ae022a1d3f9dec88855709eacf3634db5",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-b32926a34da9481583fe0a1cd7b1aea0.7z"
     },
-    ["windows-x86-0291fa66e2ae4daf812f2f1e6a913e5d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-0291fa66e2ae4daf812f2f1e6a913e5d.7z",
-        sha256 = "ee353faef0a8a48b46b30aa776efb379ac18f2161ca912511054319af6049a65"
+    ["windows-x64-vc142-5cf889889f9544b58e89a373d9aa34f6"] = {
+        sha256 = "21d8af9205f05b31e76c1d78db0d6a3acb726d6286da668eb9ddd847da611686",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-vc142-5cf889889f9544b58e89a373d9aa34f6.7z"
     },
-    ["windows-x64-5cf889889f9544b58e89a373d9aa34f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-5cf889889f9544b58e89a373d9aa34f6.7z",
-        sha256 = "8bc8205561ad9bcd79c4afc31c900543a27949d6aed5be41bbd40b44023addb5"
+    ["windows-x86-vc142-457a111ef59946f9ab347d42957407ec"] = {
+        sha256 = "ae37111ef6f069817e0a8f8b0b29558d9ffbd1c42afde328df5d04420c9f2e07",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-vc142-457a111ef59946f9ab347d42957407ec.7z"
     },
     ["windows-x86-3d3c0f691cd24da79753499bc04184ab"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-3d3c0f691cd24da79753499bc04184ab.7z",
-        sha256 = "cbc488c7272aa9416ce4ca4c6c7911ea1cb150ada67c8e71375335739da04251"
+        sha256 = "cbc488c7272aa9416ce4ca4c6c7911ea1cb150ada67c8e71375335739da04251",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-3d3c0f691cd24da79753499bc04184ab.7z"
     },
-    ["windows-x64-b32926a34da9481583fe0a1cd7b1aea0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-b32926a34da9481583fe0a1cd7b1aea0.7z",
-        sha256 = "4e358bbeb04f358425dcd108de1e904ae022a1d3f9dec88855709eacf3634db5"
+    ["windows-x64-vc142-7f07458129fa4a368ef75064aae78877"] = {
+        sha256 = "3875b710121ee987c266af1f3ae080f4e5f2ca5a489777bdbae6d185fe934606",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-vc142-7f07458129fa4a368ef75064aae78877.7z"
     },
     ["windows-x86-457a111ef59946f9ab347d42957407ec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-457a111ef59946f9ab347d42957407ec.7z",
-        sha256 = "306224083976b2f09d11305e04cc0f05b8a8dabedc0ec18183bfc175a4cb8f44"
-    },
-    ["windows-x86-a10a6455aaaf4e48a9170b1b1896ecfd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-a10a6455aaaf4e48a9170b1b1896ecfd.7z",
-        sha256 = "d0736abb46de800caa9e5c1d3241785365228ee347c7943ff85f2a5fb0fd4d1c"
+        sha256 = "306224083976b2f09d11305e04cc0f05b8a8dabedc0ec18183bfc175a4cb8f44",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-457a111ef59946f9ab347d42957407ec.7z"
     },
     ["windows-x64-7f07458129fa4a368ef75064aae78877"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-7f07458129fa4a368ef75064aae78877.7z",
-        sha256 = "ef01f007fd8094e57a6b26837a7192911e08e044214fd93e9fb27ec7358d3b4e"
+        sha256 = "ef01f007fd8094e57a6b26837a7192911e08e044214fd93e9fb27ec7358d3b4e",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-7f07458129fa4a368ef75064aae78877.7z"
+    },
+    ["windows-x64-vc142-c9342f54012d4cce9b5d7b6a84351b8f"] = {
+        sha256 = "e74bf50363f630a4a12ba0260f134f7d5a13b8e445f91d446adb463bb52f2bd2",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-vc142-c9342f54012d4cce9b5d7b6a84351b8f.7z"
+    },
+    ["windows-x64-c9342f54012d4cce9b5d7b6a84351b8f"] = {
+        sha256 = "a2d3753645811e2686288b8343f3322be70c6d435be7f0d52dcf6976466f9a1b",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-c9342f54012d4cce9b5d7b6a84351b8f.7z"
+    },
+    ["windows-x64-vc142-b32926a34da9481583fe0a1cd7b1aea0"] = {
+        sha256 = "8d15729c7bda67465327c832732bfe293a7d9da455b84193ed2a29926e4e9179",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-vc142-b32926a34da9481583fe0a1cd7b1aea0.7z"
+    },
+    ["windows-x86-vc142-0291fa66e2ae4daf812f2f1e6a913e5d"] = {
+        sha256 = "a8e5536b6126c992e009b5b6c64584512f210dcdc5e5f5998f2f8c35dd56dc2b",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-vc142-0291fa66e2ae4daf812f2f1e6a913e5d.7z"
+    },
+    ["windows-x86-0291fa66e2ae4daf812f2f1e6a913e5d"] = {
+        sha256 = "ee353faef0a8a48b46b30aa776efb379ac18f2161ca912511054319af6049a65",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-0291fa66e2ae4daf812f2f1e6a913e5d.7z"
+    },
+    ["windows-x64-5cf889889f9544b58e89a373d9aa34f6"] = {
+        sha256 = "8bc8205561ad9bcd79c4afc31c900543a27949d6aed5be41bbd40b44023addb5",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x64-5cf889889f9544b58e89a373d9aa34f6.7z"
+    },
+    ["windows-x86-vc142-a10a6455aaaf4e48a9170b1b1896ecfd"] = {
+        sha256 = "6b09f307ce3ebf71811ba3d9da8f0ae447bcf1c7b165fde937ed611a547734e1",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-vc142-a10a6455aaaf4e48a9170b1b1896ecfd.7z"
+    },
+    ["windows-x86-vc142-3d3c0f691cd24da79753499bc04184ab"] = {
+        sha256 = "a65a4abbaf542e6497a291977f185bbc198df181f4a48ba6943993a38d93957f",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-vc142-3d3c0f691cd24da79753499bc04184ab.7z"
+    },
+    ["windows-x86-a10a6455aaaf4e48a9170b1b1896ecfd"] = {
+        sha256 = "d0736abb46de800caa9e5c1d3241785365228ee347c7943ff85f2a5fb0fd4d1c",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.2/windows-x86-a10a6455aaaf4e48a9170b1b1896ecfd.7z"
     }
 }
