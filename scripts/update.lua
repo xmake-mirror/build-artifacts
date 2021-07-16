@@ -1,5 +1,6 @@
 import("core.base.option")
 import("core.base.json")
+import("core.tool.toolchain")
 import("net.http")
 
 function get_manifestkey(manifest)
