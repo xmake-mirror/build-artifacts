@@ -42,7 +42,6 @@ function main()
             }
             if asset.name:find("windows", 1, true) and vcvars then
                 manifest[buildid].toolset = vcvars.VCToolsVersion
-                manifest[buildid].sdkver = vcvars.WindowsSDKVersion
             end
         end
         if get_manifestkey(manifest) == manifest_oldkey then
