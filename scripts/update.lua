@@ -36,6 +36,9 @@ function main()
             if asset.name:find("-vc142-", 1, true) then
                 manifest[buildid].toolset = "14.29.30037"
             end
+            if asset.name:find("-vc141-", 1, true) then
+                manifest[buildid].toolset = "14.16.27023"
+            end
         end
         if get_manifestkey(manifest) == manifest_oldkey then
             print("manifest not changed!")
