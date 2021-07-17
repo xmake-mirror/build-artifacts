@@ -1,50 +1,82 @@
 {
-    ["windows-x64-vc142-c904308834b94a3aa8e6259d12066352"] = {
-        toolset = "14.29.30037",
-        sha256 = "16b207ec319dbc7ed9cb27f3c79a44d74346baea13b64bab0fc80eb6be826790",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-c904308834b94a3aa8e6259d12066352.7z"
+    ["windows-x64-vc141-85a81e018b5c44d8b4ffa45c42476c0c"] = {
+        sha256 = "8e7eb574528968451e46ea61638e1e83a6dc333b4ed508e626b83fb01b8d85e9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc141-85a81e018b5c44d8b4ffa45c42476c0c.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-5cad0cbe332240c2b8dc4061fb60162b"] = {
+        sha256 = "f7f67cdf7502eb7307e375efed6734215b4399630c6a1ca2775756be1551c4ca",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc141-5cad0cbe332240c2b8dc4061fb60162b.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-e1a318e215244359a143017fa83d2773"] = {
+        sha256 = "b07b96588169a1728445f5fee666f717c891d279ea03232b38b0a04d0f0c2692",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc141-e1a318e215244359a143017fa83d2773.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc142-5cad0cbe332240c2b8dc4061fb60162b"] = {
-        toolset = "14.29.30037",
-        sha256 = "8f0c0c3379e085ee7897863dacefb0af18060a832e16c558b538f61807aac7b8",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-5cad0cbe332240c2b8dc4061fb60162b.7z"
+        sha256 = "f345014810d0ace178ba600644fafcf5a974051ec21d835bf3c061bae1aa65db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-5cad0cbe332240c2b8dc4061fb60162b.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x86-vc141-3797c82c5a444f4a9382bcd15d1527cf"] = {
+        sha256 = "02699d9dca5d904851ca6431bb026c387129fbb2fcb97c180e29fd3d22be4a16",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc141-3797c82c5a444f4a9382bcd15d1527cf.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc142-06f3b56087cc45cfb417effb0037061a"] = {
-        toolset = "14.29.30037",
-        sha256 = "27d7d8a82d783a015870fa1e1fd2e702a559cd124c86c8b4aa3f679b187e7a0c",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-06f3b56087cc45cfb417effb0037061a.7z"
+        sha256 = "b9445d242a296f70b34d0db332e70be79d463e484775fa6ef6f4400da98c10e7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-06f3b56087cc45cfb417effb0037061a.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x64-vc141-c904308834b94a3aa8e6259d12066352"] = {
+        sha256 = "ad6ba11bd319fab6ef3abd51a6014407f34422a0e0764f5dff01da03e7d81ad2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc141-c904308834b94a3aa8e6259d12066352.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc142-85a81e018b5c44d8b4ffa45c42476c0c"] = {
-        toolset = "14.29.30037",
-        sha256 = "39d8d829e0f27ddd2fdf1e10bcbabb0e4dad5d8f540fab6a51d20798b82a66ec",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-85a81e018b5c44d8b4ffa45c42476c0c.7z"
+        sha256 = "1d67745c122435f707436d8b265ebeeecfe7a5220776fcf0ac8093ade2858d47",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-85a81e018b5c44d8b4ffa45c42476c0c.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x64-vc141-06f3b56087cc45cfb417effb0037061a"] = {
+        sha256 = "d69f0077d2270fc3ea6c9bd57fc5a12cb107d18791e6aba7cc6c344a18a8ddf3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc141-06f3b56087cc45cfb417effb0037061a.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x86-vc142-3797c82c5a444f4a9382bcd15d1527cf"] = {
-        toolset = "14.29.30037",
-        sha256 = "662e4b7e4ed72de7dcac81a67c7914d2275b98f88c6c98e748b258dbec674cb6",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-3797c82c5a444f4a9382bcd15d1527cf.7z"
+        sha256 = "9e65bd7b285beab5f2bf4e11d07f59c7ed8fe80afd7ad89b5b875582c04cb06d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-3797c82c5a444f4a9382bcd15d1527cf.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x86-vc141-b5f3f246a44b462291bfdb35095b7f04"] = {
+        sha256 = "41006b268c5800d272bc73d12de48999fed1ee65a3bdbe36b50445960f13afb2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc141-b5f3f246a44b462291bfdb35095b7f04.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x86-vc142-b5f3f246a44b462291bfdb35095b7f04"] = {
-        toolset = "14.29.30037",
-        sha256 = "4306f3c8a4bd5f71e16784aab72ec468d9884efd34ddf7fa5e9ed2441ce4ea7b",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-b5f3f246a44b462291bfdb35095b7f04.7z"
+        sha256 = "46fc9c4570a5a116317fd07fae6517c259624bb0f395cfa2e92b75c4cb0612b8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-b5f3f246a44b462291bfdb35095b7f04.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x64-vc142-c904308834b94a3aa8e6259d12066352"] = {
+        sha256 = "5d6a93c3582cf81af9c05531af2eadf7bde2cf12b6d4ed5b6190f38fa14eb1e1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x64-vc142-c904308834b94a3aa8e6259d12066352.7z",
+        toolset = "14.29.30037"
     },
     ["windows-x86-vc142-c39262bf8e0a49578079a2c80b9feb0a"] = {
-        toolset = "14.29.30037",
-        sha256 = "091f054a725ff5101ceee7621d6af2055706b7dd2ec0567719ee7c20146c815b",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-c39262bf8e0a49578079a2c80b9feb0a.7z"
+        sha256 = "e976970d9f899c98e274f7d233e13baf6cc7d775b537d581a4fb136ad593af49",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-c39262bf8e0a49578079a2c80b9feb0a.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x86-vc141-c39262bf8e0a49578079a2c80b9feb0a"] = {
+        sha256 = "5f2c0c851b14649c90b6078fe35a2a7334ad76d45bf14639d166b2651cdabd82",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc141-c39262bf8e0a49578079a2c80b9feb0a.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x86-vc142-e1a318e215244359a143017fa83d2773"] = {
-        toolset = "14.29.30037",
-        sha256 = "23a4790baa30b82644ce1b8c76cf3b1cd194fe8091db207ec455e5cc9cc87fb0",
-        sdkver = "10.0.19041.0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-e1a318e215244359a143017fa83d2773.7z"
+        sha256 = "716364c7e4e93ff7f4805697ce7525dabc16f3754d206c73efa285956a0e6667",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libjpeg-v9d/windows-x86-vc142-e1a318e215244359a143017fa83d2773.7z",
+        toolset = "14.29.30037"
     }
 }
