@@ -1,34 +1,114 @@
 {
-    ["windows-x64-da0a78ee73964a43b41cf01da970c519"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-da0a78ee73964a43b41cf01da970c519.7z",
-        sha256 = "46cb316db35ef6b129f33f5efe048583d509ab51e965e5b5f957b8961ddaffd1"
-    },
-    ["windows-x64-048285bdb63641fd9fcfdeffd8adc36a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-048285bdb63641fd9fcfdeffd8adc36a.7z",
-        sha256 = "d3b887bcfd8a319ea8b342d82964e2e40e8dc89819e43ffc4f188c1aa08cee1b"
-    },
-    ["windows-x86-de2b6a52b47149ac812c6aad5470ebb9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-de2b6a52b47149ac812c6aad5470ebb9.7z",
-        sha256 = "5d7e47f1b8fa5b915624933fe6656c92255b6172ec61d065166d51526189133f"
-    },
     ["windows-x64-e8e2b5f689624254818c904ce352941e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-e8e2b5f689624254818c904ce352941e.7z",
         sha256 = "478c5e47f300e304567b7219964da641d39a26a3a32980ae542f442754e2fc5d"
+    },
+    ["windows-x64-vc141-e8e2b5f689624254818c904ce352941e"] = {
+        toolset = "14.16.27023",
+        sha256 = "33eff54f46114ef16f8b98f244fe3fe436fb28d3771f2e01e1dbad74ae67ff15",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc141-e8e2b5f689624254818c904ce352941e.7z"
     },
     ["windows-x86-048285bdb63641fd9fcfdeffd8adc36a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-048285bdb63641fd9fcfdeffd8adc36a.7z",
         sha256 = "a9508b1f131c58b7b8ce6e73f41c13565050e5e35c6085ce026c086ad8d82ad7"
     },
+    ["windows-x86-vc141-da0a78ee73964a43b41cf01da970c519"] = {
+        toolset = "14.16.27023",
+        sha256 = "c03bd152db784d710531cdae0dc8d885d8c49858d05a62585bbdabb7c5f04e87",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc141-da0a78ee73964a43b41cf01da970c519.7z"
+    },
     ["windows-x86-da0a78ee73964a43b41cf01da970c519"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-da0a78ee73964a43b41cf01da970c519.7z",
         sha256 = "dfd87089e606323500abb0c814ac2a1b6b59355552212f7212f741bf5575e0f5"
+    },
+    ["windows-x64-vc142-048285bdb63641fd9fcfdeffd8adc36a"] = {
+        toolset = "14.29.30037",
+        sha256 = "ee19fb5ac5e7d2e8ea2732d495697bbe62be40900cb2580faa414650028c4100",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc142-048285bdb63641fd9fcfdeffd8adc36a.7z"
     },
     ["windows-x86-e8e2b5f689624254818c904ce352941e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-e8e2b5f689624254818c904ce352941e.7z",
         sha256 = "a0922f16f36a3833c0a9bea73cec9f55ede96adb6a49521b05399926152cb88c"
     },
+    ["windows-x86-vc141-de2b6a52b47149ac812c6aad5470ebb9"] = {
+        toolset = "14.16.27023",
+        sha256 = "35fe540904647d492099f8a3ea59f1ba1fff134e68938dc93e4a438c855c73ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc141-de2b6a52b47149ac812c6aad5470ebb9.7z"
+    },
     ["windows-x64-de2b6a52b47149ac812c6aad5470ebb9"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-de2b6a52b47149ac812c6aad5470ebb9.7z",
         sha256 = "b6c41938a8a382d1a743d0a13d2f8c109e714a99dc6fe7436c87e7577f24d7d4"
+    },
+    ["windows-x64-vc142-da0a78ee73964a43b41cf01da970c519"] = {
+        toolset = "14.29.30037",
+        sha256 = "30347f269ad204f95ab033ff293976eb36845d9494afeda5b401b45d651bd0a7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc142-da0a78ee73964a43b41cf01da970c519.7z"
+    },
+    ["windows-x86-vc141-e8e2b5f689624254818c904ce352941e"] = {
+        toolset = "14.16.27023",
+        sha256 = "35eb9303d44706908d0d99daed9de5a28ecfa702dc291ccb144a53080754ba1f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc141-e8e2b5f689624254818c904ce352941e.7z"
+    },
+    ["windows-x64-vc142-de2b6a52b47149ac812c6aad5470ebb9"] = {
+        toolset = "14.29.30037",
+        sha256 = "7d56e927bd6c71ef3863e2fb5154c012d906a26470e25d3c7dfb550169f889d9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc142-de2b6a52b47149ac812c6aad5470ebb9.7z"
+    },
+    ["windows-x86-vc142-048285bdb63641fd9fcfdeffd8adc36a"] = {
+        toolset = "14.29.30037",
+        sha256 = "be07a4e3800b0e16ca4571a591ba4c6fe42befb5f04380bfcbd69cfdf760be13",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc142-048285bdb63641fd9fcfdeffd8adc36a.7z"
+    },
+    ["windows-x64-vc142-e8e2b5f689624254818c904ce352941e"] = {
+        toolset = "14.29.30037",
+        sha256 = "3e8ec562cdd3f4f6384946450289dbfa7504d28ce7edd0816bbf24335f29b824",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc142-e8e2b5f689624254818c904ce352941e.7z"
+    },
+    ["windows-x64-vc141-da0a78ee73964a43b41cf01da970c519"] = {
+        toolset = "14.16.27023",
+        sha256 = "3c43d709a75c450bd9bd12cb996aa4afae321aa97842e13ffbcd86815c631f7b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc141-da0a78ee73964a43b41cf01da970c519.7z"
+    },
+    ["windows-x86-vc142-de2b6a52b47149ac812c6aad5470ebb9"] = {
+        toolset = "14.29.30037",
+        sha256 = "4cbf14d3a4acf1eea3e9a3e9b7d3ecff173d749f9ffafe43c1196cf22f738128",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc142-de2b6a52b47149ac812c6aad5470ebb9.7z"
+    },
+    ["windows-x86-vc142-da0a78ee73964a43b41cf01da970c519"] = {
+        toolset = "14.29.30037",
+        sha256 = "18159df6fb5902c9fbceae8f28c41ca66c363c661412c7fcd9ec2611af3d1a0c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc142-da0a78ee73964a43b41cf01da970c519.7z"
+    },
+    ["windows-x64-vc141-048285bdb63641fd9fcfdeffd8adc36a"] = {
+        toolset = "14.16.27023",
+        sha256 = "d22d7fd82d3ba18e90c1a792f94f164b53cc67dfcac8cc5ff5cd327922ba78fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc141-048285bdb63641fd9fcfdeffd8adc36a.7z"
+    },
+    ["windows-x64-da0a78ee73964a43b41cf01da970c519"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-da0a78ee73964a43b41cf01da970c519.7z",
+        sha256 = "46cb316db35ef6b129f33f5efe048583d509ab51e965e5b5f957b8961ddaffd1"
+    },
+    ["windows-x86-vc142-e8e2b5f689624254818c904ce352941e"] = {
+        toolset = "14.29.30037",
+        sha256 = "aa13d972f9b91bd7884cea36d442943645ad38ac56013c32d3e6ab16ee0ed783",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc142-e8e2b5f689624254818c904ce352941e.7z"
+    },
+    ["windows-x64-048285bdb63641fd9fcfdeffd8adc36a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-048285bdb63641fd9fcfdeffd8adc36a.7z",
+        sha256 = "d3b887bcfd8a319ea8b342d82964e2e40e8dc89819e43ffc4f188c1aa08cee1b"
+    },
+    ["windows-x64-vc141-de2b6a52b47149ac812c6aad5470ebb9"] = {
+        toolset = "14.16.27023",
+        sha256 = "181b2c9657baabe1b6ce7b686dbb7a0d422d83d38d1f2a89e233e7ae764c0eeb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x64-vc141-de2b6a52b47149ac812c6aad5470ebb9.7z"
+    },
+    ["windows-x86-de2b6a52b47149ac812c6aad5470ebb9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-de2b6a52b47149ac812c6aad5470ebb9.7z",
+        sha256 = "5d7e47f1b8fa5b915624933fe6656c92255b6172ec61d065166d51526189133f"
+    },
+    ["windows-x86-vc141-048285bdb63641fd9fcfdeffd8adc36a"] = {
+        toolset = "14.16.27023",
+        sha256 = "830dbfb5b1b2f1dc479b29294ecefbc68f559f4311408bff47b43b43b7326b99",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yasm-1.3.0/windows-x86-vc141-048285bdb63641fd9fcfdeffd8adc36a.7z"
     }
 }
