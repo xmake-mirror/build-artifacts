@@ -10,7 +10,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [windows-latest]
+        os: [windows-2016, windows-latest]
         kind: [static, shared]
         arch: [x64, x86]
         vs_runtime: [MT, MD]
@@ -31,4 +31,4 @@ jobs:
 
       - name: Test packages
         run: |
-          xmake l scripts/test.lua -a ${{ matrix.arch }} -k ${{ matrix.kind }} -f "vs_runtime='${{ matrix.vs_runtime }}'" --vs_sdkver=10.0.19041.0
+          xmake l scripts/test.lua -a ${{ matrix.arch }} -k ${{ matrix.kind }} -f "vs_runtime='${{ matrix.vs_runtime }}'"
