@@ -1,42 +1,82 @@
 {
-    ["windows-x86-vc142-24fbc226920b412a888648e674fd17b7"] = {
-        sha256 = "05720b6a1a1cfc8ae43605e347163a9842243647c9ccc20da1e259dbba9ee9d4",
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-24fbc226920b412a888648e674fd17b7.7z"
-    },
-    ["windows-x86-vc142-fdf9257ce3514a229254ba45f9c9e0bb"] = {
-        sha256 = "5e281d40bafb8c3acb4bddb497c6274262e1f6ae01734c8d60fbf8ec93dc0ebe",
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-fdf9257ce3514a229254ba45f9c9e0bb.7z"
-    },
-    ["windows-x64-vc142-74fb3c1b2a49484983f8c78d27d456b3"] = {
-        sha256 = "5a34cff288e8f1810fa79018d76047f30b03e73afe2d4d8adfbb1f2bb59f808c",
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-74fb3c1b2a49484983f8c78d27d456b3.7z"
-    },
-    ["windows-x64-vc142-f190a75b2dd64a66be702a81af38a855"] = {
-        sha256 = "7b8f13eb75761443e6ccb4fdd42195ea3283ebe86caada04d836e13e7035cdf5",
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-f190a75b2dd64a66be702a81af38a855.7z"
-    },
-    ["windows-x86-vc142-36b893d687ef439c9ca65d17337a8769"] = {
-        sha256 = "2ba643a7c87e84fc6efca16396c4d73b6bdd060dee2fafbade7e918b5776d6d1",
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-36b893d687ef439c9ca65d17337a8769.7z"
-    },
-    ["windows-x64-vc142-2baf336a465a4f1aa5ceb135c923e75a"] = {
-        sha256 = "c032faab678a800d66042865c4366d640a3bc8bfd0d5fdb1f94e8975344050ed",
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-2baf336a465a4f1aa5ceb135c923e75a.7z"
-    },
     ["windows-x64-vc142-7c6936de3f7441d9b5bbf3ed393b7ba4"] = {
-        sha256 = "472586a417bac0c0b990ee773dda69a62f9b3a3b8e61b0f4968436319135f1f5",
+        sha256 = "a475b155d0fbd00cca3078ec0b74792968d65b95426a246b71ecb791ed3e7159",
         toolset = "14.29.30037",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-7c6936de3f7441d9b5bbf3ed393b7ba4.7z"
     },
+    ["windows-x64-vc141-74fb3c1b2a49484983f8c78d27d456b3"] = {
+        sha256 = "f156efc52abac52405b795ad37946d3bfaef3b38a88afaa4a34bdff42bc791bb",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc141-74fb3c1b2a49484983f8c78d27d456b3.7z"
+    },
     ["windows-x86-vc142-b3a614fbf71a4f2daf4cab3209aa1b92"] = {
-        sha256 = "6586476fcec87078559f0264b42ded41f8214b0857eec28b5d7660f9d1379d6e",
+        sha256 = "adc7cb4a4c4790904e584d88afc737ce7c4d4d9b6be7e67ea0506ccaccd80bca",
         toolset = "14.29.30037",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-b3a614fbf71a4f2daf4cab3209aa1b92.7z"
+    },
+    ["windows-x64-vc141-2baf336a465a4f1aa5ceb135c923e75a"] = {
+        sha256 = "99b1f4675a4ae1c77cd2f7d1f973eba30f15725c6f1c9175e26413f081fba7ba",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc141-2baf336a465a4f1aa5ceb135c923e75a.7z"
+    },
+    ["windows-x86-vc142-24fbc226920b412a888648e674fd17b7"] = {
+        sha256 = "9719a1ac85682cb24276c43b122f4ec3e62bf7eb21a02bcf84ef6f29ef9d9d5d",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-24fbc226920b412a888648e674fd17b7.7z"
+    },
+    ["windows-x64-vc141-7c6936de3f7441d9b5bbf3ed393b7ba4"] = {
+        sha256 = "9868a6b2bc5221865d1d2202610cbb46310fe4b89c48b0cec4ca8c5f33c289b4",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc141-7c6936de3f7441d9b5bbf3ed393b7ba4.7z"
+    },
+    ["windows-x86-vc142-fdf9257ce3514a229254ba45f9c9e0bb"] = {
+        sha256 = "7a7ae3fa5e2c7b09f423ec93dcb61832b46bfd81e764264b4bd9fc7d52848504",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-fdf9257ce3514a229254ba45f9c9e0bb.7z"
+    },
+    ["windows-x86-vc141-fdf9257ce3514a229254ba45f9c9e0bb"] = {
+        sha256 = "f123b3f8854266b96935397def8c9ef7f4c1bdcdddcf9899b28295728ea5a66f",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc141-fdf9257ce3514a229254ba45f9c9e0bb.7z"
+    },
+    ["windows-x64-vc142-74fb3c1b2a49484983f8c78d27d456b3"] = {
+        sha256 = "ae0c5f85d9bf27b701e3fe34dee58c113b990857889025ef73291d83e791057f",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-74fb3c1b2a49484983f8c78d27d456b3.7z"
+    },
+    ["windows-x64-vc141-f190a75b2dd64a66be702a81af38a855"] = {
+        sha256 = "e5bb7a14c2865bd0c3fdb5148912df2077c23f6852ca839fbb26f26caa52fd8f",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc141-f190a75b2dd64a66be702a81af38a855.7z"
+    },
+    ["windows-x64-vc142-f190a75b2dd64a66be702a81af38a855"] = {
+        sha256 = "efb203050a66039aa3f64110ada6b7c15a6615cfed0826be1aea40edfa6820eb",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-f190a75b2dd64a66be702a81af38a855.7z"
+    },
+    ["windows-x86-vc141-24fbc226920b412a888648e674fd17b7"] = {
+        sha256 = "e3c023b70c2dfb66fbcf3658d1a4214cf959a04cb0ab3390a7bd8ba014cbb5d3",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc141-24fbc226920b412a888648e674fd17b7.7z"
+    },
+    ["windows-x86-vc142-36b893d687ef439c9ca65d17337a8769"] = {
+        sha256 = "870267ad405d89bd0be634520459913fca08174a5017658682ba592c3dbae2fd",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc142-36b893d687ef439c9ca65d17337a8769.7z"
+    },
+    ["windows-x86-vc141-36b893d687ef439c9ca65d17337a8769"] = {
+        sha256 = "6a284eb9f4e814e01352d55267c330c4112afba221fb191b3cbdda5e70cf26f4",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc141-36b893d687ef439c9ca65d17337a8769.7z"
+    },
+    ["windows-x64-vc142-2baf336a465a4f1aa5ceb135c923e75a"] = {
+        sha256 = "ea24cf62efb65b79f94fe732bce4a63c85c70d770bf60f546ff6349a3c02c53d",
+        toolset = "14.29.30037",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x64-vc142-2baf336a465a4f1aa5ceb135c923e75a.7z"
+    },
+    ["windows-x86-vc141-b3a614fbf71a4f2daf4cab3209aa1b92"] = {
+        sha256 = "8d6aa67949ceeea59cbcca365e5f71e541d608b14f8bea8df657979415383316",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpng-v1.6.37/windows-x86-vc141-b3a614fbf71a4f2daf4cab3209aa1b92.7z"
     }
 }
