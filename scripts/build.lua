@@ -15,7 +15,7 @@ local options =
 }
 
 function build_artifacts(name, version, opt)
-    local argv = {"lua", "private.xrepo", "install", "-yvD", "--shallow", "--build", "--linkjobs=2", "-p", opt.plat, "-a", opt.arch, "-k", opt.kind}
+    local argv = {"lua", "private.xrepo", "install", "-yvD", "--shallow", "--force", "--build", "--linkjobs=2", "-p", opt.plat, "-a", opt.arch, "-k", opt.kind}
     if opt.configs then
         table.insert(argv, "-f")
         table.insert(argv, opt.configs)
