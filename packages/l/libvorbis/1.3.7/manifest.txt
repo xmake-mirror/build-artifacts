@@ -1,34 +1,114 @@
 {
-    ["windows-x64-efc0df09dbea49d0b67e1f82c3d5ca21"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-efc0df09dbea49d0b67e1f82c3d5ca21.7z",
-        sha256 = "10453978660b283146656681837d76c33e47ed84fc971543a0b54aba7b11ae57"
-    },
-    ["windows-x64-94dd6551a6e44a29b5e609c9f6599a8c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-94dd6551a6e44a29b5e609c9f6599a8c.7z",
-        sha256 = "1b6a98ff2cbf0a23141404989ea7a8e622558b7399678ae30c625e29e2bac234"
-    },
-    ["windows-x64-832fbd20d0e4481d81367cd571b8c55e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-832fbd20d0e4481d81367cd571b8c55e.7z",
-        sha256 = "d45071fb270bf1becc7ea0bc25658692ec895ddb5e91c4bd8e2c142f06bcd155"
-    },
-    ["windows-x64-b70bda53adc447cbbbe8489b20a876db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-b70bda53adc447cbbbe8489b20a876db.7z",
-        sha256 = "a1b847cce1b827e12a35213165cc3a264add38b3bda9d457bfc1671dde2e1dc7"
-    },
-    ["windows-x86-2227f7b21709462498339291c9f1c38f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-2227f7b21709462498339291c9f1c38f.7z",
-        sha256 = "2a5ee45399afff4c0a420a7632eabc8c9d3e7658f1368100cb27be899df1afe9"
+    ["windows-x64-vc141-b70bda53adc447cbbbe8489b20a876db"] = {
+        sha256 = "3f2d1143ecccfba70112f0b60224c4096ccba9e6e8ff6fde118877fdf28b116f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc141-b70bda53adc447cbbbe8489b20a876db.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x86-4b0a4079852d49928c88811ad945eda1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-4b0a4079852d49928c88811ad945eda1.7z",
         sha256 = "9decb89f1117ee3a88ca8e275d8e7fe61ecea1473aed144568ce105ffed4af05"
     },
+    ["windows-x86-vc141-2227f7b21709462498339291c9f1c38f"] = {
+        sha256 = "3d3c459481c95bae20af6e9e4deff43e9bf6ed3197d633ba191d365678af725c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc141-2227f7b21709462498339291c9f1c38f.7z",
+        toolset = "14.16.27023"
+    },
     ["windows-x86-9853ff91a4f24ab4830fa76b2e52ac9f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-9853ff91a4f24ab4830fa76b2e52ac9f.7z",
         sha256 = "c37c7a9d3963835cfb0f74533e3ac02fcf9ff6237ce2edd7b470279828e3a0f6"
     },
+    ["windows-x64-vc141-efc0df09dbea49d0b67e1f82c3d5ca21"] = {
+        sha256 = "63be724978b408991c9f988fb5e8c7cfa7d5387775cc5c3b5f30f86c60f8ce66",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc141-efc0df09dbea49d0b67e1f82c3d5ca21.7z",
+        toolset = "14.16.27023"
+    },
     ["windows-x86-d07a9115167f41f1b9f47633c8943f0a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-d07a9115167f41f1b9f47633c8943f0a.7z",
         sha256 = "e8f90668ebd897f887bd71cf3a6c3f8fade0b8921bc3e8c463ea89ee67adc420"
+    },
+    ["windows-x86-vc141-4b0a4079852d49928c88811ad945eda1"] = {
+        sha256 = "61c408d0b2260b1cbab0015de157f44c7b108de9333251120647e7a73bebe737",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc141-4b0a4079852d49928c88811ad945eda1.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-832fbd20d0e4481d81367cd571b8c55e"] = {
+        sha256 = "7ecd77ba5a105a8b89c070a4f727a4a1563d24fd70f8d6478a2285c45cac8b08",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc142-832fbd20d0e4481d81367cd571b8c55e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-9853ff91a4f24ab4830fa76b2e52ac9f"] = {
+        sha256 = "8cd8864906e69f4f0ae390536d062e629cc9bed643a0ba654ee83d84d57adad6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc141-9853ff91a4f24ab4830fa76b2e52ac9f.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-94dd6551a6e44a29b5e609c9f6599a8c"] = {
+        sha256 = "d0108f95581760068dcc4cf300e4754680518831a582263411bdbefb05fa6ced",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc142-94dd6551a6e44a29b5e609c9f6599a8c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-d07a9115167f41f1b9f47633c8943f0a"] = {
+        sha256 = "f110d6a34d316104b9f09db2797841061281231c095440c95d76f0690c654ab4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc141-d07a9115167f41f1b9f47633c8943f0a.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-b70bda53adc447cbbbe8489b20a876db"] = {
+        sha256 = "60304f2941ce9b69f7cc67e4c1b058aa40ae0ed40a847367d5b237b6a823dff1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc142-b70bda53adc447cbbbe8489b20a876db.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-2227f7b21709462498339291c9f1c38f"] = {
+        sha256 = "595548d48008ad710f7d9ac9071c2977a83edf24f120bf58b03a59456a5ad5f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc142-2227f7b21709462498339291c9f1c38f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-4b0a4079852d49928c88811ad945eda1"] = {
+        sha256 = "7f906a9e60118875d7833a24da01434956da02283037dab60cef9158e7c1e5d7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc142-4b0a4079852d49928c88811ad945eda1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-efc0df09dbea49d0b67e1f82c3d5ca21"] = {
+        sha256 = "efff697ef221c1687c5bd41fe9458be4c87042780a966d8eaca34380e5b2d7a0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc142-efc0df09dbea49d0b67e1f82c3d5ca21.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-efc0df09dbea49d0b67e1f82c3d5ca21"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-efc0df09dbea49d0b67e1f82c3d5ca21.7z",
+        sha256 = "10453978660b283146656681837d76c33e47ed84fc971543a0b54aba7b11ae57"
+    },
+    ["windows-x64-vc141-832fbd20d0e4481d81367cd571b8c55e"] = {
+        sha256 = "303725a393a6be1f1e72d1b2f6ec6470452c8013b0b96f5d084cdd01fc33acc9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc141-832fbd20d0e4481d81367cd571b8c55e.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-94dd6551a6e44a29b5e609c9f6599a8c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-94dd6551a6e44a29b5e609c9f6599a8c.7z",
+        sha256 = "1b6a98ff2cbf0a23141404989ea7a8e622558b7399678ae30c625e29e2bac234"
+    },
+    ["windows-x86-vc142-9853ff91a4f24ab4830fa76b2e52ac9f"] = {
+        sha256 = "2c88083fddd22912f629f21b581ce08748dd8f695ec7da3878e549e38ffb46d7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc142-9853ff91a4f24ab4830fa76b2e52ac9f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-832fbd20d0e4481d81367cd571b8c55e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-832fbd20d0e4481d81367cd571b8c55e.7z",
+        sha256 = "d45071fb270bf1becc7ea0bc25658692ec895ddb5e91c4bd8e2c142f06bcd155"
+    },
+    ["windows-x64-vc141-94dd6551a6e44a29b5e609c9f6599a8c"] = {
+        sha256 = "74b50a61c3ffe7abc2174bea11bf1cbbdcd812c68bdcd65004e2a984a08a8ff6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-vc141-94dd6551a6e44a29b5e609c9f6599a8c.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-b70bda53adc447cbbbe8489b20a876db"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x64-b70bda53adc447cbbbe8489b20a876db.7z",
+        sha256 = "a1b847cce1b827e12a35213165cc3a264add38b3bda9d457bfc1671dde2e1dc7"
+    },
+    ["windows-x86-vc142-d07a9115167f41f1b9f47633c8943f0a"] = {
+        sha256 = "ba37cc989e9cbffb27d3b8d94a746fb3231bbb652053762fc3abb3e2bca71b67",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-vc142-d07a9115167f41f1b9f47633c8943f0a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-2227f7b21709462498339291c9f1c38f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvorbis-1.3.7/windows-x86-2227f7b21709462498339291c9f1c38f.7z",
+        sha256 = "2a5ee45399afff4c0a420a7632eabc8c9d3e7658f1368100cb27be899df1afe9"
     }
 }
