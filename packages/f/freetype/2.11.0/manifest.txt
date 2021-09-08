@@ -1,82 +1,82 @@
 {
-    ["windows-x86-vc141-1e012cc210184f1ea123ce665bab85dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-1e012cc210184f1ea123ce665bab85dc.7z",
-        toolset = "14.16.27023",
-        sha256 = "0ebd52175ef2711e7ce6b6bcdfb9a2428c127acce69763e8b482c95b6fec906a"
-    },
-    ["windows-x64-vc142-63ce120720854d86910740a35d9d5923"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-63ce120720854d86910740a35d9d5923.7z",
-        toolset = "14.29.30133",
-        sha256 = "72305c569b71416ea7bd86f7e7a06962dbfec8d3e74a9083086a2b89f6082650"
-    },
-    ["windows-x64-vc141-23118d6d34d84dbc881585b0d82cc99d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc141-23118d6d34d84dbc881585b0d82cc99d.7z",
-        toolset = "14.16.27023",
-        sha256 = "84decad267e577dfb5bee9a4432b7e89b8343c72d7010da8bf75cd87a5cee495"
-    },
-    ["windows-x86-vc141-f99c71946a0e466d87247e1a0035f1a7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-f99c71946a0e466d87247e1a0035f1a7.7z",
-        toolset = "14.16.27023",
-        sha256 = "f06c1016ec06396070f9a389b35cf8f0f72f9692ef4ca0b81cd18728e4785c8e"
-    },
-    ["windows-x86-vc142-6fa0f43cb3004e2087aad4b6d478299f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-6fa0f43cb3004e2087aad4b6d478299f.7z",
-        toolset = "14.29.30133",
-        sha256 = "13d77315bb3b9356d9b36568437367f1aed72fe5929469664ef0a8a3768ab15c"
-    },
-    ["windows-x64-vc142-983fc047f5fa4198a808ed5e1e2f3330"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-983fc047f5fa4198a808ed5e1e2f3330.7z",
-        toolset = "14.29.30133",
-        sha256 = "07a29c5494c262a788f62bd80838790f7c1c04904f9fb4535f548e7109454afa"
-    },
     ["windows-x64-vc141-20ca3d48083b48ea91eddb2458448f94"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc141-20ca3d48083b48ea91eddb2458448f94.7z",
-        toolset = "14.16.27023",
-        sha256 = "9725a75188e40d1d1cf8e8da65dea9de619511f95c4178efbe488f01cafa57c8"
-    },
-    ["windows-x86-vc142-f99c71946a0e466d87247e1a0035f1a7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-f99c71946a0e466d87247e1a0035f1a7.7z",
-        toolset = "14.29.30133",
-        sha256 = "c76e09d3dba928907f3859290c01abbcb4d8093cb4e431a8c89634f81009e992"
+        sha256 = "d046ac6f1dc14fd6535a53b79dbea99007380eb54af858e88a9e25707b2bb34e",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc141-63ce120720854d86910740a35d9d5923"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc141-63ce120720854d86910740a35d9d5923.7z",
-        toolset = "14.16.27023",
-        sha256 = "6dd346342741d2675a754dcff7735bcee18ce79da0bd352e19561bb6738886b1"
-    },
-    ["windows-x64-vc142-23118d6d34d84dbc881585b0d82cc99d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-23118d6d34d84dbc881585b0d82cc99d.7z",
-        toolset = "14.29.30133",
-        sha256 = "fc78598a0b8336c3934f552f74a70bb8e6bfe1067b018480451dde3db48332e2"
-    },
-    ["windows-x64-vc141-983fc047f5fa4198a808ed5e1e2f3330"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc141-983fc047f5fa4198a808ed5e1e2f3330.7z",
-        toolset = "14.16.27023",
-        sha256 = "d54a6c723bd542cfc9c6a72bed23a02bc67b399abd0b3ce80f2d9ea506460c62"
-    },
-    ["windows-x86-vc141-6fa0f43cb3004e2087aad4b6d478299f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-6fa0f43cb3004e2087aad4b6d478299f.7z",
-        toolset = "14.16.27023",
-        sha256 = "857a57004985366a063a54497d575fc4c68073390ce3c016c3aaf255e0f1b15a"
-    },
-    ["windows-x86-vc141-1d4d061e025346dda3fe69ce71c2f732"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-1d4d061e025346dda3fe69ce71c2f732.7z",
-        toolset = "14.16.27023",
-        sha256 = "7a437b4771c74c5a00626d0903870fc2fe70a2829ffa6f3a8e43e9e4e1d004d9"
-    },
-    ["windows-x86-vc142-1e012cc210184f1ea123ce665bab85dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-1e012cc210184f1ea123ce665bab85dc.7z",
-        toolset = "14.29.30133",
-        sha256 = "51d32646fc5667720eb286ada600766b35f5a9ff303e760c0192dce8e41d4abc"
-    },
-    ["windows-x86-vc142-1d4d061e025346dda3fe69ce71c2f732"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-1d4d061e025346dda3fe69ce71c2f732.7z",
-        toolset = "14.29.30133",
-        sha256 = "e851c15a8f6289c9b9fb2f4a3434b4f5b4c88a8529689565e2ddf2cd425d14de"
+        sha256 = "01f34c9608389cc2ba098ea9029f5c56da488e5d7ad474c435d3c391520a5dca",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc142-20ca3d48083b48ea91eddb2458448f94"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-20ca3d48083b48ea91eddb2458448f94.7z",
-        toolset = "14.29.30133",
-        sha256 = "5ff419fad122b8e43f32f35a1d676a9c4bae311f29c3adc64ac52ec998e54527"
+        sha256 = "31c4bf031ece129636f65ddb1df20bf38404c4ccd156a8871b612b2906954e0b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-983fc047f5fa4198a808ed5e1e2f3330"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-983fc047f5fa4198a808ed5e1e2f3330.7z",
+        sha256 = "2e2d6ee786af3628da5c99c62decf862ba3f088648e767b64a342c565233f660",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-1e012cc210184f1ea123ce665bab85dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-1e012cc210184f1ea123ce665bab85dc.7z",
+        sha256 = "1760f15c1c663d9900d3c796295624f58408a4cebb7f48c0fbec5dcdb0493763",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-23118d6d34d84dbc881585b0d82cc99d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-23118d6d34d84dbc881585b0d82cc99d.7z",
+        sha256 = "8e53ca1ec53d791158681f6b655f98e846c105160e8d2be2c772a9952164e31c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-63ce120720854d86910740a35d9d5923"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc142-63ce120720854d86910740a35d9d5923.7z",
+        sha256 = "93c8f99ca50f10dd9fc2d0e49e9620e24d356639b5467295e182e4ac0e997895",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-6fa0f43cb3004e2087aad4b6d478299f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-6fa0f43cb3004e2087aad4b6d478299f.7z",
+        sha256 = "733c420d369eca14b63d0163c16e322c54ff30881336f7e704bfd8ae81157221",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-23118d6d34d84dbc881585b0d82cc99d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc141-23118d6d34d84dbc881585b0d82cc99d.7z",
+        sha256 = "f6b9614438d982e85a781cd6fb489d10561a03cba5648b05437b1f0d61e10067",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-983fc047f5fa4198a808ed5e1e2f3330"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x64-vc141-983fc047f5fa4198a808ed5e1e2f3330.7z",
+        sha256 = "dd1f78cf133406bf5c1999d951bb9a77f46675ab29c0194704bd10dc4c738286",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-6fa0f43cb3004e2087aad4b6d478299f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-6fa0f43cb3004e2087aad4b6d478299f.7z",
+        sha256 = "501686c2ac716e8c744776f9e7b58d2d923987c8e0b30c945549baf8a095c84a",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-f99c71946a0e466d87247e1a0035f1a7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-f99c71946a0e466d87247e1a0035f1a7.7z",
+        sha256 = "559108861199ca8482db74476a862ffee9f99c22ff47d8f4bf6e7c32463ec8a8",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-1d4d061e025346dda3fe69ce71c2f732"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc141-1d4d061e025346dda3fe69ce71c2f732.7z",
+        sha256 = "34b9108a3b7d608f47208f1684d71b9825aebcd75e35d9642479e6037585bde2",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-1d4d061e025346dda3fe69ce71c2f732"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-1d4d061e025346dda3fe69ce71c2f732.7z",
+        sha256 = "a9819e6ddc61e74400ba50709961e5522245a2e506a947ca94976cfbefaf3d69",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-1e012cc210184f1ea123ce665bab85dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-1e012cc210184f1ea123ce665bab85dc.7z",
+        sha256 = "400ab70106ac54309c291a124241b1da21eb534d2e44f5297e719132083cef56",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-f99c71946a0e466d87247e1a0035f1a7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freetype-2.11.0/windows-x86-vc142-f99c71946a0e466d87247e1a0035f1a7.7z",
+        sha256 = "5c220ce675b9644daeea0764d2ee7b40ec18f0c8d348493053c2046b177d43db",
+        toolset = "14.29.30133"
     }
 }
