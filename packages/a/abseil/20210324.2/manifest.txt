@@ -1,82 +1,82 @@
 {
-    ["windows-x86-vc142-ff50b22ffc744b7a81cb445d30ba8cbd"] = {
-        toolset = "14.29.30037",
-        sha256 = "d4264fc23c1608631d0ff7ed3bb6a4c1cced0884436f22d06b2c09c14bb1d41a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-ff50b22ffc744b7a81cb445d30ba8cbd.7z"
-    },
-    ["windows-x86-vc141-ff50b22ffc744b7a81cb445d30ba8cbd"] = {
-        toolset = "14.16.27023",
-        sha256 = "14c476f5baa8c885cf4700d23ec9a5a9b552d918b5bd66d477e2b77b3c57a553",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-ff50b22ffc744b7a81cb445d30ba8cbd.7z"
-    },
     ["windows-x86-vc141-552db322ee0e409da33f99e9807ef884"] = {
         toolset = "14.16.27023",
-        sha256 = "6e2d73e953062fb2623b9e5af96e1924ebee11ecd4c9299a372efcbdf2eac680",
+        sha256 = "5baad6795fca21686477dc77f70a511359836e72997b48585290d6d34c927903",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-552db322ee0e409da33f99e9807ef884.7z"
+    },
+    ["windows-x86-vc142-72a1f321a2804d56b2ceb8ad7c25880e"] = {
+        toolset = "14.29.30133",
+        sha256 = "acf7a2e9e9474679a0f8a00eb761589f2e415cf34a96b7c3c4be9e2c3ca9e842",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-72a1f321a2804d56b2ceb8ad7c25880e.7z"
     },
     ["windows-x64-vc141-4f09f347d8d5413eb8258768a5260304"] = {
         toolset = "14.16.27023",
-        sha256 = "dad6773c0b4afac1e64471a28d51dc397c6e9a24096ce984f1e677dc878157b4",
+        sha256 = "689d55491486c18cf616e15070b575bd4fcc5a1747e643ad9989feecd9b47d3d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc141-4f09f347d8d5413eb8258768a5260304.7z"
     },
-    ["windows-x64-vc142-a2f53b9d2a274c23b4c552d05ce0fde2"] = {
-        toolset = "14.29.30037",
-        sha256 = "0b8f156be8afd3050416dac45dabc314955cedbfc0a20fc15fd17933d4505f93",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-a2f53b9d2a274c23b4c552d05ce0fde2.7z"
-    },
-    ["windows-x86-vc142-552db322ee0e409da33f99e9807ef884"] = {
-        toolset = "14.29.30037",
-        sha256 = "36228d6bf3dbda4dc4adbb8783e083dcfd7241a1c2c5ee2494362eb85ec4da33",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-552db322ee0e409da33f99e9807ef884.7z"
-    },
-    ["windows-x64-vc142-4f09f347d8d5413eb8258768a5260304"] = {
-        toolset = "14.29.30037",
-        sha256 = "52aea7000c807c52774efafdce08ed0c37e8fb4ba46d231788762d35ee5c573d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-4f09f347d8d5413eb8258768a5260304.7z"
-    },
-    ["windows-x64-vc141-81de9b7e269b45d69696f913f8510198"] = {
-        toolset = "14.16.27023",
-        sha256 = "26ccaeae395c4f2623de2764ec5a8966d9513c5cdb7b57e23f51d5481e2897f1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc141-81de9b7e269b45d69696f913f8510198.7z"
-    },
-    ["windows-x64-vc142-81de9b7e269b45d69696f913f8510198"] = {
-        toolset = "14.29.30037",
-        sha256 = "133c783be790433fb99ef9b4303f8e51b7e95a0674683761c65e0fdfbddcb2b1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-81de9b7e269b45d69696f913f8510198.7z"
-    },
-    ["windows-x86-vc142-72a1f321a2804d56b2ceb8ad7c25880e"] = {
-        toolset = "14.29.30037",
-        sha256 = "4972357a527b790ba10cccc46195ec4cc827ea063ab1c05553129317451d0407",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-72a1f321a2804d56b2ceb8ad7c25880e.7z"
-    },
-    ["windows-x86-vc141-72a1f321a2804d56b2ceb8ad7c25880e"] = {
-        toolset = "14.16.27023",
-        sha256 = "32edb9a77b698ec5327769d2dd90728a77064ec3e5936a8eefa04703986a257a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-72a1f321a2804d56b2ceb8ad7c25880e.7z"
-    },
-    ["windows-x64-vc141-a2f53b9d2a274c23b4c552d05ce0fde2"] = {
-        toolset = "14.16.27023",
-        sha256 = "4a813d771401608f9e86823c7f5bcf9155715b700aa3eb33c155b4f06df683ad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc141-a2f53b9d2a274c23b4c552d05ce0fde2.7z"
-    },
-    ["windows-x86-vc141-a77df3df158541d399e5c111d27edc6f"] = {
-        toolset = "14.16.27023",
-        sha256 = "e9a23d5550667879fc60a8848f90ede9f9440b74d00d320e1d2408ba70f41246",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-a77df3df158541d399e5c111d27edc6f.7z"
-    },
     ["windows-x86-vc142-a77df3df158541d399e5c111d27edc6f"] = {
-        toolset = "14.29.30037",
-        sha256 = "52d7e16d791e28bcc19359b8f4abf80a8be2615e2103d1b19c3ef30bc57abc60",
+        toolset = "14.29.30133",
+        sha256 = "90297b87db6159cef10c08829067aec66c8079cbdcf5fc3a69f02de5a5a4dd53",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-a77df3df158541d399e5c111d27edc6f.7z"
+    },
+    ["windows-x64-vc142-a2f53b9d2a274c23b4c552d05ce0fde2"] = {
+        toolset = "14.29.30133",
+        sha256 = "f7a4d1a942299a618504a9df5873bd2ce33ad758c662e5905ea71a6b17af21fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-a2f53b9d2a274c23b4c552d05ce0fde2.7z"
     },
     ["windows-x64-vc141-30af5732ed554c7db58fae263e808850"] = {
         toolset = "14.16.27023",
-        sha256 = "feff70d09014b35105ba7c46788ab1df787642ee0400d9acef210d73ca038b1c",
+        sha256 = "c0d25dade2610eaa22c9c83e92f0454c4206de211d252f0f08029fdbdb51aecc",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc141-30af5732ed554c7db58fae263e808850.7z"
     },
+    ["windows-x86-vc142-552db322ee0e409da33f99e9807ef884"] = {
+        toolset = "14.29.30133",
+        sha256 = "153aff7931665d68c94137442ae3155d88d006e53509b7ab3a395e0a8b24876c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-552db322ee0e409da33f99e9807ef884.7z"
+    },
     ["windows-x64-vc142-30af5732ed554c7db58fae263e808850"] = {
-        toolset = "14.29.30037",
-        sha256 = "96adbc41bfa9defdaed176f1175a68b7cf1cf7b942930a118e240d3646cd298b",
+        toolset = "14.29.30133",
+        sha256 = "c7f350cd8ecf1f99f82fac2ab59ce70a1fa2a4b4466f1606662322206fc1384c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-30af5732ed554c7db58fae263e808850.7z"
+    },
+    ["windows-x64-vc142-4f09f347d8d5413eb8258768a5260304"] = {
+        toolset = "14.29.30133",
+        sha256 = "b46fcf1d8c446a15e311599e3ee10c21ec0833251ffd05f3d3b66d33bd91ee57",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-4f09f347d8d5413eb8258768a5260304.7z"
+    },
+    ["windows-x86-vc141-72a1f321a2804d56b2ceb8ad7c25880e"] = {
+        toolset = "14.16.27023",
+        sha256 = "f85b86ffb6a5948c4c5f36e1ba973b865bc9795e22efdcf8cbc559c1c665644b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-72a1f321a2804d56b2ceb8ad7c25880e.7z"
+    },
+    ["windows-x64-vc141-81de9b7e269b45d69696f913f8510198"] = {
+        toolset = "14.16.27023",
+        sha256 = "093ab8a9a9c0a6a66783bc8066796907359d13fc8dda653339dc06a848a590ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc141-81de9b7e269b45d69696f913f8510198.7z"
+    },
+    ["windows-x86-vc142-ff50b22ffc744b7a81cb445d30ba8cbd"] = {
+        toolset = "14.29.30133",
+        sha256 = "2e28ee797972028ea9b6507066dac3b98603a4c73b7e553f6f8c7f03406bb44e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc142-ff50b22ffc744b7a81cb445d30ba8cbd.7z"
+    },
+    ["windows-x64-vc142-81de9b7e269b45d69696f913f8510198"] = {
+        toolset = "14.29.30133",
+        sha256 = "5d4ba2cad04fb8651bdfa1d503661a0f3b543ee4f41846f8a8e4c67b1e6fb4f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc142-81de9b7e269b45d69696f913f8510198.7z"
+    },
+    ["windows-x64-vc141-a2f53b9d2a274c23b4c552d05ce0fde2"] = {
+        toolset = "14.16.27023",
+        sha256 = "ba7bdf4b099ad798ba9671c79b21cb927fcc675bfa14c3d7761a4c2c2affec40",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x64-vc141-a2f53b9d2a274c23b4c552d05ce0fde2.7z"
+    },
+    ["windows-x86-vc141-ff50b22ffc744b7a81cb445d30ba8cbd"] = {
+        toolset = "14.16.27023",
+        sha256 = "3926cbc03050e985661e1ca1d099be8058a0a4ff37cfd5b642b79f404d745e96",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-ff50b22ffc744b7a81cb445d30ba8cbd.7z"
+    },
+    ["windows-x86-vc141-a77df3df158541d399e5c111d27edc6f"] = {
+        toolset = "14.16.27023",
+        sha256 = "9bfffd76edb59f07c9dee3b9c956d03ecbe3bbf12b3af0c6f606a77c596f6d36",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/abseil-20210324.2/windows-x86-vc141-a77df3df158541d399e5c111d27edc6f.7z"
     }
 }
