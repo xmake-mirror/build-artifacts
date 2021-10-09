@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc141-0e12c0f7e1cc49b7b7f33778f5f02952"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-0e12c0f7e1cc49b7b7f33778f5f02952.7z",
-        sha256 = "a34e9c1e7ce54c006864f9e4a31d47ee1949405bd6d7e88235b37e5241c84b1f",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-0e12c0f7e1cc49b7b7f33778f5f02952"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-0e12c0f7e1cc49b7b7f33778f5f02952.7z",
-        sha256 = "71657b7490a6ec44adbf780c8c19a3ae8ef343a046387822d1eed54f44a32866",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-ccd43df06f2347af8528e62971b78d89"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-ccd43df06f2347af8528e62971b78d89.7z",
-        sha256 = "a050bb5fd49c8d4514caadf068c485830ae5c5ce33b7529795330d4a1fca5a36",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc141-7454ea782dc64f0fa10e850044fd0698"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-7454ea782dc64f0fa10e850044fd0698.7z",
         sha256 = "f4150a50b882051f995b92722cf367f9a615ec3de7b4602a815a4b579de881d8",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-7454ea782dc64f0fa10e850044fd0698.7z"
+    },
+    ["windows-x64-vc141-7827e7d92c6a44fe81c41503bd56059c"] = {
+        sha256 = "7eb047a07a017880d467a898915a109dcd9e08d9ea43b9e6716f96c38faa0713",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-7827e7d92c6a44fe81c41503bd56059c.7z"
     },
     ["windows-x64-vc142-fd6d5546eccf49b7ba942d4b855ab76c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-fd6d5546eccf49b7ba942d4b855ab76c.7z",
         sha256 = "f7a33f9808543262de94fb266a83d1a3e132487cee8d8620ba532f16a4d204ba",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-fd6d5546eccf49b7ba942d4b855ab76c.7z"
+    },
+    ["windows-x64-vc142-ccd43df06f2347af8528e62971b78d89"] = {
+        sha256 = "a050bb5fd49c8d4514caadf068c485830ae5c5ce33b7529795330d4a1fca5a36",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-ccd43df06f2347af8528e62971b78d89.7z"
+    },
+    ["windows-x86-vc142-d324a327e348477ca73d147f386944ef"] = {
+        sha256 = "801daac15cf400d5bee00652662084a98d80c27fe0116076d4eb8f67fe2542b2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-d324a327e348477ca73d147f386944ef.7z"
     },
     ["windows-x64-vc142-7454ea782dc64f0fa10e850044fd0698"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-7454ea782dc64f0fa10e850044fd0698.7z",
         sha256 = "b21af0c3886f076a987ba0490f2d15b4eb26e4345d1c4d76c2e77cac38b1f72d",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-7454ea782dc64f0fa10e850044fd0698.7z"
+    },
+    ["windows-x64-vc142-28bd2f747bd94a3abdcfef5bb6d24187"] = {
+        sha256 = "c8765fac12eb523ea4d85af2c3fcbe35f95189759e584ce217aff3c12f3e7f88",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-28bd2f747bd94a3abdcfef5bb6d24187.7z"
     },
     ["windows-x64-vc141-fd6d5546eccf49b7ba942d4b855ab76c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-fd6d5546eccf49b7ba942d4b855ab76c.7z",
         sha256 = "3a190310d1d71d15bda0776cfcd1c89b6cb8d40ff8e04f941979780c41fbcc11",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-fd6d5546eccf49b7ba942d4b855ab76c.7z"
+    },
+    ["windows-x86-vc142-d4abbb8bd94347d485d711067571a747"] = {
+        sha256 = "21c9cfe464803943cc85dad23fd3c81807651b908aae48302e4b1b4cc6c55c5d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-d4abbb8bd94347d485d711067571a747.7z"
     },
     ["windows-x86-vc142-c0e35e152ec2427fbfb13ac2a95db70d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-c0e35e152ec2427fbfb13ac2a95db70d.7z",
         sha256 = "1c2402f3ddb23de0b14bf40b8815bbf4747c53309211b1b621925d82dc08642b",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-c0e35e152ec2427fbfb13ac2a95db70d.7z"
+    },
+    ["windows-x64-vc142-44d26ff045b248a7a8fbe9ab49c25a46"] = {
+        sha256 = "20d75a885140c72e54768772d519606b52810950fe69f30f0924a1ca58487b0f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-44d26ff045b248a7a8fbe9ab49c25a46.7z"
     },
     ["windows-x64-vc141-ccd43df06f2347af8528e62971b78d89"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-ccd43df06f2347af8528e62971b78d89.7z",
         sha256 = "b8a44e321e2d9b10e30c5425b23e31c97ba077aedfd2aec79ab8512c8065d4ba",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-ccd43df06f2347af8528e62971b78d89.7z"
+    },
+    ["windows-x86-vc141-d324a327e348477ca73d147f386944ef"] = {
+        sha256 = "63e80eb2dee199cba1b1fae555405bec15eb83dcf8a6f6e657e77fbc304affba",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-d324a327e348477ca73d147f386944ef.7z"
     },
     ["windows-x86-vc141-c0e35e152ec2427fbfb13ac2a95db70d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-c0e35e152ec2427fbfb13ac2a95db70d.7z",
         sha256 = "8334880451fd6f9500b65770fa4668a31b40554955e352a1ec72aeed26c3d391",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-c0e35e152ec2427fbfb13ac2a95db70d.7z"
+    },
+    ["windows-x64-vc141-28bd2f747bd94a3abdcfef5bb6d24187"] = {
+        sha256 = "c5b504a19ffd1bad1525ffa333b409a000abba8070c1373d0a5832cececb1b2e",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-28bd2f747bd94a3abdcfef5bb6d24187.7z"
     },
     ["windows-x86-vc141-5974fbf94b4a414da4b6e4a5863f93d9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-5974fbf94b4a414da4b6e4a5863f93d9.7z",
         sha256 = "b790d1db00f8817722513bca69a601a60c3343b164291cbac5260c895849bf4f",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-5974fbf94b4a414da4b6e4a5863f93d9.7z"
+    },
+    ["windows-x64-vc142-4a806098aed94fc7ad939a47bcf1a710"] = {
+        sha256 = "5ea72d12471b9ce28bbd7257c4e2a9fd36148eed51ee65ced7b330d75cd145f0",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-4a806098aed94fc7ad939a47bcf1a710.7z"
     },
     ["windows-x86-vc142-fc526221a6594810b6504d5c4589bcac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-fc526221a6594810b6504d5c4589bcac.7z",
         sha256 = "4616297d1e9c6f33216c2b76167f43fddec91a940263234f9f1ab23cde103eb2",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-fc526221a6594810b6504d5c4589bcac.7z"
+    },
+    ["windows-x64-vc141-44d26ff045b248a7a8fbe9ab49c25a46"] = {
+        sha256 = "fff853233a26c57f0290be1c26d72a79d4f67cad3c60c0835fb869b57b90bf7c",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-44d26ff045b248a7a8fbe9ab49c25a46.7z"
     },
     ["windows-x86-vc142-5974fbf94b4a414da4b6e4a5863f93d9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-5974fbf94b4a414da4b6e4a5863f93d9.7z",
         sha256 = "6ece84e39a48b8b12dcf1673dadd2d49a5879ec37ae5d310ceec20889ce4388c",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-5974fbf94b4a414da4b6e4a5863f93d9.7z"
+    },
+    ["windows-x64-vc142-7827e7d92c6a44fe81c41503bd56059c"] = {
+        sha256 = "0ea70002670e97c8ca85e85cea8b3b677e583b364ce241cd0c7ffbbecbc8d53c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-7827e7d92c6a44fe81c41503bd56059c.7z"
     },
     ["windows-x86-vc141-fc526221a6594810b6504d5c4589bcac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-fc526221a6594810b6504d5c4589bcac.7z",
         sha256 = "2211db047d4831b7a7aa4e3434ea98c0582607bd1986fc599a6d28afe1cd0402",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-fc526221a6594810b6504d5c4589bcac.7z"
+    },
+    ["windows-x86-vc142-1848daf3ddbd4fc7bef886fa105d916b"] = {
+        sha256 = "e1848639973a0ecceb69f197fad22dfa555bac32368dcc932aea8a2f38821921",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-1848daf3ddbd4fc7bef886fa105d916b.7z"
     },
     ["windows-x86-vc142-5164d72bc20e4db79013d0b8750733e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-5164d72bc20e4db79013d0b8750733e4.7z",
         sha256 = "ff1a86054a9e8b0bdd622b986c9cd11e7707e009b9ffd62f5b8a667ca3f0dabc",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-5164d72bc20e4db79013d0b8750733e4.7z"
+    },
+    ["windows-x86-vc141-8c17e48f0396460e85fe00cac9ed494a"] = {
+        sha256 = "50c8e02be9587d5bdf664adceece4aee7a1a70b93000b84513375e2fcc5773ae",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-8c17e48f0396460e85fe00cac9ed494a.7z"
     },
     ["windows-x86-vc141-5164d72bc20e4db79013d0b8750733e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-5164d72bc20e4db79013d0b8750733e4.7z",
         sha256 = "195df216cda22a897b85f73911da07ac685a6046a78ac0339683d09743d0002e",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-5164d72bc20e4db79013d0b8750733e4.7z"
+    },
+    ["windows-x64-vc141-0e12c0f7e1cc49b7b7f33778f5f02952"] = {
+        sha256 = "a34e9c1e7ce54c006864f9e4a31d47ee1949405bd6d7e88235b37e5241c84b1f",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-0e12c0f7e1cc49b7b7f33778f5f02952.7z"
+    },
+    ["windows-x86-vc141-1848daf3ddbd4fc7bef886fa105d916b"] = {
+        sha256 = "f2adb1cdd42fa19b000e71803bd274e6732a73e3679e7f9c3c1558bb1f682428",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-1848daf3ddbd4fc7bef886fa105d916b.7z"
+    },
+    ["windows-x64-vc142-0e12c0f7e1cc49b7b7f33778f5f02952"] = {
+        sha256 = "71657b7490a6ec44adbf780c8c19a3ae8ef343a046387822d1eed54f44a32866",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc142-0e12c0f7e1cc49b7b7f33778f5f02952.7z"
+    },
+    ["windows-x64-vc141-4a806098aed94fc7ad939a47bcf1a710"] = {
+        sha256 = "7cd61d1610c526805ef7a2f7c378980f93d8f624e0314b6eb41a3c14265d961a",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x64-vc141-4a806098aed94fc7ad939a47bcf1a710.7z"
+    },
+    ["windows-x86-vc142-8c17e48f0396460e85fe00cac9ed494a"] = {
+        sha256 = "97ee8c38f490670ffb11d4e8c496e9abe0109d10ac560091bb6245f8a6b19b2e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc142-8c17e48f0396460e85fe00cac9ed494a.7z"
+    },
+    ["windows-x86-vc141-d4abbb8bd94347d485d711067571a747"] = {
+        sha256 = "2b41b23b71f2d37450453038a788e427aeab38adb6034b170eaf038dadd032e3",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-2.9.12/windows-x86-vc141-d4abbb8bd94347d485d711067571a747.7z"
     }
 }
