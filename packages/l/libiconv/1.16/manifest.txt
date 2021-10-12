@@ -1,82 +1,82 @@
 {
-    ["windows-x86-vc141-ea3e2139aebb4f1087b1f1a9f7c8f50d"] = {
-        sha256 = "b2f756b51a907a2dd0882da13333b3fe25d575c8f422d4933d722a477bcc7030",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-ea3e2139aebb4f1087b1f1a9f7c8f50d.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-dfc9c7201e9f4c7e9a97fb57e09d47b6"] = {
-        sha256 = "9e61df65b7f353e226253bf45f4be2d709156f984964a0fa3d0a5f9ef0c91f6b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc142-dfc9c7201e9f4c7e9a97fb57e09d47b6.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc141-dfc9c7201e9f4c7e9a97fb57e09d47b6"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-dfc9c7201e9f4c7e9a97fb57e09d47b6.7z",
+        sha256 = "6b1b6d133c2e1a0250ecbd800f6c3bdde952920d6cdfa6953ee1fc9842867ffd"
     },
     ["windows-x64-vc141-f3764a34c18f4448881fe60ce57699c4"] = {
-        sha256 = "edac2839f8de1219f8c372456b54251990cef9ce73d4d012c3fecc31a9f29303",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc141-f3764a34c18f4448881fe60ce57699c4.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-2f1ba90e82414febbd21829313968a5a"] = {
-        sha256 = "79d451d05ab56c8fe65616c52e37b2654781ffa75c157d2a938b2d402c6f58c3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc141-2f1ba90e82414febbd21829313968a5a.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-150908c31299432995b65cd5ed585fbf"] = {
-        sha256 = "68fb8e8a6885d140e674fb23fe0373bfb8416839c8c0eae14b97bad27c7d2fc1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc141-150908c31299432995b65cd5ed585fbf.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-3a11451584a44cfe97ba1f4f1f646955"] = {
-        sha256 = "fbadd4c0b96604554ed5010147889f42261d8b8a23448b30f8649635c8c76aeb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-3a11451584a44cfe97ba1f4f1f646955.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-2f1ba90e82414febbd21829313968a5a"] = {
-        sha256 = "10b1a9d7e1bbba6eb502727ef8469575a6185d486c3c8966da7e232368825833",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-2f1ba90e82414febbd21829313968a5a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-f3764a34c18f4448881fe60ce57699c4"] = {
-        sha256 = "0ed169369004d7bf0dd1b6552c1b423ac89e0a73be1c6c4a76b2858a6a0cb815",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-f3764a34c18f4448881fe60ce57699c4.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-08542e4dc15f4fb0928afde56c1399fd"] = {
-        sha256 = "14df0fc8fa22acd69f17c75194e00b239d034894b0ee04b809ca1bb57d6da886",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-08542e4dc15f4fb0928afde56c1399fd.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-37e47399b0154400b0e0abc21300c61d"] = {
-        sha256 = "efbab12be8bb46c4da3a1de5be96cca9829cc5d8efb157012a78b6c4eab76804",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-37e47399b0154400b0e0abc21300c61d.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-dfc9c7201e9f4c7e9a97fb57e09d47b6"] = {
-        sha256 = "2998d9df6214e7cc40b0d0bd51c8fa674b7969b31e6c2609ce11266f4f019dd3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-dfc9c7201e9f4c7e9a97fb57e09d47b6.7z",
-        toolset = "14.16.27023"
+        sha256 = "edd956289e88ae4196625663ad0af42bdad46db57e535ee20eef0a4e7c6850e5"
     },
     ["windows-x86-vc142-08542e4dc15f4fb0928afde56c1399fd"] = {
-        sha256 = "e2ffa2a527bea6c4e3cef07c0b27b760013edcef31231826defca39cba306dd1",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc142-08542e4dc15f4fb0928afde56c1399fd.7z",
-        toolset = "14.29.30133"
+        sha256 = "bcccea508f077a6c71bffc58bc89422396c10125e5135a57f079d60895f10398"
+    },
+    ["windows-x86-vc141-ea3e2139aebb4f1087b1f1a9f7c8f50d"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-ea3e2139aebb4f1087b1f1a9f7c8f50d.7z",
+        sha256 = "5d44bcdbf7c14bf9e462da88376794976c55488e7212cdc687c73a32e811b9cf"
+    },
+    ["windows-x64-vc142-2f1ba90e82414febbd21829313968a5a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-2f1ba90e82414febbd21829313968a5a.7z",
+        sha256 = "7cd322dc655275d47c38f1b0cf4bafa9ff08176eaf004dee2303c84e6e8c7950"
+    },
+    ["windows-x86-vc141-08542e4dc15f4fb0928afde56c1399fd"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-08542e4dc15f4fb0928afde56c1399fd.7z",
+        sha256 = "f4b99ed2624c8db02dbb167f68269cd2416c69f058366fa6265e50afaf264d9e"
+    },
+    ["windows-x64-vc141-2f1ba90e82414febbd21829313968a5a"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc141-2f1ba90e82414febbd21829313968a5a.7z",
+        sha256 = "995ef89b8eda393e2e311742637dcca8c7f7115134612150c5d8a9a44b579862"
+    },
+    ["windows-x64-vc142-3a11451584a44cfe97ba1f4f1f646955"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-3a11451584a44cfe97ba1f4f1f646955.7z",
+        sha256 = "fd58c4164f79420fe937247999e2a0c41a8d4d91dcfa2a0f9c49c99a341d735d"
+    },
+    ["windows-x64-vc141-150908c31299432995b65cd5ed585fbf"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc141-150908c31299432995b65cd5ed585fbf.7z",
+        sha256 = "ff529a9dc218f15949a0ed455a3c2fc6a9c970eae75a2292e35773f279dd57be"
     },
     ["windows-x64-vc141-3a11451584a44cfe97ba1f4f1f646955"] = {
-        sha256 = "89a9fe3b06601ab2903146dde0dd3cd543777a6fc37809b7400abd02c5431df3",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc141-3a11451584a44cfe97ba1f4f1f646955.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-150908c31299432995b65cd5ed585fbf"] = {
-        sha256 = "fdbcf061b2f53f340629c95a7d19c20a448b16867fe77a062235a6d30bf6224a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-150908c31299432995b65cd5ed585fbf.7z",
-        toolset = "14.29.30133"
+        sha256 = "20d0bd4456e6a048a3561bb55a9ab41ff6631a50e7162175c493ce4ca43ab1dc"
     },
     ["windows-x86-vc142-37e47399b0154400b0e0abc21300c61d"] = {
-        sha256 = "c2a8b193a506f00ec74b3977d160ede83b03cb5fb17be47a72e43b60b8dbde03",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc142-37e47399b0154400b0e0abc21300c61d.7z",
-        toolset = "14.29.30133"
+        sha256 = "c22900ac9de62f5b2fbbacb64aa85eca2067366ee1270444245508b0036632d6"
+    },
+    ["windows-x86-vc142-dfc9c7201e9f4c7e9a97fb57e09d47b6"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc142-dfc9c7201e9f4c7e9a97fb57e09d47b6.7z",
+        sha256 = "ca4b13951a2b32a4595b39baeec68caafbaacd3b30e9757ba3a50aced2d456c7"
+    },
+    ["windows-x64-vc142-f3764a34c18f4448881fe60ce57699c4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-f3764a34c18f4448881fe60ce57699c4.7z",
+        sha256 = "793a59609314bc56922db2ebcd2d3402cedd3b64d19752b9064e00f74f7ab749"
+    },
+    ["windows-x86-vc141-37e47399b0154400b0e0abc21300c61d"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc141-37e47399b0154400b0e0abc21300c61d.7z",
+        sha256 = "459234e8844a8bdb8ec1a7d59cc5f7ca7c3e3cdf5312f0b062d04b83c96f5546"
+    },
+    ["windows-x64-vc142-150908c31299432995b65cd5ed585fbf"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x64-vc142-150908c31299432995b65cd5ed585fbf.7z",
+        sha256 = "dbdcfabf65b01205fb22ff0378ddd3930109b54f7c80c0ecb83e2bde66b7a29c"
     },
     ["windows-x86-vc142-ea3e2139aebb4f1087b1f1a9f7c8f50d"] = {
-        sha256 = "c9ef9cf857623264b889c0ea953fa17c8535bb21494943a4e8ec9051680db768",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libiconv-1.16/windows-x86-vc142-ea3e2139aebb4f1087b1f1a9f7c8f50d.7z",
-        toolset = "14.29.30133"
+        sha256 = "144aa7f1bf5be420157d4929723854659c2aa298412a205e207691878a31937a"
     }
 }
