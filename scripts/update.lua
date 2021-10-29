@@ -45,7 +45,7 @@ function main()
             return
         end
         local trycount = 0
-        while trycount < 2 do
+        while trycount < 3 do
             local ok = try
             {
                 function ()
@@ -61,7 +61,10 @@ function main()
                 end,
                 catch
                 {
-                    function ()
+                    function (errors)
+                        if errors then
+                            print(tostring(errors))
+                        end
                         os.exec("git reset --hard HEAD^")
                         os.exec("git pull origin main")
                     end
@@ -72,6 +75,6 @@ function main()
             end
             trycount = trycount + 1
         end
-        assert(trycount < 2)
+        assert(trycount < 3, "push manifest failed!")
     end
 end
