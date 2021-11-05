@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc141-2ab91d7c45a24fdaa735b8ce6f74c004"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-2ab91d7c45a24fdaa735b8ce6f74c004.7z",
-        sha256 = "187c852b35cdb92a499c3321ff714fbc042dddd4d3d10f2b36ccc5ee872174ac",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-b5da6237b31846b78d7eb3f886f0e186"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-b5da6237b31846b78d7eb3f886f0e186.7z",
-        sha256 = "2bbb2d89a539a90fec4feaaa9b3daaa2e78a7ddd73edcb636789e63f9b97971a",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-3c26fa77d01143b6b41c228e7bb10c7e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-3c26fa77d01143b6b41c228e7bb10c7e.7z",
-        sha256 = "416b75d5d9d22bc8fa0b987323c281a70f9e4a63bdc7258fe68b92d58e169a1d",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-b5da6237b31846b78d7eb3f886f0e186"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-b5da6237b31846b78d7eb3f886f0e186.7z",
-        sha256 = "8100df83c95e106f8384530a7d19a1cc16f41d631f3cabb469f68a7d5021873e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-8a840000fd5342098f2eaeb61870eb80"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-8a840000fd5342098f2eaeb61870eb80.7z",
-        sha256 = "364589f2fe3180e3b3579fbea99721134365d7e272cb9befca55f18f7d6f2371",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-e7f782f2a5614e9687d54d4b18a7d688"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-e7f782f2a5614e9687d54d4b18a7d688.7z",
-        sha256 = "9ecfe0000a5dcbc48d43dc5f64c09ee11c0a8ac6d0160a95792d419fc1c76b90",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-2ab91d7c45a24fdaa735b8ce6f74c004"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-2ab91d7c45a24fdaa735b8ce6f74c004.7z",
-        sha256 = "9241ea8c028d8ec757fd0a8a58a33bcb8625f7fa1e46a8187a0894f52a2f5faa",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-e7f782f2a5614e9687d54d4b18a7d688"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-e7f782f2a5614e9687d54d4b18a7d688.7z",
-        sha256 = "ff4be8e27c802bd8f488a2bbc5599a6ae9adbf2739924dd23cce2d47cca17f59",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-f4a220e75af741f18f52d0948c0f24ea"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-f4a220e75af741f18f52d0948c0f24ea.7z",
-        sha256 = "587642dc5789d4d0e5955ff0a7006efe6781e59601222685ac54c2f3ce49c0b0",
-        toolset = "14.29.30133"
-    },
     ["windows-x86-vc141-1ed7aba7fdf44df99114fed7638addb4"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-1ed7aba7fdf44df99114fed7638addb4.7z",
-        sha256 = "c582062735cc019019b486479f64816deff6e3ed6cfd1af0a64b33679cd3de9e",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-027be1b8c5d24738ba23b2767fe737d3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-027be1b8c5d24738ba23b2767fe737d3.7z",
-        sha256 = "88f76e8ccbfa76df821432f59284aee30927d46270e23378db3074b2b07cdc16",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-8a840000fd5342098f2eaeb61870eb80"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-8a840000fd5342098f2eaeb61870eb80.7z",
-        sha256 = "65e6c610146ac3bb015805d872ad479da1cd1ba3b03f3c936023a2940cff08aa",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-3c26fa77d01143b6b41c228e7bb10c7e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-3c26fa77d01143b6b41c228e7bb10c7e.7z",
-        sha256 = "1b3a6adc00317239441135b00be135174b57e69cb9b9b226d3d5b29d42d23479",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-027be1b8c5d24738ba23b2767fe737d3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-027be1b8c5d24738ba23b2767fe737d3.7z",
-        sha256 = "221bf7aab3233a58f2fa2a67ec0c57799c568163ada72fd38965c39606adbe34",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-f4a220e75af741f18f52d0948c0f24ea"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-f4a220e75af741f18f52d0948c0f24ea.7z",
-        sha256 = "0ea7f326fd65192f74e37c2b1dfa93da3e2015b84ec4455610be246fe04ef3f9",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "c582062735cc019019b486479f64816deff6e3ed6cfd1af0a64b33679cd3de9e"
     },
     ["windows-x86-vc142-1ed7aba7fdf44df99114fed7638addb4"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-1ed7aba7fdf44df99114fed7638addb4.7z",
-        sha256 = "0415d14c93b98d6409fcbec374d41ca7ee7bd2b9b54b5e053e5e6fb2c311a905",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "0415d14c93b98d6409fcbec374d41ca7ee7bd2b9b54b5e053e5e6fb2c311a905"
+    },
+    ["windows-x86-vc141-1f65cbc0a5274611a5e6f0337486194e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-1f65cbc0a5274611a5e6f0337486194e.7z",
+        toolset = "14.16.27023",
+        sha256 = "02f6c7d79b32aa25a8978593b311dcac06d4396f55fabe5402ba0ea930152ac8"
+    },
+    ["windows-x86-vc142-027be1b8c5d24738ba23b2767fe737d3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-027be1b8c5d24738ba23b2767fe737d3.7z",
+        toolset = "14.29.30133",
+        sha256 = "221bf7aab3233a58f2fa2a67ec0c57799c568163ada72fd38965c39606adbe34"
+    },
+    ["windows-x86-vc141-b5da6237b31846b78d7eb3f886f0e186"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-b5da6237b31846b78d7eb3f886f0e186.7z",
+        toolset = "14.16.27023",
+        sha256 = "2bbb2d89a539a90fec4feaaa9b3daaa2e78a7ddd73edcb636789e63f9b97971a"
+    },
+    ["windows-x64-vc141-52ce97205a344d2c8367a08f04ba034a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-52ce97205a344d2c8367a08f04ba034a.7z",
+        toolset = "14.16.27023",
+        sha256 = "062a6fe92536b23d2e65358915513cb10e3913b9b258d76fa448fbb37f6f4f09"
+    },
+    ["windows-x64-vc142-8a840000fd5342098f2eaeb61870eb80"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-8a840000fd5342098f2eaeb61870eb80.7z",
+        toolset = "14.29.30133",
+        sha256 = "65e6c610146ac3bb015805d872ad479da1cd1ba3b03f3c936023a2940cff08aa"
+    },
+    ["windows-x86-vc142-f4a220e75af741f18f52d0948c0f24ea"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-f4a220e75af741f18f52d0948c0f24ea.7z",
+        toolset = "14.29.30133",
+        sha256 = "587642dc5789d4d0e5955ff0a7006efe6781e59601222685ac54c2f3ce49c0b0"
+    },
+    ["windows-x86-vc141-027be1b8c5d24738ba23b2767fe737d3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-027be1b8c5d24738ba23b2767fe737d3.7z",
+        toolset = "14.16.27023",
+        sha256 = "88f76e8ccbfa76df821432f59284aee30927d46270e23378db3074b2b07cdc16"
+    },
+    ["windows-x64-vc141-2ab91d7c45a24fdaa735b8ce6f74c004"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-2ab91d7c45a24fdaa735b8ce6f74c004.7z",
+        toolset = "14.16.27023",
+        sha256 = "187c852b35cdb92a499c3321ff714fbc042dddd4d3d10f2b36ccc5ee872174ac"
+    },
+    ["windows-x64-vc141-8a840000fd5342098f2eaeb61870eb80"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-8a840000fd5342098f2eaeb61870eb80.7z",
+        toolset = "14.16.27023",
+        sha256 = "364589f2fe3180e3b3579fbea99721134365d7e272cb9befca55f18f7d6f2371"
+    },
+    ["windows-x86-vc141-f4a220e75af741f18f52d0948c0f24ea"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-f4a220e75af741f18f52d0948c0f24ea.7z",
+        toolset = "14.16.27023",
+        sha256 = "0ea7f326fd65192f74e37c2b1dfa93da3e2015b84ec4455610be246fe04ef3f9"
+    },
+    ["windows-x64-vc141-3c26fa77d01143b6b41c228e7bb10c7e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-3c26fa77d01143b6b41c228e7bb10c7e.7z",
+        toolset = "14.16.27023",
+        sha256 = "1b3a6adc00317239441135b00be135174b57e69cb9b9b226d3d5b29d42d23479"
+    },
+    ["windows-x86-vc141-7cbac1542c6e4efdb141cb2b0222ce44"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-7cbac1542c6e4efdb141cb2b0222ce44.7z",
+        toolset = "14.16.27023",
+        sha256 = "5a76e2a6904b640c53a79813871331117530c7e651818138d8b455a5cfa25f1c"
+    },
+    ["windows-x64-vc141-e7f782f2a5614e9687d54d4b18a7d688"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-e7f782f2a5614e9687d54d4b18a7d688.7z",
+        toolset = "14.16.27023",
+        sha256 = "ff4be8e27c802bd8f488a2bbc5599a6ae9adbf2739924dd23cce2d47cca17f59"
+    },
+    ["windows-x64-vc141-51106e1903b643a580b0b9a62710d854"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-51106e1903b643a580b0b9a62710d854.7z",
+        toolset = "14.16.27023",
+        sha256 = "4aacae49952322289143810f225b56b5b3115b538ece0d9513f5d05c542c5bce"
+    },
+    ["windows-x64-vc141-28eaec94fa0f4c5c9cfab3afb7f43132"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-28eaec94fa0f4c5c9cfab3afb7f43132.7z",
+        toolset = "14.16.27023",
+        sha256 = "355098486b719969ceae9fbabc41376e1dc3753105450846787e9f894e44e5e0"
+    },
+    ["windows-x86-vc141-4d6f0b403d6649bf9a772392ea5bb7d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-4d6f0b403d6649bf9a772392ea5bb7d7.7z",
+        toolset = "14.16.27023",
+        sha256 = "a5706ac09ad18103e1d59da22084bef84b0e0bf1f4c208c01c71b9e394b823cc"
+    },
+    ["windows-x64-vc142-e7f782f2a5614e9687d54d4b18a7d688"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-e7f782f2a5614e9687d54d4b18a7d688.7z",
+        toolset = "14.29.30133",
+        sha256 = "9ecfe0000a5dcbc48d43dc5f64c09ee11c0a8ac6d0160a95792d419fc1c76b90"
+    },
+    ["windows-x86-vc142-cfd052ca9f8a458695b6965004d951e6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-cfd052ca9f8a458695b6965004d951e6.7z",
+        toolset = "14.29.30133",
+        sha256 = "4413e3b91e5ee0bcff2b419fd62c39d11bade98426f2c48f4985f34da2d8c673"
+    },
+    ["windows-x86-vc142-b5da6237b31846b78d7eb3f886f0e186"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-b5da6237b31846b78d7eb3f886f0e186.7z",
+        toolset = "14.29.30133",
+        sha256 = "8100df83c95e106f8384530a7d19a1cc16f41d631f3cabb469f68a7d5021873e"
+    },
+    ["windows-x64-vc142-3c26fa77d01143b6b41c228e7bb10c7e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-3c26fa77d01143b6b41c228e7bb10c7e.7z",
+        toolset = "14.29.30133",
+        sha256 = "416b75d5d9d22bc8fa0b987323c281a70f9e4a63bdc7258fe68b92d58e169a1d"
+    },
+    ["windows-x64-vc142-28eaec94fa0f4c5c9cfab3afb7f43132"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-28eaec94fa0f4c5c9cfab3afb7f43132.7z",
+        toolset = "14.29.30133",
+        sha256 = "396563b73bf5ef6098c33e2fe873d5565f7407b53533ca916c15d754e9562aec"
+    },
+    ["windows-x86-vc142-1f65cbc0a5274611a5e6f0337486194e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-1f65cbc0a5274611a5e6f0337486194e.7z",
+        toolset = "14.29.30133",
+        sha256 = "a135fc3e14813db850b1586e8de480e991af9498fb446b112e1daa7d6aca08e9"
+    },
+    ["windows-x64-vc142-52ce97205a344d2c8367a08f04ba034a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-52ce97205a344d2c8367a08f04ba034a.7z",
+        toolset = "14.29.30133",
+        sha256 = "e2a30e1d67f52da2d1e3c64d5ef2b00092648d8d99077b4da7f251111eee9ff6"
+    },
+    ["windows-x64-vc142-b1dc3ad6ee7d4699bcb37cc0247a0dd0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-b1dc3ad6ee7d4699bcb37cc0247a0dd0.7z",
+        toolset = "14.29.30133",
+        sha256 = "3126e8a2925836d27c22daf94951edb1ff663a8ce7e20867297604e2d0292d1b"
+    },
+    ["windows-x64-vc142-51106e1903b643a580b0b9a62710d854"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-51106e1903b643a580b0b9a62710d854.7z",
+        toolset = "14.29.30133",
+        sha256 = "33f2b64c7ae1a2dfb032ddae011a8922e816548a364993e489c48b16be997343"
+    },
+    ["windows-x86-vc142-4d6f0b403d6649bf9a772392ea5bb7d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-4d6f0b403d6649bf9a772392ea5bb7d7.7z",
+        toolset = "14.29.30133",
+        sha256 = "62c0f946c6ba379fe60aa75e91b1d91cab38974cd302445aadf733df69cefb0c"
+    },
+    ["windows-x86-vc142-7cbac1542c6e4efdb141cb2b0222ce44"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc142-7cbac1542c6e4efdb141cb2b0222ce44.7z",
+        toolset = "14.29.30133",
+        sha256 = "5c6baf8c0854a17754a78f1b94055e4e0e09ed930a56120d596e4bdb73e0b099"
+    },
+    ["windows-x64-vc141-b1dc3ad6ee7d4699bcb37cc0247a0dd0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc141-b1dc3ad6ee7d4699bcb37cc0247a0dd0.7z",
+        toolset = "14.16.27023",
+        sha256 = "fa0fe8939e1ef72b395de37f92333803e03b98de7ade1ea173bc783018155afb"
+    },
+    ["windows-x64-vc142-2ab91d7c45a24fdaa735b8ce6f74c004"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x64-vc142-2ab91d7c45a24fdaa735b8ce6f74c004.7z",
+        toolset = "14.29.30133",
+        sha256 = "9241ea8c028d8ec757fd0a8a58a33bcb8625f7fa1e46a8187a0894f52a2f5faa"
+    },
+    ["windows-x86-vc141-cfd052ca9f8a458695b6965004d951e6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcre-8.45/windows-x86-vc141-cfd052ca9f8a458695b6965004d951e6.7z",
+        toolset = "14.16.27023",
+        sha256 = "fbe9621e2db6a9140f971f9383df6777399295e9159367d176220480b396d2cd"
     }
 }
