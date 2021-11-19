@@ -1,99 +1,4 @@
 {
-    ["windows-x64-c59b09ea635d4342baa688712c06e1fb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-c59b09ea635d4342baa688712c06e1fb.7z",
-        sha256 = "b53cc897cd7ce075842cafbf5faa441030f19263ac4fcb471fce36187a74362e"
-    },
-    ["windows-x86-vc142-72b8278a65eb4c3eb60e09abd2637886"] = {
-        toolset = "14.29.30133",
-        sha256 = "565de4bb90e0581124456ae565ed30ba0ef2f3ca74930483afd5af83e334bac2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-72b8278a65eb4c3eb60e09abd2637886.7z"
-    },
-    ["windows-x86-vc141-789220c69e494f0eaaca089e29707fe4"] = {
-        toolset = "14.16.27023",
-        sha256 = "501cd4fcdf76c1421656b9aef390cc97e85b00d772dd4068e144ea19bcac094e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-789220c69e494f0eaaca089e29707fe4.7z"
-    },
-    ["windows-x64-vc141-c59b09ea635d4342baa688712c06e1fb"] = {
-        toolset = "14.16.27023",
-        sha256 = "54e852ee5c0b79bcf0bd13e59399ecb13b0a54113f7e37571093fd75d27deceb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-c59b09ea635d4342baa688712c06e1fb.7z"
-    },
-    ["windows-x64-vc142-c59b09ea635d4342baa688712c06e1fb"] = {
-        toolset = "14.29.30133",
-        sha256 = "caa6aee4d0f068b6bc4500431ce7257db1ecf9ea3668b456672e03cf22d382f6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-c59b09ea635d4342baa688712c06e1fb.7z"
-    },
-    ["windows-x64-vc142-7f012ab6adf64a85be8cf4480051f442"] = {
-        toolset = "14.29.30133",
-        sha256 = "45d9173fd5826cadc07c068e95919a80b2fe3f682c3367c6674d1567a92610db",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-7f012ab6adf64a85be8cf4480051f442.7z"
-    },
-    ["windows-x64-7f012ab6adf64a85be8cf4480051f442"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-7f012ab6adf64a85be8cf4480051f442.7z",
-        sha256 = "138ee29273962e2835dce7301149aaa1a6ec5dd9cfd886c5c73f3ee4708f2986"
-    },
-    ["windows-x86-vc141-72b8278a65eb4c3eb60e09abd2637886"] = {
-        toolset = "14.16.27023",
-        sha256 = "899fef98e70d4f004115a9e2124ca0f697ab82b7428199ff470f24b37d32a670",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-72b8278a65eb4c3eb60e09abd2637886.7z"
-    },
-    ["windows-x86-789220c69e494f0eaaca089e29707fe4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-789220c69e494f0eaaca089e29707fe4.7z",
-        sha256 = "70c39f4bc936291d3fe5e49c4794870a6f90f7b3a808b4bf156d5beaca5b931f"
-    },
-    ["windows-x64-vc141-bc620e74108a4bc786c4c834b3d1cc49"] = {
-        toolset = "14.16.27023",
-        sha256 = "d327e531af330fb7f6d58af83f06a9730be3db80a837204fae9c01b5c34ddad8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-bc620e74108a4bc786c4c834b3d1cc49.7z"
-    },
-    ["windows-x86-837b2224469041748e48941b70336492"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-837b2224469041748e48941b70336492.7z",
-        sha256 = "c5fc23d9afd99508e5579b1b3128fda8221d4fb0a18885c880a4eec10d01c55f"
-    },
-    ["windows-x86-vc141-7738e08ac5b84dd1932d5f802b5a7471"] = {
-        toolset = "14.16.27023",
-        sha256 = "b4302829d43d85a89b661b1f529056212529ee415baf2fda518ba09032c9c1df",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-7738e08ac5b84dd1932d5f802b5a7471.7z"
-    },
-    ["windows-x64-vc142-f36b40c62ce84960984974bb98dedc28"] = {
-        toolset = "14.29.30133",
-        sha256 = "5ca2d918f90cd1f87c7e12b733cb996f214d88a3d436420346b8f317503bc590",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-f36b40c62ce84960984974bb98dedc28.7z"
-    },
-    ["windows-x64-vc141-f36b40c62ce84960984974bb98dedc28"] = {
-        toolset = "14.16.27023",
-        sha256 = "94a5bcb602ff23410b42b7cb2bf1c772b8f4db4f7d729a166fad843017815272",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-f36b40c62ce84960984974bb98dedc28.7z"
-    },
-    ["windows-x64-vc141-7f012ab6adf64a85be8cf4480051f442"] = {
-        toolset = "14.16.27023",
-        sha256 = "f041214364b056a593661b030c19dcce21ce6ca0afe7b6dbba8525280c7eff0c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-7f012ab6adf64a85be8cf4480051f442.7z"
-    },
-    ["windows-x64-f36b40c62ce84960984974bb98dedc28"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-f36b40c62ce84960984974bb98dedc28.7z",
-        sha256 = "24eae90a39c6a9c3af71c9273655b34d532f6a676056efc55655b27397d9e6c2"
-    },
-    ["windows-x86-vc142-7738e08ac5b84dd1932d5f802b5a7471"] = {
-        toolset = "14.29.30133",
-        sha256 = "4987332b79e2d638c9e797377b3ed7eb26093656c241a1b939f78da4231042f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-7738e08ac5b84dd1932d5f802b5a7471.7z"
-    },
-    ["windows-x86-vc141-837b2224469041748e48941b70336492"] = {
-        toolset = "14.16.27023",
-        sha256 = "48e03a7553db2407115ca208bba0b294e7da4df2b22d5514772288fcebf3390e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-837b2224469041748e48941b70336492.7z"
-    },
-    ["windows-x64-vc142-bc620e74108a4bc786c4c834b3d1cc49"] = {
-        toolset = "14.29.30133",
-        sha256 = "d284feb25648c8dafb627fd60aeec1323408c41e167b2217448b6cbd5e95b629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-bc620e74108a4bc786c4c834b3d1cc49.7z"
-    },
-    ["windows-x86-vc142-837b2224469041748e48941b70336492"] = {
-        toolset = "14.29.30133",
-        sha256 = "0808bb766274fc40a83c764e42d50c19ea6d45b27056f9974ccb00de77c826a0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-837b2224469041748e48941b70336492.7z"
-    },
     ["windows-x86-72b8278a65eb4c3eb60e09abd2637886"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-72b8278a65eb4c3eb60e09abd2637886.7z",
         sha256 = "149d81a3c9967d2fd4f7cc7408ea68965262385eb7b684500e49ade20a2742b8"
@@ -102,13 +7,108 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-bc620e74108a4bc786c4c834b3d1cc49.7z",
         sha256 = "038cdaa31751f51bb6a278af366a4d35bf74afeae63615960f06355dc526696d"
     },
-    ["windows-x86-vc142-789220c69e494f0eaaca089e29707fe4"] = {
-        toolset = "14.29.30133",
-        sha256 = "1b4c5e77a4c9b192a9d0d343cdd0702d31a17a7de0e0fe56ab159f675f9a42b7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-789220c69e494f0eaaca089e29707fe4.7z"
+    ["windows-x64-vc141-7f012ab6adf64a85be8cf4480051f442"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-7f012ab6adf64a85be8cf4480051f442.7z",
+        sha256 = "d1c6522a73f869cc5f1c9c0e885172e604b9c6e86477f15cc37ab42ed410fa01",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-c59b09ea635d4342baa688712c06e1fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-c59b09ea635d4342baa688712c06e1fb.7z",
+        sha256 = "b53cc897cd7ce075842cafbf5faa441030f19263ac4fcb471fce36187a74362e"
+    },
+    ["windows-x64-vc142-7f012ab6adf64a85be8cf4480051f442"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-7f012ab6adf64a85be8cf4480051f442.7z",
+        sha256 = "dfc6b5f3019c631ddfa954855d347422825ff9f897433533b5c5457c25f6759e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-7738e08ac5b84dd1932d5f802b5a7471"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-7738e08ac5b84dd1932d5f802b5a7471.7z",
+        sha256 = "36a60ee29f45782a93e659ba2a6be719bf0be4eb1aa1a4aeef0a80e23795da2c",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-c59b09ea635d4342baa688712c06e1fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-c59b09ea635d4342baa688712c06e1fb.7z",
+        sha256 = "68f0773c6a0e64437b9e1de76e1ca0cf97c23b4af02d6e29b08e882409fa6abb",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-f36b40c62ce84960984974bb98dedc28"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-f36b40c62ce84960984974bb98dedc28.7z",
+        sha256 = "24eae90a39c6a9c3af71c9273655b34d532f6a676056efc55655b27397d9e6c2"
     },
     ["windows-x86-7738e08ac5b84dd1932d5f802b5a7471"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-7738e08ac5b84dd1932d5f802b5a7471.7z",
         sha256 = "cf2daf75de1b9c7f20500295888d41fcc6d38d11830d4f1ebbb678191f7aab25"
+    },
+    ["windows-x86-vc142-72b8278a65eb4c3eb60e09abd2637886"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-72b8278a65eb4c3eb60e09abd2637886.7z",
+        sha256 = "8a73305b567bfe17371feb6729112b5cd3f566371e4376239af18f0d3ab3a45b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-789220c69e494f0eaaca089e29707fe4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-789220c69e494f0eaaca089e29707fe4.7z",
+        sha256 = "e4032990b1564536beb3f3e5b647ca551e5cc729584ac66085d4e8d69a446e3d",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-789220c69e494f0eaaca089e29707fe4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-789220c69e494f0eaaca089e29707fe4.7z",
+        sha256 = "70c39f4bc936291d3fe5e49c4794870a6f90f7b3a808b4bf156d5beaca5b931f"
+    },
+    ["windows-x64-vc142-c59b09ea635d4342baa688712c06e1fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-c59b09ea635d4342baa688712c06e1fb.7z",
+        sha256 = "b69bffaa9cfdea6d4203da6769ce7bc0be47628fe9e5fd946ce56309b655b0a5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-7f012ab6adf64a85be8cf4480051f442"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-7f012ab6adf64a85be8cf4480051f442.7z",
+        sha256 = "138ee29273962e2835dce7301149aaa1a6ec5dd9cfd886c5c73f3ee4708f2986"
+    },
+    ["windows-x86-vc142-789220c69e494f0eaaca089e29707fe4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-789220c69e494f0eaaca089e29707fe4.7z",
+        sha256 = "a8c769a372e9b2492127f7b4b112f2ad1e0324e69cf071febd22590582233da1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-72b8278a65eb4c3eb60e09abd2637886"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-72b8278a65eb4c3eb60e09abd2637886.7z",
+        sha256 = "d2f7ddd45de77a5b43f32b875798f49e61505f3396385011af67534b3ce6e264",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-bc620e74108a4bc786c4c834b3d1cc49"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-bc620e74108a4bc786c4c834b3d1cc49.7z",
+        sha256 = "23f2a62cc1eab73532e3b7574e49c2166593f75f44a5908da8fa74fe352b6dc6",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-f36b40c62ce84960984974bb98dedc28"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-f36b40c62ce84960984974bb98dedc28.7z",
+        sha256 = "1e45afd5a5791524bd7d0773944507e6d0df883255e029c4f2c966bea4c4e3d9",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-837b2224469041748e48941b70336492"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-837b2224469041748e48941b70336492.7z",
+        sha256 = "c5fc23d9afd99508e5579b1b3128fda8221d4fb0a18885c880a4eec10d01c55f"
+    },
+    ["windows-x64-vc142-bc620e74108a4bc786c4c834b3d1cc49"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc142-bc620e74108a4bc786c4c834b3d1cc49.7z",
+        sha256 = "66165a2a4d7edc2cb0a5b5434030d90e274926fc337f36ff639c4eab8391ac50",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-837b2224469041748e48941b70336492"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-837b2224469041748e48941b70336492.7z",
+        sha256 = "71fc9b64d2f47c305914c5672c6aca7d7a3c1abf1db5faeb66c24f6cc71da1dd",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-7738e08ac5b84dd1932d5f802b5a7471"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc142-7738e08ac5b84dd1932d5f802b5a7471.7z",
+        sha256 = "bbc2dd6d5749dc184c098569ac7f48d4dfdbfc94c2c66aa705e651cf42d8832f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-f36b40c62ce84960984974bb98dedc28"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x64-vc141-f36b40c62ce84960984974bb98dedc28.7z",
+        sha256 = "b249fe4370176d741b403ed04c0349eab20fca7c5adabf57c0d890c1df421f06",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-837b2224469041748e48941b70336492"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.6/windows-x86-vc141-837b2224469041748e48941b70336492.7z",
+        sha256 = "9abb4fc285f03aa569d655ebfcf34bfb4c80c5ade3724afca296b36c0b3e986a",
+        toolset = "14.16.27023"
     }
 }
