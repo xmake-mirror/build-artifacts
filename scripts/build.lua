@@ -89,11 +89,11 @@ function main(...)
         local tag = buildinfo.name .. "-" .. version
         local found = try {function () os.execv("gh", {"release", "view", tag}); return true end}
         if found then
-            os.execv("gh", {"release", "upload", "--clobber", tag, artifactfile})
+            try {function () os.execv("gh", {"release", "upload", "--clobber", tag, artifactfile}) end}
         else
             local created = try {function () os.execv("gh", {"release", "create", "--notes", tag .. " artifacts", tag, artifactfile}); return true end}
             if not created then
-                os.execv("gh", {"release", "upload", "--clobber", tag, artifactfile})
+                try {function() os.execv("gh", {"release", "upload", "--clobber", tag, artifactfile}) end}
             end
         end
     end
