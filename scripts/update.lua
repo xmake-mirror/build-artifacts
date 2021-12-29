@@ -33,6 +33,9 @@ function main()
                 urls = asset.url,
                 sha256 = hash.sha256(path.join("..", "assets", asset.name))
             }
+            if asset.name:find("-vc143-", 1, true) then
+                manifest[buildid].toolset = "14.30.30705"
+            end
             if asset.name:find("-vc142-", 1, true) then
                 manifest[buildid].toolset = "14.29.30133"
             end
