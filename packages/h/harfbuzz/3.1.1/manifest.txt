@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc141-00686c9f1f6945749dda353435597f9f"] = {
-        sha256 = "e012b56a9b459741cfbbad1f594944ee0bffa39fac06ac03aa75938413381253",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-00686c9f1f6945749dda353435597f9f.7z"
-    },
-    ["windows-x64-vc141-cd15e58a539e422580887ffdc41b5402"] = {
-        sha256 = "b6e217d4194eb50dcbd2db075c00b7bcf24448f21f100aa1a339d654d2506e8b",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-cd15e58a539e422580887ffdc41b5402.7z"
-    },
-    ["windows-x86-vc141-3f1bcf94992d4f26bffa35ccf8499754"] = {
-        sha256 = "e9ae426c37f68c0a0eb17c3ccb49a3cabde707182269b46a8c9cc73149152a21",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-3f1bcf94992d4f26bffa35ccf8499754.7z"
-    },
-    ["windows-x64-vc141-162ebedf25cd4f9e957bd6079196322e"] = {
-        sha256 = "5091b0399ff428fcb990af92f388389fd8eb9af59debea6599fcbea1265ffb93",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-162ebedf25cd4f9e957bd6079196322e.7z"
-    },
-    ["windows-x86-vc141-7802a3ebad5440d1b4bec0ef7c6a0cda"] = {
-        sha256 = "a55a642a3606b99e8b43dc0f12dbed2b7b5f8b61888b7ae4436264a0e6968986",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-7802a3ebad5440d1b4bec0ef7c6a0cda.7z"
+    ["windows-x86-vc142-7802a3ebad5440d1b4bec0ef7c6a0cda"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-7802a3ebad5440d1b4bec0ef7c6a0cda.7z",
+        sha256 = "6dcca0de979c78b499119c4463e055ddc7a5755db32beb95e67aac8115e78494"
     },
     ["windows-x86-vc142-8e716648204d4a078dc439518f5cbdba"] = {
-        sha256 = "4b0b93e6076e2a195f2213f99ce54d619a2c2e7f1f32c786018834e60202d6da",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-8e716648204d4a078dc439518f5cbdba.7z"
-    },
-    ["windows-x86-vc142-7802a3ebad5440d1b4bec0ef7c6a0cda"] = {
-        sha256 = "5665f73d33db21c8a5a504a7bcd4ffe16bf427d6145d4df2a0eefdba2c7de185",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-7802a3ebad5440d1b4bec0ef7c6a0cda.7z"
-    },
-    ["windows-x64-vc142-5d2285a79d164e2db87895ad02f4413d"] = {
-        sha256 = "c1ea8e155b47edb2d25c599fa57914d5d42a8c4b2eadfd8902554b4f5e3b236e",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-5d2285a79d164e2db87895ad02f4413d.7z"
-    },
-    ["windows-x64-vc141-5d2285a79d164e2db87895ad02f4413d"] = {
-        sha256 = "c6a7c12d9399837c90dc417418d03c14c6fa931a84d8c7d60522f7439151afa6",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-5d2285a79d164e2db87895ad02f4413d.7z"
-    },
-    ["windows-x64-vc142-162ebedf25cd4f9e957bd6079196322e"] = {
-        sha256 = "8ad1f7936602827ef8aed223b6062e90dbc36cf4ca39dcb990cc7ad1d431b372",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-162ebedf25cd4f9e957bd6079196322e.7z"
-    },
-    ["windows-x64-vc142-61ac1b2cbb794ec2990e7f48de06ddae"] = {
-        sha256 = "19d61f1687a1b2f1a5650ea90e801a67680f8abff974b09b7a49e4208d893383",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-61ac1b2cbb794ec2990e7f48de06ddae.7z"
-    },
-    ["windows-x86-vc141-8e716648204d4a078dc439518f5cbdba"] = {
-        sha256 = "3fb88e281c27b725443e1a1429fd3e218c23131677d5663477133ad1c0285a9d",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-8e716648204d4a078dc439518f5cbdba.7z"
-    },
-    ["windows-x86-vc142-00686c9f1f6945749dda353435597f9f"] = {
-        sha256 = "f7d7fb2e37c8f6e0858a65eaeef99075482ed9df7f0ef4ab8dc3e307b04ca0f2",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-00686c9f1f6945749dda353435597f9f.7z"
-    },
-    ["windows-x64-vc142-cd15e58a539e422580887ffdc41b5402"] = {
-        sha256 = "5b6a00c995a341be53932cd211f0d2fe7daa3feac8e0960916e07dfb17007974",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-cd15e58a539e422580887ffdc41b5402.7z"
-    },
-    ["windows-x64-vc141-61ac1b2cbb794ec2990e7f48de06ddae"] = {
-        sha256 = "fc3bd3caa76d618a8cfa1a99d4c0edaafbc9efa22eb406ea1072119de5f719fb",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-61ac1b2cbb794ec2990e7f48de06ddae.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-8e716648204d4a078dc439518f5cbdba.7z",
+        sha256 = "b7e4502f624bc754d773090ebefc9a3d37d76b2704ec74f7cbf3df675d27ab1f"
     },
     ["windows-x86-vc142-3f1bcf94992d4f26bffa35ccf8499754"] = {
-        sha256 = "e3be652baba16a113a0417b2be651de039669f5da7785f0be452ae2472bfcb3f",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-3f1bcf94992d4f26bffa35ccf8499754.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-3f1bcf94992d4f26bffa35ccf8499754.7z",
+        sha256 = "1d5957fe606855eed06153a4ac5c921975bf2a953caf548f46d4be7ecab7d3fb"
+    },
+    ["windows-x86-vc141-00686c9f1f6945749dda353435597f9f"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-00686c9f1f6945749dda353435597f9f.7z",
+        sha256 = "e012b56a9b459741cfbbad1f594944ee0bffa39fac06ac03aa75938413381253"
+    },
+    ["windows-x86-vc141-8e716648204d4a078dc439518f5cbdba"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-8e716648204d4a078dc439518f5cbdba.7z",
+        sha256 = "3fb88e281c27b725443e1a1429fd3e218c23131677d5663477133ad1c0285a9d"
+    },
+    ["windows-x86-vc143-7802a3ebad5440d1b4bec0ef7c6a0cda"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc143-7802a3ebad5440d1b4bec0ef7c6a0cda.7z",
+        sha256 = "1ada1622a935190d4e19876e11de81f60aa4d4f2f72d43cf91c41352f46865c8"
+    },
+    ["windows-x86-vc142-00686c9f1f6945749dda353435597f9f"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc142-00686c9f1f6945749dda353435597f9f.7z",
+        sha256 = "6d7c2d161fb0556f134d9f14f8e605030bf0b1b9417f93d22fe3cbb8056b9cda"
+    },
+    ["windows-x64-vc141-5d2285a79d164e2db87895ad02f4413d"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-5d2285a79d164e2db87895ad02f4413d.7z",
+        sha256 = "c6a7c12d9399837c90dc417418d03c14c6fa931a84d8c7d60522f7439151afa6"
+    },
+    ["windows-x86-vc141-7802a3ebad5440d1b4bec0ef7c6a0cda"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-7802a3ebad5440d1b4bec0ef7c6a0cda.7z",
+        sha256 = "a55a642a3606b99e8b43dc0f12dbed2b7b5f8b61888b7ae4436264a0e6968986"
+    },
+    ["windows-x64-vc143-61ac1b2cbb794ec2990e7f48de06ddae"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc143-61ac1b2cbb794ec2990e7f48de06ddae.7z",
+        sha256 = "97be98289dd689631a14b19df110a323208f059b8fb157859d376c94a991850c"
+    },
+    ["windows-x64-vc142-cd15e58a539e422580887ffdc41b5402"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-cd15e58a539e422580887ffdc41b5402.7z",
+        sha256 = "52268e4df0fe311c75ea8614073799bdbfb30947f23a82319a77661b08fddefb"
+    },
+    ["windows-x64-vc142-5d2285a79d164e2db87895ad02f4413d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-5d2285a79d164e2db87895ad02f4413d.7z",
+        sha256 = "48e59aff32abae783d57441d7cfcf8f255ee88a53528bf906e156d65803c9ba8"
+    },
+    ["windows-x64-vc141-cd15e58a539e422580887ffdc41b5402"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-cd15e58a539e422580887ffdc41b5402.7z",
+        sha256 = "b6e217d4194eb50dcbd2db075c00b7bcf24448f21f100aa1a339d654d2506e8b"
+    },
+    ["windows-x64-vc143-162ebedf25cd4f9e957bd6079196322e"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc143-162ebedf25cd4f9e957bd6079196322e.7z",
+        sha256 = "6656aa44f8740a30926f2f8b28be5e7d76c42d7590571791fe7a66c0a17cd2e7"
+    },
+    ["windows-x64-vc143-5d2285a79d164e2db87895ad02f4413d"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc143-5d2285a79d164e2db87895ad02f4413d.7z",
+        sha256 = "619babb6ef1ad9102d09e6b390c4ed9e90ee50d6abc550e20395b09d463ecb54"
+    },
+    ["windows-x64-vc141-162ebedf25cd4f9e957bd6079196322e"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-162ebedf25cd4f9e957bd6079196322e.7z",
+        sha256 = "5091b0399ff428fcb990af92f388389fd8eb9af59debea6599fcbea1265ffb93"
+    },
+    ["windows-x86-vc143-3f1bcf94992d4f26bffa35ccf8499754"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc143-3f1bcf94992d4f26bffa35ccf8499754.7z",
+        sha256 = "694b6eb89ee0f62f0064998b4f3231d83639e061a48f9b577905141d6b7d4115"
+    },
+    ["windows-x64-vc141-61ac1b2cbb794ec2990e7f48de06ddae"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc141-61ac1b2cbb794ec2990e7f48de06ddae.7z",
+        sha256 = "fc3bd3caa76d618a8cfa1a99d4c0edaafbc9efa22eb406ea1072119de5f719fb"
+    },
+    ["windows-x64-vc142-61ac1b2cbb794ec2990e7f48de06ddae"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-61ac1b2cbb794ec2990e7f48de06ddae.7z",
+        sha256 = "f815a58f1d3b6f57ebdd31289d55c515748064de0d55cf50bb5e8caac7037c09"
+    },
+    ["windows-x86-vc143-00686c9f1f6945749dda353435597f9f"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc143-00686c9f1f6945749dda353435597f9f.7z",
+        sha256 = "b25dafaaeab25d2fca1503d9d403249902bd36ace02846174e47f8c3537ad75a"
+    },
+    ["windows-x86-vc141-3f1bcf94992d4f26bffa35ccf8499754"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc141-3f1bcf94992d4f26bffa35ccf8499754.7z",
+        sha256 = "e9ae426c37f68c0a0eb17c3ccb49a3cabde707182269b46a8c9cc73149152a21"
+    },
+    ["windows-x64-vc143-cd15e58a539e422580887ffdc41b5402"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc143-cd15e58a539e422580887ffdc41b5402.7z",
+        sha256 = "2480c36f0a3e9b3202c40ff1525b9983c34d59f4577292c12797d359c679677f"
+    },
+    ["windows-x86-vc143-8e716648204d4a078dc439518f5cbdba"] = {
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x86-vc143-8e716648204d4a078dc439518f5cbdba.7z",
+        sha256 = "a2f3c5e9fef91af0e3ee38e434434e54c12bc98e557ba53f9f24c06a93044623"
+    },
+    ["windows-x64-vc142-162ebedf25cd4f9e957bd6079196322e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/harfbuzz-3.1.1/windows-x64-vc142-162ebedf25cd4f9e957bd6079196322e.7z",
+        sha256 = "6b2ef6a5973d99c1bf1a159e594f5f8a5f302ac8cc8f7e6152dcc8cadbb4e30f"
     }
 }
