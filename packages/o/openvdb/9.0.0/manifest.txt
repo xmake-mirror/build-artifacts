@@ -1,12 +1,12 @@
 {
-    ["windows-x86-vc141-911839ca4be649c9b6984aede0fea372"] = {
-        sha256 = "d7e5798c1ad69f4a20a1fa72f6916db39535cbcfda874086293f92b2d0c1a248",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-911839ca4be649c9b6984aede0fea372.7z",
-        toolset = "14.16.27023"
+    ["windows-x64-vc143-f5127a8ae40d4c2f8d69e59feeaa46fb"] = {
+        sha256 = "e8ce17faceb2d6168a6dac133ea9a7612ba436cbe45b6b9141af67f962741fba",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc143-f5127a8ae40d4c2f8d69e59feeaa46fb.7z",
+        toolset = "14.30.30705"
     },
-    ["windows-x86-vc142-96a7547afdaa413f93ecc58e0d58393b"] = {
-        sha256 = "d1d9bc6ca2a2b76c7344630dbf62ca076355d8c34dd9c22d1b62111c29bf7886",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-96a7547afdaa413f93ecc58e0d58393b.7z",
+    ["windows-x64-vc142-53ec0a88b63e4a69a39324da4230ba99"] = {
+        sha256 = "87df0f0983e1616a6cefe53dffbe9a9f0976bd8a9a8511a16fb0a5a3f5fcb432",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-53ec0a88b63e4a69a39324da4230ba99.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc141-53433d4da22a4ea391b598af51ce5957"] = {
@@ -14,25 +14,35 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-53433d4da22a4ea391b598af51ce5957.7z",
         toolset = "14.16.27023"
     },
+    ["windows-x86-vc141-f4b270f266ae4c6abf8a091248c8ef94"] = {
+        sha256 = "373cce730f634882e434af5407328b5a0b1bfde3e57ae9ebe708096cf43c89c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-f4b270f266ae4c6abf8a091248c8ef94.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-790c798de7134e088396c59d823ae27f"] = {
+        sha256 = "5da966ccf943324aea130e2177815b54c54afe4ad6bc8b21455e586095513c68",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc143-790c798de7134e088396c59d823ae27f.7z",
+        toolset = "14.30.30705"
+    },
     ["windows-x64-vc142-655aa7f87e644de382a739e3b04c3878"] = {
-        sha256 = "80cb022f8aa422972182c0b31748b1b7da590e2327bed7f81cec696cc9dd6de5",
+        sha256 = "a0748755caa65bd498988f6cb20f5889682665420b2ecdecf5eb2f428ac2d18d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-655aa7f87e644de382a739e3b04c3878.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-f5127a8ae40d4c2f8d69e59feeaa46fb"] = {
-        sha256 = "ee952ea58086b83234fae8ecebe46485641b7fca76df4e77a2f33192861674f1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-f5127a8ae40d4c2f8d69e59feeaa46fb.7z",
+    ["windows-x86-vc141-911839ca4be649c9b6984aede0fea372"] = {
+        sha256 = "d7e5798c1ad69f4a20a1fa72f6916db39535cbcfda874086293f92b2d0c1a248",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-911839ca4be649c9b6984aede0fea372.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-790c798de7134e088396c59d823ae27f"] = {
+        sha256 = "6d3c643e50e50573ea03c8c1e585de8997fe3ab92b0a53726b32430610f3a15d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-790c798de7134e088396c59d823ae27f.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-53ec0a88b63e4a69a39324da4230ba99"] = {
-        sha256 = "9fcfa3a7c3adef949b494136472260d1613c74d4132ffafa7c17b0fa241ba52a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-53ec0a88b63e4a69a39324da4230ba99.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-53433d4da22a4ea391b598af51ce5957"] = {
-        sha256 = "3b6f80ef4237e143805b9921ea800b0cb51b04edab182db1777fbeb423302ccd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-53433d4da22a4ea391b598af51ce5957.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc141-96a7547afdaa413f93ecc58e0d58393b"] = {
+        sha256 = "c973fb900462a9198415d932eaa5de230c673095f5327a58076b827b833869ff",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-96a7547afdaa413f93ecc58e0d58393b.7z",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc141-655aa7f87e644de382a739e3b04c3878"] = {
         sha256 = "31401ac44d00917cdc5e9b3d7b48c21bc0f426ad31f99c98583706806e9298d6",
@@ -44,19 +54,9 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc141-53ec0a88b63e4a69a39324da4230ba99.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc141-f5127a8ae40d4c2f8d69e59feeaa46fb"] = {
-        sha256 = "63f3f496b526367a05c5415fb1a114900d539ff5601c3ed71c8fe3a2c1b91463",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc141-f5127a8ae40d4c2f8d69e59feeaa46fb.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-911839ca4be649c9b6984aede0fea372"] = {
-        sha256 = "5a64bf0191ea1244a163a3a56556eabcfc07747575f7c067c2cec0d2f3aaba11",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-911839ca4be649c9b6984aede0fea372.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-790c798de7134e088396c59d823ae27f"] = {
-        sha256 = "fe805ec9c29b4f623ede02844e99711cdddf8346e3d41d5796ca38d184172870",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-790c798de7134e088396c59d823ae27f.7z",
+    ["windows-x64-vc142-f5127a8ae40d4c2f8d69e59feeaa46fb"] = {
+        sha256 = "db15ae9c16eec446abc1abc24e9b885bb025a6b56d02e990e65aac0971d6b816",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc142-f5127a8ae40d4c2f8d69e59feeaa46fb.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc141-790c798de7134e088396c59d823ae27f"] = {
@@ -64,19 +64,59 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc141-790c798de7134e088396c59d823ae27f.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x86-vc141-96a7547afdaa413f93ecc58e0d58393b"] = {
-        sha256 = "c973fb900462a9198415d932eaa5de230c673095f5327a58076b827b833869ff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-96a7547afdaa413f93ecc58e0d58393b.7z",
+    ["windows-x86-vc143-96a7547afdaa413f93ecc58e0d58393b"] = {
+        sha256 = "4facdb7fd8eded4326525635b5c9470bce07f05c76b59f5c419d2b30f591f309",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc143-96a7547afdaa413f93ecc58e0d58393b.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x86-vc142-53433d4da22a4ea391b598af51ce5957"] = {
+        sha256 = "0b505a7c1ed37f7720b75b5fdc1ad5253eed83c1cad0f243b3449f14e6996047",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-53433d4da22a4ea391b598af51ce5957.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-f5127a8ae40d4c2f8d69e59feeaa46fb"] = {
+        sha256 = "63f3f496b526367a05c5415fb1a114900d539ff5601c3ed71c8fe3a2c1b91463",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc141-f5127a8ae40d4c2f8d69e59feeaa46fb.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x86-vc141-f4b270f266ae4c6abf8a091248c8ef94"] = {
-        sha256 = "373cce730f634882e434af5407328b5a0b1bfde3e57ae9ebe708096cf43c89c4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc141-f4b270f266ae4c6abf8a091248c8ef94.7z",
-        toolset = "14.16.27023"
+    ["windows-x86-vc142-96a7547afdaa413f93ecc58e0d58393b"] = {
+        sha256 = "7964c4a59ba3f91b315bbd246cbdff56e3762c3b2f526b4db1497df4939bb98f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-96a7547afdaa413f93ecc58e0d58393b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-911839ca4be649c9b6984aede0fea372"] = {
+        sha256 = "7aa428b7a05e7e1ee2ff18d8113bb5d0433a01c0f0dcb9b40b528b48b090c714",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-911839ca4be649c9b6984aede0fea372.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-655aa7f87e644de382a739e3b04c3878"] = {
+        sha256 = "561818c92c3d2dda4e78cf76a0d196e5ff222c88537b4388338584ff98543091",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc143-655aa7f87e644de382a739e3b04c3878.7z",
+        toolset = "14.30.30705"
     },
     ["windows-x86-vc142-f4b270f266ae4c6abf8a091248c8ef94"] = {
-        sha256 = "8ce7a33ef3cd38a1f135e38cbf59940fb8affcd0158e8399273b59838897f082",
+        sha256 = "80e3720cebf4d76e9860bf6607e645b57ac944adef7685705de06b8465cbd2c2",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc142-f4b270f266ae4c6abf8a091248c8ef94.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-911839ca4be649c9b6984aede0fea372"] = {
+        sha256 = "d61ac230d3a9589eb52adc434b31c4c2ca03b5869c80a3b4a2fc07d34aa13eef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc143-911839ca4be649c9b6984aede0fea372.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x64-vc143-53ec0a88b63e4a69a39324da4230ba99"] = {
+        sha256 = "2bbd2bae80c8b0f50b7e77b06ec46fd03490ab870afd70d6952997ab2570e623",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x64-vc143-53ec0a88b63e4a69a39324da4230ba99.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x86-vc143-f4b270f266ae4c6abf8a091248c8ef94"] = {
+        sha256 = "bef5d92dea3bdd2b11541740fa98079e15f560113d85846e5bb0503a67c388ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc143-f4b270f266ae4c6abf8a091248c8ef94.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x86-vc143-53433d4da22a4ea391b598af51ce5957"] = {
+        sha256 = "c8e2d42f610107783a99be5341f76c2c2e180c3b5bf5001f5ccb727f1aa1d741",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openvdb-9.0.0/windows-x86-vc143-53433d4da22a4ea391b598af51ce5957.7z",
+        toolset = "14.30.30705"
     }
 }
