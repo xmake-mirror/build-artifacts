@@ -1,82 +1,82 @@
 {
-    ["windows-x64-vc143-79fac37d410447179d548ee1b4e0c53b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-79fac37d410447179d548ee1b4e0c53b.7z",
-        toolset = "14.30.30705",
-        sha256 = "e286bd1af0d38aaea6bb1a48de0d3c51def73e85f44fa8116d5a9c1f3ade3c56"
-    },
-    ["windows-x64-vc142-bf36fdca899b4935b78c1b7f3aa838f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-bf36fdca899b4935b78c1b7f3aa838f6.7z",
+    ["windows-x86-vc142-b784fc41fb674b6a9d4d0b6889dfb94e"] = {
+        sha256 = "8bd139bf9ef4d65b30ee4396d04f90886def2b5db7ad4017011aa2d9f7021d06",
         toolset = "14.29.30133",
-        sha256 = "d4309f94e86d732a604010cd4da84386e134ed287d3bdea201ae0c3856b99835"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-b784fc41fb674b6a9d4d0b6889dfb94e.7z"
     },
     ["windows-x86-vc143-bebc839913c24c03a8d8277b33eb61ad"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-bebc839913c24c03a8d8277b33eb61ad.7z",
+        sha256 = "ab45de625323bc10705bd81114dc7d1ec866b1c03ee50096160c2d9628c9d3ae",
         toolset = "14.30.30705",
-        sha256 = "1ba4c4156dfb6c1eaa0694b0c871813e9c3077cc16a556e215535b629896dbf6"
-    },
-    ["windows-x64-vc142-0c9ee8336ab34c4c938fc7ba44e0877e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-0c9ee8336ab34c4c938fc7ba44e0877e.7z",
-        toolset = "14.29.30133",
-        sha256 = "529e5bc72fb0543d50f8c6537db2655b7d45dded35b7e84bc32b183ed4617c27"
-    },
-    ["windows-x64-vc142-79fac37d410447179d548ee1b4e0c53b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-79fac37d410447179d548ee1b4e0c53b.7z",
-        toolset = "14.29.30133",
-        sha256 = "f84956693d02c697f6acb31d014e317f85cb827706dec1cd60be698b5876ffa9"
-    },
-    ["windows-x86-vc142-f84909df17024ecfb65c606f47f20a7f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-f84909df17024ecfb65c606f47f20a7f.7z",
-        toolset = "14.29.30133",
-        sha256 = "6fc99a82e66eef692928d34088c2343ccb0f95fe38802e4378a85a943777e356"
-    },
-    ["windows-x64-vc142-98bfdd438bed4e83bdb35d9bc148ff57"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-98bfdd438bed4e83bdb35d9bc148ff57.7z",
-        toolset = "14.29.30133",
-        sha256 = "eed7616c4d77c65b2062ed30a92995b939173c64e2a52210e1c13e92a250dfeb"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-bebc839913c24c03a8d8277b33eb61ad.7z"
     },
     ["windows-x64-vc143-98bfdd438bed4e83bdb35d9bc148ff57"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-98bfdd438bed4e83bdb35d9bc148ff57.7z",
+        sha256 = "6bce170caee812c6b5172d4fe68488023ef6d9ff7d47d005132792440941b43f",
         toolset = "14.30.30705",
-        sha256 = "6fef1b33b00fa23751e508a44e5674d1d860ecc6657274830623568f7c4ef6a2"
-    },
-    ["windows-x64-vc143-bf36fdca899b4935b78c1b7f3aa838f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-bf36fdca899b4935b78c1b7f3aa838f6.7z",
-        toolset = "14.30.30705",
-        sha256 = "88558a43ea29906ea7e2772a11dfb0f930550e100be43e33dc6b8a66d30c87fa"
-    },
-    ["windows-x86-vc143-b784fc41fb674b6a9d4d0b6889dfb94e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-b784fc41fb674b6a9d4d0b6889dfb94e.7z",
-        toolset = "14.30.30705",
-        sha256 = "cd5e723945926a041da2faf623c761084b250231846566c2d67226904a416273"
-    },
-    ["windows-x64-vc143-0c9ee8336ab34c4c938fc7ba44e0877e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-0c9ee8336ab34c4c938fc7ba44e0877e.7z",
-        toolset = "14.30.30705",
-        sha256 = "95264acd73e99a42391bd722f27b47a6d0318475fb147d18724196f04d3162d8"
-    },
-    ["windows-x86-vc143-81c9f5df3ac2452db2418d030e895af1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-81c9f5df3ac2452db2418d030e895af1.7z",
-        toolset = "14.30.30705",
-        sha256 = "0b8c1466f5f480661eeab5901f4d655e78b0e22c10df5db97082699b6d7a2603"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-98bfdd438bed4e83bdb35d9bc148ff57.7z"
     },
     ["windows-x86-vc142-81c9f5df3ac2452db2418d030e895af1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-81c9f5df3ac2452db2418d030e895af1.7z",
+        sha256 = "f83e4e0417edbd4e949e7b7f378db7e46c9ea24da87f2155c99acb2f8aec6307",
         toolset = "14.29.30133",
-        sha256 = "6d49bb3b40ae3954c6d3466c9e1f26e9117214c612ed6b0edf7babe42d96f484"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-81c9f5df3ac2452db2418d030e895af1.7z"
     },
-    ["windows-x86-vc143-f84909df17024ecfb65c606f47f20a7f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-f84909df17024ecfb65c606f47f20a7f.7z",
+    ["windows-x64-vc142-98bfdd438bed4e83bdb35d9bc148ff57"] = {
+        sha256 = "d55b492d6f25621011fe7a0ea0e7c963ca94275751e66b3a413e49ca890dab2e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-98bfdd438bed4e83bdb35d9bc148ff57.7z"
+    },
+    ["windows-x86-vc143-81c9f5df3ac2452db2418d030e895af1"] = {
+        sha256 = "c728bbf8da8ddddb51bbcce8ac93b3b2dc9794504204a36992240a9fc1c06e91",
         toolset = "14.30.30705",
-        sha256 = "f57cb913918c22f88efe5a7ab4489fdb441ac43baedd2e2a226954507f1fd8c0"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-81c9f5df3ac2452db2418d030e895af1.7z"
+    },
+    ["windows-x86-vc142-f84909df17024ecfb65c606f47f20a7f"] = {
+        sha256 = "447a9f28bd76058b6ce141097bd7b34996b3dc5ae9fe019f954f50b51a51e1ef",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-f84909df17024ecfb65c606f47f20a7f.7z"
+    },
+    ["windows-x64-vc142-bf36fdca899b4935b78c1b7f3aa838f6"] = {
+        sha256 = "b6b85fe61e53274ebbe2ff89df869934e8123b157c9cc48f745ce6ef46d1c1fc",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-bf36fdca899b4935b78c1b7f3aa838f6.7z"
     },
     ["windows-x86-vc142-bebc839913c24c03a8d8277b33eb61ad"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-bebc839913c24c03a8d8277b33eb61ad.7z",
+        sha256 = "f9b3237ffd47e76657bf454d8766e0ab8cd62b99441c8ac2f6073284a12a3abe",
         toolset = "14.29.30133",
-        sha256 = "b07cfa264190e2cb46ac19fbcb7d241dc32f41f9e73d7c4fa2017acb49e1a674"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-bebc839913c24c03a8d8277b33eb61ad.7z"
     },
-    ["windows-x86-vc142-b784fc41fb674b6a9d4d0b6889dfb94e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc142-b784fc41fb674b6a9d4d0b6889dfb94e.7z",
+    ["windows-x86-vc143-f84909df17024ecfb65c606f47f20a7f"] = {
+        sha256 = "4d4815347e95fd4753bd4cd4ca203b543ebe85d91ed54e780d227edab14a4cb7",
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-f84909df17024ecfb65c606f47f20a7f.7z"
+    },
+    ["windows-x64-vc143-bf36fdca899b4935b78c1b7f3aa838f6"] = {
+        sha256 = "cd9e3ab1a9b3457ba998395350acd05dff618418ee2547d4da80593c3a4f56c9",
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-bf36fdca899b4935b78c1b7f3aa838f6.7z"
+    },
+    ["windows-x64-vc142-0c9ee8336ab34c4c938fc7ba44e0877e"] = {
+        sha256 = "2195a960612aaeced0838f932eba6960a76b6b6ca8677ba0710d9fadefad000c",
         toolset = "14.29.30133",
-        sha256 = "fd41305aa25b20776d805e5f3527bd834545a278bac641cb8826338f15e82498"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-0c9ee8336ab34c4c938fc7ba44e0877e.7z"
+    },
+    ["windows-x64-vc142-79fac37d410447179d548ee1b4e0c53b"] = {
+        sha256 = "04c23ba4ed2969465ba3b037e2b24d1bf9ffbf1f9a9b34e3d34e71a6cf5a1479",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc142-79fac37d410447179d548ee1b4e0c53b.7z"
+    },
+    ["windows-x64-vc143-79fac37d410447179d548ee1b4e0c53b"] = {
+        sha256 = "2ae7eb300d9c3baa61c6f946cbe9da29b0358ed5c0522769b4aa367342c0fb14",
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-79fac37d410447179d548ee1b4e0c53b.7z"
+    },
+    ["windows-x86-vc143-b784fc41fb674b6a9d4d0b6889dfb94e"] = {
+        sha256 = "66754fd04c4f1b8f7bd7edda8575fe98b67d98e65f553b3be655da6cca3a0558",
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x86-vc143-b784fc41fb674b6a9d4d0b6889dfb94e.7z"
+    },
+    ["windows-x64-vc143-0c9ee8336ab34c4c938fc7ba44e0877e"] = {
+        sha256 = "bbd6408c24502e0061394fe7adfa1652572e76d06bb1cb29f4cb4dc3007dedac",
+        toolset = "14.30.30705",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.9.10/windows-x64-vc143-0c9ee8336ab34c4c938fc7ba44e0877e.7z"
     }
 }
