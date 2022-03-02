@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc142-d41b844be5d94cf3bad6ac79ec8f6823"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-d41b844be5d94cf3bad6ac79ec8f6823.7z",
-        sha256 = "642a774497bce10ec304863c4e941a7d405704eced56bf579b43b7135492e431",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-39eafcdf09cf469da4cbbdfc13a71319"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-39eafcdf09cf469da4cbbdfc13a71319.7z",
-        sha256 = "6087c693649d3ab66fa6b3ec6d22f1e7715702cc0f38415e0d0484b5e154665f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-2521c3f2167749d5a70d8295c4457a97"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-2521c3f2167749d5a70d8295c4457a97.7z",
-        sha256 = "abdc9c3fa7b1388558de0920d278bd58db813fd8064c5a4dd289afb749729615",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-2521c3f2167749d5a70d8295c4457a97"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc142-2521c3f2167749d5a70d8295c4457a97.7z",
-        sha256 = "1517739795b57c50aa00c8c7a96c31921708f2c5e62420e1862c1d2a1a19fe8e",
-        toolset = "14.29.30133"
+    ["windows-x64-vc141-d41b844be5d94cf3bad6ac79ec8f6823"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-d41b844be5d94cf3bad6ac79ec8f6823.7z",
+        sha256 = "f48a88094e124c2690d16042ef3aa7c62789e78ac5b7fce9e561b7386f281416"
     },
     ["windows-x86-vc142-3b839159709248a194166efb1ef43120"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc142-3b839159709248a194166efb1ef43120.7z",
-        sha256 = "b8bb3123d769c35d42a0b04f5323a69adfe79dcc613fbe958f00b2e7c40fece8",
-        toolset = "14.29.30133"
+        sha256 = "412ea32dd016387970b992da8fa0983b6618d69937694e11a72abebdb60b2624"
     },
-    ["windows-x86-vc141-3b839159709248a194166efb1ef43120"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-3b839159709248a194166efb1ef43120.7z",
-        sha256 = "ec6c7e395c184d6a113fcbe32695af0b87814db13b4f801161e84c3be90b8278",
-        toolset = "14.16.27023"
+    ["windows-x64-vc143-d41b844be5d94cf3bad6ac79ec8f6823"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc143-d41b844be5d94cf3bad6ac79ec8f6823.7z",
+        sha256 = "2a59c873bb5e29c66dca6a4016ac1ba736d46d0a1d9aa87f6f3832596b1cf055"
     },
-    ["windows-x64-vc141-39eafcdf09cf469da4cbbdfc13a71319"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-39eafcdf09cf469da4cbbdfc13a71319.7z",
-        sha256 = "bc41715fa0e77f1bbd1879e7bf732ff1296f467e2e348649d9c5820ef1474731",
-        toolset = "14.16.27023"
+    ["windows-x86-vc142-2521c3f2167749d5a70d8295c4457a97"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc142-2521c3f2167749d5a70d8295c4457a97.7z",
+        sha256 = "9b07d820c3551eee718305449fc261dd587a20de74e60f360cbdbacc2070d5c2"
     },
-    ["windows-x64-vc142-f75c1b0456e945eba22c569dd98bff98"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-f75c1b0456e945eba22c569dd98bff98.7z",
-        sha256 = "a7d385f66362a7e971a0f95e906bb00bbcfe364bfd39281917a0956c1cb8513a",
-        toolset = "14.29.30133"
+    ["windows-x64-vc143-39eafcdf09cf469da4cbbdfc13a71319"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc143-39eafcdf09cf469da4cbbdfc13a71319.7z",
+        sha256 = "7691b4c2349d89521eceb9a49eafa2ced4b9087f0d0b42a2b0ca79ceb9e1497b"
     },
-    ["windows-x64-vc141-f75c1b0456e945eba22c569dd98bff98"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-f75c1b0456e945eba22c569dd98bff98.7z",
-        sha256 = "9c800ca5e6f33c62b399f2f45532bbfe7b1efe3e1e165c6a359484873eb72ff2",
-        toolset = "14.16.27023"
+    ["windows-x86-vc143-4c9147dc410449dc8eb90fb45083cc9c"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc143-4c9147dc410449dc8eb90fb45083cc9c.7z",
+        sha256 = "bda3bef3a553a0f9279592df7887a282ccfedfb506f4f4801ba15f15685b6fc8"
     },
     ["windows-x64-vc142-021864cdde6e4946914f5b8de6134a25"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-021864cdde6e4946914f5b8de6134a25.7z",
-        sha256 = "39158244ff934f424f1ea0a5e21fb85ff591b25b5db9de5140eaa81f3e248268",
-        toolset = "14.29.30133"
+        sha256 = "77e427562785c89d94d5428bff0d7105a58fed3c3dd40b61706b42271f369d1a"
     },
-    ["windows-x64-vc141-d41b844be5d94cf3bad6ac79ec8f6823"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-d41b844be5d94cf3bad6ac79ec8f6823.7z",
-        sha256 = "f48a88094e124c2690d16042ef3aa7c62789e78ac5b7fce9e561b7386f281416",
-        toolset = "14.16.27023"
+    ["windows-x64-vc141-39eafcdf09cf469da4cbbdfc13a71319"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-39eafcdf09cf469da4cbbdfc13a71319.7z",
+        sha256 = "bc41715fa0e77f1bbd1879e7bf732ff1296f467e2e348649d9c5820ef1474731"
+    },
+    ["windows-x86-vc143-c6593e7734394005a7867909b8d7607a"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc143-c6593e7734394005a7867909b8d7607a.7z",
+        sha256 = "d8efc70b23858c06b61dc5573e1d2a515d92e643704b794ebae91185ff6a5f2d"
     },
     ["windows-x86-vc142-c6593e7734394005a7867909b8d7607a"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc142-c6593e7734394005a7867909b8d7607a.7z",
-        sha256 = "5d36e7bf3cf2a98dbe5a57eba162c2ba73b6f99406832b22a2d03b6d70ea456a",
-        toolset = "14.29.30133"
+        sha256 = "263da3e04fe57470859625ac6cb4d52e4451146b8b74e30e4b5eb840410d5527"
     },
-    ["windows-x86-vc141-c6593e7734394005a7867909b8d7607a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-c6593e7734394005a7867909b8d7607a.7z",
-        sha256 = "4247ff0539f6b3e9808e0feba9aecb4366a2377e8087168e973afee664c8d178",
-        toolset = "14.16.27023"
+    ["windows-x64-vc142-39eafcdf09cf469da4cbbdfc13a71319"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-39eafcdf09cf469da4cbbdfc13a71319.7z",
+        sha256 = "0ebec04413f56d442e744b89f727d105f0c095d172a6b6363b7ce87ba8b2f121"
+    },
+    ["windows-x64-vc142-d41b844be5d94cf3bad6ac79ec8f6823"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-d41b844be5d94cf3bad6ac79ec8f6823.7z",
+        sha256 = "337bd16e3dc110318b8d82635e1b88712a62ff6eae809f1fd2d4245eb5b30254"
+    },
+    ["windows-x64-vc142-f75c1b0456e945eba22c569dd98bff98"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc142-f75c1b0456e945eba22c569dd98bff98.7z",
+        sha256 = "317418d6396c2206fa3b6ff1f60f176cf5d00d2b9663a4613d0f8bc18e0162c6"
     },
     ["windows-x86-vc142-4c9147dc410449dc8eb90fb45083cc9c"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc142-4c9147dc410449dc8eb90fb45083cc9c.7z",
-        sha256 = "6ed7b5a2278cd49c6f04cf6d13eea676e09d570fd3630542db24ec1d4be66529",
-        toolset = "14.29.30133"
+        sha256 = "df87a14a3c5700d6767ab15242a5d7b16e911f1e0ebfa6e3e3cbca9a1a757cce"
+    },
+    ["windows-x64-vc143-f75c1b0456e945eba22c569dd98bff98"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc143-f75c1b0456e945eba22c569dd98bff98.7z",
+        sha256 = "254a1562cbca7c74e91e3482f98fe51011be1b0b06a3ab700fe1808b7de29c54"
+    },
+    ["windows-x64-vc141-f75c1b0456e945eba22c569dd98bff98"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-f75c1b0456e945eba22c569dd98bff98.7z",
+        sha256 = "9c800ca5e6f33c62b399f2f45532bbfe7b1efe3e1e165c6a359484873eb72ff2"
+    },
+    ["windows-x86-vc143-3b839159709248a194166efb1ef43120"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc143-3b839159709248a194166efb1ef43120.7z",
+        sha256 = "3d36365f799fd25cf3ba94154bdc4e9e896fa79a26b30c0f2785a7b8f6f1b7ed"
     },
     ["windows-x86-vc141-4c9147dc410449dc8eb90fb45083cc9c"] = {
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-4c9147dc410449dc8eb90fb45083cc9c.7z",
-        sha256 = "02e73cdb5cf67898411fa2da299db5003de0612701900bb3b26374de23d664d1",
-        toolset = "14.16.27023"
+        sha256 = "02e73cdb5cf67898411fa2da299db5003de0612701900bb3b26374de23d664d1"
+    },
+    ["windows-x86-vc143-2521c3f2167749d5a70d8295c4457a97"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc143-2521c3f2167749d5a70d8295c4457a97.7z",
+        sha256 = "83a99642bd58ed5c359706c5ae4e4cc7cfaad4b9fe96cb14ae67294b2d957ff5"
+    },
+    ["windows-x64-vc143-021864cdde6e4946914f5b8de6134a25"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc143-021864cdde6e4946914f5b8de6134a25.7z",
+        sha256 = "2e326495892fa35050e00675352ac114308fdffd6076419325c386b5b967c64f"
+    },
+    ["windows-x86-vc141-3b839159709248a194166efb1ef43120"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-3b839159709248a194166efb1ef43120.7z",
+        sha256 = "ec6c7e395c184d6a113fcbe32695af0b87814db13b4f801161e84c3be90b8278"
+    },
+    ["windows-x86-vc141-2521c3f2167749d5a70d8295c4457a97"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-2521c3f2167749d5a70d8295c4457a97.7z",
+        sha256 = "abdc9c3fa7b1388558de0920d278bd58db813fd8064c5a4dd289afb749729615"
+    },
+    ["windows-x86-vc141-c6593e7734394005a7867909b8d7607a"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x86-vc141-c6593e7734394005a7867909b8d7607a.7z",
+        sha256 = "4247ff0539f6b3e9808e0feba9aecb4366a2377e8087168e973afee664c8d178"
     },
     ["windows-x64-vc141-021864cdde6e4946914f5b8de6134a25"] = {
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/re2-2021.11.01/windows-x64-vc141-021864cdde6e4946914f5b8de6134a25.7z",
-        sha256 = "4648d305ea1a5f67401823292bf34cd06708931697a2826512abc06338b57715",
-        toolset = "14.16.27023"
+        sha256 = "4648d305ea1a5f67401823292bf34cd06708931697a2826512abc06338b57715"
     }
 }
