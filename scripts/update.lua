@@ -34,7 +34,7 @@ function main()
                 sha256 = hash.sha256(path.join("..", "assets", asset.name))
             }
             if asset.name:find("-vc143-", 1, true) then
-                manifest[buildid].toolset = "14.30.30705"
+                manifest[buildid].toolset = "14.31.31103"
             end
             if asset.name:find("-vc142-", 1, true) then
                 manifest[buildid].toolset = "14.29.30133"
