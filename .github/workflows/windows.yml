@@ -67,7 +67,8 @@ jobs:
 
       - name: Prepare
         run: |
-          iwr -useb get.scoop.sh | iex
+          iwr -useb get.scoop.sh -outfile 'install.ps1'
+          .\install.ps1 -RunAsAdmin
           scoop install gh
           gh --version
           Write-Output ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
