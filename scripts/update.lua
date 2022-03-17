@@ -25,33 +25,36 @@ function main()
         os.exec("git clone git@github.com:xmake-mirror/build-artifacts.git")
         os.cd("build-artifacts")
         local manifestfile = path.join("packages", name:sub(1, 1), name, version, "manifest.txt")
-        local manifest = os.isfile(manifestfile) and io.load(manifestfile) or {}
-        local manifest_oldkey = get_manifestkey(manifest)
-        for _, asset in ipairs(assets_json) do
-            local buildid = path.basename(asset.name)
-            manifest[buildid] = {
-                urls = asset.url,
-                sha256 = hash.sha256(path.join("..", "assets", asset.name))
-            }
-            if asset.name:find("-vc143-", 1, true) then
-                manifest[buildid].toolset = "14.31.31103"
-            end
-            if asset.name:find("-vc142-", 1, true) then
-                manifest[buildid].toolset = "14.29.30133"
-            end
-            if asset.name:find("-vc141-", 1, true) then
-                manifest[buildid].toolset = "14.16.27023"
-            end
-        end
-        if get_manifestkey(manifest) == manifest_oldkey then
-            print("manifest not changed!")
-            return
-        end
+
         local trycount = 0
         while trycount < 3 do
             local ok = try
             {
                 function ()
+                    -- Push failure will trigger git pull in catch.
+                    -- Reload manifest file in case it's content is changed.
+                    local manifest = os.isfile(manifestfile) and io.load(manifestfile) or {}
+                    local manifest_oldkey = get_manifestkey(manifest)
+                    for _, asset in ipairs(assets_json) do
+                        local buildid = path.basename(asset.name)
+                        manifest[buildid] = {
+                            urls = asset.url,
+                            sha256 = hash.sha256(path.join("..", "assets", asset.name))
+                        }
+                        if asset.name:find("-vc143-", 1, true) then
+                            manifest[buildid].toolset = "14.31.31103"
+                        end
+                        if asset.name:find("-vc142-", 1, true) then
+                            manifest[buildid].toolset = "14.29.30133"
+                        end
+                        if asset.name:find("-vc141-", 1, true) then
+                            manifest[buildid].toolset = "14.16.27023"
+                        end
+                    end
+                    if get_manifestkey(manifest) == manifest_oldkey then
+                        print("manifest not changed!")
+                        return
+                    end
                     io.save(manifestfile, manifest)
                     print(manifestfile)
                     io.cat(manifestfile)
