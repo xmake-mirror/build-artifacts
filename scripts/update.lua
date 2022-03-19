@@ -53,7 +53,6 @@ function main()
                     end
                     if get_manifestkey(manifest) == manifest_oldkey then
                         print("manifest not changed!")
-                        return
                     end
                     io.save(manifestfile, manifest)
                     print(manifestfile)
