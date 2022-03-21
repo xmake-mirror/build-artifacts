@@ -43,6 +43,7 @@ jobs:
 
   update:
     needs: build
+    if: always()
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v1
