@@ -18,6 +18,7 @@ function main()
         local tag = name .. "-" .. version
         local assets = os.iorunv("gh", {"release", "view", tag, "--json", "assets"})
         local assets_json = assert(json.decode(assets).assets, "assets not found!")
+        assert(#assets_json, "assets are empty!")
         os.mkdir("assets")
         for _, asset in ipairs(assets_json) do
             http.download(asset.url, path.join("assets", asset.name))
