@@ -87,6 +87,13 @@ end
 function main(...)
     local opt = option.parse(table.pack(...), options, "Build artifacts.", "", "Usage: xmake l scripts/build.lua [options]")
     local buildinfo = io.load(path.join(os.scriptdir(), "..", "build.txt"))
+    if buildinfo.configs then
+        if opt.configs then
+            opt.configs = opt.configs .. "," .. buildinfo.configs
+        else
+            opt.configs = buildinfo.configs
+        end
+    end
     for _, version in ipairs(buildinfo.versions) do
         local artifactfile = build(buildinfo.name, version, opt)
         local tag = buildinfo.name .. "-" .. version
