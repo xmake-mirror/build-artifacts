@@ -1,22 +1,12 @@
 {
-    ["windows-x86-vc141-c49c2aac6f424719aae1a939fbe5bd25"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-c49c2aac6f424719aae1a939fbe5bd25.7z",
-        sha256 = "88b570262e6699902953e8d0dc3188d6bdbcc066b4e02ad50f50e1fee6324e6a",
+    ["windows-x86-vc141-2bfec4e6f3ab412ca4a4e84717b50370"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-2bfec4e6f3ab412ca4a4e84717b50370.7z",
+        sha256 = "59e989ca866a813e503a77ed30ed1666103c8a24e1a77c5fe5798437d9359462",
         toolset = "14.16.27023"
     },
     ["windows-x86-vc142-055b5913496c49f89303784711dd9c25"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-055b5913496c49f89303784711dd9c25.7z",
-        sha256 = "1f05382e143d10e098c10ee989cbf63530d07963da955b665a947f42dba4b059",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-d96bd11a6d39483f8392f4423fc4c7d9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-d96bd11a6d39483f8392f4423fc4c7d9.7z",
-        sha256 = "ad72c58593451188efbda494e4a553812903a5bdcce83fc8a478ccdb69117df8",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-3f29b03cddd0421d976bf239d316c6a0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-3f29b03cddd0421d976bf239d316c6a0.7z",
-        sha256 = "1022abe87b84776d2daba27663bc1e1b305e107f789fe3e25950ddc4b70a5fa1",
+        sha256 = "334bd054923eed30500c864a0c47ac343fd024af0574d8197ebfe459d8bc6242",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc141-12ce79956fca405d81f5162eab55c8e6"] = {
@@ -24,119 +14,69 @@
         sha256 = "f9909d45b292026d3689c633bab85bdec695982680af8b14ca3ca5fe348da90d",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc142-04c61aa7d14f4ec08dc6dbb4d8add948"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-04c61aa7d14f4ec08dc6dbb4d8add948.7z",
-        sha256 = "939df54b01093fa6ffed56a0ca39e7c1f694cc32ed4f65f16c97ca3f3292a095",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-8adfec2a697f4bf4a3bd817cc327ffb3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-8adfec2a697f4bf4a3bd817cc327ffb3.7z",
-        sha256 = "c8717bbc74a114dd1fc5c0263cdb167db18d10bf851ff609e717847690986a48",
+    ["windows-x86-vc141-8fdfb7b93bc144abbaf6b4bc8aaaadad"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-8fdfb7b93bc144abbaf6b4bc8aaaadad.7z",
+        sha256 = "e1b63ab84785db57e4cf3c7f1987fa3b172d956fedbdcf0d3634ee354b40ead2",
         toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-42fa81ed6a4143c9ad74f6a0ca0e2d0e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-42fa81ed6a4143c9ad74f6a0ca0e2d0e.7z",
-        sha256 = "87b16d7f230aced0248c1a5c2abd8cd451c9a8b6befa924a146f17f61e2ab6c0",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-9a7373868deb45ec8fc4899fc2e9e933"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-9a7373868deb45ec8fc4899fc2e9e933.7z",
-        sha256 = "54784d0721562132f567db247916bc83bce512c55555021ddbfbd91e3305b6cf",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-2a1cfec7421146f5bae65be599eb9e31"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-2a1cfec7421146f5bae65be599eb9e31.7z",
-        sha256 = "752c06cf8a456c8b359c47c74cb494fb8378a2b79451eb5ad402966c7c354355",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-8fdfb7b93bc144abbaf6b4bc8aaaadad"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-8fdfb7b93bc144abbaf6b4bc8aaaadad.7z",
-        sha256 = "717119e291c76e1bf606b24ce40df509c31e93e139bc9e90beaf82e483908412",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-9a7373868deb45ec8fc4899fc2e9e933"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-9a7373868deb45ec8fc4899fc2e9e933.7z",
-        sha256 = "9fb4694488aedb456b2adbc492112a8e6c10193aaa49d9319ee8f0d710c8e07e",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-1d282056c590403e8e5480fa69d5441d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-1d282056c590403e8e5480fa69d5441d.7z",
-        sha256 = "05abeeb12a69e1ddfd1293c97528a5b47aa414bee35f7e51414362d6ca9e0e41",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-cdaa037324a24d808ba5b1055f46b840"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-cdaa037324a24d808ba5b1055f46b840.7z",
-        sha256 = "072c839f81bafa740293949c1cf2458c2ba0697b9b75048277ce4c34d8130746",
-        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-1d282056c590403e8e5480fa69d5441d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-1d282056c590403e8e5480fa69d5441d.7z",
         sha256 = "c2e0c060cb61d4124ba440f3298fe4ffc077f3f61ebe5fb6e662e4d56cd8f768",
         toolset = "14.29.30133"
     },
+    ["windows-x64-vc141-42fa81ed6a4143c9ad74f6a0ca0e2d0e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-42fa81ed6a4143c9ad74f6a0ca0e2d0e.7z",
+        sha256 = "87b16d7f230aced0248c1a5c2abd8cd451c9a8b6befa924a146f17f61e2ab6c0",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-8adfec2a697f4bf4a3bd817cc327ffb3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-8adfec2a697f4bf4a3bd817cc327ffb3.7z",
+        sha256 = "c8717bbc74a114dd1fc5c0263cdb167db18d10bf851ff609e717847690986a48",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-d96bd11a6d39483f8392f4423fc4c7d9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-d96bd11a6d39483f8392f4423fc4c7d9.7z",
+        sha256 = "ad72c58593451188efbda494e4a553812903a5bdcce83fc8a478ccdb69117df8",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-cdaa037324a24d808ba5b1055f46b840"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-cdaa037324a24d808ba5b1055f46b840.7z",
+        sha256 = "db1e7da31277cdfa363fc34dd059b8b6b87abf86134dbf468483cffa5d403053",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-c49c2aac6f424719aae1a939fbe5bd25"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-c49c2aac6f424719aae1a939fbe5bd25.7z",
+        sha256 = "88b570262e6699902953e8d0dc3188d6bdbcc066b4e02ad50f50e1fee6324e6a",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-9a7373868deb45ec8fc4899fc2e9e933"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-9a7373868deb45ec8fc4899fc2e9e933.7z",
+        sha256 = "9fb4694488aedb456b2adbc492112a8e6c10193aaa49d9319ee8f0d710c8e07e",
+        toolset = "14.16.27023"
+    },
     ["windows-x64-vc141-04c61aa7d14f4ec08dc6dbb4d8add948"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-04c61aa7d14f4ec08dc6dbb4d8add948.7z",
         sha256 = "e423ffe69b40e9c1e778dbbbb69501c676d1ef4f14d354535e8425310a5ef2d9",
         toolset = "14.16.27023"
     },
-    ["windows-x86-vc142-c49c2aac6f424719aae1a939fbe5bd25"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-c49c2aac6f424719aae1a939fbe5bd25.7z",
-        sha256 = "6ec3eb1b5db0e871980c6dc4bced0a43f577d1ed6ebdd368de0ae8159103ea23",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-8fdfb7b93bc144abbaf6b4bc8aaaadad"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-8fdfb7b93bc144abbaf6b4bc8aaaadad.7z",
-        sha256 = "e1b63ab84785db57e4cf3c7f1987fa3b172d956fedbdcf0d3634ee354b40ead2",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-055b5913496c49f89303784711dd9c25"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-055b5913496c49f89303784711dd9c25.7z",
-        sha256 = "7f5684a4b1fcd87a3613891ca60ffea511ff1969cf5536cc3afcbc1b4d342451",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-12ce79956fca405d81f5162eab55c8e6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-12ce79956fca405d81f5162eab55c8e6.7z",
-        sha256 = "0c297b8e0fec159ad9e63c74cca82e0bc6bfe2e18a87c39a6ec8405da821e966",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-d96bd11a6d39483f8392f4423fc4c7d9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-d96bd11a6d39483f8392f4423fc4c7d9.7z",
-        sha256 = "43e72ad828a83a36b06b38b8bc14f56e2ec520a4b848995d18299949b67861e5",
-        toolset = "14.29.30133"
-    },
     ["windows-x86-vc142-1b48a6d42e88488287591720c1cb71a3"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-1b48a6d42e88488287591720c1cb71a3.7z",
-        sha256 = "ee2ab8ff9be26e2361e0655b34806941aede19932d76a8bc40e23563cc8555f1",
+        sha256 = "d717cd4011fe18c6ecb0aee6dcf2adf22ea8bc646a49e476763d8204608583fe",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-2a1cfec7421146f5bae65be599eb9e31"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-2a1cfec7421146f5bae65be599eb9e31.7z",
-        sha256 = "754c6b55cd20106ff79b4f0f05f50133453ca5bcabe4cf4b4abd6cfd6d5d657c",
+    ["windows-x86-vc142-8fdfb7b93bc144abbaf6b4bc8aaaadad"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-8fdfb7b93bc144abbaf6b4bc8aaaadad.7z",
+        sha256 = "717119e291c76e1bf606b24ce40df509c31e93e139bc9e90beaf82e483908412",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc141-2bfec4e6f3ab412ca4a4e84717b50370"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-2bfec4e6f3ab412ca4a4e84717b50370.7z",
-        sha256 = "59e989ca866a813e503a77ed30ed1666103c8a24e1a77c5fe5798437d9359462",
+    ["windows-x64-vc141-de16af2b0e834cc28b9c2189e6caa521"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-de16af2b0e834cc28b9c2189e6caa521.7z",
+        sha256 = "c044d1bd1604cdbd109a65f726a7dd6f5e61cca674b08bcc74602113d33b0956",
         toolset = "14.16.27023"
     },
-    ["windows-x86-vc141-1b48a6d42e88488287591720c1cb71a3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-1b48a6d42e88488287591720c1cb71a3.7z",
-        sha256 = "227acc999e8b78ec920242785cc6d410375bc6bb1b4c7bc038e64166bfc00cd1",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-cdaa037324a24d808ba5b1055f46b840"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-cdaa037324a24d808ba5b1055f46b840.7z",
-        sha256 = "eeebaf79f0536c57b96085b5dd5b2705f759cc9c7653a6e1aa67d0559f7743a6",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-8adfec2a697f4bf4a3bd817cc327ffb3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-8adfec2a697f4bf4a3bd817cc327ffb3.7z",
-        sha256 = "aa78a32c43ae1a39c7eb2c1d9b69cbbcd966e09879a596e838557b83df5de426",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-42fa81ed6a4143c9ad74f6a0ca0e2d0e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-42fa81ed6a4143c9ad74f6a0ca0e2d0e.7z",
-        sha256 = "75439589a09a3c1868341339e32f6d4c41e666a18c9525f18aa105bfac07db49",
+    ["windows-x86-vc142-9a7373868deb45ec8fc4899fc2e9e933"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-9a7373868deb45ec8fc4899fc2e9e933.7z",
+        sha256 = "13ee589cbf17b48861ce5fb32ea6d7efcbde60d9035a59749b7a820d5ab11b83",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc141-3f29b03cddd0421d976bf239d316c6a0"] = {
@@ -144,14 +84,74 @@
         sha256 = "13258a63b3944932889fd9f7e5127511e56d95dca6419df5711be3228a1a5c78",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc141-de16af2b0e834cc28b9c2189e6caa521"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-de16af2b0e834cc28b9c2189e6caa521.7z",
-        sha256 = "c044d1bd1604cdbd109a65f726a7dd6f5e61cca674b08bcc74602113d33b0956",
+    ["windows-x64-vc142-04c61aa7d14f4ec08dc6dbb4d8add948"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-04c61aa7d14f4ec08dc6dbb4d8add948.7z",
+        sha256 = "b4b12537fddf1013178ac695556d770dee411b86fe198663c17cd130fa0dd67f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-cdaa037324a24d808ba5b1055f46b840"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-cdaa037324a24d808ba5b1055f46b840.7z",
+        sha256 = "eeebaf79f0536c57b96085b5dd5b2705f759cc9c7653a6e1aa67d0559f7743a6",
         toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-1b48a6d42e88488287591720c1cb71a3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-1b48a6d42e88488287591720c1cb71a3.7z",
+        sha256 = "227acc999e8b78ec920242785cc6d410375bc6bb1b4c7bc038e64166bfc00cd1",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-2a1cfec7421146f5bae65be599eb9e31"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-2a1cfec7421146f5bae65be599eb9e31.7z",
+        sha256 = "754c6b55cd20106ff79b4f0f05f50133453ca5bcabe4cf4b4abd6cfd6d5d657c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-055b5913496c49f89303784711dd9c25"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-055b5913496c49f89303784711dd9c25.7z",
+        sha256 = "7f5684a4b1fcd87a3613891ca60ffea511ff1969cf5536cc3afcbc1b4d342451",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-2a1cfec7421146f5bae65be599eb9e31"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc141-2a1cfec7421146f5bae65be599eb9e31.7z",
+        sha256 = "752c06cf8a456c8b359c47c74cb494fb8378a2b79451eb5ad402966c7c354355",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-d96bd11a6d39483f8392f4423fc4c7d9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-d96bd11a6d39483f8392f4423fc4c7d9.7z",
+        sha256 = "43e72ad828a83a36b06b38b8bc14f56e2ec520a4b848995d18299949b67861e5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-42fa81ed6a4143c9ad74f6a0ca0e2d0e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-42fa81ed6a4143c9ad74f6a0ca0e2d0e.7z",
+        sha256 = "4e59adc5f72f8f70ec01e8d2e33dd37dd764cbda335176a4af3e4e2facdaef58",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-c49c2aac6f424719aae1a939fbe5bd25"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-c49c2aac6f424719aae1a939fbe5bd25.7z",
+        sha256 = "a7ce78b822db14be96a37689e6bfb8898a886838f3baf8ef51dcf38184cc2ef6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-3f29b03cddd0421d976bf239d316c6a0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc142-3f29b03cddd0421d976bf239d316c6a0.7z",
+        sha256 = "1022abe87b84776d2daba27663bc1e1b305e107f789fe3e25950ddc4b70a5fa1",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc142-de16af2b0e834cc28b9c2189e6caa521"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-de16af2b0e834cc28b9c2189e6caa521.7z",
         sha256 = "53c76ebc3e5df549f9309d6cf743d46983a73138c7b269c878c0763cc870c682",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-8adfec2a697f4bf4a3bd817cc327ffb3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-8adfec2a697f4bf4a3bd817cc327ffb3.7z",
+        sha256 = "42fe79a941104484579545bfd172724075cf2aaf20092e8ead49b4f924942d13",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-1d282056c590403e8e5480fa69d5441d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x86-vc141-1d282056c590403e8e5480fa69d5441d.7z",
+        sha256 = "05abeeb12a69e1ddfd1293c97528a5b47aa414bee35f7e51414362d6ca9e0e41",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-12ce79956fca405d81f5162eab55c8e6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/corrade-v2020.06/windows-x64-vc142-12ce79956fca405d81f5162eab55c8e6.7z",
+        sha256 = "0c297b8e0fec159ad9e63c74cca82e0bc6bfe2e18a87c39a6ec8405da821e966",
         toolset = "14.29.30133"
     }
 }
