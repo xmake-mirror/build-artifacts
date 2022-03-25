@@ -1,82 +1,102 @@
 {
-    ["windows-x64-vc141-4bd0f805d7844d51bd0d33b2df0a0017"] = {
-        toolset = "14.16.27023",
-        sha256 = "4f8b6a0ae17f0a54da7934bc7731f71be4a91f05572d2a6d7379353d9901519d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-4bd0f805d7844d51bd0d33b2df0a0017.7z"
+    ["windows-x86-vc143-0a1908e565534d0c9f47d4619f49cd43"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc143-0a1908e565534d0c9f47d4619f49cd43.7z",
+        sha256 = "b4374c5cd3524383d7c2b2bdfe400226ef79160678baca155f5167d8997eea53",
+        toolset = "14.31.31103"
     },
     ["windows-x64-vc141-98f6f0a2951e46dcb5fda41e1159e24f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-98f6f0a2951e46dcb5fda41e1159e24f.7z",
         toolset = "14.16.27023",
-        sha256 = "9b7fdf22b50b8e06b2e0ed58adf3b446a0bdd73ca21705d4f5b29ae1ff58df84",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-98f6f0a2951e46dcb5fda41e1159e24f.7z"
-    },
-    ["windows-x64-vc142-4ddc1ee2c2254666a20aab9e8929bb0c"] = {
-        toolset = "14.29.30133",
-        sha256 = "a5c660d69b98987d017bfc43dd05d4b2a4e28b34bcda75f62780783f35fb1210",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-4ddc1ee2c2254666a20aab9e8929bb0c.7z"
-    },
-    ["windows-x86-vc141-9b67a5ea8e43429988c44f90ddd49dd1"] = {
-        toolset = "14.16.27023",
-        sha256 = "2bbeda2b29e7e55e39589ddafc0aa0a3f35b1e3438a75e4af08ebc8432bfde82",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-9b67a5ea8e43429988c44f90ddd49dd1.7z"
-    },
-    ["windows-x86-vc142-0a1908e565534d0c9f47d4619f49cd43"] = {
-        toolset = "14.29.30133",
-        sha256 = "6dbf6f414db878af2e4205f143924e5bfcc83de14ee25845d84c19d3ca50c20a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-0a1908e565534d0c9f47d4619f49cd43.7z"
+        sha256 = "9b7fdf22b50b8e06b2e0ed58adf3b446a0bdd73ca21705d4f5b29ae1ff58df84"
     },
     ["windows-x86-vc141-0a1908e565534d0c9f47d4619f49cd43"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-0a1908e565534d0c9f47d4619f49cd43.7z",
         toolset = "14.16.27023",
-        sha256 = "405b8bbe27d7aa80991566d4a90766d6cc4f42a4d1eda493f784ee1f8b6c0d7f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-0a1908e565534d0c9f47d4619f49cd43.7z"
-    },
-    ["windows-x86-vc142-9b67a5ea8e43429988c44f90ddd49dd1"] = {
-        toolset = "14.29.30133",
-        sha256 = "900737db5fe40f04a6940aeac119ad2ea8211843ea3ca9f513150adccb83ce67",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-9b67a5ea8e43429988c44f90ddd49dd1.7z"
-    },
-    ["windows-x86-vc142-e3a78615931e4c97805b3575919a5d62"] = {
-        toolset = "14.29.30133",
-        sha256 = "e53fc311ca60c323d41bb20fef25fba5c2caf7ce4cbee55f6d11c753ab448931",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-e3a78615931e4c97805b3575919a5d62.7z"
-    },
-    ["windows-x64-vc142-4bd0f805d7844d51bd0d33b2df0a0017"] = {
-        toolset = "14.29.30133",
-        sha256 = "b6ef59abbbe19938b54924593c93ba62b32517181befeae8e913f976113793cb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-4bd0f805d7844d51bd0d33b2df0a0017.7z"
-    },
-    ["windows-x86-vc141-e3a78615931e4c97805b3575919a5d62"] = {
-        toolset = "14.16.27023",
-        sha256 = "6d231d2615bfac63373d192f0ae5193c33ebdc68e19ad65d610da320a490a5ef",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-e3a78615931e4c97805b3575919a5d62.7z"
-    },
-    ["windows-x64-vc141-be9ffde62e1f447c926ade2e4c1d8194"] = {
-        toolset = "14.16.27023",
-        sha256 = "f39a89eb3a99595c9363755fd1a7bd6f6f2e49143def933c1469b8a86706d604",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-be9ffde62e1f447c926ade2e4c1d8194.7z"
-    },
-    ["windows-x64-vc142-98f6f0a2951e46dcb5fda41e1159e24f"] = {
-        toolset = "14.29.30133",
-        sha256 = "62487b47f8d51b252cd5dc84a3944d44fba90976dd9850d3d5df6e7190eea87c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-98f6f0a2951e46dcb5fda41e1159e24f.7z"
-    },
-    ["windows-x64-vc142-be9ffde62e1f447c926ade2e4c1d8194"] = {
-        toolset = "14.29.30133",
-        sha256 = "0a8dbd3e9237e776156ed9efdc5dea15a994d366e6277104a768ea390287bd55",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-be9ffde62e1f447c926ade2e4c1d8194.7z"
+        sha256 = "405b8bbe27d7aa80991566d4a90766d6cc4f42a4d1eda493f784ee1f8b6c0d7f"
     },
     ["windows-x64-vc141-4ddc1ee2c2254666a20aab9e8929bb0c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-4ddc1ee2c2254666a20aab9e8929bb0c.7z",
         toolset = "14.16.27023",
-        sha256 = "01be016ead60f41b606fe4235d29b79083544468fc64f9efb0132a4d2aa71b4f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-4ddc1ee2c2254666a20aab9e8929bb0c.7z"
+        sha256 = "01be016ead60f41b606fe4235d29b79083544468fc64f9efb0132a4d2aa71b4f"
     },
-    ["windows-x86-vc141-125e26f6482e46deb616b14b0e4ef177"] = {
+    ["windows-x86-vc141-e3a78615931e4c97805b3575919a5d62"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-e3a78615931e4c97805b3575919a5d62.7z",
         toolset = "14.16.27023",
-        sha256 = "17037e82cc53c87ec76196d200b951ea11c37508c45207f6d399e7eb6da53ddd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-125e26f6482e46deb616b14b0e4ef177.7z"
+        sha256 = "6d231d2615bfac63373d192f0ae5193c33ebdc68e19ad65d610da320a490a5ef"
+    },
+    ["windows-x86-vc142-e3a78615931e4c97805b3575919a5d62"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-e3a78615931e4c97805b3575919a5d62.7z",
+        toolset = "14.29.30133",
+        sha256 = "e53fc311ca60c323d41bb20fef25fba5c2caf7ce4cbee55f6d11c753ab448931"
+    },
+    ["windows-x64-vc143-98f6f0a2951e46dcb5fda41e1159e24f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc143-98f6f0a2951e46dcb5fda41e1159e24f.7z",
+        sha256 = "cfdd327d66c6b4f4f0b04e34840a417f71152a702d88bbb89bf00bf4564e6819",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc141-4bd0f805d7844d51bd0d33b2df0a0017"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-4bd0f805d7844d51bd0d33b2df0a0017.7z",
+        toolset = "14.16.27023",
+        sha256 = "4f8b6a0ae17f0a54da7934bc7731f71be4a91f05572d2a6d7379353d9901519d"
+    },
+    ["windows-x86-vc142-0a1908e565534d0c9f47d4619f49cd43"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-0a1908e565534d0c9f47d4619f49cd43.7z",
+        sha256 = "a95fbf0e53742a98dd7c9dcaa05c6208d4f799f4e84b5fed279c4b74d8f56a08",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-9b67a5ea8e43429988c44f90ddd49dd1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc143-9b67a5ea8e43429988c44f90ddd49dd1.7z",
+        sha256 = "e8c3384ee5be6060ba95703743b56b1861f2081854ffd8b3d6a582639f3a2fd4",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc142-be9ffde62e1f447c926ade2e4c1d8194"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-be9ffde62e1f447c926ade2e4c1d8194.7z",
+        sha256 = "a6d0a227bf3e081b9c8dd9729f71ae6d5dc35169f2799e8621a19e741641951f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-98f6f0a2951e46dcb5fda41e1159e24f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-98f6f0a2951e46dcb5fda41e1159e24f.7z",
+        sha256 = "ce73e490204a395969015c50ea66dfdf9e854523e7d6308fbc265dd7cafc6e7a",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-125e26f6482e46deb616b14b0e4ef177"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-125e26f6482e46deb616b14b0e4ef177.7z",
         toolset = "14.29.30133",
-        sha256 = "43dbda96e45df634394fc73a28a4cc8b7940905c56061ce28cdd444f12b56b55",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-125e26f6482e46deb616b14b0e4ef177.7z"
+        sha256 = "43dbda96e45df634394fc73a28a4cc8b7940905c56061ce28cdd444f12b56b55"
+    },
+    ["windows-x64-vc142-4ddc1ee2c2254666a20aab9e8929bb0c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-4ddc1ee2c2254666a20aab9e8929bb0c.7z",
+        toolset = "14.29.30133",
+        sha256 = "a5c660d69b98987d017bfc43dd05d4b2a4e28b34bcda75f62780783f35fb1210"
+    },
+    ["windows-x64-vc143-be9ffde62e1f447c926ade2e4c1d8194"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc143-be9ffde62e1f447c926ade2e4c1d8194.7z",
+        sha256 = "eb14f0960ced4a01f46e7a4d1d5757e4053a34a12ae189e0dfdfe5cc9b720b5f",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc141-9b67a5ea8e43429988c44f90ddd49dd1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-9b67a5ea8e43429988c44f90ddd49dd1.7z",
+        toolset = "14.16.27023",
+        sha256 = "2bbeda2b29e7e55e39589ddafc0aa0a3f35b1e3438a75e4af08ebc8432bfde82"
+    },
+    ["windows-x64-vc141-be9ffde62e1f447c926ade2e4c1d8194"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc141-be9ffde62e1f447c926ade2e4c1d8194.7z",
+        toolset = "14.16.27023",
+        sha256 = "f39a89eb3a99595c9363755fd1a7bd6f6f2e49143def933c1469b8a86706d604"
+    },
+    ["windows-x64-vc142-4bd0f805d7844d51bd0d33b2df0a0017"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x64-vc142-4bd0f805d7844d51bd0d33b2df0a0017.7z",
+        toolset = "14.29.30133",
+        sha256 = "b6ef59abbbe19938b54924593c93ba62b32517181befeae8e913f976113793cb"
+    },
+    ["windows-x86-vc142-9b67a5ea8e43429988c44f90ddd49dd1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc142-9b67a5ea8e43429988c44f90ddd49dd1.7z",
+        sha256 = "daab06860e6c1e98e3bfb7bf37caf72839d3851b17a53e74112456b57fcb2ed6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-125e26f6482e46deb616b14b0e4ef177"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libevent-2.1.12/windows-x86-vc141-125e26f6482e46deb616b14b0e4ef177.7z",
+        toolset = "14.16.27023",
+        sha256 = "17037e82cc53c87ec76196d200b951ea11c37508c45207f6d399e7eb6da53ddd"
     }
 }
