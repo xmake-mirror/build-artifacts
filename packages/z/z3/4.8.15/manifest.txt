@@ -1,42 +1,77 @@
 {
-    ["windows-x64-vc142-07036280ed9d4c76945b965cd6719e25"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-07036280ed9d4c76945b965cd6719e25.7z",
-        toolset = "14.29.30133",
-        sha256 = "819a5a69c303b78ba8af8f1fd0f372b6f3c63a66b51d5e359d4973403be916bd"
-    },
-    ["windows-x64-vc143-d334a165534448968044ef737fe80d60"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc143-d334a165534448968044ef737fe80d60.7z",
-        toolset = "14.31.31103",
-        sha256 = "20a1d5a0947da1403c3b56053ad8784f7c7d073af9180cef7360d7542c754330"
-    },
-    ["windows-x64-vc142-228c4aa5a44643f3baa651aec2b7ecd0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-228c4aa5a44643f3baa651aec2b7ecd0.7z",
-        toolset = "14.29.30133",
-        sha256 = "57ce016ee7adde62e02c4f54f1f0c02807d605b804942669b33f0dcb90a34849"
-    },
     ["windows-x64-vc142-d334a165534448968044ef737fe80d60"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-d334a165534448968044ef737fe80d60.7z",
         toolset = "14.29.30133",
-        sha256 = "2ca9a3ea21cbf2c4b749f827e61d5d25ec6d3f0e3f0ad184af1da2aac80401c5"
+        sha256 = "70a586bfc2c2c70097c6d9156565006fb71576cded3534204d21f42f7e47d329"
     },
     ["windows-x64-vc143-91c916ceebc64b5daacedfe235800390"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc143-91c916ceebc64b5daacedfe235800390.7z",
         toolset = "14.31.31103",
-        sha256 = "bcd59ae6d9cd0b1b179c273141f49c7e0d9bb3fb87ba1c7e55938531f2a0c7fb"
+        sha256 = "8728a44b7961d4f66fbc68b997afa24b2c41d2a16f4c2c0d63164f914357beb0"
     },
-    ["windows-x64-vc142-91c916ceebc64b5daacedfe235800390"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-91c916ceebc64b5daacedfe235800390.7z",
+    ["windows-x64-vc142-228c4aa5a44643f3baa651aec2b7ecd0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-228c4aa5a44643f3baa651aec2b7ecd0.7z",
         toolset = "14.29.30133",
-        sha256 = "6c419763e73d3140f2683308d5afb470feee58982dc2e4b02cc43c67244501c5"
+        sha256 = "857b8f90c46e55f6b4643141cd1b38a5ca3d01ac8fa2af613109fb9edf102a68"
     },
-    ["windows-x64-vc143-228c4aa5a44643f3baa651aec2b7ecd0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc143-228c4aa5a44643f3baa651aec2b7ecd0.7z",
+    ["windows-x64-vc143-d334a165534448968044ef737fe80d60"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc143-d334a165534448968044ef737fe80d60.7z",
         toolset = "14.31.31103",
-        sha256 = "ef84d4966127f06237b405aa94fca73d9235e14a17d813ea7ed7017713406f1d"
+        sha256 = "a69f622d3b517f6509ad5648eab05a59ab8e0423a93fd4d5a712cf640aadd12b"
+    },
+    ["windows-x64-vc142-07036280ed9d4c76945b965cd6719e25"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-07036280ed9d4c76945b965cd6719e25.7z",
+        toolset = "14.29.30133",
+        sha256 = "4eae8d4e0284d6e0657dd908e32afc8fce57841f7721da1e8568a43b1248c363"
     },
     ["windows-x64-vc143-07036280ed9d4c76945b965cd6719e25"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc143-07036280ed9d4c76945b965cd6719e25.7z",
         toolset = "14.31.31103",
-        sha256 = "df1895dff10e6ad3d2efd8f5c7e699009c21881ef542aeab73980d9e09730a51"
+        sha256 = "2426b0b29ee06382e52436d3ee8392795fd335179126f62055d19fb0af54e2af"
+    },
+    ["windows-x86-vc143-cb8e2da178dd4cc6a11b70e7aa8f8593"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc143-cb8e2da178dd4cc6a11b70e7aa8f8593.7z",
+        toolset = "14.31.31103",
+        sha256 = "7553ea7d61832650ca6f16b9ed788231a47906419028f80a133226e197688259"
+    },
+    ["windows-x86-vc142-93e9d6dff5e9496f9d71e6179ef7a18e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc142-93e9d6dff5e9496f9d71e6179ef7a18e.7z",
+        toolset = "14.29.30133",
+        sha256 = "06ca5d08c63fb9929181e7a639d31580fd066f3a881137e9acf598155d40471a"
+    },
+    ["windows-x86-vc142-4b2e9974bc14452f811ced5e0ea07b23"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc142-4b2e9974bc14452f811ced5e0ea07b23.7z",
+        toolset = "14.29.30133",
+        sha256 = "c8e60e9ebb69c06f445e48365e21385219f01f8d5a3fe4e5cd02a78286fc82eb"
+    },
+    ["windows-x86-vc142-875068d5490f437fb1ca58f07aafb2af"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc142-875068d5490f437fb1ca58f07aafb2af.7z",
+        toolset = "14.29.30133",
+        sha256 = "4ba086b1a89d2b12306ad565a06f14650b5c4af09a076bccadd5e48b09ed4f2a"
+    },
+    ["windows-x86-vc142-cb8e2da178dd4cc6a11b70e7aa8f8593"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc142-cb8e2da178dd4cc6a11b70e7aa8f8593.7z",
+        toolset = "14.29.30133",
+        sha256 = "b5a689d61f6a4cabe07f7dcf108283c375181bca91148dc17b0fcb39f0fbd7c9"
+    },
+    ["windows-x64-vc142-91c916ceebc64b5daacedfe235800390"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc142-91c916ceebc64b5daacedfe235800390.7z",
+        toolset = "14.29.30133",
+        sha256 = "cb7c9915644f3769ea2ed2ded627354b44e61951bd21e642d33fb15b8f4e283c"
+    },
+    ["windows-x86-vc143-875068d5490f437fb1ca58f07aafb2af"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc143-875068d5490f437fb1ca58f07aafb2af.7z",
+        toolset = "14.31.31103",
+        sha256 = "ebe8e9ff35c826e7e5f2b2659402f1191a2e35798bea4e94fc0c42e43f1f720c"
+    },
+    ["windows-x64-vc143-228c4aa5a44643f3baa651aec2b7ecd0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x64-vc143-228c4aa5a44643f3baa651aec2b7ecd0.7z",
+        toolset = "14.31.31103",
+        sha256 = "a794463d0ee13a1d2188717960f509c09a8d99bfcb7deaaf26124f42476b011e"
+    },
+    ["windows-x86-vc143-4b2e9974bc14452f811ced5e0ea07b23"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/z3-4.8.15/windows-x86-vc143-4b2e9974bc14452f811ced5e0ea07b23.7z",
+        toolset = "14.31.31103",
+        sha256 = "071507ac63323e216dfaa8085d6eee15cf5f226be71b821b43ee5a23c94f59a2"
     }
 }
