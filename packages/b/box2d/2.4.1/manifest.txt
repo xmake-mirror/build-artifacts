@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc141-5bc75fae347a4c1ba3fb7a224aa8d1cc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-5bc75fae347a4c1ba3fb7a224aa8d1cc.7z",
-        toolset = "14.16.27023",
-        sha256 = "23eb5d0969afff7fed9a44da0e8d9501e26d90aa64de1091081ae52f00cec303"
-    },
-    ["windows-x64-vc142-2254c13fd6954a02bb9a5932e8e653dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-2254c13fd6954a02bb9a5932e8e653dc.7z",
-        toolset = "14.29.30037",
-        sha256 = "528e153a9500ec221fce2c4d411b57dd22e4b68be897e447dfa3c26f8546cbfc"
-    },
-    ["windows-x64-vc141-7c26baed17b84a3f9a5269310d60970a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-7c26baed17b84a3f9a5269310d60970a.7z",
-        toolset = "14.16.27023",
-        sha256 = "3dfad013c16d1de624ce65b0f0cad86ba8fdb5cd9d80f7dc5446dbc121f72a69"
-    },
-    ["windows-x64-vc142-7c26baed17b84a3f9a5269310d60970a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-7c26baed17b84a3f9a5269310d60970a.7z",
-        toolset = "14.29.30037",
-        sha256 = "aac411dddac860d42d65ab2df3c3023ce2658129276d59817bb272f5a5202d72"
-    },
-    ["windows-x86-vc142-751f0c9b4c2a4719a5a951d6c58ab306"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-751f0c9b4c2a4719a5a951d6c58ab306.7z",
-        toolset = "14.29.30037",
-        sha256 = "9695e52c045ced831fc159f9e8e8e0ef02135d2070a2ce068799d1c81aba8233"
-    },
     ["windows-x86-vc142-5bc75fae347a4c1ba3fb7a224aa8d1cc"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-5bc75fae347a4c1ba3fb7a224aa8d1cc.7z",
-        toolset = "14.29.30037",
-        sha256 = "c31d7eb686dda31b7b285423899eab5e2c235d139a7f1a607c69084e1161e2df"
-    },
-    ["windows-x86-vc141-a202d6086b4b433baecb323f3b66d3d1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-a202d6086b4b433baecb323f3b66d3d1.7z",
-        toolset = "14.16.27023",
-        sha256 = "98ee0b014a203fd56bc87ed5b7648ae2d86fdbfc0b2ba53290cd960fa5490693"
-    },
-    ["windows-x64-vc142-e3d67bc280364f6c8715d98a5e382159"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-e3d67bc280364f6c8715d98a5e382159.7z",
-        toolset = "14.29.30037",
-        sha256 = "ed829bd0d355480252550cba9e99a6bad46802ae6d560c3c71aa4991c659e164"
-    },
-    ["windows-x86-vc142-a202d6086b4b433baecb323f3b66d3d1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-a202d6086b4b433baecb323f3b66d3d1.7z",
-        toolset = "14.29.30037",
-        sha256 = "301d12c408d5367d4c00b81d8cb5872bf667bb8ea528516b18bb124252f0d6d8"
-    },
-    ["windows-x64-vc142-05cc028aef754f309a8d88e0f59daae5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-05cc028aef754f309a8d88e0f59daae5.7z",
-        toolset = "14.29.30037",
-        sha256 = "1df8684cdcf20ac78ec6149b16e2778742d830bcb0759d93ab84d20d1a8a489c"
-    },
-    ["windows-x64-vc141-05cc028aef754f309a8d88e0f59daae5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-05cc028aef754f309a8d88e0f59daae5.7z",
-        toolset = "14.16.27023",
-        sha256 = "374ec22433edb93eb26d08d444f78b3d4cf1e5ebbdb9df91cef60a91757e452a"
-    },
-    ["windows-x86-vc141-3aa72809f35f4edc83fff921c47df757"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-3aa72809f35f4edc83fff921c47df757.7z",
-        toolset = "14.16.27023",
-        sha256 = "c70ddb34ccd9d4883c231f77706e52fac4b9201dd14ff5e4c63a7dc62dfce213"
-    },
-    ["windows-x86-vc142-3aa72809f35f4edc83fff921c47df757"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-3aa72809f35f4edc83fff921c47df757.7z",
-        toolset = "14.29.30037",
-        sha256 = "409c59910e85dd19683c4d49217074e17b3d5203bedc5464fe97476f64ad2a55"
-    },
-    ["windows-x64-vc141-e3d67bc280364f6c8715d98a5e382159"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-e3d67bc280364f6c8715d98a5e382159.7z",
-        toolset = "14.16.27023",
-        sha256 = "180c36a9e1f59e8334fbbb47b87df2757bc0cdce3ef06665fbb278309ffad695"
+        sha256 = "9e2ca87120e3b0270a89d40ceca4fbefaf11b344bdc977f963b1a690d71ddbd8",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc141-751f0c9b4c2a4719a5a951d6c58ab306"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-751f0c9b4c2a4719a5a951d6c58ab306.7z",
-        toolset = "14.16.27023",
-        sha256 = "70f68ed55b4c4d0059557def763220f389165d407679d98702fdba5d05c5d76d"
+        sha256 = "70f68ed55b4c4d0059557def763220f389165d407679d98702fdba5d05c5d76d",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-5bc75fae347a4c1ba3fb7a224aa8d1cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-5bc75fae347a4c1ba3fb7a224aa8d1cc.7z",
+        sha256 = "23eb5d0969afff7fed9a44da0e8d9501e26d90aa64de1091081ae52f00cec303",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-3aa72809f35f4edc83fff921c47df757"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-3aa72809f35f4edc83fff921c47df757.7z",
+        sha256 = "294f7af934d4b4e36344c28f23b5428b096a42385cbb39b73d52ace50ddd16fb",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-751f0c9b4c2a4719a5a951d6c58ab306"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-751f0c9b4c2a4719a5a951d6c58ab306.7z",
+        sha256 = "c1d8b036d26586848fa5151b70e9b69fbed0971307fae75b4dfb4ed787042310",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc141-2254c13fd6954a02bb9a5932e8e653dc"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-2254c13fd6954a02bb9a5932e8e653dc.7z",
-        toolset = "14.16.27023",
-        sha256 = "133ff3a13ff44b3d73f4d8a799ebfd32260228112d8f86d4c1a6aa4285a70996"
+        sha256 = "133ff3a13ff44b3d73f4d8a799ebfd32260228112d8f86d4c1a6aa4285a70996",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-7c26baed17b84a3f9a5269310d60970a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc143-7c26baed17b84a3f9a5269310d60970a.7z",
+        sha256 = "3b69f79c11c92993811a16b67259f35dacd79befc58f7b4e9bba192a12e93860",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc143-5bc75fae347a4c1ba3fb7a224aa8d1cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc143-5bc75fae347a4c1ba3fb7a224aa8d1cc.7z",
+        sha256 = "22d32e7e6589f8cd5468ec8417472b7846058aad981f7324380ad13a453a5741",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc141-e3d67bc280364f6c8715d98a5e382159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-e3d67bc280364f6c8715d98a5e382159.7z",
+        sha256 = "180c36a9e1f59e8334fbbb47b87df2757bc0cdce3ef06665fbb278309ffad695",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc143-3aa72809f35f4edc83fff921c47df757"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc143-3aa72809f35f4edc83fff921c47df757.7z",
+        sha256 = "86f3f564f9f11923bd6b104cb9b5d4ffda43132910ddb076e4fc0891ad7cc78e",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc141-05cc028aef754f309a8d88e0f59daae5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-05cc028aef754f309a8d88e0f59daae5.7z",
+        sha256 = "374ec22433edb93eb26d08d444f78b3d4cf1e5ebbdb9df91cef60a91757e452a",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-7c26baed17b84a3f9a5269310d60970a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc141-7c26baed17b84a3f9a5269310d60970a.7z",
+        sha256 = "3dfad013c16d1de624ce65b0f0cad86ba8fdb5cd9d80f7dc5446dbc121f72a69",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-7c26baed17b84a3f9a5269310d60970a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-7c26baed17b84a3f9a5269310d60970a.7z",
+        sha256 = "81860e211ea26efc819f0e31195bc53868c545886afa8858dfc11914bdf95a90",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-2254c13fd6954a02bb9a5932e8e653dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-2254c13fd6954a02bb9a5932e8e653dc.7z",
+        sha256 = "106fa16e40985261402012ae184e738fe6509ce12fe3734d93128a01de7312a4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-751f0c9b4c2a4719a5a951d6c58ab306"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc143-751f0c9b4c2a4719a5a951d6c58ab306.7z",
+        sha256 = "11f66b33361b24b62d68a18b35b261addcc1d9248d2a7d97a17d439c4963d416",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc143-2254c13fd6954a02bb9a5932e8e653dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc143-2254c13fd6954a02bb9a5932e8e653dc.7z",
+        sha256 = "af6dd55fc22ab611c47ec2f127cd2d970c62f75b5c7e5ce5dd6b3c7dc20dd1dc",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc142-a202d6086b4b433baecb323f3b66d3d1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc142-a202d6086b4b433baecb323f3b66d3d1.7z",
+        sha256 = "ce75e3a25a09d24807ce4cc8a049dce67089b115d53e9b46eb73b6488b7fe629",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-3aa72809f35f4edc83fff921c47df757"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-3aa72809f35f4edc83fff921c47df757.7z",
+        sha256 = "c70ddb34ccd9d4883c231f77706e52fac4b9201dd14ff5e4c63a7dc62dfce213",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-05cc028aef754f309a8d88e0f59daae5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-05cc028aef754f309a8d88e0f59daae5.7z",
+        sha256 = "55592252725124ac9383ffbc5d951f3955081843c2e2180f416eb51a4b2555ec",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-05cc028aef754f309a8d88e0f59daae5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc143-05cc028aef754f309a8d88e0f59daae5.7z",
+        sha256 = "3813f14fd11cac9bb59ba354af434f472e7c0e9d3119419dbfa6f0f5170d3eb9",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc141-a202d6086b4b433baecb323f3b66d3d1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc141-a202d6086b4b433baecb323f3b66d3d1.7z",
+        sha256 = "98ee0b014a203fd56bc87ed5b7648ae2d86fdbfc0b2ba53290cd960fa5490693",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-e3d67bc280364f6c8715d98a5e382159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc143-e3d67bc280364f6c8715d98a5e382159.7z",
+        sha256 = "8548e32d78053aa2e0146c3b387e18ae3696e3612020dc6aec437e2aaf9fa764",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc143-a202d6086b4b433baecb323f3b66d3d1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x86-vc143-a202d6086b4b433baecb323f3b66d3d1.7z",
+        sha256 = "f71c003277e95b18b19bb63b14e1f1a5ab0fdcf3e52d1f529a47433e124318d0",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc142-e3d67bc280364f6c8715d98a5e382159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/box2d-2.4.1/windows-x64-vc142-e3d67bc280364f6c8715d98a5e382159.7z",
+        sha256 = "711def303b0037494a1b3a5f06e6e1d069e0a84c3c704856a187d75cea1ca3dd",
+        toolset = "14.29.30133"
     }
 }
