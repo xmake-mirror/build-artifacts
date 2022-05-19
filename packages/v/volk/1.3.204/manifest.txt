@@ -1,7 +1,12 @@
 {
     ["windows-x64-vc142-cdf759c19d5b48de9b20389a2210ea08"] = {
-        sha256 = "080548041897e55af714bfcb9221ee6996bf5d53d16e9b3f0a40f7d33b61b523",
+        sha256 = "0357d2270f7e5315608cf105083fea8d8953c747a04127772d003131bf9c9231",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x64-vc142-cdf759c19d5b48de9b20389a2210ea08.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-2638f2e86a4e4d0a9ed4bdf1325eceba"] = {
+        sha256 = "979c6136febb0463d15771875d8583995f13a89ffa20a1e8d55858c36e7de7dd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x86-vc142-2638f2e86a4e4d0a9ed4bdf1325eceba.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc143-2638f2e86a4e4d0a9ed4bdf1325eceba"] = {
@@ -9,18 +14,8 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x86-vc143-2638f2e86a4e4d0a9ed4bdf1325eceba.7z",
         toolset = "14.31.31103"
     },
-    ["windows-x64-vc143-a4cb03696aaf4f85a21feab3f153de66"] = {
-        sha256 = "67fbd39e3f1bcf7e994b6fea91bb78e31852c7b04496a0b8f26f7bd63cc58104",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x64-vc143-a4cb03696aaf4f85a21feab3f153de66.7z",
-        toolset = "14.31.31103"
-    },
-    ["windows-x64-vc142-a4cb03696aaf4f85a21feab3f153de66"] = {
-        sha256 = "2b09bce493d621e72dade1ad270f74ba1d1a3bdfc0ba6ba5ae184661c8c1600b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x64-vc142-a4cb03696aaf4f85a21feab3f153de66.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x86-vc142-30f724873413450b810f4f318cd256b9"] = {
-        sha256 = "795b7e9dcfd300e3a74f90aecffed943f3edda7d9ace94069b05b01bd04b518a",
+        sha256 = "f9b7fbb7b257c0b058c536a8602cb2ab114a51383c12b0d57f0077f947776de8",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x86-vc142-30f724873413450b810f4f318cd256b9.7z",
         toolset = "14.29.30133"
     },
@@ -29,14 +24,19 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x64-vc143-cdf759c19d5b48de9b20389a2210ea08.7z",
         toolset = "14.31.31103"
     },
-    ["windows-x86-vc142-2638f2e86a4e4d0a9ed4bdf1325eceba"] = {
-        sha256 = "cc2f0d51e175bb3d9fcef3435533c537c9c34db131ab586e8296414c0599e967",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x86-vc142-2638f2e86a4e4d0a9ed4bdf1325eceba.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x86-vc143-30f724873413450b810f4f318cd256b9"] = {
         sha256 = "4e5bb902a1980af4042112a1749782d01fe7084aeb5d876c932027d7d4856dcc",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x86-vc143-30f724873413450b810f4f318cd256b9.7z",
         toolset = "14.31.31103"
+    },
+    ["windows-x64-vc143-a4cb03696aaf4f85a21feab3f153de66"] = {
+        sha256 = "67fbd39e3f1bcf7e994b6fea91bb78e31852c7b04496a0b8f26f7bd63cc58104",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x64-vc143-a4cb03696aaf4f85a21feab3f153de66.7z",
+        toolset = "14.31.31103"
+    },
+    ["windows-x64-vc142-a4cb03696aaf4f85a21feab3f153de66"] = {
+        sha256 = "1789b4ee6d4b86ad717d9b00ac285d7484fd5ac6e7d6db748b319b675495e66c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/volk-1.3.204/windows-x64-vc142-a4cb03696aaf4f85a21feab3f153de66.7z",
+        toolset = "14.29.30133"
     }
 }
