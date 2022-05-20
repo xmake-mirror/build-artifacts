@@ -1,12 +1,17 @@
 {
+    ["windows-x86-vc143-7a1cc59316c44231a3e944ca19b646bc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc143-7a1cc59316c44231a3e944ca19b646bc.7z",
+        sha256 = "f224aff28c12f8fa3a9d0df68d7664dfe2ed9d91046dff8d525941bfbbf5c6f3",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc143-9bcfd157e19f4a5891fda937466cecc1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc143-9bcfd157e19f4a5891fda937466cecc1.7z",
+        sha256 = "be825607a3d7bd202f56bf53533ccbcac21dcf795dc1c34b86cf58097489c498",
+        toolset = "14.31.31103"
+    },
     ["windows-x86-vc142-b4e52578c79e49a4adcf61f455936db2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-b4e52578c79e49a4adcf61f455936db2.7z",
-        sha256 = "94ab9f46355d6850b9d6776f0e3e7a47c5e10f1a5d4ea71a66ed8071f2c5f151",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-35e25e3544914c7eb797dcbd2ebb86b5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-35e25e3544914c7eb797dcbd2ebb86b5.7z",
-        sha256 = "badf9d1af5644edbdea04b54db9b8fe0e7cf3710ef0d502b5b0e857d69e3c4dc",
+        sha256 = "75533e345eccbe592b43dcdcabee28d1e21c40c3297bf366afbf2e2a163e7d59",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc143-56ffea8e214d4bd88e897e4f1f332c4c"] = {
@@ -14,29 +19,29 @@
         sha256 = "7225a746b6c9e6d2c0457cec49c2aa5979993d0de9012a3b6e9603e91b7c93b5",
         toolset = "14.31.31103"
     },
-    ["windows-x86-vc142-7a1cc59316c44231a3e944ca19b646bc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-7a1cc59316c44231a3e944ca19b646bc.7z",
-        sha256 = "9d9636fca23752e471675af54aedbf0b3719ae0740a7425c7c741d3b226e4df8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-d07ed8c4bbef4949b16c35a3e0ce5fff"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc142-d07ed8c4bbef4949b16c35a3e0ce5fff.7z",
-        sha256 = "43ebadcbbd0e4413505f9436f57792bad09bdcf02100a7112df3770b970ed0cd",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-8f99585af28340119d237cfeb034f3c7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc142-8f99585af28340119d237cfeb034f3c7.7z",
-        sha256 = "663ee5271102be34b1996a4b9c0131e8b2cfe60a30e0005feb482ec84c49036a",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-7a1cc59316c44231a3e944ca19b646bc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc143-7a1cc59316c44231a3e944ca19b646bc.7z",
-        sha256 = "f224aff28c12f8fa3a9d0df68d7664dfe2ed9d91046dff8d525941bfbbf5c6f3",
+    ["windows-x64-vc143-8f99585af28340119d237cfeb034f3c7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc143-8f99585af28340119d237cfeb034f3c7.7z",
+        sha256 = "c1b015c22e9c6f1ccf1afee10fc1527877c2012230a3ebfcb59749ed4bb67f74",
         toolset = "14.31.31103"
     },
     ["windows-x64-vc142-d3b7f68e00424aa682b68cfdc065f9b6"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc142-d3b7f68e00424aa682b68cfdc065f9b6.7z",
-        sha256 = "c9df361a674d52a885493de6cfb3aa6e419309716f9e059dce4ac5eeddf54ba6",
+        sha256 = "a39afa435faf5ba16c0aa760eb8f605659c9078c29bbaf24f90c0ecddca024f3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-35e25e3544914c7eb797dcbd2ebb86b5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-35e25e3544914c7eb797dcbd2ebb86b5.7z",
+        sha256 = "4b5086d6fcc18130585ef5d8b867e9ef5a9b0c322f866e896227321c2bfcbdd0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-35e25e3544914c7eb797dcbd2ebb86b5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc143-35e25e3544914c7eb797dcbd2ebb86b5.7z",
+        sha256 = "c7a388a6b2eaa4ef6772f7b8c281c52644dae7e047571194addfa2ba078423cd",
+        toolset = "14.31.31103"
+    },
+    ["windows-x86-vc142-9bcfd157e19f4a5891fda937466cecc1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-9bcfd157e19f4a5891fda937466cecc1.7z",
+        sha256 = "e4b202bde9c6bc1ce83b7978adecd6b8d70703ac93f4d7145991fae888793ac9",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc143-b4e52578c79e49a4adcf61f455936db2"] = {
@@ -44,19 +49,14 @@
         sha256 = "c0c116e909a9cfcb07f36c45ae2f3bab8a0072e46e2b4401a60301904e2e5568",
         toolset = "14.31.31103"
     },
-    ["windows-x64-vc143-8f99585af28340119d237cfeb034f3c7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc143-8f99585af28340119d237cfeb034f3c7.7z",
-        sha256 = "c1b015c22e9c6f1ccf1afee10fc1527877c2012230a3ebfcb59749ed4bb67f74",
-        toolset = "14.31.31103"
-    },
-    ["windows-x86-vc142-9bcfd157e19f4a5891fda937466cecc1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-9bcfd157e19f4a5891fda937466cecc1.7z",
-        sha256 = "034e1d2c34fa818bd5c68a38485340a3c11a88682959463bf8c0f45b78f2906a",
+    ["windows-x64-vc142-8f99585af28340119d237cfeb034f3c7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc142-8f99585af28340119d237cfeb034f3c7.7z",
+        sha256 = "a6a3e97f0f4168cb04a954b763dc698ffeed11330bdf30d60eb0be080f400204",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc142-56ffea8e214d4bd88e897e4f1f332c4c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc142-56ffea8e214d4bd88e897e4f1f332c4c.7z",
-        sha256 = "a6788fe91d50c5f9cce211a21e0a45267b857c1b7f26cfe1562a2fbb75e4fb30",
+        sha256 = "daeec97bae8236eb755abbe2bad5df8244d3b2e6a4d7be9fc7761d534f98639b",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc143-d3b7f68e00424aa682b68cfdc065f9b6"] = {
@@ -64,19 +64,19 @@
         sha256 = "b1e9324e931fcc169d1f58bae3b8cd4d0712902ffbbd45398e703ab47b79d1dc",
         toolset = "14.31.31103"
     },
-    ["windows-x86-vc143-35e25e3544914c7eb797dcbd2ebb86b5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc143-35e25e3544914c7eb797dcbd2ebb86b5.7z",
-        sha256 = "c7a388a6b2eaa4ef6772f7b8c281c52644dae7e047571194addfa2ba078423cd",
-        toolset = "14.31.31103"
-    },
     ["windows-x64-vc143-d07ed8c4bbef4949b16c35a3e0ce5fff"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc143-d07ed8c4bbef4949b16c35a3e0ce5fff.7z",
         sha256 = "63858609afff5d95ad556431c2cb83564690d6ddec61135885cb7f3f757607dd",
         toolset = "14.31.31103"
     },
-    ["windows-x86-vc143-9bcfd157e19f4a5891fda937466cecc1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc143-9bcfd157e19f4a5891fda937466cecc1.7z",
-        sha256 = "be825607a3d7bd202f56bf53533ccbcac21dcf795dc1c34b86cf58097489c498",
-        toolset = "14.31.31103"
+    ["windows-x86-vc142-7a1cc59316c44231a3e944ca19b646bc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x86-vc142-7a1cc59316c44231a3e944ca19b646bc.7z",
+        sha256 = "750129ad4d1cbd7c6badca7e0c16058e49b3f15848e69c01fac91d3c2882f5a7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-d07ed8c4bbef4949b16c35a3e0ce5fff"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-4.5.5/windows-x64-vc142-d07ed8c4bbef4949b16c35a3e0ce5fff.7z",
+        sha256 = "99c4013d0cb59cf570a71693268a1aa02851200cb9ba8b1aba594e04326ea08e",
+        toolset = "14.29.30133"
     }
 }
