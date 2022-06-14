@@ -1,194 +1,234 @@
 {
-    ["windows-x64-c42b6b4209734abcab9da62a66890d55"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-c42b6b4209734abcab9da62a66890d55.7z",
-        sha256 = "782e8552209d95f2dbea851e5180fee45d2a41af62b1e4bcd90327dfd2382699"
-    },
-    ["windows-x64-vc141-37d39fa8929d43ca9794e23f880dee2b"] = {
-        toolset = "14.16.27023",
-        sha256 = "117e19767d5fbbe30141a7d14080161a4fbc08b4e3618e9d39396fef9f0cd3ca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-37d39fa8929d43ca9794e23f880dee2b.7z"
-    },
-    ["windows-x86-vc141-3a836d8af13e45008a93c6c9f74d8a1f"] = {
-        toolset = "14.16.27023",
-        sha256 = "8a5ca7a1493e3a4685a2cbe8667ac45b9ec079dd9a986358fa53175bc8c28c8e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-3a836d8af13e45008a93c6c9f74d8a1f.7z"
-    },
-    ["windows-x64-c56ba11d95d34132bfedfb55e01f877c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-c56ba11d95d34132bfedfb55e01f877c.7z",
-        sha256 = "a24191418d9ec724581a8a771268b4fc1d110811288f091c0621ffbecfea88f0"
-    },
-    ["windows-x64-vc141-71c99316164a412ab4b45fd32eeb130a"] = {
-        toolset = "14.16.27023",
-        sha256 = "51ff3bcfac6371300dcabef7762135840062ff50dd1e90bd077d78de81184d98",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-71c99316164a412ab4b45fd32eeb130a.7z"
-    },
-    ["windows-x64-vc142-c42b6b4209734abcab9da62a66890d55"] = {
-        toolset = "14.29.30037",
-        sha256 = "9ddc2adbb9999ce3f1cc874787babc3ec7fceb682abaf51ff06ad7bb07cc04ff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-c42b6b4209734abcab9da62a66890d55.7z"
-    },
-    ["windows-x64-vc141-c42b6b4209734abcab9da62a66890d55"] = {
-        toolset = "14.16.27023",
-        sha256 = "ff5f417111bf54982450e07b5138ec871aa556b3e76408b018868332ecde26a7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-c42b6b4209734abcab9da62a66890d55.7z"
-    },
-    ["windows-x64-vc141-10bf94b0ca6442fda474976628e81e3e"] = {
-        toolset = "14.16.27023",
-        sha256 = "34617a21799308967deff3ec6647b8776c46e1b4dbfa056cf3cdfee0d20fa9ca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-10bf94b0ca6442fda474976628e81e3e.7z"
-    },
-    ["windows-x86-53119446f7ff4eb88ceb7d39813fc381"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-53119446f7ff4eb88ceb7d39813fc381.7z",
-        sha256 = "ac79dce136bb881bf01554c195162dcdba0320ac37f215a725a6588787177f10"
-    },
-    ["windows-x86-6e933fab82284478a66c6723fc62dfcb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-6e933fab82284478a66c6723fc62dfcb.7z",
-        sha256 = "7dc05755db58ab093dad9eef8ac8ee434fc14b79e7c1983db55861295bf72c96"
-    },
-    ["windows-x64-vc141-13e6f4a6b257413e98184c57fe7c168b"] = {
-        toolset = "14.16.27023",
-        sha256 = "9238530ae76380e4be7c49a675effd2b8d7f8f05420a12e35d910da08dc0b36b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-13e6f4a6b257413e98184c57fe7c168b.7z"
-    },
-    ["windows-x64-71c99316164a412ab4b45fd32eeb130a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-71c99316164a412ab4b45fd32eeb130a.7z",
-        sha256 = "73a248c3d3f9588c7798a7845cb339bede118cbb25bc256a27c7c8400fd06fa0"
-    },
-    ["windows-x86-7cefa108679d460f9b60e17ebd9ff4e8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-7cefa108679d460f9b60e17ebd9ff4e8.7z",
-        sha256 = "f82268ffb6ddf4294223285eb18debf6422815c82037376e96e956ec1ac7c36e"
-    },
-    ["windows-x64-vc142-c56ba11d95d34132bfedfb55e01f877c"] = {
-        toolset = "14.29.30037",
-        sha256 = "441be6a9ded764fa4a2eef0b2d5b12d6af5e32f0e82b842800edb8746aace69b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-c56ba11d95d34132bfedfb55e01f877c.7z"
-    },
-    ["windows-x86-3a836d8af13e45008a93c6c9f74d8a1f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-3a836d8af13e45008a93c6c9f74d8a1f.7z",
-        sha256 = "167e032662df04d5f32d668434fc146d5cbd894740735ec4193d37c0624ccbd2"
+    ["windows-x64-37d39fa8929d43ca9794e23f880dee2b"] = {
+        sha256 = "dd8bbe07543b28a60691aaeab22c3ef3f39346e61e38fe1773965d389d829227",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-37d39fa8929d43ca9794e23f880dee2b.7z"
     },
     ["windows-x64-vc141-9a7b90f9543843bf9558013c7c11fee7"] = {
-        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-9a7b90f9543843bf9558013c7c11fee7.7z",
         sha256 = "666269e72fec8851f9ba7fae4a6adf5b19f8d0a22b57347a46721658bba8f687",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-9a7b90f9543843bf9558013c7c11fee7.7z"
+        toolset = "14.16.27023"
     },
-    ["windows-x64-37d39fa8929d43ca9794e23f880dee2b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-37d39fa8929d43ca9794e23f880dee2b.7z",
-        sha256 = "dd8bbe07543b28a60691aaeab22c3ef3f39346e61e38fe1773965d389d829227"
+    ["windows-x64-vc141-71c99316164a412ab4b45fd32eeb130a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-71c99316164a412ab4b45fd32eeb130a.7z",
+        sha256 = "51ff3bcfac6371300dcabef7762135840062ff50dd1e90bd077d78de81184d98",
+        toolset = "14.16.27023"
     },
-    ["windows-x86-vc141-7cefa108679d460f9b60e17ebd9ff4e8"] = {
-        toolset = "14.16.27023",
-        sha256 = "3fb21c493acd2ea841e006a6f6af373fce93fcaab54c7545924a6ae6646f4b10",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-7cefa108679d460f9b60e17ebd9ff4e8.7z"
-    },
-    ["windows-x86-vc141-53119446f7ff4eb88ceb7d39813fc381"] = {
-        toolset = "14.16.27023",
-        sha256 = "40138b95c2cb5eaa50f9d0ea957b0129a8608564e6c4dfa6d20e00a934f536a6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-53119446f7ff4eb88ceb7d39813fc381.7z"
-    },
-    ["windows-x86-vc141-6e933fab82284478a66c6723fc62dfcb"] = {
-        toolset = "14.16.27023",
-        sha256 = "0ae34b4463c9451b485e689253ff63deeb8aa0d999bf49942768400844f69b2f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-6e933fab82284478a66c6723fc62dfcb.7z"
-    },
-    ["windows-x64-vc141-ebca1d41e1a84747be637d784d8576de"] = {
-        toolset = "14.16.27023",
-        sha256 = "696b429095c24d33cc588433a10a59355f5ea8cf7704a325cbf9a2cc42df2979",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-ebca1d41e1a84747be637d784d8576de.7z"
-    },
-    ["windows-x86-vc142-3a836d8af13e45008a93c6c9f74d8a1f"] = {
-        toolset = "14.29.30037",
-        sha256 = "76f0c0d7237633d48bb47022b42d2f529d77ede175a740a7dc02e720b4465133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-3a836d8af13e45008a93c6c9f74d8a1f.7z"
-    },
-    ["windows-x86-vc142-7cefa108679d460f9b60e17ebd9ff4e8"] = {
-        toolset = "14.29.30037",
-        sha256 = "55db27665579eaf86e70dd74fe155e75234c2b7a4237f9e93ed1cdb44c214a74",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-7cefa108679d460f9b60e17ebd9ff4e8.7z"
-    },
-    ["windows-x64-vc142-10bf94b0ca6442fda474976628e81e3e"] = {
-        toolset = "14.29.30037",
-        sha256 = "198b2aaf3d5db6822fdfd65a71707c6dc91d1cb9ba64ef17fade0d73356ca16f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-10bf94b0ca6442fda474976628e81e3e.7z"
-    },
-    ["windows-x64-vc142-71c99316164a412ab4b45fd32eeb130a"] = {
-        toolset = "14.29.30037",
-        sha256 = "d369da7db1ea225b7d673d39def30df71b4e116e9cd08373dae56f9b73cbf308",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-71c99316164a412ab4b45fd32eeb130a.7z"
-    },
-    ["windows-x86-vc142-6126cff31ac44001a078d119e4b492d7"] = {
-        toolset = "14.29.30037",
-        sha256 = "6bb42f7b46f087b992ced5eaf47f119750b43713d431393a5a365fd0bffd54a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-6126cff31ac44001a078d119e4b492d7.7z"
-    },
-    ["windows-x64-vc142-13e6f4a6b257413e98184c57fe7c168b"] = {
-        toolset = "14.29.30037",
-        sha256 = "9157b13ca437c644dca8381628bc55b514b40c4d1106f719f7780bd692562024",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-13e6f4a6b257413e98184c57fe7c168b.7z"
-    },
-    ["windows-x86-vc142-53119446f7ff4eb88ceb7d39813fc381"] = {
-        toolset = "14.29.30037",
-        sha256 = "6724370b6b13e81b02fde0c5367be649c76868e678c36a3c1ea334e40c388f5c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-53119446f7ff4eb88ceb7d39813fc381.7z"
-    },
-    ["windows-x86-vc142-9c8ca7a1717d4802a6e839abb0d37263"] = {
-        toolset = "14.29.30037",
-        sha256 = "0c458bdb6496945331f5c61f20060346c20fb2a612ef6ab8edf502964d2f2288",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-9c8ca7a1717d4802a6e839abb0d37263.7z"
-    },
-    ["windows-x86-vc142-f0731bef876c4b3fa46a7b801e8f871c"] = {
-        toolset = "14.29.30037",
-        sha256 = "d5cd277fa83a10a89d14c8c9aae7f43f1df4683d56d2582eadf9130391844b2e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-f0731bef876c4b3fa46a7b801e8f871c.7z"
-    },
-    ["windows-x64-vc141-c56ba11d95d34132bfedfb55e01f877c"] = {
-        toolset = "14.16.27023",
-        sha256 = "492020602cd4ee923780ac1d8cfd7cf97801f3a8307778615017dc3a5e7cecde",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-c56ba11d95d34132bfedfb55e01f877c.7z"
-    },
-    ["windows-x86-vc142-6e933fab82284478a66c6723fc62dfcb"] = {
-        toolset = "14.29.30037",
-        sha256 = "1ef8b895b35958e2919820f9da63c1f55e6ae27471a3dfa54fcd4d02847dc0d2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-6e933fab82284478a66c6723fc62dfcb.7z"
-    },
-    ["windows-x86-vc141-3b558e67b9e54765bfeb4a44ee7c43c5"] = {
-        toolset = "14.16.27023",
-        sha256 = "fe36511fb7eee8a152e2f5137cd98c3a5078281bb62ebbcaa03f4441d3fe6f42",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-3b558e67b9e54765bfeb4a44ee7c43c5.7z"
-    },
-    ["windows-x86-vc141-f0731bef876c4b3fa46a7b801e8f871c"] = {
-        toolset = "14.16.27023",
-        sha256 = "e896efd15fef6ab3c7c538423a65d2d46f73db80e903709f1cb3ae2bf2fa84a7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-f0731bef876c4b3fa46a7b801e8f871c.7z"
-    },
-    ["windows-x86-vc141-6126cff31ac44001a078d119e4b492d7"] = {
-        toolset = "14.16.27023",
-        sha256 = "ba44a4e35306b07a97052bc1746b1b8c9cef7426b980090ffd5d4291485e1f75",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-6126cff31ac44001a078d119e4b492d7.7z"
-    },
-    ["windows-x86-vc141-9c8ca7a1717d4802a6e839abb0d37263"] = {
-        toolset = "14.16.27023",
-        sha256 = "e5c5ab7ed88c5ef89ace57998e0a142ef22feab406419fb4f955302f5a5b17a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-9c8ca7a1717d4802a6e839abb0d37263.7z"
-    },
-    ["windows-x64-vc142-ebca1d41e1a84747be637d784d8576de"] = {
-        toolset = "14.29.30037",
-        sha256 = "d78d86dec40bf6977903e7a7cd78c977b2217e529af5657631c6c4cf2ffe02b8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-ebca1d41e1a84747be637d784d8576de.7z"
-    },
-    ["windows-x86-vc142-3b558e67b9e54765bfeb4a44ee7c43c5"] = {
-        toolset = "14.29.30037",
-        sha256 = "ed27c2745a3c6fc1f5f748034c067dd8241a483091ce36af3cfbb2bbcca170b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-3b558e67b9e54765bfeb4a44ee7c43c5.7z"
-    },
-    ["windows-x64-vc142-37d39fa8929d43ca9794e23f880dee2b"] = {
-        toolset = "14.29.30037",
-        sha256 = "cda526b8a55ccd20b211adbd3646f4dec23da9ce18dde2c385564e7b92016688",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-37d39fa8929d43ca9794e23f880dee2b.7z"
+    ["windows-x64-71c99316164a412ab4b45fd32eeb130a"] = {
+        sha256 = "73a248c3d3f9588c7798a7845cb339bede118cbb25bc256a27c7c8400fd06fa0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-71c99316164a412ab4b45fd32eeb130a.7z"
     },
     ["windows-x64-vc142-9a7b90f9543843bf9558013c7c11fee7"] = {
-        toolset = "14.29.30037",
-        sha256 = "5468b6f8b1121b3a610cd5d43bd7fd407d5b2ef1fa276b023e7ae5ecbfd9ce1a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-9a7b90f9543843bf9558013c7c11fee7.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-9a7b90f9543843bf9558013c7c11fee7.7z",
+        sha256 = "a98c145b4ee0ff5fdd1afb9cdafad70e7fc84409cf31f986553472dae4853e08",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-13e6f4a6b257413e98184c57fe7c168b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-13e6f4a6b257413e98184c57fe7c168b.7z",
+        sha256 = "9238530ae76380e4be7c49a675effd2b8d7f8f05420a12e35d910da08dc0b36b",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc143-6126cff31ac44001a078d119e4b492d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc143-6126cff31ac44001a078d119e4b492d7.7z",
+        sha256 = "0779c29394aae7c0adb4c83418e88c98e8f1ef606daf66ecfe7d15aaff689598",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc141-9c8ca7a1717d4802a6e839abb0d37263"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-9c8ca7a1717d4802a6e839abb0d37263.7z",
+        sha256 = "e5c5ab7ed88c5ef89ace57998e0a142ef22feab406419fb4f955302f5a5b17a1",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc143-f0731bef876c4b3fa46a7b801e8f871c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc143-f0731bef876c4b3fa46a7b801e8f871c.7z",
+        sha256 = "1df10eecb0d03e15bfee553eec6e1a1ada4e7dc353556a4afa30273fa84f40c5",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc142-10bf94b0ca6442fda474976628e81e3e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-10bf94b0ca6442fda474976628e81e3e.7z",
+        sha256 = "0474d4957622194e5335a4908de3b62bb0a45ff6c19fb7ed5305b9e4070e84fb",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-3a836d8af13e45008a93c6c9f74d8a1f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-3a836d8af13e45008a93c6c9f74d8a1f.7z",
+        sha256 = "8a5ca7a1493e3a4685a2cbe8667ac45b9ec079dd9a986358fa53175bc8c28c8e",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-7cefa108679d460f9b60e17ebd9ff4e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-7cefa108679d460f9b60e17ebd9ff4e8.7z",
+        sha256 = "3fb21c493acd2ea841e006a6f6af373fce93fcaab54c7545924a6ae6646f4b10",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc143-9c8ca7a1717d4802a6e839abb0d37263"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc143-9c8ca7a1717d4802a6e839abb0d37263.7z",
+        sha256 = "dac8b04c80632454ef32901c9af466eadc3412d74c71c3a82473fcf852a9df45",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc141-10bf94b0ca6442fda474976628e81e3e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-10bf94b0ca6442fda474976628e81e3e.7z",
+        sha256 = "34617a21799308967deff3ec6647b8776c46e1b4dbfa056cf3cdfee0d20fa9ca",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-6126cff31ac44001a078d119e4b492d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-6126cff31ac44001a078d119e4b492d7.7z",
+        sha256 = "f65faca42b87deab516327b7b12490a5166d871d5f9733cf9a16225285a03410",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-6e933fab82284478a66c6723fc62dfcb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-6e933fab82284478a66c6723fc62dfcb.7z",
+        sha256 = "0ae34b4463c9451b485e689253ff63deeb8aa0d999bf49942768400844f69b2f",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-53119446f7ff4eb88ceb7d39813fc381"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-53119446f7ff4eb88ceb7d39813fc381.7z",
+        sha256 = "6724370b6b13e81b02fde0c5367be649c76868e678c36a3c1ea334e40c388f5c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-37d39fa8929d43ca9794e23f880dee2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-37d39fa8929d43ca9794e23f880dee2b.7z",
+        sha256 = "cda526b8a55ccd20b211adbd3646f4dec23da9ce18dde2c385564e7b92016688",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-7cefa108679d460f9b60e17ebd9ff4e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-7cefa108679d460f9b60e17ebd9ff4e8.7z",
+        sha256 = "55db27665579eaf86e70dd74fe155e75234c2b7a4237f9e93ed1cdb44c214a74",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-9a7b90f9543843bf9558013c7c11fee7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc143-9a7b90f9543843bf9558013c7c11fee7.7z",
+        sha256 = "bad6cd9c20331d892a582ffb04101a430ce1a341bc8009520257dd72d875d485",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc143-3b558e67b9e54765bfeb4a44ee7c43c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc143-3b558e67b9e54765bfeb4a44ee7c43c5.7z",
+        sha256 = "9f72f895e00392a2420eed8631385d5a7cb8ab76148f52c326caff7948f9e49c",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc141-53119446f7ff4eb88ceb7d39813fc381"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-53119446f7ff4eb88ceb7d39813fc381.7z",
+        sha256 = "40138b95c2cb5eaa50f9d0ea957b0129a8608564e6c4dfa6d20e00a934f536a6",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-3a836d8af13e45008a93c6c9f74d8a1f"] = {
+        sha256 = "167e032662df04d5f32d668434fc146d5cbd894740735ec4193d37c0624ccbd2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-3a836d8af13e45008a93c6c9f74d8a1f.7z"
+    },
+    ["windows-x64-vc142-71c99316164a412ab4b45fd32eeb130a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-71c99316164a412ab4b45fd32eeb130a.7z",
+        sha256 = "d369da7db1ea225b7d673d39def30df71b4e116e9cd08373dae56f9b73cbf308",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-6126cff31ac44001a078d119e4b492d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-6126cff31ac44001a078d119e4b492d7.7z",
+        sha256 = "ba44a4e35306b07a97052bc1746b1b8c9cef7426b980090ffd5d4291485e1f75",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-13e6f4a6b257413e98184c57fe7c168b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc143-13e6f4a6b257413e98184c57fe7c168b.7z",
+        sha256 = "f701e7603e3cc7deb4900625622a192c27675f01f4fc6b453c4c5c8620c23b81",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc143-ebca1d41e1a84747be637d784d8576de"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc143-ebca1d41e1a84747be637d784d8576de.7z",
+        sha256 = "6956589d624aa5e176834034b474f7db6e2b9224b97488766cec512a6e0a20c0",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc142-13e6f4a6b257413e98184c57fe7c168b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-13e6f4a6b257413e98184c57fe7c168b.7z",
+        sha256 = "a25920bd482b879ede58ccd6efded32a429d6f349358b65673b45cc5146b3853",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-37d39fa8929d43ca9794e23f880dee2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-37d39fa8929d43ca9794e23f880dee2b.7z",
+        sha256 = "117e19767d5fbbe30141a7d14080161a4fbc08b4e3618e9d39396fef9f0cd3ca",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-3a836d8af13e45008a93c6c9f74d8a1f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-3a836d8af13e45008a93c6c9f74d8a1f.7z",
+        sha256 = "76f0c0d7237633d48bb47022b42d2f529d77ede175a740a7dc02e720b4465133",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-c56ba11d95d34132bfedfb55e01f877c"] = {
+        sha256 = "a24191418d9ec724581a8a771268b4fc1d110811288f091c0621ffbecfea88f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-c56ba11d95d34132bfedfb55e01f877c.7z"
+    },
+    ["windows-x64-vc141-ebca1d41e1a84747be637d784d8576de"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-ebca1d41e1a84747be637d784d8576de.7z",
+        sha256 = "696b429095c24d33cc588433a10a59355f5ea8cf7704a325cbf9a2cc42df2979",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-9c8ca7a1717d4802a6e839abb0d37263"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-9c8ca7a1717d4802a6e839abb0d37263.7z",
+        sha256 = "4f8d195e7781293d9308211efc6d9c8725d8d1815b3a2388d7fc915d09fa7f95",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-c42b6b4209734abcab9da62a66890d55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-c42b6b4209734abcab9da62a66890d55.7z",
+        sha256 = "9ddc2adbb9999ce3f1cc874787babc3ec7fceb682abaf51ff06ad7bb07cc04ff",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-c42b6b4209734abcab9da62a66890d55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-c42b6b4209734abcab9da62a66890d55.7z",
+        sha256 = "ff5f417111bf54982450e07b5138ec871aa556b3e76408b018868332ecde26a7",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-7cefa108679d460f9b60e17ebd9ff4e8"] = {
+        sha256 = "f82268ffb6ddf4294223285eb18debf6422815c82037376e96e956ec1ac7c36e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-7cefa108679d460f9b60e17ebd9ff4e8.7z"
+    },
+    ["windows-x86-6e933fab82284478a66c6723fc62dfcb"] = {
+        sha256 = "7dc05755db58ab093dad9eef8ac8ee434fc14b79e7c1983db55861295bf72c96",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-6e933fab82284478a66c6723fc62dfcb.7z"
+    },
+    ["windows-x64-vc142-c56ba11d95d34132bfedfb55e01f877c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-c56ba11d95d34132bfedfb55e01f877c.7z",
+        sha256 = "441be6a9ded764fa4a2eef0b2d5b12d6af5e32f0e82b842800edb8746aace69b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-f0731bef876c4b3fa46a7b801e8f871c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-f0731bef876c4b3fa46a7b801e8f871c.7z",
+        sha256 = "15d295f237905a60c5cb1d0266c30729b07cd66853db657e7e66412affe6d7da",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-ebca1d41e1a84747be637d784d8576de"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc142-ebca1d41e1a84747be637d784d8576de.7z",
+        sha256 = "5e265c468b9d26e517e7971d81531ff2f3f9514137aa9b0e4b13f9da441387e6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-53119446f7ff4eb88ceb7d39813fc381"] = {
+        sha256 = "ac79dce136bb881bf01554c195162dcdba0320ac37f215a725a6588787177f10",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-53119446f7ff4eb88ceb7d39813fc381.7z"
+    },
+    ["windows-x86-vc141-3b558e67b9e54765bfeb4a44ee7c43c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-3b558e67b9e54765bfeb4a44ee7c43c5.7z",
+        sha256 = "fe36511fb7eee8a152e2f5137cd98c3a5078281bb62ebbcaa03f4441d3fe6f42",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-3b558e67b9e54765bfeb4a44ee7c43c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-3b558e67b9e54765bfeb4a44ee7c43c5.7z",
+        sha256 = "b52a01d7d32c4fe7ed78e728f6b7258a5ff9e76d1a13257d8114577ab0a59de5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-f0731bef876c4b3fa46a7b801e8f871c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc141-f0731bef876c4b3fa46a7b801e8f871c.7z",
+        sha256 = "e896efd15fef6ab3c7c538423a65d2d46f73db80e903709f1cb3ae2bf2fa84a7",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-6e933fab82284478a66c6723fc62dfcb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x86-vc142-6e933fab82284478a66c6723fc62dfcb.7z",
+        sha256 = "1ef8b895b35958e2919820f9da63c1f55e6ae27471a3dfa54fcd4d02847dc0d2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-10bf94b0ca6442fda474976628e81e3e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc143-10bf94b0ca6442fda474976628e81e3e.7z",
+        sha256 = "008e80d029e21b40772bbcdeed370c5adcc10e81518f4d9cc6830e2d11f94600",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc141-c56ba11d95d34132bfedfb55e01f877c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-vc141-c56ba11d95d34132bfedfb55e01f877c.7z",
+        sha256 = "492020602cd4ee923780ac1d8cfd7cf97801f3a8307778615017dc3a5e7cecde",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-c42b6b4209734abcab9da62a66890d55"] = {
+        sha256 = "782e8552209d95f2dbea851e5180fee45d2a41af62b1e4bcd90327dfd2382699",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/luajit-2.1.0-beta3/windows-x64-c42b6b4209734abcab9da62a66890d55.7z"
     }
 }
