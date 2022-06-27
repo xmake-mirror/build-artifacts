@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc142-8d7537ae86404060b5fd8fac06bfffc0"] = {
-        sha256 = "83e935d27953bc2a2a2f02467c6c86aa31769b8bdc9091a20c4dc8af0398c94d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc142-8d7537ae86404060b5fd8fac06bfffc0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-2149fceaa8774e5bba28b629df74b8d0"] = {
-        sha256 = "257c84ab43ffa418157540ba18f3cb767fa065b6109734e7d9fcee83b4207552",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-2149fceaa8774e5bba28b629df74b8d0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-ecae9a68e2994997a295c0089207edf5"] = {
-        sha256 = "d817f6a5211212c96f36c834bf976e9179e94ed854f335b6263c7703dbe41500",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-ecae9a68e2994997a295c0089207edf5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-6a17bbc4d2ba45b1b72f05df482a59e9"] = {
-        sha256 = "827da5151e5cf87a2f1959f322ed8105fd7e2112c5a53aa3a72963817f973d83",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-6a17bbc4d2ba45b1b72f05df482a59e9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-d994ef2d9a67451ca59d363011a79a73"] = {
-        sha256 = "82a693481b55a763de2f3d0054621e948b9453ac113750cca51aef2c449aa8c4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc142-d994ef2d9a67451ca59d363011a79a73.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-2d5de2d5c34342abad29058e324faea4"] = {
-        sha256 = "1ce632f497ffcfc78e98d074836b81942e3cd414d6a5cb13af14199ad1a4a93a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-2d5de2d5c34342abad29058e324faea4.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc143-6dd841d0f0814e73a065ac605fcdb588"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc143-6dd841d0f0814e73a065ac605fcdb588.7z",
+        sha256 = "4d54fe73bc35ec2c96dae4ba5eec1b08ccfff6b8e85069fbda3677c829528fc6"
     },
     ["windows-x64-vc142-6dd841d0f0814e73a065ac605fcdb588"] = {
-        sha256 = "f3acfac8496c2623b8b3c1282234c28c62cd561d8134a1b4e216050f2282f150",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc142-6dd841d0f0814e73a065ac605fcdb588.7z",
-        toolset = "14.29.30133"
+        sha256 = "56b34ea2dbed38bcd1c30f561a2242ffe68538cbc6c6772cae8c13fcbeb03598"
+    },
+    ["windows-x86-vc143-6a17bbc4d2ba45b1b72f05df482a59e9"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc143-6a17bbc4d2ba45b1b72f05df482a59e9.7z",
+        sha256 = "286042c7fd2d07e1cb9c3cbe3c49f11488e92ac6bb21c8592ab8546cdc36271a"
+    },
+    ["windows-x86-vc142-2d5de2d5c34342abad29058e324faea4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-2d5de2d5c34342abad29058e324faea4.7z",
+        sha256 = "d90118916c6d60c3fb771fd20cd95a9b4ac4178883e7157113f11e215dd931eb"
+    },
+    ["windows-x64-vc142-8d7537ae86404060b5fd8fac06bfffc0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc142-8d7537ae86404060b5fd8fac06bfffc0.7z",
+        sha256 = "0326108fa9533560fa23d1e9d53859c6b7ab612d3781eec8e6325dd0a43c0425"
+    },
+    ["windows-x86-vc143-ecae9a68e2994997a295c0089207edf5"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc143-ecae9a68e2994997a295c0089207edf5.7z",
+        sha256 = "cc62bf5da9db653798cf32172e9ee1773941e7b89eff8bf2957f08383f557a4d"
+    },
+    ["windows-x64-vc142-d994ef2d9a67451ca59d363011a79a73"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc142-d994ef2d9a67451ca59d363011a79a73.7z",
+        sha256 = "7ca79ec214330310037f5bc19fd36a33613b044a2df34c1b4a103bc932256ccc"
+    },
+    ["windows-x86-vc142-6a17bbc4d2ba45b1b72f05df482a59e9"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-6a17bbc4d2ba45b1b72f05df482a59e9.7z",
+        sha256 = "82a2dd549d731815f0adba7ed8be28d032f32817d9b713f05be0b36701faf5f7"
+    },
+    ["windows-x64-vc143-8d7537ae86404060b5fd8fac06bfffc0"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc143-8d7537ae86404060b5fd8fac06bfffc0.7z",
+        sha256 = "5645eb5a9e6787734a4f01acf62f10ceceac4a7048fa76a5bd67cb79119fa022"
+    },
+    ["windows-x86-vc143-2d5de2d5c34342abad29058e324faea4"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc143-2d5de2d5c34342abad29058e324faea4.7z",
+        sha256 = "3deaafaed0716162ce936ef55f9fddf19eb51e9a153dc930e825700829cdbc26"
+    },
+    ["windows-x86-vc143-2149fceaa8774e5bba28b629df74b8d0"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc143-2149fceaa8774e5bba28b629df74b8d0.7z",
+        sha256 = "f0dc2ce7aa1660c5067d9fff8f5058115b39fcaa19d7ce4ca5ccfcd0a0bf1144"
     },
     ["windows-x64-vc142-e024fd36069a4b5b83561fec3bb8fd07"] = {
-        sha256 = "beb732bd35886ff4bd7cb6e19365077e8808fb05325a385fcf25ad76ac3522e6",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc142-e024fd36069a4b5b83561fec3bb8fd07.7z",
-        toolset = "14.29.30133"
+        sha256 = "efd8fe5231b91cb1bbf19023e9f6816ae48c0ef8806b1675c41b4256f06dd917"
+    },
+    ["windows-x64-vc143-d994ef2d9a67451ca59d363011a79a73"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc143-d994ef2d9a67451ca59d363011a79a73.7z",
+        sha256 = "66ceb53256ae211c68ddd190fd5bafcf9b5c7e9daa1416f3296c47b1889464ab"
+    },
+    ["windows-x86-vc142-ecae9a68e2994997a295c0089207edf5"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-ecae9a68e2994997a295c0089207edf5.7z",
+        sha256 = "ce47148a2ee9b966f0388ec8c72bc25729581e34495bd13dfcd9ba5a20cb78b0"
+    },
+    ["windows-x64-vc143-e024fd36069a4b5b83561fec3bb8fd07"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x64-vc143-e024fd36069a4b5b83561fec3bb8fd07.7z",
+        sha256 = "2558721b99e3b53cda3bd0c8b7df1faf61e0158d0c2226a3a94445b221b6f7a3"
+    },
+    ["windows-x86-vc142-2149fceaa8774e5bba28b629df74b8d0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bgfx-7816/windows-x86-vc142-2149fceaa8774e5bba28b629df74b8d0.7z",
+        sha256 = "4894a130a176bb00772fff223a7d259d937fd367ddb65a04ad14d33ea2f54ed4"
     }
 }
