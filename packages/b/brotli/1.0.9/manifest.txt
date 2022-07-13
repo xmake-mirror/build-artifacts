@@ -1,82 +1,82 @@
 {
-    ["windows-x86-vc143-418481d089f14e3997673179332b68ae"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-418481d089f14e3997673179332b68ae.7z",
-        sha256 = "76b7e9d7c2fd0612fd407de95ce3267bcb72d4dfe5ebc73121f1ed262910070b"
-    },
-    ["windows-x64-vc143-1f706eee97074099888d6e2e5762ba8c"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-1f706eee97074099888d6e2e5762ba8c.7z",
-        sha256 = "3a970a79fbdc6011f393ba81b80727922987052714a49cd894ccbbe6478a2cf9"
-    },
-    ["windows-x64-vc142-1f706eee97074099888d6e2e5762ba8c"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-1f706eee97074099888d6e2e5762ba8c.7z",
-        sha256 = "5e69d2eb7d78753dc4ade71bd5603e542df24f3058164b78f9263213f1952c26"
-    },
-    ["windows-x64-vc142-cfa80f9e5e4646e1a83c3aab04c2275e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-cfa80f9e5e4646e1a83c3aab04c2275e.7z",
-        sha256 = "2db35930a07e3b9f0e099522acc97dd130d710f3adbb5b837704135b855e8c09"
-    },
-    ["windows-x86-vc142-d53aec3d19744568990797de73aacadf"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-d53aec3d19744568990797de73aacadf.7z",
-        sha256 = "b112109cd77720e88d9b4b0b5488596fa3bfc9b7e7bc0cf2ae496d872a44982d"
-    },
-    ["windows-x86-vc143-1c13927ae887454cba706eced8059fcc"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-1c13927ae887454cba706eced8059fcc.7z",
-        sha256 = "b24ab4d280577b2e65c19aea96c0dd05f0f27942d320446eb7ad65698fb3ba47"
-    },
-    ["windows-x86-vc143-d53aec3d19744568990797de73aacadf"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-d53aec3d19744568990797de73aacadf.7z",
-        sha256 = "04a43f17f870cbb20457ab3654a5c499564ba10a2b27d4849c3580bedcd330d3"
-    },
-    ["windows-x86-vc142-9cd8d20331c046659dd0485bc79950b9"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-9cd8d20331c046659dd0485bc79950b9.7z",
-        sha256 = "4ef39be33f8b64c9814c708d5ca78b328c70e5c19735dd43bd3f0dafe4e5294c"
-    },
-    ["windows-x64-vc143-cfa80f9e5e4646e1a83c3aab04c2275e"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-cfa80f9e5e4646e1a83c3aab04c2275e.7z",
-        sha256 = "5c02483bd2b31685b8d8b7647f35e939e660f27a42ac9d0894e042631b5bf84a"
+    ["windows-x64-vc143-d51ba71e94374e89a1634e5d23016d0f"] = {
+        sha256 = "84df81476fa2bedf8d121d10c0fb55d30226623067154bdb3f19e701d66cb385",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-d51ba71e94374e89a1634e5d23016d0f.7z",
+        toolset = "14.32.31326"
     },
     ["windows-x64-vc142-d51ba71e94374e89a1634e5d23016d0f"] = {
-        toolset = "14.29.30133",
+        sha256 = "71bd1267b1240dcc6c8adea3150d4cd81bfa7845c5c603b154f28279cb9b9010",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-d51ba71e94374e89a1634e5d23016d0f.7z",
-        sha256 = "7197f986f7b68e3d08fb927a7155674d11c4c6e7146e08b0b6991f90f15996d3"
-    },
-    ["windows-x86-vc143-9cd8d20331c046659dd0485bc79950b9"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-9cd8d20331c046659dd0485bc79950b9.7z",
-        sha256 = "6016e3cc7aa0f6d98f5d0b5213e5f2c5c871dd96dd745af15ee5d6b5ba45bce1"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc143-bb91e223830749f8a653c8b81154b219"] = {
-        toolset = "14.31.31103",
+        sha256 = "472e0e0e0f9363a394fccc9e5be5ec07ff1c4e1b986d8709f6b58000c986d21f",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-bb91e223830749f8a653c8b81154b219.7z",
-        sha256 = "edaa753acec10d0ad193c1e28b50a5abb792be78c18acc719ef14b429f1e6b49"
+        toolset = "14.32.31326"
     },
-    ["windows-x64-vc143-d51ba71e94374e89a1634e5d23016d0f"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-d51ba71e94374e89a1634e5d23016d0f.7z",
-        sha256 = "e376cac2f8fcdd17f5e05657358f60dfacca3ec012009f2c19556258e1af22af"
-    },
-    ["windows-x64-vc142-bb91e223830749f8a653c8b81154b219"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-bb91e223830749f8a653c8b81154b219.7z",
-        sha256 = "b2f5989c1a5917b34489dd30544d684719022e43ce30928f9736a27bf4afbcd5"
-    },
-    ["windows-x86-vc142-418481d089f14e3997673179332b68ae"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-418481d089f14e3997673179332b68ae.7z",
-        sha256 = "f7d67bb12834eacdb66fa597ae6da7b8c3b22741b25e07437bb6355d9ea5f1f6"
+    ["windows-x64-vc143-cfa80f9e5e4646e1a83c3aab04c2275e"] = {
+        sha256 = "cde72693c058fd170c131c686573c54b8d77abf0975126bd1a8752553a8a0d06",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-cfa80f9e5e4646e1a83c3aab04c2275e.7z",
+        toolset = "14.32.31326"
     },
     ["windows-x86-vc142-1c13927ae887454cba706eced8059fcc"] = {
-        toolset = "14.29.30133",
+        sha256 = "f3d720acab53e925c11cb84b4c05eea18e7942cb8c6ff875353d82c6bd99a79e",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-1c13927ae887454cba706eced8059fcc.7z",
-        sha256 = "6cd4c28bd5993618e0fcb1f92c125ebcea4e3558be02f39bcd7907b97528fd80"
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-d53aec3d19744568990797de73aacadf"] = {
+        sha256 = "4ff6b7146719e9272e61dfb3da33540eb83b5b2f366332f39b5dfd0c8e64b9f8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-d53aec3d19744568990797de73aacadf.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc142-d53aec3d19744568990797de73aacadf"] = {
+        sha256 = "e58241e26ba1182d148911663491df9564cdee02c78926dee4533e75b1e17832",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-d53aec3d19744568990797de73aacadf.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-cfa80f9e5e4646e1a83c3aab04c2275e"] = {
+        sha256 = "0b9c28d3d60447e98d4d3a147868bf44e1165b7496097fe56fab63e2fdbc34a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-cfa80f9e5e4646e1a83c3aab04c2275e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-1f706eee97074099888d6e2e5762ba8c"] = {
+        sha256 = "75dbde6e64676f66aabc5e96f9feff1c75a5c0be22fef1d31124186e6e641473",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc143-1f706eee97074099888d6e2e5762ba8c.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc142-9cd8d20331c046659dd0485bc79950b9"] = {
+        sha256 = "7c765b37f1c04c723bd02e01ae9e30bc005c2125feceba46ac13049f9587006a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-9cd8d20331c046659dd0485bc79950b9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-1f706eee97074099888d6e2e5762ba8c"] = {
+        sha256 = "99a3f7be5484bd096cd449c0d28b1fe334e82c981066fcc68c21ee2497a928dc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-1f706eee97074099888d6e2e5762ba8c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-1c13927ae887454cba706eced8059fcc"] = {
+        sha256 = "8c4db95bfdcc0bb400f63ac2aa51572656b1cb12544ad6ce77442e8282941872",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-1c13927ae887454cba706eced8059fcc.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc142-bb91e223830749f8a653c8b81154b219"] = {
+        sha256 = "1a3d88184fe84165f6d066031160f29c0dc6328a2e679d5e1d5d481f32a6b80b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x64-vc142-bb91e223830749f8a653c8b81154b219.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-418481d089f14e3997673179332b68ae"] = {
+        sha256 = "7b1e84de7f8713f0d59a597547183c8f577d4764eabd63667aea4558217faaae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-418481d089f14e3997673179332b68ae.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc143-9cd8d20331c046659dd0485bc79950b9"] = {
+        sha256 = "52c641ea057aed2e6d0e1b153970bacc6028e01f07c6512f513aa48ad68bcb29",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc143-9cd8d20331c046659dd0485bc79950b9.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc142-418481d089f14e3997673179332b68ae"] = {
+        sha256 = "756a3401e27d04a1876b293200b840d7cfadf94774528a08d48d5351e2cf267f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/brotli-1.0.9/windows-x86-vc142-418481d089f14e3997673179332b68ae.7z",
+        toolset = "14.29.30133"
     }
 }
