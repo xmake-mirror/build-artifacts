@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc141-461bc4df9bb549c89a3d9f8e6d80e9cd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-461bc4df9bb549c89a3d9f8e6d80e9cd.7z",
-        sha256 = "05ba31dbeb38d3acefa54296458bcc1d83ba8015a72a2ddca3fa671b5f9eae49",
-        toolset = "14.16.27023"
+    ["windows-x86-vc143-f528c315b07441cf8b473b1057a81677"] = {
+        sha256 = "d9027dc0fbf4cd895e34ce98a45d0f3139716af69d2972e6396990e2c60bb557",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc143-f528c315b07441cf8b473b1057a81677.7z",
+        toolset = "14.32.31326"
     },
-    ["windows-x64-vc142-8cd6593419594659935e7d6753fcbc40"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-8cd6593419594659935e7d6753fcbc40.7z",
-        sha256 = "0707c085ea1c264ff85e018f91e3599156a55604884844aab11db93f011447fd",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-303ab475038a4c24af3f1b1801d9c00b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-303ab475038a4c24af3f1b1801d9c00b.7z",
-        sha256 = "1ee9b672a1349f73f4223fe6c16517020ed4bed22d98ff94e21a25992d56214f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-f528c315b07441cf8b473b1057a81677"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc142-f528c315b07441cf8b473b1057a81677.7z",
-        sha256 = "edf80a9993aee8e1729a7d7fecceedacecc3cd4e9b4ee129234e0cd9cecec68f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-7af36adc82f64061a0f46b74241113fd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-7af36adc82f64061a0f46b74241113fd.7z",
-        sha256 = "683f45855d5068bcaf3f4942e21f8b92f4b67095a755ee95700406e6468b0f72",
+    ["windows-x86-vc141-f528c315b07441cf8b473b1057a81677"] = {
+        sha256 = "5ec59e63796c02b84f71a64dad2073b8929764cc824442abdb6900a7fe443b3b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-f528c315b07441cf8b473b1057a81677.7z",
         toolset = "14.16.27023"
     },
     ["windows-x86-vc142-fa3f69093f954562836449703f94baa6"] = {
+        sha256 = "2cbe3ca324c7bf301c5aa0beb702a2f78e64e74518318b96bf9fd1ee1d6100b0",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc142-fa3f69093f954562836449703f94baa6.7z",
-        sha256 = "d02948945e4f3b7a0bab7975c5acf9b6a0f3c84ec7d0a38bc32918ac35cfd5a8",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc141-303ab475038a4c24af3f1b1801d9c00b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-303ab475038a4c24af3f1b1801d9c00b.7z",
-        sha256 = "948f24426677036e816debf21b73e06e8f62d6e93add38f9df02b9c4fbf55427",
-        toolset = "14.16.27023"
+    ["windows-x64-vc143-8c39e21c84434beab4f86cf9fbd34f9e"] = {
+        sha256 = "ba48e7b4caf3437ed5884eb69fc092690fb90e58b1c4e9a116a3bdec061fca3e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc143-8c39e21c84434beab4f86cf9fbd34f9e.7z",
+        toolset = "14.32.31326"
     },
-    ["windows-x64-vc142-8c39e21c84434beab4f86cf9fbd34f9e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-8c39e21c84434beab4f86cf9fbd34f9e.7z",
-        sha256 = "de3abbf248e0426edbfe118ee06dd2e07b7cc90d9175ee5eaddc351680851480",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-461bc4df9bb549c89a3d9f8e6d80e9cd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-461bc4df9bb549c89a3d9f8e6d80e9cd.7z",
-        sha256 = "2bd8c210cec0851c9d973a734fe72efb94032b2c9af10a534d786ed6a611157b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-fa3f69093f954562836449703f94baa6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-fa3f69093f954562836449703f94baa6.7z",
-        sha256 = "9d2a92550b194498dd4fbe57350a637a79a9f03375d5940991cbc48109da0b45",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-bbfead259fb14f869e622d21d4a8ba57"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc142-bbfead259fb14f869e622d21d4a8ba57.7z",
-        sha256 = "64206addf385259995221392d3dbf0c0696467b26ef55c5a8c76c01bace73c65",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-f528c315b07441cf8b473b1057a81677"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-f528c315b07441cf8b473b1057a81677.7z",
-        sha256 = "5ec59e63796c02b84f71a64dad2073b8929764cc824442abdb6900a7fe443b3b",
-        toolset = "14.16.27023"
+    ["windows-x64-vc143-8cd6593419594659935e7d6753fcbc40"] = {
+        sha256 = "d2de8e3b5e80bbfe9e630c40b90c60f97de83f832d1dc105ec12452105ce59c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc143-8cd6593419594659935e7d6753fcbc40.7z",
+        toolset = "14.32.31326"
     },
     ["windows-x64-vc141-8cd6593419594659935e7d6753fcbc40"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-8cd6593419594659935e7d6753fcbc40.7z",
         sha256 = "3951ae7543ecc9edd961c697f94d3aac37683b7b29e8f111a9f6859f168dda93",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-8cd6593419594659935e7d6753fcbc40.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc141-8c39e21c84434beab4f86cf9fbd34f9e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-8c39e21c84434beab4f86cf9fbd34f9e.7z",
-        sha256 = "de93d6394365b09695d0aef6f23af8345d701a64e216bd8b310660692db332b5",
+    ["windows-x64-vc141-461bc4df9bb549c89a3d9f8e6d80e9cd"] = {
+        sha256 = "05ba31dbeb38d3acefa54296458bcc1d83ba8015a72a2ddca3fa671b5f9eae49",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-461bc4df9bb549c89a3d9f8e6d80e9cd.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-303ab475038a4c24af3f1b1801d9c00b"] = {
+        sha256 = "948f24426677036e816debf21b73e06e8f62d6e93add38f9df02b9c4fbf55427",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-303ab475038a4c24af3f1b1801d9c00b.7z",
         toolset = "14.16.27023"
     },
     ["windows-x86-vc142-7af36adc82f64061a0f46b74241113fd"] = {
+        sha256 = "1d45b766c75c290a6d77e5de6c3f63c51e0d6b2423fac342892841bcefccec84",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc142-7af36adc82f64061a0f46b74241113fd.7z",
-        sha256 = "20eea3ad5580b4313bac6dfab9385abe0a9eaaa9524b694c5f3e675fc685d487",
         toolset = "14.29.30133"
     },
+    ["windows-x64-vc142-461bc4df9bb549c89a3d9f8e6d80e9cd"] = {
+        sha256 = "d4ec2461141644c73c0777e0ac993a35eacbf2e14ab51df225547692b1a9f401",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-461bc4df9bb549c89a3d9f8e6d80e9cd.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-f528c315b07441cf8b473b1057a81677"] = {
+        sha256 = "84c7c42d62a5481e29606753b21a8f2af13d28600688ec2f4d2cc90894b45829",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc142-f528c315b07441cf8b473b1057a81677.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-bbfead259fb14f869e622d21d4a8ba57"] = {
+        sha256 = "bf501ef84cfb85cacdbd442c33191f5747f2ce4b2454b1a9087a027e66faa8be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc143-bbfead259fb14f869e622d21d4a8ba57.7z",
+        toolset = "14.32.31326"
+    },
     ["windows-x86-vc141-bbfead259fb14f869e622d21d4a8ba57"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-bbfead259fb14f869e622d21d4a8ba57.7z",
         sha256 = "f3c64cb3b7d07b2699e2cb2d0eeed21bd7bc86272a60bf36c3273e49cb9729fa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-bbfead259fb14f869e622d21d4a8ba57.7z",
         toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-303ab475038a4c24af3f1b1801d9c00b"] = {
+        sha256 = "2c089e8c74eac916837abbba8a39a92fa387e3a08d9e2c6a88d3d80e0a08bd01",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-303ab475038a4c24af3f1b1801d9c00b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-8cd6593419594659935e7d6753fcbc40"] = {
+        sha256 = "c74aaf9a9fcb67973152a3f30d6cdd19c627eccef73c5ac49b38cfbada526212",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-8cd6593419594659935e7d6753fcbc40.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-fa3f69093f954562836449703f94baa6"] = {
+        sha256 = "a97c98eb847511185c3d3bb34889f3a9daaa024ff215ea278c19d6139471550d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc143-fa3f69093f954562836449703f94baa6.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc141-7af36adc82f64061a0f46b74241113fd"] = {
+        sha256 = "683f45855d5068bcaf3f4942e21f8b92f4b67095a755ee95700406e6468b0f72",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-7af36adc82f64061a0f46b74241113fd.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-8c39e21c84434beab4f86cf9fbd34f9e"] = {
+        sha256 = "342010d4b72386e20aec09e51f421af88a26fd316a975b75ad7f83d60869e0ef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc142-8c39e21c84434beab4f86cf9fbd34f9e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-8c39e21c84434beab4f86cf9fbd34f9e"] = {
+        sha256 = "de93d6394365b09695d0aef6f23af8345d701a64e216bd8b310660692db332b5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc141-8c39e21c84434beab4f86cf9fbd34f9e.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-303ab475038a4c24af3f1b1801d9c00b"] = {
+        sha256 = "7aa04495bea99661ef02c1cced2e40ad7f6b3eccd47f898b33429cad0fdc385d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc143-303ab475038a4c24af3f1b1801d9c00b.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc142-bbfead259fb14f869e622d21d4a8ba57"] = {
+        sha256 = "3f2599b4049fa25bcd2e5b56d6ee70b4b56d31f2d8d1e942dd64e039ddf242f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc142-bbfead259fb14f869e622d21d4a8ba57.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-7af36adc82f64061a0f46b74241113fd"] = {
+        sha256 = "cc4477042b4b6ca9ebe2d46a8666b649fa161880c0cfa0eefc0902f98661e81c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc143-7af36adc82f64061a0f46b74241113fd.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc141-fa3f69093f954562836449703f94baa6"] = {
+        sha256 = "9d2a92550b194498dd4fbe57350a637a79a9f03375d5940991cbc48109da0b45",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x86-vc141-fa3f69093f954562836449703f94baa6.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-461bc4df9bb549c89a3d9f8e6d80e9cd"] = {
+        sha256 = "5cc494fda2d404dd74c26c6c32c1d32f224842cd5f82d08074f8c3c95f3a5301",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blosc-1.21.1/windows-x64-vc143-461bc4df9bb549c89a3d9f8e6d80e9cd.7z",
+        toolset = "14.32.31326"
     }
 }
