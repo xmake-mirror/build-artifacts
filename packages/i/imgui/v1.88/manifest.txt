@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc143-6d2cc1185d804d128b91d00b1d8eb124"] = {
-        sha256 = "3b6adcf5fef480cb6b5a13447956324f7c1b3c1ecea2b54788b1e40f85e467a2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-6d2cc1185d804d128b91d00b1d8eb124.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc143-3af183b705454c2caa17e364fe3e83a0"] = {
-        sha256 = "e60121bc3bc8f6132f82d179a8fa517771a23b81b7cb12404f99f1585c4df773",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-3af183b705454c2caa17e364fe3e83a0.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-cee2cefb471f48de875d907078ce37e6"] = {
-        sha256 = "0760afcf2c3f4b0394e2ce2fbb96b617acfcf7bfef9af81b2de4f7eef4c48be9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-cee2cefb471f48de875d907078ce37e6.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-3af183b705454c2caa17e364fe3e83a0"] = {
-        sha256 = "c3db9fe1c6ef21fcda62d63250726a64fa4e8ab35def5ff9049f826bcb0cac18",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-3af183b705454c2caa17e364fe3e83a0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-b1e19e32c67548b88e9cdcebdeddf6ce"] = {
-        sha256 = "6288a5a0e0b8676711e759c6378fac01f50be025eac2a3c03d39f4fa00cdf149",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-b1e19e32c67548b88e9cdcebdeddf6ce.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-eb6e6926d4e241d1b96c7705c23338bd"] = {
-        sha256 = "8a093c95790e27a60f7720702d313b30bab2b81ad25954d0b41f48e27e792c8b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-eb6e6926d4e241d1b96c7705c23338bd.7z",
-        toolset = "14.32.31326"
-    },
     ["windows-x64-vc143-b1e19e32c67548b88e9cdcebdeddf6ce"] = {
         sha256 = "b90ba93e73749c8e1836db9956fdc9bb1d3945a7d54c110db8863f789c49e2f3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-b1e19e32c67548b88e9cdcebdeddf6ce.7z",
-        toolset = "14.32.31326"
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-b1e19e32c67548b88e9cdcebdeddf6ce.7z"
     },
     ["windows-x86-vc143-25239eaba48c4c3680c6631af88a145a"] = {
         sha256 = "7ac3e44f4556b6384a143692495a18b2859cde89e742736c155ccbeae4e8d60f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-25239eaba48c4c3680c6631af88a145a.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-25239eaba48c4c3680c6631af88a145a"] = {
-        sha256 = "34e677156541e422a9ae20d2dc0b7d7da584f168096daafbbc23ff4840909016",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-25239eaba48c4c3680c6631af88a145a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-2e774e435934428287214ae60ccf956c"] = {
-        sha256 = "25e561255d186ca956c4f41a0f02b48d72e0b067e11a4cedfe43d9fcd8eecfdf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-2e774e435934428287214ae60ccf956c.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-510f9f1aadbf4cd086a2dc8835a926af"] = {
-        sha256 = "a6a7369a8f9bc741be426186a05784bb1b7dd146792ddf4564d8af4b4052681d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-510f9f1aadbf4cd086a2dc8835a926af.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-eb6e6926d4e241d1b96c7705c23338bd"] = {
-        sha256 = "ad71e18a772215d955d287dd59ddc087b00f3a7bb8144c59fd59d6ab2c39f0f6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-eb6e6926d4e241d1b96c7705c23338bd.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-cee2cefb471f48de875d907078ce37e6"] = {
-        sha256 = "b9fba74798db9c21134ebc3278bb570c79792877cd804abc773ef61ee03fbb42",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-cee2cefb471f48de875d907078ce37e6.7z",
-        toolset = "14.32.31326"
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-25239eaba48c4c3680c6631af88a145a.7z"
     },
     ["windows-x86-vc142-6d2cc1185d804d128b91d00b1d8eb124"] = {
         sha256 = "d18600b8bcc1e9575b2ef36c75935f170509ba8c2dfd5f3587ca9635882e8b71",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-6d2cc1185d804d128b91d00b1d8eb124.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-6d2cc1185d804d128b91d00b1d8eb124.7z"
     },
-    ["windows-x64-vc142-2e774e435934428287214ae60ccf956c"] = {
-        sha256 = "1530fe69502f6315c0e6484c2ea97920f5091fe2cb3c5aee8d2620bbf91fe167",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-2e774e435934428287214ae60ccf956c.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc143-7ccb7ef7d9ce4e6d878584c410eb991b"] = {
+        sha256 = "f99a1aa428b216f19cbee77663427ba4628c043da1bb674106bb01443ce03594",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-7ccb7ef7d9ce4e6d878584c410eb991b.7z"
+    },
+    ["windows-x86-vc142-510f9f1aadbf4cd086a2dc8835a926af"] = {
+        sha256 = "a6a7369a8f9bc741be426186a05784bb1b7dd146792ddf4564d8af4b4052681d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-510f9f1aadbf4cd086a2dc8835a926af.7z"
+    },
+    ["windows-x64-vc143-2e774e435934428287214ae60ccf956c"] = {
+        sha256 = "25e561255d186ca956c4f41a0f02b48d72e0b067e11a4cedfe43d9fcd8eecfdf",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-2e774e435934428287214ae60ccf956c.7z"
+    },
+    ["windows-x64-vc143-eb6e6926d4e241d1b96c7705c23338bd"] = {
+        sha256 = "8a093c95790e27a60f7720702d313b30bab2b81ad25954d0b41f48e27e792c8b",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-eb6e6926d4e241d1b96c7705c23338bd.7z"
+    },
+    ["windows-x86-vc142-7b6d5c45a6a043ff8c8c82aa71a814e2"] = {
+        sha256 = "e54e115c23535877cb8799fea83c39d9c9303475c16af53c5e28524144673e3b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-7b6d5c45a6a043ff8c8c82aa71a814e2.7z"
+    },
+    ["windows-x64-vc143-3af183b705454c2caa17e364fe3e83a0"] = {
+        sha256 = "e60121bc3bc8f6132f82d179a8fa517771a23b81b7cb12404f99f1585c4df773",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-3af183b705454c2caa17e364fe3e83a0.7z"
+    },
+    ["windows-x86-vc142-926a343194f2457098a913527579bc02"] = {
+        sha256 = "7cec27792a20849efe45ea40a297ea40c41a8986bb561c344335d7dcba852f4c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-926a343194f2457098a913527579bc02.7z"
+    },
+    ["windows-x64-vc143-10085784353f4cb687fdc1ec790729fd"] = {
+        sha256 = "1c30736d1ef7339ca047223b8884c5abe6a23a1c9b0f1235efe3959552051ce4",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-10085784353f4cb687fdc1ec790729fd.7z"
+    },
+    ["windows-x64-vc143-cd5d771205f8432394e377ac9c7a1831"] = {
+        sha256 = "36a9cd5d71ca8c00aa823ceb5c50d3d9e5182c587acb202a5232e9f7bbd398ea",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-cd5d771205f8432394e377ac9c7a1831.7z"
+    },
+    ["windows-x64-vc142-b1e19e32c67548b88e9cdcebdeddf6ce"] = {
+        sha256 = "6288a5a0e0b8676711e759c6378fac01f50be025eac2a3c03d39f4fa00cdf149",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-b1e19e32c67548b88e9cdcebdeddf6ce.7z"
     },
     ["windows-x86-vc143-510f9f1aadbf4cd086a2dc8835a926af"] = {
         sha256 = "d74dcb21a424d6de595cbc420c6b9aa841676dc03f7beb139944ccc716dcdd5c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-510f9f1aadbf4cd086a2dc8835a926af.7z",
-        toolset = "14.32.31326"
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-510f9f1aadbf4cd086a2dc8835a926af.7z"
+    },
+    ["windows-x64-vc142-c1ce40225a2c42bf904efe7df563733d"] = {
+        sha256 = "3c773a037b1a791065f1f1cbeeb39e1416e3875807c041e97eb6392d662c16fd",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-c1ce40225a2c42bf904efe7df563733d.7z"
+    },
+    ["windows-x64-vc143-28da7d6591c1498594bab3b52adc1370"] = {
+        sha256 = "d283da1a54358c9f597bb5a82f010a5e8ebd0194e84013c751dcc47c9c1f59ff",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-28da7d6591c1498594bab3b52adc1370.7z"
+    },
+    ["windows-x86-vc143-926a343194f2457098a913527579bc02"] = {
+        sha256 = "9695f1389acf1ad04e991e9a707fdf4b315dd56f80cda41c7f582814b95df8a3",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-926a343194f2457098a913527579bc02.7z"
+    },
+    ["windows-x64-vc142-2e774e435934428287214ae60ccf956c"] = {
+        sha256 = "1530fe69502f6315c0e6484c2ea97920f5091fe2cb3c5aee8d2620bbf91fe167",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-2e774e435934428287214ae60ccf956c.7z"
+    },
+    ["windows-x86-vc143-cee2cefb471f48de875d907078ce37e6"] = {
+        sha256 = "b9fba74798db9c21134ebc3278bb570c79792877cd804abc773ef61ee03fbb42",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-cee2cefb471f48de875d907078ce37e6.7z"
+    },
+    ["windows-x64-vc142-eb6e6926d4e241d1b96c7705c23338bd"] = {
+        sha256 = "ad71e18a772215d955d287dd59ddc087b00f3a7bb8144c59fd59d6ab2c39f0f6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-eb6e6926d4e241d1b96c7705c23338bd.7z"
+    },
+    ["windows-x64-vc143-c1ce40225a2c42bf904efe7df563733d"] = {
+        sha256 = "e5d3258320b07fdb712e6341c2e06428e1888467fa48f937de9daa25e1388c2c",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc143-c1ce40225a2c42bf904efe7df563733d.7z"
+    },
+    ["windows-x86-vc142-25239eaba48c4c3680c6631af88a145a"] = {
+        sha256 = "34e677156541e422a9ae20d2dc0b7d7da584f168096daafbbc23ff4840909016",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-25239eaba48c4c3680c6631af88a145a.7z"
+    },
+    ["windows-x86-vc143-7b6d5c45a6a043ff8c8c82aa71a814e2"] = {
+        sha256 = "0ffce471f4720e5a8a9717e9247d72206da66e3a896712e95a5274d239696e43",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-7b6d5c45a6a043ff8c8c82aa71a814e2.7z"
+    },
+    ["windows-x64-vc142-10085784353f4cb687fdc1ec790729fd"] = {
+        sha256 = "d3fc436e1815dcf0a3c4edd5dfe88f366062190570e390d73e7924b0cd122731",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-10085784353f4cb687fdc1ec790729fd.7z"
+    },
+    ["windows-x64-vc142-28da7d6591c1498594bab3b52adc1370"] = {
+        sha256 = "bbaee1ae7f21c0fc4dd9a37bfea4a0f41bb3db82b1a5228df973a095a4edf408",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-28da7d6591c1498594bab3b52adc1370.7z"
+    },
+    ["windows-x86-vc143-711a9073a66a45249d6d70f7b0e21e66"] = {
+        sha256 = "d06db0820877cf4d8925126a4d76fe6a07c79d6a50ff050c68974261e4d1aafb",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-711a9073a66a45249d6d70f7b0e21e66.7z"
+    },
+    ["windows-x86-vc142-cee2cefb471f48de875d907078ce37e6"] = {
+        sha256 = "0760afcf2c3f4b0394e2ce2fbb96b617acfcf7bfef9af81b2de4f7eef4c48be9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-cee2cefb471f48de875d907078ce37e6.7z"
+    },
+    ["windows-x86-vc142-711a9073a66a45249d6d70f7b0e21e66"] = {
+        sha256 = "fb5f7bd544af075ab180fe77d05bcfb5ce180386c2c36539dbd1f205fee0f476",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-711a9073a66a45249d6d70f7b0e21e66.7z"
+    },
+    ["windows-x64-vc142-cd5d771205f8432394e377ac9c7a1831"] = {
+        sha256 = "9d94b552d1bf73c79b1ea033d60bd7b2b5fb932b71601dce26a47c0f258bd84a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-cd5d771205f8432394e377ac9c7a1831.7z"
+    },
+    ["windows-x86-vc142-7ccb7ef7d9ce4e6d878584c410eb991b"] = {
+        sha256 = "24956cf655213b30846d498d549e52db55551ea7dd6df0702d22a6f6d028f5ed",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc142-7ccb7ef7d9ce4e6d878584c410eb991b.7z"
+    },
+    ["windows-x64-vc142-3af183b705454c2caa17e364fe3e83a0"] = {
+        sha256 = "c3db9fe1c6ef21fcda62d63250726a64fa4e8ab35def5ff9049f826bcb0cac18",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x64-vc142-3af183b705454c2caa17e364fe3e83a0.7z"
+    },
+    ["windows-x86-vc143-6d2cc1185d804d128b91d00b1d8eb124"] = {
+        sha256 = "3b6adcf5fef480cb6b5a13447956324f7c1b3c1ecea2b54788b1e40f85e467a2",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-v1.88/windows-x86-vc143-6d2cc1185d804d128b91d00b1d8eb124.7z"
     }
 }
