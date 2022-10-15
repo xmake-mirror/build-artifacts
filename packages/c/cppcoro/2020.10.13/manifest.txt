@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc141-35eebf12b19f4336b38b6f3ee5f9ad33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-35eebf12b19f4336b38b6f3ee5f9ad33.7z",
-        sha256 = "0fbd59f086f60c67a0247840056626ed8f5ea05b50b7976ef558002dbafff947",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-d4e66652c86f436ca43f3c76312924a0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-d4e66652c86f436ca43f3c76312924a0.7z",
-        sha256 = "ffea0aae502af16fa546ff11a59458d1714f1688239540665b78a86a1a01a385",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-ba32d79d9f0b4d31b4df08e225f0aa8e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-ba32d79d9f0b4d31b4df08e225f0aa8e.7z",
-        sha256 = "84ff4562e5939f604b1746bcfe8760f1f7312b2b83a66261fcad29c511b6ade1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-35eebf12b19f4336b38b6f3ee5f9ad33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-35eebf12b19f4336b38b6f3ee5f9ad33.7z",
-        sha256 = "05f94832cfb66e52fda9fe1acb04815b9ca4c201ed18f80b14a8cda355d39c14",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-727130f564c64d3bb9d53d9735a450d1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-727130f564c64d3bb9d53d9735a450d1.7z",
-        sha256 = "695fcc79b41416186bf5d4572065b6dda2d13793e0fac7ce7b4f7aa30f392a76",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-727130f564c64d3bb9d53d9735a450d1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-727130f564c64d3bb9d53d9735a450d1.7z",
-        sha256 = "c971616e43483e90070a40899f789f836e042681be85131a393186ca3a09eac0",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-36707cbaccc84ff499eff740330e0a7d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-36707cbaccc84ff499eff740330e0a7d.7z",
-        sha256 = "e95b66fed2b61b628faeb3be9a84d9111592ad16df3d6fe2538527eb6e9996b0",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-d4e66652c86f436ca43f3c76312924a0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-d4e66652c86f436ca43f3c76312924a0.7z",
-        sha256 = "3f20b344c3c7a6be4b4350713b96eda2757b54d05afdfffb1305afed1ca83939",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-243a2b2e613d4164bc89b07388abb9da"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-243a2b2e613d4164bc89b07388abb9da.7z",
-        sha256 = "7af68411c582418939ffe6d6ba4ea3db2395ac087a7eb2daae1796e677524e51",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-ba32d79d9f0b4d31b4df08e225f0aa8e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-ba32d79d9f0b4d31b4df08e225f0aa8e.7z",
-        sha256 = "0ad8e8cf6bdcdcc139643ba2c0fc33e8af7b41c4f51e10c7da2f8388f41a950f",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-74653bb33eb047cc86989200e5614a65"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-74653bb33eb047cc86989200e5614a65.7z",
-        sha256 = "4abecd79ea69df80b446b57869dbc21441f526906455c87aa53ee2dbc0ca54c4",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-74653bb33eb047cc86989200e5614a65"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-74653bb33eb047cc86989200e5614a65.7z",
-        sha256 = "c9d5d51374a6acd34504b2b9dca13858d5879005be8e3ddc00e74157aaf341e4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-36707cbaccc84ff499eff740330e0a7d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-36707cbaccc84ff499eff740330e0a7d.7z",
-        sha256 = "385b4211bdc9763126d3f36056ccbd97d55bc4be9084ff319b662a411449df15",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-beaaf85498f84166bdb80d2f1b2fe149"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-beaaf85498f84166bdb80d2f1b2fe149.7z",
-        sha256 = "a920d44627ee38bd3b0fc8bcedaaefb3d7313ca9b47677fd091258ea2c502089",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-beaaf85498f84166bdb80d2f1b2fe149"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-beaaf85498f84166bdb80d2f1b2fe149.7z",
-        sha256 = "45743e7acb63c258cefe516150ee9352c43ef6f9734ba22fc8cc968cced70668",
-        toolset = "14.29.30133"
+    ["windows-x64-vc143-35eebf12b19f4336b38b6f3ee5f9ad33"] = {
+        sha256 = "dadf79ee191bb12bc694cd01522d9f33b2691e3381d326f351390a9203aab5ac",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc143-35eebf12b19f4336b38b6f3ee5f9ad33.7z"
     },
     ["windows-x64-vc141-243a2b2e613d4164bc89b07388abb9da"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-243a2b2e613d4164bc89b07388abb9da.7z",
-        sha256 = "3796a8d64e08cadc3f6499f2f67bda8e8e871140984b165a1807a6dcec8b4be3",
-        toolset = "14.16.27023"
+        sha256 = "412ae6feb4480df0eea931528c54fd1f1de598b61f1afbaaf4e9394a711a0300",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-243a2b2e613d4164bc89b07388abb9da.7z"
+    },
+    ["windows-x64-vc142-243a2b2e613d4164bc89b07388abb9da"] = {
+        sha256 = "04aa6899b5ba629f0c362f56b60160400e09979ef9ceed74925e19c151ece587",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-243a2b2e613d4164bc89b07388abb9da.7z"
+    },
+    ["windows-x86-vc142-ba32d79d9f0b4d31b4df08e225f0aa8e"] = {
+        sha256 = "b77274de7fa69805d60e562f267239b81bf3dfd8ba3995cc61df59fd01ca38d9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-ba32d79d9f0b4d31b4df08e225f0aa8e.7z"
+    },
+    ["windows-x64-vc142-727130f564c64d3bb9d53d9735a450d1"] = {
+        sha256 = "7d5ca87047f78ab6b6293901ae01a2ecf366870b68e6ece646879afe7504fa97",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-727130f564c64d3bb9d53d9735a450d1.7z"
+    },
+    ["windows-x86-vc142-beaaf85498f84166bdb80d2f1b2fe149"] = {
+        sha256 = "e28513edcb81d5cbdd1de23a5af3fc419aa780efb48935daea725c2d0c772272",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-beaaf85498f84166bdb80d2f1b2fe149.7z"
+    },
+    ["windows-x86-vc142-36707cbaccc84ff499eff740330e0a7d"] = {
+        sha256 = "a2679becf915855a20956bc2ccfcdbafea2481c55cfdd737e86bf3af0e3f7cef",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-36707cbaccc84ff499eff740330e0a7d.7z"
+    },
+    ["windows-x86-vc143-74653bb33eb047cc86989200e5614a65"] = {
+        sha256 = "235d5dd739f2f9a82084421080ffe2964b563a43b2aa1a19bed12e2769e69b25",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc143-74653bb33eb047cc86989200e5614a65.7z"
+    },
+    ["windows-x86-vc143-ba32d79d9f0b4d31b4df08e225f0aa8e"] = {
+        sha256 = "cc803542734ed5a772ae142d418098d4840b58663cf5ea1c43347a0f98b07d00",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc143-ba32d79d9f0b4d31b4df08e225f0aa8e.7z"
+    },
+    ["windows-x86-vc141-ba32d79d9f0b4d31b4df08e225f0aa8e"] = {
+        sha256 = "845c82792952464a554ef962fbb609f50dd01877d3448a0a557c22897dd44028",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-ba32d79d9f0b4d31b4df08e225f0aa8e.7z"
+    },
+    ["windows-x86-vc143-36707cbaccc84ff499eff740330e0a7d"] = {
+        sha256 = "e3d35fc4fb48333ce73481897d904e69faf282c330e07f0b69c27f8e032bed28",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc143-36707cbaccc84ff499eff740330e0a7d.7z"
+    },
+    ["windows-x86-vc141-beaaf85498f84166bdb80d2f1b2fe149"] = {
+        sha256 = "966809f72d573bfa3b5c3442131c18305cc12fbf4587a0c658f0b9fc4a520211",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-beaaf85498f84166bdb80d2f1b2fe149.7z"
+    },
+    ["windows-x86-vc141-74653bb33eb047cc86989200e5614a65"] = {
+        sha256 = "4abecd79ea69df80b446b57869dbc21441f526906455c87aa53ee2dbc0ca54c4",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-74653bb33eb047cc86989200e5614a65.7z"
+    },
+    ["windows-x86-vc142-74653bb33eb047cc86989200e5614a65"] = {
+        sha256 = "b67a8e17b340996a980719fcfd17edd85a41cbbaf86fd3edd7953f65894937a1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc142-74653bb33eb047cc86989200e5614a65.7z"
+    },
+    ["windows-x64-vc141-35eebf12b19f4336b38b6f3ee5f9ad33"] = {
+        sha256 = "ec417408b953cd8accc6820c184bba019843299739966670bed6bd1b7c9fbbd6",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-35eebf12b19f4336b38b6f3ee5f9ad33.7z"
+    },
+    ["windows-x86-vc143-beaaf85498f84166bdb80d2f1b2fe149"] = {
+        sha256 = "cbfbc7ffe18050e5ba0a4717e25fdc6c33307a3e3eb06cd1b2503365aa7e46de",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc143-beaaf85498f84166bdb80d2f1b2fe149.7z"
+    },
+    ["windows-x64-vc142-d4e66652c86f436ca43f3c76312924a0"] = {
+        sha256 = "c562c6a37c97c5e1ad89d625029feabb00997698a6a60dc231ce24b992702a07",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-d4e66652c86f436ca43f3c76312924a0.7z"
+    },
+    ["windows-x64-vc143-243a2b2e613d4164bc89b07388abb9da"] = {
+        sha256 = "398a374297120a7f5a9c523a9e0fb691e5224b09c8efd0896962c606d5a8e7b9",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc143-243a2b2e613d4164bc89b07388abb9da.7z"
+    },
+    ["windows-x64-vc142-35eebf12b19f4336b38b6f3ee5f9ad33"] = {
+        sha256 = "008e2a3ec6938e3e56ecb4edd6d0a5e72aec4ac462b321f0c67c66209f6bc01e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc142-35eebf12b19f4336b38b6f3ee5f9ad33.7z"
+    },
+    ["windows-x64-vc143-d4e66652c86f436ca43f3c76312924a0"] = {
+        sha256 = "0ad9344bafeea43b0f0d01aa52113bae2e9ab9100086e96e029aa175e387eed8",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc143-d4e66652c86f436ca43f3c76312924a0.7z"
+    },
+    ["windows-x86-vc141-36707cbaccc84ff499eff740330e0a7d"] = {
+        sha256 = "09ec065a4b0f00032a530c03c3c9528c7dd4c7230a894cc5961ee075893dc20a",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x86-vc141-36707cbaccc84ff499eff740330e0a7d.7z"
+    },
+    ["windows-x64-vc143-727130f564c64d3bb9d53d9735a450d1"] = {
+        sha256 = "1d3d2f6c2c94e0b7f07293f5057851520182af92652da0c04fe3dbb12f03b9e9",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc143-727130f564c64d3bb9d53d9735a450d1.7z"
+    },
+    ["windows-x64-vc141-d4e66652c86f436ca43f3c76312924a0"] = {
+        sha256 = "7c0e1c980c9c542cac4c7776c62323530544b26c90fcb9bc44bec8c022e7ac48",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-d4e66652c86f436ca43f3c76312924a0.7z"
+    },
+    ["windows-x64-vc141-727130f564c64d3bb9d53d9735a450d1"] = {
+        sha256 = "b918a61b606d662371a2ddac0470dd3b97431185e068f5a2a0d261d01f3293b3",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppcoro-2020.10.13/windows-x64-vc141-727130f564c64d3bb9d53d9735a450d1.7z"
     }
 }
