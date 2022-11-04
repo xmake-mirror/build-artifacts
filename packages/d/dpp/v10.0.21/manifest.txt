@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-02a0df84d6ec469b984eb937f191e86b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-02a0df84d6ec469b984eb937f191e86b.7z",
-        toolset = "14.33.31629",
-        sha256 = "c1b769ee01e1f7c3933be620d660fe06a2ecdb0b85c28420ffabe015bed30294"
+    ["windows-x64-vc143-f71fa2cdd9c340b5a152e83dbba5bfb4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-f71fa2cdd9c340b5a152e83dbba5bfb4.7z",
+        sha256 = "056df69fddb5d7d9626c9c335d6463ef1dc5de8bd30349a8c1796c18a32e3e31",
+        toolset = "14.33.31629"
     },
-    ["windows-x86-vc143-ed19eea1855d4e4c9343621cc33a4398"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-ed19eea1855d4e4c9343621cc33a4398.7z",
-        toolset = "14.33.31629",
-        sha256 = "077173798e419d0aa66ce240322c19393ceeb79694b549deaf28c1544ed8d3b8"
-    },
-    ["windows-x64-vc142-43b35138db154a52b979305fca480d6d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-43b35138db154a52b979305fca480d6d.7z",
-        toolset = "14.29.30133",
-        sha256 = "a149bf0aa8de07cd1f67db3040d64496667c62f62d0bdbe6902970cb4715f217"
-    },
-    ["windows-x86-vc142-ed19eea1855d4e4c9343621cc33a4398"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-ed19eea1855d4e4c9343621cc33a4398.7z",
-        toolset = "14.29.30133",
-        sha256 = "17d37d538030f3e990a8ec6c98d1c621489a39a19878f337e641c7effd244dd4"
-    },
-    ["windows-x64-vc143-43b35138db154a52b979305fca480d6d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-43b35138db154a52b979305fca480d6d.7z",
-        toolset = "14.33.31629",
-        sha256 = "425c9ae541c3b6137cd2f696e792a548a59239c1b4853abe32852b6d0e8ae80d"
-    },
-    ["windows-x64-vc142-7eeff7cb8a244e4bb33f242687b1709f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-7eeff7cb8a244e4bb33f242687b1709f.7z",
-        toolset = "14.29.30133",
-        sha256 = "50025a6aca56bad7ba228d7a9f9f925d812f838dd0909f6006173d64fe794c93"
+    ["windows-x86-vc143-ff4d25e2da8b4545946b674dbb75fb78"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-ff4d25e2da8b4545946b674dbb75fb78.7z",
+        sha256 = "4aaa313b0adf7ed0247d2a8447aacbc9ad3c0f3298bd6ac28537eee40bafa203",
+        toolset = "14.33.31629"
     },
     ["windows-x64-vc143-7eeff7cb8a244e4bb33f242687b1709f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-7eeff7cb8a244e4bb33f242687b1709f.7z",
-        toolset = "14.33.31629",
-        sha256 = "dd87e9b6f99a9bfdc4cdfeb11a6be832c024ffe17b77009735b36d001f1b4622"
-    },
-    ["windows-x86-vc142-a297d61222174c9eae3d1fe1d024de1d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-a297d61222174c9eae3d1fe1d024de1d.7z",
-        toolset = "14.29.30133",
-        sha256 = "f480d88b3923638b07f1626f4a30c0b6c62ef6a7a60b3814b15852e11e42faa8"
-    },
-    ["windows-x86-vc143-ae39e2c27bda482ebbea85a701ef1877"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-ae39e2c27bda482ebbea85a701ef1877.7z",
-        toolset = "14.33.31629",
-        sha256 = "2a2b1b9e55f6b39f183d900b0a36c88903a965c9361cfd47ffda386485a5f7c4"
-    },
-    ["windows-x64-vc143-0026d0540f1e4c9c95c18875f6b5a1ec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-0026d0540f1e4c9c95c18875f6b5a1ec.7z",
-        toolset = "14.33.31629",
-        sha256 = "c6ecc9fe14749c22d3bbbffd6460256b0a664533093f6abcdef8c877b7a27d4a"
-    },
-    ["windows-x64-vc142-02a0df84d6ec469b984eb937f191e86b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-02a0df84d6ec469b984eb937f191e86b.7z",
-        toolset = "14.29.30133",
-        sha256 = "472e795a26805fd8be33224065e34cd7d266540e15af0b281cde3d521856c94e"
-    },
-    ["windows-x86-vc143-d9fc7a7b030944bf90a62cd031e740be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-d9fc7a7b030944bf90a62cd031e740be.7z",
-        toolset = "14.33.31629",
-        sha256 = "90e7b40a209502ad6d579c07d474750ea26ae5a7019b17f5a59b4dd613d65309"
-    },
-    ["windows-x86-vc142-d9fc7a7b030944bf90a62cd031e740be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-d9fc7a7b030944bf90a62cd031e740be.7z",
-        toolset = "14.29.30133",
-        sha256 = "c3da217869807bec22e39500592c61d3a854c629d20b4d59c9f55b43954d671b"
-    },
-    ["windows-x64-vc142-0026d0540f1e4c9c95c18875f6b5a1ec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-0026d0540f1e4c9c95c18875f6b5a1ec.7z",
-        toolset = "14.29.30133",
-        sha256 = "dc1552a93f5e4df6a0665f804fb2959f44498902fe78ae2f31fcaf8af31e9496"
-    },
-    ["windows-x86-vc143-a297d61222174c9eae3d1fe1d024de1d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-a297d61222174c9eae3d1fe1d024de1d.7z",
-        toolset = "14.33.31629",
-        sha256 = "621bec2e2b5ce2ddafc8cd361e3f05c2f1bcd7e1d4c93ac26bc97aabadd4d8f9"
+        sha256 = "dd87e9b6f99a9bfdc4cdfeb11a6be832c024ffe17b77009735b36d001f1b4622",
+        toolset = "14.33.31629"
     },
     ["windows-x86-vc142-ae39e2c27bda482ebbea85a701ef1877"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-ae39e2c27bda482ebbea85a701ef1877.7z",
-        toolset = "14.29.30133",
-        sha256 = "aeff296969f406637b8259fe0135ce6e16ca5b5fa6f8091c912899680c6301e3"
+        sha256 = "aeff296969f406637b8259fe0135ce6e16ca5b5fa6f8091c912899680c6301e3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-d9fc7a7b030944bf90a62cd031e740be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-d9fc7a7b030944bf90a62cd031e740be.7z",
+        sha256 = "c3da217869807bec22e39500592c61d3a854c629d20b4d59c9f55b43954d671b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-0026d0540f1e4c9c95c18875f6b5a1ec"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-0026d0540f1e4c9c95c18875f6b5a1ec.7z",
+        sha256 = "dc1552a93f5e4df6a0665f804fb2959f44498902fe78ae2f31fcaf8af31e9496",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-69ce222e08944fcf928adf2c3a4f04be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-69ce222e08944fcf928adf2c3a4f04be.7z",
+        sha256 = "237c983c72cf1dbb74b39c5324e055b490aef0f72d396e5648b1e068a6c00c22",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-02a0df84d6ec469b984eb937f191e86b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-02a0df84d6ec469b984eb937f191e86b.7z",
+        sha256 = "472e795a26805fd8be33224065e34cd7d266540e15af0b281cde3d521856c94e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-a3ffe8ab0c764e59b11732fffdbe06b8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-a3ffe8ab0c764e59b11732fffdbe06b8.7z",
+        sha256 = "6ff8aad6aaf11c033cc6941ceb68550ada49ecc353cb3481793dea8aca9c0648",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-0d6b2f1521174b589c931ab7c7782242"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-0d6b2f1521174b589c931ab7c7782242.7z",
+        sha256 = "3b361281dcb0e4e87dd558f7de531fcc986302b3b8f5b164320a3d89ba3a000e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-0026d0540f1e4c9c95c18875f6b5a1ec"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-0026d0540f1e4c9c95c18875f6b5a1ec.7z",
+        sha256 = "c6ecc9fe14749c22d3bbbffd6460256b0a664533093f6abcdef8c877b7a27d4a",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-9b8e06f5b7ab406ba674710b35542516"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-9b8e06f5b7ab406ba674710b35542516.7z",
+        sha256 = "d1182c41cb4eccdcf87aeddd28e1d5a228bff10ab1633a7b2dd5583cf90c0e70",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc142-ed19eea1855d4e4c9343621cc33a4398"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-ed19eea1855d4e4c9343621cc33a4398.7z",
+        sha256 = "17d37d538030f3e990a8ec6c98d1c621489a39a19878f337e641c7effd244dd4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-24b900cc8037422c96e6ec74b7754f2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-24b900cc8037422c96e6ec74b7754f2b.7z",
+        sha256 = "cfa0c9fffe72ad4803d0c3eb757c9ab748443fc13a577463456941622f9a1ee1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-f71fa2cdd9c340b5a152e83dbba5bfb4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-f71fa2cdd9c340b5a152e83dbba5bfb4.7z",
+        sha256 = "89f366cfb5e9eb0666c8dd4b5717a77595b2d9ca0b0855fdda500bc2f11e75ec",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-9b8e06f5b7ab406ba674710b35542516"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-9b8e06f5b7ab406ba674710b35542516.7z",
+        sha256 = "6db21636139128fde5f29e541316384d2054867787ae8e9d38c1ff9461913144",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-43b35138db154a52b979305fca480d6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-43b35138db154a52b979305fca480d6d.7z",
+        sha256 = "a149bf0aa8de07cd1f67db3040d64496667c62f62d0bdbe6902970cb4715f217",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-ed19eea1855d4e4c9343621cc33a4398"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-ed19eea1855d4e4c9343621cc33a4398.7z",
+        sha256 = "077173798e419d0aa66ce240322c19393ceeb79694b549deaf28c1544ed8d3b8",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc142-7eeff7cb8a244e4bb33f242687b1709f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc142-7eeff7cb8a244e4bb33f242687b1709f.7z",
+        sha256 = "50025a6aca56bad7ba228d7a9f9f925d812f838dd0909f6006173d64fe794c93",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-24b900cc8037422c96e6ec74b7754f2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-24b900cc8037422c96e6ec74b7754f2b.7z",
+        sha256 = "9b113f0f3777d0598b532b2a453d61684cf40a9f3150d0473b68b251507b8745",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-43b35138db154a52b979305fca480d6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-43b35138db154a52b979305fca480d6d.7z",
+        sha256 = "425c9ae541c3b6137cd2f696e792a548a59239c1b4853abe32852b6d0e8ae80d",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc143-69ce222e08944fcf928adf2c3a4f04be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-69ce222e08944fcf928adf2c3a4f04be.7z",
+        sha256 = "856852f617e9e03e3fb626d509ef1b0965e2eeb98181f292430119c633e17fa1",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc143-d1e7f0e82d534e62ab64da0ca04bc750"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-d1e7f0e82d534e62ab64da0ca04bc750.7z",
+        sha256 = "a0bd6628d00c0fcf5385d1a4942879c4c21c96e11aafef9c5f7b9023e40223f1",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc143-a297d61222174c9eae3d1fe1d024de1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-a297d61222174c9eae3d1fe1d024de1d.7z",
+        sha256 = "621bec2e2b5ce2ddafc8cd361e3f05c2f1bcd7e1d4c93ac26bc97aabadd4d8f9",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc142-a297d61222174c9eae3d1fe1d024de1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-a297d61222174c9eae3d1fe1d024de1d.7z",
+        sha256 = "f480d88b3923638b07f1626f4a30c0b6c62ef6a7a60b3814b15852e11e42faa8",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-a3ffe8ab0c764e59b11732fffdbe06b8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-a3ffe8ab0c764e59b11732fffdbe06b8.7z",
+        sha256 = "e6f4708b8ab02a9f520d245753e53d8041ad5a77c1883cb5502cfcf91cad9976",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-02a0df84d6ec469b984eb937f191e86b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-02a0df84d6ec469b984eb937f191e86b.7z",
+        sha256 = "c1b769ee01e1f7c3933be620d660fe06a2ecdb0b85c28420ffabe015bed30294",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc143-d9fc7a7b030944bf90a62cd031e740be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-d9fc7a7b030944bf90a62cd031e740be.7z",
+        sha256 = "90e7b40a209502ad6d579c07d474750ea26ae5a7019b17f5a59b4dd613d65309",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-0d6b2f1521174b589c931ab7c7782242"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x64-vc143-0d6b2f1521174b589c931ab7c7782242.7z",
+        sha256 = "2a915bc3c8bae4b7b9489f2afbe1e0fef50478472f37c2552f121694ac6e941b",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc142-d1e7f0e82d534e62ab64da0ca04bc750"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-d1e7f0e82d534e62ab64da0ca04bc750.7z",
+        sha256 = "0d1554f757f1cfbabe949a529b59abb8aa30e9c7fe967e3fa03e178aab942c88",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-ff4d25e2da8b4545946b674dbb75fb78"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc142-ff4d25e2da8b4545946b674dbb75fb78.7z",
+        sha256 = "f5e1002bb34edaa1fbf3fae29d6225371c4f1827ccf187fb8bf403f6cfeb8caf",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-ae39e2c27bda482ebbea85a701ef1877"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/dpp-v10.0.21/windows-x86-vc143-ae39e2c27bda482ebbea85a701ef1877.7z",
+        sha256 = "2a2b1b9e55f6b39f183d900b0a36c88903a965c9361cfd47ffda386485a5f7c4",
+        toolset = "14.33.31629"
     }
 }
