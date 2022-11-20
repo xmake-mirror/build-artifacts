@@ -1,82 +1,122 @@
 {
     ["windows-x64-vc141-86b06c5f72a04569bf1f546e85db85e4"] = {
-        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-86b06c5f72a04569bf1f546e85db85e4.7z",
+        toolset = "14.16.27023",
         sha256 = "001981e299c57dcb032e6bee9083327d1df55ad1e880fd7f4ec0f6020b3fac5f"
     },
-    ["windows-x86-vc141-25ef2fe396744ca68afafb590cfbe52b"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-25ef2fe396744ca68afafb590cfbe52b.7z",
-        sha256 = "0fd304139b4b9382ab12970d2caa20577c35ea0868bdc9faa18e312e3cd82a4f"
-    },
-    ["windows-x86-vc142-25ef2fe396744ca68afafb590cfbe52b"] = {
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc142-25ef2fe396744ca68afafb590cfbe52b.7z",
-        sha256 = "63c1bfa6e24afc761c2895cb71f55336a1611dd5487355c0454e1d716ab48356"
-    },
-    ["windows-x86-vc141-003a404cc30847eb8bc041814dcfd6a4"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-003a404cc30847eb8bc041814dcfd6a4.7z",
-        sha256 = "621263592c938593eba2dd7c7f9cd029e6a79212520ffdd2492f1406f1ca4a64"
-    },
-    ["windows-x64-vc141-8c303457ba004d2c920b648cbe03208f"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-8c303457ba004d2c920b648cbe03208f.7z",
-        sha256 = "d3bbc9b5d0e7eb4ab02ddbdced8c19ce69d3b21aa92d17a8ddb486e23566e228"
-    },
-    ["windows-x86-vc141-a4926d42c0f74f68abe2eddd549ffa9d"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-a4926d42c0f74f68abe2eddd549ffa9d.7z",
-        sha256 = "cae430b996660e9721e2dba5d16e71f97ac8e0c70d6bf3086d27982d9afde86b"
-    },
-    ["windows-x64-vc142-8c303457ba004d2c920b648cbe03208f"] = {
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-8c303457ba004d2c920b648cbe03208f.7z",
-        sha256 = "38c3f79217830f82c201b73479ef20b33d6b6f55d79e476982d6d2f088c901cb"
-    },
     ["windows-x86-vc141-c463161a0b1541a9b70ccc9831973635"] = {
-        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-c463161a0b1541a9b70ccc9831973635.7z",
+        toolset = "14.16.27023",
         sha256 = "16d1192adaff04f6525d09371734e780e1bcc120abb838cf1960eb17253ffb7b"
     },
-    ["windows-x64-vc141-fc2727de07be4aefa9eba56007b26f9a"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-fc2727de07be4aefa9eba56007b26f9a.7z",
-        sha256 = "d3e96686aee2349e9c017ce4cd842951583b6b1786bf65aec1c9d3d32b391e82"
+    ["windows-x86-vc143-c463161a0b1541a9b70ccc9831973635"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc143-c463161a0b1541a9b70ccc9831973635.7z",
+        toolset = "14.33.31629",
+        sha256 = "0b0296e9e3361d821e85c82b8658a0096f3e186c270e040d6aaeefbc538f52eb"
     },
-    ["windows-x64-vc142-fc2727de07be4aefa9eba56007b26f9a"] = {
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-fc2727de07be4aefa9eba56007b26f9a.7z",
-        sha256 = "c63ca5aa189bb9b6ee805310244cc729f1ef0ae036091c98eedd7b11157cd80d"
+    ["windows-x86-vc141-25ef2fe396744ca68afafb590cfbe52b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-25ef2fe396744ca68afafb590cfbe52b.7z",
+        toolset = "14.16.27023",
+        sha256 = "0fd304139b4b9382ab12970d2caa20577c35ea0868bdc9faa18e312e3cd82a4f"
+    },
+    ["windows-x64-vc142-8c303457ba004d2c920b648cbe03208f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-8c303457ba004d2c920b648cbe03208f.7z",
+        toolset = "14.29.30133",
+        sha256 = "73c4f62726efc6624b9371be9a8d8363d3015654b22efdc395c0838e3999519c"
     },
     ["windows-x86-vc142-c463161a0b1541a9b70ccc9831973635"] = {
-        toolset = "14.29.30037",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc142-c463161a0b1541a9b70ccc9831973635.7z",
-        sha256 = "c4b9e0c59270e3129e9f3e5abe079657cef451740850206090e29b2a3457f7c8"
+        toolset = "14.29.30133",
+        sha256 = "1a59d98325afb5ea3c4666714a161b3b84b4e8c0df80e222e1545bf9c58519fb"
     },
-    ["windows-x64-vc141-249eb9daf4ef4a2490fea96b84f0c902"] = {
+    ["windows-x86-vc141-a4926d42c0f74f68abe2eddd549ffa9d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-a4926d42c0f74f68abe2eddd549ffa9d.7z",
         toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-249eb9daf4ef4a2490fea96b84f0c902.7z",
-        sha256 = "59572c8804a81d11841906bbce2be370c6f0ee80b4a7aef42404a84599bd8358"
-    },
-    ["windows-x64-vc142-249eb9daf4ef4a2490fea96b84f0c902"] = {
-        toolset = "14.29.30037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-249eb9daf4ef4a2490fea96b84f0c902.7z",
-        sha256 = "21b81ddd5768324d09aa9fb9f0e16191c83e5d4ca5264deb8c670321dd065c3e"
+        sha256 = "cae430b996660e9721e2dba5d16e71f97ac8e0c70d6bf3086d27982d9afde86b"
     },
     ["windows-x64-vc142-86b06c5f72a04569bf1f546e85db85e4"] = {
-        toolset = "14.29.30037",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-86b06c5f72a04569bf1f546e85db85e4.7z",
-        sha256 = "d5c0a1405422b5569c7c299f3e2b8a71a2d009943dbaf27d5645b15c5434691a"
+        toolset = "14.29.30133",
+        sha256 = "fe0293b0b2665246481d63c55048d8389b8884792c5a20def5b283c441b63875"
+    },
+    ["windows-x64-vc141-249eb9daf4ef4a2490fea96b84f0c902"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-249eb9daf4ef4a2490fea96b84f0c902.7z",
+        toolset = "14.16.27023",
+        sha256 = "59572c8804a81d11841906bbce2be370c6f0ee80b4a7aef42404a84599bd8358"
+    },
+    ["windows-x64-vc142-fc2727de07be4aefa9eba56007b26f9a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-fc2727de07be4aefa9eba56007b26f9a.7z",
+        toolset = "14.29.30133",
+        sha256 = "bb091fbf1b082238f232bf5592b1f7240f083a6dfe77d813ed8403590260096b"
+    },
+    ["windows-x86-vc143-003a404cc30847eb8bc041814dcfd6a4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc143-003a404cc30847eb8bc041814dcfd6a4.7z",
+        toolset = "14.33.31629",
+        sha256 = "ab064ef57ecf0a71a6a32395fcfda49550fe80fe3ff43b564aa5c771aa96e25a"
+    },
+    ["windows-x86-vc143-25ef2fe396744ca68afafb590cfbe52b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc143-25ef2fe396744ca68afafb590cfbe52b.7z",
+        toolset = "14.33.31629",
+        sha256 = "42014d2c27e8b0ca056fa9a30f11b911ca96883244d710e969d5f440a9f1041b"
+    },
+    ["windows-x64-vc143-fc2727de07be4aefa9eba56007b26f9a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc143-fc2727de07be4aefa9eba56007b26f9a.7z",
+        toolset = "14.33.31629",
+        sha256 = "0397b9b0268375f984cdc2d22455dca0b7ed6ea34e5bbe5d9f68f5f9ffd4ef06"
+    },
+    ["windows-x64-vc143-8c303457ba004d2c920b648cbe03208f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc143-8c303457ba004d2c920b648cbe03208f.7z",
+        toolset = "14.33.31629",
+        sha256 = "4f150b589c340db9b0edeff2755d31e7eeea48741c432f7762db00584ec56795"
+    },
+    ["windows-x64-vc141-fc2727de07be4aefa9eba56007b26f9a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-fc2727de07be4aefa9eba56007b26f9a.7z",
+        toolset = "14.16.27023",
+        sha256 = "d3e96686aee2349e9c017ce4cd842951583b6b1786bf65aec1c9d3d32b391e82"
+    },
+    ["windows-x64-vc142-249eb9daf4ef4a2490fea96b84f0c902"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc142-249eb9daf4ef4a2490fea96b84f0c902.7z",
+        toolset = "14.29.30133",
+        sha256 = "2a8d1d298ca706794bc0f8902117657777a4c55122b2aad64d278674ce5eb707"
     },
     ["windows-x86-vc142-003a404cc30847eb8bc041814dcfd6a4"] = {
-        toolset = "14.29.30037",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc142-003a404cc30847eb8bc041814dcfd6a4.7z",
-        sha256 = "957f0a254b0d051622ae4c4fdf7b3ddf4664b0890c7811e5638e5d135d6dd3cd"
+        toolset = "14.29.30133",
+        sha256 = "2efe0a04c293f8d105df250cc5603181aae5622b349086cc36c1256de574e2b6"
+    },
+    ["windows-x64-vc141-8c303457ba004d2c920b648cbe03208f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc141-8c303457ba004d2c920b648cbe03208f.7z",
+        toolset = "14.16.27023",
+        sha256 = "d3bbc9b5d0e7eb4ab02ddbdced8c19ce69d3b21aa92d17a8ddb486e23566e228"
     },
     ["windows-x86-vc142-a4926d42c0f74f68abe2eddd549ffa9d"] = {
-        toolset = "14.29.30037",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc142-a4926d42c0f74f68abe2eddd549ffa9d.7z",
-        sha256 = "d9d22cc24934abfc535ceb0729bb63c3bc5d82d9608212fb2f7761362c0c7799"
+        toolset = "14.29.30133",
+        sha256 = "2add27f20114697735598d2e3bcd5a8e4c6e7554a15f455c29dbf18935528e95"
+    },
+    ["windows-x64-vc143-249eb9daf4ef4a2490fea96b84f0c902"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc143-249eb9daf4ef4a2490fea96b84f0c902.7z",
+        toolset = "14.33.31629",
+        sha256 = "babca7f0397c08169ffd6c4bdf41e5b5e4db033701578eacdcaeaa68c4c3e7c9"
+    },
+    ["windows-x86-vc143-a4926d42c0f74f68abe2eddd549ffa9d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc143-a4926d42c0f74f68abe2eddd549ffa9d.7z",
+        toolset = "14.33.31629",
+        sha256 = "0b01b47efbb9eaa61ae862befb90877acc7311a396a0455ef744722cd9b5431d"
+    },
+    ["windows-x86-vc142-25ef2fe396744ca68afafb590cfbe52b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc142-25ef2fe396744ca68afafb590cfbe52b.7z",
+        toolset = "14.29.30133",
+        sha256 = "6331257cbfa2656b5f41a2be44088318dee7bd0e2ae0b5b925660307a7ac3832"
+    },
+    ["windows-x64-vc143-86b06c5f72a04569bf1f546e85db85e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x64-vc143-86b06c5f72a04569bf1f546e85db85e4.7z",
+        toolset = "14.33.31629",
+        sha256 = "fc36eead71e9385917d55f5521d237cb9ed8da5d21ddbc5922f1f45fe83574f6"
+    },
+    ["windows-x86-vc141-003a404cc30847eb8bc041814dcfd6a4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libusb-v1.0.24/windows-x86-vc141-003a404cc30847eb8bc041814dcfd6a4.7z",
+        toolset = "14.16.27023",
+        sha256 = "621263592c938593eba2dd7c7f9cd029e6a79212520ffdd2492f1406f1ca4a64"
     }
 }
