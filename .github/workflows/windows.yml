@@ -79,4 +79,5 @@ jobs:
           cd core
           xmake
           cd ../..
+          $Env:XMAKE_PROGRAM_DIR = $(Resolve-Path ./xmake/xmake)
           xmake/core/build/xmake.exe l -vD scripts/update.lua
