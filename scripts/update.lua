@@ -12,6 +12,8 @@ function get_manifestkey(manifest)
 end
 
 function main()
+        os.exec("git clone git@github.com:xmake-mirror/build-artifacts.git")
+        --[[
     local buildinfo = io.load(path.join(os.scriptdir(), "..", "build.txt"))
     local name = buildinfo.name:lower()
     for _, version in ipairs(buildinfo.versions) do
@@ -23,7 +25,6 @@ function main()
         for _, asset in ipairs(assets_json) do
             http.download(asset.url, path.join("assets", asset.name))
         end
-        os.exec("git clone git@github.com:xmake-mirror/build-artifacts.git")
         os.cd("build-artifacts")
         local manifestfile = path.join("packages", name:sub(1, 1), name, version, "manifest.txt")
 
@@ -82,5 +83,5 @@ function main()
             trycount = trycount + 1
         end
         assert(trycount < 3, "push manifest failed!")
-    end
+    end]]
 end

@@ -37,10 +37,6 @@ jobs:
           maximum-size: 32GB
           disk-root: "D:"
 
-      - name: Build artifacts
-        run: |
-          xmake l scripts/build.lua -a ${{ matrix.arch }} -k ${{ matrix.kind }} -f "vs_runtime='${{ matrix.vs_runtime }}'"
-
   update:
     needs: build
     if: always()
