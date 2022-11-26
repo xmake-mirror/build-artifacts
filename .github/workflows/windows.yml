@@ -73,4 +73,10 @@ jobs:
 
       - name: Update manifest
         run: |
-          xmake l -vD scripts/update.lua
+          git clone https://github.com/xmake-io/xmake.git -b test
+          cd xmake
+          git submodule update --init
+          cd core
+          xmake
+          cd ../..
+          xmake/core/build/xmake.exe l -vD scripts/update.lua
