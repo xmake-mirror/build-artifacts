@@ -12,19 +12,23 @@ function get_manifestkey(manifest)
 end
 
 function main()
-        os.exec("git clone git@github.com:xmake-mirror/build-artifacts.git")
-        --[[
     local buildinfo = io.load(path.join(os.scriptdir(), "..", "build.txt"))
     local name = buildinfo.name:lower()
     for _, version in ipairs(buildinfo.versions) do
         local tag = name .. "-" .. version
+        print("11111111")
         local assets = os.iorunv("gh", {"release", "view", tag, "--json", "assets"})
+        print("2222222")
         local assets_json = assert(json.decode(assets).assets, "assets not found!")
         assert(#assets_json, "assets are empty!")
         os.mkdir("assets")
+        print("4444444")
         for _, asset in ipairs(assets_json) do
             http.download(asset.url, path.join("assets", asset.name))
         end
+        print("555555")
+        os.exec("git clone git@github.com:xmake-mirror/build-artifacts.git")
+        print("66666666")
         os.cd("build-artifacts")
         local manifestfile = path.join("packages", name:sub(1, 1), name, version, "manifest.txt")
 
@@ -61,9 +65,9 @@ function main()
                     io.cat(manifestfile)
                     os.exec("git add -A")
                     os.exec("git commit -a -m \"autoupdate %s-%s by ci\"", name, version)
-                    os.exec("git push origin main")
-                    os.exec("git push git@gitee.com:xmake-mirror/build-artifacts.git main")
-                    os.exec("git push git@gitlab.com:xmake-mirror/build-artifacts.git main")
+                    --os.exec("git push origin main")
+                    --os.exec("git push git@gitee.com:xmake-mirror/build-artifacts.git main")
+                    --os.exec("git push git@gitlab.com:xmake-mirror/build-artifacts.git main")
                     return true
                 end,
                 catch
@@ -83,5 +87,5 @@ function main()
             trycount = trycount + 1
         end
         assert(trycount < 3, "push manifest failed!")
-    end]]
+    end
 end
