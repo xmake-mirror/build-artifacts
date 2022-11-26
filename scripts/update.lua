@@ -17,7 +17,7 @@ function main()
     for _, version in ipairs(buildinfo.versions) do
         local tag = name .. "-" .. version
         print("11111111")
-        local assets = os.iorunv("gh", {"release", "view", tag, "--json", "assets"})
+        local assets = os.execv("gh", {"release", "view", tag, "--json", "assets"}, {stdout = os.tmpfile(), stderr = os.tmpfile(), stdin = os.tmpfile()})
         print("2222222")
         local assets_json = assert(json.decode(assets).assets, "assets not found!")
         assert(#assets_json, "assets are empty!")
