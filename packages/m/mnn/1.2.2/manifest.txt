@@ -1,82 +1,117 @@
 {
-    ["windows-x64-vc142-8bd38678cd50434d835341294f63925d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-8bd38678cd50434d835341294f63925d.7z",
-        toolset = "14.29.30133",
-        sha256 = "97d9c73bf431a3ac1411cafd61d8a6ec64c627e9fb19184b3d9e5cae201bc3ff"
-    },
-    ["windows-x64-vc141-d3b2e67e4e28486f84cac195b96476e8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-d3b2e67e4e28486f84cac195b96476e8.7z",
-        toolset = "14.16.27023",
-        sha256 = "39171397b6b8497dda4210c22361876cce7aaf14276f7d4fb3f517e3738bf158"
-    },
-    ["windows-x64-vc141-85dd026a4e1d478d97e1896d03e06b0d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-85dd026a4e1d478d97e1896d03e06b0d.7z",
-        toolset = "14.16.27023",
-        sha256 = "54efbfc7049227428c512cc481ea4cd689b2a81a410e45f53b527ff42e6f4d25"
-    },
-    ["windows-x86-vc142-d3699426696b4ab1a9a0a2e05fb8322e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc142-d3699426696b4ab1a9a0a2e05fb8322e.7z",
-        toolset = "14.29.30133",
-        sha256 = "bc37607aecf141934e229259b19d79861c4f283b204009d48e566f1e8d63c07c"
-    },
-    ["windows-x64-vc141-8bd38678cd50434d835341294f63925d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-8bd38678cd50434d835341294f63925d.7z",
-        toolset = "14.16.27023",
-        sha256 = "dd028175232bfcdfb511f9faeff78ebd89bfb31f3afed7e9c517230e81740d78"
-    },
-    ["windows-x64-vc142-85dd026a4e1d478d97e1896d03e06b0d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-85dd026a4e1d478d97e1896d03e06b0d.7z",
-        toolset = "14.29.30133",
-        sha256 = "5bc626eae8195981469c4c81bdd33f00d1148a0173203e102940ca9a38e16fbe"
-    },
-    ["windows-x64-vc141-42cb239a69574958b768a6d5c8680111"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-42cb239a69574958b768a6d5c8680111.7z",
-        toolset = "14.16.27023",
-        sha256 = "9cd78a59f7fae67e3b4a6bd35763dfd47f7d49364c5feef352c60fb4a6150368"
-    },
-    ["windows-x64-vc142-42cb239a69574958b768a6d5c8680111"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-42cb239a69574958b768a6d5c8680111.7z",
-        toolset = "14.29.30133",
-        sha256 = "7bd7a598ea9f53c78fda66685bd127eca56f04296aeb51fae6622d41b767ba7c"
-    },
-    ["windows-x86-vc141-0196c070787f4dc29ec0a9fe8128ca85"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-0196c070787f4dc29ec0a9fe8128ca85.7z",
-        toolset = "14.16.27023",
-        sha256 = "87b1cd6faf719274cf40116466cd78e203ae5eda2fdd953ed0d0dff6dd9713df"
-    },
-    ["windows-x86-vc141-557e060db05445d2b7492d1b74412c05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-557e060db05445d2b7492d1b74412c05.7z",
-        toolset = "14.16.27023",
-        sha256 = "efda250d711148cb45e11ddd5f791f356e921c93b2048ed06ec1263538d0afad"
-    },
-    ["windows-x86-vc141-abef41d7bace4ca0a0945a691074cfa0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-abef41d7bace4ca0a0945a691074cfa0.7z",
-        toolset = "14.16.27023",
-        sha256 = "c50ba0e82cba5ae2604633cebc1e120874bb6b8c8ae78bce8d89784626e774dd"
+    ["windows-x86-vc142-abef41d7bace4ca0a0945a691074cfa0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc142-abef41d7bace4ca0a0945a691074cfa0.7z",
+        sha256 = "92ddab014ef454fadea346f7bc5b224ef9710d510b02810080583fb66093193f",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-557e060db05445d2b7492d1b74412c05"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc142-557e060db05445d2b7492d1b74412c05.7z",
-        toolset = "14.29.30133",
-        sha256 = "72c812cf9d72e8efa3a77fc7dfdb30dddaf95d6fda9ee88cdf066bd902d5fc67"
+        sha256 = "5e8afe63a3c77b6b6bd3ee0bb99fbcb555e1c8eb42e0ecad63b5a750d1b77246",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc141-d3699426696b4ab1a9a0a2e05fb8322e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-d3699426696b4ab1a9a0a2e05fb8322e.7z",
-        toolset = "14.16.27023",
-        sha256 = "2514c20263ac9f55d7c36cc686bdc5fcccc57719eb4cf1dd9d0d5ce9530fd956"
+    ["windows-x86-vc141-abef41d7bace4ca0a0945a691074cfa0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-abef41d7bace4ca0a0945a691074cfa0.7z",
+        sha256 = "c50ba0e82cba5ae2604633cebc1e120874bb6b8c8ae78bce8d89784626e774dd",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-8bd38678cd50434d835341294f63925d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc143-8bd38678cd50434d835341294f63925d.7z",
+        sha256 = "f144f1aa0ecbd3e8f5370130f7adb08e4281cd3e0053a3ded1c33180ea2fdc61",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc141-d3b2e67e4e28486f84cac195b96476e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-d3b2e67e4e28486f84cac195b96476e8.7z",
+        sha256 = "39171397b6b8497dda4210c22361876cce7aaf14276f7d4fb3f517e3738bf158",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc143-557e060db05445d2b7492d1b74412c05"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc143-557e060db05445d2b7492d1b74412c05.7z",
+        sha256 = "72d0f5ab7b46d0c3d882d2660e5bcce81b526e2f59b8067fe1911291ef64e580",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc142-8bd38678cd50434d835341294f63925d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-8bd38678cd50434d835341294f63925d.7z",
+        sha256 = "b1942ce98acaecb4a6b06da3089dfacc6657dd983ee26b3e33f78b75ef65cfed",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-42cb239a69574958b768a6d5c8680111"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-42cb239a69574958b768a6d5c8680111.7z",
+        sha256 = "9cd78a59f7fae67e3b4a6bd35763dfd47f7d49364c5feef352c60fb4a6150368",
+        toolset = "14.16.27023"
     },
     ["windows-x86-vc142-0196c070787f4dc29ec0a9fe8128ca85"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc142-0196c070787f4dc29ec0a9fe8128ca85.7z",
-        toolset = "14.29.30133",
-        sha256 = "cf19e756a38154d4446ecfcbf183186888976fe132c2770930cda1fbe6b05465"
+        sha256 = "1abd99213954924a7ef90774356f8ec581381ccb37c9d1ce9137eb0a9e7079f2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-85dd026a4e1d478d97e1896d03e06b0d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-85dd026a4e1d478d97e1896d03e06b0d.7z",
+        sha256 = "fb7c6452f348e63ea7ebf6408e58bc751a07ecf868e90cfdff76ff970960bc9b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-d3699426696b4ab1a9a0a2e05fb8322e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc142-d3699426696b4ab1a9a0a2e05fb8322e.7z",
+        sha256 = "a67244df43d32a6c3b97463be47fe0d5a717bdf2fa5a4ae4f9e0a79b3ae0df80",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-d3699426696b4ab1a9a0a2e05fb8322e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-d3699426696b4ab1a9a0a2e05fb8322e.7z",
+        sha256 = "2514c20263ac9f55d7c36cc686bdc5fcccc57719eb4cf1dd9d0d5ce9530fd956",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-d3b2e67e4e28486f84cac195b96476e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc143-d3b2e67e4e28486f84cac195b96476e8.7z",
+        sha256 = "ca82dd7a86ca389047762e0d56083c543a50da48fca8f5233a120e735d6142b2",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc143-0196c070787f4dc29ec0a9fe8128ca85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc143-0196c070787f4dc29ec0a9fe8128ca85.7z",
+        sha256 = "61d698a2543bdf15cf1a1cb8e9c235fb2adb23fdd349c7ade7aa5f936628fbe9",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc141-8bd38678cd50434d835341294f63925d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-8bd38678cd50434d835341294f63925d.7z",
+        sha256 = "dd028175232bfcdfb511f9faeff78ebd89bfb31f3afed7e9c517230e81740d78",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-42cb239a69574958b768a6d5c8680111"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc143-42cb239a69574958b768a6d5c8680111.7z",
+        sha256 = "ec4e81b67864c54fab3370b6720941d89651722379eb501dd7fab19f63d82168",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc141-0196c070787f4dc29ec0a9fe8128ca85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-0196c070787f4dc29ec0a9fe8128ca85.7z",
+        sha256 = "87b1cd6faf719274cf40116466cd78e203ae5eda2fdd953ed0d0dff6dd9713df",
+        toolset = "14.16.27023"
     },
     ["windows-x64-vc142-d3b2e67e4e28486f84cac195b96476e8"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-d3b2e67e4e28486f84cac195b96476e8.7z",
-        toolset = "14.29.30133",
-        sha256 = "ab78fcb90a7a32c2dbb9c254082d6e06dddf2e67bdf1071d2b97e5eebf18bb4c"
+        sha256 = "c69ef52a7e6b98be50a94695506f5ac0ce39d1bfd081e1b75b44c077294c8903",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-abef41d7bace4ca0a0945a691074cfa0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc142-abef41d7bace4ca0a0945a691074cfa0.7z",
-        toolset = "14.29.30133",
-        sha256 = "176c8ffd698c79ff80a4b2943d3eb73078627968108832a509484ed5fecba8fc"
+    ["windows-x64-vc142-42cb239a69574958b768a6d5c8680111"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc142-42cb239a69574958b768a6d5c8680111.7z",
+        sha256 = "11290013af3979151fa23f0de063dffdc4ea3a1e2cbd6cd8c1fec0145b2e69c4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-85dd026a4e1d478d97e1896d03e06b0d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc141-85dd026a4e1d478d97e1896d03e06b0d.7z",
+        sha256 = "54efbfc7049227428c512cc481ea4cd689b2a81a410e45f53b527ff42e6f4d25",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc143-85dd026a4e1d478d97e1896d03e06b0d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x64-vc143-85dd026a4e1d478d97e1896d03e06b0d.7z",
+        sha256 = "a75c675e5febf123577afa9b27d32d612ea47a82594eb005b90616ea971d7fe5",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc141-557e060db05445d2b7492d1b74412c05"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc141-557e060db05445d2b7492d1b74412c05.7z",
+        sha256 = "efda250d711148cb45e11ddd5f791f356e921c93b2048ed06ec1263538d0afad",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc143-abef41d7bace4ca0a0945a691074cfa0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mnn-1.2.2/windows-x86-vc143-abef41d7bace4ca0a0945a691074cfa0.7z",
+        sha256 = "b2d54502e01cb6be215abf4590bf36442c13e41892357ce635e02424e51329d5",
+        toolset = "14.33.31629"
     }
 }
