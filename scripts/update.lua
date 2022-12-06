@@ -17,8 +17,6 @@ function main()
     for _, version in ipairs(buildinfo.versions) do
         local tag = name .. "-" .. version
         print("11111111")
-        local infile = os.tmpfile()
-        os.touch(infile)
         local assets = os.iorunv("gh", {"release", "view", tag, "--json", "assets"})
         print("2222222")
         local assets_json = assert(json.decode(assets).assets, "assets not found!")
