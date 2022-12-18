@@ -39,11 +39,9 @@ function get_buildid_for_msvc(buildhash, opt)
     local vcvars = assert(msvc:config("vcvars"), "vcvars not found!")
     local vs_toolset = vcvars.VCToolsVersion
     if vs_toolset and semver.is_valid(vs_toolset) then
-        assert(vs_toolset == "14.30.30705" or
+        assert(vs_toolset == "14.16.27023" or
                vs_toolset == "14.29.30133" or
-               vs_toolset == "14.16.27023" or
-               vs_toolset == "14.33.31629" or
-               vs_toolset == "14.32.31326", "vs_toolset has been updated to %s", vs_toolset)
+               vs_toolset == "14.34.31933", "vs_toolset has been updated to %s", vs_toolset)
         local vs_toolset_semver = semver.new(vs_toolset)
         local msvc_version = "vc" .. vs_toolset_semver:major() .. tostring(vs_toolset_semver:minor()):sub(1, 1)
         return opt.plat .. "-" .. opt.arch .. "-" .. msvc_version .. "-" .. buildhash
