@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc143-8574311f4b544fa89a3d8c3ee79d1929"] = {
-        sha256 = "78eff3fcea2c41081bc0f6ff0ffa0ff9fc46f6d47393bcee42127723c6de1696",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-8574311f4b544fa89a3d8c3ee79d1929.7z"
-    },
-    ["windows-x64-vc143-be26b06b318f408d9eb20f66317fad98"] = {
-        sha256 = "48610f243cd12b2b9bc23ca9491db54155d6d7e64504ab743a6775bfe93a4a05",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-be26b06b318f408d9eb20f66317fad98.7z"
-    },
-    ["windows-x64-vc143-8574311f4b544fa89a3d8c3ee79d1929"] = {
-        sha256 = "acb99dcbe553b35e4c430d28369e7131d895886d83f293ffe68b14ea1850231d",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-8574311f4b544fa89a3d8c3ee79d1929.7z"
-    },
-    ["windows-x86-vc142-be26b06b318f408d9eb20f66317fad98"] = {
-        sha256 = "417bd486c46ef88755391f3bbd9941e7798f5784bb1af752e2b4bbd3e8b8179b",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-be26b06b318f408d9eb20f66317fad98.7z"
-    },
-    ["windows-x64-vc143-56a6d4e4dc1245439a319fe3789fb16f"] = {
-        sha256 = "84f653843694522e88b5f72092467dab2e4052aab56310e79f5e299f76dc317c",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-56a6d4e4dc1245439a319fe3789fb16f.7z"
-    },
-    ["windows-x86-vc143-be26b06b318f408d9eb20f66317fad98"] = {
-        sha256 = "010364dee0811add40ff87e43f344ecf5d6317fc76b4203de0af185d1da6abdd",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-be26b06b318f408d9eb20f66317fad98.7z"
+    ["windows-x64-vc142-7418f51b300b4f1d9539e175c770deed"] = {
+        sha256 = "f23ab48a80f6028668de6ee8562a6af7f4e1f54fae5b029ac732b216bd1bc106",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-7418f51b300b4f1d9539e175c770deed.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc143-7418f51b300b4f1d9539e175c770deed"] = {
         sha256 = "147f0abee7843e9e47fb2699fa39028f4e29b30bdcd839bb2691c5ecbe3ae8f8",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-7418f51b300b4f1d9539e175c770deed.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-7418f51b300b4f1d9539e175c770deed.7z",
+        toolset = "14.34.31933"
     },
-    ["windows-x86-vc143-56a6d4e4dc1245439a319fe3789fb16f"] = {
-        sha256 = "10d9f64933319ad324441d5af5ef27caa5fa8b611aa7ecd03b9af42ccd6edf2c",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-56a6d4e4dc1245439a319fe3789fb16f.7z"
+    ["windows-x86-vc143-8728b310c2df4f069041ecf02d395c58"] = {
+        sha256 = "2d7b338b69eb4d417ab795860f80a028d644c3a1479558fe480a87ee04d758f9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-8728b310c2df4f069041ecf02d395c58.7z",
+        toolset = "14.34.31933"
     },
-    ["windows-x64-vc142-8574311f4b544fa89a3d8c3ee79d1929"] = {
-        sha256 = "2af5ea1c1548d7dfa33413a0ff91483d4e8bc1e5ccb5490e3c91ad3afd998aa3",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-8574311f4b544fa89a3d8c3ee79d1929.7z"
-    },
-    ["windows-x86-vc142-7418f51b300b4f1d9539e175c770deed"] = {
-        sha256 = "9dd1d46cbe96b358aa52320fe44c0fb125bb546639bdaa9a09e913aeef76957c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-7418f51b300b4f1d9539e175c770deed.7z"
-    },
-    ["windows-x64-vc142-56a6d4e4dc1245439a319fe3789fb16f"] = {
-        sha256 = "16cf368d4cf73d65548db9cda2621fb9722fb3c39d76cd9632b6ba3727546fbd",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-56a6d4e4dc1245439a319fe3789fb16f.7z"
-    },
-    ["windows-x64-vc142-7418f51b300b4f1d9539e175c770deed"] = {
-        sha256 = "f23ab48a80f6028668de6ee8562a6af7f4e1f54fae5b029ac732b216bd1bc106",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-7418f51b300b4f1d9539e175c770deed.7z"
+    ["windows-x64-vc143-8574311f4b544fa89a3d8c3ee79d1929"] = {
+        sha256 = "acb99dcbe553b35e4c430d28369e7131d895886d83f293ffe68b14ea1850231d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-8574311f4b544fa89a3d8c3ee79d1929.7z",
+        toolset = "14.34.31933"
     },
     ["windows-x86-vc143-7418f51b300b4f1d9539e175c770deed"] = {
         sha256 = "3d3196a8107e02350f981ea8948efe3263d9ebf3c1169756f2d27ee2d6cb1b8c",
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-7418f51b300b4f1d9539e175c770deed.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-7418f51b300b4f1d9539e175c770deed.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc142-7418f51b300b4f1d9539e175c770deed"] = {
+        sha256 = "9dd1d46cbe96b358aa52320fe44c0fb125bb546639bdaa9a09e913aeef76957c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-7418f51b300b4f1d9539e175c770deed.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-56a6d4e4dc1245439a319fe3789fb16f"] = {
+        sha256 = "16cf368d4cf73d65548db9cda2621fb9722fb3c39d76cd9632b6ba3727546fbd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-56a6d4e4dc1245439a319fe3789fb16f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-be26b06b318f408d9eb20f66317fad98"] = {
+        sha256 = "010364dee0811add40ff87e43f344ecf5d6317fc76b4203de0af185d1da6abdd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-be26b06b318f408d9eb20f66317fad98.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc142-10253c39aca14760ae4382272800b680"] = {
+        sha256 = "8d6b4c72e7382640b4a7b94a786f0af2ffe922da06c207c1fbafd8d93d27716a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-10253c39aca14760ae4382272800b680.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-8574311f4b544fa89a3d8c3ee79d1929"] = {
+        sha256 = "78eff3fcea2c41081bc0f6ff0ffa0ff9fc46f6d47393bcee42127723c6de1696",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-8574311f4b544fa89a3d8c3ee79d1929.7z",
+        toolset = "14.34.31933"
     },
     ["windows-x86-vc142-56a6d4e4dc1245439a319fe3789fb16f"] = {
         sha256 = "c84b26fbbe8e76b20d1de55348bb44cb4b6a22f3ad8bc0791c4c221cdcf3abba",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-56a6d4e4dc1245439a319fe3789fb16f.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-56a6d4e4dc1245439a319fe3789fb16f.7z",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-8574311f4b544fa89a3d8c3ee79d1929"] = {
-        sha256 = "ca3f37e29653681c9c29447eda97205d95b45e5cd52f01a0357f3ad50f42c65f",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-8574311f4b544fa89a3d8c3ee79d1929.7z"
+    ["windows-x64-vc143-be26b06b318f408d9eb20f66317fad98"] = {
+        sha256 = "48610f243cd12b2b9bc23ca9491db54155d6d7e64504ab743a6775bfe93a4a05",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-be26b06b318f408d9eb20f66317fad98.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc143-10253c39aca14760ae4382272800b680"] = {
+        sha256 = "49f131ffcb0cf9fff60de0efde2b98d64b3ccf3dcca984db3738b8c5bf3498cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-10253c39aca14760ae4382272800b680.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc142-be26b06b318f408d9eb20f66317fad98"] = {
+        sha256 = "417bd486c46ef88755391f3bbd9941e7798f5784bb1af752e2b4bbd3e8b8179b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-be26b06b318f408d9eb20f66317fad98.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-56a6d4e4dc1245439a319fe3789fb16f"] = {
+        sha256 = "84f653843694522e88b5f72092467dab2e4052aab56310e79f5e299f76dc317c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-56a6d4e4dc1245439a319fe3789fb16f.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc143-56a6d4e4dc1245439a319fe3789fb16f"] = {
+        sha256 = "10d9f64933319ad324441d5af5ef27caa5fa8b611aa7ecd03b9af42ccd6edf2c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc143-56a6d4e4dc1245439a319fe3789fb16f.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc142-8574311f4b544fa89a3d8c3ee79d1929"] = {
+        sha256 = "2af5ea1c1548d7dfa33413a0ff91483d4e8bc1e5ccb5490e3c91ad3afd998aa3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-8574311f4b544fa89a3d8c3ee79d1929.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-8728b310c2df4f069041ecf02d395c58"] = {
+        sha256 = "f881f46cd8e65e2dc8b993974ad0ee23a3127b03b5b05b13aca4c88aa0f97c1c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-8728b310c2df4f069041ecf02d395c58.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-8728b310c2df4f069041ecf02d395c58"] = {
+        sha256 = "2f6939b02a2d148325ac9e27ad0614fb461af1c600bdc8a6841dc56686e5d5b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-8728b310c2df4f069041ecf02d395c58.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc142-be26b06b318f408d9eb20f66317fad98"] = {
         sha256 = "3216e7bbbbe13f0db9a37c8dba85b4b99aefbfe74467f33916bb667a4f96e179",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-be26b06b318f408d9eb20f66317fad98.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-be26b06b318f408d9eb20f66317fad98.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-8574311f4b544fa89a3d8c3ee79d1929"] = {
+        sha256 = "ca3f37e29653681c9c29447eda97205d95b45e5cd52f01a0357f3ad50f42c65f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x86-vc142-8574311f4b544fa89a3d8c3ee79d1929.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-8728b310c2df4f069041ecf02d395c58"] = {
+        sha256 = "7e5ea51ad60756081365f0a2c9de1bba2a69759926f5dfb2fecd6b77c23f1033",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-8728b310c2df4f069041ecf02d395c58.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc143-10253c39aca14760ae4382272800b680"] = {
+        sha256 = "b17e4ac26f682b6bcd4ede27d03e351cbeb87b625a4233ed6e7c6968cfb3622b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc143-10253c39aca14760ae4382272800b680.7z",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc142-10253c39aca14760ae4382272800b680"] = {
+        sha256 = "dc6f6d4a441b3e41c947161045a8a2726797b478c7f55cb873d26782ab5c0156",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/bison-3.8.2/windows-x64-vc142-10253c39aca14760ae4382272800b680.7z",
+        toolset = "14.29.30133"
     }
 }
