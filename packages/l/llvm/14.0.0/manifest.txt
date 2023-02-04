@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc143-66080ce1199e497bab5c6428bb5146e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-66080ce1199e497bab5c6428bb5146e2.7z",
-        toolset = "14.33.31629",
-        sha256 = "a089cb5da71c27a36c44004401803c9806d8f165b169c3c2c2e212e7eecd864f"
-    },
-    ["windows-x64-vc142-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-6aec7b2f16b442fd9cb0dea78a7240ee.7z",
-        toolset = "14.29.30133",
-        sha256 = "94416d1835380a97999e710383b76ffddb56a8af0bff81a17d322b7e320e54b7"
-    },
-    ["windows-x64-vc143-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-6aec7b2f16b442fd9cb0dea78a7240ee.7z",
-        toolset = "14.33.31629",
-        sha256 = "d7f3955667d3d830a1b09e37b7c47bcb683769ce0f3ccbdfeb0e95adad096cb3"
+    ["windows-x64-vc143-49ef235955634c2daa38f086dca79cee"] = {
+        sha256 = "79b484e48d000ea14e5d5a20ab3e1256b25118260daa5556b820cab0eeaa71ff",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-49ef235955634c2daa38f086dca79cee.7z"
     },
     ["windows-x86-vc142-19803fd76cc24b8db7c49c5a5e2ed1e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-19803fd76cc24b8db7c49c5a5e2ed1e7.7z",
+        sha256 = "220378fd098686d2e812710e166ee93da4ad5b99eae64c4f26e9a90c546677f7",
         toolset = "14.29.30133",
-        sha256 = "220378fd098686d2e812710e166ee93da4ad5b99eae64c4f26e9a90c546677f7"
-    },
-    ["windows-x86-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7.7z",
-        toolset = "14.33.31629",
-        sha256 = "b4883b68cee38bad8269e614191fd3a39179524b3050a65121b80fe2e3924890"
-    },
-    ["windows-x64-vc142-15d2c19b6b29447588c43d9e941c5943"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-15d2c19b6b29447588c43d9e941c5943.7z",
-        toolset = "14.29.30133",
-        sha256 = "c429084bf016675be8b48778abedb16b19675e5711e81d3e9949bd3f16c17234"
-    },
-    ["windows-x86-vc142-66080ce1199e497bab5c6428bb5146e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-66080ce1199e497bab5c6428bb5146e2.7z",
-        toolset = "14.29.30133",
-        sha256 = "c63b2853ea343db17b79fe4f2a624ad9d229013d12b64004ca93b7465a304926"
-    },
-    ["windows-x86-vc143-15d2c19b6b29447588c43d9e941c5943"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-15d2c19b6b29447588c43d9e941c5943.7z",
-        toolset = "14.33.31629",
-        sha256 = "eda317eb9cca56697bbb77f57e399d874c71e1708d0cef30356589906079882d"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-19803fd76cc24b8db7c49c5a5e2ed1e7.7z"
     },
     ["windows-x64-vc142-19803fd76cc24b8db7c49c5a5e2ed1e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-19803fd76cc24b8db7c49c5a5e2ed1e7.7z",
+        sha256 = "5449fea408348fd37bc499393aa123696e8da8633d45b8914042fe24016c84e0",
         toolset = "14.29.30133",
-        sha256 = "5449fea408348fd37bc499393aa123696e8da8633d45b8914042fe24016c84e0"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-19803fd76cc24b8db7c49c5a5e2ed1e7.7z"
     },
-    ["windows-x86-vc143-66080ce1199e497bab5c6428bb5146e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-66080ce1199e497bab5c6428bb5146e2.7z",
-        toolset = "14.33.31629",
-        sha256 = "bbc2af89205a9cfa7f4fcc8610918c9b5993fdc5ea57a2f3a50f01f6e87f0e86"
+    ["windows-x86-vc142-66080ce1199e497bab5c6428bb5146e2"] = {
+        sha256 = "c63b2853ea343db17b79fe4f2a624ad9d229013d12b64004ca93b7465a304926",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-66080ce1199e497bab5c6428bb5146e2.7z"
+    },
+    ["windows-x86-vc142-49ef235955634c2daa38f086dca79cee"] = {
+        sha256 = "4f137b8dfdcb0cb7e39caff0692fd4ce21215ee9020d1810aabfd7b3a3d0585f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-49ef235955634c2daa38f086dca79cee.7z"
     },
     ["windows-x86-vc143-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-6aec7b2f16b442fd9cb0dea78a7240ee.7z",
-        toolset = "14.33.31629",
-        sha256 = "b4fab6a602436d70d708fa5dc3a9c0b5e7c008bd4ed620176fe92471ef54e512"
-    },
-    ["windows-x64-vc143-15d2c19b6b29447588c43d9e941c5943"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-15d2c19b6b29447588c43d9e941c5943.7z",
-        toolset = "14.33.31629",
-        sha256 = "7baf28865d64a847798fe105104e962c53bf4df2d724c9439c8c68cb20268227"
-    },
-    ["windows-x64-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7.7z",
-        toolset = "14.33.31629",
-        sha256 = "3350ae9f1aab3a2630a4c18057e62640ab403f03c8d6e805285d91660661abc8"
-    },
-    ["windows-x64-vc142-66080ce1199e497bab5c6428bb5146e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-66080ce1199e497bab5c6428bb5146e2.7z",
-        toolset = "14.29.30133",
-        sha256 = "25f88d31dee9cc0dadf6b621eb838367684bbea34cf35415c0ae4d946a926a1c"
-    },
-    ["windows-x86-vc142-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-6aec7b2f16b442fd9cb0dea78a7240ee.7z",
-        toolset = "14.29.30133",
-        sha256 = "b71ae696f1ea0e7044f79f2a8bad78445a70d67383b3c84aa19335cd5c33d1c2"
+        sha256 = "b4fab6a602436d70d708fa5dc3a9c0b5e7c008bd4ed620176fe92471ef54e512",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-6aec7b2f16b442fd9cb0dea78a7240ee.7z"
     },
     ["windows-x86-vc142-15d2c19b6b29447588c43d9e941c5943"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-15d2c19b6b29447588c43d9e941c5943.7z",
+        sha256 = "73b4499ab0f4d45afa07b9fa6974d8b540e6acdc30c1c986bad1633881f63ab9",
         toolset = "14.29.30133",
-        sha256 = "73b4499ab0f4d45afa07b9fa6974d8b540e6acdc30c1c986bad1633881f63ab9"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-15d2c19b6b29447588c43d9e941c5943.7z"
+    },
+    ["windows-x86-vc143-49ef235955634c2daa38f086dca79cee"] = {
+        sha256 = "a97ca8951832ad3d4df32585a49187a6554c834bb1a1e1c039f552a94217b3cd",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-49ef235955634c2daa38f086dca79cee.7z"
+    },
+    ["windows-x64-vc143-dd3b83b656aa4deda4407126fd76a067"] = {
+        sha256 = "30d2076b556010c9655842231385a05bd66ac624b0910b2f8c00a76660921f48",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-dd3b83b656aa4deda4407126fd76a067.7z"
+    },
+    ["windows-x86-vc142-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
+        sha256 = "b71ae696f1ea0e7044f79f2a8bad78445a70d67383b3c84aa19335cd5c33d1c2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-6aec7b2f16b442fd9cb0dea78a7240ee.7z"
+    },
+    ["windows-x86-vc142-dd3b83b656aa4deda4407126fd76a067"] = {
+        sha256 = "75461c2e41d258e09c8b65a443dd8c238d507445bfe6b46fbd3ebe9485f9d58c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc142-dd3b83b656aa4deda4407126fd76a067.7z"
+    },
+    ["windows-x64-vc142-66080ce1199e497bab5c6428bb5146e2"] = {
+        sha256 = "25f88d31dee9cc0dadf6b621eb838367684bbea34cf35415c0ae4d946a926a1c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-66080ce1199e497bab5c6428bb5146e2.7z"
+    },
+    ["windows-x64-vc142-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
+        sha256 = "94416d1835380a97999e710383b76ffddb56a8af0bff81a17d322b7e320e54b7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-6aec7b2f16b442fd9cb0dea78a7240ee.7z"
+    },
+    ["windows-x64-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7"] = {
+        sha256 = "3350ae9f1aab3a2630a4c18057e62640ab403f03c8d6e805285d91660661abc8",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7.7z"
+    },
+    ["windows-x86-vc143-66080ce1199e497bab5c6428bb5146e2"] = {
+        sha256 = "bbc2af89205a9cfa7f4fcc8610918c9b5993fdc5ea57a2f3a50f01f6e87f0e86",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-66080ce1199e497bab5c6428bb5146e2.7z"
+    },
+    ["windows-x64-vc142-49ef235955634c2daa38f086dca79cee"] = {
+        sha256 = "3eab5a9f7cb4fdfc6bf01fa1c1fe5842a01b2de4b7389d4e85f41d876e65e6ed",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-49ef235955634c2daa38f086dca79cee.7z"
+    },
+    ["windows-x64-vc143-15d2c19b6b29447588c43d9e941c5943"] = {
+        sha256 = "7baf28865d64a847798fe105104e962c53bf4df2d724c9439c8c68cb20268227",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-15d2c19b6b29447588c43d9e941c5943.7z"
+    },
+    ["windows-x64-vc143-66080ce1199e497bab5c6428bb5146e2"] = {
+        sha256 = "a089cb5da71c27a36c44004401803c9806d8f165b169c3c2c2e212e7eecd864f",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-66080ce1199e497bab5c6428bb5146e2.7z"
+    },
+    ["windows-x64-vc143-6aec7b2f16b442fd9cb0dea78a7240ee"] = {
+        sha256 = "d7f3955667d3d830a1b09e37b7c47bcb683769ce0f3ccbdfeb0e95adad096cb3",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc143-6aec7b2f16b442fd9cb0dea78a7240ee.7z"
+    },
+    ["windows-x86-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7"] = {
+        sha256 = "b4883b68cee38bad8269e614191fd3a39179524b3050a65121b80fe2e3924890",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-19803fd76cc24b8db7c49c5a5e2ed1e7.7z"
+    },
+    ["windows-x64-vc142-dd3b83b656aa4deda4407126fd76a067"] = {
+        sha256 = "5c2c505813098ef74fa79f910391bfb36d3caa1c615fe24e5909f464e30ee38f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-dd3b83b656aa4deda4407126fd76a067.7z"
+    },
+    ["windows-x86-vc143-dd3b83b656aa4deda4407126fd76a067"] = {
+        sha256 = "3a16091dfdfb6caf184656b61d61ff9afdf413838ee3a85b12bffa6c1fc2d77e",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-dd3b83b656aa4deda4407126fd76a067.7z"
+    },
+    ["windows-x64-vc142-15d2c19b6b29447588c43d9e941c5943"] = {
+        sha256 = "c429084bf016675be8b48778abedb16b19675e5711e81d3e9949bd3f16c17234",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x64-vc142-15d2c19b6b29447588c43d9e941c5943.7z"
+    },
+    ["windows-x86-vc143-15d2c19b6b29447588c43d9e941c5943"] = {
+        sha256 = "eda317eb9cca56697bbb77f57e399d874c71e1708d0cef30356589906079882d",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-14.0.0/windows-x86-vc143-15d2c19b6b29447588c43d9e941c5943.7z"
     }
 }
