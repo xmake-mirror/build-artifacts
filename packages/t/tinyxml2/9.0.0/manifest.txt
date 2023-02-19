@@ -3,29 +3,109 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-6e5990adaef14e78b50bd851e5150c99.7z",
         sha256 = "3e30f7b8b74080c357278854a31151da14868a091e82142227218c64063736b0"
     },
-    ["windows-x64-dccaa3b852c344ff9ed9100333982f5d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-dccaa3b852c344ff9ed9100333982f5d.7z",
-        sha256 = "e7c52b75e91f9ffb8ead63f83c903372d51ee205f0991dd4a40fb5fc336fc943"
-    },
-    ["windows-x64-df493306cbd4433b8625e1266cb93d3d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-df493306cbd4433b8625e1266cb93d3d.7z",
-        sha256 = "49e2880dc21020a2b9aae6e2de8e8d35db771ab8bb4dad046e5a1b1da4220c82"
-    },
-    ["windows-x86-032cf20b0cd64865a994b715169aa9ab"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-032cf20b0cd64865a994b715169aa9ab.7z",
-        sha256 = "836de47fea31fb9338255214cd2754361c2c621705645fb89f5fbde794be95dd"
-    },
-    ["windows-x64-8b0c2bd9f3e2428d82194f7f4ca9de31"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-8b0c2bd9f3e2428d82194f7f4ca9de31.7z",
-        sha256 = "96315f10f08b48906449cbbf9526d7ac238394e489a1d48087628b1418097402"
+    ["windows-x64-vc143-6e5990adaef14e78b50bd851e5150c99"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc143-6e5990adaef14e78b50bd851e5150c99.7z",
+        sha256 = "96462dc37e26d754d491ba693b6d6376e1421e04cf5833bedf3c26d608a95c06"
     },
     ["windows-x86-b7b3346e9ba34078b71ca4b3e329a728"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-b7b3346e9ba34078b71ca4b3e329a728.7z",
         sha256 = "5c9f7f804e48409fe093a8912e3eb9b0bbe962e03ad1263590248cbda4981513"
     },
+    ["windows-x86-vc143-24cfacde96ba4d4a9cc680d2f40c5113"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc143-24cfacde96ba4d4a9cc680d2f40c5113.7z",
+        sha256 = "9577039a77399ede80c594f358f5014398512746e35941d340497867c2331b4f"
+    },
+    ["windows-x86-vc142-5787b130455248ea9a6198cc32b04e8d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc142-5787b130455248ea9a6198cc32b04e8d.7z",
+        sha256 = "2bfc3081b60b456a76f69a67feeedae238a866e46d736b4d3a5ccbf4c011fd8e"
+    },
+    ["windows-x64-vc142-8b0c2bd9f3e2428d82194f7f4ca9de31"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc142-8b0c2bd9f3e2428d82194f7f4ca9de31.7z",
+        sha256 = "63326025ce91fed89f43a4da19a5045c4ac4f8bd7744c9aab3774824a49313c3"
+    },
+    ["windows-x86-vc142-24cfacde96ba4d4a9cc680d2f40c5113"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc142-24cfacde96ba4d4a9cc680d2f40c5113.7z",
+        sha256 = "bbef90d395105b9b44463293a324a7c2b634c0d4aa1984200361433ef45df373"
+    },
+    ["windows-x64-dccaa3b852c344ff9ed9100333982f5d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-dccaa3b852c344ff9ed9100333982f5d.7z",
+        sha256 = "e7c52b75e91f9ffb8ead63f83c903372d51ee205f0991dd4a40fb5fc336fc943"
+    },
+    ["windows-x64-8b0c2bd9f3e2428d82194f7f4ca9de31"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-8b0c2bd9f3e2428d82194f7f4ca9de31.7z",
+        sha256 = "96315f10f08b48906449cbbf9526d7ac238394e489a1d48087628b1418097402"
+    },
+    ["windows-x64-vc142-dccaa3b852c344ff9ed9100333982f5d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc142-dccaa3b852c344ff9ed9100333982f5d.7z",
+        sha256 = "c76b5f7c03e2e2295ebf54c80df7a8bb645475014096207da734401d8c354ec5"
+    },
+    ["windows-x86-vc143-b7b3346e9ba34078b71ca4b3e329a728"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc143-b7b3346e9ba34078b71ca4b3e329a728.7z",
+        sha256 = "02cb17df7aff8d52d8887f103ab3f3b14c1f55bb019c8ea84bb6ac934fa2825b"
+    },
+    ["windows-x64-vc142-6e5990adaef14e78b50bd851e5150c99"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc142-6e5990adaef14e78b50bd851e5150c99.7z",
+        sha256 = "c5225882313ee9b48808fb07a5657d9f74cfc61c9e2a27313ac786a61a08030b"
+    },
+    ["windows-x64-vc143-8b0c2bd9f3e2428d82194f7f4ca9de31"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc143-8b0c2bd9f3e2428d82194f7f4ca9de31.7z",
+        sha256 = "77156bc93a07219ef9afb47e4b53bf94e6bd9d1b519c95ce5a8a7db739217aea"
+    },
+    ["windows-x86-032cf20b0cd64865a994b715169aa9ab"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-032cf20b0cd64865a994b715169aa9ab.7z",
+        sha256 = "836de47fea31fb9338255214cd2754361c2c621705645fb89f5fbde794be95dd"
+    },
+    ["windows-x64-df493306cbd4433b8625e1266cb93d3d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-df493306cbd4433b8625e1266cb93d3d.7z",
+        sha256 = "49e2880dc21020a2b9aae6e2de8e8d35db771ab8bb4dad046e5a1b1da4220c82"
+    },
+    ["windows-x64-vc143-dccaa3b852c344ff9ed9100333982f5d"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc143-dccaa3b852c344ff9ed9100333982f5d.7z",
+        sha256 = "4fedf69acfacd4afe543f833f414fbb10e0def969e48f930b26f0d3695a5c156"
+    },
+    ["windows-x86-vc143-032cf20b0cd64865a994b715169aa9ab"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc143-032cf20b0cd64865a994b715169aa9ab.7z",
+        sha256 = "4486726d996824619ab37293c282749da4b4e90e7f9341931100211835cc5140"
+    },
+    ["windows-x86-vc142-b7b3346e9ba34078b71ca4b3e329a728"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc142-b7b3346e9ba34078b71ca4b3e329a728.7z",
+        sha256 = "b625d393a93a067dde10fb1d2e9926209ba5e2635f67859a694ac5c7dbf77ae8"
+    },
+    ["windows-x64-vc143-df493306cbd4433b8625e1266cb93d3d"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc143-df493306cbd4433b8625e1266cb93d3d.7z",
+        sha256 = "0c42c5aec2371c508bf98d6945d01c6671b748a44c8bc4784cdc2adffe465d78"
+    },
     ["windows-x86-24cfacde96ba4d4a9cc680d2f40c5113"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-24cfacde96ba4d4a9cc680d2f40c5113.7z",
         sha256 = "bc45adb96d24b1e7f345a41c1efbe30842a585fd29083690691d36505e2b3487"
+    },
+    ["windows-x64-vc142-df493306cbd4433b8625e1266cb93d3d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x64-vc142-df493306cbd4433b8625e1266cb93d3d.7z",
+        sha256 = "43a698885b205ea06001110baf9ec5c144b51396fafe1b2de985772301f08531"
+    },
+    ["windows-x86-vc143-5787b130455248ea9a6198cc32b04e8d"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc143-5787b130455248ea9a6198cc32b04e8d.7z",
+        sha256 = "f960341bfdd76fbcb16f703d616ea24c638131d1b67c8755cf2ad56bebb19ca9"
+    },
+    ["windows-x86-vc142-032cf20b0cd64865a994b715169aa9ab"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-vc142-032cf20b0cd64865a994b715169aa9ab.7z",
+        sha256 = "5bb3291182ace0de8002f0a3e6e0135ebffca43f5e457336352c055edc7fa632"
     },
     ["windows-x86-5787b130455248ea9a6198cc32b04e8d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tinyxml2-9.0.0/windows-x86-5787b130455248ea9a6198cc32b04e8d.7z",
