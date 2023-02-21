@@ -47,6 +47,21 @@ build-artifacts is an official xmake package artifacts repository.
 
 ## Submit and update package artifacts
 
-We need only edit [build.txt](https://github.com/xmake-mirror/build-artifacts/blob/build/build.txt) to modify package name and versions on `build` branch.
+You only need to edit [build.txt](https://github.com/xmake-mirror/build-artifacts/blob/build/build.txt) to modify package name and versions, and submit a PR on the `build` branch.
 
-It will trigger ci build jobs to build/upload artifacts to releases/assets and update manifest to `main` branch.
+A configuration can optionnaly be specified as a string.
+
+Example:
+```lua
+-- build.txt
+{
+    name = "llvm",
+    versions = {
+        "11.0.0",
+        "12.0.0"
+    },
+    configs = "lld=true,openmp=true"
+}
+```
+
+It will trigger CI build jobs to build/upload artifacts to releases/assets and update manifest to `main` branch.
