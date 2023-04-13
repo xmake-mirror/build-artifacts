@@ -1,82 +1,87 @@
 {
-    ["windows-x86-vc141-2c3436eb4050405aa3038f8f75b9a892"] = {
-        toolset = "14.16.27023",
-        sha256 = "ef7a1ea305772677f45e5e5cf93b7fd3e22cdae90936b8d99022932e56501741",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-2c3436eb4050405aa3038f8f75b9a892.7z"
-    },
-    ["windows-x64-vc142-b659585f71d54a75900bece968fd15b1"] = {
-        toolset = "14.29.30133",
-        sha256 = "c8d9b8e26af286ac5800e61ab688aacfed612bc8bd718bcd96ae19a6288b5911",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-b659585f71d54a75900bece968fd15b1.7z"
-    },
-    ["windows-x64-vc142-4e1e8d9e844643fc9ab5bdc375c59675"] = {
-        toolset = "14.29.30133",
-        sha256 = "5b7feb002b50ef18f9a932fc861e7aadd081714210f7dfda3df94ff9ae44250a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-4e1e8d9e844643fc9ab5bdc375c59675.7z"
-    },
-    ["windows-x64-vc141-4e1e8d9e844643fc9ab5bdc375c59675"] = {
-        toolset = "14.16.27023",
-        sha256 = "beac478d6485bd0b59f4e127fdac5915cc68fff2651d6eb0e49314ee8031f58e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-4e1e8d9e844643fc9ab5bdc375c59675.7z"
-    },
     ["windows-x64-vc142-2d187a19fb134dbea9f0cd2d3d813db1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-2d187a19fb134dbea9f0cd2d3d813db1.7z",
         toolset = "14.29.30133",
-        sha256 = "6f90f7713a3082fcdd22735d2eabe576ad937dd4d9cd062d648eb3a692c59963",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-2d187a19fb134dbea9f0cd2d3d813db1.7z"
-    },
-    ["windows-x86-vc142-2c3436eb4050405aa3038f8f75b9a892"] = {
-        toolset = "14.29.30133",
-        sha256 = "d372681bce3faf540875c643db7a55a09110756d75b3852e49bf9a49a10147c9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-2c3436eb4050405aa3038f8f75b9a892.7z"
+        sha256 = "6f90f7713a3082fcdd22735d2eabe576ad937dd4d9cd062d648eb3a692c59963"
     },
     ["windows-x64-vc141-b659585f71d54a75900bece968fd15b1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-b659585f71d54a75900bece968fd15b1.7z",
         toolset = "14.16.27023",
-        sha256 = "22cae879abdd8b8bfea6fcff3f02b4ba08c5786dc39e2e09c755bfe536e64e29",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-b659585f71d54a75900bece968fd15b1.7z"
+        sha256 = "22cae879abdd8b8bfea6fcff3f02b4ba08c5786dc39e2e09c755bfe536e64e29"
     },
-    ["windows-x64-vc141-2d187a19fb134dbea9f0cd2d3d813db1"] = {
-        toolset = "14.16.27023",
-        sha256 = "0bfa7315a63ba72df4c5a6a91a75faed88b989816a56092fbbff2baa4860dcfa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-2d187a19fb134dbea9f0cd2d3d813db1.7z"
+    ["windows-x86-vc142-2c3436eb4050405aa3038f8f75b9a892"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-2c3436eb4050405aa3038f8f75b9a892.7z",
+        toolset = "14.29.30133",
+        sha256 = "d372681bce3faf540875c643db7a55a09110756d75b3852e49bf9a49a10147c9"
+    },
+    ["windows-x64-vc142-b659585f71d54a75900bece968fd15b1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-b659585f71d54a75900bece968fd15b1.7z",
+        toolset = "14.29.30133",
+        sha256 = "c8d9b8e26af286ac5800e61ab688aacfed612bc8bd718bcd96ae19a6288b5911"
+    },
+    ["windows-x64-vc143-b659585f71d54a75900bece968fd15b1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc143-b659585f71d54a75900bece968fd15b1.7z",
+        toolset = "14.34.31933",
+        sha256 = "0128088f444511e464734784a1e100656fd4ff98ff7322cbaa195b855398a159"
     },
     ["windows-x86-vc142-9820a2db42494e1e9b334f3a5aea187a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-9820a2db42494e1e9b334f3a5aea187a.7z",
         toolset = "14.29.30133",
-        sha256 = "5b3666bc1973ef6e65935934fbc08b858a9dba0655e76d212d6c336c0ccdf2a3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-9820a2db42494e1e9b334f3a5aea187a.7z"
+        sha256 = "5b3666bc1973ef6e65935934fbc08b858a9dba0655e76d212d6c336c0ccdf2a3"
     },
     ["windows-x86-vc141-246b58bdb51d4c72963c3dab606cf844"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-246b58bdb51d4c72963c3dab606cf844.7z",
         toolset = "14.16.27023",
-        sha256 = "3b5b8484861fa8e3a0ef835317f7f59fe089cf80ef496e4c61146688eb9b7c05",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-246b58bdb51d4c72963c3dab606cf844.7z"
+        sha256 = "3b5b8484861fa8e3a0ef835317f7f59fe089cf80ef496e4c61146688eb9b7c05"
     },
-    ["windows-x64-vc142-2c55dfce3a194a85904f0ed3671148d0"] = {
-        toolset = "14.29.30133",
-        sha256 = "81e8b3d37d3f7cf143810c45f12da676816db6ba2db518af0a3c6a1a5f2da273",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-2c55dfce3a194a85904f0ed3671148d0.7z"
-    },
-    ["windows-x86-vc142-db362b0abda541488fa5fe47fe2c8b33"] = {
-        toolset = "14.29.30133",
-        sha256 = "3de08b80e5e1cbaba0842bfb1d63f3534b6cddfee416d4ff751ffd33e45cbaab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-db362b0abda541488fa5fe47fe2c8b33.7z"
-    },
-    ["windows-x86-vc141-db362b0abda541488fa5fe47fe2c8b33"] = {
+    ["windows-x64-vc141-2d187a19fb134dbea9f0cd2d3d813db1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-2d187a19fb134dbea9f0cd2d3d813db1.7z",
         toolset = "14.16.27023",
-        sha256 = "3470433168d4e1b7bb6db547ae2de523114626e393309e03aa0002e4626ef241",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-db362b0abda541488fa5fe47fe2c8b33.7z"
+        sha256 = "0bfa7315a63ba72df4c5a6a91a75faed88b989816a56092fbbff2baa4860dcfa"
     },
-    ["windows-x64-vc141-2c55dfce3a194a85904f0ed3671148d0"] = {
-        toolset = "14.16.27023",
-        sha256 = "840662e3df0b7bc337a0f10a88a2daf4205c98788ea6a7315872cd926e3f541c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-2c55dfce3a194a85904f0ed3671148d0.7z"
-    },
-    ["windows-x86-vc142-246b58bdb51d4c72963c3dab606cf844"] = {
+    ["windows-x64-vc142-4e1e8d9e844643fc9ab5bdc375c59675"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-4e1e8d9e844643fc9ab5bdc375c59675.7z",
         toolset = "14.29.30133",
-        sha256 = "8ca69fa3e8fd6c84671d27869d6ecdfb3c5bd2e545fffe7fff6875033f0ee531",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-246b58bdb51d4c72963c3dab606cf844.7z"
+        sha256 = "5b7feb002b50ef18f9a932fc861e7aadd081714210f7dfda3df94ff9ae44250a"
     },
     ["windows-x86-vc141-9820a2db42494e1e9b334f3a5aea187a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-9820a2db42494e1e9b334f3a5aea187a.7z",
         toolset = "14.16.27023",
-        sha256 = "b5acb4e26dee757a0b68f626d204d2dcea96b93751f7bc4d4c118b61d4e11e06",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-9820a2db42494e1e9b334f3a5aea187a.7z"
+        sha256 = "b5acb4e26dee757a0b68f626d204d2dcea96b93751f7bc4d4c118b61d4e11e06"
+    },
+    ["windows-x86-vc142-db362b0abda541488fa5fe47fe2c8b33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-db362b0abda541488fa5fe47fe2c8b33.7z",
+        toolset = "14.29.30133",
+        sha256 = "d069e774d6e2a0a79ab2f5e346dc05ca2d4f46fe1c67de3f95a6be4d04c2adfc"
+    },
+    ["windows-x86-vc142-246b58bdb51d4c72963c3dab606cf844"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc142-246b58bdb51d4c72963c3dab606cf844.7z",
+        toolset = "14.29.30133",
+        sha256 = "8ca69fa3e8fd6c84671d27869d6ecdfb3c5bd2e545fffe7fff6875033f0ee531"
+    },
+    ["windows-x86-vc141-2c3436eb4050405aa3038f8f75b9a892"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-2c3436eb4050405aa3038f8f75b9a892.7z",
+        toolset = "14.16.27023",
+        sha256 = "ef7a1ea305772677f45e5e5cf93b7fd3e22cdae90936b8d99022932e56501741"
+    },
+    ["windows-x64-vc142-2c55dfce3a194a85904f0ed3671148d0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc142-2c55dfce3a194a85904f0ed3671148d0.7z",
+        toolset = "14.29.30133",
+        sha256 = "81e8b3d37d3f7cf143810c45f12da676816db6ba2db518af0a3c6a1a5f2da273"
+    },
+    ["windows-x86-vc141-db362b0abda541488fa5fe47fe2c8b33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x86-vc141-db362b0abda541488fa5fe47fe2c8b33.7z",
+        toolset = "14.16.27023",
+        sha256 = "3470433168d4e1b7bb6db547ae2de523114626e393309e03aa0002e4626ef241"
+    },
+    ["windows-x64-vc141-2c55dfce3a194a85904f0ed3671148d0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-2c55dfce3a194a85904f0ed3671148d0.7z",
+        toolset = "14.16.27023",
+        sha256 = "840662e3df0b7bc337a0f10a88a2daf4205c98788ea6a7315872cd926e3f541c"
+    },
+    ["windows-x64-vc141-4e1e8d9e844643fc9ab5bdc375c59675"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpsl-0.21.1/windows-x64-vc141-4e1e8d9e844643fc9ab5bdc375c59675.7z",
+        toolset = "14.16.27023",
+        sha256 = "beac478d6485bd0b59f4e127fdac5915cc68fff2651d6eb0e49314ee8031f58e"
     }
 }
