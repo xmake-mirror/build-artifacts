@@ -38,6 +38,8 @@ jobs:
           disk-root: "D:"
 
       - name: Build artifacts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           xmake l scripts/build.lua -a ${{ matrix.arch }} -k ${{ matrix.kind }} -f "vs_runtime='${{ matrix.vs_runtime }}'"
 
