@@ -1,27 +1,82 @@
 {
-    ["windows-x86-vc143-723459a9125447e9bf4bd782ddc5ee74"] = {
-        sha256 = "f57c882c42df7a5d20ce1d1c1f5f0f731d02cdfa49f2c42f4f236ed8a5a22495",
+    ["windows-x64-vc143-bac53b73b80b44adb428b25548f7e99b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc143-bac53b73b80b44adb428b25548f7e99b.7z",
         toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc143-723459a9125447e9bf4bd782ddc5ee74.7z"
+        sha256 = "902c65f2de0a07cace155e318a39e41083087556a0c9f6c7651c4dcbc5f409ba"
     },
-    ["windows-x86-vc142-ed526a97e04f4193828b2b14c8c857b6"] = {
-        sha256 = "b5a1f6287b9c864ee889ee920763ec3ae2fa2df37dda526666215a72554d0333",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc142-ed526a97e04f4193828b2b14c8c857b6.7z"
-    },
-    ["windows-x64-vc142-9530b580e17c431d871bd0d98ef2edbe"] = {
-        sha256 = "5ade9b01ce14c604ec624366ed1ddd3c8118e06b67f335c60286b1421a328b70",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc142-9530b580e17c431d871bd0d98ef2edbe.7z"
-    },
-    ["windows-x64-vc143-e4b9dbe45535410d8025c672beadc80e"] = {
-        sha256 = "d6e1ae8320db4bac0f09539f6a336d3612ed4e05322d043a17d221337361f909",
+    ["windows-x86-vc143-6784907c0e224342bb0e4803f88c4796"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc143-6784907c0e224342bb0e4803f88c4796.7z",
         toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc143-e4b9dbe45535410d8025c672beadc80e.7z"
+        sha256 = "c8c22e1979a44f5ee6398da5f48c4ccab244d2fef85b72aaad72eb6c5e701169"
+    },
+    ["windows-x64-vc142-bac53b73b80b44adb428b25548f7e99b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc142-bac53b73b80b44adb428b25548f7e99b.7z",
+        toolset = "14.29.30133",
+        sha256 = "b464e91187d8a22f4ca6f83025555d5abbe756ed64896c805503a935bafda924"
+    },
+    ["windows-x86-vc142-2084ca604037469eb80223e95b8122e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc142-2084ca604037469eb80223e95b8122e8.7z",
+        toolset = "14.29.30133",
+        sha256 = "105f4f08d58d30f5921bb16744ff395ae0e184b42427a024ea0694e81d6a49c2"
     },
     ["windows-x86-vc142-723459a9125447e9bf4bd782ddc5ee74"] = {
-        sha256 = "e071ff1ac15e19cb5cf68616694192d62930a3cf6a44e0748b4bb61cd95f18ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc142-723459a9125447e9bf4bd782ddc5ee74.7z",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc142-723459a9125447e9bf4bd782ddc5ee74.7z"
+        sha256 = "a98930a28d31d1105e57534ccad681c6912b0288ca3ea48a3c8e88d42ab178fb"
+    },
+    ["windows-x86-vc143-723459a9125447e9bf4bd782ddc5ee74"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc143-723459a9125447e9bf4bd782ddc5ee74.7z",
+        toolset = "14.34.31933",
+        sha256 = "708555520a18ccd3c27857c746684cc8569ebd1fe81921d4abf2d15c5a01d962"
+    },
+    ["windows-x64-vc143-423e8e811ece4eec8977dc599ed2072e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc143-423e8e811ece4eec8977dc599ed2072e.7z",
+        toolset = "14.34.31933",
+        sha256 = "2e8af1af959cb3b9cf721f9b414946e969221323e4a29026741a094247a5b8eb"
+    },
+    ["windows-x64-vc142-e4b9dbe45535410d8025c672beadc80e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc142-e4b9dbe45535410d8025c672beadc80e.7z",
+        toolset = "14.29.30133",
+        sha256 = "f4815fac773e8f62b6282519b5d445ff1945fb165b972c06319d53fd35a25efd"
+    },
+    ["windows-x86-vc142-ed526a97e04f4193828b2b14c8c857b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc142-ed526a97e04f4193828b2b14c8c857b6.7z",
+        toolset = "14.29.30133",
+        sha256 = "188f47f4c02fcfae730943965129b2fa573a1e3acb9920704232820e929a9dd8"
+    },
+    ["windows-x64-vc142-423e8e811ece4eec8977dc599ed2072e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc142-423e8e811ece4eec8977dc599ed2072e.7z",
+        toolset = "14.29.30133",
+        sha256 = "5be457fb0bad2b18231f86379c81e475f5a69165fdd092b5b371a402d5f22bca"
+    },
+    ["windows-x86-vc143-2084ca604037469eb80223e95b8122e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc143-2084ca604037469eb80223e95b8122e8.7z",
+        toolset = "14.34.31933",
+        sha256 = "e9cd2d67413939a27f750407a33d76f843830915faa31c36ee6caa386365627c"
+    },
+    ["windows-x64-vc143-9530b580e17c431d871bd0d98ef2edbe"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc143-9530b580e17c431d871bd0d98ef2edbe.7z",
+        toolset = "14.34.31933",
+        sha256 = "4b44e5b6f175b3abf9890a9ecc25d92dc74299cc96f8616cd7b297a2ab7e4bf8"
+    },
+    ["windows-x86-vc143-ed526a97e04f4193828b2b14c8c857b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc143-ed526a97e04f4193828b2b14c8c857b6.7z",
+        toolset = "14.34.31933",
+        sha256 = "b7bf1ddac4db687588e8eab0ae132b66aed2e0f037af78bf0314090302d4be31"
+    },
+    ["windows-x86-vc142-6784907c0e224342bb0e4803f88c4796"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x86-vc142-6784907c0e224342bb0e4803f88c4796.7z",
+        toolset = "14.29.30133",
+        sha256 = "231e69c34ee5dd8a3046eb5c98e76c1ef35aa2f92fce17b1e38a01f7f5dd2f1b"
+    },
+    ["windows-x64-vc142-9530b580e17c431d871bd0d98ef2edbe"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc142-9530b580e17c431d871bd0d98ef2edbe.7z",
+        toolset = "14.29.30133",
+        sha256 = "b66336cc2bc676279c174ffaecd97a40ce18075ebd9ed41266b41df767add385"
+    },
+    ["windows-x64-vc143-e4b9dbe45535410d8025c672beadc80e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libffi-3.4.4/windows-x64-vc143-e4b9dbe45535410d8025c672beadc80e.7z",
+        toolset = "14.34.31933",
+        sha256 = "b051d4d3e1b439759cc701c7c120d4ad1e08f97104e26b9185c5d3a67fd85a6b"
     }
 }
