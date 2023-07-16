@@ -1,82 +1,82 @@
 {
-    ["windows-x64-vc142-f530f014c02b428897203424e37e2a77"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-f530f014c02b428897203424e37e2a77.7z",
-        sha256 = "d34c5c5883deb4a014f23409a693e2208946fe31e39c2f240d0ee6dd16267430"
-    },
-    ["windows-x86-vc143-c8e9ef5dd58e4203b4d2da6d67c0b685"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-c8e9ef5dd58e4203b4d2da6d67c0b685.7z",
-        sha256 = "614dc1795cc8f36615845d72da2394360e938dff0efae02b6b8ae97432b1cbc2"
-    },
-    ["windows-x86-vc143-c3c4561211474fa986c1c628a9093719"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-c3c4561211474fa986c1c628a9093719.7z",
-        sha256 = "fb4a8443666f87b97fb9f068a4345920c55337585a5b8e0836abd4a2ddfcbaeb"
-    },
-    ["windows-x86-vc143-34f38f91a5b244829c21bc5709802b8b"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-34f38f91a5b244829c21bc5709802b8b.7z",
-        sha256 = "aaf4ab47af7d795583ced33fd4b73a9b8f357ebebdb22cde17e14e98a99eddf2"
-    },
-    ["windows-x64-vc143-f0dd1dd15eeb4cd2812e33712a736f75"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc143-f0dd1dd15eeb4cd2812e33712a736f75.7z",
-        sha256 = "64330fb13c7bf5be5885a85e8f279b414331a42e476948f5487aa325a9523b85"
-    },
-    ["windows-x64-vc142-f0dd1dd15eeb4cd2812e33712a736f75"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-f0dd1dd15eeb4cd2812e33712a736f75.7z",
-        sha256 = "e268bc38c61d089e1ad875f3313cc51a9e00dd87237bf8f903d0f194957773f1"
-    },
     ["windows-x86-vc142-c8e9ef5dd58e4203b4d2da6d67c0b685"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc142-c8e9ef5dd58e4203b4d2da6d67c0b685.7z",
-        sha256 = "81aaca2bded2785f5745fcc0c98290ba72e4c23defa351b4e8d2fedb50f2906b"
-    },
-    ["windows-x86-vc143-c2f275c7e5a54437be701ac796ce9345"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-c2f275c7e5a54437be701ac796ce9345.7z",
-        sha256 = "a3f62b1e1968920fc870dd36d5aeeef810a6456e6a79a2b19754750afe75aae8"
+        sha256 = "d9f1d291062231caed769a668a7fe4e8bd7aff1333eabcd4f3d4486536be11e0",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-34f38f91a5b244829c21bc5709802b8b"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc142-34f38f91a5b244829c21bc5709802b8b.7z",
-        sha256 = "1a93950df49ffc7de55026cc42273e16adc16fa30c685365c5c30f6356a8e3e1"
+        sha256 = "76873181978cca0910635d22a8895c19948aa3036b635e1cf87c0d64a68b6d4b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-f0dd1dd15eeb4cd2812e33712a736f75"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc143-f0dd1dd15eeb4cd2812e33712a736f75.7z",
+        sha256 = "64330fb13c7bf5be5885a85e8f279b414331a42e476948f5487aa325a9523b85",
+        toolset = "14.34.31933"
     },
     ["windows-x86-vc142-c3c4561211474fa986c1c628a9093719"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc142-c3c4561211474fa986c1c628a9093719.7z",
-        sha256 = "f2c7030738f6fbd7c66a96f02ef966327458e79bb4f730a231c27dac3e84d1fe"
+        sha256 = "402b1da208101efdb70771d1ef6dc6fb746bd62e68c988f45b1fbf9ed60114a1",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-fcbd0e5c9df648359d6afc61b52788d3"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-fcbd0e5c9df648359d6afc61b52788d3.7z",
-        sha256 = "d1459bfb4f204746fdd5e343943acd69cfac06aec24de44a7cc657877e17f0ac"
+    ["windows-x86-vc143-c3c4561211474fa986c1c628a9093719"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-c3c4561211474fa986c1c628a9093719.7z",
+        sha256 = "fb4a8443666f87b97fb9f068a4345920c55337585a5b8e0836abd4a2ddfcbaeb",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc142-f0dd1dd15eeb4cd2812e33712a736f75"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-f0dd1dd15eeb4cd2812e33712a736f75.7z",
+        sha256 = "84bc86e8e76617b432cb9b55711746675026ebc9b0e6b28f4c7c35d8d9d9ce64",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc143-f530f014c02b428897203424e37e2a77"] = {
-        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc143-f530f014c02b428897203424e37e2a77.7z",
-        sha256 = "09e205f057b2f3af89205a200c36eeafe9120c97a73a3e9a833cc76834216fce"
+        sha256 = "09e205f057b2f3af89205a200c36eeafe9120c97a73a3e9a833cc76834216fce",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc143-c8e9ef5dd58e4203b4d2da6d67c0b685"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-c8e9ef5dd58e4203b4d2da6d67c0b685.7z",
+        sha256 = "614dc1795cc8f36615845d72da2394360e938dff0efae02b6b8ae97432b1cbc2",
+        toolset = "14.34.31933"
     },
     ["windows-x64-vc143-53aa4bb721f24c7697abe4d92071f99b"] = {
-        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc143-53aa4bb721f24c7697abe4d92071f99b.7z",
-        sha256 = "f995e1b92c676583c9af27cfe1b16e533796f26de462f4c24b56bdd082fa8b64"
+        sha256 = "f995e1b92c676583c9af27cfe1b16e533796f26de462f4c24b56bdd082fa8b64",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc142-fcbd0e5c9df648359d6afc61b52788d3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-fcbd0e5c9df648359d6afc61b52788d3.7z",
+        sha256 = "28c2281c18e7de898e44897212d9c96e9ea5db398d3998ea125cd9688a6b3ef0",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-c2f275c7e5a54437be701ac796ce9345"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc142-c2f275c7e5a54437be701ac796ce9345.7z",
-        sha256 = "744d9070a92c5298c01f0f828f7564e53c93e5b50ac72bdc6339232eb2b6c93b"
+        sha256 = "1fdc849f47d82de754e5bb860b618d27c4b1ade9a5f4546e865f252bd34ad0df",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-f530f014c02b428897203424e37e2a77"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-f530f014c02b428897203424e37e2a77.7z",
+        sha256 = "aef99e026ab7f44cc2e1ecec5c93b60d35b119bff4907becdca1af9b9d018936",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-c2f275c7e5a54437be701ac796ce9345"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-c2f275c7e5a54437be701ac796ce9345.7z",
+        sha256 = "a3f62b1e1968920fc870dd36d5aeeef810a6456e6a79a2b19754750afe75aae8",
+        toolset = "14.34.31933"
     },
     ["windows-x64-vc143-fcbd0e5c9df648359d6afc61b52788d3"] = {
-        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc143-fcbd0e5c9df648359d6afc61b52788d3.7z",
-        sha256 = "c0048b54637129cc4ec2685091ceb4d5721483b4281599242b81e7a77dd70d54"
+        sha256 = "c0048b54637129cc4ec2685091ceb4d5721483b4281599242b81e7a77dd70d54",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc143-34f38f91a5b244829c21bc5709802b8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x86-vc143-34f38f91a5b244829c21bc5709802b8b.7z",
+        sha256 = "aaf4ab47af7d795583ced33fd4b73a9b8f357ebebdb22cde17e14e98a99eddf2",
+        toolset = "14.34.31933"
     },
     ["windows-x64-vc142-53aa4bb721f24c7697abe4d92071f99b"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libwebp-v1.3.0/windows-x64-vc142-53aa4bb721f24c7697abe4d92071f99b.7z",
-        sha256 = "d50904d5afc361535edb7282cf982ee7991143028f9ce6988fc44c1c5b609667"
+        sha256 = "a98d38d9eb63a1b182590e690240245aa7313fac3b616719722dee7d4d99afd6",
+        toolset = "14.29.30133"
     }
 }
