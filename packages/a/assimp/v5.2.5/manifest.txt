@@ -1,82 +1,82 @@
 {
-    ["windows-x64-vc142-2b678254f833436298c87d376abe208d"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc142-2b678254f833436298c87d376abe208d.7z",
-        sha256 = "03d09b0dec6192b7852389999266342f02fd6fca0a1fe9d2460b7f2db217da04"
-    },
-    ["windows-x86-vc142-4951c75879b34ec4ad77bb4dbbb1b2dd"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-4951c75879b34ec4ad77bb4dbbb1b2dd.7z",
-        sha256 = "0bf2ac68bb86d3c664c72bc62193affdbc3a36d18c62f2de847b67b619cb362d"
-    },
-    ["windows-x86-vc142-cf09f842cd5042a88a99775db16be8b5"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-cf09f842cd5042a88a99775db16be8b5.7z",
-        sha256 = "306a3cd4237d0c42a7b01edf4a47892a7bedc20aff0751a3b3a0c06a4a83b84d"
-    },
-    ["windows-x86-vc143-d9dd1f2adb6b4eaba46d26cb4807ec39"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc143-d9dd1f2adb6b4eaba46d26cb4807ec39.7z",
-        sha256 = "5bbfaee6f1c5048fb97ab75213f385bcea9115a336b210e5905b43ac68e61bea"
-    },
-    ["windows-x64-vc142-bbace7b83a2e4c48bf661571eff04761"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc142-bbace7b83a2e4c48bf661571eff04761.7z",
-        sha256 = "6bd63fa8049aedb1588c988a62d64301c046095668ca9e609a12a0f27f7c678e"
-    },
     ["windows-x86-vc143-cf09f842cd5042a88a99775db16be8b5"] = {
-        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc143-cf09f842cd5042a88a99775db16be8b5.7z",
+        toolset = "14.34.31933",
         sha256 = "ee63758d496da3a567d2b30c8cdc6755b7416b7f3d7b68f53308f0bf6f7c2ec1"
     },
-    ["windows-x64-vc143-90e0a6ce65fb42fe8de275399439e14e"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-90e0a6ce65fb42fe8de275399439e14e.7z",
-        sha256 = "224defb9cfd2ef13c42a018eeec6388f5f7f99bacb82e672b3fcaa5643e64ac2"
+    ["windows-x86-vc142-4951c75879b34ec4ad77bb4dbbb1b2dd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-4951c75879b34ec4ad77bb4dbbb1b2dd.7z",
+        toolset = "14.29.30133",
+        sha256 = "b62b73d81b85c7e65dc03c61f79e2bfe27bdd312af4a03bc8df1008db0fbbfe1"
     },
     ["windows-x64-vc142-90e0a6ce65fb42fe8de275399439e14e"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc142-90e0a6ce65fb42fe8de275399439e14e.7z",
-        sha256 = "f1734c12e4d8cbedfb2fa30c00ad1e8f1e00b172ddf4c40554eb5f31d5a66756"
+        toolset = "14.29.30133",
+        sha256 = "59fc671e95ada698214bf1421e2ce72cf389be7a7cc776f46ec47f8e8c16808c"
+    },
+    ["windows-x86-vc142-d9dd1f2adb6b4eaba46d26cb4807ec39"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-d9dd1f2adb6b4eaba46d26cb4807ec39.7z",
+        toolset = "14.29.30133",
+        sha256 = "470f35bf56e2c78a2972252757164082ff59cbdccc5d2a37340d7a130f51fc20"
+    },
+    ["windows-x64-vc143-2b678254f833436298c87d376abe208d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-2b678254f833436298c87d376abe208d.7z",
+        toolset = "14.34.31933",
+        sha256 = "97c3c38a4a144aed5b8cc3346e3c04a89743888ce2769d61e1f438ad19bb6436"
+    },
+    ["windows-x86-vc142-cf09f842cd5042a88a99775db16be8b5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-cf09f842cd5042a88a99775db16be8b5.7z",
+        toolset = "14.29.30133",
+        sha256 = "d8694415e77015814ed4ee4aaef97f9d901f45ff24d6fd0d3774e30fc2ff86ed"
+    },
+    ["windows-x64-vc142-bbace7b83a2e4c48bf661571eff04761"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc142-bbace7b83a2e4c48bf661571eff04761.7z",
+        toolset = "14.29.30133",
+        sha256 = "176641352f0feb56fd08c01fcd270a999f2e15a94de6da240502f81770733031"
+    },
+    ["windows-x64-vc143-5428fc7ba30140e390565669b6cddb45"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-5428fc7ba30140e390565669b6cddb45.7z",
+        toolset = "14.34.31933",
+        sha256 = "1e3a59df68ae91b3678bfe231120c4ab6992c339a769ee012a0a6dacf76d8e12"
+    },
+    ["windows-x86-vc143-d9dd1f2adb6b4eaba46d26cb4807ec39"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc143-d9dd1f2adb6b4eaba46d26cb4807ec39.7z",
+        toolset = "14.34.31933",
+        sha256 = "5bbfaee6f1c5048fb97ab75213f385bcea9115a336b210e5905b43ac68e61bea"
+    },
+    ["windows-x64-vc142-2b678254f833436298c87d376abe208d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc142-2b678254f833436298c87d376abe208d.7z",
+        toolset = "14.29.30133",
+        sha256 = "7a9afa93b8da06303143cc09f449fcaf6e03fc133a1e58c00c183746e77becb0"
+    },
+    ["windows-x86-vc143-4951c75879b34ec4ad77bb4dbbb1b2dd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc143-4951c75879b34ec4ad77bb4dbbb1b2dd.7z",
+        toolset = "14.34.31933",
+        sha256 = "ff4677dae7b39bbcdedc168e8c19f356a6213c27d4a6c69a586b8446d3cff376"
+    },
+    ["windows-x64-vc143-90e0a6ce65fb42fe8de275399439e14e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-90e0a6ce65fb42fe8de275399439e14e.7z",
+        toolset = "14.34.31933",
+        sha256 = "224defb9cfd2ef13c42a018eeec6388f5f7f99bacb82e672b3fcaa5643e64ac2"
     },
     ["windows-x86-vc143-6e77e2cee4a54619afbc9acc3eaffea1"] = {
-        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc143-6e77e2cee4a54619afbc9acc3eaffea1.7z",
+        toolset = "14.34.31933",
         sha256 = "699d257d5f17765f545990c16b38e856d06b97fd4de6122933af2fbc22814491"
     },
     ["windows-x64-vc142-5428fc7ba30140e390565669b6cddb45"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc142-5428fc7ba30140e390565669b6cddb45.7z",
-        sha256 = "5f4c97704fdbd3ae198caa01a08b54f2c147c7308c10341762b3b46e7bc539be"
-    },
-    ["windows-x64-vc143-5428fc7ba30140e390565669b6cddb45"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-5428fc7ba30140e390565669b6cddb45.7z",
-        sha256 = "1e3a59df68ae91b3678bfe231120c4ab6992c339a769ee012a0a6dacf76d8e12"
-    },
-    ["windows-x86-vc142-d9dd1f2adb6b4eaba46d26cb4807ec39"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-d9dd1f2adb6b4eaba46d26cb4807ec39.7z",
-        sha256 = "d452bb7faa4407627883a0ee104d4c6e487c0b04739668523488824512e5281b"
+        sha256 = "f616a7cac39e120a8e5f6b7d8e22b6b743fe1236e8f9a87e86d1b53b0e4980d3"
     },
     ["windows-x64-vc143-bbace7b83a2e4c48bf661571eff04761"] = {
-        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-bbace7b83a2e4c48bf661571eff04761.7z",
+        toolset = "14.34.31933",
         sha256 = "0bf6205c9604123a496e16488f90f090086aba3ed1221b80c4cceccab0a0e114"
     },
-    ["windows-x86-vc143-4951c75879b34ec4ad77bb4dbbb1b2dd"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc143-4951c75879b34ec4ad77bb4dbbb1b2dd.7z",
-        sha256 = "ff4677dae7b39bbcdedc168e8c19f356a6213c27d4a6c69a586b8446d3cff376"
-    },
-    ["windows-x64-vc143-2b678254f833436298c87d376abe208d"] = {
-        toolset = "14.34.31933",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x64-vc143-2b678254f833436298c87d376abe208d.7z",
-        sha256 = "97c3c38a4a144aed5b8cc3346e3c04a89743888ce2769d61e1f438ad19bb6436"
-    },
     ["windows-x86-vc142-6e77e2cee4a54619afbc9acc3eaffea1"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/assimp-v5.2.5/windows-x86-vc142-6e77e2cee4a54619afbc9acc3eaffea1.7z",
-        sha256 = "ba64785583acf246bc02a701e93d513c9e0452415f95096bf73ce2319362f25c"
+        toolset = "14.29.30133",
+        sha256 = "82c7cbcd1f0b61cc06acbdd5453c68826060e337c52deaa5424e2f3ee13a7cca"
     }
 }
