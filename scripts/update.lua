@@ -43,7 +43,7 @@ function main()
                             manifest[buildid] = {
                                 urls = asset.url,
                                 sha256 = hash.sha256(path.join("..", "assets", asset.name)),
-                                manifest[buildid].toolset = toolset
+                                toolset = toolset
                             }
                         end
                     end
