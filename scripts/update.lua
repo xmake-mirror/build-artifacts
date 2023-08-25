@@ -37,19 +37,14 @@ function main()
                     local manifest = os.isfile(manifestfile) and io.load(manifestfile) or {}
                     local manifest_oldkey = get_manifestkey(manifest)
                     for _, asset in ipairs(assets_json) do
-                        local buildid = path.basename(asset.name)
-                        manifest[buildid] = {
-                            urls = asset.url,
-                            sha256 = hash.sha256(path.join("..", "assets", asset.name))
-                        }
-                        if asset.name:find("-vc143-", 1, true) then
-                            manifest[buildid].toolset = "14.35.32215"
-                        end
-                        if asset.name:find("-vc142-", 1, true) then
-                            manifest[buildid].toolset = "14.29.30133"
-                        end
-                        if asset.name:find("-vc141-", 1, true) then
-                            manifest[buildid].toolset = "14.16.27023"
+                        local toolset = asset.name:match("%-vc(%d+.%d+.%d+)%-")
+                        if toolset then
+                            local buildid = path.basename(asset.name)
+                            manifest[buildid] = {
+                                urls = asset.url,
+                                sha256 = hash.sha256(path.join("..", "assets", asset.name)),
+                                manifest[buildid].toolset = toolset
+                            }
                         end
                     end
                     if get_manifestkey(manifest) == manifest_oldkey then
