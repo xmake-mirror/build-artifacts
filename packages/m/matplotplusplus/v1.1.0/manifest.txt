@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc142-07ff113e2658452a9e5807c47f12efdb"] = {
-        toolset = "14.29.30133",
-        sha256 = "4151e94b04dd4c3ec8c93bc0eed3ee7e6eabb810d30db9861a51da316e42aa15",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc142-07ff113e2658452a9e5807c47f12efdb.7z"
-    },
-    ["windows-x86-vc142-1086c323a1644395b72d33260f0e891b"] = {
-        toolset = "14.29.30133",
-        sha256 = "2dbeeaf50a57db3ca5b741ae980707fd9d6f5ed7b6226c02791e80f072d88b89",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc142-1086c323a1644395b72d33260f0e891b.7z"
-    },
-    ["windows-x64-vc143-07ff113e2658452a9e5807c47f12efdb"] = {
+    ["windows-x86-vc143-1086c323a1644395b72d33260f0e891b"] = {
         toolset = "14.32.31326",
-        sha256 = "9def3c84d1231a1d6b5b00ced9c2e1fb750cbd6dcc4a6a15d486ed166f7710ad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc143-07ff113e2658452a9e5807c47f12efdb.7z"
+        sha256 = "587b12251fdd74a9f6a7d774b31eb9fd81896bca07e57bccd1f25522603106f6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc143-1086c323a1644395b72d33260f0e891b.7z"
+    },
+    ["windows-x64-vc14.29.30133-07ff113e2658452a9e5807c47f12efdb"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc14.29.30133-07ff113e2658452a9e5807c47f12efdb.7z",
+        sha256 = "682a11a17f0dbf0a570e4e850f66c92d2e8a910dbde34ebe84596098749e7d56"
+    },
+    ["windows-x64-vc14.36.32532-07ff113e2658452a9e5807c47f12efdb"] = {
+        toolset = "14.36.32532",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc14.36.32532-07ff113e2658452a9e5807c47f12efdb.7z",
+        sha256 = "4e7a7a0ac83ac309030932e038c79baeb7bbcce3145695cb6f21a11b2ac8fbe9"
+    },
+    ["windows-x86-vc14.36.32532-1086c323a1644395b72d33260f0e891b"] = {
+        toolset = "14.36.32532",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc14.36.32532-1086c323a1644395b72d33260f0e891b.7z",
+        sha256 = "eebc710672ea4e947575a0326d65950079159b296b0d0bf4ac6fd509347a97f1"
     },
     ["windows-x64-vc142-56b30e4d4855435d838d07d243f196b0"] = {
         toolset = "14.29.30133",
         sha256 = "62ca6a0d9e98482e3201abec8e8dcbab454fcabf737e9937df5a0f547e373f9c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc142-56b30e4d4855435d838d07d243f196b0.7z"
     },
+    ["windows-x64-vc14.36.32532-56b30e4d4855435d838d07d243f196b0"] = {
+        toolset = "14.36.32532",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc14.36.32532-56b30e4d4855435d838d07d243f196b0.7z",
+        sha256 = "ec631519466f9e7714b7df932cf29216c7fae823ad4bdb7d82d5dc7e278b8476"
+    },
+    ["windows-x64-vc14.29.30133-56b30e4d4855435d838d07d243f196b0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc14.29.30133-56b30e4d4855435d838d07d243f196b0.7z",
+        sha256 = "1665a7dad8c51352d004b3460659ac5ca3ad2efe1342c3f5204bfb842752d4a8"
+    },
+    ["windows-x64-vc143-07ff113e2658452a9e5807c47f12efdb"] = {
+        toolset = "14.32.31326",
+        sha256 = "9def3c84d1231a1d6b5b00ced9c2e1fb750cbd6dcc4a6a15d486ed166f7710ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc143-07ff113e2658452a9e5807c47f12efdb.7z"
+    },
+    ["windows-x86-vc142-1086c323a1644395b72d33260f0e891b"] = {
+        toolset = "14.29.30133",
+        sha256 = "2dbeeaf50a57db3ca5b741ae980707fd9d6f5ed7b6226c02791e80f072d88b89",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc142-1086c323a1644395b72d33260f0e891b.7z"
+    },
+    ["windows-x86-vc143-cffa1788aa6642bfbb6700ddb3fd51d2"] = {
+        toolset = "14.32.31326",
+        sha256 = "40bef6cf818b8a88d61c1e87e12d83ba6a15c0cdb8338ba8e1f68d432ff7237a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc143-cffa1788aa6642bfbb6700ddb3fd51d2.7z"
+    },
+    ["windows-x86-vc14.29.30133-cffa1788aa6642bfbb6700ddb3fd51d2"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc14.29.30133-cffa1788aa6642bfbb6700ddb3fd51d2.7z",
+        sha256 = "aa51fa356406dec964054f15780679dfff365645feaa87d93ac139a6fb0ea6ce"
+    },
+    ["windows-x86-vc14.36.32532-cffa1788aa6642bfbb6700ddb3fd51d2"] = {
+        toolset = "14.36.32532",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc14.36.32532-cffa1788aa6642bfbb6700ddb3fd51d2.7z",
+        sha256 = "fc81345182ce2a842971b8cf200f0a5e8e197d928442379f0920633d49050242"
+    },
     ["windows-x64-vc143-56b30e4d4855435d838d07d243f196b0"] = {
         toolset = "14.32.31326",
         sha256 = "c20240fc01e553640a38ec210b3ea3a7965d4c1c71a7c89cb9c1c7cbc3438063",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc143-56b30e4d4855435d838d07d243f196b0.7z"
-    },
-    ["windows-x86-vc143-1086c323a1644395b72d33260f0e891b"] = {
-        toolset = "14.32.31326",
-        sha256 = "587b12251fdd74a9f6a7d774b31eb9fd81896bca07e57bccd1f25522603106f6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc143-1086c323a1644395b72d33260f0e891b.7z"
     },
     ["windows-x86-vc142-cffa1788aa6642bfbb6700ddb3fd51d2"] = {
         toolset = "14.29.30133",
         sha256 = "b8b3eaab2d9d5039c999f0f4c73cf3c0cf40cabe93e7eca6b56017a6400fe164",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc142-cffa1788aa6642bfbb6700ddb3fd51d2.7z"
     },
-    ["windows-x86-vc143-cffa1788aa6642bfbb6700ddb3fd51d2"] = {
-        toolset = "14.32.31326",
-        sha256 = "40bef6cf818b8a88d61c1e87e12d83ba6a15c0cdb8338ba8e1f68d432ff7237a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc143-cffa1788aa6642bfbb6700ddb3fd51d2.7z"
+    ["windows-x86-vc14.29.30133-1086c323a1644395b72d33260f0e891b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x86-vc14.29.30133-1086c323a1644395b72d33260f0e891b.7z",
+        sha256 = "b77db035ccd0dd9c52a7df22553471aa2552379cef74633746624be0e5b8b155"
+    },
+    ["windows-x64-vc142-07ff113e2658452a9e5807c47f12efdb"] = {
+        toolset = "14.29.30133",
+        sha256 = "4151e94b04dd4c3ec8c93bc0eed3ee7e6eabb810d30db9861a51da316e42aa15",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/matplotplusplus-v1.1.0/windows-x64-vc142-07ff113e2658452a9e5807c47f12efdb.7z"
     }
 }
