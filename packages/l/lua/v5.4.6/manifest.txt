@@ -1,42 +1,122 @@
 {
-    ["windows-x64-vc142-7ac76075bb5641b58f28eb37361b7575"] = {
+    ["windows-x64-vc14.29.30133-7ac76075bb5641b58f28eb37361b7575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.29.30133-7ac76075bb5641b58f28eb37361b7575.7z",
         toolset = "14.29.30133",
-        sha256 = "c8ae820335302d35c9dc3deb56d07d17dd8b4a72db6261b497f3b0ab3a5fac21",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-7ac76075bb5641b58f28eb37361b7575.7z"
-    },
-    ["windows-x64-vc142-59299296d76b4d759e413f446ececb01"] = {
-        toolset = "14.29.30133",
-        sha256 = "476ceb9dead725bf27a39edbed819d999bc8a6fb87acd8ab388f09734ca285a7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-59299296d76b4d759e413f446ececb01.7z"
-    },
-    ["windows-x86-vc142-febd2d63027c4c7187e2d9e8ed8be7a2"] = {
-        toolset = "14.29.30133",
-        sha256 = "e953a28102ada1f1aa806a32a865f551c8b231a592f08b77c5d3ac1836f2827c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-febd2d63027c4c7187e2d9e8ed8be7a2.7z"
-    },
-    ["windows-x64-vc142-6b00cae41e0f4f269867174329c5245d"] = {
-        toolset = "14.29.30133",
-        sha256 = "f85cd7ed676c3dce793d46861612ed9d044a80dd9a9f608e1f60b72a424f3ab9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-6b00cae41e0f4f269867174329c5245d.7z"
-    },
-    ["windows-x86-vc142-060f8323963348a6befb7b0a52686d6b"] = {
-        toolset = "14.29.30133",
-        sha256 = "9da1d2b86265bf544f3bf7e30cc5244a228d06474dd98fdea7348ffebc7ad570",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-060f8323963348a6befb7b0a52686d6b.7z"
-    },
-    ["windows-x86-vc142-6b6af1227fa547f598b85d29565e109b"] = {
-        toolset = "14.29.30133",
-        sha256 = "41d261fc95abdef9fee950b272ce747cda8a0e074c7d9f6e72bd10614cef6d62",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-6b6af1227fa547f598b85d29565e109b.7z"
-    },
-    ["windows-x86-vc142-9ee66278924e4c5eb10a5bed423f9f82"] = {
-        toolset = "14.29.30133",
-        sha256 = "4e4d2e3ab35a2fe1fe23fbac28077c7a5c6f4480f3cde7588bfd1548ba5e367a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-9ee66278924e4c5eb10a5bed423f9f82.7z"
+        sha256 = "9f732c276f3d14875953b9bd4f6842f278235b8fe1952caeadf2d07cc1bf3e97"
     },
     ["windows-x64-vc142-0bae4ea08faa41ffadadbad42aee8ec5"] = {
-        toolset = "14.29.30133",
         sha256 = "1a08622523346ba7e5caf83db8d399163833a1ac4460328293068480da6f23a9",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-0bae4ea08faa41ffadadbad42aee8ec5.7z"
+    },
+    ["windows-x64-vc142-7ac76075bb5641b58f28eb37361b7575"] = {
+        sha256 = "c8ae820335302d35c9dc3deb56d07d17dd8b4a72db6261b497f3b0ab3a5fac21",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-7ac76075bb5641b58f28eb37361b7575.7z"
+    },
+    ["windows-x86-vc142-6b6af1227fa547f598b85d29565e109b"] = {
+        sha256 = "41d261fc95abdef9fee950b272ce747cda8a0e074c7d9f6e72bd10614cef6d62",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-6b6af1227fa547f598b85d29565e109b.7z"
+    },
+    ["windows-x86-vc142-060f8323963348a6befb7b0a52686d6b"] = {
+        sha256 = "9da1d2b86265bf544f3bf7e30cc5244a228d06474dd98fdea7348ffebc7ad570",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-060f8323963348a6befb7b0a52686d6b.7z"
+    },
+    ["windows-x64-vc14.35.32215-0bae4ea08faa41ffadadbad42aee8ec5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.35.32215-0bae4ea08faa41ffadadbad42aee8ec5.7z",
+        toolset = "14.35.32215",
+        sha256 = "6190bd1ff413c19cdbea3c82844b1626efdc8096ffbda93beafa94b905e581f7"
+    },
+    ["windows-x86-vc14.29.30133-6b6af1227fa547f598b85d29565e109b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.29.30133-6b6af1227fa547f598b85d29565e109b.7z",
+        toolset = "14.29.30133",
+        sha256 = "e76a0188d6005f6c3dfa07a7e09926377a3e0f368ccee5666214ef738c6df108"
+    },
+    ["windows-x86-vc142-febd2d63027c4c7187e2d9e8ed8be7a2"] = {
+        sha256 = "e953a28102ada1f1aa806a32a865f551c8b231a592f08b77c5d3ac1836f2827c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-febd2d63027c4c7187e2d9e8ed8be7a2.7z"
+    },
+    ["windows-x86-vc142-9ee66278924e4c5eb10a5bed423f9f82"] = {
+        sha256 = "4e4d2e3ab35a2fe1fe23fbac28077c7a5c6f4480f3cde7588bfd1548ba5e367a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc142-9ee66278924e4c5eb10a5bed423f9f82.7z"
+    },
+    ["windows-x64-vc14.35.32215-6b00cae41e0f4f269867174329c5245d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.35.32215-6b00cae41e0f4f269867174329c5245d.7z",
+        toolset = "14.35.32215",
+        sha256 = "e271b1bd6b5a3590f8995a6f113dfb14fffd4e91e1d2aa5e9ae23bb5040e518e"
+    },
+    ["windows-x64-vc14.35.32215-7ac76075bb5641b58f28eb37361b7575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.35.32215-7ac76075bb5641b58f28eb37361b7575.7z",
+        toolset = "14.35.32215",
+        sha256 = "404968753aa6739c0d29ad1a9e054a782706c9fcf0f66cf205b5c5456b827e9a"
+    },
+    ["windows-x64-vc14.29.30133-0bae4ea08faa41ffadadbad42aee8ec5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.29.30133-0bae4ea08faa41ffadadbad42aee8ec5.7z",
+        toolset = "14.29.30133",
+        sha256 = "97efd1348d82656af70d0c4a82ff5deb841ba523ce5e282fa2dec71ab0d91bff"
+    },
+    ["windows-x86-vc14.35.32215-febd2d63027c4c7187e2d9e8ed8be7a2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.35.32215-febd2d63027c4c7187e2d9e8ed8be7a2.7z",
+        toolset = "14.35.32215",
+        sha256 = "24ad5038036704d12cc61c23a3eb08485e31b2bc3d3f0a5f3aeb8f91aa4eb08a"
+    },
+    ["windows-x64-vc142-6b00cae41e0f4f269867174329c5245d"] = {
+        sha256 = "f85cd7ed676c3dce793d46861612ed9d044a80dd9a9f608e1f60b72a424f3ab9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-6b00cae41e0f4f269867174329c5245d.7z"
+    },
+    ["windows-x86-vc14.29.30133-febd2d63027c4c7187e2d9e8ed8be7a2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.29.30133-febd2d63027c4c7187e2d9e8ed8be7a2.7z",
+        toolset = "14.29.30133",
+        sha256 = "ccd1556e6794bc6c51604d478e4e6e74d06c31b6dd8fb842cb96a31c6f7fa794"
+    },
+    ["windows-x64-vc14.29.30133-59299296d76b4d759e413f446ececb01"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.29.30133-59299296d76b4d759e413f446ececb01.7z",
+        toolset = "14.29.30133",
+        sha256 = "abf47d6977a6e9f3a40c33907033b488154982d07e27e7c675d507388e308867"
+    },
+    ["windows-x86-vc14.29.30133-060f8323963348a6befb7b0a52686d6b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.29.30133-060f8323963348a6befb7b0a52686d6b.7z",
+        toolset = "14.29.30133",
+        sha256 = "aba69d63331a94d68a26e68132945fbbb5af5877fb70591869967a16435172e8"
+    },
+    ["windows-x86-vc14.29.30133-9ee66278924e4c5eb10a5bed423f9f82"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.29.30133-9ee66278924e4c5eb10a5bed423f9f82.7z",
+        toolset = "14.29.30133",
+        sha256 = "8f2307f2d6a6e21e04ea067b1f03b0549fe91a8c4f833b733da129c2f5b61cd8"
+    },
+    ["windows-x86-vc14.35.32215-6b6af1227fa547f598b85d29565e109b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.35.32215-6b6af1227fa547f598b85d29565e109b.7z",
+        toolset = "14.35.32215",
+        sha256 = "e9007a62f012cfc98d25253ac6af1b34bf28f63fbdf9adfaa50821d8c7f203eb"
+    },
+    ["windows-x86-vc14.35.32215-060f8323963348a6befb7b0a52686d6b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.35.32215-060f8323963348a6befb7b0a52686d6b.7z",
+        toolset = "14.35.32215",
+        sha256 = "33190747f5a04e190eecb17d594245a24fe5e2e25a1ecd6cfdb20434131d455c"
+    },
+    ["windows-x64-vc14.29.30133-6b00cae41e0f4f269867174329c5245d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.29.30133-6b00cae41e0f4f269867174329c5245d.7z",
+        toolset = "14.29.30133",
+        sha256 = "fcf1685b3c92ecd632fc83bd2f33537df51f4c6347672457389933903315645b"
+    },
+    ["windows-x86-vc14.35.32215-9ee66278924e4c5eb10a5bed423f9f82"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x86-vc14.35.32215-9ee66278924e4c5eb10a5bed423f9f82.7z",
+        toolset = "14.35.32215",
+        sha256 = "2feffa4fe7cc24276e1649267edaa07b199304b1bbe4a8ca869d4270065aa840"
+    },
+    ["windows-x64-vc14.35.32215-59299296d76b4d759e413f446ececb01"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc14.35.32215-59299296d76b4d759e413f446ececb01.7z",
+        toolset = "14.35.32215",
+        sha256 = "2439d47fe6373f0a287ed6b4328df100ad7c41af716dc6a84e79d247c22b45ab"
+    },
+    ["windows-x64-vc142-59299296d76b4d759e413f446ececb01"] = {
+        sha256 = "476ceb9dead725bf27a39edbed819d999bc8a6fb87acd8ab388f09734ca285a7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/lua-v5.4.6/windows-x64-vc142-59299296d76b4d759e413f446ececb01.7z"
     }
 }
