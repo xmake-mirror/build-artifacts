@@ -1,77 +1,157 @@
 {
-    ["windows-x64-vc142-39fe12ef47314774abdb17d6142bf6c9"] = {
+    ["windows-x64-vc14.29.30133-540a8ce26216487280c52bf5e7156085"] = {
+        sha256 = "ce080c95a9ae39bc039ec04f18eec9e50e23d16a104ec246c5d5a980df2d9f6a",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-39fe12ef47314774abdb17d6142bf6c9.7z",
-        sha256 = "746cda7ffde10ae03f956b3a4c04ed0d9dba6afa83d94ca157f28120fe4f331c"
-    },
-    ["windows-x64-vc143-b04e9f3e1e4648e0b234b2fe0cf43717"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc143-b04e9f3e1e4648e0b234b2fe0cf43717.7z",
-        sha256 = "e00c339b1d8d0a2797eec0d54a0ab2797699afa08618d25df09f21394f1226a2"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.29.30133-540a8ce26216487280c52bf5e7156085.7z"
     },
     ["windows-x64-vc143-540a8ce26216487280c52bf5e7156085"] = {
+        sha256 = "f7f35acf22e536f6e0fa1cf864c312d01d4bc9a194499869498f329c284562d3",
         toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc143-540a8ce26216487280c52bf5e7156085.7z",
-        sha256 = "f7f35acf22e536f6e0fa1cf864c312d01d4bc9a194499869498f329c284562d3"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc143-540a8ce26216487280c52bf5e7156085.7z"
+    },
+    ["windows-x86-vc14.37.32822-0e4e15e4253448d79016de12b3f6ee82"] = {
+        sha256 = "3ba435969d2bd50f6322758e4efef22e6bb76305d3016c273fab6055e698eb81",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.37.32822-0e4e15e4253448d79016de12b3f6ee82.7z"
+    },
+    ["windows-x86-vc14.37.32822-78d3176d16644340b7007f2945f91353"] = {
+        sha256 = "171928b112a975ecb2a6f1bb1ebcdbcce4d38e084c93899af9ed41d4079491b0",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.37.32822-78d3176d16644340b7007f2945f91353.7z"
     },
     ["windows-x64-vc142-b04e9f3e1e4648e0b234b2fe0cf43717"] = {
+        sha256 = "c13405dc32c7ff53780840c27a627b2aeb15d252997baed00150a1e16d6947ac",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-b04e9f3e1e4648e0b234b2fe0cf43717.7z",
-        sha256 = "c13405dc32c7ff53780840c27a627b2aeb15d252997baed00150a1e16d6947ac"
-    },
-    ["windows-x86-vc142-057672a9038345b3a6a2b4694e045dcf"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-057672a9038345b3a6a2b4694e045dcf.7z",
-        sha256 = "35bc24fbec4947d0ead0d67b688b37ea44369873852682ebc6b06f90600dfded"
-    },
-    ["windows-x64-vc143-f42eb9324d204320a7601d14c0f171a9"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc143-f42eb9324d204320a7601d14c0f171a9.7z",
-        sha256 = "b442169638f2ede7387b2ed21c3e42a69f714be2ece9f1493e8aaa3bea6841da"
-    },
-    ["windows-x86-vc143-78d3176d16644340b7007f2945f91353"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-78d3176d16644340b7007f2945f91353.7z",
-        sha256 = "4fe3d8d45db0b83485e8ea1b590c0d2380999e09516725243423c424270f44c7"
-    },
-    ["windows-x86-vc142-78d3176d16644340b7007f2945f91353"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-78d3176d16644340b7007f2945f91353.7z",
-        sha256 = "1aac0e12cf16afdfe11178a27953112942375be6ce90717cd9557502ab409da7"
-    },
-    ["windows-x64-vc142-f42eb9324d204320a7601d14c0f171a9"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-f42eb9324d204320a7601d14c0f171a9.7z",
-        sha256 = "88e1ecf67b5e9b88daeae00a096991c244dfe46a9742913c4b6f637658ac87e5"
-    },
-    ["windows-x86-vc142-0e4e15e4253448d79016de12b3f6ee82"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-0e4e15e4253448d79016de12b3f6ee82.7z",
-        sha256 = "334a6b990172a93a2e171ebfbda01189ec99aa1b426ba6edf528b4cb33352cf7"
-    },
-    ["windows-x64-vc142-540a8ce26216487280c52bf5e7156085"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-540a8ce26216487280c52bf5e7156085.7z",
-        sha256 = "338df38926bce1d4b6101967dc028e5efd7ff917deda50f69991a836a5a1a1e4"
-    },
-    ["windows-x86-vc143-02144caae85d4cf985291dcc61edd24b"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-02144caae85d4cf985291dcc61edd24b.7z",
-        sha256 = "329e61e5c9b2a8129cb1ead7e2c9347ce4646ddcc91113bc40460c18fb508059"
-    },
-    ["windows-x86-vc143-057672a9038345b3a6a2b4694e045dcf"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-057672a9038345b3a6a2b4694e045dcf.7z",
-        sha256 = "34951aa14e36052fbb2072afdaa1c1083da9afe01f8a389a6e163b24b303939b"
-    },
-    ["windows-x86-vc142-02144caae85d4cf985291dcc61edd24b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-02144caae85d4cf985291dcc61edd24b.7z",
-        sha256 = "0e8cf8db9fe991ee635be224d31decd23832f2d1209bceb2d8f44577a7186767"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-b04e9f3e1e4648e0b234b2fe0cf43717.7z"
     },
     ["windows-x86-vc143-0e4e15e4253448d79016de12b3f6ee82"] = {
+        sha256 = "020e734fd4d1489eac587cfd7c74afeeb7f6f03f0e02212efd73c1127a5330e2",
         toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-0e4e15e4253448d79016de12b3f6ee82.7z",
-        sha256 = "020e734fd4d1489eac587cfd7c74afeeb7f6f03f0e02212efd73c1127a5330e2"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-0e4e15e4253448d79016de12b3f6ee82.7z"
+    },
+    ["windows-x86-vc143-78d3176d16644340b7007f2945f91353"] = {
+        sha256 = "4fe3d8d45db0b83485e8ea1b590c0d2380999e09516725243423c424270f44c7",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-78d3176d16644340b7007f2945f91353.7z"
+    },
+    ["windows-x86-vc14.29.30133-02144caae85d4cf985291dcc61edd24b"] = {
+        sha256 = "8217a528adf83b4108d74b3a67e2b37315cf8e56551dfb70634fa2e76a05262f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.29.30133-02144caae85d4cf985291dcc61edd24b.7z"
+    },
+    ["windows-x64-vc14.37.32822-39fe12ef47314774abdb17d6142bf6c9"] = {
+        sha256 = "3a77810300e60d2296b6a1a817437f051148769029a3d15000a10f41aeb7fc5d",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.37.32822-39fe12ef47314774abdb17d6142bf6c9.7z"
+    },
+    ["windows-x64-vc14.29.30133-39fe12ef47314774abdb17d6142bf6c9"] = {
+        sha256 = "adfa036edc153cb403a7c45d51d35d774bb1364761b5e1aab7e77b11f7d7f82e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.29.30133-39fe12ef47314774abdb17d6142bf6c9.7z"
+    },
+    ["windows-x64-vc142-39fe12ef47314774abdb17d6142bf6c9"] = {
+        sha256 = "746cda7ffde10ae03f956b3a4c04ed0d9dba6afa83d94ca157f28120fe4f331c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-39fe12ef47314774abdb17d6142bf6c9.7z"
+    },
+    ["windows-x64-vc14.29.30133-b04e9f3e1e4648e0b234b2fe0cf43717"] = {
+        sha256 = "95808ab056a1f8d0cdb59815d92d15ae387e3c30626eb530ac309e2bdf7ed78a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.29.30133-b04e9f3e1e4648e0b234b2fe0cf43717.7z"
+    },
+    ["windows-x64-vc143-b04e9f3e1e4648e0b234b2fe0cf43717"] = {
+        sha256 = "e00c339b1d8d0a2797eec0d54a0ab2797699afa08618d25df09f21394f1226a2",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc143-b04e9f3e1e4648e0b234b2fe0cf43717.7z"
+    },
+    ["windows-x86-vc142-0e4e15e4253448d79016de12b3f6ee82"] = {
+        sha256 = "334a6b990172a93a2e171ebfbda01189ec99aa1b426ba6edf528b4cb33352cf7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-0e4e15e4253448d79016de12b3f6ee82.7z"
+    },
+    ["windows-x86-vc142-02144caae85d4cf985291dcc61edd24b"] = {
+        sha256 = "0e8cf8db9fe991ee635be224d31decd23832f2d1209bceb2d8f44577a7186767",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-02144caae85d4cf985291dcc61edd24b.7z"
+    },
+    ["windows-x86-vc142-78d3176d16644340b7007f2945f91353"] = {
+        sha256 = "1aac0e12cf16afdfe11178a27953112942375be6ce90717cd9557502ab409da7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-78d3176d16644340b7007f2945f91353.7z"
+    },
+    ["windows-x64-vc143-f42eb9324d204320a7601d14c0f171a9"] = {
+        sha256 = "b442169638f2ede7387b2ed21c3e42a69f714be2ece9f1493e8aaa3bea6841da",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc143-f42eb9324d204320a7601d14c0f171a9.7z"
+    },
+    ["windows-x64-vc14.29.30133-f42eb9324d204320a7601d14c0f171a9"] = {
+        sha256 = "f4a6a4c03399b5f23c020d5acd71cccdd1ebca7fc0bc9ed5f806d1263f8ede8a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.29.30133-f42eb9324d204320a7601d14c0f171a9.7z"
+    },
+    ["windows-x86-vc14.37.32822-057672a9038345b3a6a2b4694e045dcf"] = {
+        sha256 = "947b4d7b7151fdbb4b9783fe759014b225648bfc97542aae5f9493700bff04eb",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.37.32822-057672a9038345b3a6a2b4694e045dcf.7z"
+    },
+    ["windows-x86-vc14.29.30133-057672a9038345b3a6a2b4694e045dcf"] = {
+        sha256 = "5933a867a52519629e923c58f04d7064971dd33254f6bcd08b76532393c1faa8",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.29.30133-057672a9038345b3a6a2b4694e045dcf.7z"
+    },
+    ["windows-x86-vc14.37.32822-02144caae85d4cf985291dcc61edd24b"] = {
+        sha256 = "0cf6ff5024918a3864bb621ff992890bb33146aa06509c23014d78bcfc846d9a",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.37.32822-02144caae85d4cf985291dcc61edd24b.7z"
+    },
+    ["windows-x64-vc14.37.32822-540a8ce26216487280c52bf5e7156085"] = {
+        sha256 = "1c26e9a6d0969b86992cb8f916cede9d230bf40a09f1f9b6b21d7ea51be0a444",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.37.32822-540a8ce26216487280c52bf5e7156085.7z"
+    },
+    ["windows-x64-vc14.37.32822-b04e9f3e1e4648e0b234b2fe0cf43717"] = {
+        sha256 = "35aa0e4c5f92132f5fc2e11e530db221c8e3bf71afde8553ae4493a25e02d0c1",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.37.32822-b04e9f3e1e4648e0b234b2fe0cf43717.7z"
+    },
+    ["windows-x64-vc14.37.32822-f42eb9324d204320a7601d14c0f171a9"] = {
+        sha256 = "73a778aaa36ae57443f1714c5ac27ab4029dc2241534d4795f44176ed14575b6",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc14.37.32822-f42eb9324d204320a7601d14c0f171a9.7z"
+    },
+    ["windows-x64-vc142-f42eb9324d204320a7601d14c0f171a9"] = {
+        sha256 = "88e1ecf67b5e9b88daeae00a096991c244dfe46a9742913c4b6f637658ac87e5",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-f42eb9324d204320a7601d14c0f171a9.7z"
+    },
+    ["windows-x86-vc143-02144caae85d4cf985291dcc61edd24b"] = {
+        sha256 = "329e61e5c9b2a8129cb1ead7e2c9347ce4646ddcc91113bc40460c18fb508059",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-02144caae85d4cf985291dcc61edd24b.7z"
+    },
+    ["windows-x86-vc143-057672a9038345b3a6a2b4694e045dcf"] = {
+        sha256 = "34951aa14e36052fbb2072afdaa1c1083da9afe01f8a389a6e163b24b303939b",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc143-057672a9038345b3a6a2b4694e045dcf.7z"
+    },
+    ["windows-x86-vc14.29.30133-78d3176d16644340b7007f2945f91353"] = {
+        sha256 = "c18d4fc8a1ab9248ec9e4cc0ead60b090ca17805e870f685213b395f1726c562",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.29.30133-78d3176d16644340b7007f2945f91353.7z"
+    },
+    ["windows-x86-vc142-057672a9038345b3a6a2b4694e045dcf"] = {
+        sha256 = "35bc24fbec4947d0ead0d67b688b37ea44369873852682ebc6b06f90600dfded",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc142-057672a9038345b3a6a2b4694e045dcf.7z"
+    },
+    ["windows-x64-vc142-540a8ce26216487280c52bf5e7156085"] = {
+        sha256 = "338df38926bce1d4b6101967dc028e5efd7ff917deda50f69991a836a5a1a1e4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x64-vc142-540a8ce26216487280c52bf5e7156085.7z"
+    },
+    ["windows-x86-vc14.29.30133-0e4e15e4253448d79016de12b3f6ee82"] = {
+        sha256 = "ddb780151d8f7de954c877bc6c9c8bce2929809cb4093463f1c04517bf0f0dab",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/minizip-ng-3.0.5/windows-x86-vc14.29.30133-0e4e15e4253448d79016de12b3f6ee82.7z"
     }
 }
