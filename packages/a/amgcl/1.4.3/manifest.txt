@@ -1,77 +1,157 @@
 {
-    ["windows-x64-vc143-41dc2de91c2f4aad96a8b3a7b8f28c57"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc143-41dc2de91c2f4aad96a8b3a7b8f28c57.7z",
-        sha256 = "678a6555056cf86b9efff1225e874e681be3559c3dbf7b6e4c157dfce27b5c02",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc142-41dc2de91c2f4aad96a8b3a7b8f28c57"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-41dc2de91c2f4aad96a8b3a7b8f28c57.7z",
-        sha256 = "9e17f0965299dfebe6c90a66f02ecb5f7d16944cfdf66ec4ce1fd8aa6e122c2c",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-2535f994df5c407e9cf9a21b7b26708b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-2535f994df5c407e9cf9a21b7b26708b.7z",
-        sha256 = "491c4c73f7334f7d09dc462a665c102fd64f338b2454dec4b1915a3e99eee983",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc143-f23371e297ee41f9b8d1b974e84f5dec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc143-f23371e297ee41f9b8d1b974e84f5dec.7z",
-        sha256 = "c646adfffe2f5bf37dce64802d1e89656975c12f0011b6f94b9123a2acad8a0a",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-2535f994df5c407e9cf9a21b7b26708b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-2535f994df5c407e9cf9a21b7b26708b.7z",
-        sha256 = "ae85cbdd765e832eeec0d0e2390465b4aae8ecfda6fd910a6208b1a790f7dbe2",
-        toolset = "14.29.30133"
-    },
     ["windows-x86-vc142-e7744a66974c4c3497cc5308308d7084"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-e7744a66974c4c3497cc5308308d7084.7z",
         sha256 = "7c4fa29aafce2d79c7eaa1c61e58e9350c3fabcfa8f2fc0aae8eb68e01e22363",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-e7744a66974c4c3497cc5308308d7084"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-e7744a66974c4c3497cc5308308d7084.7z",
-        sha256 = "d092b43a10fd1a55eace4409b475657ded07790be9d6c38c29eb1052b75c7077",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc143-2f9dd68b131b46c3a039fbb984efa4ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc143-2f9dd68b131b46c3a039fbb984efa4ed.7z",
-        sha256 = "b3becef3af9f170d2f80c79e8d81e3207583fd0877bf1ee499abc2aa7c66332a",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-96af63a5e52b48e2ab225d15bf0de880"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-96af63a5e52b48e2ab225d15bf0de880.7z",
-        sha256 = "56266b4b2a652b982b68a41ce4d1505ff4141ab2b0b842caa53a8cdca83e0249",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-9a7581474ee04ad284f650cc30ada25b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-9a7581474ee04ad284f650cc30ada25b.7z",
-        sha256 = "0e1a7950d04eae528d65432d84cbe699a66d5502f58f393f97e9222867a5c8a4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-96af63a5e52b48e2ab225d15bf0de880"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-96af63a5e52b48e2ab225d15bf0de880.7z",
-        sha256 = "fcfaa133805dfe4ca9760245a8594babc772754bfffe1c5699d3c964cd4370e5",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-acb2b5ec810941ee9e9e146063c667c2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-acb2b5ec810941ee9e9e146063c667c2.7z",
-        sha256 = "69b1c56ff6fb9b59d20568e1f82685dca00cee5cba63239110b7e59ceb6a02c2",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-e7744a66974c4c3497cc5308308d7084.7z"
     },
     ["windows-x64-vc142-f23371e297ee41f9b8d1b974e84f5dec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-f23371e297ee41f9b8d1b974e84f5dec.7z",
         sha256 = "6b8a9a587c7ee5161d387ab544e7966a9d6db8ce838055ca6187734b878fc2c5",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-f23371e297ee41f9b8d1b974e84f5dec.7z"
+    },
+    ["windows-x86-vc14.29.30133-96af63a5e52b48e2ab225d15bf0de880"] = {
+        sha256 = "8eb9213e2f8e68ed4ae25db4e4467d0bbec620244ec6694b0ce38b221f203a64",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.29.30133-96af63a5e52b48e2ab225d15bf0de880.7z"
+    },
+    ["windows-x86-vc14.37.32822-2535f994df5c407e9cf9a21b7b26708b"] = {
+        sha256 = "191e295f1dda87886ce2562be64509b9c749d174c0359f2b03f48be84cc90c7e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.37.32822-2535f994df5c407e9cf9a21b7b26708b.7z"
+    },
+    ["windows-x64-vc14.37.32822-2f9dd68b131b46c3a039fbb984efa4ed"] = {
+        sha256 = "a77b6ecdb113ff0dc2c0517eba83da99ab748e72093aeb830da03cba46b95edb",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.37.32822-2f9dd68b131b46c3a039fbb984efa4ed.7z"
+    },
+    ["windows-x86-vc14.37.32822-acb2b5ec810941ee9e9e146063c667c2"] = {
+        sha256 = "a49ab167df5ff095db27e74ee9ddadd8c26b577889a389282036fef7afd654e8",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.37.32822-acb2b5ec810941ee9e9e146063c667c2.7z"
+    },
+    ["windows-x86-vc14.29.30133-2535f994df5c407e9cf9a21b7b26708b"] = {
+        sha256 = "89dac656566260662a4671b29265267c0d4fbc01fe9d07da8542d5392f70cb6e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.29.30133-2535f994df5c407e9cf9a21b7b26708b.7z"
+    },
+    ["windows-x86-vc143-2535f994df5c407e9cf9a21b7b26708b"] = {
+        sha256 = "491c4c73f7334f7d09dc462a665c102fd64f338b2454dec4b1915a3e99eee983",
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-2535f994df5c407e9cf9a21b7b26708b.7z"
+    },
+    ["windows-x64-vc143-2f9dd68b131b46c3a039fbb984efa4ed"] = {
+        sha256 = "b3becef3af9f170d2f80c79e8d81e3207583fd0877bf1ee499abc2aa7c66332a",
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc143-2f9dd68b131b46c3a039fbb984efa4ed.7z"
+    },
+    ["windows-x86-vc142-acb2b5ec810941ee9e9e146063c667c2"] = {
+        sha256 = "69b1c56ff6fb9b59d20568e1f82685dca00cee5cba63239110b7e59ceb6a02c2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-acb2b5ec810941ee9e9e146063c667c2.7z"
+    },
+    ["windows-x64-vc14.29.30133-2f9dd68b131b46c3a039fbb984efa4ed"] = {
+        sha256 = "3e582c29b67155d1401dcde88851979ccdb794e58cde7db2b3640eb7f59bf3db",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.29.30133-2f9dd68b131b46c3a039fbb984efa4ed.7z"
+    },
+    ["windows-x86-vc14.37.32822-e7744a66974c4c3497cc5308308d7084"] = {
+        sha256 = "c8de57bc28e852f6c518e90600a114f39ba8fa1af0e156bd1a0806e02ab43db6",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.37.32822-e7744a66974c4c3497cc5308308d7084.7z"
     },
     ["windows-x86-vc143-acb2b5ec810941ee9e9e146063c667c2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-acb2b5ec810941ee9e9e146063c667c2.7z",
         sha256 = "7c71d2981903247a60df7148bec508a29fb10638be4da4debff39012a1865f18",
-        toolset = "14.32.31326"
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-acb2b5ec810941ee9e9e146063c667c2.7z"
+    },
+    ["windows-x86-vc142-2535f994df5c407e9cf9a21b7b26708b"] = {
+        sha256 = "ae85cbdd765e832eeec0d0e2390465b4aae8ecfda6fd910a6208b1a790f7dbe2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-2535f994df5c407e9cf9a21b7b26708b.7z"
+    },
+    ["windows-x86-vc142-96af63a5e52b48e2ab225d15bf0de880"] = {
+        sha256 = "56266b4b2a652b982b68a41ce4d1505ff4141ab2b0b842caa53a8cdca83e0249",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc142-96af63a5e52b48e2ab225d15bf0de880.7z"
+    },
+    ["windows-x86-vc143-e7744a66974c4c3497cc5308308d7084"] = {
+        sha256 = "d092b43a10fd1a55eace4409b475657ded07790be9d6c38c29eb1052b75c7077",
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-e7744a66974c4c3497cc5308308d7084.7z"
+    },
+    ["windows-x64-vc14.37.32822-41dc2de91c2f4aad96a8b3a7b8f28c57"] = {
+        sha256 = "b7f16ce2f34fb17d450a108a4b1f72efe263289a4a2e1037796421c983910d11",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.37.32822-41dc2de91c2f4aad96a8b3a7b8f28c57.7z"
+    },
+    ["windows-x64-vc143-41dc2de91c2f4aad96a8b3a7b8f28c57"] = {
+        sha256 = "678a6555056cf86b9efff1225e874e681be3559c3dbf7b6e4c157dfce27b5c02",
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc143-41dc2de91c2f4aad96a8b3a7b8f28c57.7z"
+    },
+    ["windows-x86-vc14.29.30133-acb2b5ec810941ee9e9e146063c667c2"] = {
+        sha256 = "6de966cfdb1b2bbb302ef9461400a4a3bbea9db84be327884662b77ce4bf117b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.29.30133-acb2b5ec810941ee9e9e146063c667c2.7z"
+    },
+    ["windows-x64-vc14.29.30133-f23371e297ee41f9b8d1b974e84f5dec"] = {
+        sha256 = "6ace8098370c1c3fd3bbbf439ee62992dd881badb3096549c4952ed0f74a8c34",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.29.30133-f23371e297ee41f9b8d1b974e84f5dec.7z"
+    },
+    ["windows-x64-vc14.37.32822-f23371e297ee41f9b8d1b974e84f5dec"] = {
+        sha256 = "03d546de7a00fa3228a28ac235e889085fd4539b501ccf545b3b8b1049dd8194",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.37.32822-f23371e297ee41f9b8d1b974e84f5dec.7z"
     },
     ["windows-x64-vc142-2f9dd68b131b46c3a039fbb984efa4ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-2f9dd68b131b46c3a039fbb984efa4ed.7z",
         sha256 = "8664dc9b57e6667cffd8b36e729c0f001c67c1d5bb436e7409ff08f37756c027",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-2f9dd68b131b46c3a039fbb984efa4ed.7z"
+    },
+    ["windows-x64-vc14.29.30133-9a7581474ee04ad284f650cc30ada25b"] = {
+        sha256 = "83d3f414765d7fe99204106f4c52710271532ab9d996d85d8e6c7ab3d0fcf6f1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.29.30133-9a7581474ee04ad284f650cc30ada25b.7z"
+    },
+    ["windows-x86-vc143-96af63a5e52b48e2ab225d15bf0de880"] = {
+        sha256 = "fcfaa133805dfe4ca9760245a8594babc772754bfffe1c5699d3c964cd4370e5",
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc143-96af63a5e52b48e2ab225d15bf0de880.7z"
+    },
+    ["windows-x64-vc142-9a7581474ee04ad284f650cc30ada25b"] = {
+        sha256 = "0e1a7950d04eae528d65432d84cbe699a66d5502f58f393f97e9222867a5c8a4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-9a7581474ee04ad284f650cc30ada25b.7z"
+    },
+    ["windows-x64-vc14.37.32822-9a7581474ee04ad284f650cc30ada25b"] = {
+        sha256 = "8c7f0f3b100477c85933a75fe4bd14090a405ec59dedd44a534d32ddceb97e07",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.37.32822-9a7581474ee04ad284f650cc30ada25b.7z"
+    },
+    ["windows-x86-vc14.37.32822-96af63a5e52b48e2ab225d15bf0de880"] = {
+        sha256 = "af91eca8a8419395797beff333511a68c40e5cf04e1839e8034fc90db1bd50b6",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.37.32822-96af63a5e52b48e2ab225d15bf0de880.7z"
+    },
+    ["windows-x64-vc14.29.30133-41dc2de91c2f4aad96a8b3a7b8f28c57"] = {
+        sha256 = "6c5415bd74bb653869c149c2b2614db970ade569039a0fc935091709660fe2b1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc14.29.30133-41dc2de91c2f4aad96a8b3a7b8f28c57.7z"
+    },
+    ["windows-x64-vc142-41dc2de91c2f4aad96a8b3a7b8f28c57"] = {
+        sha256 = "9e17f0965299dfebe6c90a66f02ecb5f7d16944cfdf66ec4ce1fd8aa6e122c2c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc142-41dc2de91c2f4aad96a8b3a7b8f28c57.7z"
+    },
+    ["windows-x64-vc143-f23371e297ee41f9b8d1b974e84f5dec"] = {
+        sha256 = "c646adfffe2f5bf37dce64802d1e89656975c12f0011b6f94b9123a2acad8a0a",
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x64-vc143-f23371e297ee41f9b8d1b974e84f5dec.7z"
+    },
+    ["windows-x86-vc14.29.30133-e7744a66974c4c3497cc5308308d7084"] = {
+        sha256 = "49210e68a595f7104a677f5f00e621d236389c274e9261829d6915ee36ba6953",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/amgcl-1.4.3/windows-x86-vc14.29.30133-e7744a66974c4c3497cc5308308d7084.7z"
     }
 }
