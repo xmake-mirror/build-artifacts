@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc142-9dee007bef6b4b42b5696bc0eb259c4a"] = {
+    ["windows-x86-vc141-68b9c760757442e89c78d69fc7432dda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-68b9c760757442e89c78d69fc7432dda.7z",
+        toolset = "14.16.27023",
+        sha256 = "e2afce06354b4b5380e15a02efb80798b93ad2aa1a1f78000f2367e426e7beb2"
+    },
+    ["windows-x86-vc14.29.30133-68b9c760757442e89c78d69fc7432dda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.29.30133-68b9c760757442e89c78d69fc7432dda.7z",
+        sha256 = "c4d27a85592888e9c26fb2301e75bd6ae4700f9a5baab5a90e4d3d0d8e6318a0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-6399ccf7e312472691abc00b7195621c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.37.32822-6399ccf7e312472691abc00b7195621c.7z",
+        sha256 = "5e8ed7f8c2ada8433edeb7e039fc4be7b37abde04818e784bcf3ab475e870c8e",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc141-bde885b66147402487b5bfc6f496aab1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-bde885b66147402487b5bfc6f496aab1.7z",
+        toolset = "14.16.27023",
+        sha256 = "6875721922cd360c9c19d89a5e68b4ffca2b6a44a7c5bc0f55221e6762522fc3"
+    },
+    ["windows-x64-vc14.29.30133-28359e193daa40579d0a5e8f027e4c1e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.29.30133-28359e193daa40579d0a5e8f027e4c1e.7z",
+        sha256 = "25117a5d05f9503ccf8f411a868b3d27a1f491de88fd2243e14ca1a74e8c8436",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-9dee007bef6b4b42b5696bc0eb259c4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.37.32822-9dee007bef6b4b42b5696bc0eb259c4a.7z",
+        sha256 = "a0d0c844701332c9855d9bc17d91214384bba564719cb347117568d29d2d7d29",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-9dee007bef6b4b42b5696bc0eb259c4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-9dee007bef6b4b42b5696bc0eb259c4a.7z",
+        toolset = "14.16.27023",
+        sha256 = "14d5e8303c8914301cdce6ae65190f8dfbb9e750b78cd1b9d1df4f4eb76f4e80"
+    },
+    ["windows-x64-vc141-e15367b235c945a8b3b6da8672ae6d54"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-e15367b235c945a8b3b6da8672ae6d54.7z",
+        toolset = "14.16.27023",
+        sha256 = "f8f858116613d62efc86e6a0ca26c6eb81d83a84e31ea6197be382b67f222668"
+    },
+    ["windows-x86-vc142-6399ccf7e312472691abc00b7195621c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-6399ccf7e312472691abc00b7195621c.7z",
         toolset = "14.29.30133",
+        sha256 = "b1633207b8283d2b1ef5a740c35d9ff5a5059ac8b9a653222d0af9517d4889cf"
+    },
+    ["windows-x64-vc141-509312b6af1d423eb646ae7457ca3a0e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-509312b6af1d423eb646ae7457ca3a0e.7z",
+        toolset = "14.16.27023",
+        sha256 = "75ee01839936cde5646e5c6595b446629f9116b64b0351615782ae4572673408"
+    },
+    ["windows-x86-vc142-68b9c760757442e89c78d69fc7432dda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-68b9c760757442e89c78d69fc7432dda.7z",
+        toolset = "14.29.30133",
+        sha256 = "eda5f35db5b244477a81365e6292260459e4a37bf423c0522666f72cf3ba07bd"
+    },
+    ["windows-x86-vc142-9b820fbf3cb44287b9f7df99a0fc4cc7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-9b820fbf3cb44287b9f7df99a0fc4cc7.7z",
+        toolset = "14.29.30133",
+        sha256 = "0e510bcca3ee38db20f2201e34013fe72533abecc1d7134bac38765e7129d84b"
+    },
+    ["windows-x64-vc14.37.32822-e15367b235c945a8b3b6da8672ae6d54"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.37.32822-e15367b235c945a8b3b6da8672ae6d54.7z",
+        sha256 = "069e31c4bbf48bff4191b055ccfe424b12bb3e216f3838414fc3da4ead34d893",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-6399ccf7e312472691abc00b7195621c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.29.30133-6399ccf7e312472691abc00b7195621c.7z",
+        sha256 = "70906213e972ed4987053c3900856c1a0abcf85cf00a2d03214e3cb98020b7e6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-bde885b66147402487b5bfc6f496aab1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-bde885b66147402487b5bfc6f496aab1.7z",
+        toolset = "14.29.30133",
+        sha256 = "531cbf475b49732e215ade616d35fd3eb10552f5589fc5f1033155d7378ecc40"
+    },
+    ["windows-x64-vc14.29.30133-509312b6af1d423eb646ae7457ca3a0e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.29.30133-509312b6af1d423eb646ae7457ca3a0e.7z",
+        sha256 = "e13a3ec5a807844fbd000a52d2671f3bc4a27bfd92b66f528ce803306e35652c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-9b820fbf3cb44287b9f7df99a0fc4cc7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.37.32822-9b820fbf3cb44287b9f7df99a0fc4cc7.7z",
+        sha256 = "149d050145f3b10fe23323183317eeccb8118da1451c760b8c9f661e6f9391e3",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-9dee007bef6b4b42b5696bc0eb259c4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.29.30133-9dee007bef6b4b42b5696bc0eb259c4a.7z",
+        sha256 = "1fb125d3fd71b084646162e36b76a06113e5340ae40287ae271d502cf665e84c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-6399ccf7e312472691abc00b7195621c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-6399ccf7e312472691abc00b7195621c.7z",
+        toolset = "14.16.27023",
+        sha256 = "739b88b1040e9907cca5bb7b0f8c7f93abd82b02d3194aaf264c32aab573f820"
+    },
+    ["windows-x64-vc142-9dee007bef6b4b42b5696bc0eb259c4a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc142-9dee007bef6b4b42b5696bc0eb259c4a.7z",
+        toolset = "14.29.30133",
         sha256 = "a1525ab85d617f349c8deb924474002527fa83aa8039c032f603bc5ded15621a"
     },
     ["windows-x64-vc141-28359e193daa40579d0a5e8f027e4c1e"] = {
-        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-28359e193daa40579d0a5e8f027e4c1e.7z",
+        toolset = "14.16.27023",
         sha256 = "8289a63a55cb512446d278a2a89541bad10a09679a228c44717a86248f5e2b1f"
     },
-    ["windows-x86-vc142-6399ccf7e312472691abc00b7195621c"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-6399ccf7e312472691abc00b7195621c.7z",
-        sha256 = "b1633207b8283d2b1ef5a740c35d9ff5a5059ac8b9a653222d0af9517d4889cf"
+    ["windows-x64-vc14.29.30133-e15367b235c945a8b3b6da8672ae6d54"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.29.30133-e15367b235c945a8b3b6da8672ae6d54.7z",
+        sha256 = "cb1a86bbb330fd7a5628d03f4835e95a0415debb9ad73dd8a69b3e9544a95d89",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc142-e15367b235c945a8b3b6da8672ae6d54"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc142-e15367b235c945a8b3b6da8672ae6d54.7z",
+        toolset = "14.29.30133",
         sha256 = "df102802e37ba133706bab95d152bc114de182c41488f8d52efc4362b2bff2ce"
     },
-    ["windows-x64-vc141-e15367b235c945a8b3b6da8672ae6d54"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-e15367b235c945a8b3b6da8672ae6d54.7z",
-        sha256 = "f8f858116613d62efc86e6a0ca26c6eb81d83a84e31ea6197be382b67f222668"
+    ["windows-x86-vc14.37.32822-bde885b66147402487b5bfc6f496aab1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.37.32822-bde885b66147402487b5bfc6f496aab1.7z",
+        sha256 = "715022296e4181fba9a533d869834507ba0a95d1b12e64eecbfdb4197fa498d8",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc141-509312b6af1d423eb646ae7457ca3a0e"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-509312b6af1d423eb646ae7457ca3a0e.7z",
-        sha256 = "75ee01839936cde5646e5c6595b446629f9116b64b0351615782ae4572673408"
+    ["windows-x64-vc14.37.32822-28359e193daa40579d0a5e8f027e4c1e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.37.32822-28359e193daa40579d0a5e8f027e4c1e.7z",
+        sha256 = "444e2d4bab99e3b0d6373661281df634e123699e3cf228bdb63afdce2b619e30",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-509312b6af1d423eb646ae7457ca3a0e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc14.37.32822-509312b6af1d423eb646ae7457ca3a0e.7z",
+        sha256 = "3d836bf493189b17d89b26482a8848a309f420f654edc83415364fe71fed1726",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc142-509312b6af1d423eb646ae7457ca3a0e"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc142-509312b6af1d423eb646ae7457ca3a0e.7z",
+        toolset = "14.29.30133",
         sha256 = "06d582b319be3bff8e72621c83863e3a933d2370f5496b0ac5ce88e3f89cb77f"
     },
-    ["windows-x86-vc141-6399ccf7e312472691abc00b7195621c"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-6399ccf7e312472691abc00b7195621c.7z",
-        sha256 = "739b88b1040e9907cca5bb7b0f8c7f93abd82b02d3194aaf264c32aab573f820"
+    ["windows-x86-vc14.37.32822-68b9c760757442e89c78d69fc7432dda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.37.32822-68b9c760757442e89c78d69fc7432dda.7z",
+        sha256 = "a4b3868a82100f193e527882d35f25112c8db8aea3461e391b868e579d177d3e",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc141-9dee007bef6b4b42b5696bc0eb259c4a"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc141-9dee007bef6b4b42b5696bc0eb259c4a.7z",
-        sha256 = "14d5e8303c8914301cdce6ae65190f8dfbb9e750b78cd1b9d1df4f4eb76f4e80"
-    },
-    ["windows-x86-vc141-68b9c760757442e89c78d69fc7432dda"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-68b9c760757442e89c78d69fc7432dda.7z",
-        sha256 = "e2afce06354b4b5380e15a02efb80798b93ad2aa1a1f78000f2367e426e7beb2"
-    },
-    ["windows-x86-vc142-9b820fbf3cb44287b9f7df99a0fc4cc7"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-9b820fbf3cb44287b9f7df99a0fc4cc7.7z",
-        sha256 = "0e510bcca3ee38db20f2201e34013fe72533abecc1d7134bac38765e7129d84b"
-    },
-    ["windows-x86-vc141-9b820fbf3cb44287b9f7df99a0fc4cc7"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-9b820fbf3cb44287b9f7df99a0fc4cc7.7z",
-        sha256 = "75d18d4e9a444f0e876e52c9583cff46b343b73e10a61065578bac885aab7a2a"
+    ["windows-x86-vc14.29.30133-9b820fbf3cb44287b9f7df99a0fc4cc7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.29.30133-9b820fbf3cb44287b9f7df99a0fc4cc7.7z",
+        sha256 = "58d1ba8089162fe4247215ca996e55e6e8a741cfe207d8b2efd25d132393b76f",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc142-28359e193daa40579d0a5e8f027e4c1e"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x64-vc142-28359e193daa40579d0a5e8f027e4c1e.7z",
+        toolset = "14.29.30133",
         sha256 = "7f7f2494ea767a5905dc24c2ff25769bc488b4872cae364be47c6f41b366ba2b"
     },
-    ["windows-x86-vc142-bde885b66147402487b5bfc6f496aab1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-bde885b66147402487b5bfc6f496aab1.7z",
-        sha256 = "531cbf475b49732e215ade616d35fd3eb10552f5589fc5f1033155d7378ecc40"
-    },
-    ["windows-x86-vc141-bde885b66147402487b5bfc6f496aab1"] = {
+    ["windows-x86-vc141-9b820fbf3cb44287b9f7df99a0fc4cc7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-9b820fbf3cb44287b9f7df99a0fc4cc7.7z",
         toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc141-bde885b66147402487b5bfc6f496aab1.7z",
-        sha256 = "6875721922cd360c9c19d89a5e68b4ffca2b6a44a7c5bc0f55221e6762522fc3"
+        sha256 = "75d18d4e9a444f0e876e52c9583cff46b343b73e10a61065578bac885aab7a2a"
     },
-    ["windows-x86-vc142-68b9c760757442e89c78d69fc7432dda"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc142-68b9c760757442e89c78d69fc7432dda.7z",
-        sha256 = "eda5f35db5b244477a81365e6292260459e4a37bf423c0522666f72cf3ba07bd"
+    ["windows-x86-vc14.29.30133-bde885b66147402487b5bfc6f496aab1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pagmo-v2.18.0/windows-x86-vc14.29.30133-bde885b66147402487b5bfc6f496aab1.7z",
+        sha256 = "47f0c10d662df670faed4f1e90688d84bedf0e315d47a36748f048e4bf46fa2c",
+        toolset = "14.29.30133"
     }
 }
