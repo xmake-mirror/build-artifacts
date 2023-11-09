@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.35.32215-c62815e47c584fc8af94a48f4e48a86a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-c62815e47c584fc8af94a48f4e48a86a.7z",
-        toolset = "14.35.32215",
-        sha256 = "9efa05bc4adbdbc1b189705e248d4ed2856937b481a4780cf0a1a75cd495b0d1"
-    },
-    ["windows-x64-vc14.29.30133-b755fd28eb714eaaab710a59cc38d288"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-b755fd28eb714eaaab710a59cc38d288.7z",
-        toolset = "14.29.30133",
-        sha256 = "aee27557f255b32b7326eeeb0810f1d039fe9951f9ef3dc1de17cfcfe491f267"
-    },
-    ["windows-x86-vc14.35.32215-821d66be008a4de3b96b772da9f2dee2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-821d66be008a4de3b96b772da9f2dee2.7z",
-        toolset = "14.35.32215",
-        sha256 = "9810382f124d2dcb56721f12e93a0b2d427a4037f98bea5d0363bf7d085ee34d"
-    },
     ["windows-x64-vc14.35.32215-b755fd28eb714eaaab710a59cc38d288"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-b755fd28eb714eaaab710a59cc38d288.7z",
-        toolset = "14.35.32215",
-        sha256 = "dd22a2e799fe2bfef092c384cba4d961c0102549d1ca7c328b56b1bb22fd5375"
-    },
-    ["windows-x86-vc14.29.30133-3401cf5553e3409386563bad6335e154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.29.30133-3401cf5553e3409386563bad6335e154.7z",
-        toolset = "14.29.30133",
-        sha256 = "d2d532d7225a077761602444eb5f9f85de9e55b7a2d91afc7b88a34c071e8933"
-    },
-    ["windows-x86-vc14.29.30133-c4c99f05b73841a9a59a36e93c49a336"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.29.30133-c4c99f05b73841a9a59a36e93c49a336.7z",
-        toolset = "14.29.30133",
-        sha256 = "e8c92d3351a1afaf16d870dfef981b0e81b515946124de6898b5478f7cd2eee7"
-    },
-    ["windows-x86-vc14.35.32215-3401cf5553e3409386563bad6335e154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-3401cf5553e3409386563bad6335e154.7z",
-        toolset = "14.35.32215",
-        sha256 = "20dc1a8d758eff7929d9b82062745a7d71a83bb4d04ce9826e666e26fb810d08"
-    },
-    ["windows-x86-vc14.35.32215-a18bb2ae19af475d84fd26df46a2b271"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-a18bb2ae19af475d84fd26df46a2b271.7z",
-        toolset = "14.35.32215",
-        sha256 = "dd090faa137853fefa76945713e67d21ef33e9582d6fba9f835c2b34ffb34b39"
+        sha256 = "dd22a2e799fe2bfef092c384cba4d961c0102549d1ca7c328b56b1bb22fd5375",
+        toolset = "14.35.32215"
     },
     ["windows-x86-vc14.29.30133-821d66be008a4de3b96b772da9f2dee2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.29.30133-821d66be008a4de3b96b772da9f2dee2.7z",
-        toolset = "14.29.30133",
-        sha256 = "521af7a5825fcd50ee292d4161c92b160c6a0706d3ebab597ad37923841c803a"
+        sha256 = "b532262aa8930fe7e9884bd9896260eefcc39f7530b55a59b19c95326916235d",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.35.32215-f251c1df226c4b19907ef0be4aea182b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-f251c1df226c4b19907ef0be4aea182b.7z",
-        toolset = "14.35.32215",
-        sha256 = "33f2b83a28d427fe79d4a88798105131e50aede8c2535a02703cc9a0d1d383ea"
+    ["windows-x86-vc14.37.32822-a18bb2ae19af475d84fd26df46a2b271"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.37.32822-a18bb2ae19af475d84fd26df46a2b271.7z",
+        sha256 = "96122721ab040e1c395a38891a141a36a8c1654343324d601ec8e578f55a8b89",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.35.32215-82e7b56b93404c70b0b77acf4c1a97c8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-82e7b56b93404c70b0b77acf4c1a97c8.7z",
-        toolset = "14.35.32215",
-        sha256 = "01dbbfbcda8bec2ef6be7106d3f2e6b34c14aa55f374c14cf0e5423d1fe44eb2"
+    ["windows-x86-vc14.29.30133-c4c99f05b73841a9a59a36e93c49a336"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.29.30133-c4c99f05b73841a9a59a36e93c49a336.7z",
+        sha256 = "6a0c41d30bdd43d5c142a5eb820d2e11bd156bce0ad727ae1946054c69deb722",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-f251c1df226c4b19907ef0be4aea182b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-f251c1df226c4b19907ef0be4aea182b.7z",
-        toolset = "14.29.30133",
-        sha256 = "531a1b582b180900bd1176f1353e4f6e7b6a2b59fef01c9d74328e1d3ffd29b3"
+    ["windows-x86-vc14.35.32215-821d66be008a4de3b96b772da9f2dee2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-821d66be008a4de3b96b772da9f2dee2.7z",
+        sha256 = "9810382f124d2dcb56721f12e93a0b2d427a4037f98bea5d0363bf7d085ee34d",
+        toolset = "14.35.32215"
     },
-    ["windows-x64-vc14.29.30133-82e7b56b93404c70b0b77acf4c1a97c8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-82e7b56b93404c70b0b77acf4c1a97c8.7z",
-        toolset = "14.29.30133",
-        sha256 = "381e5076e84962c03c668773a8c2c5d845ec1aff9cf1fa78e67d1617eb1beca0"
+    ["windows-x64-vc14.37.32822-b755fd28eb714eaaab710a59cc38d288"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.37.32822-b755fd28eb714eaaab710a59cc38d288.7z",
+        sha256 = "26e08656a371a56b69535aa178bc79bb4095b2aee23a37276ec8d443658ff27e",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-821d66be008a4de3b96b772da9f2dee2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.37.32822-821d66be008a4de3b96b772da9f2dee2.7z",
+        sha256 = "f326f6e5c0e82b7edaa480d710938e99bb48e772767c084457de498707e6051f",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc14.29.30133-c62815e47c584fc8af94a48f4e48a86a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-c62815e47c584fc8af94a48f4e48a86a.7z",
-        toolset = "14.29.30133",
-        sha256 = "caba80fad1103edcabcbd810e420a910e737cc5877fd26d8d5d91d34d411c100"
+        sha256 = "75804b47f747d55ddf55163af7deaccbc859baf648245df8ad8e94bc8f3235d3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-3401cf5553e3409386563bad6335e154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.29.30133-3401cf5553e3409386563bad6335e154.7z",
+        sha256 = "f6d7f2e7814ea0d1d7800ae0447fe6ba310d9dc5171bd3a096e1ccd1a79d06fc",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.35.32215-3401cf5553e3409386563bad6335e154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-3401cf5553e3409386563bad6335e154.7z",
+        sha256 = "20dc1a8d758eff7929d9b82062745a7d71a83bb4d04ce9826e666e26fb810d08",
+        toolset = "14.35.32215"
     },
     ["windows-x86-vc14.35.32215-c4c99f05b73841a9a59a36e93c49a336"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-c4c99f05b73841a9a59a36e93c49a336.7z",
-        toolset = "14.35.32215",
-        sha256 = "f98717219d7ed91150c8c59f5aa6ff433283473beb33c9d9e82d6ba8ec611533"
+        sha256 = "f98717219d7ed91150c8c59f5aa6ff433283473beb33c9d9e82d6ba8ec611533",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.35.32215-c62815e47c584fc8af94a48f4e48a86a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-c62815e47c584fc8af94a48f4e48a86a.7z",
+        sha256 = "9efa05bc4adbdbc1b189705e248d4ed2856937b481a4780cf0a1a75cd495b0d1",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.37.32822-f251c1df226c4b19907ef0be4aea182b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.37.32822-f251c1df226c4b19907ef0be4aea182b.7z",
+        sha256 = "e48f6c2950e53c7ad52e2806ac978add6a6fc6389173821fedd58576cffc1181",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.35.32215-82e7b56b93404c70b0b77acf4c1a97c8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-82e7b56b93404c70b0b77acf4c1a97c8.7z",
+        sha256 = "01dbbfbcda8bec2ef6be7106d3f2e6b34c14aa55f374c14cf0e5423d1fe44eb2",
+        toolset = "14.35.32215"
+    },
+    ["windows-x86-vc14.35.32215-a18bb2ae19af475d84fd26df46a2b271"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.35.32215-a18bb2ae19af475d84fd26df46a2b271.7z",
+        sha256 = "dd090faa137853fefa76945713e67d21ef33e9582d6fba9f835c2b34ffb34b39",
+        toolset = "14.35.32215"
+    },
+    ["windows-x86-vc14.37.32822-3401cf5553e3409386563bad6335e154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.37.32822-3401cf5553e3409386563bad6335e154.7z",
+        sha256 = "598eba539b3dde8fecc69e721e15b36345933a53659140e01812ec4fd40ca5de",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-a18bb2ae19af475d84fd26df46a2b271"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.29.30133-a18bb2ae19af475d84fd26df46a2b271.7z",
-        toolset = "14.29.30133",
-        sha256 = "cad8af6a3d273f70be7ccd24879ed02b10e1ce0ed91b2bba7d3e7e2484df8c07"
+        sha256 = "1159dca1878e20da7bb2aaaeaf7c003e4f944e6b3ad703b7429c105b853e1617",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-f251c1df226c4b19907ef0be4aea182b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-f251c1df226c4b19907ef0be4aea182b.7z",
+        sha256 = "389ec7eb6d5c16cc846a428090db40035569517366fc56c6713e35e9bdc2dfef",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-c4c99f05b73841a9a59a36e93c49a336"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x86-vc14.37.32822-c4c99f05b73841a9a59a36e93c49a336.7z",
+        sha256 = "30cd21ca7f3043786307a94e3a812750621173468e642db3c27ddc4b97b470c8",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-82e7b56b93404c70b0b77acf4c1a97c8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-82e7b56b93404c70b0b77acf4c1a97c8.7z",
+        sha256 = "52cccd2372d9545a5fd355e38016a7edd5bbffe14fd22bad608768d2270e54d1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-c62815e47c584fc8af94a48f4e48a86a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.37.32822-c62815e47c584fc8af94a48f4e48a86a.7z",
+        sha256 = "38b3f9ad6bcec07b3b24185cfe720df502ff8fc605005822e1403f3cd6e6f5ca",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.35.32215-f251c1df226c4b19907ef0be4aea182b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.35.32215-f251c1df226c4b19907ef0be4aea182b.7z",
+        sha256 = "33f2b83a28d427fe79d4a88798105131e50aede8c2535a02703cc9a0d1d383ea",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.29.30133-b755fd28eb714eaaab710a59cc38d288"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.29.30133-b755fd28eb714eaaab710a59cc38d288.7z",
+        sha256 = "77a763621d361296e7a791fe39c7b02c8bac55884728faa35deb166eee620d3a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-82e7b56b93404c70b0b77acf4c1a97c8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gmssl-v3.1.0/windows-x64-vc14.37.32822-82e7b56b93404c70b0b77acf4c1a97c8.7z",
+        sha256 = "454e04c0178a86694b5e7440f526a4366ef6fbf69eb176914fe02709b5904a38",
+        toolset = "14.37.32822"
     }
 }
