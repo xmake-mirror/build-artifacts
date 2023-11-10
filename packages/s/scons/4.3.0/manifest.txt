@@ -1,42 +1,62 @@
 {
-    ["windows-x64-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127"] = {
-        sha256 = "f97ceea0141481c76dc6d0b99a83d87c89a186e3a1f5b3595d32adc4c4161334",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127.7z"
-    },
-    ["windows-x86-vc14.29.30133-ad15867bc04d425e84cf7712c828caad"] = {
-        sha256 = "1e03de52c1581d6ca922b7e6caff0d3a009cd16b0825c917b1e35a4cbb4e1a0a",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.29.30133-ad15867bc04d425e84cf7712c828caad.7z"
-    },
-    ["windows-x64-vc14.35.32215-ad15867bc04d425e84cf7712c828caad"] = {
-        sha256 = "1f11bc759ee9b6ce6660f77166c552b1586a72828fdf19ed2d8193c507f7f99c",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.35.32215-ad15867bc04d425e84cf7712c828caad.7z"
-    },
-    ["windows-x86-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127"] = {
-        sha256 = "6de6e0870b3f22da4c179e0e88305ceaaa6a1042f69edb36b037e1486da28dbb",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127.7z"
-    },
-    ["windows-x64-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127"] = {
-        sha256 = "169cafac7ead72f3da01801456df1e7c4855b31a367c5e6876f25eea1b007377",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127.7z"
-    },
     ["windows-x64-vc14.29.30133-ad15867bc04d425e84cf7712c828caad"] = {
-        sha256 = "9abb9bc9779f869af926f951b762fca575562dc857b9b077732b2025cbd012f6",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.29.30133-ad15867bc04d425e84cf7712c828caad.7z"
-    },
-    ["windows-x86-vc14.35.32215-ad15867bc04d425e84cf7712c828caad"] = {
-        sha256 = "4e2fc80fe0675487f8e7c58c0f83ddbe527b90fad4688bc11de25e0bd9289c97",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.35.32215-ad15867bc04d425e84cf7712c828caad.7z"
+        sha256 = "e0a88f9d19b7eada981794e3c0aeaa8f631ee667a8aee75b52c244608882bfcf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.29.30133-ad15867bc04d425e84cf7712c828caad.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127"] = {
         sha256 = "d5e5032722196d52406344ab78bbf5d75eb8b02f982c2ba606307a95a8c77387",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127"] = {
+        sha256 = "169cafac7ead72f3da01801456df1e7c4855b31a367c5e6876f25eea1b007377",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.35.32215-df00e2cb64ff4676841a0fd3a6d3d127.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x86-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127"] = {
+        sha256 = "58177fabc280f66408829a7bccfc380a549e91ffc1950a527e13b84b35b155cd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.35.32215-ad15867bc04d425e84cf7712c828caad"] = {
+        sha256 = "4e2fc80fe0675487f8e7c58c0f83ddbe527b90fad4688bc11de25e0bd9289c97",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.35.32215-ad15867bc04d425e84cf7712c828caad.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.35.32215-ad15867bc04d425e84cf7712c828caad"] = {
+        sha256 = "1f11bc759ee9b6ce6660f77166c552b1586a72828fdf19ed2d8193c507f7f99c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.35.32215-ad15867bc04d425e84cf7712c828caad.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.37.32822-df00e2cb64ff4676841a0fd3a6d3d127"] = {
+        sha256 = "faff219c80d4a7a87ccc1cbafe655e8f2400d6ccda19b810cd2f390f62dfc369",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.37.32822-df00e2cb64ff4676841a0fd3a6d3d127.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-df00e2cb64ff4676841a0fd3a6d3d127"] = {
+        sha256 = "f1c2619650c19591dfc30fed124fa94284a208e9d6777c03c2fded7613319510",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.37.32822-df00e2cb64ff4676841a0fd3a6d3d127.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-ad15867bc04d425e84cf7712c828caad"] = {
+        sha256 = "41f19737cecb02c96ab2c0a2a8a1599297f6043ffa4aefe44c782506732bf47c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.29.30133-ad15867bc04d425e84cf7712c828caad.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127"] = {
+        sha256 = "d726229f7e0b318c24d444575b3ccf8f03c33de4ff29c3a1fb8e1beee8c5b2ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.29.30133-df00e2cb64ff4676841a0fd3a6d3d127.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-ad15867bc04d425e84cf7712c828caad"] = {
+        sha256 = "48a70e743ed70cb0dd0cb4d83b1555282063394480c065fa39a3c4f16552d0de",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x64-vc14.37.32822-ad15867bc04d425e84cf7712c828caad.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-ad15867bc04d425e84cf7712c828caad"] = {
+        sha256 = "38886ee72a3cf7fa5f9fe6b1711dd222f0cb613e383ad27027c7883cad67cec7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/scons-4.3.0/windows-x86-vc14.37.32822-ad15867bc04d425e84cf7712c828caad.7z",
+        toolset = "14.37.32822"
     }
 }
