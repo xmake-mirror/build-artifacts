@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.37.32822-36063fe91b154f67bfef501eb0fae69b"] = {
-        toolset = "14.37.32822",
-        sha256 = "20c1f2879826fc7e697ef4fc9652d636fe1198c3410d858251ba8ce91d62908f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.37.32822-36063fe91b154f67bfef501eb0fae69b.7z"
+    ["windows-x86-vc14.29.30133-08edc848d53c457c8924dac255be47df"] = {
+        sha256 = "2a2e2414aff1c0f606bce8691ae393d93efc13296de43a8380900b5c139b017b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.29.30133-08edc848d53c457c8924dac255be47df.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.37.32822-66d1171c09364812934cd8a9ffad9ac6"] = {
-        toolset = "14.37.32822",
-        sha256 = "be6a85d66e0e9fd4d22f7c1383c1fb74028eb8bda9fd73b8d70042c385e48dbe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.37.32822-66d1171c09364812934cd8a9ffad9ac6.7z"
-    },
-    ["windows-x86-vc14.29.30133-2a3a273b192844fbabe563fb33a220a4"] = {
-        toolset = "14.29.30133",
-        sha256 = "e3c3d88b85350e3983054eb796f3f4a14240b2301acad78a7cc12f423100a9fa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.29.30133-2a3a273b192844fbabe563fb33a220a4.7z"
-    },
-    ["windows-x64-vc14.37.32822-365ceddd8b8b4473ba1213db35e412d6"] = {
-        toolset = "14.37.32822",
-        sha256 = "7ccff36aa90236379a92d6801cee738b7d09d20866c421807f0df42b4ed707cf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.37.32822-365ceddd8b8b4473ba1213db35e412d6.7z"
-    },
-    ["windows-x64-vc14.29.30133-365ceddd8b8b4473ba1213db35e412d6"] = {
-        toolset = "14.29.30133",
-        sha256 = "08483ed3166cd8fc144121012177eea8efa33e69fee5a2271521cbc165eb05b3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.29.30133-365ceddd8b8b4473ba1213db35e412d6.7z"
-    },
-    ["windows-x86-vc14.37.32822-2a3a273b192844fbabe563fb33a220a4"] = {
-        toolset = "14.37.32822",
-        sha256 = "bb6236f6600b603141de1b4a49edddd0ddef4cf63aac910592535d3b83d8c6b1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.37.32822-2a3a273b192844fbabe563fb33a220a4.7z"
+        sha256 = "4b141370bf356d767bf6986682b1d390341d2293d9f2d9a10373ac4093b333ff",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.37.32822-66d1171c09364812934cd8a9ffad9ac6.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc14.29.30133-36063fe91b154f67bfef501eb0fae69b"] = {
-        toolset = "14.29.30133",
-        sha256 = "c46d1aa186a6ddf9258b6202c6cb6023f3e2de5f1d2ea40af1ea216d12638231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.29.30133-36063fe91b154f67bfef501eb0fae69b.7z"
+        sha256 = "4e59aa1d18eeae19ac1647a852c042572ac5fce438a56416e9eb8aa1c45e6882",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.29.30133-36063fe91b154f67bfef501eb0fae69b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-365ceddd8b8b4473ba1213db35e412d6"] = {
+        sha256 = "de2b9324d9a48d5ab43d072d48a45b59a3c2145f862aa68c2ecca40e5bf50ac3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.29.30133-365ceddd8b8b4473ba1213db35e412d6.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-36063fe91b154f67bfef501eb0fae69b"] = {
+        sha256 = "e9b10de86838662b1bb05235189ebe42dfa5ba6ff7a5b2422bbd63380244a2c3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.37.32822-36063fe91b154f67bfef501eb0fae69b.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-2a3a273b192844fbabe563fb33a220a4"] = {
+        sha256 = "c1ad2775703e932b4aa2aaf3030bd66c68e83ebaeb656fc946002318c9bb4619",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.37.32822-2a3a273b192844fbabe563fb33a220a4.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-71cb29cc1fc749f4b73228ce459562c9"] = {
+        sha256 = "b6f1ba4679e5118cf0b3eee96b05573273521148701fa47e9c4b52c6ffce138c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.37.32822-71cb29cc1fc749f4b73228ce459562c9.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-66d1171c09364812934cd8a9ffad9ac6"] = {
-        toolset = "14.29.30133",
-        sha256 = "c583ff4136d00e7fe18642a9ad865454bc073791e41b8f288040d17cfe517a3a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.29.30133-66d1171c09364812934cd8a9ffad9ac6.7z"
+        sha256 = "67f06f03d9c4c8da2621284f5fc558e8439477a1a4dfcb48277d1213b3c09158",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.29.30133-66d1171c09364812934cd8a9ffad9ac6.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-dcc24cd1b28843b89e5cc933d33ae57c"] = {
+        sha256 = "5101dabf04ed403f1e00c2642d902bcfcaae312143ef40df83e3c9ae887f7c7e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.29.30133-dcc24cd1b28843b89e5cc933d33ae57c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-dcc24cd1b28843b89e5cc933d33ae57c"] = {
+        sha256 = "53dbee53d16b34c10baddc2e55d19f9ffd192ec4a48e9d7193748f058b792b31",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.37.32822-dcc24cd1b28843b89e5cc933d33ae57c.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-365ceddd8b8b4473ba1213db35e412d6"] = {
+        sha256 = "a70e81c8192bde37115d2ede48bfc384a8a33fdf11c81d8d108d64d07eb43057",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.37.32822-365ceddd8b8b4473ba1213db35e412d6.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-c08fd65c3a6d4e2c81e4d629c14707d8"] = {
+        sha256 = "dee2f21f739a28b374506e3f6b7026fa4f50d6832ab2685db1d0d56e65b35ad5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.29.30133-c08fd65c3a6d4e2c81e4d629c14707d8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-71cb29cc1fc749f4b73228ce459562c9"] = {
+        sha256 = "8a1dc209d8535704bc450d9d3025f02717f6aa282adb5245f0e9a1ceff8a39da",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.29.30133-71cb29cc1fc749f4b73228ce459562c9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-c08fd65c3a6d4e2c81e4d629c14707d8"] = {
+        sha256 = "5c2e4dcf612d982f515f8995f5366ec58b29fde283508898362f1839c3b250c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x64-vc14.37.32822-c08fd65c3a6d4e2c81e4d629c14707d8.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-08edc848d53c457c8924dac255be47df"] = {
+        sha256 = "fc1bc1b5fb9508b9375da957d7e5fe11f757bb9dd87cd7b3004918c21629b948",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.37.32822-08edc848d53c457c8924dac255be47df.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-2a3a273b192844fbabe563fb33a220a4"] = {
+        sha256 = "919816e38e5edb2c4272708239160f5dfa5cd797f0e22f2a0a0b1c5fc92e45ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libepoxy-1.5.10/windows-x86-vc14.29.30133-2a3a273b192844fbabe563fb33a220a4.7z",
+        toolset = "14.29.30133"
     }
 }
