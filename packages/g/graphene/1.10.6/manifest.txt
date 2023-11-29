@@ -1,13 +1,53 @@
 {
+    ["windows-x86-vc14.29.30133-31a699a283aa40f4aa2763627d2189cc"] = {
+        sha256 = "034f17cbdfa577bb36677d182910fe0f29ffeff5988b0656b7f6f2f42238c487",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.29.30133-31a699a283aa40f4aa2763627d2189cc.7z"
+    },
+    ["windows-x64-vc141-22e461df6d114c70aac6bdd06c40b25c"] = {
+        sha256 = "ffb9707c744db5b764998fdf277b8a8c21f9e085e690d603713f3d50e8ce440e",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-22e461df6d114c70aac6bdd06c40b25c.7z"
+    },
+    ["windows-x64-vc142-d1a5ed47853647039461a8accd5d2107"] = {
+        sha256 = "fa263e010329446b270aff9b2c454b7348214e9ddafd3e72bb6c07eb8fdc5e0f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-d1a5ed47853647039461a8accd5d2107.7z"
+    },
+    ["windows-x64-vc141-607b0acf14f54ceebb7e5c250bf74845"] = {
+        sha256 = "635ec76f59aaeb976af55a856bfda164ab8de4b4a28c5ff67b4f724ea53605e2",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-607b0acf14f54ceebb7e5c250bf74845.7z"
+    },
+    ["windows-x86-vc142-447c7d62c8db4615bde94c5a9ec0bd79"] = {
+        sha256 = "48181ced75f580b4e759e0d4739b3f7d0929d977dffdcd726676ebb516c49c55",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc142-447c7d62c8db4615bde94c5a9ec0bd79.7z"
+    },
+    ["windows-x64-vc14.29.30133-d673458606ff4cb8b238fb42b504b3f7"] = {
+        sha256 = "9aa516b072e4ace6b34f573fd38a49087ac3169aed55209138465f64b6a6ce74",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.29.30133-d673458606ff4cb8b238fb42b504b3f7.7z"
+    },
     ["windows-x86-vc141-ffc7f6b8ff8e478c9a843b707407a190"] = {
         sha256 = "7803aa2e6b7f010dc722d358f510592032ac71cbb3b694f9c6e760e1cafbd860",
         toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc141-ffc7f6b8ff8e478c9a843b707407a190.7z"
     },
-    ["windows-x64-vc142-607b0acf14f54ceebb7e5c250bf74845"] = {
-        sha256 = "de8341bebff3787b30a11036bb78edc76c33789b5441c9f9e0e45c07d3af2998",
+    ["windows-x86-vc141-9ebe69e3b80c4402986a8d2a020986ac"] = {
+        sha256 = "45b20ad0b17669fdef19f61dd644dfef509039264117da27ab9fe42d44809e13",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc141-9ebe69e3b80c4402986a8d2a020986ac.7z"
+    },
+    ["windows-x86-vc14.29.30133-7eb00951901b4c689171a1a9d47ef16e"] = {
+        sha256 = "04ba4f23bec34acef6777a536fbd35bae4c674fa764bcc180b4b4c5ddd83edfb",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-607b0acf14f54ceebb7e5c250bf74845.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.29.30133-7eb00951901b4c689171a1a9d47ef16e.7z"
+    },
+    ["windows-x64-vc142-a6f7973c42434383add8074520426998"] = {
+        sha256 = "f29e28a61d3689cde3d01357d9b2164b7850ffe629691f74aec18aec954ab86e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-a6f7973c42434383add8074520426998.7z"
     },
     ["windows-x86-vc142-9ebe69e3b80c4402986a8d2a020986ac"] = {
         sha256 = "4a718fcc528fcc313ccc8a7ccf35e880bc8b51667040e14844558b672a336412",
@@ -19,64 +59,104 @@
         toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-d1a5ed47853647039461a8accd5d2107.7z"
     },
-    ["windows-x64-vc142-d1a5ed47853647039461a8accd5d2107"] = {
-        sha256 = "fa263e010329446b270aff9b2c454b7348214e9ddafd3e72bb6c07eb8fdc5e0f",
+    ["windows-x64-vc142-22e461df6d114c70aac6bdd06c40b25c"] = {
+        sha256 = "031321cc8b89920c140b55e4ce2a52031d8a26fb9ed5cebe26c30a745f6d9f69",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-d1a5ed47853647039461a8accd5d2107.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-22e461df6d114c70aac6bdd06c40b25c.7z"
     },
-    ["windows-x86-vc141-9ebe69e3b80c4402986a8d2a020986ac"] = {
-        sha256 = "45b20ad0b17669fdef19f61dd644dfef509039264117da27ab9fe42d44809e13",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc141-9ebe69e3b80c4402986a8d2a020986ac.7z"
-    },
-    ["windows-x64-vc141-a6f7973c42434383add8074520426998"] = {
-        sha256 = "f0a3bbf9d13cea29f43ad6fa22753e2e709f45b367a5f9ce227185970821a251",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-a6f7973c42434383add8074520426998.7z"
-    },
-    ["windows-x64-vc142-a6f7973c42434383add8074520426998"] = {
-        sha256 = "f29e28a61d3689cde3d01357d9b2164b7850ffe629691f74aec18aec954ab86e",
+    ["windows-x64-vc142-607b0acf14f54ceebb7e5c250bf74845"] = {
+        sha256 = "de8341bebff3787b30a11036bb78edc76c33789b5441c9f9e0e45c07d3af2998",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-a6f7973c42434383add8074520426998.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-607b0acf14f54ceebb7e5c250bf74845.7z"
+    },
+    ["windows-x86-vc14.29.30133-386c1a0265bc46d580f0cb4acbc7b046"] = {
+        sha256 = "7454f79e07865a7c985cfcdf77ce1fc813a33350cf256efefd60ae9b1bf00170",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.29.30133-386c1a0265bc46d580f0cb4acbc7b046.7z"
+    },
+    ["windows-x86-vc14.37.32822-3045602a74534b74b5b3ba8849d7e678"] = {
+        sha256 = "f5b69dc6096c911596befb5a85a450e1da272adf2f1ffd5fca40b6998be67216",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.37.32822-3045602a74534b74b5b3ba8849d7e678.7z"
     },
     ["windows-x86-vc141-05face35188245a7beb2e55542f5ae5e"] = {
         sha256 = "743ed04823e8ab6dfbc46dc931b60ed22e4a3a8f3a8073f7504945fb6070e44f",
         toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc141-05face35188245a7beb2e55542f5ae5e.7z"
     },
-    ["windows-x64-vc142-22e461df6d114c70aac6bdd06c40b25c"] = {
-        sha256 = "031321cc8b89920c140b55e4ce2a52031d8a26fb9ed5cebe26c30a745f6d9f69",
+    ["windows-x86-vc14.29.30133-3045602a74534b74b5b3ba8849d7e678"] = {
+        sha256 = "a2b75229a31c6ef34f7305bfc3cdd2530ffd1783bb0dac18da56dac98da4dec4",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc142-22e461df6d114c70aac6bdd06c40b25c.7z"
-    },
-    ["windows-x86-vc142-ffc7f6b8ff8e478c9a843b707407a190"] = {
-        sha256 = "15a53fc1512496ae7213e33387c08d8318ccc7b5077a58baca56057e57eb1f6b",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc142-ffc7f6b8ff8e478c9a843b707407a190.7z"
-    },
-    ["windows-x86-vc142-05face35188245a7beb2e55542f5ae5e"] = {
-        sha256 = "a7c2c49e21e539507f4e39ce10c7ce918f8bd92052b6594395da887fba8b093c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc142-05face35188245a7beb2e55542f5ae5e.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.29.30133-3045602a74534b74b5b3ba8849d7e678.7z"
     },
     ["windows-x86-vc141-447c7d62c8db4615bde94c5a9ec0bd79"] = {
         sha256 = "cd11047a046e1fc56b93812bf4cbd3d0ed13b9f0ee56e00876678b85abe3e85f",
         toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc141-447c7d62c8db4615bde94c5a9ec0bd79.7z"
     },
-    ["windows-x86-vc142-447c7d62c8db4615bde94c5a9ec0bd79"] = {
-        sha256 = "48181ced75f580b4e759e0d4739b3f7d0929d977dffdcd726676ebb516c49c55",
+    ["windows-x86-vc14.37.32822-386c1a0265bc46d580f0cb4acbc7b046"] = {
+        sha256 = "2eb88ae33c479ee3feca846f2f602b4496660522f144974dcfc04b28fda6d823",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.37.32822-386c1a0265bc46d580f0cb4acbc7b046.7z"
+    },
+    ["windows-x64-vc14.37.32822-d673458606ff4cb8b238fb42b504b3f7"] = {
+        sha256 = "16995a8c5846c4fb618df00e92a9b4eca08b3805357025657c0134763ca1bd4b",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.37.32822-d673458606ff4cb8b238fb42b504b3f7.7z"
+    },
+    ["windows-x64-vc141-a6f7973c42434383add8074520426998"] = {
+        sha256 = "f0a3bbf9d13cea29f43ad6fa22753e2e709f45b367a5f9ce227185970821a251",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-a6f7973c42434383add8074520426998.7z"
+    },
+    ["windows-x64-vc14.29.30133-6fb6bb1a6dde43a19e5eb16e5545dc84"] = {
+        sha256 = "008320a0d1610146b165991c27ac77cbbf32795575e09908f7f6e517540e80be",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc142-447c7d62c8db4615bde94c5a9ec0bd79.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.29.30133-6fb6bb1a6dde43a19e5eb16e5545dc84.7z"
     },
-    ["windows-x64-vc141-607b0acf14f54ceebb7e5c250bf74845"] = {
-        sha256 = "635ec76f59aaeb976af55a856bfda164ab8de4b4a28c5ff67b4f724ea53605e2",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-607b0acf14f54ceebb7e5c250bf74845.7z"
+    ["windows-x64-vc14.29.30133-8359c17b04ba451faa22b3432ac3626c"] = {
+        sha256 = "46e7bfb01db93c37e05c2e4c629880242e1877414e6cb073b5d0c27258376e21",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.29.30133-8359c17b04ba451faa22b3432ac3626c.7z"
     },
-    ["windows-x64-vc141-22e461df6d114c70aac6bdd06c40b25c"] = {
-        sha256 = "ffb9707c744db5b764998fdf277b8a8c21f9e085e690d603713f3d50e8ce440e",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc141-22e461df6d114c70aac6bdd06c40b25c.7z"
+    ["windows-x86-vc14.37.32822-31a699a283aa40f4aa2763627d2189cc"] = {
+        sha256 = "8eb0ff82f35e1bac23c15935c4a1306248a448cdf1ebf32cd7a8488555658d7a",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.37.32822-31a699a283aa40f4aa2763627d2189cc.7z"
+    },
+    ["windows-x64-vc14.37.32822-8359c17b04ba451faa22b3432ac3626c"] = {
+        sha256 = "44eb21c6d569f701b09a257099696a52552f76309b3ceb87b5826158f026c1e6",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.37.32822-8359c17b04ba451faa22b3432ac3626c.7z"
+    },
+    ["windows-x64-vc14.29.30133-ed06b510ea934da2b0f59b703b720d52"] = {
+        sha256 = "40bb3240f6fbb9a78b994bd9eb4caec28ae473797255b5d08e1983af39aaf775",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.29.30133-ed06b510ea934da2b0f59b703b720d52.7z"
+    },
+    ["windows-x64-vc14.37.32822-6fb6bb1a6dde43a19e5eb16e5545dc84"] = {
+        sha256 = "da23c0fbc2b40d0bf999517e451b4a276a1259d403daea9e2b23e81a01f6ad85",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.37.32822-6fb6bb1a6dde43a19e5eb16e5545dc84.7z"
+    },
+    ["windows-x64-vc14.37.32822-ed06b510ea934da2b0f59b703b720d52"] = {
+        sha256 = "55b463da06af99aa278593eab81c0ee0c8f62acf6396c484a37b286166409395",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x64-vc14.37.32822-ed06b510ea934da2b0f59b703b720d52.7z"
+    },
+    ["windows-x86-vc14.37.32822-7eb00951901b4c689171a1a9d47ef16e"] = {
+        sha256 = "e4d4b24f8774c7080dbea9920ab4d68e8242df3177bace7dddc4183c9f28131d",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc14.37.32822-7eb00951901b4c689171a1a9d47ef16e.7z"
+    },
+    ["windows-x86-vc142-05face35188245a7beb2e55542f5ae5e"] = {
+        sha256 = "a7c2c49e21e539507f4e39ce10c7ce918f8bd92052b6594395da887fba8b093c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc142-05face35188245a7beb2e55542f5ae5e.7z"
+    },
+    ["windows-x86-vc142-ffc7f6b8ff8e478c9a843b707407a190"] = {
+        sha256 = "15a53fc1512496ae7213e33387c08d8318ccc7b5077a58baca56057e57eb1f6b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/graphene-1.10.6/windows-x86-vc142-ffc7f6b8ff8e478c9a843b707407a190.7z"
     }
 }
