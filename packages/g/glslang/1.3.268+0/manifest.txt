@@ -1,82 +1,82 @@
 {
-    ["windows-x86-vc14.37.32822-61ec6b4f5a5a4b0eaf26fc6b78fe780e"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-61ec6b4f5a5a4b0eaf26fc6b78fe780e.7z",
-        sha256 = "67989cfb9b06e23ef103e57f406b5f0cdf698cdb531a74884a9976102e81abfd"
-    },
-    ["windows-x64-vc14.37.32822-fbdf112ed8d1451ba03ad2dfcaef798e"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-fbdf112ed8d1451ba03ad2dfcaef798e.7z",
-        sha256 = "a58e5429b212b0b970de6e89678415feb8c7ee394fc2403c51aaad35801a20bb"
+    ["windows-x86-vc14.29.30133-f70aaaa3dac44c23aa2cb6bd6b1fc3a0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-f70aaaa3dac44c23aa2cb6bd6b1fc3a0.7z",
+        sha256 = "6d490a27162552e3ea9a778213b5e7b50a3f2ea57b57f75244f2a0b53a5096ed",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-1fe8229c33ee4fc882856e630919a16b"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.29.30133-1fe8229c33ee4fc882856e630919a16b.7z",
-        sha256 = "7b3a4fa0e357dad7c5b1cb73b2c8085ea1111817c1572aba1ff62929c34fdfc8"
-    },
-    ["windows-x86-vc14.37.32822-f114a2ea24f9413f9dcc8de225235c6d"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-f114a2ea24f9413f9dcc8de225235c6d.7z",
-        sha256 = "eddced929535297855d34c394d8589aa4e001f0b2bb07529aebd8214a87003db"
-    },
-    ["windows-x86-vc14.29.30133-f114a2ea24f9413f9dcc8de225235c6d"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-f114a2ea24f9413f9dcc8de225235c6d.7z",
-        sha256 = "c9e3d2dda1ab1c6e959cc120c6c4317d2d0dc97ea18a8965fdf14ed2784a2c73"
-    },
-    ["windows-x86-vc14.29.30133-f70aaaa3dac44c23aa2cb6bd6b1fc3a0"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-f70aaaa3dac44c23aa2cb6bd6b1fc3a0.7z",
-        sha256 = "44d98386d4d00f7ee2489549fa7ae33937682dc4ffc4e9b0da187d85dcae21e9"
-    },
-    ["windows-x64-vc14.37.32822-bd702487c7ed40389b26e3cb3cace8a8"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-bd702487c7ed40389b26e3cb3cace8a8.7z",
-        sha256 = "2eb183a7faefb18eb97720cf2a431baf9afa355c5768de7f3e5b75bd85eabf09"
-    },
-    ["windows-x86-vc14.37.32822-66f3b892c91b4c72a1264d7326e27ee1"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-66f3b892c91b4c72a1264d7326e27ee1.7z",
-        sha256 = "a51203f832a6d13dfea24204aaff59ba935a3214392b931642519b7776b520bc"
-    },
-    ["windows-x64-vc14.37.32822-1fe8229c33ee4fc882856e630919a16b"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-1fe8229c33ee4fc882856e630919a16b.7z",
-        sha256 = "5b33ed7865f6693b19d20e97593b1e4a7065d3ecce731ff2042575dc19dcdabe"
-    },
-    ["windows-x64-vc14.29.30133-fbdf112ed8d1451ba03ad2dfcaef798e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.29.30133-fbdf112ed8d1451ba03ad2dfcaef798e.7z",
-        sha256 = "ec4f3d47ddcd56a751f6524bfe462109ba389a624f371940b3c522dbfbb6b7c9"
+        sha256 = "270976b8a89db5ace2a52b57da0688dc66760eac4c7ac3802bfc67da4102991c",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-7872917bdef24e42bbb4bbf0e4de98b9"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.29.30133-7872917bdef24e42bbb4bbf0e4de98b9.7z",
-        sha256 = "31a2baddaf16f64266475dfbad974d7a9403db06152baf59ecac86d46148a0c3"
+        sha256 = "0b4d475c70dae4352f0b2bdcf9526442137fdc1e611c619bc79ba7da4b1cd6fd",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-7872917bdef24e42bbb4bbf0e4de98b9"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-7872917bdef24e42bbb4bbf0e4de98b9.7z",
-        sha256 = "94b6e449fc6699796848975350de6565abeb0ea7f71522d32d8a75d3046c5c42"
+    ["windows-x86-vc14.37.32822-f114a2ea24f9413f9dcc8de225235c6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-f114a2ea24f9413f9dcc8de225235c6d.7z",
+        sha256 = "8b301557bb63bab383384e3cba2ddd18b79686cef32490fdd25c64179abad128",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-66f3b892c91b4c72a1264d7326e27ee1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-66f3b892c91b4c72a1264d7326e27ee1.7z",
+        sha256 = "94d13dbdf74d5d4b8684bca639fbccdfc86c0c8f69a56fbe568e2b54b66acc30",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-f114a2ea24f9413f9dcc8de225235c6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-f114a2ea24f9413f9dcc8de225235c6d.7z",
+        sha256 = "ee30bb779e1fecc347126a4199145907e8bfffcd5c4582e8bebe46bb2217a834",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-66f3b892c91b4c72a1264d7326e27ee1"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-66f3b892c91b4c72a1264d7326e27ee1.7z",
-        sha256 = "8ae282f3abc6b949a3158232ac622a573967938fd40e7322b5699355bc83ae08"
+        sha256 = "f1b55639ca25d11896a5a9ff2676bba508a8672c5f97aa1d0525ef867b34c538",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-61ec6b4f5a5a4b0eaf26fc6b78fe780e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-61ec6b4f5a5a4b0eaf26fc6b78fe780e.7z",
-        sha256 = "ac062a924fab7f3eacc95c6420b13c07b5f513e7ac5b42388e94cf19803122aa"
+    ["windows-x64-vc14.29.30133-fbdf112ed8d1451ba03ad2dfcaef798e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.29.30133-fbdf112ed8d1451ba03ad2dfcaef798e.7z",
+        sha256 = "9c06bf017a4fd56f80d4cdba0d00dae55ccbc012ae581225791f736d335abe90",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-bd702487c7ed40389b26e3cb3cace8a8"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.29.30133-bd702487c7ed40389b26e3cb3cace8a8.7z",
-        sha256 = "5b03f7aac96b3c8d59ce9ef3465e024d3c09abe61f5f40c866af1760a8792140"
+    ["windows-x64-vc14.37.32822-bd702487c7ed40389b26e3cb3cace8a8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-bd702487c7ed40389b26e3cb3cace8a8.7z",
+        sha256 = "040ea365147c35d65f68fea5d90dbe1e6f0fd479dcb08c29882403a875a3d722",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-61ec6b4f5a5a4b0eaf26fc6b78fe780e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-61ec6b4f5a5a4b0eaf26fc6b78fe780e.7z",
+        sha256 = "21620bc0b04c2c15c19acf25ad35658a0e440539d0425b4935ac9d2f0defd2d8",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.37.32822-f70aaaa3dac44c23aa2cb6bd6b1fc3a0"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.37.32822-f70aaaa3dac44c23aa2cb6bd6b1fc3a0.7z",
-        sha256 = "14b4aefd39b967f705b5284e6f04916b6027e93f792b986fbf13f5774209d64d"
+        sha256 = "87c1749073915a7a3fde0a373d04718dd95f1a148eff22688fd07273886aba3c",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-61ec6b4f5a5a4b0eaf26fc6b78fe780e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x86-vc14.29.30133-61ec6b4f5a5a4b0eaf26fc6b78fe780e.7z",
+        sha256 = "46d7b890d7702c951e0e609ce5121f7cd88910774e92f1840df9f75aa904badc",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-1fe8229c33ee4fc882856e630919a16b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-1fe8229c33ee4fc882856e630919a16b.7z",
+        sha256 = "3a3181b8d7742fb71d270e96bf58383dfae6a7fd12a8af889f9f81a38078cf40",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-fbdf112ed8d1451ba03ad2dfcaef798e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-fbdf112ed8d1451ba03ad2dfcaef798e.7z",
+        sha256 = "a408ec027ca3019a7655e91f05ed54c4d7211d00c83652714238b34efcdda7a2",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-bd702487c7ed40389b26e3cb3cace8a8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.29.30133-bd702487c7ed40389b26e3cb3cace8a8.7z",
+        sha256 = "99fed45bc6e6edaff42c524fe74d23adb8dd9631f311875bdea627f7ef5dda8c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-7872917bdef24e42bbb4bbf0e4de98b9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glslang-1.3.268%2B0/windows-x64-vc14.37.32822-7872917bdef24e42bbb4bbf0e4de98b9.7z",
+        sha256 = "e83331650c48df5a863c0cc1fe8db3556a44ecbda98c9565d8700d0fef32a835",
+        toolset = "14.37.32822"
     }
 }
