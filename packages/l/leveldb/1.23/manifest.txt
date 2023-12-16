@@ -14,25 +14,25 @@
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc142-c8a4bc3e67bc4e37a5e604752cc302dc.7z"
     },
-    ["windows-x86-vc14.29.30133-7e9a19df49c04744995f58541020c18b"] = {
-        sha256 = "2b828c01241363fe4b41409901bbe492a98592c1e91f473a76bf8d1de7cd9020",
+    ["windows-x64-vc142-daf627888dd146c5837b07d1a99d51bd"] = {
+        sha256 = "516cb87df9bfb97a0575a9efdd0cb2588f0ed4ec037fe32e8def2294d1f1b8df",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x86-vc14.29.30133-7e9a19df49c04744995f58541020c18b.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc142-daf627888dd146c5837b07d1a99d51bd.7z"
     },
     ["windows-x64-vc14.37.32822-e75a071b4bcf4c7ba6ed1d50ed645b69"] = {
         sha256 = "31da5d26b0aedb634d7b22e471b81566e070b8e7aeb5cd92991af6fd2813f86a",
         toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc14.37.32822-e75a071b4bcf4c7ba6ed1d50ed645b69.7z"
     },
-    ["windows-x64-vc142-daf627888dd146c5837b07d1a99d51bd"] = {
-        sha256 = "516cb87df9bfb97a0575a9efdd0cb2588f0ed4ec037fe32e8def2294d1f1b8df",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc142-daf627888dd146c5837b07d1a99d51bd.7z"
-    },
     ["windows-x64-vc14.29.30133-c8a4bc3e67bc4e37a5e604752cc302dc"] = {
         sha256 = "c2a06bb274ce897490f67d99ae7729284a7d85c80dc91f54655b8201bd4ad00a",
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc14.29.30133-c8a4bc3e67bc4e37a5e604752cc302dc.7z"
+    },
+    ["windows-x86-vc142-7e9a19df49c04744995f58541020c18b"] = {
+        sha256 = "bcfc8301c2aee49d3998b9b4fd0f4aec4734e61b1f36cabcc35e224d7fdac0b3",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x86-vc142-7e9a19df49c04744995f58541020c18b.7z"
     },
     ["windows-x86-vc14.29.30133-4786d20e3fda41c8bc95209dd89c0998"] = {
         sha256 = "9906a1a1a340d05521317b473269d07e9b9ae728253dd360a70dec91aba80634",
@@ -44,10 +44,10 @@
         toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x86-vc143-42148a8173784f4e9b82caea71bf1f75.7z"
     },
-    ["windows-x86-vc142-7e9a19df49c04744995f58541020c18b"] = {
-        sha256 = "bcfc8301c2aee49d3998b9b4fd0f4aec4734e61b1f36cabcc35e224d7fdac0b3",
+    ["windows-x86-vc14.29.30133-7e9a19df49c04744995f58541020c18b"] = {
+        sha256 = "2b828c01241363fe4b41409901bbe492a98592c1e91f473a76bf8d1de7cd9020",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x86-vc142-7e9a19df49c04744995f58541020c18b.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x86-vc14.29.30133-7e9a19df49c04744995f58541020c18b.7z"
     },
     ["windows-x64-vc14.37.32822-bd4e0156f5854fe28ddb7800bcdf5a2d"] = {
         sha256 = "b827719f5d3d7f0d79cd387772aac6d3e7ac12920c516c93bb2947b9601b3031",
@@ -84,10 +84,10 @@
         toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc143-bd4e0156f5854fe28ddb7800bcdf5a2d.7z"
     },
-    ["windows-x64-vc14.29.30133-e75a071b4bcf4c7ba6ed1d50ed645b69"] = {
-        sha256 = "bfd5dc5ed7984e6d7f44c49b8cdacaed6707ff2c8bf5dc6788196d4a95a90a6a",
+    ["windows-x64-vc142-bd4e0156f5854fe28ddb7800bcdf5a2d"] = {
+        sha256 = "dbbd5a3045f7aa69e8818302b6af4380bfa49f10df761e16bab8d10b3af71f5b",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc14.29.30133-e75a071b4bcf4c7ba6ed1d50ed645b69.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc142-bd4e0156f5854fe28ddb7800bcdf5a2d.7z"
     },
     ["windows-x86-vc14.29.30133-22441074b737460c9bd0da05ea4cd8e8"] = {
         sha256 = "545b3a25d6c70afa7a0ad40215e577f4cc1bf4406c41042dc395104a4edabb7e",
@@ -144,10 +144,10 @@
         toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x86-vc14.37.32822-4786d20e3fda41c8bc95209dd89c0998.7z"
     },
-    ["windows-x64-vc142-bd4e0156f5854fe28ddb7800bcdf5a2d"] = {
-        sha256 = "dbbd5a3045f7aa69e8818302b6af4380bfa49f10df761e16bab8d10b3af71f5b",
+    ["windows-x64-vc14.29.30133-e75a071b4bcf4c7ba6ed1d50ed645b69"] = {
+        sha256 = "bfd5dc5ed7984e6d7f44c49b8cdacaed6707ff2c8bf5dc6788196d4a95a90a6a",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc142-bd4e0156f5854fe28ddb7800bcdf5a2d.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leveldb-1.23/windows-x64-vc14.29.30133-e75a071b4bcf4c7ba6ed1d50ed645b69.7z"
     },
     ["windows-x86-vc143-22441074b737460c9bd0da05ea4cd8e8"] = {
         sha256 = "5ffe5feee9e5dacd3ef1cef9fe09bfb42fc13bd05927f9899bbb3117483937ef",
