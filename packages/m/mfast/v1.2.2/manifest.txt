@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc141-cf0a27d2c6004a73944ad7c457af2448"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-cf0a27d2c6004a73944ad7c457af2448.7z",
-        sha256 = "8ce272cb05585ec7cae5de687674dbd54dce443e8db873e022539f7bc7525dae",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-a9be87ced615428a95101970ca43c432"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-a9be87ced615428a95101970ca43c432.7z",
-        sha256 = "58984068f3b0704134d52a1d49e82889ac79811c21f62fdd37a750d6abef5d2b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-ee178156f6404319a49386edf998ebf6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-ee178156f6404319a49386edf998ebf6.7z",
-        sha256 = "e4472157b3a267f5ab99137be445f606df30e5d7fb7489343f12dad35e129bd8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-ef126deaac8c48ba954d04db1e8ade8b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-ef126deaac8c48ba954d04db1e8ade8b.7z",
-        sha256 = "0b4caa67a41a4beffd7c7ffe0a8192c5ded3931c8bcc0f17dd199a12b62230c6",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-9541f90873ec468cb59777bf7f31e58f"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.37.32822-9541f90873ec468cb59777bf7f31e58f.7z",
+        sha256 = "40be6b4cd44986dcd04eb561e6d0557e83f5713628d5f4fb8973856b94c6755c"
     },
     ["windows-x64-vc141-9541f90873ec468cb59777bf7f31e58f"] = {
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-9541f90873ec468cb59777bf7f31e58f.7z",
-        sha256 = "ba2b84e92a0a99ebe4d3dbbd6c881c977bc6c37d47f918dc616a39497260bbf7",
-        toolset = "14.16.27023"
+        sha256 = "ba2b84e92a0a99ebe4d3dbbd6c881c977bc6c37d47f918dc616a39497260bbf7"
     },
-    ["windows-x64-vc142-cf0a27d2c6004a73944ad7c457af2448"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-cf0a27d2c6004a73944ad7c457af2448.7z",
-        sha256 = "c6df599c5ecd2235a9e810ddd3afa9fd10a7a3408d759b86f9c9bc0ae39c761c",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-a9be87ced615428a95101970ca43c432"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.37.32822-a9be87ced615428a95101970ca43c432.7z",
+        sha256 = "b82d3291959bd3ff82aff04a414a85d4c400c81631937697475042ffd8c57b12"
     },
-    ["windows-x64-vc141-ef126deaac8c48ba954d04db1e8ade8b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-ef126deaac8c48ba954d04db1e8ade8b.7z",
-        sha256 = "2281d5e29b807fc970fdafb4846e38c379def1d12b4fbf14627b1faa429c2fca",
-        toolset = "14.16.27023"
+    ["windows-x86-vc14.29.30133-ee178156f6404319a49386edf998ebf6"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.29.30133-ee178156f6404319a49386edf998ebf6.7z",
+        sha256 = "2e2099460b8ce30f1546ede905eb76edbd887f5c74e7861470f566142e4cfd33"
     },
-    ["windows-x86-vc142-2122333cdd6740e2a63c9a4024217da3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-2122333cdd6740e2a63c9a4024217da3.7z",
-        sha256 = "afeb6cb7901a9ba332bc875658b2893a79de0adcca56eab9e4d649e7d627641a",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-448da28700be4aa89cee30637bb3274c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.29.30133-448da28700be4aa89cee30637bb3274c.7z",
+        sha256 = "ab249c6ffb31c188eb2607325acebbbd69093eb4768fdda14cb5256aac1f26e1"
     },
-    ["windows-x64-vc142-9541f90873ec468cb59777bf7f31e58f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-9541f90873ec468cb59777bf7f31e58f.7z",
-        sha256 = "4398328cda628f6b6f7211d74e4f5fecb5d8f10319e87a90e23207696b9e2584",
-        toolset = "14.29.30133"
+    ["windows-x86-vc142-a9be87ced615428a95101970ca43c432"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-a9be87ced615428a95101970ca43c432.7z",
+        sha256 = "58984068f3b0704134d52a1d49e82889ac79811c21f62fdd37a750d6abef5d2b"
     },
     ["windows-x86-vc141-2122333cdd6740e2a63c9a4024217da3"] = {
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc141-2122333cdd6740e2a63c9a4024217da3.7z",
-        sha256 = "be4f7364154e70ec63e8848442a6db3790f8fb79cf80b4e7bca8e9a37f46d031",
-        toolset = "14.16.27023"
+        sha256 = "be4f7364154e70ec63e8848442a6db3790f8fb79cf80b4e7bca8e9a37f46d031"
     },
-    ["windows-x64-vc142-16a25b28fc8a459384c08831f61341b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-16a25b28fc8a459384c08831f61341b3.7z",
-        sha256 = "61e0d4c5eb5dca63823ac4d5adb7a8b55da410c6fe827b45fa1a98062667593a",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-2122333cdd6740e2a63c9a4024217da3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.29.30133-2122333cdd6740e2a63c9a4024217da3.7z",
+        sha256 = "eda7d222f8e6319ae0129e6b57d701d55ef97690f91ebc818ffed1caa610ef46"
     },
-    ["windows-x64-vc141-16a25b28fc8a459384c08831f61341b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-16a25b28fc8a459384c08831f61341b3.7z",
-        sha256 = "1a54ea6820345db89578311cf35ed05cc3da3513656dd5e2a170b576047858df",
-        toolset = "14.16.27023"
+    ["windows-x86-vc14.37.32822-448da28700be4aa89cee30637bb3274c"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.37.32822-448da28700be4aa89cee30637bb3274c.7z",
+        sha256 = "f88aabce50c49985863791864bcaa7b9c024d975248fb615f705c2361858787b"
     },
-    ["windows-x86-vc141-a9be87ced615428a95101970ca43c432"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc141-a9be87ced615428a95101970ca43c432.7z",
-        sha256 = "f39358c2cd4822d20ad652e2dd6833389e9e2a263c25e1099663bfc5fb9c3677",
-        toolset = "14.16.27023"
+    ["windows-x64-vc14.37.32822-cf0a27d2c6004a73944ad7c457af2448"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.37.32822-cf0a27d2c6004a73944ad7c457af2448.7z",
+        sha256 = "c0662434214b7418df648032b6a966739c119862068b1aa3489b14c4f5d90911"
+    },
+    ["windows-x64-vc14.29.30133-16a25b28fc8a459384c08831f61341b3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.29.30133-16a25b28fc8a459384c08831f61341b3.7z",
+        sha256 = "d8c7a77c79f63135b68a04fa00214ca5a28dbb539c5bd94fc595beee704fed43"
     },
     ["windows-x86-vc141-448da28700be4aa89cee30637bb3274c"] = {
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc141-448da28700be4aa89cee30637bb3274c.7z",
-        sha256 = "a6e98e4c4d2b05ae33b8f9ca58dbc382a6adec0e954c5f6ad09567f38e646972",
-        toolset = "14.16.27023"
+        sha256 = "a6e98e4c4d2b05ae33b8f9ca58dbc382a6adec0e954c5f6ad09567f38e646972"
+    },
+    ["windows-x64-vc141-cf0a27d2c6004a73944ad7c457af2448"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-cf0a27d2c6004a73944ad7c457af2448.7z",
+        sha256 = "8ce272cb05585ec7cae5de687674dbd54dce443e8db873e022539f7bc7525dae"
+    },
+    ["windows-x64-vc142-16a25b28fc8a459384c08831f61341b3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-16a25b28fc8a459384c08831f61341b3.7z",
+        sha256 = "61e0d4c5eb5dca63823ac4d5adb7a8b55da410c6fe827b45fa1a98062667593a"
+    },
+    ["windows-x86-vc142-ee178156f6404319a49386edf998ebf6"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-ee178156f6404319a49386edf998ebf6.7z",
+        sha256 = "e4472157b3a267f5ab99137be445f606df30e5d7fb7489343f12dad35e129bd8"
+    },
+    ["windows-x64-vc141-16a25b28fc8a459384c08831f61341b3"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-16a25b28fc8a459384c08831f61341b3.7z",
+        sha256 = "1a54ea6820345db89578311cf35ed05cc3da3513656dd5e2a170b576047858df"
+    },
+    ["windows-x86-vc14.37.32822-ee178156f6404319a49386edf998ebf6"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.37.32822-ee178156f6404319a49386edf998ebf6.7z",
+        sha256 = "228a8b4347ec09e8e2bef7b8389b6aaab6a436ab8595f547534064d157b34da6"
+    },
+    ["windows-x64-vc14.29.30133-ef126deaac8c48ba954d04db1e8ade8b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.29.30133-ef126deaac8c48ba954d04db1e8ade8b.7z",
+        sha256 = "4cd54b2023a8219dca82fadb6c618b91438aa064a11b9d9972bb5536d250561b"
     },
     ["windows-x86-vc142-448da28700be4aa89cee30637bb3274c"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-448da28700be4aa89cee30637bb3274c.7z",
-        sha256 = "90c8c9942ef24adb8695e9e759dacffeeb6e3769d44bf7f069c94a7e598f1413",
-        toolset = "14.29.30133"
+        sha256 = "90c8c9942ef24adb8695e9e759dacffeeb6e3769d44bf7f069c94a7e598f1413"
+    },
+    ["windows-x86-vc14.37.32822-2122333cdd6740e2a63c9a4024217da3"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.37.32822-2122333cdd6740e2a63c9a4024217da3.7z",
+        sha256 = "9ac5bda4a96a72b04179df941c527a38f7ed12e85235ec2ed55098b10580456b"
+    },
+    ["windows-x64-vc141-ef126deaac8c48ba954d04db1e8ade8b"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc141-ef126deaac8c48ba954d04db1e8ade8b.7z",
+        sha256 = "2281d5e29b807fc970fdafb4846e38c379def1d12b4fbf14627b1faa429c2fca"
+    },
+    ["windows-x86-vc141-a9be87ced615428a95101970ca43c432"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc141-a9be87ced615428a95101970ca43c432.7z",
+        sha256 = "f39358c2cd4822d20ad652e2dd6833389e9e2a263c25e1099663bfc5fb9c3677"
+    },
+    ["windows-x86-vc142-2122333cdd6740e2a63c9a4024217da3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc142-2122333cdd6740e2a63c9a4024217da3.7z",
+        sha256 = "afeb6cb7901a9ba332bc875658b2893a79de0adcca56eab9e4d649e7d627641a"
+    },
+    ["windows-x64-vc142-cf0a27d2c6004a73944ad7c457af2448"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-cf0a27d2c6004a73944ad7c457af2448.7z",
+        sha256 = "c6df599c5ecd2235a9e810ddd3afa9fd10a7a3408d759b86f9c9bc0ae39c761c"
+    },
+    ["windows-x64-vc142-9541f90873ec468cb59777bf7f31e58f"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-9541f90873ec468cb59777bf7f31e58f.7z",
+        sha256 = "4398328cda628f6b6f7211d74e4f5fecb5d8f10319e87a90e23207696b9e2584"
+    },
+    ["windows-x64-vc14.29.30133-cf0a27d2c6004a73944ad7c457af2448"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.29.30133-cf0a27d2c6004a73944ad7c457af2448.7z",
+        sha256 = "a10ca828675bfa7f797137a8e580989826568cd6f1c82873e0e5ac1fcc0043e7"
+    },
+    ["windows-x64-vc14.37.32822-ef126deaac8c48ba954d04db1e8ade8b"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.37.32822-ef126deaac8c48ba954d04db1e8ade8b.7z",
+        sha256 = "781c5ea40b4042268807dd0f414b3364611bb56233d4e833dd446074f0f4efea"
+    },
+    ["windows-x64-vc14.29.30133-9541f90873ec468cb59777bf7f31e58f"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.29.30133-9541f90873ec468cb59777bf7f31e58f.7z",
+        sha256 = "50be98ab7521a64d8b00093bf21c39e8e0545b32151f862e3649808b85d367ba"
+    },
+    ["windows-x64-vc14.37.32822-16a25b28fc8a459384c08831f61341b3"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc14.37.32822-16a25b28fc8a459384c08831f61341b3.7z",
+        sha256 = "1bbb9bf30fb62cd8d4577e2e30ee7c0b2875e34b90a1c8a8b6a7950a39cb2877"
+    },
+    ["windows-x86-vc14.29.30133-a9be87ced615428a95101970ca43c432"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc14.29.30133-a9be87ced615428a95101970ca43c432.7z",
+        sha256 = "bbb03d4b4c1c5dfd52beef33d93d53487cf614b46dcf87d3845512ea97a25f79"
+    },
+    ["windows-x64-vc142-ef126deaac8c48ba954d04db1e8ade8b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x64-vc142-ef126deaac8c48ba954d04db1e8ade8b.7z",
+        sha256 = "0b4caa67a41a4beffd7c7ffe0a8192c5ded3931c8bcc0f17dd199a12b62230c6"
     },
     ["windows-x86-vc141-ee178156f6404319a49386edf998ebf6"] = {
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mfast-v1.2.2/windows-x86-vc141-ee178156f6404319a49386edf998ebf6.7z",
-        sha256 = "acfcddbeb6df336eee321bd8b1883552bb03b072703804478a8d26c6aa6aabe3",
-        toolset = "14.16.27023"
+        sha256 = "acfcddbeb6df336eee321bd8b1883552bb03b072703804478a8d26c6aa6aabe3"
     }
 }
