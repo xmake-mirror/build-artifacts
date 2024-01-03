@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-e4dda28365f043a9a2e56fb0ea714741"] = {
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc143-e4dda28365f043a9a2e56fb0ea714741.7z",
-        sha256 = "375be1a14b867351fcc1eb9160d319ea69d5af936eb31fa4cf6008de42a2cadd"
-    },
-    ["windows-x86-vc143-7eb10864e3d04dafb30dc0b47a96008b"] = {
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-7eb10864e3d04dafb30dc0b47a96008b.7z",
-        sha256 = "75c64f1c39870e6279c687059389f8f4f7783d5b786b02da8c79287d8493925f"
-    },
     ["windows-x64-vc142-e4dda28365f043a9a2e56fb0ea714741"] = {
-        toolset = "14.29.30133",
+        sha256 = "bcdb91f025a7f333b427d22879f700b32160072eb94e869d1e1f3a6635a9cabe",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc142-e4dda28365f043a9a2e56fb0ea714741.7z",
-        sha256 = "bcdb91f025a7f333b427d22879f700b32160072eb94e869d1e1f3a6635a9cabe"
-    },
-    ["windows-x64-vc143-3a9b53a33ca3430bb7d824869e5eb460"] = {
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc143-3a9b53a33ca3430bb7d824869e5eb460.7z",
-        sha256 = "8d74165242fc6ce1d267a045df16f769dd48f9fd9e5b92f2b4fc60fad62005fc"
-    },
-    ["windows-x86-vc142-7eb10864e3d04dafb30dc0b47a96008b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc142-7eb10864e3d04dafb30dc0b47a96008b.7z",
-        sha256 = "676b0d33a6820a87a18f25080e03909968b8eb54660931861e995cc872132009"
-    },
-    ["windows-x86-vc143-f115054c27464a6382fad18cc8afdc24"] = {
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-f115054c27464a6382fad18cc8afdc24.7z",
-        sha256 = "a35bdd9f80dacfb12bb7f6aefa5fc4d2008bea3d009908586f90150737a88cda"
-    },
-    ["windows-x64-vc142-3a9b53a33ca3430bb7d824869e5eb460"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc142-3a9b53a33ca3430bb7d824869e5eb460.7z",
-        sha256 = "fbc2ad48926fe64600b2b34c702c461fe512184584fd5437584366dcc9724881"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc143-b2ecf3d2030248edbcda852a057dbf90"] = {
-        toolset = "14.30.30705",
+        sha256 = "72515424c6f24200bd5adbae7da6cdd915c1371a20f84f3b648a6c68d944b47f",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc143-b2ecf3d2030248edbcda852a057dbf90.7z",
-        sha256 = "72515424c6f24200bd5adbae7da6cdd915c1371a20f84f3b648a6c68d944b47f"
+        toolset = "14.30.30705"
+    },
+    ["windows-x64-vc14.29.30133-3a9b53a33ca3430bb7d824869e5eb460"] = {
+        sha256 = "44247b6020a36d14a961cf5fa78f3e7087d104a7bce12584a38ce410e93e3329",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.29.30133-3a9b53a33ca3430bb7d824869e5eb460.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-3a9b53a33ca3430bb7d824869e5eb460"] = {
+        sha256 = "e120d4aaeb59cca698b9093d8a5345837ee0de9c1af015853983bca13eb1a430",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.37.32822-3a9b53a33ca3430bb7d824869e5eb460.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc142-3a9b53a33ca3430bb7d824869e5eb460"] = {
+        sha256 = "fbc2ad48926fe64600b2b34c702c461fe512184584fd5437584366dcc9724881",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc142-3a9b53a33ca3430bb7d824869e5eb460.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-f115054c27464a6382fad18cc8afdc24"] = {
+        sha256 = "7e384186a20f188bacc6f3bc5753133d0aa3759bb67843a900385f003ef65af6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.37.32822-f115054c27464a6382fad18cc8afdc24.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc143-3aa88957a0034901b11c6f00950f91af"] = {
-        toolset = "14.30.30705",
+        sha256 = "87ff3a6f0945d7743844b512abf554e6522bb8492089deccbe40b3d450255f59",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-3aa88957a0034901b11c6f00950f91af.7z",
-        sha256 = "87ff3a6f0945d7743844b512abf554e6522bb8492089deccbe40b3d450255f59"
-    },
-    ["windows-x64-vc142-b2ecf3d2030248edbcda852a057dbf90"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc142-b2ecf3d2030248edbcda852a057dbf90.7z",
-        sha256 = "48df643fbb887be1f7de8df71c1bc7b2f28bc3cfa6a2a45c70f18afb43d9992c"
-    },
-    ["windows-x86-vc142-f115054c27464a6382fad18cc8afdc24"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc142-f115054c27464a6382fad18cc8afdc24.7z",
-        sha256 = "302c90257f8cfe86ccbd40c91bb4da7430c294f9bd8ff8f01a272e56cf771ea4"
+        toolset = "14.30.30705"
     },
     ["windows-x86-vc142-3aa88957a0034901b11c6f00950f91af"] = {
-        toolset = "14.29.30133",
+        sha256 = "a3cb89447deba7bc9630b80290e1b07d4893c131dda7505385a566eaf9f2ac69",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc142-3aa88957a0034901b11c6f00950f91af.7z",
-        sha256 = "a3cb89447deba7bc9630b80290e1b07d4893c131dda7505385a566eaf9f2ac69"
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-f115054c27464a6382fad18cc8afdc24"] = {
+        sha256 = "302c90257f8cfe86ccbd40c91bb4da7430c294f9bd8ff8f01a272e56cf771ea4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc142-f115054c27464a6382fad18cc8afdc24.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-e16025bebbd244a9b223d806e8d95c11"] = {
-        toolset = "14.29.30133",
+        sha256 = "35b3e08710f7ad08600dd62559b1f14463ba2bc996f20e7b7d84bc3b2cf51094",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc142-e16025bebbd244a9b223d806e8d95c11.7z",
-        sha256 = "35b3e08710f7ad08600dd62559b1f14463ba2bc996f20e7b7d84bc3b2cf51094"
-    },
-    ["windows-x86-vc143-e16025bebbd244a9b223d806e8d95c11"] = {
-        toolset = "14.30.30705",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-e16025bebbd244a9b223d806e8d95c11.7z",
-        sha256 = "5e494905a07f758c3c45f02f3b85dc12db17ef3fffbb974cd44403238e1461c8"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc143-2654ca2ae1f54464bb80725a9fcd4789"] = {
-        toolset = "14.30.30705",
+        sha256 = "72d4967c809a2c1ed95dee6f18d4bc916d3737da71c099bec2d3b3bd90a908ca",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc143-2654ca2ae1f54464bb80725a9fcd4789.7z",
-        sha256 = "72d4967c809a2c1ed95dee6f18d4bc916d3737da71c099bec2d3b3bd90a908ca"
+        toolset = "14.30.30705"
+    },
+    ["windows-x64-vc14.29.30133-e4dda28365f043a9a2e56fb0ea714741"] = {
+        sha256 = "faa27e236425ed123af8db9f2b3c3e6fa702dbd6992e03d4799a659c6bb6f32d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.29.30133-e4dda28365f043a9a2e56fb0ea714741.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-b2ecf3d2030248edbcda852a057dbf90"] = {
+        sha256 = "48df643fbb887be1f7de8df71c1bc7b2f28bc3cfa6a2a45c70f18afb43d9992c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc142-b2ecf3d2030248edbcda852a057dbf90.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-7eb10864e3d04dafb30dc0b47a96008b"] = {
+        sha256 = "75c64f1c39870e6279c687059389f8f4f7783d5b786b02da8c79287d8493925f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-7eb10864e3d04dafb30dc0b47a96008b.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x86-vc143-e16025bebbd244a9b223d806e8d95c11"] = {
+        sha256 = "5e494905a07f758c3c45f02f3b85dc12db17ef3fffbb974cd44403238e1461c8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-e16025bebbd244a9b223d806e8d95c11.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x86-vc142-7eb10864e3d04dafb30dc0b47a96008b"] = {
+        sha256 = "676b0d33a6820a87a18f25080e03909968b8eb54660931861e995cc872132009",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc142-7eb10864e3d04dafb30dc0b47a96008b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-7eb10864e3d04dafb30dc0b47a96008b"] = {
+        sha256 = "b7b4c10bd7115a533a16c6885ccd9262f3077fe746869c52adf0f76562f35da1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.29.30133-7eb10864e3d04dafb30dc0b47a96008b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-f115054c27464a6382fad18cc8afdc24"] = {
+        sha256 = "749d2d1245626c093b974cf4e8d1a92d9fe6ce4ef63d7a2c860114e07085a012",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.29.30133-f115054c27464a6382fad18cc8afdc24.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-f115054c27464a6382fad18cc8afdc24"] = {
+        sha256 = "a35bdd9f80dacfb12bb7f6aefa5fc4d2008bea3d009908586f90150737a88cda",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc143-f115054c27464a6382fad18cc8afdc24.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x64-vc14.37.32822-2654ca2ae1f54464bb80725a9fcd4789"] = {
+        sha256 = "b8b619f1113ed14925aca082c48cf1b462d392c659b991c7c3a16f78d5faa2f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.37.32822-2654ca2ae1f54464bb80725a9fcd4789.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc143-3a9b53a33ca3430bb7d824869e5eb460"] = {
+        sha256 = "8d74165242fc6ce1d267a045df16f769dd48f9fd9e5b92f2b4fc60fad62005fc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc143-3a9b53a33ca3430bb7d824869e5eb460.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x64-vc14.37.32822-e4dda28365f043a9a2e56fb0ea714741"] = {
+        sha256 = "654c813f4001a5a48b542865394f268d1880e870fd8a8a441c16f9eb2decf107",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.37.32822-e4dda28365f043a9a2e56fb0ea714741.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-7eb10864e3d04dafb30dc0b47a96008b"] = {
+        sha256 = "963dcc7141017d0c17a854ebac5973e247e41e0e67c32b131dd5caa3c3c3b288",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.37.32822-7eb10864e3d04dafb30dc0b47a96008b.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-b2ecf3d2030248edbcda852a057dbf90"] = {
+        sha256 = "1a2e43e8e3f95f92077da8419e5236c1eb2c06e5269a01cd58f28222f11ee258",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.29.30133-b2ecf3d2030248edbcda852a057dbf90.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-e4dda28365f043a9a2e56fb0ea714741"] = {
+        sha256 = "375be1a14b867351fcc1eb9160d319ea69d5af936eb31fa4cf6008de42a2cadd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc143-e4dda28365f043a9a2e56fb0ea714741.7z",
+        toolset = "14.30.30705"
+    },
+    ["windows-x64-vc14.37.32822-b2ecf3d2030248edbcda852a057dbf90"] = {
+        sha256 = "a7bb907623466484f40e884007c71981396f4c8e2576c4e4ca215159bd869336",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.37.32822-b2ecf3d2030248edbcda852a057dbf90.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-3aa88957a0034901b11c6f00950f91af"] = {
+        sha256 = "ebe7b4b737db6cb2ca67f3cec043e08e562922bc33bb63b26d915f66d47c7407",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.29.30133-3aa88957a0034901b11c6f00950f91af.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-3aa88957a0034901b11c6f00950f91af"] = {
+        sha256 = "1c871d9ba4cffae0864c77d29ae9a70a9b77009f3efccd4e727124af48146836",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.37.32822-3aa88957a0034901b11c6f00950f91af.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-e16025bebbd244a9b223d806e8d95c11"] = {
+        sha256 = "d6dfa206a810cd48a013fac3eeac0c4e744fb793b41d4a626fde8bc6a6a7c4e2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.29.30133-e16025bebbd244a9b223d806e8d95c11.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-e16025bebbd244a9b223d806e8d95c11"] = {
+        sha256 = "0176c1c410e4f0fac9083f904b21673dba3d83dd8b6fd99667f646c9c3b4d100",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x86-vc14.37.32822-e16025bebbd244a9b223d806e8d95c11.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc142-2654ca2ae1f54464bb80725a9fcd4789"] = {
-        toolset = "14.29.30133",
+        sha256 = "c29efed96f83adeaf448607d57d73260633dd992dfc9d773cb9c93e5b9a0e99e",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc142-2654ca2ae1f54464bb80725a9fcd4789.7z",
-        sha256 = "c29efed96f83adeaf448607d57d73260633dd992dfc9d773cb9c93e5b9a0e99e"
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-2654ca2ae1f54464bb80725a9fcd4789"] = {
+        sha256 = "39fb399c5eda574bd4e2b124cb15a39306daf4235f58986a98935e729df6cec8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fmtlog-v2.1.2/windows-x64-vc14.29.30133-2654ca2ae1f54464bb80725a9fcd4789.7z",
+        toolset = "14.29.30133"
     }
 }
