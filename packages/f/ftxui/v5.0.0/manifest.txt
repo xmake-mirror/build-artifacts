@@ -1,27 +1,27 @@
 {
-    ["windows-x64-vc142-ee6df758d848471bbf2d519bcfc60a08"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc142-ee6df758d848471bbf2d519bcfc60a08.7z",
-        sha256 = "cd4f3949fd9fb65ed696773b0ac92fe9e4762b6f22401bde03c0b842e2aa597c",
+    ["windows-x64-vc14.37.32822-5ad432891c11445a9cb1a06bd2a1d9a7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc14.37.32822-5ad432891c11445a9cb1a06bd2a1d9a7.7z",
+        sha256 = "46946f3570c4a1d9598855341775e1d3a11e32f108fd18c94167c31341461dda",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-1366223d76124b82a4aa414f5a9923b4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.29.30133-1366223d76124b82a4aa414f5a9923b4.7z",
+        sha256 = "fdc08baeeac8768853094a3599ee894af66493f13e793e5dfd361656bcfc3939",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-5ad432891c11445a9cb1a06bd2a1d9a7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc14.29.30133-5ad432891c11445a9cb1a06bd2a1d9a7.7z",
-        sha256 = "dc42b2c635cd22b0e4072b1e5068ab019bd72ea971184e74159472e2460faac3",
+        sha256 = "1069b9be749a56098122561dfaf02bd01d9e78744861553d0ab69c99fe802547",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.37.32822-ee6df758d848471bbf2d519bcfc60a08"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc14.37.32822-ee6df758d848471bbf2d519bcfc60a08.7z",
-        sha256 = "788bc7e674fdcac50919fb22fef83a58cefccabb82708a7139a89d36998afe0a",
+        sha256 = "f6757c1a16ec77ace510bc2365df929c9b1715420d39b2833649dc2112028dfb",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.29.30133-ca5f6c49899e4b0ebe755bcddf8ca643"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.29.30133-ca5f6c49899e4b0ebe755bcddf8ca643.7z",
-        sha256 = "6bf51ad330162181eb19c949d2ed399efa8a4dd6e7d59045bb2f2909fd27b521",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-1366223d76124b82a4aa414f5a9923b4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.29.30133-1366223d76124b82a4aa414f5a9923b4.7z",
-        sha256 = "3eedfbdf324ededd8ba28ce3604d1a52ea10cfc8f9fd70aade537b8c0512e74d",
+    ["windows-x64-vc142-ee6df758d848471bbf2d519bcfc60a08"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc142-ee6df758d848471bbf2d519bcfc60a08.7z",
+        sha256 = "cd4f3949fd9fb65ed696773b0ac92fe9e4762b6f22401bde03c0b842e2aa597c",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc142-5ad432891c11445a9cb1a06bd2a1d9a7"] = {
@@ -29,10 +29,25 @@
         sha256 = "4444a958d19efbbe466fe3de95ac41d4014b1d84818306c5ba6c00f076a737f6",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-5ad432891c11445a9cb1a06bd2a1d9a7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc14.37.32822-5ad432891c11445a9cb1a06bd2a1d9a7.7z",
-        sha256 = "72cbf2b699834d69463660e9d9b9f3c8317f12f9a5aa6bd9d7c5642ab08347ea",
+    ["windows-x86-vc14.37.32822-1366223d76124b82a4aa414f5a9923b4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.37.32822-1366223d76124b82a4aa414f5a9923b4.7z",
+        sha256 = "9b3efb1ba03bb0bab9a6aa8c7ea91b36802a991051923d229abf7e4bfb41e13c",
         toolset = "14.37.32822"
+    },
+    ["windows-x86-vc142-1366223d76124b82a4aa414f5a9923b4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc142-1366223d76124b82a4aa414f5a9923b4.7z",
+        sha256 = "1d35726aeaf0b643f17c7d19548a1bd4f0d2561d5b4a4b81efafc0a9709c1d1f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-ee6df758d848471bbf2d519bcfc60a08"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc14.29.30133-ee6df758d848471bbf2d519bcfc60a08.7z",
+        sha256 = "775d03a8657bc40296fd18cad4b9aa97c905261b0da87039bde5ea6a98a5ee01",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-ca5f6c49899e4b0ebe755bcddf8ca643"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.29.30133-ca5f6c49899e4b0ebe755bcddf8ca643.7z",
+        sha256 = "86bc988b3bf558e3afd2026ce26d768bffd97762a464aea5025e3ace3aebad51",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-ca5f6c49899e4b0ebe755bcddf8ca643"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc142-ca5f6c49899e4b0ebe755bcddf8ca643.7z",
@@ -41,22 +56,7 @@
     },
     ["windows-x86-vc14.37.32822-ca5f6c49899e4b0ebe755bcddf8ca643"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.37.32822-ca5f6c49899e4b0ebe755bcddf8ca643.7z",
-        sha256 = "aa56493c80c50b8ce34b5d9cc64e7e98a2ef636543e21f7f73e04078f5c01bb5",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-ee6df758d848471bbf2d519bcfc60a08"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x64-vc14.29.30133-ee6df758d848471bbf2d519bcfc60a08.7z",
-        sha256 = "da5f256659164c5497b125570969b66f0af3e4946e4eb22042419b9b85e1366f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-1366223d76124b82a4aa414f5a9923b4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc142-1366223d76124b82a4aa414f5a9923b4.7z",
-        sha256 = "1d35726aeaf0b643f17c7d19548a1bd4f0d2561d5b4a4b81efafc0a9709c1d1f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-1366223d76124b82a4aa414f5a9923b4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ftxui-v5.0.0/windows-x86-vc14.37.32822-1366223d76124b82a4aa414f5a9923b4.7z",
-        sha256 = "e5b8aca645916024de3b86ea13a31197cd9ac6eea2f2be6d44f5c158a10e51ca",
+        sha256 = "d4d4da9306872a11e961a04df59861a187dc56733cb611c59f098a94257d4bf7",
         toolset = "14.37.32822"
     }
 }
