@@ -1,122 +1,162 @@
 {
-    ["windows-x64-vc143-44780e4f99d843248993702797a45025"] = {
-        sha256 = "29f14929924d082c23f43718f456157c01545b689c5660e6be177491772e1715",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-44780e4f99d843248993702797a45025.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc142-9c2a94bba050411b86205b4ba4af2c39"] = {
-        sha256 = "7ca4fc64e7ca9d9fd22e402b24fe07cb283358586729f4e531eb534b69281e8a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-9c2a94bba050411b86205b4ba4af2c39.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-9c2a94bba050411b86205b4ba4af2c39"] = {
-        sha256 = "29096de8fd74dc321877a6830439642eee82478cf59ee6e52e2a9baf239f55dd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-9c2a94bba050411b86205b4ba4af2c39.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc142-41dba58fb736467a808fc0a6d9d6bc8b"] = {
-        sha256 = "53ed3be035242f0f7aeb1b292e2b6f18c53d93e28429883988ce5d82d8a59459",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-41dba58fb736467a808fc0a6d9d6bc8b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-1e7b035abc834fb4b299d997a7199613"] = {
-        sha256 = "9e3fbcf8bda8e225e9546bd18711be684d322c2ffb0763289403d319dc06b0fa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-1e7b035abc834fb4b299d997a7199613.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-159adbeb087d4fe49f40c5b179be354f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-159adbeb087d4fe49f40c5b179be354f.7z",
+        toolset = "14.29.30133",
+        sha256 = "855bf1db04ed704c89e3dbacb7434ee669c3cbe609ef521efc3f00ba9926a566"
     },
     ["windows-x86-vc142-159adbeb087d4fe49f40c5b179be354f"] = {
-        sha256 = "5cf4e3ac1b36d1cb9d113494c422ec272f5223b84a5b1e32b1003f43cf236cb8",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-159adbeb087d4fe49f40c5b179be354f.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "5cf4e3ac1b36d1cb9d113494c422ec272f5223b84a5b1e32b1003f43cf236cb8"
     },
-    ["windows-x64-vc14.29.30133-ba64d11ffac645e58b819b3fe348d000"] = {
-        sha256 = "8f80eadd26555f0f55352accae95d643df1e55d25a4b31a6250f1d1c1d07b0bf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.29.30133-ba64d11ffac645e58b819b3fe348d000.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-44780e4f99d843248993702797a45025"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.37.32822-44780e4f99d843248993702797a45025.7z",
+        toolset = "14.37.32822",
+        sha256 = "31ac1612a2b56a543445fd943548750f0a1c37d5387fefd2e5ce2224ea460c93"
     },
-    ["windows-x86-vc143-159adbeb087d4fe49f40c5b179be354f"] = {
-        sha256 = "bdaa981956efbf78d6f669839bc965b2dbee5935404d86b82c9dc91686d4507b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-159adbeb087d4fe49f40c5b179be354f.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc14.29.30133-41dba58fb736467a808fc0a6d9d6bc8b"] = {
-        sha256 = "e53ac39bd966f4d6fabdb2459daf9572ca5c12a51952ccf334bd79e7129bea91",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-41dba58fb736467a808fc0a6d9d6bc8b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-9c2a94bba050411b86205b4ba4af2c39"] = {
-        sha256 = "c08112ef3cf3c6c3feccfdcd8acd0db9ffcb3022d1118307ee9c1a2687564a18",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.29.30133-9c2a94bba050411b86205b4ba4af2c39.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-a46ff35b81e34ec1bb776bac19a62fe2"] = {
-        sha256 = "94b07ac2fa3cfb7dfe6edee24e6b929baebe277b39c0b6b6469cc9fb24955e49",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-a46ff35b81e34ec1bb776bac19a62fe2.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-ba64d11ffac645e58b819b3fe348d000"] = {
-        sha256 = "8027dee845de4e629207d5008c013e8ff178d2c91d14a4439049852f6f28c4ca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-ba64d11ffac645e58b819b3fe348d000.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-81063cd0737249e9bc9d80d7e14eee17"] = {
-        sha256 = "d9ad0ec678df4e141635993edca17d82f68c3f97774e793832c1819431239aac",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-81063cd0737249e9bc9d80d7e14eee17.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-159adbeb087d4fe49f40c5b179be354f"] = {
-        sha256 = "6fd8cfe58850e44adaf11bd9ab4dd2ea03a3f16a79a3f53c08ae29b33ee21551",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-159adbeb087d4fe49f40c5b179be354f.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc143-9c2a94bba050411b86205b4ba4af2c39"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-9c2a94bba050411b86205b4ba4af2c39.7z",
+        toolset = "14.32.31326",
+        sha256 = "29096de8fd74dc321877a6830439642eee82478cf59ee6e52e2a9baf239f55dd"
     },
     ["windows-x86-vc143-41dba58fb736467a808fc0a6d9d6bc8b"] = {
-        sha256 = "c86de16472d2f00400a3b7c86ea4283c7f7cfa024c7ac740d26094fbf888a71d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-41dba58fb736467a808fc0a6d9d6bc8b.7z",
-        toolset = "14.32.31326"
+        toolset = "14.32.31326",
+        sha256 = "c86de16472d2f00400a3b7c86ea4283c7f7cfa024c7ac740d26094fbf888a71d"
     },
-    ["windows-x86-vc143-a46ff35b81e34ec1bb776bac19a62fe2"] = {
-        sha256 = "e98cf08a044baf9088542786dba05b76fd7be8a5761da7cd2317042ce574042f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-a46ff35b81e34ec1bb776bac19a62fe2.7z",
-        toolset = "14.32.31326"
+    ["windows-x86-vc14.29.30133-1e7b035abc834fb4b299d997a7199613"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-1e7b035abc834fb4b299d997a7199613.7z",
+        toolset = "14.29.30133",
+        sha256 = "cb8799d9f840d2b8c3702bf57d54f54030af7ccb2bc8aa75b6f5956afe1f3e1d"
     },
-    ["windows-x86-vc142-1e7b035abc834fb4b299d997a7199613"] = {
-        sha256 = "6e14d5d4aa59f32a5debe7adb94425bb221b6c2f36e2e78042f63c617246e445",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-1e7b035abc834fb4b299d997a7199613.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-ba64d11ffac645e58b819b3fe348d000"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.37.32822-ba64d11ffac645e58b819b3fe348d000.7z",
+        toolset = "14.37.32822",
+        sha256 = "d8c4239b680dca7df690564c4697a8a2a13ca31b9b8d8622470120e9138b6502"
     },
-    ["windows-x86-vc143-1e7b035abc834fb4b299d997a7199613"] = {
-        sha256 = "26883af0f7f7532763f41926f71fdf11d8c36486921d698d6e51a9a6e0a59ada",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-1e7b035abc834fb4b299d997a7199613.7z",
-        toolset = "14.32.31326"
+    ["windows-x64-vc14.29.30133-ba64d11ffac645e58b819b3fe348d000"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.29.30133-ba64d11ffac645e58b819b3fe348d000.7z",
+        toolset = "14.29.30133",
+        sha256 = "acd0cd581a89fd1d275815cb9719fa7166f2e403e6a31a7ec0f9ceeee0f7e8a2"
+    },
+    ["windows-x86-vc142-a46ff35b81e34ec1bb776bac19a62fe2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-a46ff35b81e34ec1bb776bac19a62fe2.7z",
+        toolset = "14.29.30133",
+        sha256 = "94b07ac2fa3cfb7dfe6edee24e6b929baebe277b39c0b6b6469cc9fb24955e49"
     },
     ["windows-x64-vc14.29.30133-81063cd0737249e9bc9d80d7e14eee17"] = {
-        sha256 = "4c97488c6eed288033b25dabeeb3256dc34184759152bdb11e07fc015f8a2d83",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.29.30133-81063cd0737249e9bc9d80d7e14eee17.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "2d015936a5b8c4081a219b376bb819098d1ba16e26c77abe0eb0fd791ea9b69a"
+    },
+    ["windows-x86-vc14.37.32822-41dba58fb736467a808fc0a6d9d6bc8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.37.32822-41dba58fb736467a808fc0a6d9d6bc8b.7z",
+        toolset = "14.37.32822",
+        sha256 = "0d1e9c2e9b96591c88d6cdf687df21049b5d53e77362e3dbc8199a346295440c"
+    },
+    ["windows-x86-vc143-1e7b035abc834fb4b299d997a7199613"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-1e7b035abc834fb4b299d997a7199613.7z",
+        toolset = "14.32.31326",
+        sha256 = "26883af0f7f7532763f41926f71fdf11d8c36486921d698d6e51a9a6e0a59ada"
     },
     ["windows-x64-vc14.29.30133-44780e4f99d843248993702797a45025"] = {
-        sha256 = "b31313aed73e6ab25ebf2b8052ca4a531e5f96fd7732da4b603ce785aec691b1",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.29.30133-44780e4f99d843248993702797a45025.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "a56bdba138ec3f35374a30a1161305ae6252ae4c6e491d5ac2d93a00133dcc19"
     },
-    ["windows-x64-vc142-44780e4f99d843248993702797a45025"] = {
-        sha256 = "49896afe9166c7924237948c134beb4bb8051910fafdc1a4d8a337dadc8571e1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-44780e4f99d843248993702797a45025.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-81063cd0737249e9bc9d80d7e14eee17"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.37.32822-81063cd0737249e9bc9d80d7e14eee17.7z",
+        toolset = "14.37.32822",
+        sha256 = "a89cd9d712f184ddd032f7539e2ab049037aaa6d77744755c9c79e64d6687502"
     },
-    ["windows-x86-vc14.29.30133-a46ff35b81e34ec1bb776bac19a62fe2"] = {
-        sha256 = "5c6dde7e101ec5631f3b6a3d12dc8fa2812e987bc20f92ba808a8cfb96657373",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-a46ff35b81e34ec1bb776bac19a62fe2.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc142-9c2a94bba050411b86205b4ba4af2c39"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-9c2a94bba050411b86205b4ba4af2c39.7z",
+        toolset = "14.29.30133",
+        sha256 = "7ca4fc64e7ca9d9fd22e402b24fe07cb283358586729f4e531eb534b69281e8a"
     },
-    ["windows-x64-vc143-ba64d11ffac645e58b819b3fe348d000"] = {
-        sha256 = "bfc95e2aca139068b582ee62c12590ed2928c2b2e9b064a15b55a215d980473c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-ba64d11ffac645e58b819b3fe348d000.7z",
-        toolset = "14.32.31326"
+    ["windows-x86-vc142-41dba58fb736467a808fc0a6d9d6bc8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-41dba58fb736467a808fc0a6d9d6bc8b.7z",
+        toolset = "14.29.30133",
+        sha256 = "53ed3be035242f0f7aeb1b292e2b6f18c53d93e28429883988ce5d82d8a59459"
     },
     ["windows-x64-vc143-81063cd0737249e9bc9d80d7e14eee17"] = {
-        sha256 = "0d48180cae2fc222eeee98758d68319d4fef746005823dc05a52bf52d6da5d69",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-81063cd0737249e9bc9d80d7e14eee17.7z",
-        toolset = "14.32.31326"
+        toolset = "14.32.31326",
+        sha256 = "0d48180cae2fc222eeee98758d68319d4fef746005823dc05a52bf52d6da5d69"
+    },
+    ["windows-x86-vc143-a46ff35b81e34ec1bb776bac19a62fe2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-a46ff35b81e34ec1bb776bac19a62fe2.7z",
+        toolset = "14.32.31326",
+        sha256 = "e98cf08a044baf9088542786dba05b76fd7be8a5761da7cd2317042ce574042f"
+    },
+    ["windows-x64-vc143-44780e4f99d843248993702797a45025"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-44780e4f99d843248993702797a45025.7z",
+        toolset = "14.32.31326",
+        sha256 = "29f14929924d082c23f43718f456157c01545b689c5660e6be177491772e1715"
+    },
+    ["windows-x64-vc142-ba64d11ffac645e58b819b3fe348d000"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-ba64d11ffac645e58b819b3fe348d000.7z",
+        toolset = "14.29.30133",
+        sha256 = "8027dee845de4e629207d5008c013e8ff178d2c91d14a4439049852f6f28c4ca"
+    },
+    ["windows-x86-vc143-159adbeb087d4fe49f40c5b179be354f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc143-159adbeb087d4fe49f40c5b179be354f.7z",
+        toolset = "14.32.31326",
+        sha256 = "bdaa981956efbf78d6f669839bc965b2dbee5935404d86b82c9dc91686d4507b"
+    },
+    ["windows-x64-vc14.37.32822-9c2a94bba050411b86205b4ba4af2c39"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.37.32822-9c2a94bba050411b86205b4ba4af2c39.7z",
+        toolset = "14.37.32822",
+        sha256 = "e88a13541680d25f53835a2f7fb0e18b8718552869494eec8f1d9490973f186d"
+    },
+    ["windows-x86-vc14.37.32822-1e7b035abc834fb4b299d997a7199613"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.37.32822-1e7b035abc834fb4b299d997a7199613.7z",
+        toolset = "14.37.32822",
+        sha256 = "51d30ae55f15f580624e84aa12862955030eab1bfed2760efa1c0517d4448197"
+    },
+    ["windows-x64-vc143-ba64d11ffac645e58b819b3fe348d000"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc143-ba64d11ffac645e58b819b3fe348d000.7z",
+        toolset = "14.32.31326",
+        sha256 = "bfc95e2aca139068b582ee62c12590ed2928c2b2e9b064a15b55a215d980473c"
+    },
+    ["windows-x86-vc14.37.32822-159adbeb087d4fe49f40c5b179be354f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.37.32822-159adbeb087d4fe49f40c5b179be354f.7z",
+        toolset = "14.37.32822",
+        sha256 = "27a11deb76629620b2c5f37c5ee2c1a276de62c9443ff7cc494fdc9b442379b1"
+    },
+    ["windows-x86-vc142-1e7b035abc834fb4b299d997a7199613"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc142-1e7b035abc834fb4b299d997a7199613.7z",
+        toolset = "14.29.30133",
+        sha256 = "6e14d5d4aa59f32a5debe7adb94425bb221b6c2f36e2e78042f63c617246e445"
+    },
+    ["windows-x86-vc14.29.30133-a46ff35b81e34ec1bb776bac19a62fe2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-a46ff35b81e34ec1bb776bac19a62fe2.7z",
+        toolset = "14.29.30133",
+        sha256 = "dc65e13b50889446708925dbbf50585f2f51d935a76a5852e19749fc4cdf2a03"
+    },
+    ["windows-x64-vc142-44780e4f99d843248993702797a45025"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-44780e4f99d843248993702797a45025.7z",
+        toolset = "14.29.30133",
+        sha256 = "49896afe9166c7924237948c134beb4bb8051910fafdc1a4d8a337dadc8571e1"
+    },
+    ["windows-x86-vc14.37.32822-a46ff35b81e34ec1bb776bac19a62fe2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.37.32822-a46ff35b81e34ec1bb776bac19a62fe2.7z",
+        toolset = "14.37.32822",
+        sha256 = "2c74dca9dcd44550385a2496cbb0f0791ec9aa7781c97e87793b649495546196"
+    },
+    ["windows-x64-vc142-81063cd0737249e9bc9d80d7e14eee17"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc142-81063cd0737249e9bc9d80d7e14eee17.7z",
+        toolset = "14.29.30133",
+        sha256 = "d9ad0ec678df4e141635993edca17d82f68c3f97774e793832c1819431239aac"
+    },
+    ["windows-x64-vc14.29.30133-9c2a94bba050411b86205b4ba4af2c39"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x64-vc14.29.30133-9c2a94bba050411b86205b4ba4af2c39.7z",
+        toolset = "14.29.30133",
+        sha256 = "e4e46932f58da1d9678c24e982e14d7e5fe54cd9f8a35e42883fbacf34ee165e"
+    },
+    ["windows-x86-vc14.29.30133-41dba58fb736467a808fc0a6d9d6bc8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcl-1.12.1/windows-x86-vc14.29.30133-41dba58fb736467a808fc0a6d9d6bc8b.7z",
+        toolset = "14.29.30133",
+        sha256 = "5ba0abf6077bc5d32de80947992dfd2a49303b67b1ac63df47d09b559bb8066c"
     }
 }
