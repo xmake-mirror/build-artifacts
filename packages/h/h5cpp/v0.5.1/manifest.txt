@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-519db882c25c4e37a910da9e3b0e50c1"] = {
-        sha256 = "1bec3b18a4c8921475c5d1e7b64caffc59ceeddc76c1f25d2e187ff489fd83d0",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-519db882c25c4e37a910da9e3b0e50c1.7z"
-    },
-    ["windows-x86-vc143-6ca5ef760c7c44198802f2c10253bfb6"] = {
-        sha256 = "cdd610cb0c22345263356dbb9f26d97c949a0b9e2db6623a9ca24df759a02220",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-6ca5ef760c7c44198802f2c10253bfb6.7z"
-    },
-    ["windows-x86-vc142-6c69130d975441f4b51af2c3bf4f99a8"] = {
-        sha256 = "1c17c4b7ceb9024e191fd5c9b6a921ecf250de84b4ec53c489cf910dd605a861",
+    ["windows-x86-vc14.29.30133-2780c7414150465fa841496034c21a3e"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-6c69130d975441f4b51af2c3bf4f99a8.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.29.30133-2780c7414150465fa841496034c21a3e.7z",
+        sha256 = "7dd70d6e99cbf3444953af60af898b42c8c089d089d1b04addf946d3e395f366"
     },
-    ["windows-x64-vc142-519db882c25c4e37a910da9e3b0e50c1"] = {
-        sha256 = "47cc8d969986ca73bab2d4977109614a71b5f978251ee1a8bf1277de98bbc5d4",
+    ["windows-x86-vc14.29.30133-07fb5df3c07b48e3888e38eb7df9c367"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-519db882c25c4e37a910da9e3b0e50c1.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.29.30133-07fb5df3c07b48e3888e38eb7df9c367.7z",
+        sha256 = "ce3d5c3801434a0379cb4c6afa396f9abc1d7220edf59e20b98a06d63b592e24"
     },
     ["windows-x64-vc142-12c6c98bf8b64f4f9c6ccb89bdefbc7d"] = {
-        sha256 = "145f35d29eb2ac885cb436350ba1ec52e74837b323666c9e773be79db7f2f73b",
         toolset = "14.29.30133",
+        sha256 = "145f35d29eb2ac885cb436350ba1ec52e74837b323666c9e773be79db7f2f73b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-12c6c98bf8b64f4f9c6ccb89bdefbc7d.7z"
     },
-    ["windows-x64-vc143-199c2a4d348c4120986df75a5f584e82"] = {
-        sha256 = "94f255e730adb05bf474306e96eff343233ab3b97bed0ea7f830d77a9ee2bdd9",
+    ["windows-x86-vc143-6ca5ef760c7c44198802f2c10253bfb6"] = {
         toolset = "14.32.31326",
+        sha256 = "cdd610cb0c22345263356dbb9f26d97c949a0b9e2db6623a9ca24df759a02220",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-6ca5ef760c7c44198802f2c10253bfb6.7z"
+    },
+    ["windows-x64-vc143-199c2a4d348c4120986df75a5f584e82"] = {
+        toolset = "14.32.31326",
+        sha256 = "94f255e730adb05bf474306e96eff343233ab3b97bed0ea7f830d77a9ee2bdd9",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-199c2a4d348c4120986df75a5f584e82.7z"
     },
-    ["windows-x64-vc142-199c2a4d348c4120986df75a5f584e82"] = {
-        sha256 = "cf3cf197f14c2d2c86da1ebe77d055a8ee093401226e98f90f9822827133ff75",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-199c2a4d348c4120986df75a5f584e82.7z"
-    },
-    ["windows-x86-vc143-07fb5df3c07b48e3888e38eb7df9c367"] = {
-        sha256 = "eca291dcc5902764a2d255c9a7a23df1d2d1cb2ccdd04e4f2c6010e5fc18744f",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-07fb5df3c07b48e3888e38eb7df9c367.7z"
-    },
-    ["windows-x64-vc143-66c2d7d2677647dea8557a351bf14d9b"] = {
-        sha256 = "9808855072ac2db4ca4d9b0420fd28070fac166e6bf352b01024af3a29b2009a",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-66c2d7d2677647dea8557a351bf14d9b.7z"
-    },
-    ["windows-x86-vc142-07fb5df3c07b48e3888e38eb7df9c367"] = {
-        sha256 = "27231b70b6cb94999af2b18fe9fe7fe05001397e0c63d8eaf0ddd115fa9a0968",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-07fb5df3c07b48e3888e38eb7df9c367.7z"
-    },
-    ["windows-x86-vc143-2780c7414150465fa841496034c21a3e"] = {
-        sha256 = "1663607d45d1384e6c164167a19a79c8bd1a26854ffe92e955ac0287e20e64df",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-2780c7414150465fa841496034c21a3e.7z"
-    },
-    ["windows-x64-vc143-12c6c98bf8b64f4f9c6ccb89bdefbc7d"] = {
-        sha256 = "1667935d1f4e9f78e1ad1989153c9e3426dedf45422a99efe1db376bc648efe3",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-12c6c98bf8b64f4f9c6ccb89bdefbc7d.7z"
-    },
-    ["windows-x64-vc142-66c2d7d2677647dea8557a351bf14d9b"] = {
-        sha256 = "0a2fe531eb44d87e0af7991e21df5f42ee71cd646919026c84c5111feb788701",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-66c2d7d2677647dea8557a351bf14d9b.7z"
-    },
     ["windows-x86-vc143-6c69130d975441f4b51af2c3bf4f99a8"] = {
-        sha256 = "a5f9f5c3f44c2e0be5525d926e14f69170a7fbdefc7d24fa4509f42ae9b94b24",
         toolset = "14.32.31326",
+        sha256 = "a5f9f5c3f44c2e0be5525d926e14f69170a7fbdefc7d24fa4509f42ae9b94b24",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-6c69130d975441f4b51af2c3bf4f99a8.7z"
     },
-    ["windows-x86-vc142-2780c7414150465fa841496034c21a3e"] = {
-        sha256 = "ac598ea5b46284425cd60b39948f2652695a51dbaf83f8d0699a0aa46ca0419f",
+    ["windows-x86-vc14.37.32822-2780c7414150465fa841496034c21a3e"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.37.32822-2780c7414150465fa841496034c21a3e.7z",
+        sha256 = "a45b24859732ac60053d3fb666700b442092fc75f4308e53f63856fc1a5ffd3f"
+    },
+    ["windows-x86-vc14.29.30133-6ca5ef760c7c44198802f2c10253bfb6"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-2780c7414150465fa841496034c21a3e.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.29.30133-6ca5ef760c7c44198802f2c10253bfb6.7z",
+        sha256 = "87de9fb9bdf9d4b0b657fba1472bab08b06a57c0b93bfe88781b54abd0238a8c"
+    },
+    ["windows-x86-vc142-6c69130d975441f4b51af2c3bf4f99a8"] = {
+        toolset = "14.29.30133",
+        sha256 = "1c17c4b7ceb9024e191fd5c9b6a921ecf250de84b4ec53c489cf910dd605a861",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-6c69130d975441f4b51af2c3bf4f99a8.7z"
+    },
+    ["windows-x64-vc14.37.32822-66c2d7d2677647dea8557a351bf14d9b"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.37.32822-66c2d7d2677647dea8557a351bf14d9b.7z",
+        sha256 = "f26e4bbf8445449bd2d2ec027699c8b54b60c4afb7f9e9c057f095150e6b54e7"
+    },
+    ["windows-x64-vc143-12c6c98bf8b64f4f9c6ccb89bdefbc7d"] = {
+        toolset = "14.32.31326",
+        sha256 = "1667935d1f4e9f78e1ad1989153c9e3426dedf45422a99efe1db376bc648efe3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-12c6c98bf8b64f4f9c6ccb89bdefbc7d.7z"
+    },
+    ["windows-x86-vc14.37.32822-07fb5df3c07b48e3888e38eb7df9c367"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.37.32822-07fb5df3c07b48e3888e38eb7df9c367.7z",
+        sha256 = "214f2a506ca118f0e522701b138f695d0e27dbb717f3adaa0c7fb500d5f286a8"
+    },
+    ["windows-x86-vc14.37.32822-6ca5ef760c7c44198802f2c10253bfb6"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.37.32822-6ca5ef760c7c44198802f2c10253bfb6.7z",
+        sha256 = "69c45beb4f724462601dc46cd472d775b2ef7f838e73bb905f530523a2c30b97"
+    },
+    ["windows-x64-vc143-519db882c25c4e37a910da9e3b0e50c1"] = {
+        toolset = "14.32.31326",
+        sha256 = "1bec3b18a4c8921475c5d1e7b64caffc59ceeddc76c1f25d2e187ff489fd83d0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-519db882c25c4e37a910da9e3b0e50c1.7z"
+    },
+    ["windows-x86-vc143-2780c7414150465fa841496034c21a3e"] = {
+        toolset = "14.32.31326",
+        sha256 = "1663607d45d1384e6c164167a19a79c8bd1a26854ffe92e955ac0287e20e64df",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-2780c7414150465fa841496034c21a3e.7z"
+    },
+    ["windows-x64-vc142-66c2d7d2677647dea8557a351bf14d9b"] = {
+        toolset = "14.29.30133",
+        sha256 = "0a2fe531eb44d87e0af7991e21df5f42ee71cd646919026c84c5111feb788701",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-66c2d7d2677647dea8557a351bf14d9b.7z"
+    },
+    ["windows-x64-vc14.37.32822-12c6c98bf8b64f4f9c6ccb89bdefbc7d"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.37.32822-12c6c98bf8b64f4f9c6ccb89bdefbc7d.7z",
+        sha256 = "b536ac201a2284b11c19809d5ad17fffc8dad6a6b0fcafbbc09429eaa8cd3ebf"
     },
     ["windows-x86-vc142-6ca5ef760c7c44198802f2c10253bfb6"] = {
-        sha256 = "b7f7f522469a4c8feb30d5218c1105cf4e52054d1b41eac63bbb9fb92cac0e50",
         toolset = "14.29.30133",
+        sha256 = "b7f7f522469a4c8feb30d5218c1105cf4e52054d1b41eac63bbb9fb92cac0e50",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-6ca5ef760c7c44198802f2c10253bfb6.7z"
+    },
+    ["windows-x86-vc142-2780c7414150465fa841496034c21a3e"] = {
+        toolset = "14.29.30133",
+        sha256 = "ac598ea5b46284425cd60b39948f2652695a51dbaf83f8d0699a0aa46ca0419f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-2780c7414150465fa841496034c21a3e.7z"
+    },
+    ["windows-x64-vc14.29.30133-519db882c25c4e37a910da9e3b0e50c1"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.29.30133-519db882c25c4e37a910da9e3b0e50c1.7z",
+        sha256 = "a7e09fa9976d1a9cb7e8fdea1c6ee8a3c51d94145ab47a53b6e52170d577fc4b"
+    },
+    ["windows-x86-vc14.29.30133-6c69130d975441f4b51af2c3bf4f99a8"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.29.30133-6c69130d975441f4b51af2c3bf4f99a8.7z",
+        sha256 = "1230cb4beac563876dea121bf649aaa548912c6ee36ca74a770b2e1b068f37ee"
+    },
+    ["windows-x64-vc14.37.32822-199c2a4d348c4120986df75a5f584e82"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.37.32822-199c2a4d348c4120986df75a5f584e82.7z",
+        sha256 = "0bd1780b66cbbfc4adcb6e79811315777ba8a75cf95b4e28876c1b39e00232d8"
+    },
+    ["windows-x64-vc143-66c2d7d2677647dea8557a351bf14d9b"] = {
+        toolset = "14.32.31326",
+        sha256 = "9808855072ac2db4ca4d9b0420fd28070fac166e6bf352b01024af3a29b2009a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc143-66c2d7d2677647dea8557a351bf14d9b.7z"
+    },
+    ["windows-x64-vc142-519db882c25c4e37a910da9e3b0e50c1"] = {
+        toolset = "14.29.30133",
+        sha256 = "47cc8d969986ca73bab2d4977109614a71b5f978251ee1a8bf1277de98bbc5d4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-519db882c25c4e37a910da9e3b0e50c1.7z"
+    },
+    ["windows-x86-vc14.37.32822-6c69130d975441f4b51af2c3bf4f99a8"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc14.37.32822-6c69130d975441f4b51af2c3bf4f99a8.7z",
+        sha256 = "cf845073c6cb70cea77c5951d8ac5d0667667d7066120110343eedb57f6124ad"
+    },
+    ["windows-x64-vc14.29.30133-66c2d7d2677647dea8557a351bf14d9b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.29.30133-66c2d7d2677647dea8557a351bf14d9b.7z",
+        sha256 = "aa55fe1a7799e53d6dcdc615efe524d4c28510f862a3e81d6ec3eb036c513459"
+    },
+    ["windows-x64-vc14.37.32822-519db882c25c4e37a910da9e3b0e50c1"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.37.32822-519db882c25c4e37a910da9e3b0e50c1.7z",
+        sha256 = "dfc80ffdadce28bd597694d1d122680102e95b645bad0686ed5395337d0bd444"
+    },
+    ["windows-x86-vc142-07fb5df3c07b48e3888e38eb7df9c367"] = {
+        toolset = "14.29.30133",
+        sha256 = "27231b70b6cb94999af2b18fe9fe7fe05001397e0c63d8eaf0ddd115fa9a0968",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc142-07fb5df3c07b48e3888e38eb7df9c367.7z"
+    },
+    ["windows-x86-vc143-07fb5df3c07b48e3888e38eb7df9c367"] = {
+        toolset = "14.32.31326",
+        sha256 = "eca291dcc5902764a2d255c9a7a23df1d2d1cb2ccdd04e4f2c6010e5fc18744f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x86-vc143-07fb5df3c07b48e3888e38eb7df9c367.7z"
+    },
+    ["windows-x64-vc142-199c2a4d348c4120986df75a5f584e82"] = {
+        toolset = "14.29.30133",
+        sha256 = "cf3cf197f14c2d2c86da1ebe77d055a8ee093401226e98f90f9822827133ff75",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc142-199c2a4d348c4120986df75a5f584e82.7z"
+    },
+    ["windows-x64-vc14.29.30133-199c2a4d348c4120986df75a5f584e82"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.29.30133-199c2a4d348c4120986df75a5f584e82.7z",
+        sha256 = "05dbfeb773f95427289d47ed883c473fd5b832b3c82d41decf4dea3381146196"
+    },
+    ["windows-x64-vc14.29.30133-12c6c98bf8b64f4f9c6ccb89bdefbc7d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/h5cpp-v0.5.1/windows-x64-vc14.29.30133-12c6c98bf8b64f4f9c6ccb89bdefbc7d.7z",
+        sha256 = "74a4e01cb5ed3187c1144aca8e28bb15bbdf878eabd81707aaff50c422be0037"
     }
 }
