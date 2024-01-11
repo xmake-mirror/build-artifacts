@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc142-26960cecbc024405aa2f1459e4b34e3f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-26960cecbc024405aa2f1459e4b34e3f.7z",
-        sha256 = "7e03fc749d8d167988abe45496e34584723d6f25f18df9dcfd8e812806633f93",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-a8f237923d24472297415c7fc248f99f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc142-a8f237923d24472297415c7fc248f99f.7z",
-        sha256 = "f22fe4ce9f28172d081b98aff796609ab6a1b136b76fd01ec90917f2405d7c03",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-7379a16acc3e42ed88aa8c8d1e60c897"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-7379a16acc3e42ed88aa8c8d1e60c897.7z",
-        sha256 = "48ac4a3e1de6e3750bd3ee0dd387aad0910b104814431a668b82cc62982decd3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-63db104c3b9748b99bae77fed94b3bf0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-63db104c3b9748b99bae77fed94b3bf0.7z",
-        sha256 = "f9dde7ab4c23d0ca7ff70a8ef6ff0f4f56a8c68f16e35dec8d44ffb58514f655",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-c6680a0cc3304efa8b33163f4f280252"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-c6680a0cc3304efa8b33163f4f280252.7z",
-        sha256 = "963e517d883bd61666604974d2973b695aa7ee0f6f66bbdb92d53d2db4f7dc56",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc142-018d78f08fa94cddb3f9eb8ab5e6c5a1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc142-018d78f08fa94cddb3f9eb8ab5e6c5a1.7z",
-        sha256 = "73805a33dc6f3a27e78ee74d24389fa7df1c66947830d1c89667e02ac9db9be0",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-26960cecbc024405aa2f1459e4b34e3f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-26960cecbc024405aa2f1459e4b34e3f.7z",
-        sha256 = "7c0280dd65a6b65b87d44d817d1cc8741df3930a5865d41ef5403de70a37bdac",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-741ffd1a212d4daca63f18aa5b597d9d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-741ffd1a212d4daca63f18aa5b597d9d.7z",
-        sha256 = "0ada576758b76278f67bf697bb615313e4bf040d0578b743157d182cf7702771",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-018d78f08fa94cddb3f9eb8ab5e6c5a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-018d78f08fa94cddb3f9eb8ab5e6c5a1.7z",
-        sha256 = "13bc8a64a9a5665af7b52899b4154288a5739f8ecaf0432582d328e1156be6b3",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-26dad63a46b44074b4f09dd24835981a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc142-26dad63a46b44074b4f09dd24835981a.7z",
-        sha256 = "4165fced5e80a943796dab3d7df0369801ce5873ae2d05d71a4b72111492a50b",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "73805a33dc6f3a27e78ee74d24389fa7df1c66947830d1c89667e02ac9db9be0"
     },
     ["windows-x86-vc142-63db104c3b9748b99bae77fed94b3bf0"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-63db104c3b9748b99bae77fed94b3bf0.7z",
-        sha256 = "fc50baf64a0b2e32de778436f71ae8878b410417276098b15270e01f3b671d41",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "fc50baf64a0b2e32de778436f71ae8878b410417276098b15270e01f3b671d41"
     },
-    ["windows-x86-vc141-c6680a0cc3304efa8b33163f4f280252"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-c6680a0cc3304efa8b33163f4f280252.7z",
-        sha256 = "c1dd63e7ac4e8e9f9595eb1a0dcbb93834279127a38f6c760d6d822b71c3576c",
-        toolset = "14.16.27023"
+    ["windows-x64-vc14.37.32822-741ffd1a212d4daca63f18aa5b597d9d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.37.32822-741ffd1a212d4daca63f18aa5b597d9d.7z",
+        toolset = "14.37.32822",
+        sha256 = "40a3b072246452ca1ad4ad8df595e969501cbf8e1001e676cdb27847d7060bcb"
     },
-    ["windows-x64-vc141-26dad63a46b44074b4f09dd24835981a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-26dad63a46b44074b4f09dd24835981a.7z",
-        sha256 = "f444ae4653987dc202de62d2de96be0394130fca8f98bb1aba35ace7c37f66ed",
-        toolset = "14.16.27023"
+    ["windows-x86-vc14.29.30133-7379a16acc3e42ed88aa8c8d1e60c897"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.29.30133-7379a16acc3e42ed88aa8c8d1e60c897.7z",
+        toolset = "14.29.30133",
+        sha256 = "a0e95eab086550f5b5dc62d5f457cc062138ada334d19431ad86dd8e22de24c3"
+    },
+    ["windows-x64-vc14.37.32822-a8f237923d24472297415c7fc248f99f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.37.32822-a8f237923d24472297415c7fc248f99f.7z",
+        toolset = "14.37.32822",
+        sha256 = "f0656f1303ccdadc6468ad0004a53e068f143f91772847c7c20aa8cabbce0477"
     },
     ["windows-x64-vc142-741ffd1a212d4daca63f18aa5b597d9d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc142-741ffd1a212d4daca63f18aa5b597d9d.7z",
-        sha256 = "4eff4ea51d42e279b1b7d4016217c438124a38eaf914a48859990a06d8a47ee9",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "4eff4ea51d42e279b1b7d4016217c438124a38eaf914a48859990a06d8a47ee9"
     },
-    ["windows-x86-vc141-7379a16acc3e42ed88aa8c8d1e60c897"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-7379a16acc3e42ed88aa8c8d1e60c897.7z",
-        sha256 = "11976f425937f52d04d368038f2e453d71ca7f36b08a324a1f802eaf26027cdd",
-        toolset = "14.16.27023"
+    ["windows-x86-vc141-c6680a0cc3304efa8b33163f4f280252"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-c6680a0cc3304efa8b33163f4f280252.7z",
+        toolset = "14.16.27023",
+        sha256 = "c1dd63e7ac4e8e9f9595eb1a0dcbb93834279127a38f6c760d6d822b71c3576c"
+    },
+    ["windows-x86-vc14.37.32822-26960cecbc024405aa2f1459e4b34e3f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.37.32822-26960cecbc024405aa2f1459e4b34e3f.7z",
+        toolset = "14.37.32822",
+        sha256 = "0a242d146ed832a1cd74b7e6a71c065ba917859e0e016839e04c4a443115247a"
     },
     ["windows-x64-vc141-a8f237923d24472297415c7fc248f99f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-a8f237923d24472297415c7fc248f99f.7z",
-        sha256 = "f67e3faaa830a976fe71ba40b8d96fdd954d3b57a136588d18d41415c648cef3",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "f67e3faaa830a976fe71ba40b8d96fdd954d3b57a136588d18d41415c648cef3"
+    },
+    ["windows-x64-vc141-741ffd1a212d4daca63f18aa5b597d9d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-741ffd1a212d4daca63f18aa5b597d9d.7z",
+        toolset = "14.16.27023",
+        sha256 = "0ada576758b76278f67bf697bb615313e4bf040d0578b743157d182cf7702771"
+    },
+    ["windows-x86-vc141-26960cecbc024405aa2f1459e4b34e3f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-26960cecbc024405aa2f1459e4b34e3f.7z",
+        toolset = "14.16.27023",
+        sha256 = "7c0280dd65a6b65b87d44d817d1cc8741df3930a5865d41ef5403de70a37bdac"
+    },
+    ["windows-x64-vc142-26dad63a46b44074b4f09dd24835981a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc142-26dad63a46b44074b4f09dd24835981a.7z",
+        toolset = "14.29.30133",
+        sha256 = "4165fced5e80a943796dab3d7df0369801ce5873ae2d05d71a4b72111492a50b"
+    },
+    ["windows-x64-vc141-26dad63a46b44074b4f09dd24835981a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-26dad63a46b44074b4f09dd24835981a.7z",
+        toolset = "14.16.27023",
+        sha256 = "f444ae4653987dc202de62d2de96be0394130fca8f98bb1aba35ace7c37f66ed"
+    },
+    ["windows-x86-vc141-63db104c3b9748b99bae77fed94b3bf0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-63db104c3b9748b99bae77fed94b3bf0.7z",
+        toolset = "14.16.27023",
+        sha256 = "f9dde7ab4c23d0ca7ff70a8ef6ff0f4f56a8c68f16e35dec8d44ffb58514f655"
+    },
+    ["windows-x64-vc14.29.30133-a8f237923d24472297415c7fc248f99f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.29.30133-a8f237923d24472297415c7fc248f99f.7z",
+        toolset = "14.29.30133",
+        sha256 = "7f40243ad31efd823d6b67f65a28181853c9e6c21d03ade4f4bd63be7f584928"
+    },
+    ["windows-x86-vc142-7379a16acc3e42ed88aa8c8d1e60c897"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-7379a16acc3e42ed88aa8c8d1e60c897.7z",
+        toolset = "14.29.30133",
+        sha256 = "48ac4a3e1de6e3750bd3ee0dd387aad0910b104814431a668b82cc62982decd3"
+    },
+    ["windows-x64-vc14.29.30133-018d78f08fa94cddb3f9eb8ab5e6c5a1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.29.30133-018d78f08fa94cddb3f9eb8ab5e6c5a1.7z",
+        toolset = "14.29.30133",
+        sha256 = "cb38f3369916fc42c05f5b0b571092e9074fe4e9a1943174ea466a3737aec77c"
+    },
+    ["windows-x64-vc14.29.30133-741ffd1a212d4daca63f18aa5b597d9d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.29.30133-741ffd1a212d4daca63f18aa5b597d9d.7z",
+        toolset = "14.29.30133",
+        sha256 = "1463d76ec7e892f1a970ba051e28b219bc6811ef113524a1fac5fd1f6a8e43c3"
+    },
+    ["windows-x86-vc14.29.30133-63db104c3b9748b99bae77fed94b3bf0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.29.30133-63db104c3b9748b99bae77fed94b3bf0.7z",
+        toolset = "14.29.30133",
+        sha256 = "376d4cfb2a295a3fefc06a2be06583850cfa46a57f04d46837f851ca1f0b8146"
+    },
+    ["windows-x64-vc14.37.32822-26dad63a46b44074b4f09dd24835981a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.37.32822-26dad63a46b44074b4f09dd24835981a.7z",
+        toolset = "14.37.32822",
+        sha256 = "a871fe6361524af36a4aed8c06c355fdef31dd0c5fc9c34e2122cbdce33efc85"
+    },
+    ["windows-x64-vc141-018d78f08fa94cddb3f9eb8ab5e6c5a1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc141-018d78f08fa94cddb3f9eb8ab5e6c5a1.7z",
+        toolset = "14.16.27023",
+        sha256 = "13bc8a64a9a5665af7b52899b4154288a5739f8ecaf0432582d328e1156be6b3"
+    },
+    ["windows-x86-vc14.37.32822-63db104c3b9748b99bae77fed94b3bf0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.37.32822-63db104c3b9748b99bae77fed94b3bf0.7z",
+        toolset = "14.37.32822",
+        sha256 = "8dd8b1819265149eb404b1ced5acdfcd8a7a4868ca8bdef6536499b52f47930d"
+    },
+    ["windows-x86-vc142-26960cecbc024405aa2f1459e4b34e3f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-26960cecbc024405aa2f1459e4b34e3f.7z",
+        toolset = "14.29.30133",
+        sha256 = "7e03fc749d8d167988abe45496e34584723d6f25f18df9dcfd8e812806633f93"
+    },
+    ["windows-x86-vc14.37.32822-c6680a0cc3304efa8b33163f4f280252"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.37.32822-c6680a0cc3304efa8b33163f4f280252.7z",
+        toolset = "14.37.32822",
+        sha256 = "faf1c8764bd2e3f8ae4b014459b5e948239580eb422405672f55fc55945f7371"
+    },
+    ["windows-x64-vc14.29.30133-26dad63a46b44074b4f09dd24835981a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.29.30133-26dad63a46b44074b4f09dd24835981a.7z",
+        toolset = "14.29.30133",
+        sha256 = "fd4dc5d123aa97cbedb5c587f282c4ffe72e737fec4444240771c2f35c6f57df"
+    },
+    ["windows-x86-vc141-7379a16acc3e42ed88aa8c8d1e60c897"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc141-7379a16acc3e42ed88aa8c8d1e60c897.7z",
+        toolset = "14.16.27023",
+        sha256 = "11976f425937f52d04d368038f2e453d71ca7f36b08a324a1f802eaf26027cdd"
+    },
+    ["windows-x64-vc14.37.32822-018d78f08fa94cddb3f9eb8ab5e6c5a1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc14.37.32822-018d78f08fa94cddb3f9eb8ab5e6c5a1.7z",
+        toolset = "14.37.32822",
+        sha256 = "fd7782cb1451abdec8621464c4d40e5f0576ae93f689bf09216c02390201d39b"
+    },
+    ["windows-x86-vc14.29.30133-26960cecbc024405aa2f1459e4b34e3f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.29.30133-26960cecbc024405aa2f1459e4b34e3f.7z",
+        toolset = "14.29.30133",
+        sha256 = "d693eb585d52cd08595b89c922ca22bd35375cec1b8845c1748e371dea986db5"
+    },
+    ["windows-x86-vc142-c6680a0cc3304efa8b33163f4f280252"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc142-c6680a0cc3304efa8b33163f4f280252.7z",
+        toolset = "14.29.30133",
+        sha256 = "963e517d883bd61666604974d2973b695aa7ee0f6f66bbdb92d53d2db4f7dc56"
+    },
+    ["windows-x64-vc142-a8f237923d24472297415c7fc248f99f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x64-vc142-a8f237923d24472297415c7fc248f99f.7z",
+        toolset = "14.29.30133",
+        sha256 = "f22fe4ce9f28172d081b98aff796609ab6a1b136b76fd01ec90917f2405d7c03"
+    },
+    ["windows-x86-vc14.37.32822-7379a16acc3e42ed88aa8c8d1e60c897"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.37.32822-7379a16acc3e42ed88aa8c8d1e60c897.7z",
+        toolset = "14.37.32822",
+        sha256 = "105e092bc3e57d807341ba8103c1ff1f85bab23ad19db8149e634a7e43f0acf9"
+    },
+    ["windows-x86-vc14.29.30133-c6680a0cc3304efa8b33163f4f280252"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cfitsio-4.0.0/windows-x86-vc14.29.30133-c6680a0cc3304efa8b33163f4f280252.7z",
+        toolset = "14.29.30133",
+        sha256 = "7c059c7d616b3ef8cb0f9915951f67b7c3a10dbd829d11f8cb0bd56549e74c7f"
     }
 }
