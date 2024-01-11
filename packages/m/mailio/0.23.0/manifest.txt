@@ -1,22 +1,22 @@
 {
-    ["windows-x86-vc14.29.30133-79149ce5a7e94a6a84d3cf961624b849"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x86-vc14.29.30133-79149ce5a7e94a6a84d3cf961624b849.7z",
-        sha256 = "a399efd98e44e817ef49f12081631e7c4c2eadfa957c383dd034685e11e36fe3",
+    ["windows-x64-vc14.37.32822-ce5e7b347180439f998cb056ebd0770a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.37.32822-ce5e7b347180439f998cb056ebd0770a.7z",
+        sha256 = "12c2c9e24d9420739530d568609b9c5a5c5f618bd035f0d76fdb1fc60d57799a",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-7a4d6a83398c4cb9bcae7d88a53f121f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.37.32822-7a4d6a83398c4cb9bcae7d88a53f121f.7z",
+        sha256 = "709bcfe3c60e2a89e9d2dd045e29d99cb8f569514ad2fc6d9802bd50fa16e861",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-eb9453bb85804b938c415a612ea09339"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.29.30133-eb9453bb85804b938c415a612ea09339.7z",
+        sha256 = "6c152876ed3eee0f7d3979fbf79c0dce4947ccd42a10d785a9e8b18b18546559",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-3eec900f582e4bd9b6adc80fb2e645e2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.29.30133-3eec900f582e4bd9b6adc80fb2e645e2.7z",
-        sha256 = "8833d9e81de456a457dfde726940326153d0acf3971a7e67e03e8a7830b15636",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-eb9453bb85804b938c415a612ea09339"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.29.30133-eb9453bb85804b938c415a612ea09339.7z",
-        sha256 = "6f522f8ce02c56d3bc7240692e5d9e4f2918a6d410a19a6749d9a3ceaf562ed4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-98a67d934fcc480a8861c6e56d2ed08a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x86-vc14.29.30133-98a67d934fcc480a8861c6e56d2ed08a.7z",
-        sha256 = "0e5d617fe13f1574216372493b8b9d27a97fd19b40d252d3e32db2ee4efd938d",
+        sha256 = "97da603be4ca263072fc14c6147930d96bb85b7a6103b62d1b238f3dc2a6cb53",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-ce5e7b347180439f998cb056ebd0770a"] = {
@@ -29,24 +29,9 @@
         sha256 = "104fb61f9d7600479b9fb9a4c27493ff96e6483dcb40baf83404e5e351f0b787",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.37.32822-ce5e7b347180439f998cb056ebd0770a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.37.32822-ce5e7b347180439f998cb056ebd0770a.7z",
-        sha256 = "12c2c9e24d9420739530d568609b9c5a5c5f618bd035f0d76fdb1fc60d57799a",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-79149ce5a7e94a6a84d3cf961624b849"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x86-vc14.37.32822-79149ce5a7e94a6a84d3cf961624b849.7z",
-        sha256 = "fe1e0f65fe182bef1eaba0fd751f5ec13e88264656cf4da022fd444a1e697398",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-3eec900f582e4bd9b6adc80fb2e645e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.37.32822-3eec900f582e4bd9b6adc80fb2e645e2.7z",
-        sha256 = "e185c422b8378b7901248ad300ad05e3a4c853fd02a2eadbda660f8763c1f94f",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-7a4d6a83398c4cb9bcae7d88a53f121f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.29.30133-7a4d6a83398c4cb9bcae7d88a53f121f.7z",
-        sha256 = "fcca3a1db0c9bd01c8b9c280880bb668969de18f574ef218731921a9ed1fbcaf",
+    ["windows-x86-vc14.29.30133-79149ce5a7e94a6a84d3cf961624b849"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x86-vc14.29.30133-79149ce5a7e94a6a84d3cf961624b849.7z",
+        sha256 = "783a98bb1c073b9f81956ec53c4f0ccec71577c0aa4c3ce312ca9e0cbff42854",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.37.32822-98a67d934fcc480a8861c6e56d2ed08a"] = {
@@ -54,9 +39,24 @@
         sha256 = "433b8269b6ede9296bf1ae3ae4b15bac97022edb5c66faf1c5aeab3082987bba",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.37.32822-7a4d6a83398c4cb9bcae7d88a53f121f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.37.32822-7a4d6a83398c4cb9bcae7d88a53f121f.7z",
-        sha256 = "709bcfe3c60e2a89e9d2dd045e29d99cb8f569514ad2fc6d9802bd50fa16e861",
+    ["windows-x64-vc14.37.32822-3eec900f582e4bd9b6adc80fb2e645e2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.37.32822-3eec900f582e4bd9b6adc80fb2e645e2.7z",
+        sha256 = "14b6f51003dd53a789871d57f68a486d9697292b5986b620a9fbe9f6f7d293ef",
         toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-79149ce5a7e94a6a84d3cf961624b849"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x86-vc14.37.32822-79149ce5a7e94a6a84d3cf961624b849.7z",
+        sha256 = "fe1e0f65fe182bef1eaba0fd751f5ec13e88264656cf4da022fd444a1e697398",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-7a4d6a83398c4cb9bcae7d88a53f121f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x64-vc14.29.30133-7a4d6a83398c4cb9bcae7d88a53f121f.7z",
+        sha256 = "52866e43ec2dd84cf9930fa454f60e02fc9f1c378f4b1b9c496b7a3988272a14",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-98a67d934fcc480a8861c6e56d2ed08a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mailio-0.23.0/windows-x86-vc14.29.30133-98a67d934fcc480a8861c6e56d2ed08a.7z",
+        sha256 = "884e179ff24bb9a927d4f836d8162f90691a6d9878c769f207ac7c7ad91d97f4",
+        toolset = "14.29.30133"
     }
 }
