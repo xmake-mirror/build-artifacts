@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-65ff5a377701402bbf04ad11c72d74dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-65ff5a377701402bbf04ad11c72d74dc.7z",
-        sha256 = "4e8cb6ef00943299be8e7a742a6dcfcc8a107f1d3fd861ec0114ce5caf19f47b",
-        toolset = "14.31.31103"
-    },
-    ["windows-x86-vc142-cdeb22122be5404c9f6594ad290a4b46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-cdeb22122be5404c9f6594ad290a4b46.7z",
-        sha256 = "b7b192a710dd178c17feda9b0dfc0492c357079f232c287933b8c7cc4e7d0047",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-4996af1814734e97afc1a1db5feb41f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-4996af1814734e97afc1a1db5feb41f6.7z",
-        sha256 = "a2bafa4935a2682012b09564da61c8150646be988387d5ab7a14136fba1a1ff1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-b2a6be8d1caf48ef8c30dab641e2c844"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-b2a6be8d1caf48ef8c30dab641e2c844.7z",
-        sha256 = "3907d264a50a40cd17cabe98eb859a4c1d3208d6f8f016f27fc2c33099976558",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-6935163205dc4b5cb9af08ab246ce76e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-6935163205dc4b5cb9af08ab246ce76e.7z",
-        sha256 = "a2650ea58b96405417d1b42be68d4e7d207d2d2c67bebff038f38f23178f499f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-13decb8a2e2a4f68b412834ea6801c1e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-13decb8a2e2a4f68b412834ea6801c1e.7z",
-        sha256 = "75fc0aba7e1bb2e5828849c7c3e3a3ec4dbbf5660f147bbe9d4d27dcc1e7d8de",
-        toolset = "14.31.31103"
-    },
-    ["windows-x64-vc142-65ff5a377701402bbf04ad11c72d74dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-65ff5a377701402bbf04ad11c72d74dc.7z",
-        sha256 = "65c7025834fb2ba040c226793f54dd452ddd142a61a852dfc01933d9092cd3b5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-e5057c7d31ba490c9c1ae0992d029619"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-e5057c7d31ba490c9c1ae0992d029619.7z",
-        sha256 = "2d3892d650210faf868778114bcdfdb93f3924f9a997394c3506d8ed4a898857",
-        toolset = "14.31.31103"
-    },
-    ["windows-x86-vc143-cdeb22122be5404c9f6594ad290a4b46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-cdeb22122be5404c9f6594ad290a4b46.7z",
-        sha256 = "0a4a3b6a667d0d8c1fd251bfac14128de14e6dce30c610de97035776070f7b27",
-        toolset = "14.31.31103"
-    },
-    ["windows-x64-vc142-e5057c7d31ba490c9c1ae0992d029619"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-e5057c7d31ba490c9c1ae0992d029619.7z",
-        sha256 = "f3517002f840b9363f2c1818dff64a84be1632e1f9eef89f89c3e589e725ff8b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-13decb8a2e2a4f68b412834ea6801c1e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-13decb8a2e2a4f68b412834ea6801c1e.7z",
-        sha256 = "812dcd972ea7d04d7d190dd1f5b0753cb8255db89ab34cb8e7b33b891a9e49fc",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-4996af1814734e97afc1a1db5feb41f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-4996af1814734e97afc1a1db5feb41f6.7z",
-        sha256 = "cc45a427bda4aaada18a9f8bd37dc7bae912320a07769e3388b83cc66ddde561",
-        toolset = "14.31.31103"
-    },
-    ["windows-x64-vc142-24440f95bf5d4938b595b81be0c8892c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-24440f95bf5d4938b595b81be0c8892c.7z",
-        sha256 = "1be7a93d62ad7344819b8625cfcf4eaf0c77ecac1374043b0fa35d2761cdbe39",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-b2a6be8d1caf48ef8c30dab641e2c844"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-b2a6be8d1caf48ef8c30dab641e2c844.7z",
-        sha256 = "eee62f8989d936187e88d744a137bf76fd0ad03f82c210738b5fa84e3860f1f3",
-        toolset = "14.31.31103"
+    ["windows-x64-vc14.37.32822-b2a6be8d1caf48ef8c30dab641e2c844"] = {
+        sha256 = "0ee0a32f5b29db3f3d18df2f60792ef64f611ceb9a136aca56c5c499b74a95f9",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.37.32822-b2a6be8d1caf48ef8c30dab641e2c844.7z"
     },
     ["windows-x64-vc143-24440f95bf5d4938b595b81be0c8892c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-24440f95bf5d4938b595b81be0c8892c.7z",
         sha256 = "229246093817a5c7b3bae34314c9e18f323aa526ab73d3e459717d48acb93d97",
-        toolset = "14.31.31103"
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-24440f95bf5d4938b595b81be0c8892c.7z"
+    },
+    ["windows-x86-vc14.37.32822-13decb8a2e2a4f68b412834ea6801c1e"] = {
+        sha256 = "c1d8a1ea11cba190a54ab20c72fce1d4b7d47c1b64297737b8000abbfbe730c2",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.37.32822-13decb8a2e2a4f68b412834ea6801c1e.7z"
+    },
+    ["windows-x64-vc143-b2a6be8d1caf48ef8c30dab641e2c844"] = {
+        sha256 = "eee62f8989d936187e88d744a137bf76fd0ad03f82c210738b5fa84e3860f1f3",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-b2a6be8d1caf48ef8c30dab641e2c844.7z"
+    },
+    ["windows-x86-vc14.29.30133-6935163205dc4b5cb9af08ab246ce76e"] = {
+        sha256 = "26210c075cc519cee4caa09489edabdf6f9e1d14268ed9a1271ad3d9896548cf",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.29.30133-6935163205dc4b5cb9af08ab246ce76e.7z"
+    },
+    ["windows-x64-vc14.37.32822-e5057c7d31ba490c9c1ae0992d029619"] = {
+        sha256 = "73b10b27e9e29465e35fa4c14467c30df0ad95194ac2b55cdc9c12b3b756bc20",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.37.32822-e5057c7d31ba490c9c1ae0992d029619.7z"
+    },
+    ["windows-x64-vc142-65ff5a377701402bbf04ad11c72d74dc"] = {
+        sha256 = "65c7025834fb2ba040c226793f54dd452ddd142a61a852dfc01933d9092cd3b5",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-65ff5a377701402bbf04ad11c72d74dc.7z"
+    },
+    ["windows-x86-vc142-4996af1814734e97afc1a1db5feb41f6"] = {
+        sha256 = "a2bafa4935a2682012b09564da61c8150646be988387d5ab7a14136fba1a1ff1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-4996af1814734e97afc1a1db5feb41f6.7z"
+    },
+    ["windows-x86-vc143-4996af1814734e97afc1a1db5feb41f6"] = {
+        sha256 = "cc45a427bda4aaada18a9f8bd37dc7bae912320a07769e3388b83cc66ddde561",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-4996af1814734e97afc1a1db5feb41f6.7z"
+    },
+    ["windows-x86-vc143-13decb8a2e2a4f68b412834ea6801c1e"] = {
+        sha256 = "75fc0aba7e1bb2e5828849c7c3e3a3ec4dbbf5660f147bbe9d4d27dcc1e7d8de",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-13decb8a2e2a4f68b412834ea6801c1e.7z"
+    },
+    ["windows-x64-vc14.37.32822-24440f95bf5d4938b595b81be0c8892c"] = {
+        sha256 = "0b4e47ec07a9bf6be5d400c58b9ff3a3ddf30157507efc9f3d421207f014322e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.37.32822-24440f95bf5d4938b595b81be0c8892c.7z"
+    },
+    ["windows-x64-vc14.29.30133-e5057c7d31ba490c9c1ae0992d029619"] = {
+        sha256 = "2d42e29e6b5bd044ec9d3aa7da81d78a293820cadfdc471ec7fd2269a08ac4db",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.29.30133-e5057c7d31ba490c9c1ae0992d029619.7z"
+    },
+    ["windows-x86-vc14.29.30133-4996af1814734e97afc1a1db5feb41f6"] = {
+        sha256 = "e5a599f06e0b07aea196ca412f98b1c6ddb6a2f6127cca17b27fac01bf59f68e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.29.30133-4996af1814734e97afc1a1db5feb41f6.7z"
+    },
+    ["windows-x86-vc142-13decb8a2e2a4f68b412834ea6801c1e"] = {
+        sha256 = "812dcd972ea7d04d7d190dd1f5b0753cb8255db89ab34cb8e7b33b891a9e49fc",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-13decb8a2e2a4f68b412834ea6801c1e.7z"
+    },
+    ["windows-x64-vc143-65ff5a377701402bbf04ad11c72d74dc"] = {
+        sha256 = "4e8cb6ef00943299be8e7a742a6dcfcc8a107f1d3fd861ec0114ce5caf19f47b",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-65ff5a377701402bbf04ad11c72d74dc.7z"
+    },
+    ["windows-x86-vc142-6935163205dc4b5cb9af08ab246ce76e"] = {
+        sha256 = "a2650ea58b96405417d1b42be68d4e7d207d2d2c67bebff038f38f23178f499f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-6935163205dc4b5cb9af08ab246ce76e.7z"
+    },
+    ["windows-x64-vc14.29.30133-65ff5a377701402bbf04ad11c72d74dc"] = {
+        sha256 = "d180c1fbf6dc9082401ec513826e6931639591ac1e24abc64b0f9e790bb0f98f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.29.30133-65ff5a377701402bbf04ad11c72d74dc.7z"
+    },
+    ["windows-x64-vc14.29.30133-b2a6be8d1caf48ef8c30dab641e2c844"] = {
+        sha256 = "5e0f936dec5bf6e1ded73485936b99a906f412aafa57fb733c0c3e27b04d73ae",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.29.30133-b2a6be8d1caf48ef8c30dab641e2c844.7z"
+    },
+    ["windows-x64-vc142-b2a6be8d1caf48ef8c30dab641e2c844"] = {
+        sha256 = "3907d264a50a40cd17cabe98eb859a4c1d3208d6f8f016f27fc2c33099976558",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-b2a6be8d1caf48ef8c30dab641e2c844.7z"
+    },
+    ["windows-x64-vc14.29.30133-24440f95bf5d4938b595b81be0c8892c"] = {
+        sha256 = "26fe9dd7738b68e8a4dfd3369e781ecaf162178e2545e7bdbdfb2cb6c968978b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.29.30133-24440f95bf5d4938b595b81be0c8892c.7z"
+    },
+    ["windows-x86-vc143-cdeb22122be5404c9f6594ad290a4b46"] = {
+        sha256 = "0a4a3b6a667d0d8c1fd251bfac14128de14e6dce30c610de97035776070f7b27",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-cdeb22122be5404c9f6594ad290a4b46.7z"
     },
     ["windows-x86-vc143-6935163205dc4b5cb9af08ab246ce76e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-6935163205dc4b5cb9af08ab246ce76e.7z",
         sha256 = "600118319f84b925953e8cfcb93aaa134897a490f63dc3c0830ec809d392bea9",
-        toolset = "14.31.31103"
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc143-6935163205dc4b5cb9af08ab246ce76e.7z"
+    },
+    ["windows-x64-vc14.37.32822-65ff5a377701402bbf04ad11c72d74dc"] = {
+        sha256 = "6687e8421fe24773338e8549d1e54096db94e0a4d920d6fb6d8a4ab790d0fd3a",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc14.37.32822-65ff5a377701402bbf04ad11c72d74dc.7z"
+    },
+    ["windows-x86-vc14.29.30133-cdeb22122be5404c9f6594ad290a4b46"] = {
+        sha256 = "a4d5a0e55185343423049709e698427a158e669e570deecfc58f6ec6be5b7416",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.29.30133-cdeb22122be5404c9f6594ad290a4b46.7z"
+    },
+    ["windows-x64-vc142-24440f95bf5d4938b595b81be0c8892c"] = {
+        sha256 = "1be7a93d62ad7344819b8625cfcf4eaf0c77ecac1374043b0fa35d2761cdbe39",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-24440f95bf5d4938b595b81be0c8892c.7z"
+    },
+    ["windows-x64-vc143-e5057c7d31ba490c9c1ae0992d029619"] = {
+        sha256 = "2d3892d650210faf868778114bcdfdb93f3924f9a997394c3506d8ed4a898857",
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc143-e5057c7d31ba490c9c1ae0992d029619.7z"
+    },
+    ["windows-x64-vc142-e5057c7d31ba490c9c1ae0992d029619"] = {
+        sha256 = "f3517002f840b9363f2c1818dff64a84be1632e1f9eef89f89c3e589e725ff8b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x64-vc142-e5057c7d31ba490c9c1ae0992d029619.7z"
+    },
+    ["windows-x86-vc14.29.30133-13decb8a2e2a4f68b412834ea6801c1e"] = {
+        sha256 = "2c1cf1e883243e80f2dbeb977f8cbc4556843dacfb1e392b3665bd03c16938e8",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.29.30133-13decb8a2e2a4f68b412834ea6801c1e.7z"
+    },
+    ["windows-x86-vc14.37.32822-cdeb22122be5404c9f6594ad290a4b46"] = {
+        sha256 = "b64b09c744dafc9d332dddb6d65dcf03447e10e0ac5406d416343e48e9456fd1",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.37.32822-cdeb22122be5404c9f6594ad290a4b46.7z"
+    },
+    ["windows-x86-vc14.37.32822-4996af1814734e97afc1a1db5feb41f6"] = {
+        sha256 = "c040d5d5a78afa97a31d336055b9b9dd7ffd9e9b96b228776389e20f807609cc",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.37.32822-4996af1814734e97afc1a1db5feb41f6.7z"
+    },
+    ["windows-x86-vc14.37.32822-6935163205dc4b5cb9af08ab246ce76e"] = {
+        sha256 = "cae5f6bdb696a5976516a3604603be2af90983fa3ecd0d238cc3055ac2442a46",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc14.37.32822-6935163205dc4b5cb9af08ab246ce76e.7z"
+    },
+    ["windows-x86-vc142-cdeb22122be5404c9f6594ad290a4b46"] = {
+        sha256 = "b7b192a710dd178c17feda9b0dfc0492c357079f232c287933b8c7cc4e7d0047",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxparser-2.2.0/windows-x86-vc142-cdeb22122be5404c9f6594ad290a4b46.7z"
     }
 }
