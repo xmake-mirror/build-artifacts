@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc141-473d0db53a514aa986bd096ffe196784"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc141-473d0db53a514aa986bd096ffe196784.7z",
-        sha256 = "8a9fda39b2bb3481872b05b538cda6c82c1e778939ac26f3d6c23857a9a2fb3d",
-        toolset = "14.16.27023"
+    ["windows-x86-vc14.37.32822-ab380b568d524ecb82e03f7416e17ed9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.37.32822-ab380b568d524ecb82e03f7416e17ed9.7z",
+        toolset = "14.37.32822",
+        sha256 = "f2b2650fe9ab3bed7f00236d7ae07b26be01f937d9f9fa18f805632231920b40"
+    },
+    ["windows-x64-vc14.37.32822-4c3aafec80f5487989ddf76ad4345c5f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.37.32822-4c3aafec80f5487989ddf76ad4345c5f.7z",
+        toolset = "14.37.32822",
+        sha256 = "549acf1ae22ad4eeee2d578ad47e3498b816b8773e7687d015fab57c3df58fec"
     },
     ["windows-x64-vc141-d33a640964074e41a78f3838a86fa35d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc141-d33a640964074e41a78f3838a86fa35d.7z",
-        sha256 = "f90a0349c24dfceb227270b0fe5c22d29bf777a8674d41f6dbdd66e20d651039",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "f90a0349c24dfceb227270b0fe5c22d29bf777a8674d41f6dbdd66e20d651039"
     },
-    ["windows-x64-vc142-473d0db53a514aa986bd096ffe196784"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-473d0db53a514aa986bd096ffe196784.7z",
-        sha256 = "46cebe579d4c92593838d5a20e82f2162edeba8537ae1d8d56ae22ae567e05b8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-3e23ccb48afd4ce28bc4c26f9438343f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-3e23ccb48afd4ce28bc4c26f9438343f.7z",
-        sha256 = "3cd24035170495821e5014bc40a50bb58723608afbee9da2a2d80d5a22fbde53",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-300286e9d5dc489ba77f4ad4c2cb1ae4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-300286e9d5dc489ba77f4ad4c2cb1ae4.7z",
-        sha256 = "4fb2ba560b98bf6e4ffc2336baffc35328912fdbf6c334d9c87688b467a62694",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-4c3aafec80f5487989ddf76ad4345c5f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-4c3aafec80f5487989ddf76ad4345c5f.7z",
-        sha256 = "ea1927b238e43853e5dd30a44c0e1db8b4e3bfe682a3742e028336aa1a91d4a5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-3e23ccb48afd4ce28bc4c26f9438343f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc141-3e23ccb48afd4ce28bc4c26f9438343f.7z",
-        sha256 = "06d4ba231b5d5b55c6c8cd0284c69950857f9b968833f7cfeae270030bb6186a",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-ab380b568d524ecb82e03f7416e17ed9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc141-ab380b568d524ecb82e03f7416e17ed9.7z",
-        sha256 = "502db341f6d330444930071119f7c69fa524a03221e0b2b23d40e038b3200ffc",
-        toolset = "14.16.27023"
+    ["windows-x64-vc14.37.32822-473d0db53a514aa986bd096ffe196784"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.37.32822-473d0db53a514aa986bd096ffe196784.7z",
+        toolset = "14.37.32822",
+        sha256 = "b7b056e8f7384fd6bff251e0e4aa7963d182cac1497b7b396fe558b9a7b9d4fd"
     },
     ["windows-x86-vc141-d221feddaa8f460bbb7dae5fab535b56"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc141-d221feddaa8f460bbb7dae5fab535b56.7z",
-        sha256 = "f22af5d7bc511be05133d64933e1a3ae80156317bf886ae6a9f83094dd00e79c",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "f22af5d7bc511be05133d64933e1a3ae80156317bf886ae6a9f83094dd00e79c"
     },
-    ["windows-x64-vc142-d33a640964074e41a78f3838a86fa35d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-d33a640964074e41a78f3838a86fa35d.7z",
-        sha256 = "ec62359aff39ae87cedbabfa049ea5c43619f92e2e242ae4448b393097649fcf",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-2a7f47ba3f2f4aa7880da58e426b37dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-2a7f47ba3f2f4aa7880da58e426b37dc.7z",
-        sha256 = "7c62f3a6568b0ffcc0be4744473f069372fc0f5274547a3d86cf4a4ebad6f59e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-ab380b568d524ecb82e03f7416e17ed9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-ab380b568d524ecb82e03f7416e17ed9.7z",
-        sha256 = "d9e992fcdbdd448df39e0e8f752beebe238da7ee9279b256669b07297e9491d6",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-d221feddaa8f460bbb7dae5fab535b56"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-d221feddaa8f460bbb7dae5fab535b56.7z",
-        sha256 = "7a264fcbeb410e19069359f46518b729b2c8c5210f79d61eb93dd6209da9331d",
-        toolset = "14.29.30133"
+    ["windows-x86-vc142-3e23ccb48afd4ce28bc4c26f9438343f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-3e23ccb48afd4ce28bc4c26f9438343f.7z",
+        toolset = "14.29.30133",
+        sha256 = "3cd24035170495821e5014bc40a50bb58723608afbee9da2a2d80d5a22fbde53"
     },
     ["windows-x64-vc141-4c3aafec80f5487989ddf76ad4345c5f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc141-4c3aafec80f5487989ddf76ad4345c5f.7z",
-        sha256 = "6b2a1568542f8945a08d746c1556fc5ded3b9a737c2b7ca9a7b965eed1cbf964",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "6b2a1568542f8945a08d746c1556fc5ded3b9a737c2b7ca9a7b965eed1cbf964"
     },
     ["windows-x86-vc141-2a7f47ba3f2f4aa7880da58e426b37dc"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc141-2a7f47ba3f2f4aa7880da58e426b37dc.7z",
-        sha256 = "d72bf26d21cceae9ebd4cb18bbcd0f43fe250e0a64f3506a91c512486a10bcb8",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "d72bf26d21cceae9ebd4cb18bbcd0f43fe250e0a64f3506a91c512486a10bcb8"
+    },
+    ["windows-x86-vc141-3e23ccb48afd4ce28bc4c26f9438343f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc141-3e23ccb48afd4ce28bc4c26f9438343f.7z",
+        toolset = "14.16.27023",
+        sha256 = "06d4ba231b5d5b55c6c8cd0284c69950857f9b968833f7cfeae270030bb6186a"
+    },
+    ["windows-x64-vc142-d33a640964074e41a78f3838a86fa35d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-d33a640964074e41a78f3838a86fa35d.7z",
+        toolset = "14.29.30133",
+        sha256 = "ec62359aff39ae87cedbabfa049ea5c43619f92e2e242ae4448b393097649fcf"
+    },
+    ["windows-x64-vc141-473d0db53a514aa986bd096ffe196784"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc141-473d0db53a514aa986bd096ffe196784.7z",
+        toolset = "14.16.27023",
+        sha256 = "8a9fda39b2bb3481872b05b538cda6c82c1e778939ac26f3d6c23857a9a2fb3d"
+    },
+    ["windows-x86-vc14.29.30133-ab380b568d524ecb82e03f7416e17ed9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.29.30133-ab380b568d524ecb82e03f7416e17ed9.7z",
+        toolset = "14.29.30133",
+        sha256 = "73b811d56a39075800d6fc1244947c460920a60d445bd00852334548b47116b8"
+    },
+    ["windows-x86-vc14.37.32822-2a7f47ba3f2f4aa7880da58e426b37dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.37.32822-2a7f47ba3f2f4aa7880da58e426b37dc.7z",
+        toolset = "14.37.32822",
+        sha256 = "caada8a52e7aae2ae84d70ff94d10b8137e3cae70e63a182c72901dbc9e5bdb9"
+    },
+    ["windows-x64-vc14.37.32822-300286e9d5dc489ba77f4ad4c2cb1ae4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.37.32822-300286e9d5dc489ba77f4ad4c2cb1ae4.7z",
+        toolset = "14.37.32822",
+        sha256 = "2cd231988f7263fad60d7b899536e401cd007fdaa0034edb80a513f2dd7f11e7"
+    },
+    ["windows-x86-vc14.29.30133-3e23ccb48afd4ce28bc4c26f9438343f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.29.30133-3e23ccb48afd4ce28bc4c26f9438343f.7z",
+        toolset = "14.29.30133",
+        sha256 = "7a56fad58b98dc77efd2e7bdf7bf3675770f7703382cf9363dd7c0dec3648386"
+    },
+    ["windows-x86-vc142-ab380b568d524ecb82e03f7416e17ed9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-ab380b568d524ecb82e03f7416e17ed9.7z",
+        toolset = "14.29.30133",
+        sha256 = "d9e992fcdbdd448df39e0e8f752beebe238da7ee9279b256669b07297e9491d6"
+    },
+    ["windows-x64-vc14.29.30133-d33a640964074e41a78f3838a86fa35d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.29.30133-d33a640964074e41a78f3838a86fa35d.7z",
+        toolset = "14.29.30133",
+        sha256 = "100a6d82ae4f1c2ab02d2a596f7307bc63fe5b1fd58fb84698eda43c1324e1ab"
+    },
+    ["windows-x86-vc14.29.30133-2a7f47ba3f2f4aa7880da58e426b37dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.29.30133-2a7f47ba3f2f4aa7880da58e426b37dc.7z",
+        toolset = "14.29.30133",
+        sha256 = "fe1aca2daa5ac4b77b7fbd3cfb8b106786f259c51209e9e8c1c4507f0de1c5eb"
+    },
+    ["windows-x86-vc14.37.32822-d221feddaa8f460bbb7dae5fab535b56"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.37.32822-d221feddaa8f460bbb7dae5fab535b56.7z",
+        toolset = "14.37.32822",
+        sha256 = "8b950afd9097698132140f8d1bac942aa3ba3d6280f541c2def4095ac0919767"
+    },
+    ["windows-x86-vc142-2a7f47ba3f2f4aa7880da58e426b37dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-2a7f47ba3f2f4aa7880da58e426b37dc.7z",
+        toolset = "14.29.30133",
+        sha256 = "7c62f3a6568b0ffcc0be4744473f069372fc0f5274547a3d86cf4a4ebad6f59e"
     },
     ["windows-x64-vc141-300286e9d5dc489ba77f4ad4c2cb1ae4"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc141-300286e9d5dc489ba77f4ad4c2cb1ae4.7z",
-        sha256 = "b25bdd9b2eb56b5b7a999ef277ddae73a30e99a9547dbeedaa00a6a21e81511a",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        sha256 = "b25bdd9b2eb56b5b7a999ef277ddae73a30e99a9547dbeedaa00a6a21e81511a"
+    },
+    ["windows-x64-vc142-300286e9d5dc489ba77f4ad4c2cb1ae4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-300286e9d5dc489ba77f4ad4c2cb1ae4.7z",
+        toolset = "14.29.30133",
+        sha256 = "4fb2ba560b98bf6e4ffc2336baffc35328912fdbf6c334d9c87688b467a62694"
+    },
+    ["windows-x64-vc142-473d0db53a514aa986bd096ffe196784"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-473d0db53a514aa986bd096ffe196784.7z",
+        toolset = "14.29.30133",
+        sha256 = "46cebe579d4c92593838d5a20e82f2162edeba8537ae1d8d56ae22ae567e05b8"
+    },
+    ["windows-x86-vc14.29.30133-d221feddaa8f460bbb7dae5fab535b56"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.29.30133-d221feddaa8f460bbb7dae5fab535b56.7z",
+        toolset = "14.29.30133",
+        sha256 = "fde2b938ab4668a97ccc3b6de25236c002acc9ced1cc59a94c2512307ea05f8a"
+    },
+    ["windows-x64-vc14.29.30133-473d0db53a514aa986bd096ffe196784"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.29.30133-473d0db53a514aa986bd096ffe196784.7z",
+        toolset = "14.29.30133",
+        sha256 = "5048735a30cee8841b2021f4d2ef1039db8562476b64316712925cc5346b3e16"
+    },
+    ["windows-x64-vc14.29.30133-4c3aafec80f5487989ddf76ad4345c5f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.29.30133-4c3aafec80f5487989ddf76ad4345c5f.7z",
+        toolset = "14.29.30133",
+        sha256 = "da4cb5dc869d57fef0909a4a17670d2beef7ae4bec4fbb548632ba285a229b92"
+    },
+    ["windows-x64-vc142-4c3aafec80f5487989ddf76ad4345c5f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc142-4c3aafec80f5487989ddf76ad4345c5f.7z",
+        toolset = "14.29.30133",
+        sha256 = "ea1927b238e43853e5dd30a44c0e1db8b4e3bfe682a3742e028336aa1a91d4a5"
+    },
+    ["windows-x86-vc14.37.32822-3e23ccb48afd4ce28bc4c26f9438343f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc14.37.32822-3e23ccb48afd4ce28bc4c26f9438343f.7z",
+        toolset = "14.37.32822",
+        sha256 = "f92774d354b9d5dc3bd719a55ee9a98bf35c40777b3a6c3631c1dd789bc8f919"
+    },
+    ["windows-x64-vc14.29.30133-300286e9d5dc489ba77f4ad4c2cb1ae4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.29.30133-300286e9d5dc489ba77f4ad4c2cb1ae4.7z",
+        toolset = "14.29.30133",
+        sha256 = "942b7122a13aed3c78efc954dc8331225f95b02547c86815d644338123c7555b"
+    },
+    ["windows-x64-vc14.37.32822-d33a640964074e41a78f3838a86fa35d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x64-vc14.37.32822-d33a640964074e41a78f3838a86fa35d.7z",
+        toolset = "14.37.32822",
+        sha256 = "8ce90e6d32e6c2c9b54ecaf759d58780d1409f0649a603d30aec1aa03a1ea3a6"
+    },
+    ["windows-x86-vc141-ab380b568d524ecb82e03f7416e17ed9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc141-ab380b568d524ecb82e03f7416e17ed9.7z",
+        toolset = "14.16.27023",
+        sha256 = "502db341f6d330444930071119f7c69fa524a03221e0b2b23d40e038b3200ffc"
+    },
+    ["windows-x86-vc142-d221feddaa8f460bbb7dae5fab535b56"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libharu-2.3.0/windows-x86-vc142-d221feddaa8f460bbb7dae5fab535b56.7z",
+        toolset = "14.29.30133",
+        sha256 = "7a264fcbeb410e19069359f46518b729b2c8c5210f79d61eb93dd6209da9331d"
     }
 }
