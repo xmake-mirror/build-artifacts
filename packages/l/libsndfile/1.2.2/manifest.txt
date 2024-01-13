@@ -1,82 +1,122 @@
 {
     ["windows-x64-vc14.29.30133-033f0f1ebcd640c9a3035cf422021d29"] = {
-        sha256 = "50838384324989f68ee7ade2d72a84c8e49e6c0d0a4eefec089ea187afa612dd",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-033f0f1ebcd640c9a3035cf422021d29.7z"
+        sha256 = "d4a133f37a7b6527fddde906333a86e831899ffd7559f09b7bf73f9ae9b4f0fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-033f0f1ebcd640c9a3035cf422021d29.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-1a09ee6825994481b517253690e0fd0f"] = {
+        sha256 = "cb483bed49c32018ff4e277d5a5e738f3b13946c3b2729d8a532cdb4950a58c8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.37.32822-1a09ee6825994481b517253690e0fd0f.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-dd2cc1d2f3c349239494cb507ed9be3a"] = {
-        sha256 = "13c4c319f007595117667db83685cb08db50de87dfcfbf37ce5ae24b49ffe612",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-dd2cc1d2f3c349239494cb507ed9be3a.7z"
-    },
-    ["windows-x86-vc14.35.32215-dd2cc1d2f3c349239494cb507ed9be3a"] = {
-        sha256 = "1be9e62a2c2f50ec94b62fae5ad416007902648dade25cfaed840cab4bd4f152",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-dd2cc1d2f3c349239494cb507ed9be3a.7z"
-    },
-    ["windows-x86-vc14.29.30133-bbcff5284d0f41958fade34e5fd411d4"] = {
-        sha256 = "a827db823ff3cceb86272d6b3de1d5f48016d3d2789b9a3f820f784108e846c9",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-bbcff5284d0f41958fade34e5fd411d4.7z"
-    },
-    ["windows-x86-vc14.35.32215-dfcdcc043070417a94d7fb4573824422"] = {
-        sha256 = "dd6f8c0bbebfc75e626f98243d9cecad0662a3eb049af8dc2a2f3ec98e1c0b68",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-dfcdcc043070417a94d7fb4573824422.7z"
-    },
-    ["windows-x64-vc14.35.32215-033f0f1ebcd640c9a3035cf422021d29"] = {
-        sha256 = "60208908e931a2997934b2f234e142f02c5f0573a40255b8d0688b261974ac6b",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-033f0f1ebcd640c9a3035cf422021d29.7z"
-    },
-    ["windows-x64-vc14.29.30133-e692e9d7108a41d8881ffd8c11573689"] = {
-        sha256 = "92a288040c64362ee68235f9e22c2b60de9452787c330cc629de3dad3424f54d",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-e692e9d7108a41d8881ffd8c11573689.7z"
-    },
-    ["windows-x86-vc14.29.30133-dfcdcc043070417a94d7fb4573824422"] = {
-        sha256 = "2b5f65332361020249a474c7936eeb09a1c8050b84eef53082ff28f6e12ccd7c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-dfcdcc043070417a94d7fb4573824422.7z"
-    },
-    ["windows-x64-vc14.29.30133-0ce426a15cf3447fa0dad8fa49dec157"] = {
-        sha256 = "6351ebade977c76fe8931a9f19c1ddb9d8178b5d7a1160df6892079c83a3dab5",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-0ce426a15cf3447fa0dad8fa49dec157.7z"
-    },
-    ["windows-x64-vc14.35.32215-1a09ee6825994481b517253690e0fd0f"] = {
-        sha256 = "bf4b04bdb2a1257bc23fc249bc2687be8ecb434e65ca22957ee04911fed5abb7",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-1a09ee6825994481b517253690e0fd0f.7z"
-    },
-    ["windows-x86-vc14.35.32215-4a772e57a74247a7b599129c2198ea7e"] = {
-        sha256 = "b87414d41869188766247244464296187c521f6fd11000a6a7d3aa4504050348",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-4a772e57a74247a7b599129c2198ea7e.7z"
-    },
-    ["windows-x64-vc14.29.30133-1a09ee6825994481b517253690e0fd0f"] = {
-        sha256 = "40fd159c3bfedf2311cd200a9d4f368ec199c38861816b74daa96d7df8a41f28",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-1a09ee6825994481b517253690e0fd0f.7z"
+        sha256 = "448f7ab644d6a177f467810d2a2dab42358b835dc5305523ddeeed5cf51ab875",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-dd2cc1d2f3c349239494cb507ed9be3a.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.35.32215-e692e9d7108a41d8881ffd8c11573689"] = {
         sha256 = "54f4e88cd807270a155c3555ce5bebbfade158932330473dc8ab60f3b3303cfd",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-e692e9d7108a41d8881ffd8c11573689.7z"
-    },
-    ["windows-x64-vc14.35.32215-0ce426a15cf3447fa0dad8fa49dec157"] = {
-        sha256 = "28c3486ea9084047421c0998138ff3f395cad28513f1a26ff397444766dd725e",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-0ce426a15cf3447fa0dad8fa49dec157.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-e692e9d7108a41d8881ffd8c11573689.7z",
+        toolset = "14.35.32215"
     },
     ["windows-x86-vc14.29.30133-4a772e57a74247a7b599129c2198ea7e"] = {
-        sha256 = "7e7d7132526e0b9e0e87d1c23397bbeb0e1251947b18a6f71d5bb10cdaf36f6d",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-4a772e57a74247a7b599129c2198ea7e.7z"
+        sha256 = "ebe23449db104c7c7d0cde77ac60995d6ec2c835170a8710595c56712d9424c1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-4a772e57a74247a7b599129c2198ea7e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-0ce426a15cf3447fa0dad8fa49dec157"] = {
+        sha256 = "ad9327b2d3fa59cadb5c4f56e113b369e9d2dc08075ab3774ef503fa8015916b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-0ce426a15cf3447fa0dad8fa49dec157.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-033f0f1ebcd640c9a3035cf422021d29"] = {
+        sha256 = "0c3e348c80c83d996401d885c128d4e84770e28b99d2ceb08f4d0a0842c14aec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.37.32822-033f0f1ebcd640c9a3035cf422021d29.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-4a772e57a74247a7b599129c2198ea7e"] = {
+        sha256 = "674787cab77080e67427b8ee2f429839f7f284b6a204bf082fcaa47450d554d1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.37.32822-4a772e57a74247a7b599129c2198ea7e.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-dd2cc1d2f3c349239494cb507ed9be3a"] = {
+        sha256 = "f8869b9b2a834a4a1584015f65ba3b3495590efe9b15afb7a3c887636cc9e64e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.37.32822-dd2cc1d2f3c349239494cb507ed9be3a.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.35.32215-033f0f1ebcd640c9a3035cf422021d29"] = {
+        sha256 = "60208908e931a2997934b2f234e142f02c5f0573a40255b8d0688b261974ac6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-033f0f1ebcd640c9a3035cf422021d29.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x86-vc14.35.32215-4a772e57a74247a7b599129c2198ea7e"] = {
+        sha256 = "b87414d41869188766247244464296187c521f6fd11000a6a7d3aa4504050348",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-4a772e57a74247a7b599129c2198ea7e.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.37.32822-e692e9d7108a41d8881ffd8c11573689"] = {
+        sha256 = "5804467da664116c084779526f954e6c780b0e79bc573a5dba84b623955b3b4c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.37.32822-e692e9d7108a41d8881ffd8c11573689.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.35.32215-dfcdcc043070417a94d7fb4573824422"] = {
+        sha256 = "dd6f8c0bbebfc75e626f98243d9cecad0662a3eb049af8dc2a2f3ec98e1c0b68",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-dfcdcc043070417a94d7fb4573824422.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.29.30133-1a09ee6825994481b517253690e0fd0f"] = {
+        sha256 = "a60602e185ab4b46bd89919f33033870acc16733dc2315a00c176df3a5d253db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-1a09ee6825994481b517253690e0fd0f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.35.32215-dd2cc1d2f3c349239494cb507ed9be3a"] = {
+        sha256 = "1be9e62a2c2f50ec94b62fae5ad416007902648dade25cfaed840cab4bd4f152",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-dd2cc1d2f3c349239494cb507ed9be3a.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x64-vc14.37.32822-0ce426a15cf3447fa0dad8fa49dec157"] = {
+        sha256 = "0587585bec71a095ceea013cb7807dd7ba3ce16aa3a393a7ff5fa1f3e2abce38",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.37.32822-0ce426a15cf3447fa0dad8fa49dec157.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.35.32215-1a09ee6825994481b517253690e0fd0f"] = {
+        sha256 = "bf4b04bdb2a1257bc23fc249bc2687be8ecb434e65ca22957ee04911fed5abb7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-1a09ee6825994481b517253690e0fd0f.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x86-vc14.29.30133-bbcff5284d0f41958fade34e5fd411d4"] = {
+        sha256 = "0e5602114f5061503e28d72359f6ccc2c57b567b80a32a827da0ab888f501476",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-bbcff5284d0f41958fade34e5fd411d4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-e692e9d7108a41d8881ffd8c11573689"] = {
+        sha256 = "10ceea50b2e4d5339df15ddb7e9cdbe285f9d4ff5279340e2596f6ea61028968",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.29.30133-e692e9d7108a41d8881ffd8c11573689.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.35.32215-bbcff5284d0f41958fade34e5fd411d4"] = {
         sha256 = "364306df27c6bcabe835827b00965d7a0b81849c2627fd0d4804f441857da0d1",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-bbcff5284d0f41958fade34e5fd411d4.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.35.32215-bbcff5284d0f41958fade34e5fd411d4.7z",
+        toolset = "14.35.32215"
+    },
+    ["windows-x86-vc14.29.30133-dfcdcc043070417a94d7fb4573824422"] = {
+        sha256 = "abc1cdb89d7849099fdf5a060485f4bb1b9c9b567b93428d9ace49315cbffc79",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.29.30133-dfcdcc043070417a94d7fb4573824422.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-bbcff5284d0f41958fade34e5fd411d4"] = {
+        sha256 = "a22fd1635fcbbb26d7cf198c894bfc55791bac06df450a39e05f46d20a796acc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.37.32822-bbcff5284d0f41958fade34e5fd411d4.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-dfcdcc043070417a94d7fb4573824422"] = {
+        sha256 = "328dfa51794c71714c696d839c08e100dff1794c95e68fe59c50477072586a2b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x86-vc14.37.32822-dfcdcc043070417a94d7fb4573824422.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.35.32215-0ce426a15cf3447fa0dad8fa49dec157"] = {
+        sha256 = "28c3486ea9084047421c0998138ff3f395cad28513f1a26ff397444766dd725e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsndfile-1.2.2/windows-x64-vc14.35.32215-0ce426a15cf3447fa0dad8fa49dec157.7z",
+        toolset = "14.35.32215"
     }
 }
