@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-cef7595d194e4194a7b621d165bc4751"] = {
-        sha256 = "b90b905584ac06ef4b0bbefe8c959ba1192dabae0664dd19c8577abbe09abf71",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-cef7595d194e4194a7b621d165bc4751.7z",
-        toolset = "14.34.31933"
+    ["windows-x64-vc14.29.30133-91b90bc5bc074e4fa132e9967817cd45"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.29.30133-91b90bc5bc074e4fa132e9967817cd45.7z",
+        sha256 = "561f293a18ee271af907caca2a41440a976899f91870745e7a44362278237c4b"
     },
-    ["windows-x64-vc143-91b90bc5bc074e4fa132e9967817cd45"] = {
-        sha256 = "bb149b39c537d560668310ff2ff3d03cff9499009fbefbd082d50659e6d081bf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-91b90bc5bc074e4fa132e9967817cd45.7z",
-        toolset = "14.34.31933"
+    ["windows-x64-vc14.29.30133-cef7595d194e4194a7b621d165bc4751"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.29.30133-cef7595d194e4194a7b621d165bc4751.7z",
+        sha256 = "e04b5d2b74ff3c2411439164844856de5378c9eae2373425d731af4872445bc0"
     },
-    ["windows-x86-vc142-0088c26af54b4baea7212bd329d8a60e"] = {
-        sha256 = "2d096d3f0b486ca0eed798f55eb181688963fa38d2036a805f97420f3bff041b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-0088c26af54b4baea7212bd329d8a60e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-04a3a1c5064c4bbe9f73268105e5f848"] = {
-        sha256 = "4176d6fc0899fd3e6dab90eb1066bf4a9c40e2e8b9a7b684fdbccab271edd2a9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-04a3a1c5064c4bbe9f73268105e5f848.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-e204239cb40a4355a280617a1f989744"] = {
-        sha256 = "b01138221af9610a7d99507409d0c64b42d0c0e68048075f6fb24ede45bc609a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc143-e204239cb40a4355a280617a1f989744.7z",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc143-04a3a1c5064c4bbe9f73268105e5f848"] = {
-        sha256 = "e8b65b100dd3fa95a102aeeb7ca41761ff29389b854ef718bbb67c8596f1257b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-04a3a1c5064c4bbe9f73268105e5f848.7z",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc143-0088c26af54b4baea7212bd329d8a60e"] = {
-        sha256 = "62c7859d3dab5975648923159836bf57e81ec1eb26af13ac50dd5dc0a1e800e7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc143-0088c26af54b4baea7212bd329d8a60e.7z",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc142-91b90bc5bc074e4fa132e9967817cd45"] = {
-        sha256 = "28d20c1cd614e09a96706fdea0f9b5fd3fdb92b87125f710ae6b65378c417580",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-91b90bc5bc074e4fa132e9967817cd45.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-04a3a1c5064c4bbe9f73268105e5f848"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.37.32822-04a3a1c5064c4bbe9f73268105e5f848.7z",
+        sha256 = "54b2b6c04717a3d237a98f5823e4b9327fc07e6a6bb116b0a60acb8bdef14db2"
     },
     ["windows-x86-vc143-e2bd5798ea414d638b8090b7479b5b47"] = {
-        sha256 = "dcd4cadd0317db699257ce389efefde7fb78df9dca1521793682f0e6ba9be50a",
+        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc143-e2bd5798ea414d638b8090b7479b5b47.7z",
-        toolset = "14.34.31933"
+        sha256 = "dcd4cadd0317db699257ce389efefde7fb78df9dca1521793682f0e6ba9be50a"
     },
-    ["windows-x64-vc142-81d20901f24c4b9b99e6c6f2f3ad0a52"] = {
-        sha256 = "d5d59a39ab05a3ec65b27991aefec13f1d2821fc4ce401b9ea46a54ca6342fea",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-81d20901f24c4b9b99e6c6f2f3ad0a52.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc142-91b90bc5bc074e4fa132e9967817cd45"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-91b90bc5bc074e4fa132e9967817cd45.7z",
+        sha256 = "28d20c1cd614e09a96706fdea0f9b5fd3fdb92b87125f710ae6b65378c417580"
+    },
+    ["windows-x86-vc143-0088c26af54b4baea7212bd329d8a60e"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc143-0088c26af54b4baea7212bd329d8a60e.7z",
+        sha256 = "62c7859d3dab5975648923159836bf57e81ec1eb26af13ac50dd5dc0a1e800e7"
+    },
+    ["windows-x64-vc14.37.32822-91b90bc5bc074e4fa132e9967817cd45"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.37.32822-91b90bc5bc074e4fa132e9967817cd45.7z",
+        sha256 = "4a034bd3f12d733f6bb2154e5f503bf9b2693cafa5e6f036fdcf41a5f89265b8"
+    },
+    ["windows-x86-vc142-0088c26af54b4baea7212bd329d8a60e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-0088c26af54b4baea7212bd329d8a60e.7z",
+        sha256 = "2d096d3f0b486ca0eed798f55eb181688963fa38d2036a805f97420f3bff041b"
+    },
+    ["windows-x86-vc14.29.30133-8583971d9d8b43cdafdaf020a2a58028"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.29.30133-8583971d9d8b43cdafdaf020a2a58028.7z",
+        sha256 = "60af80127248dadc94fff631a83d281db5c8c890afb528f8ea043f2123c5e649"
+    },
+    ["windows-x64-vc14.37.32822-81d20901f24c4b9b99e6c6f2f3ad0a52"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.37.32822-81d20901f24c4b9b99e6c6f2f3ad0a52.7z",
+        sha256 = "af6334b6d2a15f676658d75ec251f36730983d4917a84379b43735352743899e"
+    },
+    ["windows-x64-vc143-04a3a1c5064c4bbe9f73268105e5f848"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-04a3a1c5064c4bbe9f73268105e5f848.7z",
+        sha256 = "e8b65b100dd3fa95a102aeeb7ca41761ff29389b854ef718bbb67c8596f1257b"
+    },
+    ["windows-x86-vc14.37.32822-e204239cb40a4355a280617a1f989744"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.37.32822-e204239cb40a4355a280617a1f989744.7z",
+        sha256 = "98b1fcb00535c9950d355c3d43413d2b52015b8fcd2b4f970ab4a04f486a062c"
     },
     ["windows-x64-vc142-cef7595d194e4194a7b621d165bc4751"] = {
-        sha256 = "2b88c498e6158028bd15029d3ed1ba5dd1b22312579fd23fa9544a1180e6dc6e",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-cef7595d194e4194a7b621d165bc4751.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-8583971d9d8b43cdafdaf020a2a58028"] = {
-        sha256 = "cdd5d461c5e806d40d06b2331480acd1c46c2108d081219535e06a57b52d1451",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-8583971d9d8b43cdafdaf020a2a58028.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-e2bd5798ea414d638b8090b7479b5b47"] = {
-        sha256 = "75ff0a2c3ed32d23fcfbe1cd9f92a0608a1dc33d502ff260c38b99c34c836892",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-e2bd5798ea414d638b8090b7479b5b47.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-e204239cb40a4355a280617a1f989744"] = {
-        sha256 = "83cd8cbe1e740bbfb0d9fb5b9deb4079e30bc791e61555f44681795d661b7c17",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-e204239cb40a4355a280617a1f989744.7z",
-        toolset = "14.29.30133"
+        sha256 = "2b88c498e6158028bd15029d3ed1ba5dd1b22312579fd23fa9544a1180e6dc6e"
     },
     ["windows-x86-vc143-8583971d9d8b43cdafdaf020a2a58028"] = {
-        sha256 = "dcb43586c73ebfa1f1f0182eb3c278a957b7d4759af7e13be1c5835a1e23b6ce",
+        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc143-8583971d9d8b43cdafdaf020a2a58028.7z",
-        toolset = "14.34.31933"
+        sha256 = "dcb43586c73ebfa1f1f0182eb3c278a957b7d4759af7e13be1c5835a1e23b6ce"
+    },
+    ["windows-x86-vc14.29.30133-e2bd5798ea414d638b8090b7479b5b47"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.29.30133-e2bd5798ea414d638b8090b7479b5b47.7z",
+        sha256 = "1c96e972e3100dbfdf33b43d8272374c39b0efbe3077f9aa943b982a226cc170"
+    },
+    ["windows-x86-vc14.37.32822-0088c26af54b4baea7212bd329d8a60e"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.37.32822-0088c26af54b4baea7212bd329d8a60e.7z",
+        sha256 = "24892a8b1078498aa8c8af3c225b9404531202200aea28b583f4e01cef1e3c5d"
+    },
+    ["windows-x86-vc14.29.30133-e204239cb40a4355a280617a1f989744"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.29.30133-e204239cb40a4355a280617a1f989744.7z",
+        sha256 = "cf6861f8f58cee6c8a25a25aeacf230686416ec75f945bc20b2acce08725813f"
+    },
+    ["windows-x86-vc142-e2bd5798ea414d638b8090b7479b5b47"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-e2bd5798ea414d638b8090b7479b5b47.7z",
+        sha256 = "75ff0a2c3ed32d23fcfbe1cd9f92a0608a1dc33d502ff260c38b99c34c836892"
+    },
+    ["windows-x86-vc14.29.30133-0088c26af54b4baea7212bd329d8a60e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.29.30133-0088c26af54b4baea7212bd329d8a60e.7z",
+        sha256 = "30137122956011a60135703eabeba8ea4eb85281ba76636cc4e5f51df655a5dd"
+    },
+    ["windows-x64-vc14.29.30133-04a3a1c5064c4bbe9f73268105e5f848"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.29.30133-04a3a1c5064c4bbe9f73268105e5f848.7z",
+        sha256 = "a817d3fc0decf0abbf0da69521280138abe46d627797bf85bbed5eba6a878857"
+    },
+    ["windows-x86-vc142-e204239cb40a4355a280617a1f989744"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-e204239cb40a4355a280617a1f989744.7z",
+        sha256 = "83cd8cbe1e740bbfb0d9fb5b9deb4079e30bc791e61555f44681795d661b7c17"
+    },
+    ["windows-x64-vc143-cef7595d194e4194a7b621d165bc4751"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-cef7595d194e4194a7b621d165bc4751.7z",
+        sha256 = "b90b905584ac06ef4b0bbefe8c959ba1192dabae0664dd19c8577abbe09abf71"
     },
     ["windows-x64-vc143-81d20901f24c4b9b99e6c6f2f3ad0a52"] = {
-        sha256 = "7fb728a05cf219c0542c366f658723418e069738cf9501ea87d2564e29f0a6cf",
+        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-81d20901f24c4b9b99e6c6f2f3ad0a52.7z",
-        toolset = "14.34.31933"
+        sha256 = "7fb728a05cf219c0542c366f658723418e069738cf9501ea87d2564e29f0a6cf"
+    },
+    ["windows-x86-vc143-e204239cb40a4355a280617a1f989744"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc143-e204239cb40a4355a280617a1f989744.7z",
+        sha256 = "b01138221af9610a7d99507409d0c64b42d0c0e68048075f6fb24ede45bc609a"
+    },
+    ["windows-x64-vc14.29.30133-81d20901f24c4b9b99e6c6f2f3ad0a52"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.29.30133-81d20901f24c4b9b99e6c6f2f3ad0a52.7z",
+        sha256 = "16dc10988b94d6031243947167538a9daea763741757384d60c500a7ef871a97"
+    },
+    ["windows-x86-vc14.37.32822-e2bd5798ea414d638b8090b7479b5b47"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.37.32822-e2bd5798ea414d638b8090b7479b5b47.7z",
+        sha256 = "edf75e2eb7b95e80c50f9620de8d4a7d4b46ec21e088174dc8e9454a973dece9"
+    },
+    ["windows-x64-vc142-04a3a1c5064c4bbe9f73268105e5f848"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-04a3a1c5064c4bbe9f73268105e5f848.7z",
+        sha256 = "4176d6fc0899fd3e6dab90eb1066bf4a9c40e2e8b9a7b684fdbccab271edd2a9"
+    },
+    ["windows-x64-vc142-81d20901f24c4b9b99e6c6f2f3ad0a52"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc142-81d20901f24c4b9b99e6c6f2f3ad0a52.7z",
+        sha256 = "d5d59a39ab05a3ec65b27991aefec13f1d2821fc4ce401b9ea46a54ca6342fea"
+    },
+    ["windows-x86-vc14.37.32822-8583971d9d8b43cdafdaf020a2a58028"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc14.37.32822-8583971d9d8b43cdafdaf020a2a58028.7z",
+        sha256 = "2fbdaa13084b785ca088e6786a867fa02e6107e69ba9c79e8ea6bf2d88294a94"
+    },
+    ["windows-x64-vc143-91b90bc5bc074e4fa132e9967817cd45"] = {
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc143-91b90bc5bc074e4fa132e9967817cd45.7z",
+        sha256 = "bb149b39c537d560668310ff2ff3d03cff9499009fbefbd082d50659e6d081bf"
+    },
+    ["windows-x64-vc14.37.32822-cef7595d194e4194a7b621d165bc4751"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x64-vc14.37.32822-cef7595d194e4194a7b621d165bc4751.7z",
+        sha256 = "3a8bb1c51617e4862d8b65f43a472df6b7a9df1021aadb663b60e3d4f8621ee8"
+    },
+    ["windows-x86-vc142-8583971d9d8b43cdafdaf020a2a58028"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zeromq-4.3.4/windows-x86-vc142-8583971d9d8b43cdafdaf020a2a58028.7z",
+        sha256 = "cdd5d461c5e806d40d06b2331480acd1c46c2108d081219535e06a57b52d1451"
     }
 }
