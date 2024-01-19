@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-9913213ee3c54130aec73baaee40354d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-9913213ee3c54130aec73baaee40354d.7z",
-        toolset = "14.33.31629",
-        sha256 = "18bc7b4685de96e84ad60c1c9d11f0bfe4e429531c3fffc95e477257df96d536"
+    ["windows-x86-vc14.37.32822-d1f985bef5764ad29de7ed50fd7f77f6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.37.32822-d1f985bef5764ad29de7ed50fd7f77f6.7z",
+        sha256 = "7404257d3d25d9318538cd3ca3109fd0432123c1fc16aee46e03f3e81e892cfa",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc142-4e8d3304398c49f5a71f01c3cd55869e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-4e8d3304398c49f5a71f01c3cd55869e.7z",
-        toolset = "14.29.30133",
-        sha256 = "3a5bccbd7e53cef110f35c598b6ceb5e54fa254afa8519e0d5a21dcf273ee05d"
+    ["windows-x86-vc14.37.32822-bd388d87141a41178f07af5dd8b31a6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.37.32822-bd388d87141a41178f07af5dd8b31a6d.7z",
+        sha256 = "6fbc965ef4cedf3955c4e85952bbd2619e2fd9cf650d0ac822f9186579c98f84",
+        toolset = "14.37.32822"
     },
-    ["windows-x86-vc142-b00fe442591841158c4845c3c6c300e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-b00fe442591841158c4845c3c6c300e7.7z",
-        toolset = "14.29.30133",
-        sha256 = "f10fb158dadd675cfbd39dd0501e31e249305bc2626553e67970be72d3115b65"
-    },
-    ["windows-x64-vc143-4e8d3304398c49f5a71f01c3cd55869e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-4e8d3304398c49f5a71f01c3cd55869e.7z",
-        toolset = "14.33.31629",
-        sha256 = "d9d443728d6afe48ea8e9b52e8575b59714c35ff8fa8ccbafebd2769c8270106"
-    },
-    ["windows-x64-vc142-84489d10b0b3404a89b267a85efdfee9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-84489d10b0b3404a89b267a85efdfee9.7z",
-        toolset = "14.29.30133",
-        sha256 = "ce788ed48e894024f19622c4952c276e076a1cbbc25cdbb32dcd36df0296b256"
-    },
-    ["windows-x64-vc143-2d6d0aa7110741619333d56a6fecbbcd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-2d6d0aa7110741619333d56a6fecbbcd.7z",
-        toolset = "14.33.31629",
-        sha256 = "3a7a45c4f374b96090ff9bdd15ac8f8511c7030248cddb96ffbdecbc2db3ddfb"
-    },
-    ["windows-x64-vc142-2d6d0aa7110741619333d56a6fecbbcd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-2d6d0aa7110741619333d56a6fecbbcd.7z",
-        toolset = "14.29.30133",
-        sha256 = "f61242a1eb3449b575dae6962cffe08d39d321deeef575c4dc0fc5f74704a307"
-    },
-    ["windows-x64-vc143-84489d10b0b3404a89b267a85efdfee9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-84489d10b0b3404a89b267a85efdfee9.7z",
-        toolset = "14.33.31629",
-        sha256 = "d3a3b16cdc462f840badb8e0b5d84f96fd2d80af9072979644170af227b973b4"
-    },
-    ["windows-x86-vc143-d1f985bef5764ad29de7ed50fd7f77f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-d1f985bef5764ad29de7ed50fd7f77f6.7z",
-        toolset = "14.33.31629",
-        sha256 = "58b4bf45a3896062af803b9cf1241607b862714ba7aa17c581d3d6a607a85ef6"
-    },
-    ["windows-x86-vc143-b00fe442591841158c4845c3c6c300e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-b00fe442591841158c4845c3c6c300e7.7z",
-        toolset = "14.33.31629",
-        sha256 = "70a6f8b1bfda7319856ec6b28c32b88a3ce962081ebfd264539ad4d6945be9c1"
-    },
-    ["windows-x86-vc142-bd388d87141a41178f07af5dd8b31a6d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-bd388d87141a41178f07af5dd8b31a6d.7z",
-        toolset = "14.29.30133",
-        sha256 = "4e95ba49fabfd6c21a28a0aa0a35a714ffc1a984b62fe61d432726c964b5253e"
-    },
-    ["windows-x64-vc142-9913213ee3c54130aec73baaee40354d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-9913213ee3c54130aec73baaee40354d.7z",
-        toolset = "14.29.30133",
-        sha256 = "265284690afb44f19b9aa3005562eab0edf0dd0a1688e460ff40944236ac3119"
-    },
-    ["windows-x86-vc142-d1f985bef5764ad29de7ed50fd7f77f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-d1f985bef5764ad29de7ed50fd7f77f6.7z",
-        toolset = "14.29.30133",
-        sha256 = "4bfbbaecaa168d47de8a6dc482a82a4dc919d7cb47199553cdfedfde8d54f6a0"
+    ["windows-x86-vc14.29.30133-b00fe442591841158c4845c3c6c300e7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.29.30133-b00fe442591841158c4845c3c6c300e7.7z",
+        sha256 = "d4a6d1c1cb3cebfc0c4eb334d123a4cab03f5270a22fffea2b72c1f8bdf5a267",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc143-e8cf0212dff0412a8ce443b7c6beb7c1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-e8cf0212dff0412a8ce443b7c6beb7c1.7z",
-        toolset = "14.33.31629",
-        sha256 = "a19b0c30f205092e5ee51e68550aa53c85f50752556350dfde9047c2d78aa517"
+        sha256 = "a19b0c30f205092e5ee51e68550aa53c85f50752556350dfde9047c2d78aa517",
+        toolset = "14.33.31629"
     },
-    ["windows-x86-vc143-bd388d87141a41178f07af5dd8b31a6d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-bd388d87141a41178f07af5dd8b31a6d.7z",
-        toolset = "14.33.31629",
-        sha256 = "db020ff1adfd65d183a7f37b21cf8d5362ef09894e7b99ae1cdc69c421b6219d"
+    ["windows-x64-vc142-2d6d0aa7110741619333d56a6fecbbcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-2d6d0aa7110741619333d56a6fecbbcd.7z",
+        sha256 = "f61242a1eb3449b575dae6962cffe08d39d321deeef575c4dc0fc5f74704a307",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-84489d10b0b3404a89b267a85efdfee9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-84489d10b0b3404a89b267a85efdfee9.7z",
+        sha256 = "d3a3b16cdc462f840badb8e0b5d84f96fd2d80af9072979644170af227b973b4",
+        toolset = "14.33.31629"
     },
     ["windows-x86-vc142-e8cf0212dff0412a8ce443b7c6beb7c1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-e8cf0212dff0412a8ce443b7c6beb7c1.7z",
-        toolset = "14.29.30133",
-        sha256 = "43b9dfe9bf6914e53cade9bc69666534f3dbda8c8501eb5bbab64e2291f16a41"
+        sha256 = "43b9dfe9bf6914e53cade9bc69666534f3dbda8c8501eb5bbab64e2291f16a41",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-84489d10b0b3404a89b267a85efdfee9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.37.32822-84489d10b0b3404a89b267a85efdfee9.7z",
+        sha256 = "3c6489e33ee642915d2c951456dc5ff8ac69471ed68d6bb142019e961dc50472",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc143-bd388d87141a41178f07af5dd8b31a6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-bd388d87141a41178f07af5dd8b31a6d.7z",
+        sha256 = "db020ff1adfd65d183a7f37b21cf8d5362ef09894e7b99ae1cdc69c421b6219d",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc142-b00fe442591841158c4845c3c6c300e7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-b00fe442591841158c4845c3c6c300e7.7z",
+        sha256 = "f10fb158dadd675cfbd39dd0501e31e249305bc2626553e67970be72d3115b65",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-2d6d0aa7110741619333d56a6fecbbcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.37.32822-2d6d0aa7110741619333d56a6fecbbcd.7z",
+        sha256 = "6178856d8d349d2b0e5bbe3b627f0e847a008d765e15201f576af984aa06459f",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-9913213ee3c54130aec73baaee40354d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.29.30133-9913213ee3c54130aec73baaee40354d.7z",
+        sha256 = "dad15e6f8a8a5827486ce5eefc21c08eb93f308c086bff99ef330425ac75719b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-d1f985bef5764ad29de7ed50fd7f77f6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-d1f985bef5764ad29de7ed50fd7f77f6.7z",
+        sha256 = "58b4bf45a3896062af803b9cf1241607b862714ba7aa17c581d3d6a607a85ef6",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.29.30133-d1f985bef5764ad29de7ed50fd7f77f6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.29.30133-d1f985bef5764ad29de7ed50fd7f77f6.7z",
+        sha256 = "2afae8b860d500d885dc6877e2937c7096191381e196c04fe7191335059b3c8a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-2d6d0aa7110741619333d56a6fecbbcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.29.30133-2d6d0aa7110741619333d56a6fecbbcd.7z",
+        sha256 = "aa2ced5251a6119fc7af6c56ff449a9bc1510ce65bb9461b49e36cb432dd7d5b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-4e8d3304398c49f5a71f01c3cd55869e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-4e8d3304398c49f5a71f01c3cd55869e.7z",
+        sha256 = "3a5bccbd7e53cef110f35c598b6ceb5e54fa254afa8519e0d5a21dcf273ee05d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-4e8d3304398c49f5a71f01c3cd55869e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.37.32822-4e8d3304398c49f5a71f01c3cd55869e.7z",
+        sha256 = "666e72625fa1f36a3f5086ac80575ac3da5447ecc095652efd3f35c4c24cfb5f",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-bd388d87141a41178f07af5dd8b31a6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.29.30133-bd388d87141a41178f07af5dd8b31a6d.7z",
+        sha256 = "e4a685094d1bc3d5dcbbfd49e2eb3720eade2d967d45efae4fd54025a7b9d48a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-d1f985bef5764ad29de7ed50fd7f77f6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-d1f985bef5764ad29de7ed50fd7f77f6.7z",
+        sha256 = "4bfbbaecaa168d47de8a6dc482a82a4dc919d7cb47199553cdfedfde8d54f6a0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-2d6d0aa7110741619333d56a6fecbbcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-2d6d0aa7110741619333d56a6fecbbcd.7z",
+        sha256 = "3a7a45c4f374b96090ff9bdd15ac8f8511c7030248cddb96ffbdecbc2db3ddfb",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.37.32822-e8cf0212dff0412a8ce443b7c6beb7c1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.37.32822-e8cf0212dff0412a8ce443b7c6beb7c1.7z",
+        sha256 = "4de33fa38f836f7f42846ebceba1aad40cf54badb72b2de808a2cca407555afd",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-84489d10b0b3404a89b267a85efdfee9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.29.30133-84489d10b0b3404a89b267a85efdfee9.7z",
+        sha256 = "cbdd6ad7bddae2d467343b6a112c9b801fe5e556866e9c094deae98391e1d99d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-84489d10b0b3404a89b267a85efdfee9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-84489d10b0b3404a89b267a85efdfee9.7z",
+        sha256 = "ce788ed48e894024f19622c4952c276e076a1cbbc25cdbb32dcd36df0296b256",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-b00fe442591841158c4845c3c6c300e7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc143-b00fe442591841158c4845c3c6c300e7.7z",
+        sha256 = "70a6f8b1bfda7319856ec6b28c32b88a3ce962081ebfd264539ad4d6945be9c1",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc14.29.30133-4e8d3304398c49f5a71f01c3cd55869e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.29.30133-4e8d3304398c49f5a71f01c3cd55869e.7z",
+        sha256 = "6bc4287931fd42aac2ca604bcf19b89b33299a4eeaaf254e78e4e239bf8425f3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-bd388d87141a41178f07af5dd8b31a6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc142-bd388d87141a41178f07af5dd8b31a6d.7z",
+        sha256 = "4e95ba49fabfd6c21a28a0aa0a35a714ffc1a984b62fe61d432726c964b5253e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-e8cf0212dff0412a8ce443b7c6beb7c1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.29.30133-e8cf0212dff0412a8ce443b7c6beb7c1.7z",
+        sha256 = "65bfcfabaa613fdd05fa41bf6ec87f7da29b1c95aa415647b4481358e2e7e877",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-9913213ee3c54130aec73baaee40354d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc142-9913213ee3c54130aec73baaee40354d.7z",
+        sha256 = "265284690afb44f19b9aa3005562eab0edf0dd0a1688e460ff40944236ac3119",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-4e8d3304398c49f5a71f01c3cd55869e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-4e8d3304398c49f5a71f01c3cd55869e.7z",
+        sha256 = "d9d443728d6afe48ea8e9b52e8575b59714c35ff8fa8ccbafebd2769c8270106",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc14.37.32822-9913213ee3c54130aec73baaee40354d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc14.37.32822-9913213ee3c54130aec73baaee40354d.7z",
+        sha256 = "e4e816c6a5ec263db1db2da231d7c649a2f620394a8e0dbd4f0cd9cbf88445e0",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc143-9913213ee3c54130aec73baaee40354d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x64-vc143-9913213ee3c54130aec73baaee40354d.7z",
+        sha256 = "18bc7b4685de96e84ad60c1c9d11f0bfe4e429531c3fffc95e477257df96d536",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.37.32822-b00fe442591841158c4845c3c6c300e7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/suitesparse-v5.13.0/windows-x86-vc14.37.32822-b00fe442591841158c4845c3c6c300e7.7z",
+        sha256 = "1642bcb6a32756dbe79187a95f160d35e1c4207d28ff1e11d2b2790574899c58",
+        toolset = "14.37.32822"
     }
 }
