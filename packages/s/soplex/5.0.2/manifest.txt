@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc141-2863d3580e724cfc881112cb713802b1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc141-2863d3580e724cfc881112cb713802b1.7z",
-        sha256 = "cb6b57c5e0f8677bd4ad40f557228fd8cee1214288c89d66559b182cf599cfd3",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-5917247a75934f7dbca13bd5eb63cb77"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc142-5917247a75934f7dbca13bd5eb63cb77.7z",
-        sha256 = "c2d78d93c06f302f3946997522f5b451a3c10afe4c167a76e21abe42ee763fd1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-5917247a75934f7dbca13bd5eb63cb77"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc141-5917247a75934f7dbca13bd5eb63cb77.7z",
-        sha256 = "9f4ef59d5cf29d44f4e7c01254723171cd74e8774e1c1718e7f6e851ca4ba175",
-        toolset = "14.16.27023"
+    ["windows-x86-vc142-99c5699982be4c8cb121aa50d040b5de"] = {
+        sha256 = "d5c20595bd9fa8580ceced5e2697c4b2121224453f01692dd03e26d0a9f7250b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc142-99c5699982be4c8cb121aa50d040b5de.7z"
     },
     ["windows-x64-vc142-2863d3580e724cfc881112cb713802b1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc142-2863d3580e724cfc881112cb713802b1.7z",
         sha256 = "1568f94637c98021083ff77eccb6ae711e3bba790b2e3cea3bc49cad7e0addde",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-6d9881e7579049d1871eedc6f80f4433"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc142-6d9881e7579049d1871eedc6f80f4433.7z",
-        sha256 = "55fb46d8312e05e93390fe675f4da78e8a8750b7ecae19361d22b401fa12f40a",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc142-2863d3580e724cfc881112cb713802b1.7z"
     },
     ["windows-x86-vc141-99c5699982be4c8cb121aa50d040b5de"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc141-99c5699982be4c8cb121aa50d040b5de.7z",
         sha256 = "94ee38fe025b5d36b4f1cb2b6232b4c7860e08d09b7084de4514dab5f6d24d39",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc141-99c5699982be4c8cb121aa50d040b5de.7z"
+    },
+    ["windows-x64-vc141-2863d3580e724cfc881112cb713802b1"] = {
+        sha256 = "cb6b57c5e0f8677bd4ad40f557228fd8cee1214288c89d66559b182cf599cfd3",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc141-2863d3580e724cfc881112cb713802b1.7z"
+    },
+    ["windows-x86-vc14.37.32822-5917247a75934f7dbca13bd5eb63cb77"] = {
+        sha256 = "5856d331fd2ccd015323abc0f4422491c6595ee6881ea0d90a9cd13d68dfbfff",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc14.37.32822-5917247a75934f7dbca13bd5eb63cb77.7z"
+    },
+    ["windows-x64-vc14.37.32822-6d9881e7579049d1871eedc6f80f4433"] = {
+        sha256 = "45aa2cd377019e3ca57babd7e9a7ba5a3a94e4a6041da35ab1b759cc9f82d889",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc14.37.32822-6d9881e7579049d1871eedc6f80f4433.7z"
+    },
+    ["windows-x86-vc141-5917247a75934f7dbca13bd5eb63cb77"] = {
+        sha256 = "9f4ef59d5cf29d44f4e7c01254723171cd74e8774e1c1718e7f6e851ca4ba175",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc141-5917247a75934f7dbca13bd5eb63cb77.7z"
+    },
+    ["windows-x64-vc14.29.30133-2863d3580e724cfc881112cb713802b1"] = {
+        sha256 = "e133a1e30c45f0e22dc5288ee11ef92aabc8e5e6667a651e6b02649ca2136ebf",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc14.29.30133-2863d3580e724cfc881112cb713802b1.7z"
+    },
+    ["windows-x86-vc14.37.32822-99c5699982be4c8cb121aa50d040b5de"] = {
+        sha256 = "c10d4fb415540fd6f26e676151091fa13e2e9edf72117ab39fad1a2db9ac395e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc14.37.32822-99c5699982be4c8cb121aa50d040b5de.7z"
+    },
+    ["windows-x86-vc142-5917247a75934f7dbca13bd5eb63cb77"] = {
+        sha256 = "c2d78d93c06f302f3946997522f5b451a3c10afe4c167a76e21abe42ee763fd1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc142-5917247a75934f7dbca13bd5eb63cb77.7z"
+    },
+    ["windows-x64-vc14.37.32822-2863d3580e724cfc881112cb713802b1"] = {
+        sha256 = "69178f3df2725cc7201f00d951282e4c750a1fcea31a7905418b1fbed5eccf14",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc14.37.32822-2863d3580e724cfc881112cb713802b1.7z"
+    },
+    ["windows-x64-vc14.29.30133-6d9881e7579049d1871eedc6f80f4433"] = {
+        sha256 = "9e3b0e0041b8df9918d1d3038d750b15b0e43533b1114c6dbaf4a3217b6d8916",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc14.29.30133-6d9881e7579049d1871eedc6f80f4433.7z"
+    },
+    ["windows-x64-vc142-6d9881e7579049d1871eedc6f80f4433"] = {
+        sha256 = "55fb46d8312e05e93390fe675f4da78e8a8750b7ecae19361d22b401fa12f40a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc142-6d9881e7579049d1871eedc6f80f4433.7z"
+    },
+    ["windows-x86-vc14.29.30133-99c5699982be4c8cb121aa50d040b5de"] = {
+        sha256 = "ad2c20f64cbd57247ea099cf582ee614a79ff851e4fd8db2c0c6ad6c2088f688",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc14.29.30133-99c5699982be4c8cb121aa50d040b5de.7z"
     },
     ["windows-x64-vc141-6d9881e7579049d1871eedc6f80f4433"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc141-6d9881e7579049d1871eedc6f80f4433.7z",
         sha256 = "503c6622f483b153f31b63805e0ae3eec3d0639eb943e35d449f0ae8c586ea0b",
-        toolset = "14.16.27023"
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x64-vc141-6d9881e7579049d1871eedc6f80f4433.7z"
     },
-    ["windows-x86-vc142-99c5699982be4c8cb121aa50d040b5de"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc142-99c5699982be4c8cb121aa50d040b5de.7z",
-        sha256 = "d5c20595bd9fa8580ceced5e2697c4b2121224453f01692dd03e26d0a9f7250b",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-5917247a75934f7dbca13bd5eb63cb77"] = {
+        sha256 = "b8bc67aae335c7a2f892ce0941c851bd2a7ac95453d5eafac414ab423b1113a8",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/soplex-5.0.2/windows-x86-vc14.29.30133-5917247a75934f7dbca13bd5eb63cb77.7z"
     }
 }
