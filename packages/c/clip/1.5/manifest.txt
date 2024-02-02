@@ -1,7 +1,22 @@
 {
-    ["windows-x64-vc14.29.30133-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
-        sha256 = "8ccb19cabb1ac34c685b604952a3450c4fe42d66b869da80a561d91ada0c4128",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
+    ["windows-x64-vc143-a33b7053943748f1bcd357a23a798dc9"] = {
+        sha256 = "0326157b5ce6feb8bee6ed978401d7e6e4ab0e665fde70fc8b7661a5ec244d0d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-a33b7053943748f1bcd357a23a798dc9.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc14.29.30133-b49e52eb8bfb4756a724a70d4c1e7614"] = {
+        sha256 = "8378ca754efff0d5700ec5050e609500828396c88c5741e2938b302f0af25f94",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-b49e52eb8bfb4756a724a70d4c1e7614.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-0e196d7f7cf54b3092f656b1449ccd58"] = {
+        sha256 = "ed9e01f720b1591613f39075c6bec27bd8a7c9c6d31d6a2c1c7c5451e01dba51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-0e196d7f7cf54b3092f656b1449ccd58.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-0379da1389944c55b7f902f17ad2c068"] = {
+        sha256 = "c64b082fcd0e218bec07e7a7667a323e942d8eb8ff8fb47a084ad6dd6886f1e5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-0379da1389944c55b7f902f17ad2c068.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc142-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
@@ -9,59 +24,29 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc142-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-a33b7053943748f1bcd357a23a798dc9"] = {
-        sha256 = "526e365f5aa989684bd8b1d6685f934d1275801086d4d72276febfd76c6daedc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-a33b7053943748f1bcd357a23a798dc9.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-41772fa7102446738dca00ab5d0a45c1"] = {
-        sha256 = "365412e9596f18093bb053f042dac2faba68dd762cabce4d410c661de78e89dd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-41772fa7102446738dca00ab5d0a45c1.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
-        sha256 = "30750745ba2346c29d91b195055226f284b7e2d55689f79938648a173adcb510",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc143-41772fa7102446738dca00ab5d0a45c1"] = {
-        sha256 = "d0a5144e36f5774614f2c4c4e116a2b6985056e6a5f9a75aa91e39b223e63c31",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-41772fa7102446738dca00ab5d0a45c1.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc142-41772fa7102446738dca00ab5d0a45c1"] = {
-        sha256 = "c1169b599831eb0f6b8e0492b63d7f8c13c8e547b1c74977a18d52fb19d3e6e7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc142-41772fa7102446738dca00ab5d0a45c1.7z",
+    ["windows-x64-vc14.29.30133-a33b7053943748f1bcd357a23a798dc9"] = {
+        sha256 = "bb6131b783f390db9993814f5021450c724b6faef955aeed2f4b1564d9f25c91",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-a33b7053943748f1bcd357a23a798dc9.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-a7f536efd51c4f92934795fbd9aa884a"] = {
-        sha256 = "efd17591939c8086e43108459f0e9fecbae5f15fd812a91214c3b1cde6fad399",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-a7f536efd51c4f92934795fbd9aa884a.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-0e196d7f7cf54b3092f656b1449ccd58"] = {
-        sha256 = "fd60868be1968df18e54cb5f593c9c2865cf8f5e06ec44595d29fda261803e3e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-0e196d7f7cf54b3092f656b1449ccd58.7z",
+    ["windows-x64-vc14.29.30133-680d745e911749e1a4fa0292f763c052"] = {
+        sha256 = "26f072a8ebdb527b7ecb97b7adb1283eb20f6428ef35a09a960dff16367cf50c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-680d745e911749e1a4fa0292f763c052.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc143-a33b7053943748f1bcd357a23a798dc9"] = {
-        sha256 = "0326157b5ce6feb8bee6ed978401d7e6e4ab0e665fde70fc8b7661a5ec244d0d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-a33b7053943748f1bcd357a23a798dc9.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc143-a7f536efd51c4f92934795fbd9aa884a"] = {
-        sha256 = "514cbb3f95fcbd4e73aaede936353b3d175e42536b29656fca6e6b55f91b2930",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-a7f536efd51c4f92934795fbd9aa884a.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc14.37.32822-0e196d7f7cf54b3092f656b1449ccd58"] = {
-        sha256 = "ed9e01f720b1591613f39075c6bec27bd8a7c9c6d31d6a2c1c7c5451e01dba51",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-0e196d7f7cf54b3092f656b1449ccd58.7z",
+    ["windows-x86-vc14.37.32822-7f96f63746f0419780492221654cd51d"] = {
+        sha256 = "9f6a0f8ddb9b3b39ed5c1910563684ba6ba119c7bdb5b04f2c65fe727d553cd3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-7f96f63746f0419780492221654cd51d.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.37.32822-6873b3b8dce8433dba9ad65830bbfffc"] = {
-        sha256 = "e6319da871f57191e591a81ee9d8a1429f87fcff12e10b190ad89b23acf6808d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-6873b3b8dce8433dba9ad65830bbfffc.7z",
+    ["windows-x86-vc14.29.30133-7f96f63746f0419780492221654cd51d"] = {
+        sha256 = "2071e02e7e35ba365f67ae346e153a7e937cda400d40ffcca91fd8bd950242b7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-7f96f63746f0419780492221654cd51d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-64af434a5bce44beba11ccb1d3144eae"] = {
+        sha256 = "8edcd3966ed8d8a521f9214667ae554c6f10c64e809e4f29dda38541252defe2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-64af434a5bce44beba11ccb1d3144eae.7z",
         toolset = "14.37.32822"
     },
     ["windows-x64-vc14.29.30133-a7f536efd51c4f92934795fbd9aa884a"] = {
@@ -69,39 +54,29 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-a7f536efd51c4f92934795fbd9aa884a.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-711d9631f25b4795b5d95a245fffb089"] = {
-        sha256 = "2c940b33b84c27a4206f950620edcc1ef285419c449a6ef53c0e08c681a2aa51",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-711d9631f25b4795b5d95a245fffb089.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-ba12339a78e6431a9623cce9de052bea"] = {
+        sha256 = "ea5dc36561e78f81fc86331fccf1fbb41d97aa4651e9bedfd67eed0ad98f6c81",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-ba12339a78e6431a9623cce9de052bea.7z",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.29.30133-a33b7053943748f1bcd357a23a798dc9"] = {
-        sha256 = "bb6131b783f390db9993814f5021450c724b6faef955aeed2f4b1564d9f25c91",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-a33b7053943748f1bcd357a23a798dc9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-711d9631f25b4795b5d95a245fffb089"] = {
-        sha256 = "38a323b517eef7ad58dbabde8a01d62acc98338d30358bfafd5264c418ab00ad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-711d9631f25b4795b5d95a245fffb089.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc143-58ac3864940d4069a83d960c1c5c02e3"] = {
-        sha256 = "cb902a0ca7c34c41c0b769fb6c5fbf3655fd29331aee155a765b49757d1ea5b2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-58ac3864940d4069a83d960c1c5c02e3.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc143-0e196d7f7cf54b3092f656b1449ccd58"] = {
-        sha256 = "d2d7c8537ac65df984b6ef5114c4625c5d295e5914865a6ddda7ffd9e08a9815",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-0e196d7f7cf54b3092f656b1449ccd58.7z",
-        toolset = "14.32.31326"
+    ["windows-x86-vc14.37.32822-711d9631f25b4795b5d95a245fffb089"] = {
+        sha256 = "179c8cf48f52e0b814a103e29b67083f44fc3e5c8b4c49d958b624589f391ce7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-711d9631f25b4795b5d95a245fffb089.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-6873b3b8dce8433dba9ad65830bbfffc"] = {
         sha256 = "6af788ec9166fb201dc1d910fde0d19e216503710c8298c661d846d2ffe680d2",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-6873b3b8dce8433dba9ad65830bbfffc.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-58ac3864940d4069a83d960c1c5c02e3"] = {
-        sha256 = "14cf47b01cf7f21280831361408629279e440316736a9c07059ad000f75b1ade",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-58ac3864940d4069a83d960c1c5c02e3.7z",
+    ["windows-x86-vc14.37.32822-644fab16f2d24c5b8e5ac3bdcabdcfa4"] = {
+        sha256 = "dcdf733f14992b4746306782d82f8f9aded4da66c01c7cf4be1ea3323126706c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-644fab16f2d24c5b8e5ac3bdcabdcfa4.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-644fab16f2d24c5b8e5ac3bdcabdcfa4"] = {
+        sha256 = "550720bae9d7c3d32a73bb6145ff873077fefcb6bc7eed71be7c7c908fadca68",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-644fab16f2d24c5b8e5ac3bdcabdcfa4.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-58ac3864940d4069a83d960c1c5c02e3"] = {
@@ -109,9 +84,29 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-58ac3864940d4069a83d960c1c5c02e3.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-a33b7053943748f1bcd357a23a798dc9"] = {
-        sha256 = "c1514fa5cfe357c3f4f8afd2f5f325f168da01d4cb390d25851ed9ba269fdb44",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc142-a33b7053943748f1bcd357a23a798dc9.7z",
+    ["windows-x64-vc14.37.32822-680d745e911749e1a4fa0292f763c052"] = {
+        sha256 = "cef2b07d1ec4c93b0fe3f3fb2392702b04fce7483434c86270c6a8224f41b0da",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-680d745e911749e1a4fa0292f763c052.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-711d9631f25b4795b5d95a245fffb089"] = {
+        sha256 = "3b49b210823ec2821e5512989d9969a50cb05bba1288deea4bf09b688113a053",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-711d9631f25b4795b5d95a245fffb089.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
+        sha256 = "30750745ba2346c29d91b195055226f284b7e2d55689f79938648a173adcb510",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-6873b3b8dce8433dba9ad65830bbfffc"] = {
+        sha256 = "e6319da871f57191e591a81ee9d8a1429f87fcff12e10b190ad89b23acf6808d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-6873b3b8dce8433dba9ad65830bbfffc.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc142-0e196d7f7cf54b3092f656b1449ccd58"] = {
+        sha256 = "0df04f69d895fd5914c5ea803a01e902ab3b3612408e4ea5a0ebd026adf18688",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-0e196d7f7cf54b3092f656b1449ccd58.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc142-a7f536efd51c4f92934795fbd9aa884a"] = {
@@ -119,44 +114,129 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc142-a7f536efd51c4f92934795fbd9aa884a.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc143-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
-        sha256 = "f7631d3084113c0908eb00edf0c8d0d3078741896fe9ae97ba831837d28d3f15",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc14.29.30133-711d9631f25b4795b5d95a245fffb089"] = {
-        sha256 = "3b49b210823ec2821e5512989d9969a50cb05bba1288deea4bf09b688113a053",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-711d9631f25b4795b5d95a245fffb089.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc14.29.30133-41772fa7102446738dca00ab5d0a45c1"] = {
         sha256 = "6b8ca9d93be7fe045a213dce8c4f8ad394b72ce2ccdb502b1f0549c0a145bd1d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-41772fa7102446738dca00ab5d0a45c1.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-0e196d7f7cf54b3092f656b1449ccd58"] = {
-        sha256 = "0df04f69d895fd5914c5ea803a01e902ab3b3612408e4ea5a0ebd026adf18688",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-0e196d7f7cf54b3092f656b1449ccd58.7z",
+    ["windows-x86-vc142-711d9631f25b4795b5d95a245fffb089"] = {
+        sha256 = "2c940b33b84c27a4206f950620edcc1ef285419c449a6ef53c0e08c681a2aa51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-711d9631f25b4795b5d95a245fffb089.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.37.32822-58ac3864940d4069a83d960c1c5c02e3"] = {
-        sha256 = "e352e73f043703d7432ed135dacc08e30e802392164dbacd98e330efb532db09",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-58ac3864940d4069a83d960c1c5c02e3.7z",
+    ["windows-x86-vc14.29.30133-0e196d7f7cf54b3092f656b1449ccd58"] = {
+        sha256 = "fd60868be1968df18e54cb5f593c9c2865cf8f5e06ec44595d29fda261803e3e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-0e196d7f7cf54b3092f656b1449ccd58.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-0e196d7f7cf54b3092f656b1449ccd58"] = {
+        sha256 = "d2d7c8537ac65df984b6ef5114c4625c5d295e5914865a6ddda7ffd9e08a9815",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-0e196d7f7cf54b3092f656b1449ccd58.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc14.37.32822-a33b7053943748f1bcd357a23a798dc9"] = {
+        sha256 = "526e365f5aa989684bd8b1d6685f934d1275801086d4d72276febfd76c6daedc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-a33b7053943748f1bcd357a23a798dc9.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc142-6873b3b8dce8433dba9ad65830bbfffc"] = {
-        sha256 = "6dbbbb7173d15f1f7e0b7f9e4b9a0d3434ef6f50969e346bb471d230360bbbf6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-6873b3b8dce8433dba9ad65830bbfffc.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc143-58ac3864940d4069a83d960c1c5c02e3"] = {
+        sha256 = "cb902a0ca7c34c41c0b769fb6c5fbf3655fd29331aee155a765b49757d1ea5b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-58ac3864940d4069a83d960c1c5c02e3.7z",
+        toolset = "14.32.31326"
     },
-    ["windows-x86-vc14.37.32822-711d9631f25b4795b5d95a245fffb089"] = {
-        sha256 = "179c8cf48f52e0b814a103e29b67083f44fc3e5c8b4c49d958b624589f391ce7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-711d9631f25b4795b5d95a245fffb089.7z",
+    ["windows-x86-vc143-711d9631f25b4795b5d95a245fffb089"] = {
+        sha256 = "38a323b517eef7ad58dbabde8a01d62acc98338d30358bfafd5264c418ab00ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-711d9631f25b4795b5d95a245fffb089.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc14.37.32822-0379da1389944c55b7f902f17ad2c068"] = {
+        sha256 = "1cee8ce73f30ff2bb4334527a72aa05fe25ba37615008ef4506219c8422d3fdb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-0379da1389944c55b7f902f17ad2c068.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc143-41772fa7102446738dca00ab5d0a45c1"] = {
+        sha256 = "d0a5144e36f5774614f2c4c4e116a2b6985056e6a5f9a75aa91e39b223e63c31",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-41772fa7102446738dca00ab5d0a45c1.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc14.37.32822-a7f536efd51c4f92934795fbd9aa884a"] = {
+        sha256 = "efd17591939c8086e43108459f0e9fecbae5f15fd812a91214c3b1cde6fad399",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-a7f536efd51c4f92934795fbd9aa884a.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-4ce2bd4d797f47a0a973ed67fd17cbaa"] = {
+        sha256 = "6bf2b9de1bbe1d3ed3b5adb3536c20028ab3ee20d230b921c5b4032416f30edd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-4ce2bd4d797f47a0a973ed67fd17cbaa.7z",
         toolset = "14.37.32822"
     },
     ["windows-x86-vc143-6873b3b8dce8433dba9ad65830bbfffc"] = {
         sha256 = "ad251aaf380e138e24f8819cfed6c0f4e269add7ba4a8a77691b930360e7ed9c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc143-6873b3b8dce8433dba9ad65830bbfffc.7z",
         toolset = "14.32.31326"
+    },
+    ["windows-x64-vc142-a33b7053943748f1bcd357a23a798dc9"] = {
+        sha256 = "c1514fa5cfe357c3f4f8afd2f5f325f168da01d4cb390d25851ed9ba269fdb44",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc142-a33b7053943748f1bcd357a23a798dc9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-a7f536efd51c4f92934795fbd9aa884a"] = {
+        sha256 = "514cbb3f95fcbd4e73aaede936353b3d175e42536b29656fca6e6b55f91b2930",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-a7f536efd51c4f92934795fbd9aa884a.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc142-58ac3864940d4069a83d960c1c5c02e3"] = {
+        sha256 = "14cf47b01cf7f21280831361408629279e440316736a9c07059ad000f75b1ade",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-58ac3864940d4069a83d960c1c5c02e3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-64af434a5bce44beba11ccb1d3144eae"] = {
+        sha256 = "3bf4b370b1ef22443fa4876f37eefe95c0d52ff1e5a979f7ceb0456fff62455d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-64af434a5bce44beba11ccb1d3144eae.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
+        sha256 = "f7631d3084113c0908eb00edf0c8d0d3078741896fe9ae97ba831837d28d3f15",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc143-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc14.29.30133-ba12339a78e6431a9623cce9de052bea"] = {
+        sha256 = "f35969b92ebf04996bb62b116106c0c0c86218572ad53942c8810aabed5f2dde",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-ba12339a78e6431a9623cce9de052bea.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-6873b3b8dce8433dba9ad65830bbfffc"] = {
+        sha256 = "6dbbbb7173d15f1f7e0b7f9e4b9a0d3434ef6f50969e346bb471d230360bbbf6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc142-6873b3b8dce8433dba9ad65830bbfffc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-41772fa7102446738dca00ab5d0a45c1"] = {
+        sha256 = "c1169b599831eb0f6b8e0492b63d7f8c13c8e547b1c74977a18d52fb19d3e6e7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc142-41772fa7102446738dca00ab5d0a45c1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-bd9cf7d7d0c841d1ba6eefaeb2ec7815"] = {
+        sha256 = "8ccb19cabb1ac34c685b604952a3450c4fe42d66b869da80a561d91ada0c4128",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.29.30133-bd9cf7d7d0c841d1ba6eefaeb2ec7815.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-b49e52eb8bfb4756a724a70d4c1e7614"] = {
+        sha256 = "a01b8b09352471a2cd0c4c83024a9a45715e5617a996c2f05d70c7af83dc5aa1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-b49e52eb8bfb4756a724a70d4c1e7614.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-41772fa7102446738dca00ab5d0a45c1"] = {
+        sha256 = "365412e9596f18093bb053f042dac2faba68dd762cabce4d410c661de78e89dd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x64-vc14.37.32822-41772fa7102446738dca00ab5d0a45c1.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-4ce2bd4d797f47a0a973ed67fd17cbaa"] = {
+        sha256 = "cbcb7db2995e4a884bcb3e2027545bd7a859e7461cc075b3f276cebeb3f1cb6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.29.30133-4ce2bd4d797f47a0a973ed67fd17cbaa.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-58ac3864940d4069a83d960c1c5c02e3"] = {
+        sha256 = "e352e73f043703d7432ed135dacc08e30e802392164dbacd98e330efb532db09",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/clip-1.5/windows-x86-vc14.37.32822-58ac3864940d4069a83d960c1c5c02e3.7z",
+        toolset = "14.37.32822"
     }
 }
