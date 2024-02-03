@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.37.32822-d0ec18068e364890a1a22c731f857ff9"] = {
-        sha256 = "6706b982fd8a17d2614f4495f0ac2231af6e6cadd15dcd04e23a98a874c1a63a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-d0ec18068e364890a1a22c731f857ff9.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-41e7b899d526479e962de148c8cd3abe"] = {
-        sha256 = "77b43a23fc20a9636dcb552fb17717e796f5bff92b3160f68ce2cc14e5ba7743",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-41e7b899d526479e962de148c8cd3abe.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-d0ec18068e364890a1a22c731f857ff9"] = {
-        sha256 = "9f6bad7cbe1405f02b38828b3708c4f1b9f542a6234c181ccba38c94a423378b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-d0ec18068e364890a1a22c731f857ff9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-f6d356f5401f4d8292c70156bbdff96c"] = {
-        sha256 = "2add3d21cf24950b6a5e1022a5e840a653e3592fc3169ffb3b1ad3de3e73ee21",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-f6d356f5401f4d8292c70156bbdff96c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-41e7b899d526479e962de148c8cd3abe"] = {
-        sha256 = "ce190159bc9b9a5b4933681d833508d6a53a7c4392e6c2bb28547bcab86bc2be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-41e7b899d526479e962de148c8cd3abe.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-840c006449d84c7aa6b83e7c53d4b5cd"] = {
-        sha256 = "10d96e5799405265bd98621b4e60ee33109d3a9285144a38a20a79526a70348a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-840c006449d84c7aa6b83e7c53d4b5cd.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-3d5ae727815f4f7abd948b8a0596ba02"] = {
-        sha256 = "392e82ad97a2dc1fd65d0cf52d2a2c79f33688e405c719e1069b950bb5a9ff08",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-3d5ae727815f4f7abd948b8a0596ba02.7z",
-        toolset = "14.37.32822"
-    },
     ["windows-x64-vc14.29.30133-3d5ae727815f4f7abd948b8a0596ba02"] = {
         sha256 = "aa0385a5d2531c47cd05193e3670cfefcbfc35cd36ce07cea3caeff990a9696b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-3d5ae727815f4f7abd948b8a0596ba02.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-3d5ae727815f4f7abd948b8a0596ba02.7z"
     },
-    ["windows-x64-vc14.37.32822-f6d356f5401f4d8292c70156bbdff96c"] = {
-        sha256 = "519d977812887bf9db49fe86ec290e272050088a040efaab8cfb98779a5b72ff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-f6d356f5401f4d8292c70156bbdff96c.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.37.32822-994a53358cb14622869d50e2261922a5"] = {
+        sha256 = "7b4a9cd566bf09516715343b60d09b44d668a1defd39b309e7ec9a9cdb786edd",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-994a53358cb14622869d50e2261922a5.7z"
     },
     ["windows-x86-vc14.37.32822-c56f1f610c6442928e5e1cf8c6efeb71"] = {
         sha256 = "637679137a9cf4778e038134640379756790082e6d7ee2c8bd3c2d56ab856cfa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-c56f1f610c6442928e5e1cf8c6efeb71.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-ba22083ff6a9463da6a87bcfb69a3332"] = {
-        sha256 = "554bd7de8c1cb5a229337c6873f4117bb973f583d357dbae52b2dc30bef3ba94",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-ba22083ff6a9463da6a87bcfb69a3332.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-c56f1f610c6442928e5e1cf8c6efeb71"] = {
-        sha256 = "89f8eddb607e3de55b393129932ad1d6749645a037066d346fd014791393bf33",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-c56f1f610c6442928e5e1cf8c6efeb71.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-ba22083ff6a9463da6a87bcfb69a3332"] = {
-        sha256 = "cf85e655140c0fa9c427fa87c0d1da4a929289612f26c21faf4f1cc3ecb387c4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-ba22083ff6a9463da6a87bcfb69a3332.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-c56f1f610c6442928e5e1cf8c6efeb71.7z"
     },
     ["windows-x86-vc14.37.32822-56ee4aa3fc274065b80af169f7d5578a"] = {
         sha256 = "e915130af549878335cc8d391990e926dedf92d4ad7362dcbb1eb0472feb7651",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-56ee4aa3fc274065b80af169f7d5578a.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-56ee4aa3fc274065b80af169f7d5578a.7z"
     },
-    ["windows-x86-vc14.29.30133-56ee4aa3fc274065b80af169f7d5578a"] = {
-        sha256 = "e3b3973f3b99bd751d6b61665a94e8dc7500dfe483ea71fd69f5950f2ca05fe6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-56ee4aa3fc274065b80af169f7d5578a.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-9ad8704ca7a74a76acacb38cf2eb0637"] = {
+        sha256 = "6481eeb501e257b38e4ba884320f1968ccc7182a6e6c6ee9a66a10b739b50c06",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-9ad8704ca7a74a76acacb38cf2eb0637.7z"
     },
     ["windows-x86-vc14.37.32822-840c006449d84c7aa6b83e7c53d4b5cd"] = {
         sha256 = "1a1305867b16044bbe88cbdd008389cabf72c213144d5dd530209c1e58a54c0a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-840c006449d84c7aa6b83e7c53d4b5cd.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-840c006449d84c7aa6b83e7c53d4b5cd.7z"
+    },
+    ["windows-x86-vc14.29.30133-d0ec18068e364890a1a22c731f857ff9"] = {
+        sha256 = "9f6bad7cbe1405f02b38828b3708c4f1b9f542a6234c181ccba38c94a423378b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-d0ec18068e364890a1a22c731f857ff9.7z"
+    },
+    ["windows-x86-vc14.29.30133-2970b988cf9f45c98d22a4e49fda6089"] = {
+        sha256 = "6c52454af9a529f94120e08f8eb4712f6a5115a080360246194a808c1b51ad96",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-2970b988cf9f45c98d22a4e49fda6089.7z"
+    },
+    ["windows-x64-vc14.37.32822-cb0b287f2781439aaebe7fcc2bebc050"] = {
+        sha256 = "7bdb1251a801bcf476f079a07f3afc42524cf61c883e31ba8a2385a572109eb3",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-cb0b287f2781439aaebe7fcc2bebc050.7z"
+    },
+    ["windows-x64-vc14.37.32822-ba22083ff6a9463da6a87bcfb69a3332"] = {
+        sha256 = "cf85e655140c0fa9c427fa87c0d1da4a929289612f26c21faf4f1cc3ecb387c4",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-ba22083ff6a9463da6a87bcfb69a3332.7z"
+    },
+    ["windows-x64-vc14.37.32822-f6d356f5401f4d8292c70156bbdff96c"] = {
+        sha256 = "519d977812887bf9db49fe86ec290e272050088a040efaab8cfb98779a5b72ff",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-f6d356f5401f4d8292c70156bbdff96c.7z"
+    },
+    ["windows-x64-vc14.37.32822-41e7b899d526479e962de148c8cd3abe"] = {
+        sha256 = "ce190159bc9b9a5b4933681d833508d6a53a7c4392e6c2bb28547bcab86bc2be",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-41e7b899d526479e962de148c8cd3abe.7z"
+    },
+    ["windows-x64-vc14.29.30133-41e7b899d526479e962de148c8cd3abe"] = {
+        sha256 = "77b43a23fc20a9636dcb552fb17717e796f5bff92b3160f68ce2cc14e5ba7743",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-41e7b899d526479e962de148c8cd3abe.7z"
+    },
+    ["windows-x64-vc14.29.30133-0427c9772f8c4843876b544b50c04532"] = {
+        sha256 = "d798120459d4e7938fe74d1b9b70510f3101d29038be92d4ca32f03e834e64d3",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-0427c9772f8c4843876b544b50c04532.7z"
+    },
+    ["windows-x86-vc14.29.30133-840c006449d84c7aa6b83e7c53d4b5cd"] = {
+        sha256 = "10d96e5799405265bd98621b4e60ee33109d3a9285144a38a20a79526a70348a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-840c006449d84c7aa6b83e7c53d4b5cd.7z"
+    },
+    ["windows-x86-vc14.29.30133-c56f1f610c6442928e5e1cf8c6efeb71"] = {
+        sha256 = "89f8eddb607e3de55b393129932ad1d6749645a037066d346fd014791393bf33",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-c56f1f610c6442928e5e1cf8c6efeb71.7z"
+    },
+    ["windows-x86-vc14.29.30133-56ee4aa3fc274065b80af169f7d5578a"] = {
+        sha256 = "e3b3973f3b99bd751d6b61665a94e8dc7500dfe483ea71fd69f5950f2ca05fe6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-56ee4aa3fc274065b80af169f7d5578a.7z"
+    },
+    ["windows-x64-vc14.29.30133-cb0b287f2781439aaebe7fcc2bebc050"] = {
+        sha256 = "f8ebe4c1733887f7d24ec88c1fa5d38e63aa29ec77600d8868cba3166dacbbbc",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-cb0b287f2781439aaebe7fcc2bebc050.7z"
+    },
+    ["windows-x86-vc14.29.30133-9ad8704ca7a74a76acacb38cf2eb0637"] = {
+        sha256 = "6fc00f5585ed6b88bf9434a17964bdc10ffcf62ee18e485ec848b1e285b45e25",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-9ad8704ca7a74a76acacb38cf2eb0637.7z"
+    },
+    ["windows-x86-vc14.37.32822-8c468d4b610d4c868759d4c4107b9ac8"] = {
+        sha256 = "44344a843ed7a46ce2dde1d40aa008c3b39f93bb46f05faff825734fb613f3bc",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-8c468d4b610d4c868759d4c4107b9ac8.7z"
+    },
+    ["windows-x86-vc14.37.32822-bca42e7bbeb543deb11c4f3e8d62d3d8"] = {
+        sha256 = "6927303e51d6b50fbea1ff58c79fa165b06182d3c3cff596c5204d251c7b8cc7",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-bca42e7bbeb543deb11c4f3e8d62d3d8.7z"
+    },
+    ["windows-x86-vc14.29.30133-8c468d4b610d4c868759d4c4107b9ac8"] = {
+        sha256 = "7748585599bac33b8a9a2cbad7ddcba8bf631b1e99034a3e85bf6afbfd1d3afd",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-8c468d4b610d4c868759d4c4107b9ac8.7z"
+    },
+    ["windows-x64-vc14.29.30133-80a65796d48746bea7eab21785754b3a"] = {
+        sha256 = "b6327c3d995de54f3f98590fd5847c66cdb94a971d7f55aa78df2af8e59e84b2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-80a65796d48746bea7eab21785754b3a.7z"
+    },
+    ["windows-x64-vc14.29.30133-ba22083ff6a9463da6a87bcfb69a3332"] = {
+        sha256 = "554bd7de8c1cb5a229337c6873f4117bb973f583d357dbae52b2dc30bef3ba94",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-ba22083ff6a9463da6a87bcfb69a3332.7z"
+    },
+    ["windows-x64-vc14.37.32822-0427c9772f8c4843876b544b50c04532"] = {
+        sha256 = "0036032cbb739b5eaebd29262cabff15a259d1b0e134527f0c242603f1ff78aa",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-0427c9772f8c4843876b544b50c04532.7z"
+    },
+    ["windows-x64-vc14.29.30133-f6d356f5401f4d8292c70156bbdff96c"] = {
+        sha256 = "2add3d21cf24950b6a5e1022a5e840a653e3592fc3169ffb3b1ad3de3e73ee21",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-f6d356f5401f4d8292c70156bbdff96c.7z"
+    },
+    ["windows-x64-vc14.37.32822-80a65796d48746bea7eab21785754b3a"] = {
+        sha256 = "13778c016f0cce276b9a7b06038cc98b4a309c994750ac3e0f31a957e3cb772a",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-80a65796d48746bea7eab21785754b3a.7z"
+    },
+    ["windows-x64-vc14.29.30133-994a53358cb14622869d50e2261922a5"] = {
+        sha256 = "4112f36004ad527dbf37074f8c9f438d9f7bb4db1742159e3cca8f0c35d79ab6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.29.30133-994a53358cb14622869d50e2261922a5.7z"
+    },
+    ["windows-x86-vc14.37.32822-d0ec18068e364890a1a22c731f857ff9"] = {
+        sha256 = "6706b982fd8a17d2614f4495f0ac2231af6e6cadd15dcd04e23a98a874c1a63a",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-d0ec18068e364890a1a22c731f857ff9.7z"
+    },
+    ["windows-x86-vc14.29.30133-bca42e7bbeb543deb11c4f3e8d62d3d8"] = {
+        sha256 = "d45c62ccd18887a7ef18058c553d37a2a3d15ddb8648628a6d9d9da9d9ab1456",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.29.30133-bca42e7bbeb543deb11c4f3e8d62d3d8.7z"
+    },
+    ["windows-x64-vc14.37.32822-3d5ae727815f4f7abd948b8a0596ba02"] = {
+        sha256 = "392e82ad97a2dc1fd65d0cf52d2a2c79f33688e405c719e1069b950bb5a9ff08",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x64-vc14.37.32822-3d5ae727815f4f7abd948b8a0596ba02.7z"
+    },
+    ["windows-x86-vc14.37.32822-2970b988cf9f45c98d22a4e49fda6089"] = {
+        sha256 = "57cb9b31e6307190afa1d20e34cc6cdbbad3a5c4a0de811107603432376d3148",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanovg-2023.8.27/windows-x86-vc14.37.32822-2970b988cf9f45c98d22a4e49fda6089.7z"
     }
 }
