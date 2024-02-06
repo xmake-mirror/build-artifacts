@@ -1,162 +1,242 @@
 {
-    ["windows-x64-vc142-f93e069f618443208cbdbdb35ef62cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-f93e069f618443208cbdbdb35ef62cb0.7z",
-        sha256 = "32be3489590a952853e3ffe64ee9818acbbcf65975f3f6ea9bd11dc78a9c12b7",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-ddd39aa9743341c997ac51759a793d12"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-ddd39aa9743341c997ac51759a793d12.7z",
-        sha256 = "6b54321379cf7c393af745ee5f99208288e96430a3801edd37a0b5c1122a8282",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-2d25dbc85785406099b9d152fb77ba53"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-2d25dbc85785406099b9d152fb77ba53.7z",
-        sha256 = "fee03ceaa85190bb41a42443e11223dd08ad63ebf94d40b140e01feb924f5e4a",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-b3cf212f8a0c4879a13f53c0c03636db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-b3cf212f8a0c4879a13f53c0c03636db.7z",
-        sha256 = "deeeeb37036508ea332d664da531dc337fa634222873e0ba57a7b8865592f748",
-        toolset = "14.29.30133"
+    ["windows-x86-vc142-8bd9571c7c50430aa8081af7f26398bf"] = {
+        toolset = "14.29.30133",
+        sha256 = "f767c3d30f9d164d8d1ca00c9c9eca8e66228673a33cf03b9fd2ab624dbb8d8f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-8bd9571c7c50430aa8081af7f26398bf.7z"
     },
     ["windows-x64-vc142-2d25dbc85785406099b9d152fb77ba53"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-2d25dbc85785406099b9d152fb77ba53.7z",
+        toolset = "14.29.30133",
         sha256 = "e6b9637e556ded04b48542edcb250cf9afe578aad6da15f2fa98805762fe1025",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-9628f1ff759646b69d1b6e9e4fea191a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-9628f1ff759646b69d1b6e9e4fea191a.7z",
-        sha256 = "f7084165ee01fb0d93a1fda00bdc72a24f402abd1c065a44887ff5cd0dd1122b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-8bd9571c7c50430aa8081af7f26398bf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-8bd9571c7c50430aa8081af7f26398bf.7z",
-        sha256 = "2f697d828d8e468e194a1297d0e022e1bb0c0745653994b46ee3daf430442999",
-        toolset = "14.29.30133"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-2d25dbc85785406099b9d152fb77ba53.7z"
     },
     ["windows-x64-vc143-9628f1ff759646b69d1b6e9e4fea191a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-9628f1ff759646b69d1b6e9e4fea191a.7z",
+        toolset = "14.34.31933",
         sha256 = "127165b266c95fe66b1c10fd4bc617571151752a49f0f674d451c9af4c0a8a5f",
-        toolset = "14.34.31933"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-9628f1ff759646b69d1b6e9e4fea191a.7z"
     },
-    ["windows-x64-vc143-7ea3d5253b6341949e1cf2d734021c18"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-7ea3d5253b6341949e1cf2d734021c18.7z",
-        sha256 = "65ab7037fbf929a393ed893b0e3a2594556a17ab5e67cc6c47681a688a080481",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc142-ddd39aa9743341c997ac51759a793d12"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-ddd39aa9743341c997ac51759a793d12.7z",
-        sha256 = "7a19b91c4c1c8b09ba8dd1b21708cee05a7be1dfd4f559a758ae85a2cb7ed362",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-b3cf212f8a0c4879a13f53c0c03636db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-b3cf212f8a0c4879a13f53c0c03636db.7z",
-        sha256 = "c469bef3988eb8ff98efa021158f96307c32352877b6f555ad942770eaf82c80",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc142-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-3708ef9a4dfc40fba6f66a9014cf9d1b.7z",
-        sha256 = "4ec36160b06cfdfbcefc8fcb10758ab9a61930a08637a2d7aa8dc57b69203a56",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-f93e069f618443208cbdbdb35ef62cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-f93e069f618443208cbdbdb35ef62cb0.7z",
-        sha256 = "0c4c909605f90afa58ff51a9acf217785f4df997de814f25ddd3a50b82356b2e",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc143-8bd9571c7c50430aa8081af7f26398bf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-8bd9571c7c50430aa8081af7f26398bf.7z",
-        sha256 = "f67ed98709d7d922d79cb3fd15733515fcd8003478698770445f2615e5c86234",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc142-b3cf212f8a0c4879a13f53c0c03636db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-b3cf212f8a0c4879a13f53c0c03636db.7z",
-        sha256 = "fa21e76a1f62d87c46cb78ae7d91d4617e36ac707852297256488d5c99e6484a",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-7ea3d5253b6341949e1cf2d734021c18"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-7ea3d5253b6341949e1cf2d734021c18.7z",
-        sha256 = "fac4dc02d05c8b6d8efe674229f86e089b240a997a1e78b1a7e329389ee8d8a4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-f93e069f618443208cbdbdb35ef62cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-f93e069f618443208cbdbdb35ef62cb0.7z",
-        sha256 = "9f03b5f652f28f5b48e5cf51dfc8914feacc6795f86f39b5dbd155855181725b",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-2d25dbc85785406099b9d152fb77ba53"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-2d25dbc85785406099b9d152fb77ba53.7z",
-        sha256 = "fc0ed95df09239e66e0cc07d6c3a88cd493b4b241f78a8983074bc642b3dc0ed",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-7ea3d5253b6341949e1cf2d734021c18"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-7ea3d5253b6341949e1cf2d734021c18.7z",
-        sha256 = "a0bf405c70c53eb8f6f1a019fbd64913d88b20d1a132a56f201ca19ee5705f5a",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-9628f1ff759646b69d1b6e9e4fea191a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-9628f1ff759646b69d1b6e9e4fea191a.7z",
-        sha256 = "a256ce6bd146226525f415fe0524899ac3456a2b4c8277282d71a691bf12c0a3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-3708ef9a4dfc40fba6f66a9014cf9d1b.7z",
-        sha256 = "8aba657584f80020080f16adf7ae82836c5b3c7370f92884b217ea06b19ce96c",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc142-8bd9571c7c50430aa8081af7f26398bf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-8bd9571c7c50430aa8081af7f26398bf.7z",
-        sha256 = "f767c3d30f9d164d8d1ca00c9c9eca8e66228673a33cf03b9fd2ab624dbb8d8f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-7ea3d5253b6341949e1cf2d734021c18"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-7ea3d5253b6341949e1cf2d734021c18.7z",
-        sha256 = "293f2c85f1d92ce38dbde8919f0b30fec0c9dfd20e63c865314f96a5d67fd6ec",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-9628f1ff759646b69d1b6e9e4fea191a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-9628f1ff759646b69d1b6e9e4fea191a.7z",
-        sha256 = "8dbd69c9c865e1fb90be657859a5b200b0e2e44a376bdca6ab132848bf30d449",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-ddd39aa9743341c997ac51759a793d12"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-ddd39aa9743341c997ac51759a793d12.7z",
-        sha256 = "a9cb1f1e0ff525e06a02638ed2bbcb1ccaccd6928d647bb87839f5f2dba79b18",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-3708ef9a4dfc40fba6f66a9014cf9d1b.7z",
-        sha256 = "769a8c7222948c0390acfe91329149588afb3a640803ffabf68617576b41f6c4",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-3708ef9a4dfc40fba6f66a9014cf9d1b.7z",
-        sha256 = "d100af7dd13a867c79ec492647c2c51f8148e219f1c91c1b649d884abce30810",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-ddd39aa9743341c997ac51759a793d12"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-ddd39aa9743341c997ac51759a793d12.7z",
-        sha256 = "7bc68121679f729f6ba5b2e6b420eb704d3504006605b132880ab5c3bc34fc06",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc14.37.32822-8bd9571c7c50430aa8081af7f26398bf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-8bd9571c7c50430aa8081af7f26398bf.7z",
-        sha256 = "ea0fac448507b3f7004b1c0b1417065fdc8739533bae865f8f7f96fd87d8ac4d",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc143-2d25dbc85785406099b9d152fb77ba53"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-2d25dbc85785406099b9d152fb77ba53.7z",
-        sha256 = "f023fb8592c28cf7135d050fd9b71b8cebdb80cb484df361c1626e6c83e880e3",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc14.37.32822-b3cf212f8a0c4879a13f53c0c03636db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-b3cf212f8a0c4879a13f53c0c03636db.7z",
-        sha256 = "0c629d8b19b66399f7495487702ea1c647e73dfad2c3d5135aacede6ac6892c3",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-5300bedc209a4fec9fba8d1eaffc725d"] = {
+        toolset = "14.29.30133",
+        sha256 = "e97de579f1a207aae58df3cde429046bf8b8d5f5d82f8f21e81b90c47f40b7cb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-5300bedc209a4fec9fba8d1eaffc725d.7z"
     },
     ["windows-x64-vc14.29.30133-f93e069f618443208cbdbdb35ef62cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-f93e069f618443208cbdbdb35ef62cb0.7z",
+        toolset = "14.29.30133",
         sha256 = "9026e77775ab9561e3a94fc0de00ec4625231301e4fe8e3a4e2230399b6a29e0",
-        toolset = "14.29.30133"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-f93e069f618443208cbdbdb35ef62cb0.7z"
+    },
+    ["windows-x64-vc14.37.32822-5300bedc209a4fec9fba8d1eaffc725d"] = {
+        toolset = "14.37.32822",
+        sha256 = "fc22a82b6ed0efab260ba15a6be4d44ecc0634151249c10e2686526bcf8fc708",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-5300bedc209a4fec9fba8d1eaffc725d.7z"
+    },
+    ["windows-x64-vc143-2d25dbc85785406099b9d152fb77ba53"] = {
+        toolset = "14.34.31933",
+        sha256 = "f023fb8592c28cf7135d050fd9b71b8cebdb80cb484df361c1626e6c83e880e3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-2d25dbc85785406099b9d152fb77ba53.7z"
+    },
+    ["windows-x64-vc143-f93e069f618443208cbdbdb35ef62cb0"] = {
+        toolset = "14.34.31933",
+        sha256 = "0c4c909605f90afa58ff51a9acf217785f4df997de814f25ddd3a50b82356b2e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-f93e069f618443208cbdbdb35ef62cb0.7z"
+    },
+    ["windows-x64-vc14.29.30133-05fa0e233e4642d5ac372626e27c14d8"] = {
+        toolset = "14.29.30133",
+        sha256 = "f482e1985055cf85ba8367c2c2114bc71c6ee7c6afd6088be59a8ef0727f2e7a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-05fa0e233e4642d5ac372626e27c14d8.7z"
+    },
+    ["windows-x64-vc142-f93e069f618443208cbdbdb35ef62cb0"] = {
+        toolset = "14.29.30133",
+        sha256 = "32be3489590a952853e3ffe64ee9818acbbcf65975f3f6ea9bd11dc78a9c12b7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-f93e069f618443208cbdbdb35ef62cb0.7z"
+    },
+    ["windows-x86-vc14.37.32822-b3cf212f8a0c4879a13f53c0c03636db"] = {
+        toolset = "14.37.32822",
+        sha256 = "0c629d8b19b66399f7495487702ea1c647e73dfad2c3d5135aacede6ac6892c3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-b3cf212f8a0c4879a13f53c0c03636db.7z"
+    },
+    ["windows-x86-vc14.29.30133-b3cf212f8a0c4879a13f53c0c03636db"] = {
+        toolset = "14.29.30133",
+        sha256 = "deeeeb37036508ea332d664da531dc337fa634222873e0ba57a7b8865592f748",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-b3cf212f8a0c4879a13f53c0c03636db.7z"
+    },
+    ["windows-x86-vc142-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
+        toolset = "14.29.30133",
+        sha256 = "4ec36160b06cfdfbcefc8fcb10758ab9a61930a08637a2d7aa8dc57b69203a56",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-3708ef9a4dfc40fba6f66a9014cf9d1b.7z"
+    },
+    ["windows-x64-vc14.37.32822-9628f1ff759646b69d1b6e9e4fea191a"] = {
+        toolset = "14.37.32822",
+        sha256 = "8dbd69c9c865e1fb90be657859a5b200b0e2e44a376bdca6ab132848bf30d449",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-9628f1ff759646b69d1b6e9e4fea191a.7z"
+    },
+    ["windows-x64-vc14.37.32822-3e2eae6f26be4d2db71d32aa56602283"] = {
+        toolset = "14.37.32822",
+        sha256 = "906dc708e836ada8473348de0e5cd396d62ee9b9dc0c7b1a8abbc026492ef848",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-3e2eae6f26be4d2db71d32aa56602283.7z"
+    },
+    ["windows-x86-vc14.29.30133-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
+        toolset = "14.29.30133",
+        sha256 = "d100af7dd13a867c79ec492647c2c51f8148e219f1c91c1b649d884abce30810",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-3708ef9a4dfc40fba6f66a9014cf9d1b.7z"
+    },
+    ["windows-x86-vc14.37.32822-8bd9571c7c50430aa8081af7f26398bf"] = {
+        toolset = "14.37.32822",
+        sha256 = "ea0fac448507b3f7004b1c0b1417065fdc8739533bae865f8f7f96fd87d8ac4d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-8bd9571c7c50430aa8081af7f26398bf.7z"
+    },
+    ["windows-x64-vc142-9628f1ff759646b69d1b6e9e4fea191a"] = {
+        toolset = "14.29.30133",
+        sha256 = "f7084165ee01fb0d93a1fda00bdc72a24f402abd1c065a44887ff5cd0dd1122b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-9628f1ff759646b69d1b6e9e4fea191a.7z"
+    },
+    ["windows-x86-vc142-ddd39aa9743341c997ac51759a793d12"] = {
+        toolset = "14.29.30133",
+        sha256 = "7a19b91c4c1c8b09ba8dd1b21708cee05a7be1dfd4f559a758ae85a2cb7ed362",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-ddd39aa9743341c997ac51759a793d12.7z"
+    },
+    ["windows-x64-vc142-7ea3d5253b6341949e1cf2d734021c18"] = {
+        toolset = "14.29.30133",
+        sha256 = "fac4dc02d05c8b6d8efe674229f86e089b240a997a1e78b1a7e329389ee8d8a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc142-7ea3d5253b6341949e1cf2d734021c18.7z"
+    },
+    ["windows-x86-vc14.37.32822-e1237b0b13cd45f2994caf4c21f9a1ed"] = {
+        toolset = "14.37.32822",
+        sha256 = "fb2b7625320fb00290ef361cd04e377ce3f2f6ee6823504025f3d60cbc7f1641",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-e1237b0b13cd45f2994caf4c21f9a1ed.7z"
+    },
+    ["windows-x64-vc14.29.30133-3e2eae6f26be4d2db71d32aa56602283"] = {
+        toolset = "14.29.30133",
+        sha256 = "2ee54225ea4f0e5d9270abeb52685c2f16cf55b616ec3e211eb2931b1d212afe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-3e2eae6f26be4d2db71d32aa56602283.7z"
+    },
+    ["windows-x86-vc14.29.30133-e1237b0b13cd45f2994caf4c21f9a1ed"] = {
+        toolset = "14.29.30133",
+        sha256 = "38c1560e08531d37b25f741a584919173e90596b6940cb8f680f9e58c1338b0a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-e1237b0b13cd45f2994caf4c21f9a1ed.7z"
+    },
+    ["windows-x86-vc14.29.30133-05568760a9aa415f86da99600849d35e"] = {
+        toolset = "14.29.30133",
+        sha256 = "dc86b945c4fb457ab62437f5afd0a60121325d0fd1f01ec65f08ec5c4b3e9abb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-05568760a9aa415f86da99600849d35e.7z"
+    },
+    ["windows-x86-vc14.37.32822-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
+        toolset = "14.37.32822",
+        sha256 = "769a8c7222948c0390acfe91329149588afb3a640803ffabf68617576b41f6c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-3708ef9a4dfc40fba6f66a9014cf9d1b.7z"
+    },
+    ["windows-x64-vc14.29.30133-7ea3d5253b6341949e1cf2d734021c18"] = {
+        toolset = "14.29.30133",
+        sha256 = "293f2c85f1d92ce38dbde8919f0b30fec0c9dfd20e63c865314f96a5d67fd6ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-7ea3d5253b6341949e1cf2d734021c18.7z"
+    },
+    ["windows-x86-vc142-b3cf212f8a0c4879a13f53c0c03636db"] = {
+        toolset = "14.29.30133",
+        sha256 = "fa21e76a1f62d87c46cb78ae7d91d4617e36ac707852297256488d5c99e6484a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc142-b3cf212f8a0c4879a13f53c0c03636db.7z"
+    },
+    ["windows-x64-vc14.37.32822-f93e069f618443208cbdbdb35ef62cb0"] = {
+        toolset = "14.37.32822",
+        sha256 = "9f03b5f652f28f5b48e5cf51dfc8914feacc6795f86f39b5dbd155855181725b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-f93e069f618443208cbdbdb35ef62cb0.7z"
+    },
+    ["windows-x64-vc143-7ea3d5253b6341949e1cf2d734021c18"] = {
+        toolset = "14.34.31933",
+        sha256 = "65ab7037fbf929a393ed893b0e3a2594556a17ab5e67cc6c47681a688a080481",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc143-7ea3d5253b6341949e1cf2d734021c18.7z"
+    },
+    ["windows-x64-vc14.37.32822-2d25dbc85785406099b9d152fb77ba53"] = {
+        toolset = "14.37.32822",
+        sha256 = "fee03ceaa85190bb41a42443e11223dd08ad63ebf94d40b140e01feb924f5e4a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-2d25dbc85785406099b9d152fb77ba53.7z"
+    },
+    ["windows-x86-vc14.37.32822-ddd39aa9743341c997ac51759a793d12"] = {
+        toolset = "14.37.32822",
+        sha256 = "a9cb1f1e0ff525e06a02638ed2bbcb1ccaccd6928d647bb87839f5f2dba79b18",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-ddd39aa9743341c997ac51759a793d12.7z"
+    },
+    ["windows-x86-vc143-ddd39aa9743341c997ac51759a793d12"] = {
+        toolset = "14.34.31933",
+        sha256 = "7bc68121679f729f6ba5b2e6b420eb704d3504006605b132880ab5c3bc34fc06",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-ddd39aa9743341c997ac51759a793d12.7z"
+    },
+    ["windows-x64-vc14.29.30133-9628f1ff759646b69d1b6e9e4fea191a"] = {
+        toolset = "14.29.30133",
+        sha256 = "a256ce6bd146226525f415fe0524899ac3456a2b4c8277282d71a691bf12c0a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-9628f1ff759646b69d1b6e9e4fea191a.7z"
+    },
+    ["windows-x64-vc14.29.30133-2d25dbc85785406099b9d152fb77ba53"] = {
+        toolset = "14.29.30133",
+        sha256 = "fc0ed95df09239e66e0cc07d6c3a88cd493b4b241f78a8983074bc642b3dc0ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-2d25dbc85785406099b9d152fb77ba53.7z"
+    },
+    ["windows-x64-vc14.37.32822-05fa0e233e4642d5ac372626e27c14d8"] = {
+        toolset = "14.37.32822",
+        sha256 = "01c8c5b98f1ffc377e042beb9069a5357d3eb8167952082467399318f8e16044",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-05fa0e233e4642d5ac372626e27c14d8.7z"
+    },
+    ["windows-x86-vc14.29.30133-ddd39aa9743341c997ac51759a793d12"] = {
+        toolset = "14.29.30133",
+        sha256 = "6b54321379cf7c393af745ee5f99208288e96430a3801edd37a0b5c1122a8282",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-ddd39aa9743341c997ac51759a793d12.7z"
+    },
+    ["windows-x86-vc14.37.32822-05568760a9aa415f86da99600849d35e"] = {
+        toolset = "14.37.32822",
+        sha256 = "e4ae8a251839ec8cd05c6f8c7f049b99efe5d37db679e35670b0c225e9d53260",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-05568760a9aa415f86da99600849d35e.7z"
+    },
+    ["windows-x64-vc14.29.30133-165bfebd7e76474e8c02fe2d954d0df7"] = {
+        toolset = "14.29.30133",
+        sha256 = "f9521f8dfc8c24d528dcfd16225d0c61db0020127f1a026b6e03b3146f54935d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.29.30133-165bfebd7e76474e8c02fe2d954d0df7.7z"
+    },
+    ["windows-x86-vc143-3708ef9a4dfc40fba6f66a9014cf9d1b"] = {
+        toolset = "14.34.31933",
+        sha256 = "8aba657584f80020080f16adf7ae82836c5b3c7370f92884b217ea06b19ce96c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-3708ef9a4dfc40fba6f66a9014cf9d1b.7z"
+    },
+    ["windows-x86-vc14.37.32822-e6dbccc2a96641ecaff6e8d3107b1bc1"] = {
+        toolset = "14.37.32822",
+        sha256 = "435af93be5375fd8e994e0a6d9af1ea0ab653361f2c38df9f100223f35fd5fa4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-e6dbccc2a96641ecaff6e8d3107b1bc1.7z"
+    },
+    ["windows-x86-vc14.29.30133-6d55f8c80e4c4b65880ee9a7353c5f86"] = {
+        toolset = "14.29.30133",
+        sha256 = "abc5f66fd416d889c478fbf608c3ad8e8bec11cdf49596a1f69cd5e4643f0390",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-6d55f8c80e4c4b65880ee9a7353c5f86.7z"
+    },
+    ["windows-x86-vc14.37.32822-6d55f8c80e4c4b65880ee9a7353c5f86"] = {
+        toolset = "14.37.32822",
+        sha256 = "6cd6e5373630ec4dca401d8b24320ce7c5c5a13f2f90ce9094209ddc5e5b8bb3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.37.32822-6d55f8c80e4c4b65880ee9a7353c5f86.7z"
+    },
+    ["windows-x64-vc14.37.32822-165bfebd7e76474e8c02fe2d954d0df7"] = {
+        toolset = "14.37.32822",
+        sha256 = "ebd90dd0484bc4bbd2f340c3c14babb06eefa1dc454655dab85550d661200024",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-165bfebd7e76474e8c02fe2d954d0df7.7z"
+    },
+    ["windows-x86-vc14.29.30133-e6dbccc2a96641ecaff6e8d3107b1bc1"] = {
+        toolset = "14.29.30133",
+        sha256 = "be359bfa7c8e109ce7c3369ae359d46d3641b4859b5926522b8daaaae508b3e0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-e6dbccc2a96641ecaff6e8d3107b1bc1.7z"
+    },
+    ["windows-x86-vc143-b3cf212f8a0c4879a13f53c0c03636db"] = {
+        toolset = "14.34.31933",
+        sha256 = "c469bef3988eb8ff98efa021158f96307c32352877b6f555ad942770eaf82c80",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-b3cf212f8a0c4879a13f53c0c03636db.7z"
+    },
+    ["windows-x86-vc143-8bd9571c7c50430aa8081af7f26398bf"] = {
+        toolset = "14.34.31933",
+        sha256 = "f67ed98709d7d922d79cb3fd15733515fcd8003478698770445f2615e5c86234",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc143-8bd9571c7c50430aa8081af7f26398bf.7z"
+    },
+    ["windows-x64-vc14.37.32822-7ea3d5253b6341949e1cf2d734021c18"] = {
+        toolset = "14.37.32822",
+        sha256 = "a0bf405c70c53eb8f6f1a019fbd64913d88b20d1a132a56f201ca19ee5705f5a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x64-vc14.37.32822-7ea3d5253b6341949e1cf2d734021c18.7z"
+    },
+    ["windows-x86-vc14.29.30133-8bd9571c7c50430aa8081af7f26398bf"] = {
+        toolset = "14.29.30133",
+        sha256 = "2f697d828d8e468e194a1297d0e022e1bb0c0745653994b46ee3daf430442999",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/inja-v3.4.0/windows-x86-vc14.29.30133-8bd9571c7c50430aa8081af7f26398bf.7z"
     }
 }
