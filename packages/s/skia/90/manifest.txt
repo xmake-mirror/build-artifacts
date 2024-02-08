@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.37.32822-8cd24fdf8c204ccf98d45198c0b3224c"] = {
-        sha256 = "fb0f10e624cdff07b4ca506f098d713c3f3a4528ab8203d1754a9c40f6535aa0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-8cd24fdf8c204ccf98d45198c0b3224c.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-50f3d72e6730406baa98de7a0ec47e72"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-50f3d72e6730406baa98de7a0ec47e72.7z",
+        sha256 = "75d2d312948046f4eae20719a673d2406497197eb5b4cd0bc7ad5dbbb0b50666"
     },
-    ["windows-x64-vc14.37.32822-59e5da9649e047c48ab0813073e70e7c"] = {
-        sha256 = "76fc7f8cf66c033e71ed863a4a82e94ba0878f4c3270ded8196019c8c9e7f2cf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-59e5da9649e047c48ab0813073e70e7c.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.37.32822-10dfe48a51194e92b93357208e9842e3"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-10dfe48a51194e92b93357208e9842e3.7z",
+        sha256 = "dbf9b8792fc98d08ed671c3a6d4448e7140a8f718d21c9ae1d23f12bc69f949e"
     },
-    ["windows-x64-vc14.29.30133-1307af3d47a44dffb18967e0063147fe"] = {
-        sha256 = "5eee426b10e409c163ea3a1e29a9d632c38a9e1f612daf05688315b4aa585284",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-1307af3d47a44dffb18967e0063147fe.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-1307af3d47a44dffb18967e0063147fe"] = {
-        sha256 = "75f0f1e48cb9654452b4e24c6a2b70ca3191c4322c6b2ed14e4e3e101faa0b97",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-1307af3d47a44dffb18967e0063147fe.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-40db7b26018443728702835d830708c4"] = {
-        sha256 = "52dda599d98883369b69e3eb703941a2e82bf0db5847750d1043c4a1e04a6b49",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-40db7b26018443728702835d830708c4.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-8cd24fdf8c204ccf98d45198c0b3224c"] = {
-        sha256 = "0c3df7acbfafe2c0994f2d509b5779c423cf7f06ac837893e893b47e9a09aaad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-8cd24fdf8c204ccf98d45198c0b3224c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-59e5da9649e047c48ab0813073e70e7c"] = {
-        sha256 = "daa582bed339e97d4fa50e3314933a838a0115f5d649b599a66ee98d83a99a01",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-59e5da9649e047c48ab0813073e70e7c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-862f813c737a4e139b0ef41885af3ce3"] = {
-        sha256 = "9f78bb49763633508c65240ea74507e6af61aee1ccf7b99257ce3cd38b072e14",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-862f813c737a4e139b0ef41885af3ce3.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-f40c63d7d23a488586606331e7301b52"] = {
-        sha256 = "570a372a9478b495b2839f74a798250406b24379362b664c4ab8da6652a6e518",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-f40c63d7d23a488586606331e7301b52.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-862f813c737a4e139b0ef41885af3ce3"] = {
-        sha256 = "1436fdfa7776b652228960dcc5bc2fd448ed619573457543df7d8e7c6e379465",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-862f813c737a4e139b0ef41885af3ce3.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-ed2fadbe24df4815ae3c96ac0e09f2ec"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-ed2fadbe24df4815ae3c96ac0e09f2ec.7z",
+        sha256 = "2ee07692dd025dfbd3ccf515cd03fa62be47b60ec62f9d961a62416d47c010e3"
     },
     ["windows-x64-vc14.37.32822-1ca10057ceb04c0b9ef6e93f415f3e0e"] = {
-        sha256 = "929fab4235e96fd9c7b1b2f001ca8367fcaab90af5b134dbf228ada2b3982839",
+        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-1ca10057ceb04c0b9ef6e93f415f3e0e.7z",
-        toolset = "14.37.32822"
+        sha256 = "929fab4235e96fd9c7b1b2f001ca8367fcaab90af5b134dbf228ada2b3982839"
     },
-    ["windows-x86-vc14.37.32822-e9c204e0b28846b9b72e7b1aca881b1a"] = {
-        sha256 = "68ee30a7c2f487a25f8ceec64845137d62df385b0dd1e04c2864dadf4b656399",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-e9c204e0b28846b9b72e7b1aca881b1a.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.37.32822-e541441707454487bcb50dbd0e6e2e0d"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-e541441707454487bcb50dbd0e6e2e0d.7z",
+        sha256 = "b736ba1053f7b9bba88d591ee764f17cf34f39a4f3ab8a3df17c63745fe86c82"
+    },
+    ["windows-x86-vc14.37.32822-40db7b26018443728702835d830708c4"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-40db7b26018443728702835d830708c4.7z",
+        sha256 = "52dda599d98883369b69e3eb703941a2e82bf0db5847750d1043c4a1e04a6b49"
+    },
+    ["windows-x64-vc14.29.30133-9a3dd5a0f6a14226a61cc3328ae4d10e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-9a3dd5a0f6a14226a61cc3328ae4d10e.7z",
+        sha256 = "4677985218f1b50c98fa6b63c5e8680af4311143682c4fcf1a0db0a1548800c8"
+    },
+    ["windows-x64-vc14.37.32822-1307af3d47a44dffb18967e0063147fe"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-1307af3d47a44dffb18967e0063147fe.7z",
+        sha256 = "75f0f1e48cb9654452b4e24c6a2b70ca3191c4322c6b2ed14e4e3e101faa0b97"
+    },
+    ["windows-x64-vc14.37.32822-862f813c737a4e139b0ef41885af3ce3"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-862f813c737a4e139b0ef41885af3ce3.7z",
+        sha256 = "1436fdfa7776b652228960dcc5bc2fd448ed619573457543df7d8e7c6e379465"
+    },
+    ["windows-x86-vc14.37.32822-8cd24fdf8c204ccf98d45198c0b3224c"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-8cd24fdf8c204ccf98d45198c0b3224c.7z",
+        sha256 = "fb0f10e624cdff07b4ca506f098d713c3f3a4528ab8203d1754a9c40f6535aa0"
+    },
+    ["windows-x64-vc14.29.30133-f2897aef0fa64755b2cf4e2f733c72ed"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-f2897aef0fa64755b2cf4e2f733c72ed.7z",
+        sha256 = "7206f07e246d0076637ac2b929effdc475f33e64f1bca795be8ebe599096dfb6"
+    },
+    ["windows-x86-vc14.29.30133-10dfe48a51194e92b93357208e9842e3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-10dfe48a51194e92b93357208e9842e3.7z",
+        sha256 = "89076afb45be1f47f10fa3d8d8b6f7e451ba1579b168bccce0055c8c025f49ca"
+    },
+    ["windows-x64-vc14.37.32822-f2897aef0fa64755b2cf4e2f733c72ed"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-f2897aef0fa64755b2cf4e2f733c72ed.7z",
+        sha256 = "599b1e3123dce80284843c695265fe2a74a30cab346c7841c2ad4c430c8bbfbe"
     },
     ["windows-x86-vc14.29.30133-e9c204e0b28846b9b72e7b1aca881b1a"] = {
-        sha256 = "1e121f9b4f05d07368647e4cea2e3d762d02bbbd50c65e3213bb570545b852e4",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-e9c204e0b28846b9b72e7b1aca881b1a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-f40c63d7d23a488586606331e7301b52"] = {
-        sha256 = "93b83d86041d45c0d0103001165bfd9a34ee9ca818ea165415f99d97fe2ae4f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-f40c63d7d23a488586606331e7301b52.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-1ca10057ceb04c0b9ef6e93f415f3e0e"] = {
-        sha256 = "97fdfc2970cbe35c67ec1555b3cb474448addd982c14ca75defd2968deba83b3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-1ca10057ceb04c0b9ef6e93f415f3e0e.7z",
-        toolset = "14.29.30133"
+        sha256 = "1e121f9b4f05d07368647e4cea2e3d762d02bbbd50c65e3213bb570545b852e4"
     },
     ["windows-x86-vc14.29.30133-40db7b26018443728702835d830708c4"] = {
-        sha256 = "b5d581e98f854fef0f77aacf1207eab7d49479cce50ac48bf6f29b9fd0038722",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-40db7b26018443728702835d830708c4.7z",
-        toolset = "14.29.30133"
+        sha256 = "b5d581e98f854fef0f77aacf1207eab7d49479cce50ac48bf6f29b9fd0038722"
+    },
+    ["windows-x64-vc14.29.30133-1ca10057ceb04c0b9ef6e93f415f3e0e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-1ca10057ceb04c0b9ef6e93f415f3e0e.7z",
+        sha256 = "97fdfc2970cbe35c67ec1555b3cb474448addd982c14ca75defd2968deba83b3"
+    },
+    ["windows-x86-vc14.37.32822-e9c204e0b28846b9b72e7b1aca881b1a"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-e9c204e0b28846b9b72e7b1aca881b1a.7z",
+        sha256 = "68ee30a7c2f487a25f8ceec64845137d62df385b0dd1e04c2864dadf4b656399"
+    },
+    ["windows-x64-vc14.29.30133-1307af3d47a44dffb18967e0063147fe"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-1307af3d47a44dffb18967e0063147fe.7z",
+        sha256 = "5eee426b10e409c163ea3a1e29a9d632c38a9e1f612daf05688315b4aa585284"
+    },
+    ["windows-x64-vc14.37.32822-50f3d72e6730406baa98de7a0ec47e72"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-50f3d72e6730406baa98de7a0ec47e72.7z",
+        sha256 = "61f651017ac6377b909d8b537925349813200d3480c762360c7f7e39fd78d6db"
+    },
+    ["windows-x86-vc14.29.30133-f40c63d7d23a488586606331e7301b52"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-f40c63d7d23a488586606331e7301b52.7z",
+        sha256 = "93b83d86041d45c0d0103001165bfd9a34ee9ca818ea165415f99d97fe2ae4f2"
+    },
+    ["windows-x64-vc14.37.32822-59e5da9649e047c48ab0813073e70e7c"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-59e5da9649e047c48ab0813073e70e7c.7z",
+        sha256 = "76fc7f8cf66c033e71ed863a4a82e94ba0878f4c3270ded8196019c8c9e7f2cf"
+    },
+    ["windows-x86-vc14.37.32822-6b58fe9fa5304f0da7ca4c7da4acdf1e"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-6b58fe9fa5304f0da7ca4c7da4acdf1e.7z",
+        sha256 = "ad12fef3bc2b9cc4913335f4f775169556032f774d95b894146eba058ea352bf"
+    },
+    ["windows-x86-vc14.29.30133-8cd24fdf8c204ccf98d45198c0b3224c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-8cd24fdf8c204ccf98d45198c0b3224c.7z",
+        sha256 = "0c3df7acbfafe2c0994f2d509b5779c423cf7f06ac837893e893b47e9a09aaad"
+    },
+    ["windows-x86-vc14.29.30133-ed424266579d4e0e8d9a0cd2edbfb7a3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-ed424266579d4e0e8d9a0cd2edbfb7a3.7z",
+        sha256 = "0875bd5d1d673a57200f373447e95dcbed162893a4ddcc60a922f918de8593b4"
+    },
+    ["windows-x86-vc14.29.30133-6b58fe9fa5304f0da7ca4c7da4acdf1e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-6b58fe9fa5304f0da7ca4c7da4acdf1e.7z",
+        sha256 = "1b55607129c21e8153e17fd8aa692d9d86f7eb723d79ffbea01b8cb85c0873e9"
+    },
+    ["windows-x64-vc14.37.32822-9a3dd5a0f6a14226a61cc3328ae4d10e"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-9a3dd5a0f6a14226a61cc3328ae4d10e.7z",
+        sha256 = "fd70d768ac18cc765f0694687e145f6469c62c04faa45fce1df9d93ea689eb0e"
+    },
+    ["windows-x64-vc14.29.30133-862f813c737a4e139b0ef41885af3ce3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-862f813c737a4e139b0ef41885af3ce3.7z",
+        sha256 = "9f78bb49763633508c65240ea74507e6af61aee1ccf7b99257ce3cd38b072e14"
+    },
+    ["windows-x86-vc14.37.32822-f40c63d7d23a488586606331e7301b52"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-f40c63d7d23a488586606331e7301b52.7z",
+        sha256 = "570a372a9478b495b2839f74a798250406b24379362b664c4ab8da6652a6e518"
+    },
+    ["windows-x64-vc14.29.30133-59e5da9649e047c48ab0813073e70e7c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.29.30133-59e5da9649e047c48ab0813073e70e7c.7z",
+        sha256 = "daa582bed339e97d4fa50e3314933a838a0115f5d649b599a66ee98d83a99a01"
+    },
+    ["windows-x64-vc14.37.32822-ed2fadbe24df4815ae3c96ac0e09f2ec"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x64-vc14.37.32822-ed2fadbe24df4815ae3c96ac0e09f2ec.7z",
+        sha256 = "cb1a5df28d84bc79325998255b8b880354de7d1472f158db00609c631b9d2422"
+    },
+    ["windows-x86-vc14.29.30133-e541441707454487bcb50dbd0e6e2e0d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.29.30133-e541441707454487bcb50dbd0e6e2e0d.7z",
+        sha256 = "4587f2260ee8cc58a01d97dd109253c3a610af557d5e0610c58490c55a4afbed"
+    },
+    ["windows-x86-vc14.37.32822-ed424266579d4e0e8d9a0cd2edbfb7a3"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/skia-90/windows-x86-vc14.37.32822-ed424266579d4e0e8d9a0cd2edbfb7a3.7z",
+        sha256 = "40bc3bb2aedc60abfbb21a60e7e2a9f07e9e4c5085bdc3c7c6c31064f0c48384"
     }
 }
