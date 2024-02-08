@@ -1,42 +1,82 @@
 {
-    ["windows-x86-vc142-8a1693bdd7a04eb498f0d9a81bbe0656"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc142-8a1693bdd7a04eb498f0d9a81bbe0656.7z",
-        toolset = "14.29.30133",
-        sha256 = "cb9c4cc72b4d4652090d2c76669ed01119f32e65ef5beed274a43440992ad2f4"
-    },
-    ["windows-x86-vc142-64d4868a7ca24e57937b14a9e9c4fddb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc142-64d4868a7ca24e57937b14a9e9c4fddb.7z",
-        toolset = "14.29.30133",
-        sha256 = "32c41c54637366051a4a05a0242f0508e98abc3c29a26058c0fe7b65cc6bc7fc"
-    },
-    ["windows-x64-vc142-e0e862650a674c7a9a48c717214d3a8c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc142-e0e862650a674c7a9a48c717214d3a8c.7z",
-        toolset = "14.29.30133",
-        sha256 = "8366824374c3acd1b153332a6610752f34789229908c29d74985f369d4dea7c0"
-    },
     ["windows-x64-vc143-e0e862650a674c7a9a48c717214d3a8c"] = {
+        sha256 = "1e1d8f6c04399999fc5fac1bed7f187a83774509e4b73d0d54ef488e960bce91",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc143-e0e862650a674c7a9a48c717214d3a8c.7z",
-        toolset = "14.33.31629",
-        sha256 = "1e1d8f6c04399999fc5fac1bed7f187a83774509e4b73d0d54ef488e960bce91"
-    },
-    ["windows-x64-vc142-6fe8cdfed54f478590a88b95d0580567"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc142-6fe8cdfed54f478590a88b95d0580567.7z",
-        toolset = "14.29.30133",
-        sha256 = "ea46bbd0b8101634138349f568ef48eff45688d32c1835b9aa09080bc5f2af64"
-    },
-    ["windows-x64-vc143-6fe8cdfed54f478590a88b95d0580567"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc143-6fe8cdfed54f478590a88b95d0580567.7z",
-        toolset = "14.33.31629",
-        sha256 = "cc2587ba647376c48964226244c75b2074ee34823bc44e11fa684e62608175e4"
+        toolset = "14.33.31629"
     },
     ["windows-x86-vc143-64d4868a7ca24e57937b14a9e9c4fddb"] = {
+        sha256 = "52ce249d781262a7056ab2910ac21ea16ee2894f3a7e4095dfd21a2ea7fa52a1",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc143-64d4868a7ca24e57937b14a9e9c4fddb.7z",
-        toolset = "14.33.31629",
-        sha256 = "52ce249d781262a7056ab2910ac21ea16ee2894f3a7e4095dfd21a2ea7fa52a1"
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc142-e0e862650a674c7a9a48c717214d3a8c"] = {
+        sha256 = "8366824374c3acd1b153332a6610752f34789229908c29d74985f369d4dea7c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc142-e0e862650a674c7a9a48c717214d3a8c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-6fe8cdfed54f478590a88b95d0580567"] = {
+        sha256 = "ea46bbd0b8101634138349f568ef48eff45688d32c1835b9aa09080bc5f2af64",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc142-6fe8cdfed54f478590a88b95d0580567.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-5b53d78e566c48399a14d6b3e9b8f88c"] = {
+        sha256 = "cab6378ec87f0ea2ff0558d7a6e0f68e633d80bb1e3c901c53a41b35796fc3fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc14.29.30133-5b53d78e566c48399a14d6b3e9b8f88c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-8a1693bdd7a04eb498f0d9a81bbe0656"] = {
+        sha256 = "cb9c4cc72b4d4652090d2c76669ed01119f32e65ef5beed274a43440992ad2f4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc142-8a1693bdd7a04eb498f0d9a81bbe0656.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-0e5ae523062e43e49d9433b8a0859fc5"] = {
+        sha256 = "60283c5b9c93f1e6b7a628c9b45691ca1d233f99b874cd9c7062c0b3ce7cd891",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc14.29.30133-0e5ae523062e43e49d9433b8a0859fc5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-64d4868a7ca24e57937b14a9e9c4fddb"] = {
+        sha256 = "32c41c54637366051a4a05a0242f0508e98abc3c29a26058c0fe7b65cc6bc7fc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc142-64d4868a7ca24e57937b14a9e9c4fddb.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc143-8a1693bdd7a04eb498f0d9a81bbe0656"] = {
+        sha256 = "7c4b636aeadc1b5f3b5a1ef1fcebd3788861bc5ed27d58501966f7e99c3f6070",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc143-8a1693bdd7a04eb498f0d9a81bbe0656.7z",
-        toolset = "14.33.31629",
-        sha256 = "7c4b636aeadc1b5f3b5a1ef1fcebd3788861bc5ed27d58501966f7e99c3f6070"
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.29.30133-c7531bc0c6494cd48fc20f490fba0542"] = {
+        sha256 = "984ad6b6d242a4c28c02424bd33f679b2e0749de017fe67693960ff8d8780b24",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc14.29.30133-c7531bc0c6494cd48fc20f490fba0542.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-1519a442a45a4dbd91d7a536fbe56c42"] = {
+        sha256 = "f845fa84a10821e9502db09619042558235a2829f2e5c5f77df7f4d6a613156d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc14.29.30133-1519a442a45a4dbd91d7a536fbe56c42.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-1519a442a45a4dbd91d7a536fbe56c42"] = {
+        sha256 = "508bdf27b931b1288a17d500b69b8b4ca3c49609d1615dcc3545ea8bdfff57c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc14.37.32822-1519a442a45a4dbd91d7a536fbe56c42.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc143-6fe8cdfed54f478590a88b95d0580567"] = {
+        sha256 = "cc2587ba647376c48964226244c75b2074ee34823bc44e11fa684e62608175e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc143-6fe8cdfed54f478590a88b95d0580567.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc14.37.32822-0e5ae523062e43e49d9433b8a0859fc5"] = {
+        sha256 = "405fb3006cf43fc0590c108606b4b6898210b7c09641625beaf46f8167e593a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc14.37.32822-0e5ae523062e43e49d9433b8a0859fc5.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-5b53d78e566c48399a14d6b3e9b8f88c"] = {
+        sha256 = "75f7ace09dac24a5e3e972558f746820453218220242f07a94236a5d51db7053",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x64-vc14.37.32822-5b53d78e566c48399a14d6b3e9b8f88c.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-c7531bc0c6494cd48fc20f490fba0542"] = {
+        sha256 = "3efceef9f955240437afb3683ac051ea38f018f7260adb09c288fe1236c6df6c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pycdc-2022.10.04/windows-x86-vc14.37.32822-c7531bc0c6494cd48fc20f490fba0542.7z",
+        toolset = "14.37.32822"
     }
 }
