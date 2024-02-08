@@ -1,242 +1,242 @@
 {
-    ["windows-x64-vc142-dc77d9759e414d2598312ed332ff0e69"] = {
-        toolset = "14.29.30133",
-        sha256 = "d4ccd43d51116133145a78c0c03973169de9460b58ba33c2b46b9bc010faa140",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-dc77d9759e414d2598312ed332ff0e69.7z"
+    ["windows-x86-vc14.37.32822-daf478b9d8d4475397243cfc928b89ad"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-daf478b9d8d4475397243cfc928b89ad.7z",
+        sha256 = "a33da3cc38cc448031ac2abceb993605bccba03c6eded6a609218c8412a52af3",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc14.29.30133-272a21f3833d49009c7792eb83180e34"] = {
-        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-272a21f3833d49009c7792eb83180e34.7z",
         sha256 = "218fadc71a1f5e99934eba0ce55f2c27758212fd7198cc2a715b952b3aca3334",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-272a21f3833d49009c7792eb83180e34.7z"
-    },
-    ["windows-x86-vc141-fb310edb23cf43ba984a9ecc99f3e858"] = {
-        toolset = "14.16.27023",
-        sha256 = "6b47a419e1b55a55e97e3cf8af2e9b7d127a9a0f4a88f6da69e8f1669778789d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-fb310edb23cf43ba984a9ecc99f3e858.7z"
-    },
-    ["windows-x64-vc141-dc77d9759e414d2598312ed332ff0e69"] = {
-        toolset = "14.16.27023",
-        sha256 = "f506afe219f723a6241effc43b0f573a184446b70b21320f2ff38be9c34fa295",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-dc77d9759e414d2598312ed332ff0e69.7z"
-    },
-    ["windows-x64-vc14.29.30133-bb16491a8a624dbca8627687bcfe5500"] = {
-        toolset = "14.29.30133",
-        sha256 = "d13f8614b7512449d99b3c1c8df0ca7a719ffbec52c1b4555a7ecf3a00b908ed",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-bb16491a8a624dbca8627687bcfe5500.7z"
-    },
-    ["windows-x86-vc14.29.30133-daf478b9d8d4475397243cfc928b89ad"] = {
-        toolset = "14.29.30133",
-        sha256 = "49ec97f42e939c311de3b3344afcf452b8e132e15e94e404c070dd23a6bcadd4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-daf478b9d8d4475397243cfc928b89ad.7z"
-    },
-    ["windows-x86-vc14.29.30133-a93e4c82273e46d6aaf7197c05052269"] = {
-        toolset = "14.29.30133",
-        sha256 = "fdb18bfd11b5b17c66aabf47c8cf32d1386f131e9620e17f54beb3987eb80da0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-a93e4c82273e46d6aaf7197c05052269.7z"
-    },
-    ["windows-x64-vc14.37.32822-dc77d9759e414d2598312ed332ff0e69"] = {
-        toolset = "14.37.32822",
-        sha256 = "c615102bef83b5ffa062c9a440eafba57a0c62abf7cd0964caded5c216b2fd51",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-dc77d9759e414d2598312ed332ff0e69.7z"
-    },
-    ["windows-x64-vc142-9566712088734117b484e5d32b5ad39a"] = {
-        toolset = "14.29.30133",
-        sha256 = "decf43c3745356920200d87fcb82443d8d7a8e9a355c5ccaab027cb058d2b72f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-9566712088734117b484e5d32b5ad39a.7z"
-    },
-    ["windows-x64-vc14.37.32822-522196e443f449c899d0f8624f38a26c"] = {
-        toolset = "14.37.32822",
-        sha256 = "b9522c07d2c64bd5ccd1201fef59503c49e8160c66818d6498b5814300b8b48b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-522196e443f449c899d0f8624f38a26c.7z"
-    },
-    ["windows-x86-vc141-efd628d35d0a4a37aadb610792235494"] = {
-        toolset = "14.16.27023",
-        sha256 = "511fb9a8f7bc3b29d14468dddf796934e4e7bb621649de0ce70d37f335ffcf19",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-efd628d35d0a4a37aadb610792235494.7z"
-    },
-    ["windows-x86-vc141-836463d41b5e43e68607154515593e46"] = {
-        toolset = "14.16.27023",
-        sha256 = "5e4b3657b5df4a92af83faa59a22d2a402d37449412c755905475c4b700c3472",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-836463d41b5e43e68607154515593e46.7z"
-    },
-    ["windows-x86-vc142-9592524d37244276b3ea6f1ebbfdfb92"] = {
-        toolset = "14.29.30133",
-        sha256 = "21ab91ace42ab0ef04b4911d56f07bae59b69d621f18f3a4fa45cf4cfd5e82ae",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-9592524d37244276b3ea6f1ebbfdfb92.7z"
-    },
-    ["windows-x86-vc14.37.32822-fb310edb23cf43ba984a9ecc99f3e858"] = {
-        toolset = "14.37.32822",
-        sha256 = "0941f01f048c25317395ddde0d06b3cefa914f0f5c9153bc962410d3c03ca1fb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-fb310edb23cf43ba984a9ecc99f3e858.7z"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-9566712088734117b484e5d32b5ad39a"] = {
-        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-9566712088734117b484e5d32b5ad39a.7z",
         sha256 = "3d80781c2fb7b39a5fa3ca354444623ce6dce9aabea120bcc45ae8e72cac992a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-9566712088734117b484e5d32b5ad39a.7z"
-    },
-    ["windows-x64-vc14.29.30133-dc77d9759e414d2598312ed332ff0e69"] = {
-        toolset = "14.29.30133",
-        sha256 = "abf0b13e104ae50f42d72bc4028701808d2eba495c1f18086284dc7055404c2d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-dc77d9759e414d2598312ed332ff0e69.7z"
-    },
-    ["windows-x64-vc14.29.30133-ff33b491e9f544958304f9d23f0f9cb4"] = {
-        toolset = "14.29.30133",
-        sha256 = "2204936d75aede28429e74c2ed04e208fb5ce6562e1647b0bb07143153123b39",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-ff33b491e9f544958304f9d23f0f9cb4.7z"
-    },
-    ["windows-x86-vc142-fb310edb23cf43ba984a9ecc99f3e858"] = {
-        toolset = "14.29.30133",
-        sha256 = "c2310e515d1722c61d6813f7223029c605088b1cc68fc50f47c7968421b64bc4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-fb310edb23cf43ba984a9ecc99f3e858.7z"
-    },
-    ["windows-x64-vc14.37.32822-272a21f3833d49009c7792eb83180e34"] = {
-        toolset = "14.37.32822",
-        sha256 = "00181f9f2fe55659aaaf9e4c771b1d863af027a9276b85b667d5f7fc8a33a91d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-272a21f3833d49009c7792eb83180e34.7z"
-    },
-    ["windows-x64-vc142-5f04947750a04851994ff8ba732ae15b"] = {
-        toolset = "14.29.30133",
-        sha256 = "839c5635279ba0bcdec0e75b6a1bea61fdf809cc32157ab252a90898070c2576",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-5f04947750a04851994ff8ba732ae15b.7z"
-    },
-    ["windows-x86-vc14.29.30133-836463d41b5e43e68607154515593e46"] = {
-        toolset = "14.29.30133",
-        sha256 = "1f9c3fdf4e163dc2b2afe5fa6ad40d3f3909330d4079ecffca72a7225d7c6104",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-836463d41b5e43e68607154515593e46.7z"
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-efd628d35d0a4a37aadb610792235494"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-efd628d35d0a4a37aadb610792235494.7z",
         toolset = "14.29.30133",
-        sha256 = "a622ad667f23629543a9dde004174e7af29c7cbd9a46d5b2b6b794ba1965c04b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-efd628d35d0a4a37aadb610792235494.7z"
+        sha256 = "a622ad667f23629543a9dde004174e7af29c7cbd9a46d5b2b6b794ba1965c04b"
     },
-    ["windows-x86-vc14.37.32822-a6b6b7f4da134475844ee5d51e4c5401"] = {
-        toolset = "14.37.32822",
-        sha256 = "0d1b774d9b3b589a674c2de37c59dfb00326dc674d46a17b1602f4a3f0e93e80",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-a6b6b7f4da134475844ee5d51e4c5401.7z"
-    },
-    ["windows-x86-vc14.29.30133-a6b6b7f4da134475844ee5d51e4c5401"] = {
+    ["windows-x86-vc142-9592524d37244276b3ea6f1ebbfdfb92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-9592524d37244276b3ea6f1ebbfdfb92.7z",
         toolset = "14.29.30133",
-        sha256 = "77454059b94ea45be20f3e62803842f4638aab60f7a6560a083388ae34b3ebe0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-a6b6b7f4da134475844ee5d51e4c5401.7z"
-    },
-    ["windows-x64-vc14.29.30133-d6507c5b702e4ec8bdb2dd1dc1a8995c"] = {
-        toolset = "14.29.30133",
-        sha256 = "9a7955907b377c537159907686748d3b6ba6676ab2f2f7aec8aab224ec247ac7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-d6507c5b702e4ec8bdb2dd1dc1a8995c.7z"
-    },
-    ["windows-x64-vc14.37.32822-ff33b491e9f544958304f9d23f0f9cb4"] = {
-        toolset = "14.37.32822",
-        sha256 = "8ffb7a9f48f61620763b77217b454b969d01f0271a5b66b071e6e5f87d7a34b2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-ff33b491e9f544958304f9d23f0f9cb4.7z"
-    },
-    ["windows-x86-vc14.37.32822-836463d41b5e43e68607154515593e46"] = {
-        toolset = "14.37.32822",
-        sha256 = "aacd2187d109a9e5574eade4e04438cdb116a1537c7c75dda3d9184e0efbcd24",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-836463d41b5e43e68607154515593e46.7z"
-    },
-    ["windows-x64-vc141-272a21f3833d49009c7792eb83180e34"] = {
-        toolset = "14.16.27023",
-        sha256 = "803e7731f1afdaeef50e59e8df20da5e4ee598af0cfee8ac0ddf01e2a55448d7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-272a21f3833d49009c7792eb83180e34.7z"
-    },
-    ["windows-x86-vc14.37.32822-a93e4c82273e46d6aaf7197c05052269"] = {
-        toolset = "14.37.32822",
-        sha256 = "e28acfa8b9205228b466e232e2474c27c75bf3a7afcc11aba55f40777695d90d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-a93e4c82273e46d6aaf7197c05052269.7z"
-    },
-    ["windows-x86-vc14.29.30133-efd628d35d0a4a37aadb610792235494"] = {
-        toolset = "14.29.30133",
-        sha256 = "aac0948fff872c2600e2e10ff9a80ce82d0f6a68e0ba5685cf98e36e734789cc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-efd628d35d0a4a37aadb610792235494.7z"
-    },
-    ["windows-x64-vc14.37.32822-5f04947750a04851994ff8ba732ae15b"] = {
-        toolset = "14.37.32822",
-        sha256 = "17a82431f83c565ba4f126a8cddde70efef0e0a0122fefc115952fec66722a8e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-5f04947750a04851994ff8ba732ae15b.7z"
-    },
-    ["windows-x64-vc14.37.32822-bb16491a8a624dbca8627687bcfe5500"] = {
-        toolset = "14.37.32822",
-        sha256 = "08fc83ae7cdf3a4caf053d5264bce91cae475e222de02f49ff8b72d440735a8c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-bb16491a8a624dbca8627687bcfe5500.7z"
-    },
-    ["windows-x86-vc14.37.32822-daf478b9d8d4475397243cfc928b89ad"] = {
-        toolset = "14.37.32822",
-        sha256 = "0f3d19623709d534c5985d41e4561b7f47b6184f6d04bac110d622ffb3a4e32e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-daf478b9d8d4475397243cfc928b89ad.7z"
-    },
-    ["windows-x64-vc14.29.30133-522196e443f449c899d0f8624f38a26c"] = {
-        toolset = "14.29.30133",
-        sha256 = "79f32f53bdb516dff2b5a6b111de86e6f4180a17e762c04172ba0136f643b716",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-522196e443f449c899d0f8624f38a26c.7z"
-    },
-    ["windows-x86-vc14.37.32822-3bd705edb76847888d030896c395dff6"] = {
-        toolset = "14.37.32822",
-        sha256 = "2fe9d38089b81bd20fee7def954ce26992b77269de450d4e3796096a2f397db1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-3bd705edb76847888d030896c395dff6.7z"
-    },
-    ["windows-x64-vc141-9566712088734117b484e5d32b5ad39a"] = {
-        toolset = "14.16.27023",
-        sha256 = "668a17057cbb2d94f0533604ac59cdbb9b29d80edb2b6eef360b96c5a089cb22",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-9566712088734117b484e5d32b5ad39a.7z"
-    },
-    ["windows-x86-vc14.37.32822-9592524d37244276b3ea6f1ebbfdfb92"] = {
-        toolset = "14.37.32822",
-        sha256 = "cf930bf3d5090518b2f1f9126352ad63aa5ffe293af66618428c51a1bba31f15",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-9592524d37244276b3ea6f1ebbfdfb92.7z"
-    },
-    ["windows-x64-vc141-5f04947750a04851994ff8ba732ae15b"] = {
-        toolset = "14.16.27023",
-        sha256 = "22d0b48d2d66084a7f24ef530e723c1c2725126b43516137dd253f5d47c590df",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-5f04947750a04851994ff8ba732ae15b.7z"
-    },
-    ["windows-x64-vc142-272a21f3833d49009c7792eb83180e34"] = {
-        toolset = "14.29.30133",
-        sha256 = "d307c9495af76852dd81c2456269a2f74bcc769b39bae8e07af7d1316fef54c1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-272a21f3833d49009c7792eb83180e34.7z"
-    },
-    ["windows-x86-vc14.29.30133-fb310edb23cf43ba984a9ecc99f3e858"] = {
-        toolset = "14.29.30133",
-        sha256 = "89bc3b33dc8c32ea22916e810ab9107ae8c42dd9fb7065d5504d28b623b3f65d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-fb310edb23cf43ba984a9ecc99f3e858.7z"
-    },
-    ["windows-x64-vc14.37.32822-9566712088734117b484e5d32b5ad39a"] = {
-        toolset = "14.37.32822",
-        sha256 = "319b0e09c98654a43f4c0993954c409ebd95d75ce49e358a553ae8f37b841e09",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-9566712088734117b484e5d32b5ad39a.7z"
-    },
-    ["windows-x86-vc14.37.32822-efd628d35d0a4a37aadb610792235494"] = {
-        toolset = "14.37.32822",
-        sha256 = "4ea56f78904f5fe71fd1e35f38a13f91241bbb85214de3a0b99233736f653d75",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-efd628d35d0a4a37aadb610792235494.7z"
-    },
-    ["windows-x64-vc14.29.30133-5f04947750a04851994ff8ba732ae15b"] = {
-        toolset = "14.29.30133",
-        sha256 = "6532a585fa18cbfa103ef3f0eff0a9715b2736d5846acb0a6af124c73198be9b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-5f04947750a04851994ff8ba732ae15b.7z"
-    },
-    ["windows-x86-vc14.29.30133-9592524d37244276b3ea6f1ebbfdfb92"] = {
-        toolset = "14.29.30133",
-        sha256 = "938835b9bb624e89874b343647e07b19a42d30811bb037e3095ae659d60939c3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-9592524d37244276b3ea6f1ebbfdfb92.7z"
-    },
-    ["windows-x86-vc142-836463d41b5e43e68607154515593e46"] = {
-        toolset = "14.29.30133",
-        sha256 = "4ead1702070a5b32ce40529af52b50218ba64738a38ed6424f493232e81caa8f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-836463d41b5e43e68607154515593e46.7z"
+        sha256 = "21ab91ace42ab0ef04b4911d56f07bae59b69d621f18f3a4fa45cf4cfd5e82ae"
     },
     ["windows-x64-vc14.37.32822-d6507c5b702e4ec8bdb2dd1dc1a8995c"] = {
-        toolset = "14.37.32822",
-        sha256 = "3600cb2a44887ce4202606d0f4dd375ffde7d797e8d36496a765652d1df77f28",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-d6507c5b702e4ec8bdb2dd1dc1a8995c.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-d6507c5b702e4ec8bdb2dd1dc1a8995c.7z",
+        sha256 = "f25a062c2491daad6421763be689a25dc59534001349dd427c3eb6ec7f9930c3",
+        toolset = "14.37.32822"
     },
-    ["windows-x86-vc141-9592524d37244276b3ea6f1ebbfdfb92"] = {
+    ["windows-x64-vc141-272a21f3833d49009c7792eb83180e34"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-272a21f3833d49009c7792eb83180e34.7z",
         toolset = "14.16.27023",
-        sha256 = "51bb72a1e730e2a4143d0f20d90da294d62170e08317d0694bf4470736fed8cd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-9592524d37244276b3ea6f1ebbfdfb92.7z"
+        sha256 = "803e7731f1afdaeef50e59e8df20da5e4ee598af0cfee8ac0ddf01e2a55448d7"
+    },
+    ["windows-x86-vc141-efd628d35d0a4a37aadb610792235494"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-efd628d35d0a4a37aadb610792235494.7z",
+        toolset = "14.16.27023",
+        sha256 = "511fb9a8f7bc3b29d14468dddf796934e4e7bb621649de0ce70d37f335ffcf19"
+    },
+    ["windows-x86-vc14.29.30133-daf478b9d8d4475397243cfc928b89ad"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-daf478b9d8d4475397243cfc928b89ad.7z",
+        sha256 = "dff19cd741f6d7d8cbae2f1fa0bf67f2a58dc432ddf6a018dc5c4bf1af3f49d6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-fb310edb23cf43ba984a9ecc99f3e858"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-fb310edb23cf43ba984a9ecc99f3e858.7z",
+        toolset = "14.16.27023",
+        sha256 = "6b47a419e1b55a55e97e3cf8af2e9b7d127a9a0f4a88f6da69e8f1669778789d"
+    },
+    ["windows-x64-vc14.29.30133-522196e443f449c899d0f8624f38a26c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-522196e443f449c899d0f8624f38a26c.7z",
+        sha256 = "4bcaf961a15bd48855680fa1a1889bc44ba6710dd6a49b0146923a9f727ed72d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-dc77d9759e414d2598312ed332ff0e69"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-dc77d9759e414d2598312ed332ff0e69.7z",
+        sha256 = "abf0b13e104ae50f42d72bc4028701808d2eba495c1f18086284dc7055404c2d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-9566712088734117b484e5d32b5ad39a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-9566712088734117b484e5d32b5ad39a.7z",
+        toolset = "14.16.27023",
+        sha256 = "668a17057cbb2d94f0533604ac59cdbb9b29d80edb2b6eef360b96c5a089cb22"
+    },
+    ["windows-x86-vc142-836463d41b5e43e68607154515593e46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-836463d41b5e43e68607154515593e46.7z",
+        toolset = "14.29.30133",
+        sha256 = "4ead1702070a5b32ce40529af52b50218ba64738a38ed6424f493232e81caa8f"
+    },
+    ["windows-x86-vc141-836463d41b5e43e68607154515593e46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-836463d41b5e43e68607154515593e46.7z",
+        toolset = "14.16.27023",
+        sha256 = "5e4b3657b5df4a92af83faa59a22d2a402d37449412c755905475c4b700c3472"
+    },
+    ["windows-x86-vc14.29.30133-836463d41b5e43e68607154515593e46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-836463d41b5e43e68607154515593e46.7z",
+        sha256 = "1f9c3fdf4e163dc2b2afe5fa6ad40d3f3909330d4079ecffca72a7225d7c6104",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-ff33b491e9f544958304f9d23f0f9cb4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-ff33b491e9f544958304f9d23f0f9cb4.7z",
+        sha256 = "02fcb7d724236088fb2d44b13d2eaefec4aedc3c7cba9e398f2391bb9b7bf69b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-ff33b491e9f544958304f9d23f0f9cb4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-ff33b491e9f544958304f9d23f0f9cb4.7z",
+        sha256 = "11e98e1e9b53c21416ba87a85b59bd8e642fcb359ffded7b46e8fb33ac3515e5",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-a6b6b7f4da134475844ee5d51e4c5401"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-a6b6b7f4da134475844ee5d51e4c5401.7z",
+        sha256 = "27c4613bc5574c39fb66892cd8dfeba0f65f0d494a8e3ce52b638deb3c3f6be4",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-a6b6b7f4da134475844ee5d51e4c5401"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-a6b6b7f4da134475844ee5d51e4c5401.7z",
+        sha256 = "4c8a155851d81765f06b094ac825dee790ff19df9be154d4c645fe8eb908500b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-5f04947750a04851994ff8ba732ae15b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-5f04947750a04851994ff8ba732ae15b.7z",
+        sha256 = "17a82431f83c565ba4f126a8cddde70efef0e0a0122fefc115952fec66722a8e",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-3bd705edb76847888d030896c395dff6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-3bd705edb76847888d030896c395dff6.7z",
+        sha256 = "bdf22b2061e27a19957d2676f14df6c7553754de983ca88abd545bf32328a69a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d6507c5b702e4ec8bdb2dd1dc1a8995c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-d6507c5b702e4ec8bdb2dd1dc1a8995c.7z",
+        sha256 = "84a1951573d2ec90cbab142a3c7d33228cf020beb0fa38236fdd38b70c793e7f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-522196e443f449c899d0f8624f38a26c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-522196e443f449c899d0f8624f38a26c.7z",
+        sha256 = "04855aa9133789eb1ed0b1e4d4d1ab3b5f6f10485f44d0ee93b06713ee0cf25a",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc142-9566712088734117b484e5d32b5ad39a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-9566712088734117b484e5d32b5ad39a.7z",
         toolset = "14.29.30133",
-        sha256 = "63127ff5db77eac9678db7711bdfd7d54f8870945c814795408e8bee3218a1f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-3bd705edb76847888d030896c395dff6.7z"
+        sha256 = "decf43c3745356920200d87fcb82443d8d7a8e9a355c5ccaab027cb058d2b72f"
+    },
+    ["windows-x86-vc14.29.30133-fb310edb23cf43ba984a9ecc99f3e858"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-fb310edb23cf43ba984a9ecc99f3e858.7z",
+        sha256 = "89bc3b33dc8c32ea22916e810ab9107ae8c42dd9fb7065d5504d28b623b3f65d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-fb310edb23cf43ba984a9ecc99f3e858"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc142-fb310edb23cf43ba984a9ecc99f3e858.7z",
+        toolset = "14.29.30133",
+        sha256 = "c2310e515d1722c61d6813f7223029c605088b1cc68fc50f47c7968421b64bc4"
+    },
+    ["windows-x86-vc14.37.32822-836463d41b5e43e68607154515593e46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-836463d41b5e43e68607154515593e46.7z",
+        sha256 = "aacd2187d109a9e5574eade4e04438cdb116a1537c7c75dda3d9184e0efbcd24",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-3bd705edb76847888d030896c395dff6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-3bd705edb76847888d030896c395dff6.7z",
+        sha256 = "46c2fbfa44cdecb568241b53199983b0a38a7d37b48ba72138c1aeb7051bba95",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-a93e4c82273e46d6aaf7197c05052269"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-a93e4c82273e46d6aaf7197c05052269.7z",
+        sha256 = "93c973c5fa11ab127dc574b4ddf0c3bd7f5fd6191e012fe7fd420034e8185178",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-fb310edb23cf43ba984a9ecc99f3e858"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-fb310edb23cf43ba984a9ecc99f3e858.7z",
+        sha256 = "0941f01f048c25317395ddde0d06b3cefa914f0f5c9153bc962410d3c03ca1fb",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-bb16491a8a624dbca8627687bcfe5500"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-bb16491a8a624dbca8627687bcfe5500.7z",
+        sha256 = "1926c7c141102b519ca4033ad349fce03cd97431ee50ee2847cbacceb431ee9f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-272a21f3833d49009c7792eb83180e34"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-272a21f3833d49009c7792eb83180e34.7z",
+        sha256 = "00181f9f2fe55659aaaf9e4c771b1d863af027a9276b85b667d5f7fc8a33a91d",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-efd628d35d0a4a37aadb610792235494"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-efd628d35d0a4a37aadb610792235494.7z",
+        sha256 = "4ea56f78904f5fe71fd1e35f38a13f91241bbb85214de3a0b99233736f653d75",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-efd628d35d0a4a37aadb610792235494"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-efd628d35d0a4a37aadb610792235494.7z",
+        sha256 = "aac0948fff872c2600e2e10ff9a80ce82d0f6a68e0ba5685cf98e36e734789cc",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-5f04947750a04851994ff8ba732ae15b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-5f04947750a04851994ff8ba732ae15b.7z",
+        toolset = "14.29.30133",
+        sha256 = "839c5635279ba0bcdec0e75b6a1bea61fdf809cc32157ab252a90898070c2576"
+    },
+    ["windows-x64-vc14.37.32822-dc77d9759e414d2598312ed332ff0e69"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-dc77d9759e414d2598312ed332ff0e69.7z",
+        sha256 = "c615102bef83b5ffa062c9a440eafba57a0c62abf7cd0964caded5c216b2fd51",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-9592524d37244276b3ea6f1ebbfdfb92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.37.32822-9592524d37244276b3ea6f1ebbfdfb92.7z",
+        sha256 = "cf930bf3d5090518b2f1f9126352ad63aa5ffe293af66618428c51a1bba31f15",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-5f04947750a04851994ff8ba732ae15b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.29.30133-5f04947750a04851994ff8ba732ae15b.7z",
+        sha256 = "6532a585fa18cbfa103ef3f0eff0a9715b2736d5846acb0a6af124c73198be9b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-272a21f3833d49009c7792eb83180e34"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-272a21f3833d49009c7792eb83180e34.7z",
+        toolset = "14.29.30133",
+        sha256 = "d307c9495af76852dd81c2456269a2f74bcc769b39bae8e07af7d1316fef54c1"
+    },
+    ["windows-x86-vc14.29.30133-a93e4c82273e46d6aaf7197c05052269"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-a93e4c82273e46d6aaf7197c05052269.7z",
+        sha256 = "b4e2d094bd89205a98287f921959d7fea0c02bc1e13867d7be6d3ab6d6af2408",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-9592524d37244276b3ea6f1ebbfdfb92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc141-9592524d37244276b3ea6f1ebbfdfb92.7z",
+        toolset = "14.16.27023",
+        sha256 = "51bb72a1e730e2a4143d0f20d90da294d62170e08317d0694bf4470736fed8cd"
+    },
+    ["windows-x64-vc142-dc77d9759e414d2598312ed332ff0e69"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc142-dc77d9759e414d2598312ed332ff0e69.7z",
+        toolset = "14.29.30133",
+        sha256 = "d4ccd43d51116133145a78c0c03973169de9460b58ba33c2b46b9bc010faa140"
+    },
+    ["windows-x64-vc141-dc77d9759e414d2598312ed332ff0e69"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-dc77d9759e414d2598312ed332ff0e69.7z",
+        toolset = "14.16.27023",
+        sha256 = "f506afe219f723a6241effc43b0f573a184446b70b21320f2ff38be9c34fa295"
+    },
+    ["windows-x64-vc14.37.32822-9566712088734117b484e5d32b5ad39a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-9566712088734117b484e5d32b5ad39a.7z",
+        sha256 = "319b0e09c98654a43f4c0993954c409ebd95d75ce49e358a553ae8f37b841e09",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-bb16491a8a624dbca8627687bcfe5500"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc14.37.32822-bb16491a8a624dbca8627687bcfe5500.7z",
+        sha256 = "775e54a32a976cd9afb73e7bf5380b3eb9f370fdee3510913671f1cbcbe3ce9a",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-5f04947750a04851994ff8ba732ae15b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x64-vc141-5f04947750a04851994ff8ba732ae15b.7z",
+        toolset = "14.16.27023",
+        sha256 = "22d0b48d2d66084a7f24ef530e723c1c2725126b43516137dd253f5d47c590df"
+    },
+    ["windows-x86-vc14.29.30133-9592524d37244276b3ea6f1ebbfdfb92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nanogui-2019.9.23/windows-x86-vc14.29.30133-9592524d37244276b3ea6f1ebbfdfb92.7z",
+        sha256 = "938835b9bb624e89874b343647e07b19a42d30811bb037e3095ae659d60939c3",
+        toolset = "14.29.30133"
     }
 }
