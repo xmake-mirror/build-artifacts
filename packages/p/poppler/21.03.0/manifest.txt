@@ -1,162 +1,242 @@
 {
     ["windows-x86-vc14.37.32822-ae2ca93a8fd945f59b3adf995afcd1fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
         sha256 = "b685994163d51e7da813a2bed9587e9bdecf85a5e3530dcfd11e6cffdbe1a6ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc141-d6ab69c3e49842ff92c188fce056209f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-d6ab69c3e49842ff92c188fce056209f.7z",
-        sha256 = "0b1654678e333cbf4bff6b31f3cbe7177be11ac3e4c5c044791c9c0f9e3934ec",
-        toolset = "14.16.27023"
+    ["windows-x64-vc14.37.32822-8554cf71c0124ec2bffd5fea6634f4e4"] = {
+        sha256 = "1c106dbfcacdf88252d794ae474cc61f91ee994dfaf6b18a289a88c4465b127f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-8554cf71c0124ec2bffd5fea6634f4e4.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-48eac2995db2481496455f4612daec16"] = {
+        sha256 = "a6c689517a1b6ceb24943833a726355a52f7009e1b4984f9c0aa81d231d23878",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-48eac2995db2481496455f4612daec16.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc142-3ecc89650a3a40abb4391ab27553d799"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-3ecc89650a3a40abb4391ab27553d799.7z",
         sha256 = "d3d1142d9a4ead18bd681fe838b253f51dc3284edf590575a90a6e99bbae9205",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
-        sha256 = "462eaf5085fabe8f519c6579b046639a05427d2c717fc259b54069aeafdadc5f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
-        sha256 = "d53afb4b25cea8b19bbec94191ba0ecc674c20d706bbef63784ae99fe52761d7",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-03556002ef154d7097b33c1bd6da2455"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-03556002ef154d7097b33c1bd6da2455.7z",
-        sha256 = "93a8538af06637e8f7375515f0a5ca3292f60670a863341eb95f3e57139664b7",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc142-d6ab69c3e49842ff92c188fce056209f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-d6ab69c3e49842ff92c188fce056209f.7z",
-        sha256 = "d7898559244fd070159429d67211789f893fc05c9f6595f2b1b0131c2a8a6d0d",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-3ecc89650a3a40abb4391ab27553d799"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-3ecc89650a3a40abb4391ab27553d799.7z",
-        sha256 = "185b123581eef9f6b8f23e398a47afd9a1bba8f001ac9e4fd9eea36fc469cdbe",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-c22474942638420fb11cabdabce9f4b1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-c22474942638420fb11cabdabce9f4b1.7z",
-        sha256 = "9b50da8756ef16f4778aa7c20cf90bf33b0acef636970fea29d1b0d16f45aa6b",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc141-03556002ef154d7097b33c1bd6da2455"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-03556002ef154d7097b33c1bd6da2455.7z",
-        sha256 = "6c58d0b36c29bcee5dddca2a293d75466a8ea330e02aceb10bf11c9332e9d760",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-48eac2995db2481496455f4612daec16"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-48eac2995db2481496455f4612daec16.7z",
-        sha256 = "4c620942b9f55fcc4ba23573cb0ff277b4d2b0ccd621791955aca0e0ae590f98",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-d6ab69c3e49842ff92c188fce056209f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-d6ab69c3e49842ff92c188fce056209f.7z",
-        sha256 = "ba433e18d106df8e9b2e644b7809f038ec21938bfd5076792fed0dd8613fda12",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-3ecc89650a3a40abb4391ab27553d799.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.37.32822-992b7c069ce448ef895a8aef1549be58"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-992b7c069ce448ef895a8aef1549be58.7z",
         sha256 = "16ee525d1cb001d6da1f45e0e958d710a50c6821a875178481171fa8af1d27b1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-992b7c069ce448ef895a8aef1549be58.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc141-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
-        sha256 = "28d9a4b80a5763f0528fca32212c1eeb8be72e9a8a6c53aed200ce3a19594073",
+    ["windows-x64-vc142-d6ab69c3e49842ff92c188fce056209f"] = {
+        sha256 = "d7898559244fd070159429d67211789f893fc05c9f6595f2b1b0131c2a8a6d0d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-d6ab69c3e49842ff92c188fce056209f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-d6ab69c3e49842ff92c188fce056209f"] = {
+        sha256 = "0b1654678e333cbf4bff6b31f3cbe7177be11ac3e4c5c044791c9c0f9e3934ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-d6ab69c3e49842ff92c188fce056209f.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc14.29.30133-03556002ef154d7097b33c1bd6da2455"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-03556002ef154d7097b33c1bd6da2455.7z",
-        sha256 = "dd7f99c90d4d5ebdd42dab77f56804c98b28a68d3270242e0fca952833726455",
+    ["windows-x86-vc142-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
+        sha256 = "462eaf5085fabe8f519c6579b046639a05427d2c717fc259b54069aeafdadc5f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-48eac2995db2481496455f4612daec16"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-48eac2995db2481496455f4612daec16.7z",
-        sha256 = "96401d24e773e47c4ff98143fd79037cbd823f803486633b378d911449c7508c",
+    ["windows-x64-vc14.29.30133-f7c1d99aa71d4663a9a41f17e7649be4"] = {
+        sha256 = "9bbaeef6ec3a5b8bd66a2038e540beaf95f23c6e25e34b1ba9af32dea4b66ff0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-f7c1d99aa71d4663a9a41f17e7649be4.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc141-992b7c069ce448ef895a8aef1549be58"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-992b7c069ce448ef895a8aef1549be58.7z",
-        sha256 = "64515eea320bd91630605a914026b4c1d0ffd2e59d2bac2ef31d0ca7df1bac90",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-ae2ca93a8fd945f59b3adf995afcd1fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
-        sha256 = "952a8ee3fc35b08a04e86169a61938ba7fb2e54e9347accd32296f389008fea6",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-48eac2995db2481496455f4612daec16"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-48eac2995db2481496455f4612daec16.7z",
-        sha256 = "766f5d497acc9ce9dc79b6573fb6b1f9b1ca9b0d1e38ac33277691f09082ce4b",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc14.37.32822-48eac2995db2481496455f4612daec16"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-48eac2995db2481496455f4612daec16.7z",
-        sha256 = "a6c689517a1b6ceb24943833a726355a52f7009e1b4984f9c0aa81d231d23878",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-992b7c069ce448ef895a8aef1549be58"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-992b7c069ce448ef895a8aef1549be58.7z",
-        sha256 = "9ea07aded7ffe6cee002f6973c71b2ad72f0087a1bb61816eb3a082444c449ae",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-ae2ca93a8fd945f59b3adf995afcd1fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
-        sha256 = "26b369b2c32fa35c52f52878db5c8c456c350698484dc46244b34f2fbf061703",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-992b7c069ce448ef895a8aef1549be58"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-992b7c069ce448ef895a8aef1549be58.7z",
-        sha256 = "b3aaaed87bfd0504f7ef4c6dfde7b90a2482f70fff8186bccde506d32ad194b9",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-c22474942638420fb11cabdabce9f4b1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-c22474942638420fb11cabdabce9f4b1.7z",
-        sha256 = "527fa8a146570e343ac197183c99f31b7aff6b521a7cc9f99869a88a31d324d4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-c22474942638420fb11cabdabce9f4b1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-c22474942638420fb11cabdabce9f4b1.7z",
-        sha256 = "87bf7995edf6952cac3c3f10f5e882230750ee0415ad30880ac3c68301c8d706",
+    ["windows-x64-vc14.29.30133-8554cf71c0124ec2bffd5fea6634f4e4"] = {
+        sha256 = "67ad930a52c596105386b5831d66a8abbc544c9c09c014bdeb71fde7c8ac5f53",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-8554cf71c0124ec2bffd5fea6634f4e4.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
         sha256 = "3b80fc3638f72109022ff5a61db808eb51b8cb8142a2251b111079d787f942b3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
         toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-d6ab69c3e49842ff92c188fce056209f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-d6ab69c3e49842ff92c188fce056209f.7z",
-        sha256 = "f4fb439f40b7463e13bcd54367b55d274c87ae8a2ae8a48cd266babe3f10ade6",
-        toolset = "14.37.32822"
     },
     ["windows-x64-vc141-3ecc89650a3a40abb4391ab27553d799"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-3ecc89650a3a40abb4391ab27553d799.7z",
         sha256 = "df3f51403db48475e93a2554f236a569711f59a9effde747fb5e980a9d768151",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-3ecc89650a3a40abb4391ab27553d799.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc14.29.30133-3ecc89650a3a40abb4391ab27553d799"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-3ecc89650a3a40abb4391ab27553d799.7z",
-        sha256 = "f9a3b0e4fa071f193e711a89426e4dc7017d6d3120402472984eca0580ec85b5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-03556002ef154d7097b33c1bd6da2455"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-03556002ef154d7097b33c1bd6da2455.7z",
-        sha256 = "282b20d1345bac32f78cd5cb160df0fd78cd04fae4d544be76ce3d34dbdaf0f1",
+    ["windows-x86-vc14.29.30133-f890befc08b44813bf0c82b677538146"] = {
+        sha256 = "cb5eeb0fb068f0f05127838e7972c298ef32202e0115996034bc73804889b400",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-f890befc08b44813bf0c82b677538146.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc141-ae2ca93a8fd945f59b3adf995afcd1fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
         sha256 = "b60bca2a544445e7e25936b1e61638334e65f0eb838c0c4ce18f7b13f28be137",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc141-c22474942638420fb11cabdabce9f4b1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-c22474942638420fb11cabdabce9f4b1.7z",
-        sha256 = "83a60fe88b73cac5dc2ae5a95adfb74eaf9baaa32154511cc62081e71c3b62ea",
+    ["windows-x64-vc14.29.30133-c22474942638420fb11cabdabce9f4b1"] = {
+        sha256 = "527fa8a146570e343ac197183c99f31b7aff6b521a7cc9f99869a88a31d324d4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-c22474942638420fb11cabdabce9f4b1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-48eac2995db2481496455f4612daec16"] = {
+        sha256 = "766f5d497acc9ce9dc79b6573fb6b1f9b1ca9b0d1e38ac33277691f09082ce4b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-48eac2995db2481496455f4612daec16.7z",
         toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.29.30133-6b0ec047aa2d4d52b17e1fa9cfc61be2"] = {
+        sha256 = "b535f48d035c8781579e1af8cef98311e547926ec9fc36b67c274d683c20a003",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-6b0ec047aa2d4d52b17e1fa9cfc61be2.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-16c366dea54e430798842a29b9cd173b"] = {
+        sha256 = "aff1faab1546178d7032aabac732d31bc5d5941d783053e607cc8f728530c1eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-16c366dea54e430798842a29b9cd173b.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
+        sha256 = "d53afb4b25cea8b19bbec94191ba0ecc674c20d706bbef63784ae99fe52761d7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc142-03556002ef154d7097b33c1bd6da2455"] = {
+        sha256 = "282b20d1345bac32f78cd5cb160df0fd78cd04fae4d544be76ce3d34dbdaf0f1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-03556002ef154d7097b33c1bd6da2455.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-992b7c069ce448ef895a8aef1549be58"] = {
+        sha256 = "9ea07aded7ffe6cee002f6973c71b2ad72f0087a1bb61816eb3a082444c449ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-992b7c069ce448ef895a8aef1549be58.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-cc1aa2c7b40b4370a7306616f05ef3c0"] = {
+        sha256 = "28d9a4b80a5763f0528fca32212c1eeb8be72e9a8a6c53aed200ce3a19594073",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-cc1aa2c7b40b4370a7306616f05ef3c0.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.37.32822-d6ab69c3e49842ff92c188fce056209f"] = {
+        sha256 = "f4fb439f40b7463e13bcd54367b55d274c87ae8a2ae8a48cd266babe3f10ade6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-d6ab69c3e49842ff92c188fce056209f.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc142-48eac2995db2481496455f4612daec16"] = {
+        sha256 = "4c620942b9f55fcc4ba23573cb0ff277b4d2b0ccd621791955aca0e0ae590f98",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-48eac2995db2481496455f4612daec16.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-3ecc89650a3a40abb4391ab27553d799"] = {
+        sha256 = "f9a3b0e4fa071f193e711a89426e4dc7017d6d3120402472984eca0580ec85b5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-3ecc89650a3a40abb4391ab27553d799.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-c22474942638420fb11cabdabce9f4b1"] = {
+        sha256 = "87bf7995edf6952cac3c3f10f5e882230750ee0415ad30880ac3c68301c8d706",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc142-c22474942638420fb11cabdabce9f4b1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-6b0ec047aa2d4d52b17e1fa9cfc61be2"] = {
+        sha256 = "a0a2e7ff538f7c23d094ddd4aacac183276d8e8fc8b72b9fda430481002895a0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-6b0ec047aa2d4d52b17e1fa9cfc61be2.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc141-992b7c069ce448ef895a8aef1549be58"] = {
+        sha256 = "64515eea320bd91630605a914026b4c1d0ffd2e59d2bac2ef31d0ca7df1bac90",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc141-992b7c069ce448ef895a8aef1549be58.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc14.37.32822-9e720293871d4078a7e0c7f0b4d803e0"] = {
+        sha256 = "b27a545305b1c20c10670411d64b82b47f27e0b5249b6455109f0e130252218b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-9e720293871d4078a7e0c7f0b4d803e0.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-1f98767e638c4e96bacc5ea79c9df40d"] = {
+        sha256 = "e01f5b85f9b73c348f4a40ed6a027a6fa34af4c210ce5015607b04e69419d8eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-1f98767e638c4e96bacc5ea79c9df40d.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-c22474942638420fb11cabdabce9f4b1"] = {
+        sha256 = "83a60fe88b73cac5dc2ae5a95adfb74eaf9baaa32154511cc62081e71c3b62ea",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-c22474942638420fb11cabdabce9f4b1.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.29.30133-03556002ef154d7097b33c1bd6da2455"] = {
+        sha256 = "dd7f99c90d4d5ebdd42dab77f56804c98b28a68d3270242e0fca952833726455",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-03556002ef154d7097b33c1bd6da2455.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-e5cdbde818ac4150aa8d9ca400b5f0a7"] = {
+        sha256 = "2e2a033440024534e0b81f37b464d9fdf5532a94e634f95b9e4d0112c421d329",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-e5cdbde818ac4150aa8d9ca400b5f0a7.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-ae2ca93a8fd945f59b3adf995afcd1fc"] = {
+        sha256 = "26b369b2c32fa35c52f52878db5c8c456c350698484dc46244b34f2fbf061703",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-03556002ef154d7097b33c1bd6da2455"] = {
+        sha256 = "93a8538af06637e8f7375515f0a5ca3292f60670a863341eb95f3e57139664b7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-03556002ef154d7097b33c1bd6da2455.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc142-992b7c069ce448ef895a8aef1549be58"] = {
+        sha256 = "b3aaaed87bfd0504f7ef4c6dfde7b90a2482f70fff8186bccde506d32ad194b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-992b7c069ce448ef895a8aef1549be58.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-ae2ca93a8fd945f59b3adf995afcd1fc"] = {
+        sha256 = "952a8ee3fc35b08a04e86169a61938ba7fb2e54e9347accd32296f389008fea6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc142-ae2ca93a8fd945f59b3adf995afcd1fc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-f890befc08b44813bf0c82b677538146"] = {
+        sha256 = "33025f3b323b010c457719c642052e25b6d4970bfc6c596e05c853adeda3fde5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.37.32822-f890befc08b44813bf0c82b677538146.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-3ecc89650a3a40abb4391ab27553d799"] = {
+        sha256 = "185b123581eef9f6b8f23e398a47afd9a1bba8f001ac9e4fd9eea36fc469cdbe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-3ecc89650a3a40abb4391ab27553d799.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-48eac2995db2481496455f4612daec16"] = {
+        sha256 = "96401d24e773e47c4ff98143fd79037cbd823f803486633b378d911449c7508c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-48eac2995db2481496455f4612daec16.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-e5cdbde818ac4150aa8d9ca400b5f0a7"] = {
+        sha256 = "2d0770eeae5769a7738a87b42537468d9a1a62ec4f7d068ef7fbd3fa344f4d39",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-e5cdbde818ac4150aa8d9ca400b5f0a7.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-c22474942638420fb11cabdabce9f4b1"] = {
+        sha256 = "9b50da8756ef16f4778aa7c20cf90bf33b0acef636970fea29d1b0d16f45aa6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-c22474942638420fb11cabdabce9f4b1.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-f7c1d99aa71d4663a9a41f17e7649be4"] = {
+        sha256 = "51917ce0710b448d98f50149203c40b37effcc19864759c24600d3b71fbb312e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.37.32822-f7c1d99aa71d4663a9a41f17e7649be4.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-03556002ef154d7097b33c1bd6da2455"] = {
+        sha256 = "6c58d0b36c29bcee5dddca2a293d75466a8ea330e02aceb10bf11c9332e9d760",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc141-03556002ef154d7097b33c1bd6da2455.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc14.29.30133-9e720293871d4078a7e0c7f0b4d803e0"] = {
+        sha256 = "b4004a6b309c0ba0eeadb7a38c67954cea076320ffd515e85296458611a3523a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-9e720293871d4078a7e0c7f0b4d803e0.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d6ab69c3e49842ff92c188fce056209f"] = {
+        sha256 = "ba433e18d106df8e9b2e644b7809f038ec21938bfd5076792fed0dd8613fda12",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x64-vc14.29.30133-d6ab69c3e49842ff92c188fce056209f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-16c366dea54e430798842a29b9cd173b"] = {
+        sha256 = "90bf576c9ebe13f7fb5f3ac3fd1276ec98779b54bcd7ac3ecad5811e1c55d2fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-16c366dea54e430798842a29b9cd173b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-1f98767e638c4e96bacc5ea79c9df40d"] = {
+        sha256 = "9e122df7db3c5c785dcb0f9a10a40b98c4a0c1768ba8176cfb38155d453401d9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poppler-21.03.0/windows-x86-vc14.29.30133-1f98767e638c4e96bacc5ea79c9df40d.7z",
+        toolset = "14.29.30133"
     }
 }
