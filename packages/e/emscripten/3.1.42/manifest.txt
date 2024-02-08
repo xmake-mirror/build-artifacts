@@ -1,72 +1,92 @@
 {
-    ["windows-x86-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        sha256 = "206897bf22bbc924e8c3ed395603c241bc9d85f4be7bb36f623d1937903bdc63",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367.7z"
-    },
-    ["windows-x64-vc142-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc142-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
-        toolset = "14.29.30133",
-        sha256 = "250e2b6c815c2f04778fb97eda2efd2e52e96fda292ead2bbfa2624dc4f9a2e4"
+    ["windows-x64-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.36.32532",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "dd3d056376e4be1664bce1cf3fc67e9c8b46654f1d5ed9a6301a3a7a35d3bfe1"
     },
     ["windows-x64-vc142-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc142-6bdd31e054874ac18c8d8d85c5e1a367.7z",
         toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc142-6bdd31e054874ac18c8d8d85c5e1a367.7z",
         sha256 = "aa917d40ec6e35de5fe0df1bec24c594b529f1b10819d4fff7eb15e8a3f5a11c"
     },
-    ["windows-x86-vc142-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc142-6bdd31e054874ac18c8d8d85c5e1a367.7z",
-        toolset = "14.29.30133",
-        sha256 = "726973e744a112817d90b78def734ebd37efc89171a7f3f4ca4d45c4f65412c1"
-    },
-    ["windows-x64-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        sha256 = "2c8d6fdf58f65aa92ccd4da430d653cab9b52527cb59a26eb9a9b03470a7b0c0",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367.7z"
-    },
-    ["windows-x64-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
-        sha256 = "f616c1c4a168923b80ab151c23d975bb8fd876c11908df1ae725ac9cf4041e56",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944.7z"
-    },
-    ["windows-x86-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        sha256 = "5794a02eea6a8b259e24c718cfde8b88863613f7d0f6438ef5ee032863998896",
-        toolset = "14.36.32532",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367.7z"
-    },
-    ["windows-x86-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
-        sha256 = "e8dfb5d0af3d3d15f2cfefdcf2d905558247f65bc2a259d0e294d4ff67c2c6b8",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944.7z"
-    },
-    ["windows-x86-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
-        sha256 = "ca11cc61fb8e8bbb036a10e3d2211c62f5cd5ded7080136fd731e5509cb1961e",
-        toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944.7z"
-    },
     ["windows-x86-vc14.35.32215-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        sha256 = "cabd7674eb161bbbe58213b445ee04613bc15b0c7378c0ed9ba0065abea50294",
         toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.35.32215-6bdd31e054874ac18c8d8d85c5e1a367.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.35.32215-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "cabd7674eb161bbbe58213b445ee04613bc15b0c7378c0ed9ba0065abea50294"
     },
-    ["windows-x64-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        sha256 = "dd3d056376e4be1664bce1cf3fc67e9c8b46654f1d5ed9a6301a3a7a35d3bfe1",
-        toolset = "14.36.32532",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367.7z"
+    ["windows-x64-vc14.37.32822-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.37.32822-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "f93174c80b09b49fc64244061bfeefbf1c7a1d97b175e150257b41abd1116ccb"
+    },
+    ["windows-x86-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "1264e6c7743e887e1ba93841d4fc238397d67b980dcc16e8253095fc52d7528c"
     },
     ["windows-x86-vc142-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc142-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
         toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc142-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
         sha256 = "8e358bac75d4ef4f19810a4a0422ad3309fdd967da1e769e3b64e6a4014f8d00"
     },
-    ["windows-x64-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
-        sha256 = "9fdc03ad60639af5b3e647d95ef83c6ca3d41d6ec63d30a0453cd2e1dac51bca",
+    ["windows-x86-vc14.37.32822-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.37.32822-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "22778381efedda9a8b1a54ff8a6fddd3d7255575e3e4c265bd594b08c3bb5def"
+    },
+    ["windows-x86-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "f725dfcf6f574f77e8656290fc420e02d4fc5f7c64639dc18da285ffcd05f73d"
+    },
+    ["windows-x64-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.29.30133-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "475597d8dd3a40ff28680d9e087de340d1a1c4e037b2ced3a47ed5bacb075bea"
+    },
+    ["windows-x64-vc14.37.32822-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.37.32822-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "4e87e30099d20348be5cdeafff59bf67de522dda01b31040984064fddb2603c3"
+    },
+    ["windows-x64-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.29.30133-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "58631a2b3765e43f9d3a88af5c7eec89a808b6b9c78c145f10977e2e8a9ca091"
+    },
+    ["windows-x86-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
         toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "ca11cc61fb8e8bbb036a10e3d2211c62f5cd5ded7080136fd731e5509cb1961e"
     },
     ["windows-x64-vc14.35.32215-6bdd31e054874ac18c8d8d85c5e1a367"] = {
-        sha256 = "2bedb64962255c9bbf98efdd82156ea1a008661d307f473cc736968d58b5a532",
         toolset = "14.35.32215",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.35.32215-6bdd31e054874ac18c8d8d85c5e1a367.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.35.32215-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "2bedb64962255c9bbf98efdd82156ea1a008661d307f473cc736968d58b5a532"
+    },
+    ["windows-x64-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
+        toolset = "14.35.32215",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc14.35.32215-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "9fdc03ad60639af5b3e647d95ef83c6ca3d41d6ec63d30a0453cd2e1dac51bca"
+    },
+    ["windows-x86-vc142-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc142-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "726973e744a112817d90b78def734ebd37efc89171a7f3f4ca4d45c4f65412c1"
+    },
+    ["windows-x64-vc142-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x64-vc142-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "250e2b6c815c2f04778fb97eda2efd2e52e96fda292ead2bbfa2624dc4f9a2e4"
+    },
+    ["windows-x86-vc14.37.32822-4ecd018e3b6b4e549c8c83e93d2e9944"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.37.32822-4ecd018e3b6b4e549c8c83e93d2e9944.7z",
+        sha256 = "50e0ace04c54b8dd4c06e9625ca42941f88536c01082969fca7185478b6aa4a5"
+    },
+    ["windows-x86-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367"] = {
+        toolset = "14.36.32532",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/emscripten-3.1.42/windows-x86-vc14.36.32532-6bdd31e054874ac18c8d8d85c5e1a367.7z",
+        sha256 = "5794a02eea6a8b259e24c718cfde8b88863613f7d0f6438ef5ee032863998896"
     }
 }
