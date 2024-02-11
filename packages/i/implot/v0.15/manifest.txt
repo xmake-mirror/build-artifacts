@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.37.32822-bbc1acc3a3b94107875a5454b48cde71"] = {
-        sha256 = "2fd23b94981d6ab6d989a4e5139caf4d7d902b85944d511ccd818b1890a7ebdb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-bbc1acc3a3b94107875a5454b48cde71.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-261c3505fc04412fa7fb9034aa5ae779"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-261c3505fc04412fa7fb9034aa5ae779.7z",
+        toolset = "14.29.30133",
+        sha256 = "c61e5bc8a540df813ef7af3c09083438fcf9ffc2717dc1a53b2835ab29b7f1c3"
     },
-    ["windows-x86-vc14.29.30133-0bd24f9e70094321964b7266385df335"] = {
-        sha256 = "650e208a8866c2162670c6038154f2d3da5cc82fc974c656ba05eafc3d3ce5e3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-0bd24f9e70094321964b7266385df335.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-261c3505fc04412fa7fb9034aa5ae779"] = {
-        sha256 = "a83fe1b53715d573f423af39b3da0988390f6b8de3676bd699829f0a7bd6d287",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-261c3505fc04412fa7fb9034aa5ae779.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-4bc1eccc41594df1bd876c3b46ce1bae"] = {
-        sha256 = "afc2a8ff13e73c9fd8d464b704ab9fc88cb682756f861bf168a573078b48939a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-4bc1eccc41594df1bd876c3b46ce1bae.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-0bd24f9e70094321964b7266385df335"] = {
-        sha256 = "535c308d604141e7e7251d1ebebaac0cbe8642c8db2f073417c454cffe9db82d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-0bd24f9e70094321964b7266385df335.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-bbc1acc3a3b94107875a5454b48cde71"] = {
-        sha256 = "7feefac4a1a8adde682d8a26c32f6975c2d5e3faccb5eaf3a44df74f89ffbd2d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-bbc1acc3a3b94107875a5454b48cde71.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-4bc1eccc41594df1bd876c3b46ce1bae"] = {
-        sha256 = "9b3888c801c7ca811626c1bae0e5ad3b63d17b9958fd7336fc9ff5835ac1a80b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-4bc1eccc41594df1bd876c3b46ce1bae.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-a23b266a33864bfbb327a3096f7274d3"] = {
-        sha256 = "811e5817e8da158b31eebc44b97f35e1543a24088c9ef4b16515a6766eee9fda",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-a23b266a33864bfbb327a3096f7274d3.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-e9d74df2a0304066b5a0ed6b8ead09ea"] = {
-        sha256 = "744c5556e87e4368747b88c4190695feec40a57a63a98a3cb3f7880ea06e28dc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-e9d74df2a0304066b5a0ed6b8ead09ea.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-eda2101b3a1f402c9144a36378130e0e"] = {
-        sha256 = "1055d0bd855dda713fa2e7dda6086cf0d7f00f90fd02dbaef77a29d688a13a7e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-eda2101b3a1f402c9144a36378130e0e.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-a23b266a33864bfbb327a3096f7274d3"] = {
-        sha256 = "50369de1f4e98b64757d8aa7ed9d09008402832fab10bac58d14cf3088ac9acd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-a23b266a33864bfbb327a3096f7274d3.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.37.32822-708e5019c7af4ad08cf246649070b6de"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-708e5019c7af4ad08cf246649070b6de.7z",
+        toolset = "14.37.32822",
+        sha256 = "1e3a2a06858d53a3a18ffbf098ea7ec69251bbbc41bfb884d07bbee6345c752f"
     },
     ["windows-x64-vc14.29.30133-eda2101b3a1f402c9144a36378130e0e"] = {
-        sha256 = "33632a05042ca5c5c22f76b6041f075bd51548b9ace6be94df5fbba438697df5",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-eda2101b3a1f402c9144a36378130e0e.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "33632a05042ca5c5c22f76b6041f075bd51548b9ace6be94df5fbba438697df5"
     },
-    ["windows-x64-vc14.29.30133-261c3505fc04412fa7fb9034aa5ae779"] = {
-        sha256 = "c61e5bc8a540df813ef7af3c09083438fcf9ffc2717dc1a53b2835ab29b7f1c3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-261c3505fc04412fa7fb9034aa5ae779.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-b396d3053f9f462b908970482a52e070"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-b396d3053f9f462b908970482a52e070.7z",
+        toolset = "14.37.32822",
+        sha256 = "f74eafbc9e21cd60277ebc5806ba494929b2fabf5b60799c5275970ae62ba75d"
     },
-    ["windows-x64-vc14.29.30133-e9d74df2a0304066b5a0ed6b8ead09ea"] = {
-        sha256 = "781826981d99417b2ee28dc55627ee94f3e2fc230c9e6311ccee82832ea9d255",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-e9d74df2a0304066b5a0ed6b8ead09ea.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-cfec363e9d6246e9b2ba42868a150c02"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-cfec363e9d6246e9b2ba42868a150c02.7z",
+        toolset = "14.37.32822",
+        sha256 = "2f889300c0c7c6b32c2e2998c53931aedb596806befc9a1110f0fdb4ebae60db"
+    },
+    ["windows-x86-vc14.29.30133-4bc1eccc41594df1bd876c3b46ce1bae"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-4bc1eccc41594df1bd876c3b46ce1bae.7z",
+        toolset = "14.29.30133",
+        sha256 = "afc2a8ff13e73c9fd8d464b704ab9fc88cb682756f861bf168a573078b48939a"
+    },
+    ["windows-x64-vc14.29.30133-708e5019c7af4ad08cf246649070b6de"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-708e5019c7af4ad08cf246649070b6de.7z",
+        toolset = "14.29.30133",
+        sha256 = "5c6b289ed00df916937f379bb8283e3e87f1593c5314a9d80d85118df34797b1"
+    },
+    ["windows-x64-vc14.37.32822-261c3505fc04412fa7fb9034aa5ae779"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-261c3505fc04412fa7fb9034aa5ae779.7z",
+        toolset = "14.37.32822",
+        sha256 = "a83fe1b53715d573f423af39b3da0988390f6b8de3676bd699829f0a7bd6d287"
+    },
+    ["windows-x86-vc14.29.30133-c301efa2b04a4124845419acbe661103"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-c301efa2b04a4124845419acbe661103.7z",
+        toolset = "14.29.30133",
+        sha256 = "643d1b1ce9545830a56391334c72ed4e8ffadfa1e62a25dc45b3e1ceb6aacc81"
+    },
+    ["windows-x64-vc14.29.30133-b396d3053f9f462b908970482a52e070"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-b396d3053f9f462b908970482a52e070.7z",
+        toolset = "14.29.30133",
+        sha256 = "8562c4c9fb5fbe5582a7f7fee3687853bf900f1e64cdd2a94e3cab031bdafcd0"
+    },
+    ["windows-x86-vc14.37.32822-4bc1eccc41594df1bd876c3b46ce1bae"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-4bc1eccc41594df1bd876c3b46ce1bae.7z",
+        toolset = "14.37.32822",
+        sha256 = "9b3888c801c7ca811626c1bae0e5ad3b63d17b9958fd7336fc9ff5835ac1a80b"
+    },
+    ["windows-x64-vc14.29.30133-cfec363e9d6246e9b2ba42868a150c02"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-cfec363e9d6246e9b2ba42868a150c02.7z",
+        toolset = "14.29.30133",
+        sha256 = "73d5fa95bca251e1ac55e9a4bdae67cd49ddc9e039c695303998aaa986d655f9"
+    },
+    ["windows-x64-vc14.29.30133-bbc1acc3a3b94107875a5454b48cde71"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-bbc1acc3a3b94107875a5454b48cde71.7z",
+        toolset = "14.29.30133",
+        sha256 = "7feefac4a1a8adde682d8a26c32f6975c2d5e3faccb5eaf3a44df74f89ffbd2d"
     },
     ["windows-x86-vc14.29.30133-69a70cc401cf4d998cbe2eac3a5d6ed6"] = {
-        sha256 = "971ccdde34706a557444adc126c4bbf1e28f45ee37058da5fce4dd2e8cee1a04",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-69a70cc401cf4d998cbe2eac3a5d6ed6.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "971ccdde34706a557444adc126c4bbf1e28f45ee37058da5fce4dd2e8cee1a04"
+    },
+    ["windows-x64-vc14.37.32822-e9d74df2a0304066b5a0ed6b8ead09ea"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-e9d74df2a0304066b5a0ed6b8ead09ea.7z",
+        toolset = "14.37.32822",
+        sha256 = "744c5556e87e4368747b88c4190695feec40a57a63a98a3cb3f7880ea06e28dc"
+    },
+    ["windows-x86-vc14.37.32822-41ca012662a940c7b90686c5f35e2fe0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-41ca012662a940c7b90686c5f35e2fe0.7z",
+        toolset = "14.37.32822",
+        sha256 = "febf6f850ab9ba3e0811671e5e636c1036c8c07b927368e9736f04b8c9712155"
+    },
+    ["windows-x64-vc14.37.32822-eda2101b3a1f402c9144a36378130e0e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-eda2101b3a1f402c9144a36378130e0e.7z",
+        toolset = "14.37.32822",
+        sha256 = "1055d0bd855dda713fa2e7dda6086cf0d7f00f90fd02dbaef77a29d688a13a7e"
+    },
+    ["windows-x86-vc14.37.32822-0bd24f9e70094321964b7266385df335"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-0bd24f9e70094321964b7266385df335.7z",
+        toolset = "14.37.32822",
+        sha256 = "535c308d604141e7e7251d1ebebaac0cbe8642c8db2f073417c454cffe9db82d"
+    },
+    ["windows-x86-vc14.37.32822-fe4074a37ad44cf098424463e2c19ade"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-fe4074a37ad44cf098424463e2c19ade.7z",
+        toolset = "14.37.32822",
+        sha256 = "bde92de5f6145b03a8a4c54bee4f592f83c94c5c3437f51e8b4da5eaa893e951"
+    },
+    ["windows-x64-vc14.37.32822-bbc1acc3a3b94107875a5454b48cde71"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-bbc1acc3a3b94107875a5454b48cde71.7z",
+        toolset = "14.37.32822",
+        sha256 = "2fd23b94981d6ab6d989a4e5139caf4d7d902b85944d511ccd818b1890a7ebdb"
+    },
+    ["windows-x86-vc14.29.30133-a23b266a33864bfbb327a3096f7274d3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-a23b266a33864bfbb327a3096f7274d3.7z",
+        toolset = "14.29.30133",
+        sha256 = "811e5817e8da158b31eebc44b97f35e1543a24088c9ef4b16515a6766eee9fda"
+    },
+    ["windows-x86-vc14.37.32822-a23b266a33864bfbb327a3096f7274d3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-a23b266a33864bfbb327a3096f7274d3.7z",
+        toolset = "14.37.32822",
+        sha256 = "50369de1f4e98b64757d8aa7ed9d09008402832fab10bac58d14cf3088ac9acd"
+    },
+    ["windows-x64-vc14.29.30133-cc146afaf074443793ac5fd190a9fdc2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-cc146afaf074443793ac5fd190a9fdc2.7z",
+        toolset = "14.29.30133",
+        sha256 = "12bc0b51366841931a0844a611993ce5d3891a581ec857b4a77267cd0983110a"
+    },
+    ["windows-x86-vc14.29.30133-8de351c446e44cdbae2aab46332ac190"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-8de351c446e44cdbae2aab46332ac190.7z",
+        toolset = "14.29.30133",
+        sha256 = "894adbc5ae6985112ee24bcf7d4f3bb4deb7d284e48132e4ac3df42938762e87"
+    },
+    ["windows-x86-vc14.29.30133-41ca012662a940c7b90686c5f35e2fe0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-41ca012662a940c7b90686c5f35e2fe0.7z",
+        toolset = "14.29.30133",
+        sha256 = "3e7bf9102bce1b9ee879c4c383d5e57b5e3cf4f78bc93e9bbeba39f3f7c300d3"
+    },
+    ["windows-x64-vc14.29.30133-e9d74df2a0304066b5a0ed6b8ead09ea"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.29.30133-e9d74df2a0304066b5a0ed6b8ead09ea.7z",
+        toolset = "14.29.30133",
+        sha256 = "781826981d99417b2ee28dc55627ee94f3e2fc230c9e6311ccee82832ea9d255"
+    },
+    ["windows-x86-vc14.37.32822-8de351c446e44cdbae2aab46332ac190"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-8de351c446e44cdbae2aab46332ac190.7z",
+        toolset = "14.37.32822",
+        sha256 = "8ad13b46942ecf419e7dcc280be3b7b1e72179cafc221fc171b7d4c8b8d1fcbf"
     },
     ["windows-x86-vc14.37.32822-69a70cc401cf4d998cbe2eac3a5d6ed6"] = {
-        sha256 = "5d277cb69c965a17a2edbf3d963b0af33621c301a7375b62292f8605e59f731f",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-69a70cc401cf4d998cbe2eac3a5d6ed6.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "5d277cb69c965a17a2edbf3d963b0af33621c301a7375b62292f8605e59f731f"
+    },
+    ["windows-x86-vc14.37.32822-c301efa2b04a4124845419acbe661103"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.37.32822-c301efa2b04a4124845419acbe661103.7z",
+        toolset = "14.37.32822",
+        sha256 = "833514993ebd1a8a6f1324fa773fdaa54465ec04994c084013f77338c9d2bfde"
+    },
+    ["windows-x86-vc14.29.30133-0bd24f9e70094321964b7266385df335"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-0bd24f9e70094321964b7266385df335.7z",
+        toolset = "14.29.30133",
+        sha256 = "650e208a8866c2162670c6038154f2d3da5cc82fc974c656ba05eafc3d3ce5e3"
+    },
+    ["windows-x86-vc14.29.30133-fe4074a37ad44cf098424463e2c19ade"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x86-vc14.29.30133-fe4074a37ad44cf098424463e2c19ade.7z",
+        toolset = "14.29.30133",
+        sha256 = "f70b5103b6856114875a0450caf200bb6611c88d5c9aae2dbbe5f0d97861b0d8"
+    },
+    ["windows-x64-vc14.37.32822-cc146afaf074443793ac5fd190a9fdc2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/implot-v0.15/windows-x64-vc14.37.32822-cc146afaf074443793ac5fd190a9fdc2.7z",
+        toolset = "14.37.32822",
+        sha256 = "84397a0825ad053121952093772f90184421a51623bf1ae2a4f1daeaddff737f"
     }
 }
