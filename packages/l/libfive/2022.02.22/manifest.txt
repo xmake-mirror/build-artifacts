@@ -1,153 +1,93 @@
 {
-    ["windows-x86-vc142-d8e4904f8a1648da9d0ce33d0098b184"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-d8e4904f8a1648da9d0ce33d0098b184.7z",
-        sha256 = "70da9b913ea1beb8e3e425c65b51621b1c8339ed03b125b5d7bd77b6acf5f5b1"
-    },
-    ["windows-x86-vc14.29.30133-0d483dc91dd7402cab27c3d9b7d01102"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-0d483dc91dd7402cab27c3d9b7d01102.7z",
-        sha256 = "ed71679975ed1c468e50b0c073329570dfbe20a0e4ab99d0be955641ccdf7821"
+    ["windows-x86-vc143-a06e4499feae42c186edec6b8bc92569"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-a06e4499feae42c186edec6b8bc92569.7z",
+        sha256 = "07ada168c63a6e357c24b3771801adb00cb5c1f744e08327eaa6901c6450cc8f"
     },
     ["windows-x86-vc14.37.32822-a7b9ed0e85b34ce5ba3bc07553a1bf2a"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-a7b9ed0e85b34ce5ba3bc07553a1bf2a.7z",
-        sha256 = "acc60ca048e3868e8d70799955af0af7fbaaf9d5b945db140dd6a2825869d925"
-    },
-    ["windows-x86-vc14.29.30133-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
-        sha256 = "df93597f5e6071f5effbd994e42eacbf5326eae1cc5d68e987d25372f408b94d"
-    },
-    ["windows-x64-vc14.29.30133-cb7675c79d4a4c8aaba8403ff7ccc67d"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-cb7675c79d4a4c8aaba8403ff7ccc67d.7z",
-        sha256 = "cf08961f3f12dbd7413000e6e7ce60b8527b30f5efba70346447211fcf77e433"
-    },
-    ["windows-x64-vc14.29.30133-cf938ebe628f432c8f4a35d18047e7c3"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-cf938ebe628f432c8f4a35d18047e7c3.7z",
-        sha256 = "1648380912ac0c0dd1e291c0a1ae3b3417e8bd2f5ebdaef107a4804edad199c5"
-    },
-    ["windows-x86-vc143-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
-        sha256 = "acb65479028969a56b43acba27513df30171ce67cc8b1a66c44666254daf07f1"
-    },
-    ["windows-x86-vc14.37.32822-d8e4904f8a1648da9d0ce33d0098b184"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-d8e4904f8a1648da9d0ce33d0098b184.7z",
-        sha256 = "503b2b647f8270ff292742d6d22e6fc52a9fe0c51c255d59b31e8d6e0d611e81"
-    },
-    ["windows-x86-vc14.37.32822-a06e4499feae42c186edec6b8bc92569"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-a06e4499feae42c186edec6b8bc92569.7z",
-        sha256 = "c3b45cd7c4c322c62fcf8af284cc9420ea375c074223da931063b669de27684b"
-    },
-    ["windows-x86-vc142-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
-        sha256 = "b960e3b204a1e57c04dbc7716acba6ccae7241e1c75f2130066aa9732a6c89ef"
-    },
-    ["windows-x86-vc14.29.30133-a7b9ed0e85b34ce5ba3bc07553a1bf2a"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-a7b9ed0e85b34ce5ba3bc07553a1bf2a.7z",
-        sha256 = "7101b1ea3ec5fea9edb4766a6171761c994fa5bd06e7b9500db8ba6ed9b62c11"
-    },
-    ["windows-x64-vc14.37.32822-cd3fb0003aee4c53b60688305844ddf1"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-cd3fb0003aee4c53b60688305844ddf1.7z",
-        sha256 = "0d34eafaf14eae8bd301da529728b63129e07e42427f3c975b627069b2568564"
-    },
-    ["windows-x64-vc14.29.30133-cd3fb0003aee4c53b60688305844ddf1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-cd3fb0003aee4c53b60688305844ddf1.7z",
-        sha256 = "4ec63060c7985f11568dca77f2d8c7508d2c5d73268baf76012539e2facb7d7a"
-    },
-    ["windows-x64-vc14.29.30133-390897ea9f6d4ba0a46e95bd00195e1c"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-390897ea9f6d4ba0a46e95bd00195e1c.7z",
-        sha256 = "4a9579eb4da914d55c247d04bf72ce8964d2d1bbfb9a201be0852bc8fb4246ff"
-    },
-    ["windows-x64-vc142-cf938ebe628f432c8f4a35d18047e7c3"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-cf938ebe628f432c8f4a35d18047e7c3.7z",
-        sha256 = "d14696a3a24b8eb946a750b27ea641171b636a1c67e46f1f0c49f2987cf701ab"
-    },
-    ["windows-x64-vc142-cd3fb0003aee4c53b60688305844ddf1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-cd3fb0003aee4c53b60688305844ddf1.7z",
-        sha256 = "ed30ed6059e1ba8ddfc3902571eba284d1107d59847a076c653e27b5f1e90d2c"
-    },
-    ["windows-x86-vc14.29.30133-d8e4904f8a1648da9d0ce33d0098b184"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-d8e4904f8a1648da9d0ce33d0098b184.7z",
-        sha256 = "6e02a53c986a4f3ca5075317750c716a259b407b0af1d36e38613f45d81862fb"
-    },
-    ["windows-x86-vc142-f06aaca1660644119510081c89e9f5ea"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-f06aaca1660644119510081c89e9f5ea.7z",
-        sha256 = "65d137e15446aad8bb104013c2c939dd933de4209408fbca0bd7372d1fa33be8"
-    },
-    ["windows-x64-vc14.37.32822-390897ea9f6d4ba0a46e95bd00195e1c"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-390897ea9f6d4ba0a46e95bd00195e1c.7z",
-        sha256 = "7d60dc0952b7490ad83051ebe93bcf71020b8967eecabcab7235d86c45745618"
-    },
-    ["windows-x86-vc14.37.32822-28766ad7b1ab41a6a5788588eb8a5103"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-28766ad7b1ab41a6a5788588eb8a5103.7z",
-        sha256 = "e43609824009a36af4677b8071de56fb04926d8842eee78269b2abc82dca1c33"
-    },
-    ["windows-x64-vc14.37.32822-696a718e8bcb4f4ab7a9639ec78a3a8b"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-696a718e8bcb4f4ab7a9639ec78a3a8b.7z",
-        sha256 = "9bf0ded27c2ac38eacc50be4d1657bc69d230c78f2d325013d51bf19a48b8ef3"
+        sha256 = "acc60ca048e3868e8d70799955af0af7fbaaf9d5b945db140dd6a2825869d925",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc143-f06aaca1660644119510081c89e9f5ea"] = {
         toolset = "14.31.31103",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-f06aaca1660644119510081c89e9f5ea.7z",
         sha256 = "b6af1de4988c76d78e6bef6ea719c0b24862428a3087c2685be4d6e1ca07a6bb"
     },
-    ["windows-x64-vc14.29.30133-b7a89ce5a530461a847b17c91f38fb7c"] = {
+    ["windows-x86-vc143-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
+        sha256 = "acb65479028969a56b43acba27513df30171ce67cc8b1a66c44666254daf07f1"
+    },
+    ["windows-x86-vc14.29.30133-d06c1f55db4a4fa0a91ec02271d3cd3b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-d06c1f55db4a4fa0a91ec02271d3cd3b.7z",
+        sha256 = "124e40f86667ee7b3fd3724c8b1f9fa1220ae03a702d04ddee1b9f7631811ab5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-cf938ebe628f432c8f4a35d18047e7c3"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-b7a89ce5a530461a847b17c91f38fb7c.7z",
-        sha256 = "4bb4121a97bc91e523821f9be85884fb7756e12a3c523355810793a30be415ec"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-cf938ebe628f432c8f4a35d18047e7c3.7z",
+        sha256 = "d14696a3a24b8eb946a750b27ea641171b636a1c67e46f1f0c49f2987cf701ab"
     },
-    ["windows-x86-vc14.37.32822-0d483dc91dd7402cab27c3d9b7d01102"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-0d483dc91dd7402cab27c3d9b7d01102.7z",
-        sha256 = "bf0173feea678ffefaa5cabda0b0b4f593f60474e3378f295ba163ec22d04732"
+    ["windows-x86-vc14.38.33130-28766ad7b1ab41a6a5788588eb8a5103"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.38.33130-28766ad7b1ab41a6a5788588eb8a5103.7z",
+        sha256 = "ff53683a31db291b0f8bf07c45c217cf13a95c2ba894619be8c3785865f2a4f4",
+        toolset = "14.38.33130"
     },
-    ["windows-x64-vc143-b7a89ce5a530461a847b17c91f38fb7c"] = {
+    ["windows-x86-vc142-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
+        sha256 = "b960e3b204a1e57c04dbc7716acba6ccae7241e1c75f2130066aa9732a6c89ef"
+    },
+    ["windows-x86-vc142-a06e4499feae42c186edec6b8bc92569"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-a06e4499feae42c186edec6b8bc92569.7z",
+        sha256 = "c0657865b6b115e16a8c5e43e6c2812cbdad18bcb3051d5e3f6aab38a8756fbe"
+    },
+    ["windows-x86-vc14.37.32822-28766ad7b1ab41a6a5788588eb8a5103"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-28766ad7b1ab41a6a5788588eb8a5103.7z",
+        sha256 = "e43609824009a36af4677b8071de56fb04926d8842eee78269b2abc82dca1c33",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-0d483dc91dd7402cab27c3d9b7d01102"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-0d483dc91dd7402cab27c3d9b7d01102.7z",
+        sha256 = "9fb98844925860ac4b1152c4698739c89f4e11391ac96787b1d78ec054632b12",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-390897ea9f6d4ba0a46e95bd00195e1c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-390897ea9f6d4ba0a46e95bd00195e1c.7z",
+        sha256 = "46ed4f2b737861af79765f9781b163295f8c1eddbf8013200553bab00c96a7ec"
+    },
+    ["windows-x86-vc143-d8e4904f8a1648da9d0ce33d0098b184"] = {
         toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc143-b7a89ce5a530461a847b17c91f38fb7c.7z",
-        sha256 = "8e5c2ddf0096bc95a641d5ede4ff6a2494573d6f9aa6d80020cfb985f92c482e"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-d8e4904f8a1648da9d0ce33d0098b184.7z",
+        sha256 = "f22c03e744d6d67c8b591caf08492948018481a926cc82ec860eb2dd4ba774dc"
     },
-    ["windows-x64-vc143-cf938ebe628f432c8f4a35d18047e7c3"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc143-cf938ebe628f432c8f4a35d18047e7c3.7z",
-        sha256 = "4122fd19cb180476dd7983d61f3a3acee2012d41caeade9ba4743ac8a87f8bed"
+    ["windows-x64-vc14.37.32822-cb7675c79d4a4c8aaba8403ff7ccc67d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-cb7675c79d4a4c8aaba8403ff7ccc67d.7z",
+        sha256 = "5095f71706c240137d748e3c017b0808fcd0ac4c192dd903891f7db52c28d020",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc14.29.30133-136a336aa85e4e53ba6df58fbd7e14db"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-136a336aa85e4e53ba6df58fbd7e14db.7z",
-        sha256 = "c6a123670eb7f68ef55a615e77e503a165ce9582aeeea2d2f1a20aac1075d0ff"
+        sha256 = "d427b150791396f67ec6eaa929ecd6a753608cafe0cab3d5f4cfb4bc82bcecaf",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-28766ad7b1ab41a6a5788588eb8a5103"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-28766ad7b1ab41a6a5788588eb8a5103.7z",
-        sha256 = "3bd8c26375e64d6790c0f086acf8ea2e24264680887cebea6d05e8dae4087b90"
+    ["windows-x86-vc14.29.30133-d8e4904f8a1648da9d0ce33d0098b184"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-d8e4904f8a1648da9d0ce33d0098b184.7z",
+        sha256 = "6e02a53c986a4f3ca5075317750c716a259b407b0af1d36e38613f45d81862fb",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-a06e4499feae42c186edec6b8bc92569"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-a06e4499feae42c186edec6b8bc92569.7z",
-        sha256 = "b221335afb60d55e079224ebe75c7522c6379dae2c4ed269594a64264ff1ea94"
+    ["windows-x64-vc14.29.30133-390897ea9f6d4ba0a46e95bd00195e1c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-390897ea9f6d4ba0a46e95bd00195e1c.7z",
+        sha256 = "4a9579eb4da914d55c247d04bf72ce8964d2d1bbfb9a201be0852bc8fb4246ff",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.37.32822-f06aaca1660644119510081c89e9f5ea"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-f06aaca1660644119510081c89e9f5ea.7z",
-        sha256 = "6693f7ce0dcb059abb95386a7ecd4d3bb2f3ee86a2f9d1cafe58c06af8ab4531"
+    ["windows-x64-vc14.37.32822-696a718e8bcb4f4ab7a9639ec78a3a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-696a718e8bcb4f4ab7a9639ec78a3a8b.7z",
+        sha256 = "9bf0ded27c2ac38eacc50be4d1657bc69d230c78f2d325013d51bf19a48b8ef3",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc143-cd3fb0003aee4c53b60688305844ddf1"] = {
         toolset = "14.31.31103",
@@ -155,88 +95,188 @@
         sha256 = "537fae0f16fca734ec454ae374ce20540f0e0cb99353883e9ea740f301fa2ccd"
     },
     ["windows-x64-vc14.37.32822-509e49212d9b42cca83e4414298f8fee"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-509e49212d9b42cca83e4414298f8fee.7z",
-        sha256 = "06c627cbad2dd5f9daec6652ce231639edb909d4dbec9bd498b6b7c2e2cc3c7f"
+        sha256 = "06c627cbad2dd5f9daec6652ce231639edb909d4dbec9bd498b6b7c2e2cc3c7f",
+        toolset = "14.37.32822"
     },
-    ["windows-x86-vc142-a06e4499feae42c186edec6b8bc92569"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-a06e4499feae42c186edec6b8bc92569.7z",
-        sha256 = "c0657865b6b115e16a8c5e43e6c2812cbdad18bcb3051d5e3f6aab38a8756fbe"
+    ["windows-x86-vc14.29.30133-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
+        sha256 = "df93597f5e6071f5effbd994e42eacbf5326eae1cc5d68e987d25372f408b94d",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-d06c1f55db4a4fa0a91ec02271d3cd3b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-d06c1f55db4a4fa0a91ec02271d3cd3b.7z",
-        sha256 = "60211875899a536d8777f76aee70482b4a8ec7198bebcbb447fd6cde30dd74f5"
+    ["windows-x86-vc14.37.32822-0d483dc91dd7402cab27c3d9b7d01102"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-0d483dc91dd7402cab27c3d9b7d01102.7z",
+        sha256 = "bf0173feea678ffefaa5cabda0b0b4f593f60474e3378f295ba163ec22d04732",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc142-390897ea9f6d4ba0a46e95bd00195e1c"] = {
+    ["windows-x64-vc14.37.32822-cd3fb0003aee4c53b60688305844ddf1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-cd3fb0003aee4c53b60688305844ddf1.7z",
+        sha256 = "0d34eafaf14eae8bd301da529728b63129e07e42427f3c975b627069b2568564",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc143-b7a89ce5a530461a847b17c91f38fb7c"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc143-b7a89ce5a530461a847b17c91f38fb7c.7z",
+        sha256 = "8e5c2ddf0096bc95a641d5ede4ff6a2494573d6f9aa6d80020cfb985f92c482e"
+    },
+    ["windows-x86-vc14.29.30133-a06e4499feae42c186edec6b8bc92569"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-a06e4499feae42c186edec6b8bc92569.7z",
+        sha256 = "b221335afb60d55e079224ebe75c7522c6379dae2c4ed269594a64264ff1ea94",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-696a718e8bcb4f4ab7a9639ec78a3a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-696a718e8bcb4f4ab7a9639ec78a3a8b.7z",
+        sha256 = "ebfcbf41c753845303e283b905ab2c6a253131b9a25d34838684b601b7a0cc68",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-a7b9ed0e85b34ce5ba3bc07553a1bf2a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.38.33130-a7b9ed0e85b34ce5ba3bc07553a1bf2a.7z",
+        sha256 = "d5932e4cc59ac3fa4235398bd87ecfede5dce0741faeb10f42d753b900947639",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.37.32822-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
+        sha256 = "95ba7d2493b46a785c1e04e089289b84e1b338697f5a4a54c26db0034b7683dc",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc142-cd3fb0003aee4c53b60688305844ddf1"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-390897ea9f6d4ba0a46e95bd00195e1c.7z",
-        sha256 = "46ed4f2b737861af79765f9781b163295f8c1eddbf8013200553bab00c96a7ec"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-cd3fb0003aee4c53b60688305844ddf1.7z",
+        sha256 = "ed30ed6059e1ba8ddfc3902571eba284d1107d59847a076c653e27b5f1e90d2c"
+    },
+    ["windows-x86-vc14.29.30133-a7b9ed0e85b34ce5ba3bc07553a1bf2a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-a7b9ed0e85b34ce5ba3bc07553a1bf2a.7z",
+        sha256 = "63cb4856580895608babdb93978bfe046c574b9395be9d89b47f0dbf3afe933d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-f06aaca1660644119510081c89e9f5ea"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-f06aaca1660644119510081c89e9f5ea.7z",
+        sha256 = "65d137e15446aad8bb104013c2c939dd933de4209408fbca0bd7372d1fa33be8"
+    },
+    ["windows-x86-vc14.29.30133-28766ad7b1ab41a6a5788588eb8a5103"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-28766ad7b1ab41a6a5788588eb8a5103.7z",
+        sha256 = "63b3a235828991c282132283f81cad92b15f938c20972d5c81f0109c73b6f3d4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-d06c1f55db4a4fa0a91ec02271d3cd3b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.38.33130-d06c1f55db4a4fa0a91ec02271d3cd3b.7z",
+        sha256 = "397e5727dcda7ce4fc1b35902edd2f0eed94e3a7f2bf5cd4326af5d09e62f79a",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.37.32822-d8e4904f8a1648da9d0ce33d0098b184"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-d8e4904f8a1648da9d0ce33d0098b184.7z",
+        sha256 = "503b2b647f8270ff292742d6d22e6fc52a9fe0c51c255d59b31e8d6e0d611e81",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-cb7675c79d4a4c8aaba8403ff7ccc67d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-cb7675c79d4a4c8aaba8403ff7ccc67d.7z",
+        sha256 = "b479378e718ecc14a467c3cd408d693e8a93724dfee0d8f971dcaa73e85ed476",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-b7a89ce5a530461a847b17c91f38fb7c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-b7a89ce5a530461a847b17c91f38fb7c.7z",
+        sha256 = "4bb4121a97bc91e523821f9be85884fb7756e12a3c523355810793a30be415ec",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-696a718e8bcb4f4ab7a9639ec78a3a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.38.33130-696a718e8bcb4f4ab7a9639ec78a3a8b.7z",
+        sha256 = "899d7473c92275bd4e8a1cd6a6e1becdfe525aac8ac2d1a1ccf3684985f179e5",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-509e49212d9b42cca83e4414298f8fee"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-509e49212d9b42cca83e4414298f8fee.7z",
+        sha256 = "ef80a12d6153dd8707fc879afb5ab6d23d69db55bb18e47ac786eea297cde954",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-cf938ebe628f432c8f4a35d18047e7c3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-cf938ebe628f432c8f4a35d18047e7c3.7z",
+        sha256 = "1648380912ac0c0dd1e291c0a1ae3b3417e8bd2f5ebdaef107a4804edad199c5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-390897ea9f6d4ba0a46e95bd00195e1c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-390897ea9f6d4ba0a46e95bd00195e1c.7z",
+        sha256 = "7d60dc0952b7490ad83051ebe93bcf71020b8967eecabcab7235d86c45745618",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-f06aaca1660644119510081c89e9f5ea"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.29.30133-f06aaca1660644119510081c89e9f5ea.7z",
-        sha256 = "38acdb7e9950e32b841c9578b6826fad7343c07a7d7ea7c05e1e8ba8b0e46628"
+        sha256 = "38acdb7e9950e32b841c9578b6826fad7343c07a7d7ea7c05e1e8ba8b0e46628",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.37.32822-b7a89ce5a530461a847b17c91f38fb7c"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-b7a89ce5a530461a847b17c91f38fb7c.7z",
-        sha256 = "d1674d5127a75f3c63f4e72591f015755de5311af9efa527be9ec87c80974b74"
-    },
-    ["windows-x86-vc14.37.32822-d06c1f55db4a4fa0a91ec02271d3cd3b"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-d06c1f55db4a4fa0a91ec02271d3cd3b.7z",
-        sha256 = "27f307ae85e855a4381eb85625a89db2d1782e15a53fa6be238ee58c3aa724ec"
-    },
-    ["windows-x86-vc143-a06e4499feae42c186edec6b8bc92569"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-a06e4499feae42c186edec6b8bc92569.7z",
-        sha256 = "07ada168c63a6e357c24b3771801adb00cb5c1f744e08327eaa6901c6450cc8f"
+        sha256 = "d1674d5127a75f3c63f4e72591f015755de5311af9efa527be9ec87c80974b74",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc142-b7a89ce5a530461a847b17c91f38fb7c"] = {
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc142-b7a89ce5a530461a847b17c91f38fb7c.7z",
         sha256 = "d3e773ee676eb551c7c57a58084a3261a3e289681bfab921164188f433894be5"
     },
-    ["windows-x86-vc143-d8e4904f8a1648da9d0ce33d0098b184"] = {
-        toolset = "14.31.31103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc143-d8e4904f8a1648da9d0ce33d0098b184.7z",
-        sha256 = "f22c03e744d6d67c8b591caf08492948018481a926cc82ec860eb2dd4ba774dc"
+    ["windows-x64-vc14.38.33130-136a336aa85e4e53ba6df58fbd7e14db"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.38.33130-136a336aa85e4e53ba6df58fbd7e14db.7z",
+        sha256 = "3f0f2a823d020cd641204e0c25ab990519e3c7f665dac471484350454e257119",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-509e49212d9b42cca83e4414298f8fee"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.38.33130-509e49212d9b42cca83e4414298f8fee.7z",
+        sha256 = "eadf6bda03ddb1a93ee4ed40e8ff238cce9b0f36954b6dbadd419df7b3e6fe30",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc142-d8e4904f8a1648da9d0ce33d0098b184"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc142-d8e4904f8a1648da9d0ce33d0098b184.7z",
+        sha256 = "70da9b913ea1beb8e3e425c65b51621b1c8339ed03b125b5d7bd77b6acf5f5b1"
+    },
+    ["windows-x64-vc14.38.33130-cb7675c79d4a4c8aaba8403ff7ccc67d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.38.33130-cb7675c79d4a4c8aaba8403ff7ccc67d.7z",
+        sha256 = "245dd2858028a8e7ca9ee1548a09c2b6595b634b49f28e17807af241ccb4869e",
+        toolset = "14.38.33130"
     },
     ["windows-x64-vc143-390897ea9f6d4ba0a46e95bd00195e1c"] = {
         toolset = "14.31.31103",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc143-390897ea9f6d4ba0a46e95bd00195e1c.7z",
         sha256 = "43764733ddc659670ea482b4db72e388cfbb096234ddd77e692d18049abbcba5"
     },
-    ["windows-x86-vc14.37.32822-6f11bb5bd3e14e9aab4bc73193f442b2"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-6f11bb5bd3e14e9aab4bc73193f442b2.7z",
-        sha256 = "95ba7d2493b46a785c1e04e089289b84e1b338697f5a4a54c26db0034b7683dc"
+    ["windows-x86-vc14.37.32822-f06aaca1660644119510081c89e9f5ea"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-f06aaca1660644119510081c89e9f5ea.7z",
+        sha256 = "6693f7ce0dcb059abb95386a7ecd4d3bb2f3ee86a2f9d1cafe58c06af8ab4531",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.29.30133-509e49212d9b42cca83e4414298f8fee"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-509e49212d9b42cca83e4414298f8fee.7z",
-        sha256 = "c3e4a39692f2bcb0fc607414f65718cc06fb7fd6db65da94d524b9b8d5918a5a"
-    },
-    ["windows-x64-vc14.29.30133-696a718e8bcb4f4ab7a9639ec78a3a8b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-696a718e8bcb4f4ab7a9639ec78a3a8b.7z",
-        sha256 = "271f4fcada246d66f40365b471ca0e6568d6705f7db46b629217dec207d5a0b2"
+    ["windows-x86-vc14.38.33130-0d483dc91dd7402cab27c3d9b7d01102"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.38.33130-0d483dc91dd7402cab27c3d9b7d01102.7z",
+        sha256 = "f7d64bcfb6cf115688fc4ac581604cc43f56a609ab20598af7c16b514828e746",
+        toolset = "14.38.33130"
     },
     ["windows-x64-vc14.37.32822-136a336aa85e4e53ba6df58fbd7e14db"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-136a336aa85e4e53ba6df58fbd7e14db.7z",
-        sha256 = "908b2a40b12ffe72eafe592be89572f3b45c3ee6c57567231578999539e62ed9"
+        sha256 = "908b2a40b12ffe72eafe592be89572f3b45c3ee6c57567231578999539e62ed9",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.37.32822-cb7675c79d4a4c8aaba8403ff7ccc67d"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-cb7675c79d4a4c8aaba8403ff7ccc67d.7z",
-        sha256 = "5095f71706c240137d748e3c017b0808fcd0ac4c192dd903891f7db52c28d020"
+    ["windows-x64-vc143-cf938ebe628f432c8f4a35d18047e7c3"] = {
+        toolset = "14.31.31103",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc143-cf938ebe628f432c8f4a35d18047e7c3.7z",
+        sha256 = "4122fd19cb180476dd7983d61f3a3acee2012d41caeade9ba4743ac8a87f8bed"
+    },
+    ["windows-x86-vc14.37.32822-d06c1f55db4a4fa0a91ec02271d3cd3b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-d06c1f55db4a4fa0a91ec02271d3cd3b.7z",
+        sha256 = "27f307ae85e855a4381eb85625a89db2d1782e15a53fa6be238ee58c3aa724ec",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc14.37.32822-cf938ebe628f432c8f4a35d18047e7c3"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.37.32822-cf938ebe628f432c8f4a35d18047e7c3.7z",
-        sha256 = "1d9ffd0245700062ae4378cffdaa61132b70b09277721ebc935d0af7f938a26e"
+        sha256 = "1d9ffd0245700062ae4378cffdaa61132b70b09277721ebc935d0af7f938a26e",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-a06e4499feae42c186edec6b8bc92569"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x86-vc14.37.32822-a06e4499feae42c186edec6b8bc92569.7z",
+        sha256 = "c3b45cd7c4c322c62fcf8af284cc9420ea375c074223da931063b669de27684b",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-cd3fb0003aee4c53b60688305844ddf1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfive-2022.02.22/windows-x64-vc14.29.30133-cd3fb0003aee4c53b60688305844ddf1.7z",
+        sha256 = "4ec63060c7985f11568dca77f2d8c7508d2c5d73268baf76012539e2facb7d7a",
+        toolset = "14.29.30133"
     }
 }
