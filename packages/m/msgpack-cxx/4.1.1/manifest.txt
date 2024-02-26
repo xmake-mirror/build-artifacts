@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.37.32822-522924f61c944c038a0c9714470cedd2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.37.32822-522924f61c944c038a0c9714470cedd2.7z",
-        sha256 = "cd542c2c09e4718eba6437a769eb1f27b4f8217dc9b7abdf545e6fcaa3d80d9f",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-ac285fa5d1cc4b6eb8b11a58a34d0788"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-ac285fa5d1cc4b6eb8b11a58a34d0788.7z",
+        toolset = "14.29.30133",
+        sha256 = "710f4c56e03bce89e137393187d0d3d4f4929dc2c7a6377b6bfe7633728c6508"
     },
-    ["windows-x86-vc14.29.30133-2af4242d17064aefa0eae26a93136d5b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-2af4242d17064aefa0eae26a93136d5b.7z",
-        sha256 = "3576255b77e5ab764af4546c44bc1e3f55efc2e391062ee8e8671e6a089efdd4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ce8ba15b37de442ea9be21bc1190b419"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-ce8ba15b37de442ea9be21bc1190b419.7z",
-        sha256 = "306ffd7567941810f0e56e0a17cbb679c553f3286cef640338263bc5de88c763",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-d7716e02138445c8b46dd8ec91ac77e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-d7716e02138445c8b46dd8ec91ac77e5.7z",
-        sha256 = "c99e820a32d8fc9b786f9e8690e423e03cb5b8b1ff435feba1ab5d3e8bd6aa83",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-ac285fa5d1cc4b6eb8b11a58a34d0788"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-ac285fa5d1cc4b6eb8b11a58a34d0788.7z",
-        sha256 = "003ebc17857da67184f8e077eedb64b1ab561d6db8eab48548036f55ca232c48",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.38.33130-6f603adc7f384480a118c827d746bfc5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.38.33130-6f603adc7f384480a118c827d746bfc5.7z",
+        toolset = "14.38.33130",
+        sha256 = "691740fc3346c669e3ad5b6835ece661e1975a6084a470b9f9ae83472b491dbc"
     },
     ["windows-x86-vc14.37.32822-ffd385572d1d4cdf8ba7acc9b997cac5"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.37.32822-ffd385572d1d4cdf8ba7acc9b997cac5.7z",
-        sha256 = "e03824e6e45e869558f4dfb28e64169c381f6af8c0587a052d01fb9a24ce9980",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "d982230fbb8acd7a289f79bfbde9307ee8f555f0d2227edbe5f2bdf282915131"
     },
     ["windows-x86-vc14.29.30133-ffd385572d1d4cdf8ba7acc9b997cac5"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-ffd385572d1d4cdf8ba7acc9b997cac5.7z",
-        sha256 = "dbb09ba023c604acead44e896a3d72c14e318e3c3f3df9c300a3588670bb62ee",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-895b0425820545a298865ced99a2c8af"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-895b0425820545a298865ced99a2c8af.7z",
-        sha256 = "2496a38757698229802ae21b59c946aaffc873d74936721dfa972d9a7d0c81b0",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-ce8ba15b37de442ea9be21bc1190b419"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-ce8ba15b37de442ea9be21bc1190b419.7z",
-        sha256 = "e0c8b66a6e30e0e6a3e50baebf7e3594ceae57d03d7bef9fe2587c3ff0831e43",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-522924f61c944c038a0c9714470cedd2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-522924f61c944c038a0c9714470cedd2.7z",
-        sha256 = "aae0dad11cb2427181bffd4d3856fd52b8ebe14d83feed39c9e7c8184a4fd6ed",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-02d5a40eff964540994accea29f8b126"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.37.32822-02d5a40eff964540994accea29f8b126.7z",
-        sha256 = "4cb1f50b36e80dd3e34c68c2e2cf7153d85f0ede6a1ef91b9ee7914a992518c3",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-895b0425820545a298865ced99a2c8af"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-895b0425820545a298865ced99a2c8af.7z",
-        sha256 = "bfaf280b2ff4f1579a9f1b44d4e9b8ae472d6c75d8c7d8cf4f4cd825c1de7d53",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-d7716e02138445c8b46dd8ec91ac77e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-d7716e02138445c8b46dd8ec91ac77e5.7z",
-        sha256 = "3e61539156c048c8b2681d96bbed356b1f6bfc0b3dd12b0a959b0e91b9789289",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ac285fa5d1cc4b6eb8b11a58a34d0788"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-ac285fa5d1cc4b6eb8b11a58a34d0788.7z",
-        sha256 = "710f4c56e03bce89e137393187d0d3d4f4929dc2c7a6377b6bfe7633728c6508",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "376909c247eac28608c6d316db1df1baaafcd8f8e60cab1c7e4ec356b46f9ea8"
     },
     ["windows-x86-vc14.37.32822-2af4242d17064aefa0eae26a93136d5b"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.37.32822-2af4242d17064aefa0eae26a93136d5b.7z",
-        sha256 = "4c6ae16d2bfdf31308abd52cc890fa34d1c151f82d5995dd841c2627333139eb",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "4c6ae16d2bfdf31308abd52cc890fa34d1c151f82d5995dd841c2627333139eb"
+    },
+    ["windows-x64-vc14.37.32822-ac285fa5d1cc4b6eb8b11a58a34d0788"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-ac285fa5d1cc4b6eb8b11a58a34d0788.7z",
+        toolset = "14.37.32822",
+        sha256 = "4798733964811efeaa96a8dadc587de3fac3febff9446eb706cc32ef328621fa"
+    },
+    ["windows-x86-vc14.29.30133-2af4242d17064aefa0eae26a93136d5b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-2af4242d17064aefa0eae26a93136d5b.7z",
+        toolset = "14.29.30133",
+        sha256 = "3576255b77e5ab764af4546c44bc1e3f55efc2e391062ee8e8671e6a089efdd4"
+    },
+    ["windows-x64-vc14.29.30133-5957f5584f224653aa3d32f22894a8ac"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-5957f5584f224653aa3d32f22894a8ac.7z",
+        toolset = "14.29.30133",
+        sha256 = "177f93ba9c3b32542f08d1e6edebf4508bc73efa36bbf44f320e806100f265eb"
+    },
+    ["windows-x86-vc14.29.30133-6f603adc7f384480a118c827d746bfc5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-6f603adc7f384480a118c827d746bfc5.7z",
+        toolset = "14.29.30133",
+        sha256 = "2cd9320308769f401f3275e9819aeec0ccd38715f993d3cac10f8bbefce0b614"
+    },
+    ["windows-x86-vc14.37.32822-02d5a40eff964540994accea29f8b126"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.37.32822-02d5a40eff964540994accea29f8b126.7z",
+        toolset = "14.37.32822",
+        sha256 = "4cb1f50b36e80dd3e34c68c2e2cf7153d85f0ede6a1ef91b9ee7914a992518c3"
+    },
+    ["windows-x64-vc14.38.33130-40e7bd39132942d78fc2777995773728"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.38.33130-40e7bd39132942d78fc2777995773728.7z",
+        toolset = "14.38.33130",
+        sha256 = "ff2a97724ee578d9fa63bde98e48228c8c78330768d0f3668d57a9a880189493"
+    },
+    ["windows-x86-vc14.29.30133-522924f61c944c038a0c9714470cedd2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-522924f61c944c038a0c9714470cedd2.7z",
+        toolset = "14.29.30133",
+        sha256 = "18eb234b03be59f2988dc4229c55d2787a4ec61a5637d1383a427c653af06739"
+    },
+    ["windows-x86-vc14.37.32822-522924f61c944c038a0c9714470cedd2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.37.32822-522924f61c944c038a0c9714470cedd2.7z",
+        toolset = "14.37.32822",
+        sha256 = "bf18c3cd3eb7cc168cf731957894e9990bac2a75e9dca9bb56cdb188f0fb2bf5"
+    },
+    ["windows-x64-vc14.37.32822-d7716e02138445c8b46dd8ec91ac77e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-d7716e02138445c8b46dd8ec91ac77e5.7z",
+        toolset = "14.37.32822",
+        sha256 = "acafe7dd0ac0310cb3065e156da8e7e098e3efb01e3b08f3caa9666c46fb6001"
+    },
+    ["windows-x64-vc14.37.32822-895b0425820545a298865ced99a2c8af"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-895b0425820545a298865ced99a2c8af.7z",
+        toolset = "14.37.32822",
+        sha256 = "2496a38757698229802ae21b59c946aaffc873d74936721dfa972d9a7d0c81b0"
+    },
+    ["windows-x64-vc14.29.30133-cbd6255309464289a34135ce6308d01b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-cbd6255309464289a34135ce6308d01b.7z",
+        toolset = "14.29.30133",
+        sha256 = "e1f550005878e0d7b27b34294f3b3b874ff47db3deaae1f2d8614665bc6a26d6"
+    },
+    ["windows-x86-vc14.38.33130-2d04c268cb91482e9ac9f1cd76d42ff1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.38.33130-2d04c268cb91482e9ac9f1cd76d42ff1.7z",
+        toolset = "14.38.33130",
+        sha256 = "7a97d9065d099da18c225452808c7692ea4a1b605acde19c10f65a476c9f03e0"
+    },
+    ["windows-x64-vc14.29.30133-ce8ba15b37de442ea9be21bc1190b419"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-ce8ba15b37de442ea9be21bc1190b419.7z",
+        toolset = "14.29.30133",
+        sha256 = "18e34cf8b9f506d8f6b3e56f914036bd3f429ed634f2e5edb5db4763a76c7b98"
+    },
+    ["windows-x64-vc14.29.30133-40e7bd39132942d78fc2777995773728"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-40e7bd39132942d78fc2777995773728.7z",
+        toolset = "14.29.30133",
+        sha256 = "8188c44044ac89c0507534347e00fac0c6afe3c63b7679b3077b045e83b0a109"
+    },
+    ["windows-x64-vc14.29.30133-895b0425820545a298865ced99a2c8af"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-895b0425820545a298865ced99a2c8af.7z",
+        toolset = "14.29.30133",
+        sha256 = "a5462e621b8b3c9059f9fc89ceca1747f5c3f26634668851fb236869acf09203"
+    },
+    ["windows-x64-vc14.38.33130-5957f5584f224653aa3d32f22894a8ac"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.38.33130-5957f5584f224653aa3d32f22894a8ac.7z",
+        toolset = "14.38.33130",
+        sha256 = "c31aaab2e7b3d92346f560d92de28f14210470b2172a6a44bfb1379170830458"
+    },
+    ["windows-x86-vc14.29.30133-2d04c268cb91482e9ac9f1cd76d42ff1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-2d04c268cb91482e9ac9f1cd76d42ff1.7z",
+        toolset = "14.29.30133",
+        sha256 = "26a5a19fd3575302734b099d265d91cbb0427251d4d23da085559c95e431d918"
+    },
+    ["windows-x86-vc14.29.30133-f69b18a40c5d4a258cfad2f6a7b6d321"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-f69b18a40c5d4a258cfad2f6a7b6d321.7z",
+        toolset = "14.29.30133",
+        sha256 = "87df7ae647c69e260eee8b18f9ab35c61277c5d2fb74cc2ad4fb543fb864ca09"
+    },
+    ["windows-x64-vc14.37.32822-ce8ba15b37de442ea9be21bc1190b419"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.37.32822-ce8ba15b37de442ea9be21bc1190b419.7z",
+        toolset = "14.37.32822",
+        sha256 = "29010b1a46cbd335acbc835d04c5b4f5503cdf4abbaa7f61f8ae404d67e6f4ae"
+    },
+    ["windows-x86-vc14.38.33130-80fc4bca4cc94c5b99b71e5d9db6670b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.38.33130-80fc4bca4cc94c5b99b71e5d9db6670b.7z",
+        toolset = "14.38.33130",
+        sha256 = "0bceabad8973c39c71a8e5ff81f8a650235b682a1a70187bb365a4a6d7405ca2"
+    },
+    ["windows-x64-vc14.38.33130-cbd6255309464289a34135ce6308d01b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.38.33130-cbd6255309464289a34135ce6308d01b.7z",
+        toolset = "14.38.33130",
+        sha256 = "5f83f321d7348507575039375e528f665f6198362fb8e45bb680fd0f5ccf2f3e"
+    },
+    ["windows-x64-vc14.29.30133-4b16f6d8e6da4a2b8bbb1baa737f0502"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-4b16f6d8e6da4a2b8bbb1baa737f0502.7z",
+        toolset = "14.29.30133",
+        sha256 = "0b4b0ee8638ed162aeb41c31b1db960f9c2232bc72a0fcb3fc2a31baf8ccf270"
+    },
+    ["windows-x64-vc14.38.33130-4b16f6d8e6da4a2b8bbb1baa737f0502"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.38.33130-4b16f6d8e6da4a2b8bbb1baa737f0502.7z",
+        toolset = "14.38.33130",
+        sha256 = "7edfe8f77dffcdd6664b84bf35ebabdf8df4b8e6ed8ca14c6d66a457162e20ab"
     },
     ["windows-x86-vc14.29.30133-02d5a40eff964540994accea29f8b126"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-02d5a40eff964540994accea29f8b126.7z",
-        sha256 = "02825576bd2cc3e86d7fc0672bcb23ffc254608801e587e9c33e9762da69980e",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "48b681f9c6e9cfa6c7f6805d59f31b5dbf7c1f03412e04d801938a16fd4b0030"
+    },
+    ["windows-x64-vc14.29.30133-d7716e02138445c8b46dd8ec91ac77e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x64-vc14.29.30133-d7716e02138445c8b46dd8ec91ac77e5.7z",
+        toolset = "14.29.30133",
+        sha256 = "670fda29dc62f50760688f817733301e9a59e39f22492cec2d54f6bdb48605c4"
+    },
+    ["windows-x86-vc14.29.30133-80fc4bca4cc94c5b99b71e5d9db6670b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.29.30133-80fc4bca4cc94c5b99b71e5d9db6670b.7z",
+        toolset = "14.29.30133",
+        sha256 = "d3fd37e10aa5f7740c2fc22c4efc49b5d6e14b81d5ffcec0c2adbc17be2c175e"
+    },
+    ["windows-x86-vc14.38.33130-f69b18a40c5d4a258cfad2f6a7b6d321"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/msgpack-cxx-4.1.1/windows-x86-vc14.38.33130-f69b18a40c5d4a258cfad2f6a7b6d321.7z",
+        toolset = "14.38.33130",
+        sha256 = "5b2d279ead8c55329dbb298a1921e62d85fcebd1215c76d21e2457a28bb15685"
     }
 }
