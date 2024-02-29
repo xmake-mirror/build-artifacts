@@ -9,8 +9,6 @@
     <a href="https://github.com/xmake-mirror/build-artifacts/actions?query=workflow%3AWindows">
       <img src="https://img.shields.io/github/workflow/status/xmake-mirror/build-artifacts/Windows/build.svg?style=flat-square&logo=windows" alt="github-ci" />
     </a>
-    <a href="https://github.com/xmake-mirror/build-artifacts.git">
-    
 
 A configuration can optionnaly be specified as a string.
 
@@ -26,5 +24,5 @@ Example:
     configs = "lld=true,openmp=true"
 }
 ```
-
+(https://github.com/xmake-mirror/build-artifacts.git)
 It will trigger CI build jobs to build/upload artifacts to releases/assets and update manifest to `main` branch.
