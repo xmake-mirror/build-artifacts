@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/github/workflow/status/xmake-mirror/build-artifacts/Windows/build.svg?style=flat-square&logo=windows" alt="github-ci" />
     </a>
     <a href="https://github.com/xmake-mirror/build-artifacts.git">
-    <img width="160"
+    
 
 A configuration can optionnaly be specified as a string.
 
