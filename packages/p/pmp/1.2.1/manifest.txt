@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.37.32822-f0771ae7b4b64705af6ebf8b8e1c4e27"] = {
+    ["windows-x86-vc14.38.33130-9a98cec233a34d87b16ae6f1bc802f96"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.38.33130-9a98cec233a34d87b16ae6f1bc802f96.7z",
+        toolset = "14.38.33130",
+        sha256 = "0b97971322e78d8fd79c85c782413c3628ca725d8a24de643e0dd7e1c005eacb"
+    },
+    ["windows-x86-vc14.29.30133-723bc9fb2a014c3d8b242382515b0b6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-723bc9fb2a014c3d8b242382515b0b6d.7z",
+        toolset = "14.29.30133",
+        sha256 = "ed41e68d567b44eec872b07b46f0d420e5dd0360e11831de922e9c41fc1c1d6e"
+    },
+    ["windows-x64-vc14.37.32822-86a7dd09f6c849ca914d974fd1391a9b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.37.32822-86a7dd09f6c849ca914d974fd1391a9b.7z",
         toolset = "14.37.32822",
+        sha256 = "4c883f66efe161729998e79d5dd2ad7ce565c6fc7b70f0bd7eed097f2487c142"
+    },
+    ["windows-x64-vc14.29.30133-a779542b074a4fb1b314260b6be74889"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-a779542b074a4fb1b314260b6be74889.7z",
+        toolset = "14.29.30133",
+        sha256 = "ccf206ebd809fe1f78c5c0bd52b7368c0acabffe358e1c7e3605c619055ee229"
+    },
+    ["windows-x64-vc14.38.33130-86a7dd09f6c849ca914d974fd1391a9b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.38.33130-86a7dd09f6c849ca914d974fd1391a9b.7z",
+        toolset = "14.38.33130",
+        sha256 = "bfa1c837dcc99e00156a3447547d5c3c12c35adce9314cc7574605fe74856642"
+    },
+    ["windows-x86-vc14.37.32822-acb6ca53df6c40a8969fd6d15cb4b330"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-acb6ca53df6c40a8969fd6d15cb4b330.7z",
+        toolset = "14.37.32822",
+        sha256 = "be9b373f2b224974e5d5124de6f8dfd2e37288165238dbc3275ce4aee46a0a0d"
+    },
+    ["windows-x64-vc14.29.30133-86a7dd09f6c849ca914d974fd1391a9b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-86a7dd09f6c849ca914d974fd1391a9b.7z",
+        toolset = "14.29.30133",
+        sha256 = "4345bfc851ea7591defeeae506da54815fe181a3c555f8d36b297fbd469b8d04"
+    },
+    ["windows-x86-vc14.29.30133-9a98cec233a34d87b16ae6f1bc802f96"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-9a98cec233a34d87b16ae6f1bc802f96.7z",
+        toolset = "14.29.30133",
+        sha256 = "1e5884f30784caaf56eeb086815f9be2a08baadd2fb54d50545019c8d54e5f7a"
+    },
+    ["windows-x86-vc14.38.33130-da240cd0d5a54b70a31dba4a2b36c629"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.38.33130-da240cd0d5a54b70a31dba4a2b36c629.7z",
+        toolset = "14.38.33130",
+        sha256 = "4806fa8f4f6ea076d9a93dbc7a101e13588a80436c1857c63509d570e88dbfe7"
+    },
+    ["windows-x86-vc14.38.33130-acb6ca53df6c40a8969fd6d15cb4b330"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.38.33130-acb6ca53df6c40a8969fd6d15cb4b330.7z",
+        toolset = "14.38.33130",
+        sha256 = "c2f1869f7c200d84218e53a4a8add937a299c5aaade6b4e64caec17df5ad720d"
+    },
+    ["windows-x86-vc14.37.32822-da240cd0d5a54b70a31dba4a2b36c629"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-da240cd0d5a54b70a31dba4a2b36c629.7z",
+        toolset = "14.37.32822",
+        sha256 = "86714c2b67620c7d14723523506c2d0c2b268be338cb315e7636bda083b61ec1"
+    },
+    ["windows-x64-vc14.29.30133-fc4219d8c413419f8923e4f4a27523b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-fc4219d8c413419f8923e4f4a27523b7.7z",
+        toolset = "14.29.30133",
+        sha256 = "62ff784fc2a3d6cb86535fea6c3ae4f52b36a306c6e04a8abaf95dec79cac224"
+    },
+    ["windows-x64-vc14.29.30133-f0771ae7b4b64705af6ebf8b8e1c4e27"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-f0771ae7b4b64705af6ebf8b8e1c4e27.7z",
+        toolset = "14.29.30133",
+        sha256 = "ecd0c1299a4153e38772b3a7620dbc29435f0aa706d86cd3f581c5acaf934b3c"
+    },
+    ["windows-x86-vc14.37.32822-723bc9fb2a014c3d8b242382515b0b6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-723bc9fb2a014c3d8b242382515b0b6d.7z",
+        toolset = "14.37.32822",
+        sha256 = "05d1395e2e7cca60ebc22714b0563b4f9e623100a5671672d8b44f35a94ae4f0"
+    },
+    ["windows-x64-vc14.38.33130-fc4219d8c413419f8923e4f4a27523b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.38.33130-fc4219d8c413419f8923e4f4a27523b7.7z",
+        toolset = "14.38.33130",
+        sha256 = "4711ad51772b177ccc3a0130b2bbbd5ac21522b5a88b7f06e0344c9317d6c8cc"
+    },
+    ["windows-x86-vc14.29.30133-da240cd0d5a54b70a31dba4a2b36c629"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-da240cd0d5a54b70a31dba4a2b36c629.7z",
+        toolset = "14.29.30133",
+        sha256 = "6ecda1c0fc8b7fe0784039aba53a06ca7eca76927338f2369ef99ac368922ca7"
+    },
+    ["windows-x86-vc14.29.30133-acb6ca53df6c40a8969fd6d15cb4b330"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-acb6ca53df6c40a8969fd6d15cb4b330.7z",
+        toolset = "14.29.30133",
+        sha256 = "7fff0874320cd8033616474209bc68e326416d7506bfb6c6850d87209228f721"
+    },
+    ["windows-x64-vc14.37.32822-f0771ae7b4b64705af6ebf8b8e1c4e27"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.37.32822-f0771ae7b4b64705af6ebf8b8e1c4e27.7z",
+        toolset = "14.37.32822",
         sha256 = "02b2a50d68f95c5423d1920fbb56972c13407a4d8abf367ffc70ea1a5171af39"
     },
     ["windows-x64-vc14.37.32822-a779542b074a4fb1b314260b6be74889"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.37.32822-a779542b074a4fb1b314260b6be74889.7z",
+        toolset = "14.37.32822",
         sha256 = "796407d7468b59bfa491482acdfe0cb0a6f3c5a12b8046deadbfcb8bb24c9a0e"
     },
-    ["windows-x64-vc14.29.30133-f0771ae7b4b64705af6ebf8b8e1c4e27"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-f0771ae7b4b64705af6ebf8b8e1c4e27.7z",
-        sha256 = "2759a2ac7cbcfab04d5b6bdf03c2432cc059012e4850b54c99df0353aba53f4d"
+    ["windows-x64-vc14.38.33130-a779542b074a4fb1b314260b6be74889"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.38.33130-a779542b074a4fb1b314260b6be74889.7z",
+        toolset = "14.38.33130",
+        sha256 = "1075273c9a9c451f02e3de8e40bafe08c4dca324a4f2148799b1eb12c6ba363c"
     },
-    ["windows-x64-vc14.37.32822-86a7dd09f6c849ca914d974fd1391a9b"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.37.32822-86a7dd09f6c849ca914d974fd1391a9b.7z",
-        sha256 = "4c883f66efe161729998e79d5dd2ad7ce565c6fc7b70f0bd7eed097f2487c142"
-    },
-    ["windows-x86-vc14.29.30133-9a98cec233a34d87b16ae6f1bc802f96"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-9a98cec233a34d87b16ae6f1bc802f96.7z",
-        sha256 = "cd02d5fd8f42bea2485b0a66ab9c1a0b5f73de3d48b3b8c088ad61961774cb1b"
-    },
-    ["windows-x86-vc14.29.30133-da240cd0d5a54b70a31dba4a2b36c629"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-da240cd0d5a54b70a31dba4a2b36c629.7z",
-        sha256 = "10965ef9f29b3778d359db2bd98cbeb0c47957bd0e14c6031dbf0627e6339a49"
-    },
-    ["windows-x64-vc14.29.30133-a779542b074a4fb1b314260b6be74889"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-a779542b074a4fb1b314260b6be74889.7z",
-        sha256 = "a2728a3892737aa74a6020882c420c26a78586900bb75cee996b20556f2e9237"
-    },
-    ["windows-x64-vc14.37.32822-fc4219d8c413419f8923e4f4a27523b7"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.37.32822-fc4219d8c413419f8923e4f4a27523b7.7z",
-        sha256 = "53b243d18dad18fa61fa7821c1190a61d87cba60237105e23e7c98c361361e2e"
-    },
-    ["windows-x86-vc14.29.30133-723bc9fb2a014c3d8b242382515b0b6d"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-723bc9fb2a014c3d8b242382515b0b6d.7z",
-        sha256 = "6e05dc2e76141f38dcf73d279550d8043a7971916af8650c5012530d4e82d0cc"
-    },
-    ["windows-x86-vc14.29.30133-acb6ca53df6c40a8969fd6d15cb4b330"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.29.30133-acb6ca53df6c40a8969fd6d15cb4b330.7z",
-        sha256 = "9da70200ac15238363fd0606d11f84bfa261d3a609f57a1a3a19bae166032d23"
-    },
-    ["windows-x64-vc14.29.30133-86a7dd09f6c849ca914d974fd1391a9b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-86a7dd09f6c849ca914d974fd1391a9b.7z",
-        sha256 = "59470a8dea0676baf000cf2367d4c4b5aa48eae494cb72232235e8f9c9ad230f"
+    ["windows-x64-vc14.38.33130-f0771ae7b4b64705af6ebf8b8e1c4e27"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.38.33130-f0771ae7b4b64705af6ebf8b8e1c4e27.7z",
+        toolset = "14.38.33130",
+        sha256 = "0d61c5a1632716653dad23f86d1a489cb3659294390f2542670d082719f9c00a"
     },
     ["windows-x86-vc14.37.32822-9a98cec233a34d87b16ae6f1bc802f96"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-9a98cec233a34d87b16ae6f1bc802f96.7z",
+        toolset = "14.37.32822",
         sha256 = "64d07195e659c4492c5637b75fe3c944c65e567948fd80e4ee69aadf8996fbae"
     },
-    ["windows-x86-vc14.37.32822-723bc9fb2a014c3d8b242382515b0b6d"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-723bc9fb2a014c3d8b242382515b0b6d.7z",
-        sha256 = "05d1395e2e7cca60ebc22714b0563b4f9e623100a5671672d8b44f35a94ae4f0"
+    ["windows-x86-vc14.38.33130-723bc9fb2a014c3d8b242382515b0b6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.38.33130-723bc9fb2a014c3d8b242382515b0b6d.7z",
+        toolset = "14.38.33130",
+        sha256 = "75cdd4e49d3247cc21784c1778961e4077b0ddc45bb7048d49e9f8dc49b00690"
     },
-    ["windows-x86-vc14.37.32822-acb6ca53df6c40a8969fd6d15cb4b330"] = {
+    ["windows-x64-vc14.37.32822-fc4219d8c413419f8923e4f4a27523b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.37.32822-fc4219d8c413419f8923e4f4a27523b7.7z",
         toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-acb6ca53df6c40a8969fd6d15cb4b330.7z",
-        sha256 = "be9b373f2b224974e5d5124de6f8dfd2e37288165238dbc3275ce4aee46a0a0d"
-    },
-    ["windows-x64-vc14.29.30133-fc4219d8c413419f8923e4f4a27523b7"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x64-vc14.29.30133-fc4219d8c413419f8923e4f4a27523b7.7z",
-        sha256 = "8042d460214957f6540bd55159a6f220862f26dec3784e3c6be3ba7ff6f4c953"
-    },
-    ["windows-x86-vc14.37.32822-da240cd0d5a54b70a31dba4a2b36c629"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pmp-1.2.1/windows-x86-vc14.37.32822-da240cd0d5a54b70a31dba4a2b36c629.7z",
-        sha256 = "86714c2b67620c7d14723523506c2d0c2b268be338cb315e7636bda083b61ec1"
+        sha256 = "53b243d18dad18fa61fa7821c1190a61d87cba60237105e23e7c98c361361e2e"
     }
 }
