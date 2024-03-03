@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.29.30133-7954ed0d8acf4ec6b8f878ab9e5787fb"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-7954ed0d8acf4ec6b8f878ab9e5787fb.7z",
-        sha256 = "0a3122b213b975a9497f8b481949a4d3fff3adc90cf43d2b72d9f4d2afd8c551"
-    },
-    ["windows-x64-vc14.29.30133-cc09fc304b7e47ff9e9ee55b9a9d7b7b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-cc09fc304b7e47ff9e9ee55b9a9d7b7b.7z",
-        sha256 = "7d13b64e5423403e0c19303b509e9cb5e73c57d91d0fe8b025d4794460bbc02f"
-    },
-    ["windows-x64-vc14.37.32822-4d1d931ba6a34124b72e85d12309491d"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-4d1d931ba6a34124b72e85d12309491d.7z",
-        sha256 = "9162a9edb806f6c26cc3905f35fb942823be74c3fed5c4e37c3f298f78e1ec79"
-    },
-    ["windows-x64-vc14.37.32822-dbb83a1a48fb462a8287a04a77bcdff1"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-dbb83a1a48fb462a8287a04a77bcdff1.7z",
-        sha256 = "2d4cbc7b1de536624cb23d1346acfc32eeb5f56cf2e3c5ea98cae42551c51167"
-    },
-    ["windows-x86-vc14.37.32822-d528905d66f74c1cb2c4bf6fdfcddc05"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-d528905d66f74c1cb2c4bf6fdfcddc05.7z",
-        sha256 = "49992731eb4c84b0c437a3f9ac902228d0ea2e2c2f181a112d03b59f1d63c6fb"
-    },
-    ["windows-x86-vc14.37.32822-2373c032529841be9f64fcf5195f1e3e"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-2373c032529841be9f64fcf5195f1e3e.7z",
-        sha256 = "b8357bba5570fb27cc25e5b12e009e339a322c4c22cbba7082be1d016e5e9126"
-    },
-    ["windows-x86-vc14.29.30133-2373c032529841be9f64fcf5195f1e3e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-2373c032529841be9f64fcf5195f1e3e.7z",
-        sha256 = "ddf397c52409fee683900804167ffcf5fa380c89326fe907067629a1eebb5d3a"
-    },
-    ["windows-x86-vc14.29.30133-070827b290f049f491f0216aee712e44"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-070827b290f049f491f0216aee712e44.7z",
-        sha256 = "01719999d8eddf0cf2157d28810904987e6df33b4b1ae3ee268c3629681652ad"
-    },
-    ["windows-x64-vc14.37.32822-cc09fc304b7e47ff9e9ee55b9a9d7b7b"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-cc09fc304b7e47ff9e9ee55b9a9d7b7b.7z",
-        sha256 = "b391fc6609f14d6d7f943e61b5de0343668839d6cd45fb0d24f4d880014d1d6c"
-    },
-    ["windows-x64-vc14.37.32822-7954ed0d8acf4ec6b8f878ab9e5787fb"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-7954ed0d8acf4ec6b8f878ab9e5787fb.7z",
-        sha256 = "70c7e8fcef3ace06338242110fa04e74d0d17a64d5bac2a9c05143f0ff83c6ab"
-    },
-    ["windows-x64-vc14.29.30133-dbb83a1a48fb462a8287a04a77bcdff1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-dbb83a1a48fb462a8287a04a77bcdff1.7z",
-        sha256 = "8f4c80adab6319f1fc4faa8c5892e2b75f56ee18259ee880b4fee6f6a2292d8d"
-    },
-    ["windows-x86-vc14.29.30133-d528905d66f74c1cb2c4bf6fdfcddc05"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-d528905d66f74c1cb2c4bf6fdfcddc05.7z",
-        sha256 = "b81d84381d64db19a97ae6ecfe8779650ef1b16dd2ed28b7d18003f40149c0fa"
-    },
-    ["windows-x86-vc14.37.32822-070827b290f049f491f0216aee712e44"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-070827b290f049f491f0216aee712e44.7z",
-        sha256 = "26de4ce96777f2e571763e98d8fd350fb17d2904424e8896f9b6a7ab4c032dd3"
+    ["windows-x64-vc14.38.33130-6a2ecb95fafa4b7cb2412f2413ba9ea9"] = {
+        toolset = "14.38.33130",
+        sha256 = "d2937a89491a3034ec960ed12136c2cbd964c2dab7831b95868d86a98811713c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.38.33130-6a2ecb95fafa4b7cb2412f2413ba9ea9.7z"
     },
     ["windows-x86-vc14.37.32822-cdaefe0cc4b94686b26fe3ac61bf0ee4"] = {
         toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-cdaefe0cc4b94686b26fe3ac61bf0ee4.7z",
-        sha256 = "e462c16377bcb2564e43b96ea0247a7c2fa33384ece1222620586225508ce533"
+        sha256 = "e462c16377bcb2564e43b96ea0247a7c2fa33384ece1222620586225508ce533",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-cdaefe0cc4b94686b26fe3ac61bf0ee4.7z"
+    },
+    ["windows-x86-vc14.38.33130-ca1e20e650a44ba0a3958326bbc247e2"] = {
+        toolset = "14.38.33130",
+        sha256 = "aae942024bd55deb30d7c0184bae00bf973cdcf7f6e6a2ee19bf0c67801201cd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.38.33130-ca1e20e650a44ba0a3958326bbc247e2.7z"
+    },
+    ["windows-x64-vc14.29.30133-7954ed0d8acf4ec6b8f878ab9e5787fb"] = {
+        toolset = "14.29.30133",
+        sha256 = "0a3122b213b975a9497f8b481949a4d3fff3adc90cf43d2b72d9f4d2afd8c551",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-7954ed0d8acf4ec6b8f878ab9e5787fb.7z"
+    },
+    ["windows-x86-vc14.29.30133-de8f6855adb64aba9647edda960f3c9e"] = {
+        toolset = "14.29.30133",
+        sha256 = "6564665d96e6e55bcf1e08731cc75d98d83549cd3095a1da656ec13e8b4110fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-de8f6855adb64aba9647edda960f3c9e.7z"
+    },
+    ["windows-x86-vc14.37.32822-d528905d66f74c1cb2c4bf6fdfcddc05"] = {
+        toolset = "14.37.32822",
+        sha256 = "49992731eb4c84b0c437a3f9ac902228d0ea2e2c2f181a112d03b59f1d63c6fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-d528905d66f74c1cb2c4bf6fdfcddc05.7z"
+    },
+    ["windows-x64-vc14.37.32822-7954ed0d8acf4ec6b8f878ab9e5787fb"] = {
+        toolset = "14.37.32822",
+        sha256 = "70c7e8fcef3ace06338242110fa04e74d0d17a64d5bac2a9c05143f0ff83c6ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-7954ed0d8acf4ec6b8f878ab9e5787fb.7z"
+    },
+    ["windows-x86-vc14.29.30133-070827b290f049f491f0216aee712e44"] = {
+        toolset = "14.29.30133",
+        sha256 = "01719999d8eddf0cf2157d28810904987e6df33b4b1ae3ee268c3629681652ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-070827b290f049f491f0216aee712e44.7z"
     },
     ["windows-x86-vc14.29.30133-cdaefe0cc4b94686b26fe3ac61bf0ee4"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-cdaefe0cc4b94686b26fe3ac61bf0ee4.7z",
-        sha256 = "e0510b9a053aad8a3e5bf7b0f04d98e75818dfb6554be58a362ee43daa64e12f"
+        sha256 = "e0510b9a053aad8a3e5bf7b0f04d98e75818dfb6554be58a362ee43daa64e12f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-cdaefe0cc4b94686b26fe3ac61bf0ee4.7z"
+    },
+    ["windows-x64-vc14.29.30133-dbb83a1a48fb462a8287a04a77bcdff1"] = {
+        toolset = "14.29.30133",
+        sha256 = "8f4c80adab6319f1fc4faa8c5892e2b75f56ee18259ee880b4fee6f6a2292d8d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-dbb83a1a48fb462a8287a04a77bcdff1.7z"
+    },
+    ["windows-x86-vc14.37.32822-2373c032529841be9f64fcf5195f1e3e"] = {
+        toolset = "14.37.32822",
+        sha256 = "b8357bba5570fb27cc25e5b12e009e339a322c4c22cbba7082be1d016e5e9126",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-2373c032529841be9f64fcf5195f1e3e.7z"
+    },
+    ["windows-x64-vc14.29.30133-160b2da589884ad18dd16102a8623a76"] = {
+        toolset = "14.29.30133",
+        sha256 = "ed7c7ab411557f10723815037bc194a67a06f6befb896a1be369ff92d33df755",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-160b2da589884ad18dd16102a8623a76.7z"
+    },
+    ["windows-x86-vc14.38.33130-73cf2f2d0e2449f8aa88c9a26a99a272"] = {
+        toolset = "14.38.33130",
+        sha256 = "2184c70913cd822156d7539feb9940ed15e1c4ee7bfcfe5ff58bb8d7764d3cdd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.38.33130-73cf2f2d0e2449f8aa88c9a26a99a272.7z"
+    },
+    ["windows-x64-vc14.37.32822-4d1d931ba6a34124b72e85d12309491d"] = {
+        toolset = "14.37.32822",
+        sha256 = "9162a9edb806f6c26cc3905f35fb942823be74c3fed5c4e37c3f298f78e1ec79",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-4d1d931ba6a34124b72e85d12309491d.7z"
+    },
+    ["windows-x64-vc14.37.32822-dbb83a1a48fb462a8287a04a77bcdff1"] = {
+        toolset = "14.37.32822",
+        sha256 = "2d4cbc7b1de536624cb23d1346acfc32eeb5f56cf2e3c5ea98cae42551c51167",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-dbb83a1a48fb462a8287a04a77bcdff1.7z"
+    },
+    ["windows-x86-vc14.29.30133-73cf2f2d0e2449f8aa88c9a26a99a272"] = {
+        toolset = "14.29.30133",
+        sha256 = "dbe6c521039822efcdc3a8112768a45842e3460f5d274d6537c2744b403d85fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-73cf2f2d0e2449f8aa88c9a26a99a272.7z"
+    },
+    ["windows-x86-vc14.38.33130-de8f6855adb64aba9647edda960f3c9e"] = {
+        toolset = "14.38.33130",
+        sha256 = "bccd649be90f5d8bfd6ed4248a6531b8f16767ea7ba0958c4bcfa3ce560de423",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.38.33130-de8f6855adb64aba9647edda960f3c9e.7z"
+    },
+    ["windows-x86-vc14.29.30133-5ed82d3d93c348c79219c23b8231425b"] = {
+        toolset = "14.29.30133",
+        sha256 = "09ea948d6e94566799333b12fc489f0806dabc84b966014e422f6a5c30d073e8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-5ed82d3d93c348c79219c23b8231425b.7z"
+    },
+    ["windows-x86-vc14.29.30133-2373c032529841be9f64fcf5195f1e3e"] = {
+        toolset = "14.29.30133",
+        sha256 = "ddf397c52409fee683900804167ffcf5fa380c89326fe907067629a1eebb5d3a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-2373c032529841be9f64fcf5195f1e3e.7z"
+    },
+    ["windows-x64-vc14.38.33130-4714a5c5815a4902b760dbb52e342b81"] = {
+        toolset = "14.38.33130",
+        sha256 = "ee58ae6c5caf442e88d9e9787a397e0822560ead44e8330d4471cfb05c20e109",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.38.33130-4714a5c5815a4902b760dbb52e342b81.7z"
+    },
+    ["windows-x64-vc14.37.32822-cc09fc304b7e47ff9e9ee55b9a9d7b7b"] = {
+        toolset = "14.37.32822",
+        sha256 = "b391fc6609f14d6d7f943e61b5de0343668839d6cd45fb0d24f4d880014d1d6c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.37.32822-cc09fc304b7e47ff9e9ee55b9a9d7b7b.7z"
+    },
+    ["windows-x64-vc14.29.30133-6a2ecb95fafa4b7cb2412f2413ba9ea9"] = {
+        toolset = "14.29.30133",
+        sha256 = "6dcbd66802a22e0b3960ea20d192e11c3ba220df0011d92040f31db84ad2d893",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-6a2ecb95fafa4b7cb2412f2413ba9ea9.7z"
+    },
+    ["windows-x86-vc14.38.33130-5ed82d3d93c348c79219c23b8231425b"] = {
+        toolset = "14.38.33130",
+        sha256 = "d0e0c6d03f3e81ff3631a91b5faf2bdd250ce3c1a07d6e496c3014fdf770333d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.38.33130-5ed82d3d93c348c79219c23b8231425b.7z"
+    },
+    ["windows-x86-vc14.37.32822-070827b290f049f491f0216aee712e44"] = {
+        toolset = "14.37.32822",
+        sha256 = "26de4ce96777f2e571763e98d8fd350fb17d2904424e8896f9b6a7ab4c032dd3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.37.32822-070827b290f049f491f0216aee712e44.7z"
+    },
+    ["windows-x64-vc14.38.33130-efb3aeb147ce4356899eae8c9a73015b"] = {
+        toolset = "14.38.33130",
+        sha256 = "f6967afc723c47605f07824404f3ce84f5aced0688ce7e2e7525a20a1a8e0043",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.38.33130-efb3aeb147ce4356899eae8c9a73015b.7z"
+    },
+    ["windows-x64-vc14.38.33130-160b2da589884ad18dd16102a8623a76"] = {
+        toolset = "14.38.33130",
+        sha256 = "a880de706c655dbc7e0b25edf75112009d6ee746f1643c4a280481a3db8b6a6c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.38.33130-160b2da589884ad18dd16102a8623a76.7z"
+    },
+    ["windows-x64-vc14.29.30133-4714a5c5815a4902b760dbb52e342b81"] = {
+        toolset = "14.29.30133",
+        sha256 = "de5ca7473fe8bdf61824df63d02285e0a67b3f7619d2ede6d42d0d5967f99f1f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-4714a5c5815a4902b760dbb52e342b81.7z"
+    },
+    ["windows-x86-vc14.29.30133-d528905d66f74c1cb2c4bf6fdfcddc05"] = {
+        toolset = "14.29.30133",
+        sha256 = "b81d84381d64db19a97ae6ecfe8779650ef1b16dd2ed28b7d18003f40149c0fa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-d528905d66f74c1cb2c4bf6fdfcddc05.7z"
+    },
+    ["windows-x64-vc14.29.30133-efb3aeb147ce4356899eae8c9a73015b"] = {
+        toolset = "14.29.30133",
+        sha256 = "ed7c19826b5e75e681e7ac1956785ca3df1d94e5e01152ef8c18fbb46a3e4b34",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-efb3aeb147ce4356899eae8c9a73015b.7z"
+    },
+    ["windows-x64-vc14.29.30133-cc09fc304b7e47ff9e9ee55b9a9d7b7b"] = {
+        toolset = "14.29.30133",
+        sha256 = "7d13b64e5423403e0c19303b509e9cb5e73c57d91d0fe8b025d4794460bbc02f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-cc09fc304b7e47ff9e9ee55b9a9d7b7b.7z"
     },
     ["windows-x64-vc14.29.30133-4d1d931ba6a34124b72e85d12309491d"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-4d1d931ba6a34124b72e85d12309491d.7z",
-        sha256 = "df044782e8b18af1e62afaaea7a375f56c81953f137d5077eb4e7948532d2dac"
+        sha256 = "df044782e8b18af1e62afaaea7a375f56c81953f137d5077eb4e7948532d2dac",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x64-vc14.29.30133-4d1d931ba6a34124b72e85d12309491d.7z"
+    },
+    ["windows-x86-vc14.29.30133-ca1e20e650a44ba0a3958326bbc247e2"] = {
+        toolset = "14.29.30133",
+        sha256 = "9bfe206be0e313c3d6af10c7974a98e8bd6037e56ebb276d61dc6bb4efaf9f91",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/duckx-2021.08.05/windows-x86-vc14.29.30133-ca1e20e650a44ba0a3958326bbc247e2.7z"
     }
 }
