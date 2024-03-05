@@ -1,162 +1,242 @@
 {
-    ["windows-x86-vc14.37.32822-a7f267331498445db01985be8ab411a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-a7f267331498445db01985be8ab411a4.7z",
-        toolset = "14.37.32822",
-        sha256 = "3a4e06c281947267056f07fa465954045d6f04ac308827f0884134e54e9d415e"
-    },
-    ["windows-x64-vc143-41719540e10540cd9a89ec62fd099d9b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-41719540e10540cd9a89ec62fd099d9b.7z",
-        toolset = "14.30.30705",
-        sha256 = "414ba95136c40064c45ab880c8e05f347458ef147924525d528aec52845a85b9"
-    },
-    ["windows-x64-vc142-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z",
+    ["windows-x86-vc14.29.30133-53495f1fa51b4acf9d6c4cc782673172"] = {
+        sha256 = "91d4c544b4e83ce74ddf7d052b004b566c921a6762592d3410fed1e7b5dbd7d7",
         toolset = "14.29.30133",
-        sha256 = "b8202d376afced3f16953d36390da1948e203780d0b2264dd21d0ffa239ea9c0"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-53495f1fa51b4acf9d6c4cc782673172.7z"
     },
-    ["windows-x86-vc14.29.30133-7a70f8cbb9054a3a942f2638f2e07d03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-7a70f8cbb9054a3a942f2638f2e07d03.7z",
+    ["windows-x64-vc14.29.30133-8a12a1a5df2d45718be350005536bdd5"] = {
+        sha256 = "3a7cd8f9e7454695903fbafb564f6458fde62985f7ddda8a318a83870194b234",
         toolset = "14.29.30133",
-        sha256 = "f582ebdd68536d12154b60e3c2275b819f09153511979d0065b3e31569fb9fed"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-8a12a1a5df2d45718be350005536bdd5.7z"
     },
     ["windows-x86-vc143-7a70f8cbb9054a3a942f2638f2e07d03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-7a70f8cbb9054a3a942f2638f2e07d03.7z",
         toolset = "14.30.30705",
-        sha256 = "24d59776c941b9be4667fd8d96cedf677f337e0095ff7c1cb7fd0593d07e9f63"
+        sha256 = "24d59776c941b9be4667fd8d96cedf677f337e0095ff7c1cb7fd0593d07e9f63",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-7a70f8cbb9054a3a942f2638f2e07d03.7z"
     },
-    ["windows-x64-vc14.29.30133-028b3de14d4f4c4ca3cca86af2979e77"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-028b3de14d4f4c4ca3cca86af2979e77.7z",
+    ["windows-x64-vc14.29.30133-89d0238a13b34d46949e5d987b6cbe73"] = {
+        sha256 = "b398af5e1f83461569aa2c2589090ac322010b0a47be8d254213ddeb4637aed9",
         toolset = "14.29.30133",
-        sha256 = "85e35ba9d67f086b36c6b26c805236edf9af841b16479f32353ea92876088faa"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-89d0238a13b34d46949e5d987b6cbe73.7z"
     },
-    ["windows-x64-vc143-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-dc7a8151b7314d4eb2be29a8337dbaf9.7z",
-        toolset = "14.30.30705",
-        sha256 = "08bfa9b95d006865de873713ee8f3b61162ede8ff8918b6f3b4551ec6e8c1722"
-    },
-    ["windows-x86-vc143-a7f267331498445db01985be8ab411a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-a7f267331498445db01985be8ab411a4.7z",
-        toolset = "14.30.30705",
-        sha256 = "677aaf13d8b602d064b079e670f38b5f209f30dcc9818a0a5a90d16871436562"
-    },
-    ["windows-x86-vc142-c7be9a2080a34c718a46140377bcdf3c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-c7be9a2080a34c718a46140377bcdf3c.7z",
+    ["windows-x64-vc14.29.30133-7e6200695731422fb3305e9da37f4135"] = {
+        sha256 = "c381f04908afa068f2ed1a2933ba9ecd1a9ef909f6a80f2b605364c9c56a568f",
         toolset = "14.29.30133",
-        sha256 = "05af95b691417bdebc812ba42cde82b2e1f8997b559dd9425ae13289f28095b0"
-    },
-    ["windows-x64-vc14.37.32822-41719540e10540cd9a89ec62fd099d9b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-41719540e10540cd9a89ec62fd099d9b.7z",
-        toolset = "14.37.32822",
-        sha256 = "23d85e1e6d5e479d33ff2f37bada10f467da528c8093d93882468329b1c788ea"
-    },
-    ["windows-x86-vc14.29.30133-a7f267331498445db01985be8ab411a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-a7f267331498445db01985be8ab411a4.7z",
-        toolset = "14.29.30133",
-        sha256 = "da74e4ffe412695ce63870261525a92f820bcb83068686f9afd0a1086bec5064"
-    },
-    ["windows-x86-vc14.37.32822-c7be9a2080a34c718a46140377bcdf3c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-c7be9a2080a34c718a46140377bcdf3c.7z",
-        toolset = "14.37.32822",
-        sha256 = "1133b467eb17608a16e4d1d254df626939e49e02099e953a3b51ddb087786836"
-    },
-    ["windows-x86-vc143-16576e70c80c446eb634c1b696227275"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-16576e70c80c446eb634c1b696227275.7z",
-        toolset = "14.30.30705",
-        sha256 = "23e1ecbdb07271760aa2ae1118d1cea93bfdfbbdcda7a701791bc929841f8202"
-    },
-    ["windows-x64-vc142-41719540e10540cd9a89ec62fd099d9b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-41719540e10540cd9a89ec62fd099d9b.7z",
-        toolset = "14.29.30133",
-        sha256 = "aad52deb1f0d5e3796b076840e517501e457e0a9833d1e6807645917e3b1ee4b"
-    },
-    ["windows-x64-vc14.29.30133-41719540e10540cd9a89ec62fd099d9b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-41719540e10540cd9a89ec62fd099d9b.7z",
-        toolset = "14.29.30133",
-        sha256 = "c2a2c6f13b2cf5bce380f5c9dd7c5810e40954239c0ce540848518e7a877efb5"
-    },
-    ["windows-x64-vc142-028b3de14d4f4c4ca3cca86af2979e77"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-028b3de14d4f4c4ca3cca86af2979e77.7z",
-        toolset = "14.29.30133",
-        sha256 = "acdfef9f2f61a3242e13952b45c6334c37452e320fdaec77fed37026b240025c"
-    },
-    ["windows-x86-vc14.29.30133-c7be9a2080a34c718a46140377bcdf3c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-c7be9a2080a34c718a46140377bcdf3c.7z",
-        toolset = "14.29.30133",
-        sha256 = "f00128f2cf5f406c2d467e5556715920b8f1a04ad0a8db616711591063bcc028"
-    },
-    ["windows-x64-vc14.37.32822-028b3de14d4f4c4ca3cca86af2979e77"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-028b3de14d4f4c4ca3cca86af2979e77.7z",
-        toolset = "14.37.32822",
-        sha256 = "6dffbee4e3f34c815eb88d26348d39e310d034dce670a19ba7cba52f914f9575"
-    },
-    ["windows-x64-vc14.37.32822-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-dc7a8151b7314d4eb2be29a8337dbaf9.7z",
-        toolset = "14.37.32822",
-        sha256 = "40abb976efe569f77e9b20622513c541b91aaa8ba8fe1e9ddf02c4ef4f599260"
-    },
-    ["windows-x86-vc142-16576e70c80c446eb634c1b696227275"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-16576e70c80c446eb634c1b696227275.7z",
-        toolset = "14.29.30133",
-        sha256 = "adfda6128fbac5d5d3953228277a20204098b283994de1ae29af503bf98e0879"
-    },
-    ["windows-x64-vc14.29.30133-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-dc7a8151b7314d4eb2be29a8337dbaf9.7z",
-        toolset = "14.29.30133",
-        sha256 = "9d32a6e1d3f61c648603ee54f2ad08b28fbe7df9d1a17b57423784a9aaff7e0b"
-    },
-    ["windows-x86-vc142-7a70f8cbb9054a3a942f2638f2e07d03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-7a70f8cbb9054a3a942f2638f2e07d03.7z",
-        toolset = "14.29.30133",
-        sha256 = "ed578c87ea28705bab49436cc46c722aa200558be48ee32eff636baaa37cf31d"
-    },
-    ["windows-x64-vc143-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z",
-        toolset = "14.30.30705",
-        sha256 = "7858792d249692432ab38f8eb6da96a292b90d6fddcf2f337e852c1cf794bbc8"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-7e6200695731422fb3305e9da37f4135.7z"
     },
     ["windows-x64-vc142-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-dc7a8151b7314d4eb2be29a8337dbaf9.7z",
         toolset = "14.29.30133",
-        sha256 = "aa8c6623d483daf0f3822aeee0467454fc8cbf7b1cb0121546e08c4778ba6d10"
+        sha256 = "aa8c6623d483daf0f3822aeee0467454fc8cbf7b1cb0121546e08c4778ba6d10",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-dc7a8151b7314d4eb2be29a8337dbaf9.7z"
     },
-    ["windows-x64-vc14.29.30133-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z",
-        toolset = "14.29.30133",
-        sha256 = "75da685b0d05ef07d495745f13e63d76fc06ecbb075d31bfdc1beb5eb03bee9a"
-    },
-    ["windows-x86-vc14.29.30133-16576e70c80c446eb634c1b696227275"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-16576e70c80c446eb634c1b696227275.7z",
-        toolset = "14.29.30133",
-        sha256 = "b3bd582f402edb756d0dfd91d44734c3824f2ff6f74a226dcfc3abb47f52e824"
-    },
-    ["windows-x64-vc143-028b3de14d4f4c4ca3cca86af2979e77"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-028b3de14d4f4c4ca3cca86af2979e77.7z",
-        toolset = "14.30.30705",
-        sha256 = "f4cdbb6736dd22b55febf9837e93178af49eecec12038a8422cf8f5a621ec2f3"
+    ["windows-x86-vc14.37.32822-c7be9a2080a34c718a46140377bcdf3c"] = {
+        sha256 = "1133b467eb17608a16e4d1d254df626939e49e02099e953a3b51ddb087786836",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-c7be9a2080a34c718a46140377bcdf3c.7z"
     },
     ["windows-x86-vc142-a7f267331498445db01985be8ab411a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-a7f267331498445db01985be8ab411a4.7z",
         toolset = "14.29.30133",
-        sha256 = "5992fed6472540f7c166873c040e4b1e48a219cd2969253bd9f4d100113fb6ec"
+        sha256 = "5992fed6472540f7c166873c040e4b1e48a219cd2969253bd9f4d100113fb6ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-a7f267331498445db01985be8ab411a4.7z"
     },
-    ["windows-x86-vc14.37.32822-7a70f8cbb9054a3a942f2638f2e07d03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-7a70f8cbb9054a3a942f2638f2e07d03.7z",
-        toolset = "14.37.32822",
-        sha256 = "fc0c5d926e53ca1fd9feb33548daefc569caaa7ba9575cf189bfce446d64e6bf"
-    },
-    ["windows-x64-vc14.37.32822-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z",
-        toolset = "14.37.32822",
-        sha256 = "88513d21f257234feab1e59794ba3ef86387045723c648e8d671fa336fca736e"
-    },
-    ["windows-x86-vc143-c7be9a2080a34c718a46140377bcdf3c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-c7be9a2080a34c718a46140377bcdf3c.7z",
-        toolset = "14.30.30705",
-        sha256 = "2e38e582ed86e0cbd1bf64602b1cc0d93998dae420dc64ea7ebbb3e36e80ec53"
+    ["windows-x86-vc14.38.33130-645cf9fe94cd4a1eac6f0dad831862aa"] = {
+        sha256 = "7b72c82132386bc00a6072fa059fe5ebecdfeaeeff00e3afa025aea74ec950af",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.38.33130-645cf9fe94cd4a1eac6f0dad831862aa.7z"
     },
     ["windows-x86-vc14.37.32822-16576e70c80c446eb634c1b696227275"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-16576e70c80c446eb634c1b696227275.7z",
+        sha256 = "9fc05cec9ce6d76b01a6c9c5d1e3ad264182f4c07d583e7a1135ac37647ca946",
         toolset = "14.37.32822",
-        sha256 = "9fc05cec9ce6d76b01a6c9c5d1e3ad264182f4c07d583e7a1135ac37647ca946"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-16576e70c80c446eb634c1b696227275.7z"
+    },
+    ["windows-x86-vc14.38.33130-b0984c423e33423cada89df9abc7dbf7"] = {
+        sha256 = "c4fe60aad281b4639197b8245f77d286a73016b81e998a7352f5dbe5a86b5751",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.38.33130-b0984c423e33423cada89df9abc7dbf7.7z"
+    },
+    ["windows-x64-vc14.38.33130-8a12a1a5df2d45718be350005536bdd5"] = {
+        sha256 = "479383752493183974d16dbdcf7d3fac749ea18b2afb2e0608740260bc304c0d",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.38.33130-8a12a1a5df2d45718be350005536bdd5.7z"
+    },
+    ["windows-x86-vc14.29.30133-b0984c423e33423cada89df9abc7dbf7"] = {
+        sha256 = "9f0296b379f48a48afd7b0d1259ca061b5cc9002f77f629c70d83f44ae996631",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-b0984c423e33423cada89df9abc7dbf7.7z"
+    },
+    ["windows-x64-vc14.29.30133-af221b38aad94699a671862fe036482e"] = {
+        sha256 = "7240f269a644521cf49ce15da535f90a59d70e831624142378ec81c1f390f62d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-af221b38aad94699a671862fe036482e.7z"
+    },
+    ["windows-x86-vc14.29.30133-16576e70c80c446eb634c1b696227275"] = {
+        sha256 = "b3bd582f402edb756d0dfd91d44734c3824f2ff6f74a226dcfc3abb47f52e824",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-16576e70c80c446eb634c1b696227275.7z"
+    },
+    ["windows-x64-vc14.38.33130-89d0238a13b34d46949e5d987b6cbe73"] = {
+        sha256 = "d7e1aa63d8c636c7b0970b298144b7679d76cad7ddc572401bf7b0a48303c516",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.38.33130-89d0238a13b34d46949e5d987b6cbe73.7z"
+    },
+    ["windows-x86-vc14.38.33130-53495f1fa51b4acf9d6c4cc782673172"] = {
+        sha256 = "c4d4726857dca46d9da4c3513820ee49fb398a5da79c55c1a92324bf3d50b23e",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.38.33130-53495f1fa51b4acf9d6c4cc782673172.7z"
+    },
+    ["windows-x64-vc14.37.32822-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
+        sha256 = "40abb976efe569f77e9b20622513c541b91aaa8ba8fe1e9ddf02c4ef4f599260",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-dc7a8151b7314d4eb2be29a8337dbaf9.7z"
+    },
+    ["windows-x86-vc142-16576e70c80c446eb634c1b696227275"] = {
+        toolset = "14.29.30133",
+        sha256 = "adfda6128fbac5d5d3953228277a20204098b283994de1ae29af503bf98e0879",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-16576e70c80c446eb634c1b696227275.7z"
+    },
+    ["windows-x86-vc143-16576e70c80c446eb634c1b696227275"] = {
+        toolset = "14.30.30705",
+        sha256 = "23e1ecbdb07271760aa2ae1118d1cea93bfdfbbdcda7a701791bc929841f8202",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-16576e70c80c446eb634c1b696227275.7z"
+    },
+    ["windows-x64-vc142-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
+        toolset = "14.29.30133",
+        sha256 = "b8202d376afced3f16953d36390da1948e203780d0b2264dd21d0ffa239ea9c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z"
+    },
+    ["windows-x86-vc14.29.30133-645cf9fe94cd4a1eac6f0dad831862aa"] = {
+        sha256 = "f721925a378bb7520d6530a41593e040a790b8d876e56014fc57ef8a652b8a87",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-645cf9fe94cd4a1eac6f0dad831862aa.7z"
+    },
+    ["windows-x64-vc143-028b3de14d4f4c4ca3cca86af2979e77"] = {
+        toolset = "14.30.30705",
+        sha256 = "f4cdbb6736dd22b55febf9837e93178af49eecec12038a8422cf8f5a621ec2f3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-028b3de14d4f4c4ca3cca86af2979e77.7z"
+    },
+    ["windows-x86-vc14.29.30133-9cca1545464c42128febfe14b8c5472a"] = {
+        sha256 = "9754a6564fe412abb398f7e7edeba7490248854a695a765ad1ee70426100127e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-9cca1545464c42128febfe14b8c5472a.7z"
+    },
+    ["windows-x86-vc14.37.32822-a7f267331498445db01985be8ab411a4"] = {
+        sha256 = "3a4e06c281947267056f07fa465954045d6f04ac308827f0884134e54e9d415e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-a7f267331498445db01985be8ab411a4.7z"
+    },
+    ["windows-x64-vc14.29.30133-41719540e10540cd9a89ec62fd099d9b"] = {
+        sha256 = "c2a2c6f13b2cf5bce380f5c9dd7c5810e40954239c0ce540848518e7a877efb5",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-41719540e10540cd9a89ec62fd099d9b.7z"
+    },
+    ["windows-x86-vc14.29.30133-c7be9a2080a34c718a46140377bcdf3c"] = {
+        sha256 = "f00128f2cf5f406c2d467e5556715920b8f1a04ad0a8db616711591063bcc028",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-c7be9a2080a34c718a46140377bcdf3c.7z"
+    },
+    ["windows-x86-vc142-7a70f8cbb9054a3a942f2638f2e07d03"] = {
+        toolset = "14.29.30133",
+        sha256 = "ed578c87ea28705bab49436cc46c722aa200558be48ee32eff636baaa37cf31d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-7a70f8cbb9054a3a942f2638f2e07d03.7z"
+    },
+    ["windows-x64-vc143-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
+        toolset = "14.30.30705",
+        sha256 = "08bfa9b95d006865de873713ee8f3b61162ede8ff8918b6f3b4551ec6e8c1722",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-dc7a8151b7314d4eb2be29a8337dbaf9.7z"
+    },
+    ["windows-x64-vc14.37.32822-41719540e10540cd9a89ec62fd099d9b"] = {
+        sha256 = "23d85e1e6d5e479d33ff2f37bada10f467da528c8093d93882468329b1c788ea",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-41719540e10540cd9a89ec62fd099d9b.7z"
+    },
+    ["windows-x64-vc143-41719540e10540cd9a89ec62fd099d9b"] = {
+        toolset = "14.30.30705",
+        sha256 = "414ba95136c40064c45ab880c8e05f347458ef147924525d528aec52845a85b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-41719540e10540cd9a89ec62fd099d9b.7z"
+    },
+    ["windows-x86-vc14.37.32822-7a70f8cbb9054a3a942f2638f2e07d03"] = {
+        sha256 = "fc0c5d926e53ca1fd9feb33548daefc569caaa7ba9575cf189bfce446d64e6bf",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.37.32822-7a70f8cbb9054a3a942f2638f2e07d03.7z"
+    },
+    ["windows-x86-vc14.29.30133-7a70f8cbb9054a3a942f2638f2e07d03"] = {
+        sha256 = "f582ebdd68536d12154b60e3c2275b819f09153511979d0065b3e31569fb9fed",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-7a70f8cbb9054a3a942f2638f2e07d03.7z"
+    },
+    ["windows-x64-vc142-028b3de14d4f4c4ca3cca86af2979e77"] = {
+        toolset = "14.29.30133",
+        sha256 = "acdfef9f2f61a3242e13952b45c6334c37452e320fdaec77fed37026b240025c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-028b3de14d4f4c4ca3cca86af2979e77.7z"
+    },
+    ["windows-x64-vc143-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
+        toolset = "14.30.30705",
+        sha256 = "7858792d249692432ab38f8eb6da96a292b90d6fddcf2f337e852c1cf794bbc8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc143-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z"
+    },
+    ["windows-x64-vc14.29.30133-028b3de14d4f4c4ca3cca86af2979e77"] = {
+        sha256 = "85e35ba9d67f086b36c6b26c805236edf9af841b16479f32353ea92876088faa",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-028b3de14d4f4c4ca3cca86af2979e77.7z"
+    },
+    ["windows-x64-vc14.37.32822-028b3de14d4f4c4ca3cca86af2979e77"] = {
+        sha256 = "6dffbee4e3f34c815eb88d26348d39e310d034dce670a19ba7cba52f914f9575",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-028b3de14d4f4c4ca3cca86af2979e77.7z"
+    },
+    ["windows-x86-vc142-c7be9a2080a34c718a46140377bcdf3c"] = {
+        toolset = "14.29.30133",
+        sha256 = "05af95b691417bdebc812ba42cde82b2e1f8997b559dd9425ae13289f28095b0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc142-c7be9a2080a34c718a46140377bcdf3c.7z"
+    },
+    ["windows-x64-vc14.29.30133-dc7a8151b7314d4eb2be29a8337dbaf9"] = {
+        sha256 = "9d32a6e1d3f61c648603ee54f2ad08b28fbe7df9d1a17b57423784a9aaff7e0b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-dc7a8151b7314d4eb2be29a8337dbaf9.7z"
+    },
+    ["windows-x86-vc14.38.33130-9cca1545464c42128febfe14b8c5472a"] = {
+        sha256 = "2678e0bb695033e14e2d8215b07bdea93530711a900ccea478067c958df031f6",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.38.33130-9cca1545464c42128febfe14b8c5472a.7z"
+    },
+    ["windows-x86-vc143-a7f267331498445db01985be8ab411a4"] = {
+        toolset = "14.30.30705",
+        sha256 = "677aaf13d8b602d064b079e670f38b5f209f30dcc9818a0a5a90d16871436562",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-a7f267331498445db01985be8ab411a4.7z"
+    },
+    ["windows-x64-vc14.38.33130-af221b38aad94699a671862fe036482e"] = {
+        sha256 = "5005ae7b3fbe43770e2517d95972ead778e0faa8f5a6fc5a5cc5ea72681ee67a",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.38.33130-af221b38aad94699a671862fe036482e.7z"
+    },
+    ["windows-x64-vc14.37.32822-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
+        sha256 = "88513d21f257234feab1e59794ba3ef86387045723c648e8d671fa336fca736e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.37.32822-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z"
+    },
+    ["windows-x86-vc143-c7be9a2080a34c718a46140377bcdf3c"] = {
+        toolset = "14.30.30705",
+        sha256 = "2e38e582ed86e0cbd1bf64602b1cc0d93998dae420dc64ea7ebbb3e36e80ec53",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc143-c7be9a2080a34c718a46140377bcdf3c.7z"
+    },
+    ["windows-x64-vc142-41719540e10540cd9a89ec62fd099d9b"] = {
+        toolset = "14.29.30133",
+        sha256 = "aad52deb1f0d5e3796b076840e517501e457e0a9833d1e6807645917e3b1ee4b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc142-41719540e10540cd9a89ec62fd099d9b.7z"
+    },
+    ["windows-x64-vc14.38.33130-7e6200695731422fb3305e9da37f4135"] = {
+        sha256 = "f928de2df77db134af79efa8c014cd24e395079e3d1dd3b952f7b8f5fc8ff81e",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.38.33130-7e6200695731422fb3305e9da37f4135.7z"
+    },
+    ["windows-x86-vc14.29.30133-a7f267331498445db01985be8ab411a4"] = {
+        sha256 = "da74e4ffe412695ce63870261525a92f820bcb83068686f9afd0a1086bec5064",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x86-vc14.29.30133-a7f267331498445db01985be8ab411a4.7z"
+    },
+    ["windows-x64-vc14.29.30133-6a8bb1c1e3f84e1c9a43a84f1a6313b3"] = {
+        sha256 = "75da685b0d05ef07d495745f13e63d76fc06ecbb075d31bfdc1beb5eb03bee9a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mongo-c-driver-1.20.1/windows-x64-vc14.29.30133-6a8bb1c1e3f84e1c9a43a84f1a6313b3.7z"
     }
 }
