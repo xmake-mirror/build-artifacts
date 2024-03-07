@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-cd48dc38f4df48a5b9f0b3704529a303"] = {
-        sha256 = "48568c090e51df6d547cab6db491467fbcd90fa7c04f02617b593abc6332a726",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-cd48dc38f4df48a5b9f0b3704529a303.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-0e8e244acc0748c982463dd1c43dc49b"] = {
-        sha256 = "33333414bac4c37b3ba4d87d42ec621d6f495ba7e3ea8c9511f72f857eb849c5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-0e8e244acc0748c982463dd1c43dc49b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-12bf27cb5141424aae9677ab36670a9e"] = {
-        sha256 = "33d78707d9f3baf41d98b74fb5c3a374015af668e3957de9fdbd4cfdc9bd0eff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-12bf27cb5141424aae9677ab36670a9e.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-27ecfcb5f4264e8fa0b94a4497daa786"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-27ecfcb5f4264e8fa0b94a4497daa786.7z",
+        toolset = "14.37.32822",
+        sha256 = "b6ba0e50ae0de991eb6fd6c6dc92b149dca44a03b18d1f10521cfec9e0740640"
     },
     ["windows-x64-vc14.37.32822-12bf27cb5141424aae9677ab36670a9e"] = {
-        sha256 = "98c959fb035aa0ced2e82f590dd8655104ddadddc5890730fd32f358b67dd4e1",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.37.32822-12bf27cb5141424aae9677ab36670a9e.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "98c959fb035aa0ced2e82f590dd8655104ddadddc5890730fd32f358b67dd4e1"
     },
-    ["windows-x86-vc14.29.30133-71dad7e48a86444ea620ae7ccdd69bc8"] = {
-        sha256 = "86a3d5128c8a02b3bd02f44f8d26335d24477af8d9f51eaf0c3a20ba9f994f35",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-71dad7e48a86444ea620ae7ccdd69bc8.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-27ecfcb5f4264e8fa0b94a4497daa786"] = {
-        sha256 = "41fc84d0966ac7e5b4162451234b31a073b0473b050370e1680f10805ce73d92",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-27ecfcb5f4264e8fa0b94a4497daa786.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-2ad87230bbf4424eb5f7948ae4bfe69d"] = {
-        sha256 = "f87123c805136fba9457df8a249fb7dc72075448ceb804ad3d12c8279137ae7e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-2ad87230bbf4424eb5f7948ae4bfe69d.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-71dad7e48a86444ea620ae7ccdd69bc8"] = {
-        sha256 = "69d83d4e04d791ae3562d89be5b014ae9987dd4cf26635b51f58ccdce03eb037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-71dad7e48a86444ea620ae7ccdd69bc8.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-816fb1295d9c4ceaa990cdf51009808b"] = {
-        sha256 = "9920e63861c280a9cec6e78fb110125e11b7ae0ef1196ef7d24ae718b8fbfbdd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.37.32822-816fb1295d9c4ceaa990cdf51009808b.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-816fb1295d9c4ceaa990cdf51009808b"] = {
-        sha256 = "d843599884b3ffa4a1c235bf60007795a3d94167537768c870dcbea9345dbd43",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-816fb1295d9c4ceaa990cdf51009808b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-baf92e89a1144865af8d5cb2b8a72feb"] = {
-        sha256 = "fd1114e030224764cbede4e79e13773f9c4d7e3e1a30e49003561d6e75d0245a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-baf92e89a1144865af8d5cb2b8a72feb.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-baf92e89a1144865af8d5cb2b8a72feb"] = {
-        sha256 = "f841045232a590ce115e992d846afc5e623736b0d5c57eb021aea652e763e117",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-baf92e89a1144865af8d5cb2b8a72feb.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-cd48dc38f4df48a5b9f0b3704529a303"] = {
-        sha256 = "2ad16100be57e70cb2a038e1dfcfbe72db7e28e40f0f97b002c33fe4c0afbef6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.37.32822-cd48dc38f4df48a5b9f0b3704529a303.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-2ad87230bbf4424eb5f7948ae4bfe69d"] = {
-        sha256 = "01ec0d91ce109afa5c54ca778a30d0f898851d4d2c75cbcf88e0aa7fa0bb06ec",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-2ad87230bbf4424eb5f7948ae4bfe69d.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.38.33130-0e8e244acc0748c982463dd1c43dc49b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.38.33130-0e8e244acc0748c982463dd1c43dc49b.7z",
+        toolset = "14.38.33130",
+        sha256 = "f12686dd0ea038281a6321b8f6f73b36ec1d608a8cd98877aa30475944daa92e"
     },
     ["windows-x64-vc14.37.32822-0e8e244acc0748c982463dd1c43dc49b"] = {
-        sha256 = "1863f2ab54437cac1ce5bbbeb0f1ca06322a20c77f14f79448f1d24f0ab5c77d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.37.32822-0e8e244acc0748c982463dd1c43dc49b.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "1863f2ab54437cac1ce5bbbeb0f1ca06322a20c77f14f79448f1d24f0ab5c77d"
     },
-    ["windows-x86-vc14.37.32822-27ecfcb5f4264e8fa0b94a4497daa786"] = {
-        sha256 = "b6ba0e50ae0de991eb6fd6c6dc92b149dca44a03b18d1f10521cfec9e0740640",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-27ecfcb5f4264e8fa0b94a4497daa786.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-0e8e244acc0748c982463dd1c43dc49b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-0e8e244acc0748c982463dd1c43dc49b.7z",
+        toolset = "14.29.30133",
+        sha256 = "840bf193e5df577dfddf5b1bcd7d2f818bdb99f7f6ed034925efe57257ea7dd4"
+    },
+    ["windows-x86-vc14.37.32822-2ad87230bbf4424eb5f7948ae4bfe69d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-2ad87230bbf4424eb5f7948ae4bfe69d.7z",
+        toolset = "14.37.32822",
+        sha256 = "f87123c805136fba9457df8a249fb7dc72075448ceb804ad3d12c8279137ae7e"
+    },
+    ["windows-x64-vc14.38.33130-12bf27cb5141424aae9677ab36670a9e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.38.33130-12bf27cb5141424aae9677ab36670a9e.7z",
+        toolset = "14.38.33130",
+        sha256 = "6987049270898c6e11a81df11c4cb52c28968687b140f5f316cde6a0affb4f46"
+    },
+    ["windows-x64-vc14.38.33130-816fb1295d9c4ceaa990cdf51009808b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.38.33130-816fb1295d9c4ceaa990cdf51009808b.7z",
+        toolset = "14.38.33130",
+        sha256 = "53003e2c18980c3814dbffa2b934f3c46161083dc5fabc76f12d2978fe1f46c8"
+    },
+    ["windows-x86-vc14.37.32822-baf92e89a1144865af8d5cb2b8a72feb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-baf92e89a1144865af8d5cb2b8a72feb.7z",
+        toolset = "14.37.32822",
+        sha256 = "fd1114e030224764cbede4e79e13773f9c4d7e3e1a30e49003561d6e75d0245a"
+    },
+    ["windows-x86-vc14.29.30133-71dad7e48a86444ea620ae7ccdd69bc8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-71dad7e48a86444ea620ae7ccdd69bc8.7z",
+        toolset = "14.29.30133",
+        sha256 = "e32ea1e28ac7fefc09ad3a62722d18fdc31edf640852bc2c669276503f735d09"
+    },
+    ["windows-x64-vc14.29.30133-cd48dc38f4df48a5b9f0b3704529a303"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-cd48dc38f4df48a5b9f0b3704529a303.7z",
+        toolset = "14.29.30133",
+        sha256 = "8e11c756daea7216d31d86a38a993ab1327972eca6b4a9172d3aac7a47b2724c"
+    },
+    ["windows-x86-vc14.29.30133-baf92e89a1144865af8d5cb2b8a72feb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-baf92e89a1144865af8d5cb2b8a72feb.7z",
+        toolset = "14.29.30133",
+        sha256 = "85ac2cf9c8d0043fa6d4c274893d1802badf074e2d7069b219543dea2e9edcbe"
+    },
+    ["windows-x64-vc14.29.30133-816fb1295d9c4ceaa990cdf51009808b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-816fb1295d9c4ceaa990cdf51009808b.7z",
+        toolset = "14.29.30133",
+        sha256 = "b10832142923b53a033c9e0d8cb53b6efccd61bd9a4d781900fa34e1c3d7a647"
+    },
+    ["windows-x64-vc14.38.33130-cd48dc38f4df48a5b9f0b3704529a303"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.38.33130-cd48dc38f4df48a5b9f0b3704529a303.7z",
+        toolset = "14.38.33130",
+        sha256 = "c750a56a71e95424360a6c4091a52cafd21a684c70cd33c23ff4cbcce416ad1f"
+    },
+    ["windows-x64-vc14.37.32822-816fb1295d9c4ceaa990cdf51009808b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.37.32822-816fb1295d9c4ceaa990cdf51009808b.7z",
+        toolset = "14.37.32822",
+        sha256 = "9920e63861c280a9cec6e78fb110125e11b7ae0ef1196ef7d24ae718b8fbfbdd"
+    },
+    ["windows-x64-vc14.37.32822-cd48dc38f4df48a5b9f0b3704529a303"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.37.32822-cd48dc38f4df48a5b9f0b3704529a303.7z",
+        toolset = "14.37.32822",
+        sha256 = "2ad16100be57e70cb2a038e1dfcfbe72db7e28e40f0f97b002c33fe4c0afbef6"
+    },
+    ["windows-x86-vc14.38.33130-27ecfcb5f4264e8fa0b94a4497daa786"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.38.33130-27ecfcb5f4264e8fa0b94a4497daa786.7z",
+        toolset = "14.38.33130",
+        sha256 = "60e604913cea7c237e3ea6f1c0784a210b29a444dc98f4bc7d5af8ea458e99e0"
+    },
+    ["windows-x86-vc14.37.32822-71dad7e48a86444ea620ae7ccdd69bc8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.37.32822-71dad7e48a86444ea620ae7ccdd69bc8.7z",
+        toolset = "14.37.32822",
+        sha256 = "69d83d4e04d791ae3562d89be5b014ae9987dd4cf26635b51f58ccdce03eb037"
+    },
+    ["windows-x86-vc14.29.30133-27ecfcb5f4264e8fa0b94a4497daa786"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-27ecfcb5f4264e8fa0b94a4497daa786.7z",
+        toolset = "14.29.30133",
+        sha256 = "2fe13937dabf733502bb1710ea2d8e4cd932513908a9260efa194164c5bb50c2"
+    },
+    ["windows-x86-vc14.29.30133-2ad87230bbf4424eb5f7948ae4bfe69d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.29.30133-2ad87230bbf4424eb5f7948ae4bfe69d.7z",
+        toolset = "14.29.30133",
+        sha256 = "e9f4e66a8a2b1f54c18983554a59f5ac230a9768cbf9d797160ea4c48c6874cf"
+    },
+    ["windows-x86-vc14.38.33130-baf92e89a1144865af8d5cb2b8a72feb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.38.33130-baf92e89a1144865af8d5cb2b8a72feb.7z",
+        toolset = "14.38.33130",
+        sha256 = "3b2f590b4a81e642485e0b3ef7357ccf4c464ca3ad49b5288e05545642d88eb7"
+    },
+    ["windows-x86-vc14.38.33130-71dad7e48a86444ea620ae7ccdd69bc8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.38.33130-71dad7e48a86444ea620ae7ccdd69bc8.7z",
+        toolset = "14.38.33130",
+        sha256 = "04c3d8e0204a6e09f0a66f97505cf5502c7bbb0bf5d4e4c01efcdb40c2ed2aac"
+    },
+    ["windows-x86-vc14.38.33130-2ad87230bbf4424eb5f7948ae4bfe69d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x86-vc14.38.33130-2ad87230bbf4424eb5f7948ae4bfe69d.7z",
+        toolset = "14.38.33130",
+        sha256 = "6a1b615d28eccb4acd44f75f7150b7aa44826732881e51c440da3326fde2944a"
+    },
+    ["windows-x64-vc14.29.30133-12bf27cb5141424aae9677ab36670a9e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/alembic-1.8.6/windows-x64-vc14.29.30133-12bf27cb5141424aae9677ab36670a9e.7z",
+        toolset = "14.29.30133",
+        sha256 = "70014fce75efab711a3c42795a9e9d023acb02109760a3cb7b1c3d7c8d08cc45"
     }
 }
