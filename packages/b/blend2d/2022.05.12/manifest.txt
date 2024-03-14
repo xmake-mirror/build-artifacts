@@ -1,7 +1,17 @@
 {
-    ["windows-x86-vc142-5de6f129fd214341ba382580f610aa1e"] = {
-        sha256 = "55998e45bb91afc3d68dfe4bd79be7b331eb585a6b42e863a2b8c5e6206ffb89",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc142-5de6f129fd214341ba382580f610aa1e.7z",
+    ["windows-x64-vc142-e313ad070c4b43feb0ab9ad9aec93107"] = {
+        sha256 = "0d405ac7863272f4fd8ab3a3a21614bc34be34df9d8fc871dece914b565e1cb4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-e313ad070c4b43feb0ab9ad9aec93107.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-71b0cf0bfda24b39b5cca49168e95958"] = {
+        sha256 = "d02b66a32f20ee5b1b92eee0fb63472a465de553f695d92ab71b147bea4cb34b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc143-71b0cf0bfda24b39b5cca49168e95958.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc142-28b48ab4b9d546ff9c40a63cc9e668b2"] = {
+        sha256 = "8947f259e967d7a4428299999ba29e2a4288ed060f2230916726ee93cea89ec3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-28b48ab4b9d546ff9c40a63cc9e668b2.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc143-ec43701c51c64f81a3bf4b4a7b6b1fa9"] = {
@@ -9,49 +19,39 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc143-ec43701c51c64f81a3bf4b4a7b6b1fa9.7z",
         toolset = "14.32.31326"
     },
-    ["windows-x64-vc143-e8fde6d43d094ad984efea26db5f0ab2"] = {
-        sha256 = "5217a45b5b4083492708be46744c533ee3e47e733aa056992cdda863499a494a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc143-e8fde6d43d094ad984efea26db5f0ab2.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc143-71b0cf0bfda24b39b5cca49168e95958"] = {
-        sha256 = "d02b66a32f20ee5b1b92eee0fb63472a465de553f695d92ab71b147bea4cb34b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc143-71b0cf0bfda24b39b5cca49168e95958.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x86-vc143-41d85a6e01894b4d9149c50be3e3f5b3"] = {
-        sha256 = "798ebea99485f06a6d1f85d438760d18ffc38be23b9b5c307886901fcbb2ab73",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc143-41d85a6e01894b4d9149c50be3e3f5b3.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc142-e313ad070c4b43feb0ab9ad9aec93107"] = {
-        sha256 = "0d405ac7863272f4fd8ab3a3a21614bc34be34df9d8fc871dece914b565e1cb4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-e313ad070c4b43feb0ab9ad9aec93107.7z",
+    ["windows-x86-vc142-5de6f129fd214341ba382580f610aa1e"] = {
+        sha256 = "55998e45bb91afc3d68dfe4bd79be7b331eb585a6b42e863a2b8c5e6206ffb89",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc142-5de6f129fd214341ba382580f610aa1e.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc143-7df02241c7064fe8840fda741e9788c3"] = {
-        sha256 = "a0595b9534fb3d90e05b4f408acb37bcd764f7e47bc0862c471611252f5fd931",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc143-7df02241c7064fe8840fda741e9788c3.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc143-e313ad070c4b43feb0ab9ad9aec93107"] = {
-        sha256 = "2c96815cf7b990367192f8a2b5e977602552757391e63afe5f19f7748333c618",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc143-e313ad070c4b43feb0ab9ad9aec93107.7z",
-        toolset = "14.32.31326"
-    },
-    ["windows-x64-vc142-e8fde6d43d094ad984efea26db5f0ab2"] = {
-        sha256 = "d6007e9e44b9ea9bc60422c239abd7ab82de6012ce87169bdad8912afcb2679d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-e8fde6d43d094ad984efea26db5f0ab2.7z",
+    ["windows-x64-vc14.29.30133-ed45565e6f26461bbae3354009a019e1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.29.30133-ed45565e6f26461bbae3354009a019e1.7z",
+        sha256 = "012eb4a4880430b182b79d600415634b6635c37f8ea894b3c64e1cf9d6b36ac2",
         toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-d183e1922fd84201a7d10adf2d9b9dae"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.38.33130-d183e1922fd84201a7d10adf2d9b9dae.7z",
+        sha256 = "eb96b0910461fcdd329db3fd32f1500fba4fb398f018dd158e1ad650fd2893f4",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-1e08b6fbe1514d9db9ead9cd5cbb49c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.29.30133-1e08b6fbe1514d9db9ead9cd5cbb49c6.7z",
+        sha256 = "d9199dfb8e1ed5ae95ed3635095fd66f8ccfce1f8052de918f9a8ddb4e46e281",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-1e08b6fbe1514d9db9ead9cd5cbb49c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.38.33130-1e08b6fbe1514d9db9ead9cd5cbb49c6.7z",
+        sha256 = "cee663a2bf7114b60c564ef00f9d3e4dd7a39d3f63526a982a3a2fd95d6aac64",
+        toolset = "14.38.33130"
     },
     ["windows-x86-vc142-7df02241c7064fe8840fda741e9788c3"] = {
         sha256 = "fd5106ac33fa230b4e77ea64ccf763a8df6c71cfdf52aaa5d74281697cc9949b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc142-7df02241c7064fe8840fda741e9788c3.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-ec43701c51c64f81a3bf4b4a7b6b1fa9"] = {
-        sha256 = "66d12d2eb1e34894782895dfa289b6bf68a9a3fccb8fceddd3487119d58c34d5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-ec43701c51c64f81a3bf4b4a7b6b1fa9.7z",
+    ["windows-x86-vc14.29.30133-0dcc88b89ccb42de8f191ac23dea9c19"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.29.30133-0dcc88b89ccb42de8f191ac23dea9c19.7z",
+        sha256 = "6ba68faf6cb4265968b68deca65d50472b9705091e20361a9428eb1fd9b77288",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc142-71b0cf0bfda24b39b5cca49168e95958"] = {
@@ -59,15 +59,25 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc142-71b0cf0bfda24b39b5cca49168e95958.7z",
         toolset = "14.29.30133"
     },
+    ["windows-x86-vc14.38.33130-0dcc88b89ccb42de8f191ac23dea9c19"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.38.33130-0dcc88b89ccb42de8f191ac23dea9c19.7z",
+        sha256 = "40c2a50680e0f831075e64c52ddf790a6d4c3585ef2b1165c5225832d42ae128",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc143-41d85a6e01894b4d9149c50be3e3f5b3"] = {
+        sha256 = "798ebea99485f06a6d1f85d438760d18ffc38be23b9b5c307886901fcbb2ab73",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc143-41d85a6e01894b4d9149c50be3e3f5b3.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc143-e8fde6d43d094ad984efea26db5f0ab2"] = {
+        sha256 = "5217a45b5b4083492708be46744c533ee3e47e733aa056992cdda863499a494a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc143-e8fde6d43d094ad984efea26db5f0ab2.7z",
+        toolset = "14.32.31326"
+    },
     ["windows-x64-vc143-28b48ab4b9d546ff9c40a63cc9e668b2"] = {
         sha256 = "a3204574041a27a144c16840ffae2d30906678e2a07e2b41b03917397265c868",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc143-28b48ab4b9d546ff9c40a63cc9e668b2.7z",
         toolset = "14.32.31326"
-    },
-    ["windows-x64-vc142-28b48ab4b9d546ff9c40a63cc9e668b2"] = {
-        sha256 = "8947f259e967d7a4428299999ba29e2a4288ed060f2230916726ee93cea89ec3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-28b48ab4b9d546ff9c40a63cc9e668b2.7z",
-        toolset = "14.29.30133"
     },
     ["windows-x86-vc143-5de6f129fd214341ba382580f610aa1e"] = {
         sha256 = "50034ca9859f90c64a757b90a178ef2b3f98805a5f6bb68a9f8b2d3feb740d3c",
@@ -78,5 +88,75 @@
         sha256 = "cd00d796f4a10e97a4f62687d239009a7c146a412ec537c0a82a7232f09ad837",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc142-41d85a6e01894b4d9149c50be3e3f5b3.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-ec43701c51c64f81a3bf4b4a7b6b1fa9"] = {
+        sha256 = "66d12d2eb1e34894782895dfa289b6bf68a9a3fccb8fceddd3487119d58c34d5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-ec43701c51c64f81a3bf4b4a7b6b1fa9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-466a50a1122c4aad85b976f76a1c0a48"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.38.33130-466a50a1122c4aad85b976f76a1c0a48.7z",
+        sha256 = "de85a6478f830b3cb08a16a0f95a98b5ea0ac971953719a9fa3637a705f0097e",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc143-e313ad070c4b43feb0ab9ad9aec93107"] = {
+        sha256 = "2c96815cf7b990367192f8a2b5e977602552757391e63afe5f19f7748333c618",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc143-e313ad070c4b43feb0ab9ad9aec93107.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x64-vc14.29.30133-d183e1922fd84201a7d10adf2d9b9dae"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.29.30133-d183e1922fd84201a7d10adf2d9b9dae.7z",
+        sha256 = "99759261d12ac941965144340f673505ab885a658c9b3f5cbfda4df2bf73545c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-6071e18f147946569a69486391ff59d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.29.30133-6071e18f147946569a69486391ff59d8.7z",
+        sha256 = "acc6ff379480f3248e645684c2fe1a78614baefe527480ca601dfa5719cd4bc1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-6071e18f147946569a69486391ff59d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.38.33130-6071e18f147946569a69486391ff59d8.7z",
+        sha256 = "fbc3f6729a2427287ae40b76c6b6ff7a874edee34f5023cbc2ed6038d38884ce",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-ed45565e6f26461bbae3354009a019e1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.38.33130-ed45565e6f26461bbae3354009a019e1.7z",
+        sha256 = "0a63489f3ef64251c1c0bb6a63f69bfc0c66f2693c8c263c5e989635d715f308",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-466a50a1122c4aad85b976f76a1c0a48"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc14.29.30133-466a50a1122c4aad85b976f76a1c0a48.7z",
+        sha256 = "d79e7ca2185662d523347d3390f45af1d0ea995916382146f7725fdc7223e98a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-7df02241c7064fe8840fda741e9788c3"] = {
+        sha256 = "a0595b9534fb3d90e05b4f408acb37bcd764f7e47bc0862c471611252f5fd931",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc143-7df02241c7064fe8840fda741e9788c3.7z",
+        toolset = "14.32.31326"
+    },
+    ["windows-x86-vc14.29.30133-c602d807d4474e26881d97212f09834a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.29.30133-c602d807d4474e26881d97212f09834a.7z",
+        sha256 = "e697ec72431cd85b01375bba9f4a2af730b32f8f6b02203af8c24dc3406ac484",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-71152ebdb0d74511b6e38e7c3bdee368"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.29.30133-71152ebdb0d74511b6e38e7c3bdee368.7z",
+        sha256 = "778358ab30ed6bea5d7d6fc162fdee033c0e7780d75876abab38a8d2d4787dc7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-71152ebdb0d74511b6e38e7c3bdee368"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.38.33130-71152ebdb0d74511b6e38e7c3bdee368.7z",
+        sha256 = "eebcf1d22848c24c67effdfa9bd3c40c36198153fb0e1d881bcec23732d44406",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc142-e8fde6d43d094ad984efea26db5f0ab2"] = {
+        sha256 = "d6007e9e44b9ea9bc60422c239abd7ab82de6012ce87169bdad8912afcb2679d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x64-vc142-e8fde6d43d094ad984efea26db5f0ab2.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-c602d807d4474e26881d97212f09834a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/blend2d-2022.05.12/windows-x86-vc14.38.33130-c602d807d4474e26881d97212f09834a.7z",
+        sha256 = "2740e0d871000d899ba844ab71255e39c4220ba919e3a56db1209294da79f816",
+        toolset = "14.38.33130"
     }
 }
