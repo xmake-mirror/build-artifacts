@@ -1,162 +1,202 @@
 {
-    ["windows-x64-vc14.37.32822-a33fd6fc2c654229b862821dcd44500f"] = {
-        sha256 = "f17ae36ae9649adfd870683c134f9fc049cad651ad5c97df713d55ed12217645",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-a33fd6fc2c654229b862821dcd44500f.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-63d96dbe31114634828c49be35ebc22a"] = {
-        sha256 = "2eae5a21c670009689323d7797b1808f673274a961378f9f49dc38edf4ba41c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-63d96dbe31114634828c49be35ebc22a.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-576526edd3cd4fbab5e13283c14f84d5"] = {
-        sha256 = "7e8c861905a4482f5b06d5aa4356c187c600eb28cbc30329affe97a3a378464e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-576526edd3cd4fbab5e13283c14f84d5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-fa44a2ca656d4a0bbccef672a0cdbf2b"] = {
-        sha256 = "434a39b52d2e57b672ea97f8a0808198d890b8a980dbc48f0c33032ded49a3c2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-fa44a2ca656d4a0bbccef672a0cdbf2b.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-b453ce77e1c1438b86cd6e782c8c8e09"] = {
-        sha256 = "f1311d39db153f31c1335d6ae5b92d23b3b18216554dd6a66c174e7504190bc7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-b453ce77e1c1438b86cd6e782c8c8e09.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-13b0817ebfda4014981c88576937ad11"] = {
-        sha256 = "51ffa4014d10976f2c8e3da7ff976ee30b4699e4d7e81b677df1737bfbc2acbd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-13b0817ebfda4014981c88576937ad11.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-7343c4540b4c4cf4bcb5f4cb7b0bedcf"] = {
-        sha256 = "67447f6c5952aa5bafde1ac9c80fed425bed09a98f3bbb0943ca1aa8d733d311",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-7343c4540b4c4cf4bcb5f4cb7b0bedcf.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-71b2b0d0bb6a44a78b5cc6ba310c8b09"] = {
-        sha256 = "6d0eca3bfcde46092902d0ebd6a8b7ac5c6b5f9f4264ba6da330396cadc11177",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-71b2b0d0bb6a44a78b5cc6ba310c8b09.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-163d447a5bcb4c06b52f7c8acd2bd81e"] = {
-        sha256 = "5241c37a50d6529e3aa2281eaaa9f192fe8f496d642f6a59761e8080f5a5d72d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-163d447a5bcb4c06b52f7c8acd2bd81e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-f42fdb831f7942e681789502c43447e6"] = {
-        sha256 = "163f306281fd6d0a58d59a1254bdec31ea20607de04b3c0be889591c9a6b8fa8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-f42fdb831f7942e681789502c43447e6.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-fa44a2ca656d4a0bbccef672a0cdbf2b"] = {
-        sha256 = "57f6e3d0253fd98b8f55362a61b6333d1651cf49d9b08fdcb2210e7bbd0ee102",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-fa44a2ca656d4a0bbccef672a0cdbf2b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-63d96dbe31114634828c49be35ebc22a"] = {
-        sha256 = "f588167fbd97ae60679f53c29f338bbd492c522d51c8c45ccef86051648ff4b6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-63d96dbe31114634828c49be35ebc22a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-279bb38ab84247d88542d435ed679b29"] = {
-        sha256 = "168ba842312d5051e35970936090139d5487eb6674b7b183fd0c204881c3fa54",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-279bb38ab84247d88542d435ed679b29.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-13b0817ebfda4014981c88576937ad11"] = {
-        sha256 = "f6e73b939bc40f3b322cd2bf9b9e6928f83dc27ed5d8252ae8e9b9c4b3945a9a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-13b0817ebfda4014981c88576937ad11.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-71b2b0d0bb6a44a78b5cc6ba310c8b09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-71b2b0d0bb6a44a78b5cc6ba310c8b09.7z",
+        toolset = "14.37.32822",
+        sha256 = "3621160e376ec12aeab8ccb955e3c9a1dcb5c53ce251a8d4c5154371bddfa5fd"
     },
     ["windows-x64-vc14.37.32822-576526edd3cd4fbab5e13283c14f84d5"] = {
-        sha256 = "222cf997e98dfb8ef8022503a49203b9f8747f1a2f3a60e28746d8fd828b7109",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-576526edd3cd4fbab5e13283c14f84d5.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-f42fdb831f7942e681789502c43447e6"] = {
-        sha256 = "3580d89832d370153e62c6bda516efe303cce5567d10abadd45c80e314d9ca19",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-f42fdb831f7942e681789502c43447e6.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-71b2b0d0bb6a44a78b5cc6ba310c8b09"] = {
-        sha256 = "3621160e376ec12aeab8ccb955e3c9a1dcb5c53ce251a8d4c5154371bddfa5fd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-71b2b0d0bb6a44a78b5cc6ba310c8b09.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-1092c5f040f44a4eab0a44567ec84d42"] = {
-        sha256 = "13e857ef11de4beb984c4f119419955f022c85340890f83a9a03e0ec98206b70",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-1092c5f040f44a4eab0a44567ec84d42.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-a33fd6fc2c654229b862821dcd44500f"] = {
-        sha256 = "bee2fa8a51b4018cee14d40ed42e585594d9893515dd12fe3736d33096d55c01",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-a33fd6fc2c654229b862821dcd44500f.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-7343c4540b4c4cf4bcb5f4cb7b0bedcf"] = {
-        sha256 = "ebaf923f1de01b3f5ef73ccea7b90d35155a12955af29b0460603e10bed976be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-7343c4540b4c4cf4bcb5f4cb7b0bedcf.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-279bb38ab84247d88542d435ed679b29"] = {
-        sha256 = "d298eed8e811a9f003855c0207f71ec667b6f1a273efafa536ef9d081a6f6092",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-279bb38ab84247d88542d435ed679b29.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "222cf997e98dfb8ef8022503a49203b9f8747f1a2f3a60e28746d8fd828b7109"
     },
     ["windows-x86-vc14.29.30133-9eeb153a7c7d4a6faa0c2d07763f81c6"] = {
-        sha256 = "6c8ba04e74a2175bff375608c30821260eca1ffcce70e18d6b38dc8657ea2e52",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-9eeb153a7c7d4a6faa0c2d07763f81c6.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "818cec53d5731610798577af83df4dc9f873cb418110aea4155c90b03d58d21c"
     },
-    ["windows-x86-vc14.37.32822-163d447a5bcb4c06b52f7c8acd2bd81e"] = {
-        sha256 = "1870c25d033315a3c6713d023bbfeb9379b9a87637ee7a83570ed3bac3ee3f6e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-163d447a5bcb4c06b52f7c8acd2bd81e.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.37.32822-a33fd6fc2c654229b862821dcd44500f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-a33fd6fc2c654229b862821dcd44500f.7z",
+        toolset = "14.37.32822",
+        sha256 = "f17ae36ae9649adfd870683c134f9fc049cad651ad5c97df713d55ed12217645"
     },
-    ["windows-x64-vc14.29.30133-4c66743e78a949b3b11e4e67b314b45b"] = {
-        sha256 = "6cb6e633a8f2a4aeef37f2c1092576fc67e003a84a760c71db1025a538ecdf59",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-4c66743e78a949b3b11e4e67b314b45b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-0dd812caab4246a3aa9df795723e4633"] = {
-        sha256 = "01ca3794f05fdb7e4c15df95181e9f6ee16d70b6891b0c20a8c0fe4a8d28547c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-0dd812caab4246a3aa9df795723e4633.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-d0abc0de503e48b3ab1dc24efab72374"] = {
-        sha256 = "957dd91ee5beeac4e82455c1230bab04d7163cc076dcde8d5af25e8914f4deca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-d0abc0de503e48b3ab1dc24efab72374.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-b453ce77e1c1438b86cd6e782c8c8e09"] = {
-        sha256 = "294e241b640041587b6819b91592bc03eb76dbb8ad4f5589f073473b2afd9d30",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-b453ce77e1c1438b86cd6e782c8c8e09.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-9eeb153a7c7d4a6faa0c2d07763f81c6"] = {
-        sha256 = "1a1d0bb229fde6580fca91dfd1f55f04dad376cd016e700a423d63665808b4e4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-9eeb153a7c7d4a6faa0c2d07763f81c6.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-1092c5f040f44a4eab0a44567ec84d42"] = {
-        sha256 = "7a78ca8bf1717a5c01aaef24e9c415b766f2e2888b09a793aaa60d56bb87f9f7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-1092c5f040f44a4eab0a44567ec84d42.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-0dd812caab4246a3aa9df795723e4633"] = {
-        sha256 = "35f9143f6f5e8e0cac7b5ceb3a9447e7ab98a4e2813150b9d448cd163cba9ebe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-0dd812caab4246a3aa9df795723e4633.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-d0abc0de503e48b3ab1dc24efab72374"] = {
-        sha256 = "78803e92aa28e4db105c8c6c91cd4eb512c2fa21b3d121fe20bfa4c6c5bdc437",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-d0abc0de503e48b3ab1dc24efab72374.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-279bb38ab84247d88542d435ed679b29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-279bb38ab84247d88542d435ed679b29.7z",
+        toolset = "14.29.30133",
+        sha256 = "049f3da25e2338c3224ccdbc5cbd287a222a97a5ab57fc433ec4de34335e45c0"
     },
     ["windows-x64-vc14.37.32822-4c66743e78a949b3b11e4e67b314b45b"] = {
-        sha256 = "bf4f9bb51cdd9465804cc1351464927305b2e6878156e6a861cb415b4c1288c6",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-4c66743e78a949b3b11e4e67b314b45b.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "bf4f9bb51cdd9465804cc1351464927305b2e6878156e6a861cb415b4c1288c6"
+    },
+    ["windows-x86-vc14.37.32822-9eeb153a7c7d4a6faa0c2d07763f81c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-9eeb153a7c7d4a6faa0c2d07763f81c6.7z",
+        toolset = "14.37.32822",
+        sha256 = "1a1d0bb229fde6580fca91dfd1f55f04dad376cd016e700a423d63665808b4e4"
+    },
+    ["windows-x86-vc14.38.33130-163d447a5bcb4c06b52f7c8acd2bd81e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.38.33130-163d447a5bcb4c06b52f7c8acd2bd81e.7z",
+        toolset = "14.38.33130",
+        sha256 = "fa76c1c88bb0b1288e20d4626d7d415a3cd322e78cbe6cb099a32d094c8142de"
+    },
+    ["windows-x86-vc14.29.30133-0dd812caab4246a3aa9df795723e4633"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-0dd812caab4246a3aa9df795723e4633.7z",
+        toolset = "14.29.30133",
+        sha256 = "8db49162217b0017dee99521cc7f114e77d478a1e3926092cedaac5cf1fd1b53"
+    },
+    ["windows-x64-vc14.37.32822-b453ce77e1c1438b86cd6e782c8c8e09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-b453ce77e1c1438b86cd6e782c8c8e09.7z",
+        toolset = "14.37.32822",
+        sha256 = "f1311d39db153f31c1335d6ae5b92d23b3b18216554dd6a66c174e7504190bc7"
+    },
+    ["windows-x64-vc14.38.33130-f42fdb831f7942e681789502c43447e6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.38.33130-f42fdb831f7942e681789502c43447e6.7z",
+        toolset = "14.38.33130",
+        sha256 = "f7173086b13a10dddc1bb95d330c2dc0639d7963cd383092e96d25ddb1f3e721"
+    },
+    ["windows-x64-vc14.37.32822-d0abc0de503e48b3ab1dc24efab72374"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-d0abc0de503e48b3ab1dc24efab72374.7z",
+        toolset = "14.37.32822",
+        sha256 = "957dd91ee5beeac4e82455c1230bab04d7163cc076dcde8d5af25e8914f4deca"
+    },
+    ["windows-x64-vc14.29.30133-13b0817ebfda4014981c88576937ad11"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-13b0817ebfda4014981c88576937ad11.7z",
+        toolset = "14.29.30133",
+        sha256 = "f6e73b939bc40f3b322cd2bf9b9e6928f83dc27ed5d8252ae8e9b9c4b3945a9a"
+    },
+    ["windows-x64-vc14.38.33130-d0abc0de503e48b3ab1dc24efab72374"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.38.33130-d0abc0de503e48b3ab1dc24efab72374.7z",
+        toolset = "14.38.33130",
+        sha256 = "462c9f2e82cfe3b448a6e0477ec14fbefbfb3a9b9780804cd832c88ade253c3b"
+    },
+    ["windows-x64-vc14.29.30133-b453ce77e1c1438b86cd6e782c8c8e09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-b453ce77e1c1438b86cd6e782c8c8e09.7z",
+        toolset = "14.29.30133",
+        sha256 = "294e241b640041587b6819b91592bc03eb76dbb8ad4f5589f073473b2afd9d30"
+    },
+    ["windows-x64-vc14.37.32822-f42fdb831f7942e681789502c43447e6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-f42fdb831f7942e681789502c43447e6.7z",
+        toolset = "14.37.32822",
+        sha256 = "3580d89832d370153e62c6bda516efe303cce5567d10abadd45c80e314d9ca19"
+    },
+    ["windows-x64-vc14.37.32822-279bb38ab84247d88542d435ed679b29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-279bb38ab84247d88542d435ed679b29.7z",
+        toolset = "14.37.32822",
+        sha256 = "d298eed8e811a9f003855c0207f71ec667b6f1a273efafa536ef9d081a6f6092"
+    },
+    ["windows-x86-vc14.29.30133-1092c5f040f44a4eab0a44567ec84d42"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-1092c5f040f44a4eab0a44567ec84d42.7z",
+        toolset = "14.29.30133",
+        sha256 = "13e857ef11de4beb984c4f119419955f022c85340890f83a9a03e0ec98206b70"
+    },
+    ["windows-x86-vc14.37.32822-fa44a2ca656d4a0bbccef672a0cdbf2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-fa44a2ca656d4a0bbccef672a0cdbf2b.7z",
+        toolset = "14.37.32822",
+        sha256 = "434a39b52d2e57b672ea97f8a0808198d890b8a980dbc48f0c33032ded49a3c2"
+    },
+    ["windows-x86-vc14.29.30133-63d96dbe31114634828c49be35ebc22a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-63d96dbe31114634828c49be35ebc22a.7z",
+        toolset = "14.29.30133",
+        sha256 = "f588167fbd97ae60679f53c29f338bbd492c522d51c8c45ccef86051648ff4b6"
+    },
+    ["windows-x64-vc14.38.33130-279bb38ab84247d88542d435ed679b29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.38.33130-279bb38ab84247d88542d435ed679b29.7z",
+        toolset = "14.38.33130",
+        sha256 = "7afcee5cf44010cdbcc6abd3e09fc9e911e48a6d488b11f354c813f8f886c976"
+    },
+    ["windows-x64-vc14.29.30133-d0abc0de503e48b3ab1dc24efab72374"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-d0abc0de503e48b3ab1dc24efab72374.7z",
+        toolset = "14.29.30133",
+        sha256 = "c1e74662ffa354f1b96478710ed02446f1351eb810914a36ed9d62930f36583f"
+    },
+    ["windows-x64-vc14.29.30133-576526edd3cd4fbab5e13283c14f84d5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-576526edd3cd4fbab5e13283c14f84d5.7z",
+        toolset = "14.29.30133",
+        sha256 = "7e8c861905a4482f5b06d5aa4356c187c600eb28cbc30329affe97a3a378464e"
+    },
+    ["windows-x86-vc14.29.30133-fa44a2ca656d4a0bbccef672a0cdbf2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-fa44a2ca656d4a0bbccef672a0cdbf2b.7z",
+        toolset = "14.29.30133",
+        sha256 = "8f012bd8ffa43ec3aca8bbf41c387a983815909be3bc18ac8f563ee5a7a13e20"
+    },
+    ["windows-x86-vc14.38.33130-9eeb153a7c7d4a6faa0c2d07763f81c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.38.33130-9eeb153a7c7d4a6faa0c2d07763f81c6.7z",
+        toolset = "14.38.33130",
+        sha256 = "55a350a2ee49a71118bc214ebda99fc1a91d599b54121ded9df6fe214d140a90"
+    },
+    ["windows-x86-vc14.37.32822-163d447a5bcb4c06b52f7c8acd2bd81e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-163d447a5bcb4c06b52f7c8acd2bd81e.7z",
+        toolset = "14.37.32822",
+        sha256 = "1870c25d033315a3c6713d023bbfeb9379b9a87637ee7a83570ed3bac3ee3f6e"
+    },
+    ["windows-x86-vc14.29.30133-163d447a5bcb4c06b52f7c8acd2bd81e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-163d447a5bcb4c06b52f7c8acd2bd81e.7z",
+        toolset = "14.29.30133",
+        sha256 = "05055cc963ed576f65efd3f3a3aff1851f58ead31385c74920c4ff127d84d387"
+    },
+    ["windows-x64-vc14.29.30133-a33fd6fc2c654229b862821dcd44500f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-a33fd6fc2c654229b862821dcd44500f.7z",
+        toolset = "14.29.30133",
+        sha256 = "e9cfa1f0e34f99db232bebfdceb5e1fa5150a9f3eb0040c168ca6e11ad5a5b34"
+    },
+    ["windows-x86-vc14.29.30133-7343c4540b4c4cf4bcb5f4cb7b0bedcf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-7343c4540b4c4cf4bcb5f4cb7b0bedcf.7z",
+        toolset = "14.29.30133",
+        sha256 = "ebaf923f1de01b3f5ef73ccea7b90d35155a12955af29b0460603e10bed976be"
+    },
+    ["windows-x86-vc14.38.33130-fa44a2ca656d4a0bbccef672a0cdbf2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.38.33130-fa44a2ca656d4a0bbccef672a0cdbf2b.7z",
+        toolset = "14.38.33130",
+        sha256 = "19b9df54a4d3ab95012c5b060a816e64b97a1d40787e58bf6590fa0a2a857b87"
+    },
+    ["windows-x64-vc14.37.32822-13b0817ebfda4014981c88576937ad11"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.37.32822-13b0817ebfda4014981c88576937ad11.7z",
+        toolset = "14.37.32822",
+        sha256 = "51ffa4014d10976f2c8e3da7ff976ee30b4699e4d7e81b677df1737bfbc2acbd"
+    },
+    ["windows-x86-vc14.37.32822-0dd812caab4246a3aa9df795723e4633"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-0dd812caab4246a3aa9df795723e4633.7z",
+        toolset = "14.37.32822",
+        sha256 = "35f9143f6f5e8e0cac7b5ceb3a9447e7ab98a4e2813150b9d448cd163cba9ebe"
+    },
+    ["windows-x86-vc14.37.32822-7343c4540b4c4cf4bcb5f4cb7b0bedcf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-7343c4540b4c4cf4bcb5f4cb7b0bedcf.7z",
+        toolset = "14.37.32822",
+        sha256 = "67447f6c5952aa5bafde1ac9c80fed425bed09a98f3bbb0943ca1aa8d733d311"
+    },
+    ["windows-x86-vc14.38.33130-0dd812caab4246a3aa9df795723e4633"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.38.33130-0dd812caab4246a3aa9df795723e4633.7z",
+        toolset = "14.38.33130",
+        sha256 = "756ebfce091a2477201f26e8cc058e8a5bb3adf069e6311932dc327db65c86a6"
+    },
+    ["windows-x64-vc14.29.30133-f42fdb831f7942e681789502c43447e6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-f42fdb831f7942e681789502c43447e6.7z",
+        toolset = "14.29.30133",
+        sha256 = "de9046b4dd549da2287a332adeeeb1fc08dd15d01bf248cb2e9c8be59de32385"
+    },
+    ["windows-x86-vc14.37.32822-63d96dbe31114634828c49be35ebc22a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-63d96dbe31114634828c49be35ebc22a.7z",
+        toolset = "14.37.32822",
+        sha256 = "2eae5a21c670009689323d7797b1808f673274a961378f9f49dc38edf4ba41c7"
+    },
+    ["windows-x64-vc14.38.33130-a33fd6fc2c654229b862821dcd44500f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.38.33130-a33fd6fc2c654229b862821dcd44500f.7z",
+        toolset = "14.38.33130",
+        sha256 = "35df6be5ca8ac99f0cfde9d36fc5ce34d724746d1e6f9ec38f5db0e36b8be71f"
+    },
+    ["windows-x86-vc14.29.30133-71b2b0d0bb6a44a78b5cc6ba310c8b09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.29.30133-71b2b0d0bb6a44a78b5cc6ba310c8b09.7z",
+        toolset = "14.29.30133",
+        sha256 = "6d0eca3bfcde46092902d0ebd6a8b7ac5c6b5f9f4264ba6da330396cadc11177"
+    },
+    ["windows-x86-vc14.37.32822-1092c5f040f44a4eab0a44567ec84d42"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x86-vc14.37.32822-1092c5f040f44a4eab0a44567ec84d42.7z",
+        toolset = "14.37.32822",
+        sha256 = "7a78ca8bf1717a5c01aaef24e9c415b766f2e2888b09a793aaa60d56bb87f9f7"
+    },
+    ["windows-x64-vc14.29.30133-4c66743e78a949b3b11e4e67b314b45b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imnodes-v0.5/windows-x64-vc14.29.30133-4c66743e78a949b3b11e4e67b314b45b.7z",
+        toolset = "14.29.30133",
+        sha256 = "6cb6e633a8f2a4aeef37f2c1092576fc67e003a84a760c71db1025a538ecdf59"
     }
 }
