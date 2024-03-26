@@ -1,22 +1,12 @@
 {
-    ["windows-x86-vc14.37.32822-6aa91a2ab157402d8f251710ea40b4ec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.37.32822-6aa91a2ab157402d8f251710ea40b4ec.7z",
-        sha256 = "411a075e377e80dec63f1d5324fc7b7aa890b8fbb855f7ae179b57132a7ac77d",
-        toolset = "14.37.32822"
-    },
     ["windows-x64-vc14.29.30133-1b9c26bd77164bd5b5502f5a70244310"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-1b9c26bd77164bd5b5502f5a70244310.7z",
         sha256 = "89f7efa89189783ded082883b0f1e961e681bb5f245294e1735e37b5b62f5693",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-892f0f96066344f5b700e40b412bf559"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-892f0f96066344f5b700e40b412bf559.7z",
-        sha256 = "7af1daab610d953106540c9508cbed79dddd8633ae21671913d56e9c30f67e15",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-6aa91a2ab157402d8f251710ea40b4ec"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-6aa91a2ab157402d8f251710ea40b4ec.7z",
-        sha256 = "8da9594e851fb8ad6125148c12fee067609bc4c58c631cd95c408362ffde4b9c",
+    ["windows-x86-vc14.29.30133-8119ebd1766745d9b87be90b505c18cf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-8119ebd1766745d9b87be90b505c18cf.7z",
+        sha256 = "8857d71a937bd08df45fb3be2afa74e290b64af1ae0d11100b4e17033cc0b63c",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.37.32822-05c5e76d0f2944a4b3872488ec05ed72"] = {
@@ -24,34 +14,49 @@
         sha256 = "c146877fa2529e7496dbcd848cc4fcb41e5d4f992525d82396b8339f413076f8",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.37.32822-8119ebd1766745d9b87be90b505c18cf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.37.32822-8119ebd1766745d9b87be90b505c18cf.7z",
-        sha256 = "0371fb4bd747cc7e73a29696fde72682c34b17a1bd624ceeea0a253f29ac3ba4",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.38.33130-5e7c4d22e0d6454297895d6111533572"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.38.33130-5e7c4d22e0d6454297895d6111533572.7z",
+        sha256 = "70a41cdfdcbc8dc10de8b605c5ac91ba9a6999d4715218d2e3f55ec4021fb10d",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-892f0f96066344f5b700e40b412bf559"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-892f0f96066344f5b700e40b412bf559.7z",
+        sha256 = "7af1daab610d953106540c9508cbed79dddd8633ae21671913d56e9c30f67e15",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-92b248d4ed44410bbb504d2dd031f14d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-92b248d4ed44410bbb504d2dd031f14d.7z",
+        sha256 = "1017fc5a2c171caee0dc517f8520324f68aa11992452298b4f750f2b4f689732",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-4fcfbe33a32f4042adfa5cd6094d65f1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.38.33130-4fcfbe33a32f4042adfa5cd6094d65f1.7z",
+        sha256 = "e2b8d6cef8a0f1e151df9e7ae5e26e38f8925dd8cb8c0a2323c7b8462fa2fb97",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-6aa91a2ab157402d8f251710ea40b4ec"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-6aa91a2ab157402d8f251710ea40b4ec.7z",
+        sha256 = "8da9594e851fb8ad6125148c12fee067609bc4c58c631cd95c408362ffde4b9c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-4fcfbe33a32f4042adfa5cd6094d65f1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-4fcfbe33a32f4042adfa5cd6094d65f1.7z",
+        sha256 = "c792a6b287489e5c062bb035c6f21dcde1a96200ad4ee02f1f62c9eb8c774a3c",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-05c5e76d0f2944a4b3872488ec05ed72"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-05c5e76d0f2944a4b3872488ec05ed72.7z",
         sha256 = "84a78678d31d0b594eda7f67b0b17633513d6ff86622645f7a76aafe40ba5d8d",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.37.32822-892f0f96066344f5b700e40b412bf559"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.37.32822-892f0f96066344f5b700e40b412bf559.7z",
-        sha256 = "c1fb5f983cbceb6f0b2e250fbfdc2a2317f804dbac4ee2db51e0251183bab067",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-21bd56839ff84970ad260d3b1db4594d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-21bd56839ff84970ad260d3b1db4594d.7z",
-        sha256 = "cb92a42f3a41c3587208afa10d672383285e6e5dca812e6118e67e719cb82d08",
+    ["windows-x64-vc14.29.30133-6ff5bd280fc242f8bf4ff8adc124dfbb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-6ff5bd280fc242f8bf4ff8adc124dfbb.7z",
+        sha256 = "174d8d2f2d06abceaf326171737aa411cd8d0e31e8f17e60fc728ccc4cbde83c",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-1b9c26bd77164bd5b5502f5a70244310"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.37.32822-1b9c26bd77164bd5b5502f5a70244310.7z",
-        sha256 = "95e2620e55aaa083e7a1a5d5e1d67907a7571972d223b56be2e8c3b9aa144d7c",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-f7dd0aa4fde949d2866d83560a70cbd5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-f7dd0aa4fde949d2866d83560a70cbd5.7z",
-        sha256 = "744738c7f126cf75ff4bd088daa5896c113bb32966028fba665a87d02ca62df5",
+    ["windows-x64-vc14.29.30133-5e7c4d22e0d6454297895d6111533572"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-5e7c4d22e0d6454297895d6111533572.7z",
+        sha256 = "b43ecef73233820d21ba83f099510e8be03dbcecfa30e2581ce552d622e7bbdd",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.37.32822-f7dd0aa4fde949d2866d83560a70cbd5"] = {
@@ -59,9 +64,34 @@
         sha256 = "4f08fdc7bed8fb61151a1e6dcc2d02d97636f3a8ef7126c8ca2500c017bba5dd",
         toolset = "14.37.32822"
     },
+    ["windows-x86-vc14.29.30133-a9ea27038277418489d21588ac4be5d3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-a9ea27038277418489d21588ac4be5d3.7z",
+        sha256 = "4f4ba69a1d6e82f43122afe2d42a613d392accb59f064df6e639ab57313dfb8c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-1b9c26bd77164bd5b5502f5a70244310"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.37.32822-1b9c26bd77164bd5b5502f5a70244310.7z",
+        sha256 = "95e2620e55aaa083e7a1a5d5e1d67907a7571972d223b56be2e8c3b9aa144d7c",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-8119ebd1766745d9b87be90b505c18cf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.37.32822-8119ebd1766745d9b87be90b505c18cf.7z",
+        sha256 = "0371fb4bd747cc7e73a29696fde72682c34b17a1bd624ceeea0a253f29ac3ba4",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-eb976ad009584f94995158a0f4098f5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-eb976ad009584f94995158a0f4098f5e.7z",
+        sha256 = "79d2dc8492cd278393a954963704f65db80df27248172d34f38ea91f8ddc0ab0",
+        toolset = "14.29.30133"
+    },
     ["windows-x64-vc14.37.32822-21bd56839ff84970ad260d3b1db4594d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.37.32822-21bd56839ff84970ad260d3b1db4594d.7z",
         sha256 = "fe26bed5685372cbc9f76ae8a55bffbcbe8b86db2d2c1ff19a6df5dadcaf5f8d",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-6aa91a2ab157402d8f251710ea40b4ec"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.37.32822-6aa91a2ab157402d8f251710ea40b4ec.7z",
+        sha256 = "411a075e377e80dec63f1d5324fc7b7aa890b8fbb855f7ae179b57132a7ac77d",
         toolset = "14.37.32822"
     },
     ["windows-x86-vc14.37.32822-a9ea27038277418489d21588ac4be5d3"] = {
@@ -69,14 +99,64 @@
         sha256 = "ec9d81fffb8a8640bfac3fa7d9946a7e6220f47aea7dc546edf2f4703c3d3c5b",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.29.30133-8119ebd1766745d9b87be90b505c18cf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-8119ebd1766745d9b87be90b505c18cf.7z",
-        sha256 = "8857d71a937bd08df45fb3be2afa74e290b64af1ae0d11100b4e17033cc0b63c",
+    ["windows-x86-vc14.38.33130-eb976ad009584f94995158a0f4098f5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.38.33130-eb976ad009584f94995158a0f4098f5e.7z",
+        sha256 = "3ae8a0686f6f4eaf9198534492f2be676b27399822ac57729759d13748cdcdb4",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-f7dd0aa4fde949d2866d83560a70cbd5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-f7dd0aa4fde949d2866d83560a70cbd5.7z",
+        sha256 = "744738c7f126cf75ff4bd088daa5896c113bb32966028fba665a87d02ca62df5",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-a9ea27038277418489d21588ac4be5d3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-a9ea27038277418489d21588ac4be5d3.7z",
-        sha256 = "4f4ba69a1d6e82f43122afe2d42a613d392accb59f064df6e639ab57313dfb8c",
+    ["windows-x86-vc14.38.33130-753b92ffa0e34463933d3a08062540fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.38.33130-753b92ffa0e34463933d3a08062540fa.7z",
+        sha256 = "e98b05ee7430cc71ec1abd3bc440ae1b52bd3c079dea7e1878745331672f0e50",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-9d7c6db841da48059417194b9aa9ce9c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.38.33130-9d7c6db841da48059417194b9aa9ce9c.7z",
+        sha256 = "4b1ccedffcfe8922247d87b7c31a5aeda8db5f49590a11d468ed3b670ceead62",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.37.32822-892f0f96066344f5b700e40b412bf559"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.37.32822-892f0f96066344f5b700e40b412bf559.7z",
+        sha256 = "c1fb5f983cbceb6f0b2e250fbfdc2a2317f804dbac4ee2db51e0251183bab067",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-753b92ffa0e34463933d3a08062540fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-753b92ffa0e34463933d3a08062540fa.7z",
+        sha256 = "83e156e99787aefb1208c892b12c68e8c6b197e7571bfe94d104a9c003b77cae",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-21bd56839ff84970ad260d3b1db4594d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.29.30133-21bd56839ff84970ad260d3b1db4594d.7z",
+        sha256 = "cb92a42f3a41c3587208afa10d672383285e6e5dca812e6118e67e719cb82d08",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-1ad36c8969884b4ab0a515149a5fe0fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-1ad36c8969884b4ab0a515149a5fe0fc.7z",
+        sha256 = "589036efb3154c5b7fcdce8f600b306ce23fabf52194d8a69818fcc11590d42c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-92b248d4ed44410bbb504d2dd031f14d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.38.33130-92b248d4ed44410bbb504d2dd031f14d.7z",
+        sha256 = "90001e1aee3ca5037b185c29f638fd76c2f049afd7631c6c39871e26b20c93a4",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-1ad36c8969884b4ab0a515149a5fe0fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.38.33130-1ad36c8969884b4ab0a515149a5fe0fc.7z",
+        sha256 = "44c5e2b8867c78ce73dbcf651746170598b35d1d4508d41082a40ae0a7685a3c",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-6ff5bd280fc242f8bf4ff8adc124dfbb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x64-vc14.38.33130-6ff5bd280fc242f8bf4ff8adc124dfbb.7z",
+        sha256 = "97c55962a6be7f44052ac0194b9c306b1d8dedcda5c2841a36cc8b83e0b6b8d0",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-9d7c6db841da48059417194b9aa9ce9c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fontconfig-2.14.2/windows-x86-vc14.29.30133-9d7c6db841da48059417194b9aa9ce9c.7z",
+        sha256 = "0358b6a39c4b23346c13b174792c91de25c573402921cbe03eb0af75385414ec",
         toolset = "14.29.30133"
     }
 }
