@@ -1,77 +1,12 @@
 {
-    ["windows-x86-vc14.37.32822-d37e53b4e48c4f218a39ed699c2d1571"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-d37e53b4e48c4f218a39ed699c2d1571.7z",
-        sha256 = "44a57a0823011ad2219297cda9a434ab50f5b485bd257d64a62bbbf32c014318",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-207a8293585c4f6ab97c990c596a513d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-207a8293585c4f6ab97c990c596a513d.7z",
-        sha256 = "de0e58117a20a62ed077f71199f7e83982fe77b97c60f9bb9ad73888bbbd584e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-8aec902e95d7411db8d68dfe2d9ac4a5.7z",
-        sha256 = "9f44d27a9728ed1f8ed64697a9d0a4a43937a7cccaf3e058fde1d5b24ce7fe07",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-d37e53b4e48c4f218a39ed699c2d1571"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-d37e53b4e48c4f218a39ed699c2d1571.7z",
-        sha256 = "2b1529acc716910a476a4d0a9d72ae475df43e4235a014ce84b0f78b4785edaf",
+    ["windows-x64-vc143-207a8293585c4f6ab97c990c596a513d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-207a8293585c4f6ab97c990c596a513d.7z",
+        sha256 = "34a9e66cea43fa88d3bbea5baafb3634237820b66a3c9bdf278cf0a8ccef1cea",
         toolset = "14.34.31933"
     },
-    ["windows-x64-vc14.37.32822-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.37.32822-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
-        sha256 = "a883b50ece22d092ce275c71bbb804e750c62f663826a92cf6afb88d6f089f3e",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc143-d86abf26000e423b910a9e0a7d443ac5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-d86abf26000e423b910a9e0a7d443ac5.7z",
-        sha256 = "a51e0d1a52c8601c65748723ff9c501041ade0fa007523fe837ca266949209a6",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc142-c83a5162b115406e83c8ef6bf711bdda"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-c83a5162b115406e83c8ef6bf711bdda.7z",
-        sha256 = "1de7dd88d89250bac00cf440b4682b74e429b698fe7a3a20c1ed3d3b094d07a3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-a30c8c80d27a43429be6c35010d84743"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-a30c8c80d27a43429be6c35010d84743.7z",
-        sha256 = "f8eede13334b25035a9e8405c92a0f214a3a4210f3890f3ac56e192d632b6dbc",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc14.29.30133-d37e53b4e48c4f218a39ed699c2d1571"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-d37e53b4e48c4f218a39ed699c2d1571.7z",
-        sha256 = "bdc6110dae112be29501129e13fc3576cfbcbad6cdbde1bb7a99955dfd719310",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-207a8293585c4f6ab97c990c596a513d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-207a8293585c4f6ab97c990c596a513d.7z",
-        sha256 = "4e8daa699a0c63347a2611a11031456ebe9751ff22f28d576acc0fc5287dcc24",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
-        sha256 = "4f103bbb5474c388e0e62111232b6b49bdd4cca21552f507f03c613078b13cea",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc14.37.32822-a30c8c80d27a43429be6c35010d84743"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.37.32822-a30c8c80d27a43429be6c35010d84743.7z",
-        sha256 = "1897bf7d3765d879f1852c7b60add7dc34ee48a2624fe02a3fd6654871980fdc",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc142-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
-        sha256 = "6c07fd338a559e57468a87a5753e725ff88a3d92191df02abfed8921168269ac",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-a30c8c80d27a43429be6c35010d84743"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-a30c8c80d27a43429be6c35010d84743.7z",
-        sha256 = "761231aa12f1f6224741dc2404a506b473e0980c5d8a7ae63fa6afbed472c055",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-c83a5162b115406e83c8ef6bf711bdda"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-c83a5162b115406e83c8ef6bf711bdda.7z",
-        sha256 = "9d9a7a6a87b59af4e93fa27c35c259b5829c08e9cfd8b87c4b7d6f6461e73246",
+    ["windows-x86-vc14.29.30133-19b299c638514cf7ac190832eafd82a9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-19b299c638514cf7ac190832eafd82a9.7z",
+        sha256 = "8a00558ee8d5bf36e8f56d729c06c819b7cc21bc8a37085533ddb8432e631cdb",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-a30c8c80d27a43429be6c35010d84743"] = {
@@ -79,69 +14,24 @@
         sha256 = "0459f5e87784b844eb2a975a3947ee6679faeac778a4d5225a86e4ff5c29fd8c",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-d37e53b4e48c4f218a39ed699c2d1571"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-d37e53b4e48c4f218a39ed699c2d1571.7z",
-        sha256 = "314ae12f3cbad01cbeb655c310f8a69ee16760d66135b03248becb6e3cd1d95f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-207a8293585c4f6ab97c990c596a513d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.37.32822-207a8293585c4f6ab97c990c596a513d.7z",
-        sha256 = "702ecdb27f21b617cd82e85f21dae7425d18541e7ca769ba031ab5a401493d68",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-8aec902e95d7411db8d68dfe2d9ac4a5.7z",
-        sha256 = "8ffa6ee70e4b6a241ece3a1cf698ea12ddad6155ac2c7c9efe4086397306163e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
-        sha256 = "0228dda0b95c90168a4438ec90f353eb91ea41b3a76e9da48d3130cc7a2663c4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-d86abf26000e423b910a9e0a7d443ac5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-d86abf26000e423b910a9e0a7d443ac5.7z",
-        sha256 = "d0dc4342e83c131e16e58d9767832d6020498e96a303a77125a3a7f061d87ad5",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc142-bc2ac0dc971244728eb1beed087e1310"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-bc2ac0dc971244728eb1beed087e1310.7z",
-        sha256 = "c3daa2161b8acac46f21ec6202dfc5b24c8711fe994baaa987cbfa29876e29f1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-bc2ac0dc971244728eb1beed087e1310"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-bc2ac0dc971244728eb1beed087e1310.7z",
-        sha256 = "fdfdb24c28f839ee6b79e9b6d834f3eaa92bfa54f9481f0468d124e757409ade",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-bc2ac0dc971244728eb1beed087e1310"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-bc2ac0dc971244728eb1beed087e1310.7z",
-        sha256 = "9d57ec17bafca3bba408c1fc0fcef23d86fdc736703d2c9b6583f70aa6fbc9e2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-d86abf26000e423b910a9e0a7d443ac5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-d86abf26000e423b910a9e0a7d443ac5.7z",
-        sha256 = "224cafd117dcb06e142aed5304c1d2f927d87036a99484ace1b49f01553f7aea",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-8aec902e95d7411db8d68dfe2d9ac4a5.7z",
-        sha256 = "4153eb2d433094d6ca421746c8386e76f37de28da8a4684ea7ac78b03fd7510d",
+    ["windows-x64-vc143-a30c8c80d27a43429be6c35010d84743"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-a30c8c80d27a43429be6c35010d84743.7z",
+        sha256 = "f8eede13334b25035a9e8405c92a0f214a3a4210f3890f3ac56e192d632b6dbc",
         toolset = "14.34.31933"
     },
-    ["windows-x86-vc143-bc2ac0dc971244728eb1beed087e1310"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-bc2ac0dc971244728eb1beed087e1310.7z",
-        sha256 = "3b74b97c044a0b6759da3da5a6196fba0dd78b3f4c2a3ed05ce5b27e859bcda8",
-        toolset = "14.34.31933"
+    ["windows-x64-vc14.37.32822-a30c8c80d27a43429be6c35010d84743"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.37.32822-a30c8c80d27a43429be6c35010d84743.7z",
+        sha256 = "1897bf7d3765d879f1852c7b60add7dc34ee48a2624fe02a3fd6654871980fdc",
+        toolset = "14.37.32822"
     },
-    ["windows-x64-vc143-207a8293585c4f6ab97c990c596a513d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-207a8293585c4f6ab97c990c596a513d.7z",
-        sha256 = "34a9e66cea43fa88d3bbea5baafb3634237820b66a3c9bdf278cf0a8ccef1cea",
-        toolset = "14.34.31933"
+    ["windows-x86-vc14.29.30133-c83a5162b115406e83c8ef6bf711bdda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-c83a5162b115406e83c8ef6bf711bdda.7z",
+        sha256 = "9d9a7a6a87b59af4e93fa27c35c259b5829c08e9cfd8b87c4b7d6f6461e73246",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-d86abf26000e423b910a9e0a7d443ac5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-d86abf26000e423b910a9e0a7d443ac5.7z",
-        sha256 = "8cd7134b2b30d589697031a0ff0f7364b08883100ca4c1af988ec5242cc97365",
+    ["windows-x86-vc14.29.30133-4fa7cf6a90624282b386843364071145"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-4fa7cf6a90624282b386843364071145.7z",
+        sha256 = "489c58fae52c02e5669f224c431e4a385db80b808fd3ac0a29171239413eb3cc",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.37.32822-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
@@ -149,14 +39,164 @@
         sha256 = "8e234c3620901a4b358e66df58e2f5a0c8c69cb26a289a81870c3bab35bbb6a7",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc143-c83a5162b115406e83c8ef6bf711bdda"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-c83a5162b115406e83c8ef6bf711bdda.7z",
-        sha256 = "4c67dd7acfa4ae8bc68a547ff948b6b517b75fed9bfeca535776b82124c3649d",
-        toolset = "14.34.31933"
+    ["windows-x64-vc14.29.30133-9f93bd9e69c541d38a5deb2109918760"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-9f93bd9e69c541d38a5deb2109918760.7z",
+        sha256 = "ee44a902bd67547557a1ddc4510ff438fccb1fadcf656c67a92cb93de9898c61",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-207a8293585c4f6ab97c990c596a513d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-207a8293585c4f6ab97c990c596a513d.7z",
+        sha256 = "4e8daa699a0c63347a2611a11031456ebe9751ff22f28d576acc0fc5287dcc24",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.37.32822-c83a5162b115406e83c8ef6bf711bdda"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-c83a5162b115406e83c8ef6bf711bdda.7z",
         sha256 = "407dcc2c459e426f609052a36360094454de78d96c261af971f527607385c2a7",
         toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-bc2ac0dc971244728eb1beed087e1310"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-bc2ac0dc971244728eb1beed087e1310.7z",
+        sha256 = "9d57ec17bafca3bba408c1fc0fcef23d86fdc736703d2c9b6583f70aa6fbc9e2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-b40edfa3eac64fe1914600b658451200"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-b40edfa3eac64fe1914600b658451200.7z",
+        sha256 = "88f0a977b26161f1755e11c36b403b58ab87bd646437fc0ee60cc35b90e08310",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-5a4e5aecf93c4de7a5a247bd7c1a8311"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-5a4e5aecf93c4de7a5a247bd7c1a8311.7z",
+        sha256 = "801e30124bc4594b762fc1c646f93932e90e56a5dfdce02b7f9055bf45b30562",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-d37e53b4e48c4f218a39ed699c2d1571"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-d37e53b4e48c4f218a39ed699c2d1571.7z",
+        sha256 = "314ae12f3cbad01cbeb655c310f8a69ee16760d66135b03248becb6e3cd1d95f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
+        sha256 = "6c07fd338a559e57468a87a5753e725ff88a3d92191df02abfed8921168269ac",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-d86abf26000e423b910a9e0a7d443ac5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-d86abf26000e423b910a9e0a7d443ac5.7z",
+        sha256 = "d0dc4342e83c131e16e58d9767832d6020498e96a303a77125a3a7f061d87ad5",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-bc2ac0dc971244728eb1beed087e1310"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-bc2ac0dc971244728eb1beed087e1310.7z",
+        sha256 = "fdfdb24c28f839ee6b79e9b6d834f3eaa92bfa54f9481f0468d124e757409ade",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-6bee665ab32f42b49e653319594f7a32"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-6bee665ab32f42b49e653319594f7a32.7z",
+        sha256 = "4b1dc89596b9615d1353a04b0891c65e407261864e11f81191b48e99f916ae1a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-a30c8c80d27a43429be6c35010d84743"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-a30c8c80d27a43429be6c35010d84743.7z",
+        sha256 = "761231aa12f1f6224741dc2404a506b473e0980c5d8a7ae63fa6afbed472c055",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-bc2ac0dc971244728eb1beed087e1310"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-bc2ac0dc971244728eb1beed087e1310.7z",
+        sha256 = "3b74b97c044a0b6759da3da5a6196fba0dd78b3f4c2a3ed05ce5b27e859bcda8",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc14.29.30133-ade566ea1bda492f85ba18a85919511b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-ade566ea1bda492f85ba18a85919511b.7z",
+        sha256 = "460bf05018be50d0d97b6f43fd872b8f34e60194195a88caa49a8d76b14ea489",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-207a8293585c4f6ab97c990c596a513d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.37.32822-207a8293585c4f6ab97c990c596a513d.7z",
+        sha256 = "702ecdb27f21b617cd82e85f21dae7425d18541e7ca769ba031ab5a401493d68",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
+        sha256 = "0228dda0b95c90168a4438ec90f353eb91ea41b3a76e9da48d3130cc7a2663c4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-8aec902e95d7411db8d68dfe2d9ac4a5.7z",
+        sha256 = "8ffa6ee70e4b6a241ece3a1cf698ea12ddad6155ac2c7c9efe4086397306163e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-5af8b03be44548ce99a91211a68e6514"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-5af8b03be44548ce99a91211a68e6514.7z",
+        sha256 = "18ffc9d73c109a742e3f74cf634ff1d240c57cadd1663675d722c98f158fa8bd",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-8aec902e95d7411db8d68dfe2d9ac4a5.7z",
+        sha256 = "4153eb2d433094d6ca421746c8386e76f37de28da8a4684ea7ac78b03fd7510d",
+        toolset = "14.34.31933"
+    },
+    ["windows-x64-vc14.37.32822-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.37.32822-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
+        sha256 = "a883b50ece22d092ce275c71bbb804e750c62f663826a92cf6afb88d6f089f3e",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-d86abf26000e423b910a9e0a7d443ac5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-d86abf26000e423b910a9e0a7d443ac5.7z",
+        sha256 = "224cafd117dcb06e142aed5304c1d2f927d87036a99484ace1b49f01553f7aea",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-c83a5162b115406e83c8ef6bf711bdda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-c83a5162b115406e83c8ef6bf711bdda.7z",
+        sha256 = "4c67dd7acfa4ae8bc68a547ff948b6b517b75fed9bfeca535776b82124c3649d",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc143-d86abf26000e423b910a9e0a7d443ac5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-d86abf26000e423b910a9e0a7d443ac5.7z",
+        sha256 = "a51e0d1a52c8601c65748723ff9c501041ade0fa007523fe837ca266949209a6",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc14.37.32822-d37e53b4e48c4f218a39ed699c2d1571"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.37.32822-d37e53b4e48c4f218a39ed699c2d1571.7z",
+        sha256 = "44a57a0823011ad2219297cda9a434ab50f5b485bd257d64a62bbbf32c014318",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-d37e53b4e48c4f218a39ed699c2d1571"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc14.29.30133-d37e53b4e48c4f218a39ed699c2d1571.7z",
+        sha256 = "bdc6110dae112be29501129e13fc3576cfbcbad6cdbde1bb7a99955dfd719310",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-c83a5162b115406e83c8ef6bf711bdda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-c83a5162b115406e83c8ef6bf711bdda.7z",
+        sha256 = "1de7dd88d89250bac00cf440b4682b74e429b698fe7a3a20c1ed3d3b094d07a3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-207a8293585c4f6ab97c990c596a513d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc14.29.30133-207a8293585c4f6ab97c990c596a513d.7z",
+        sha256 = "de0e58117a20a62ed077f71199f7e83982fe77b97c60f9bb9ad73888bbbd584e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-25872b2a0dbf4a50b86e9634fbc06ce7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc143-25872b2a0dbf4a50b86e9634fbc06ce7.7z",
+        sha256 = "4f103bbb5474c388e0e62111232b6b49bdd4cca21552f507f03c613078b13cea",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc143-d37e53b4e48c4f218a39ed699c2d1571"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc143-d37e53b4e48c4f218a39ed699c2d1571.7z",
+        sha256 = "2b1529acc716910a476a4d0a9d72ae475df43e4235a014ce84b0f78b4785edaf",
+        toolset = "14.34.31933"
+    },
+    ["windows-x86-vc142-bc2ac0dc971244728eb1beed087e1310"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-bc2ac0dc971244728eb1beed087e1310.7z",
+        sha256 = "c3daa2161b8acac46f21ec6202dfc5b24c8711fe994baaa987cbfa29876e29f1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-8aec902e95d7411db8d68dfe2d9ac4a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x64-vc142-8aec902e95d7411db8d68dfe2d9ac4a5.7z",
+        sha256 = "9f44d27a9728ed1f8ed64697a9d0a4a43937a7cccaf3e058fde1d5b24ce7fe07",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-d86abf26000e423b910a9e0a7d443ac5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geant4-11.1.0/windows-x86-vc142-d86abf26000e423b910a9e0a7d443ac5.7z",
+        sha256 = "8cd7134b2b30d589697031a0ff0f7364b08883100ca4c1af988ec5242cc97365",
+        toolset = "14.29.30133"
     }
 }
