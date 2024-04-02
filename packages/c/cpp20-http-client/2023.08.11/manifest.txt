@@ -1,22 +1,52 @@
 {
-    ["windows-x64-vc14.37.32822-28d475fdd1b3464e93e12db54699f0e1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-28d475fdd1b3464e93e12db54699f0e1.7z",
-        sha256 = "65164754ceb2ddea6475d69c1d839127fbef06c5db624775c84c68d96aa442c1",
+    ["windows-x86-vc14.29.30133-ea73b3a2681946f4becd2bb857028dab"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-ea73b3a2681946f4becd2bb857028dab.7z",
+        sha256 = "ac5b641948be1e3977c05eab0678f18813ba80bf451be528a1a44ae87ae6204b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-99349522b5044396a72704fb31dd29ca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-99349522b5044396a72704fb31dd29ca.7z",
+        sha256 = "0efb960eb4eb2ea0fa8ece6b1e51b82c99f9fe5a04ccfcb88e860a57d4ac7c18",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-9f87e14d6be34bac8347069ed5382ea3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-9f87e14d6be34bac8347069ed5382ea3.7z",
+        sha256 = "88e43d0e9efed054c2d29dcedad962a7709ea97d16ebaf9d77e3c91193ec8f63",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-9884f8533c814d91b2fc019ad3902017"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.37.32822-9884f8533c814d91b2fc019ad3902017.7z",
+        sha256 = "2d63941fa603484dcd958a030920fd1323068994710ca5ff01666b1f0f7f0df3",
         toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-56257a4556204ca2a0c0dda57a820c9f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-56257a4556204ca2a0c0dda57a820c9f.7z",
-        sha256 = "b7f80b11623fbc1b14a8304f659a9bf137692eada2facb4334e9d622c77d6a38",
+        sha256 = "1e76b75929be6c6ca7c3175e38f1c43ab0b5e8a75503b192776cce5e45d2073f",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.38.33130-26fde786e49d4c43a641d0d35bd427e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-26fde786e49d4c43a641d0d35bd427e4.7z",
-        sha256 = "0a784a3260671f6d5b29eec588f8e3c88860bf91feddff186ee5df1e74bf0406",
+    ["windows-x64-vc14.29.30133-b8b641c7e9c94818953be91f7775c012"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-b8b641c7e9c94818953be91f7775c012.7z",
+        sha256 = "70d05505dab1aa9fdab1e420245625c83dcecdab40c110c919bf3869ffa9f9eb",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-56257a4556204ca2a0c0dda57a820c9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-56257a4556204ca2a0c0dda57a820c9f.7z",
+        sha256 = "d93745308a689aab0833010c7aae3ecca7c0d36e8b11957948102834b4f0a937",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc14.38.33130-b8b641c7e9c94818953be91f7775c012"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-b8b641c7e9c94818953be91f7775c012.7z",
-        sha256 = "6d671d13b26e7498b13092542e777fd3a2b563f1c66869d5988bd4943f101181",
+    ["windows-x86-vc14.29.30133-26fde786e49d4c43a641d0d35bd427e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-26fde786e49d4c43a641d0d35bd427e4.7z",
+        sha256 = "a37853b9bc6af9273615f154a0af857d987c399b3e00fb5f99d8b4f29f192413",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-f9a020412b72454799937db973b65fde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-f9a020412b72454799937db973b65fde.7z",
+        sha256 = "d31b4843635b7055618c99f7c58ca30eeeb67f7fc14953c234d907f83a8c3eb1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-f9a020412b72454799937db973b65fde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-f9a020412b72454799937db973b65fde.7z",
+        sha256 = "7975c20fd3ed47cdfd6fef6f70fccc8fe79083799a5f95cf69c4a44cf1bc4dca",
         toolset = "14.38.33130"
     },
     ["windows-x64-vc14.29.30133-27431e32b15647bd86c8030b8d93cb8b"] = {
@@ -24,14 +54,69 @@
         sha256 = "1da3d9291b490d469c833167a2ca930a2c5aae7c5a5dee7575e06ad176d42992",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.38.33130-99349522b5044396a72704fb31dd29ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-99349522b5044396a72704fb31dd29ca.7z",
-        sha256 = "7d12f5c74dc79016674b24cf141fff5bd6e31fd5f92880ffd9b36554d59ed223",
+    ["windows-x64-vc14.37.32822-28d475fdd1b3464e93e12db54699f0e1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-28d475fdd1b3464e93e12db54699f0e1.7z",
+        sha256 = "65164754ceb2ddea6475d69c1d839127fbef06c5db624775c84c68d96aa442c1",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-a816bcb4e5494b5ebffb6d7cfde1e380"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-a816bcb4e5494b5ebffb6d7cfde1e380.7z",
+        sha256 = "73c8e5ac059248ae9925f32de306cde3e718495eabd2bc2b625a3c5b6b90357b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-07410124960f40478c28c71a5f2b87b8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-07410124960f40478c28c71a5f2b87b8.7z",
+        sha256 = "7d3e3f0250b335b34b7a0a1757573b765018ee04703a5522d8ed2e953f78be8e",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.38.33130-4c45b2a06a384c20b80b50ee06b82f9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-4c45b2a06a384c20b80b50ee06b82f9f.7z",
+        sha256 = "95332876dda76e27576bb409c54edd6c632f9a9bd2ee7698e1c033ce966083a3",
         toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-b8b641c7e9c94818953be91f7775c012"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-b8b641c7e9c94818953be91f7775c012.7z",
+        sha256 = "70bb0d5a53c7a3daa8f4b1ae018e26ca96027efc4e7d48bb4795d973e280f3da",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-4c45b2a06a384c20b80b50ee06b82f9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-4c45b2a06a384c20b80b50ee06b82f9f.7z",
+        sha256 = "9c1f0bb2be488100999042a5465ba23293204b0f2f2b427eae1600446b34efef",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-8d037fba7f42408f9f347d803905b69f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-8d037fba7f42408f9f347d803905b69f.7z",
-        sha256 = "f0ef410a960f8ac86f2eb3a5b2becf660ffb356d22f82a99609c722944ed140e",
+        sha256 = "fa87e080644224274c5427622e0f7aaa2e7432d767afbde807a51b4ba32ae802",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-ea9ee304db074bae805d84c29d579251"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-ea9ee304db074bae805d84c29d579251.7z",
+        sha256 = "9998b63e20cee2660d3c93446bd51674281b9da16576ba60ab501080fc15f88b",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-e78f4f388c4241feb93482540360ae4b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-e78f4f388c4241feb93482540360ae4b.7z",
+        sha256 = "9356733633bb81f79a5ed610021656062be32a14ddd47a24188080b7060d6cf2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-8d037fba7f42408f9f347d803905b69f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-8d037fba7f42408f9f347d803905b69f.7z",
+        sha256 = "b136f8b44d7e8971ceb134f2e2a311ec08a9d8d93c79fb89901e166e5d84e529",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-ea9ee304db074bae805d84c29d579251"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-ea9ee304db074bae805d84c29d579251.7z",
+        sha256 = "4ba291ce1f05a2a2a711cf3a9e339faab3041fbdfa85b5a2480073a6da3171d7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-9f87e14d6be34bac8347069ed5382ea3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-9f87e14d6be34bac8347069ed5382ea3.7z",
+        sha256 = "15fe90346e4037ef9f713e24e51284ab18baa319d90575f8cec02917357532f1",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-9884f8533c814d91b2fc019ad3902017"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-9884f8533c814d91b2fc019ad3902017.7z",
+        sha256 = "a9904903e445d18bf4780eb62efa55f9ec2235c6303767c3bc6db308a24748a8",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-07410124960f40478c28c71a5f2b87b8"] = {
@@ -39,19 +124,19 @@
         sha256 = "c14ad4365f4d387397c168bcd43cfdee0de3e042685a9fa09e9edeb16bac9cfb",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.37.32822-ea73b3a2681946f4becd2bb857028dab"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.37.32822-ea73b3a2681946f4becd2bb857028dab.7z",
-        sha256 = "cd1995d67116ec81ba870fd3e6e779249d8c3e42aa5f3f6299be27470f8c4772",
-        toolset = "14.37.32822"
-    },
     ["windows-x64-vc14.37.32822-27431e32b15647bd86c8030b8d93cb8b"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-27431e32b15647bd86c8030b8d93cb8b.7z",
         sha256 = "b2952b93b675844396e76d01d3f17b0ce6ce320c6fd6b72034cc820704d9fb13",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.37.32822-ea9ee304db074bae805d84c29d579251"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-ea9ee304db074bae805d84c29d579251.7z",
-        sha256 = "9998b63e20cee2660d3c93446bd51674281b9da16576ba60ab501080fc15f88b",
+    ["windows-x86-vc14.37.32822-ea73b3a2681946f4becd2bb857028dab"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.37.32822-ea73b3a2681946f4becd2bb857028dab.7z",
+        sha256 = "cd1995d67116ec81ba870fd3e6e779249d8c3e42aa5f3f6299be27470f8c4772",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-a816bcb4e5494b5ebffb6d7cfde1e380"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.37.32822-a816bcb4e5494b5ebffb6d7cfde1e380.7z",
+        sha256 = "dee41bff0fda3e988c5ed6446f906d8ad3c39224d37ccc07ff65bd4ef98e6301",
         toolset = "14.37.32822"
     },
     ["windows-x86-vc14.37.32822-e78f4f388c4241feb93482540360ae4b"] = {
@@ -59,54 +144,9 @@
         sha256 = "35ed0ed0fc3f367b009f1d56d76be8cb57db0e072d1c0580fc450bbc338c7b23",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.37.32822-07410124960f40478c28c71a5f2b87b8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.37.32822-07410124960f40478c28c71a5f2b87b8.7z",
-        sha256 = "7d3e3f0250b335b34b7a0a1757573b765018ee04703a5522d8ed2e953f78be8e",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-f9a020412b72454799937db973b65fde"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-f9a020412b72454799937db973b65fde.7z",
-        sha256 = "c410c30a8373c46f97f1bfcecfe80fa433fa9f67237fbaf0c2cab571ef052856",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-26fde786e49d4c43a641d0d35bd427e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-26fde786e49d4c43a641d0d35bd427e4.7z",
-        sha256 = "6a7b33955cb85f79076fb85e71aa2423e6355b8bb05575c0d610b9db30b19639",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-f9a020412b72454799937db973b65fde"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-f9a020412b72454799937db973b65fde.7z",
-        sha256 = "ac447ec04175f0a6cfd4ddb57f5a013c86e6b3e9249c3dfcb00e7caf7d66c4aa",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-e78f4f388c4241feb93482540360ae4b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-e78f4f388c4241feb93482540360ae4b.7z",
-        sha256 = "9356733633bb81f79a5ed610021656062be32a14ddd47a24188080b7060d6cf2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-9f87e14d6be34bac8347069ed5382ea3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-9f87e14d6be34bac8347069ed5382ea3.7z",
-        sha256 = "34ee85ce33ac3ae8684ad7a839ec8e1d695fc645380af07afb557a4088818e46",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-a816bcb4e5494b5ebffb6d7cfde1e380"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-a816bcb4e5494b5ebffb6d7cfde1e380.7z",
-        sha256 = "73c8e5ac059248ae9925f32de306cde3e718495eabd2bc2b625a3c5b6b90357b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-a816bcb4e5494b5ebffb6d7cfde1e380"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.37.32822-a816bcb4e5494b5ebffb6d7cfde1e380.7z",
-        sha256 = "dee41bff0fda3e988c5ed6446f906d8ad3c39224d37ccc07ff65bd4ef98e6301",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.38.33130-4c45b2a06a384c20b80b50ee06b82f9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-4c45b2a06a384c20b80b50ee06b82f9f.7z",
-        sha256 = "e23bdba5840547ce2533dbda691d9b967aa6af7414232e1012cc62ac6f119fd3",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-b8b641c7e9c94818953be91f7775c012"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-b8b641c7e9c94818953be91f7775c012.7z",
-        sha256 = "b40f2bfbf8aaabc0f96d260ebc75afbbd0bbbf3d176dcfd0dd7a4e08a6200a62",
+    ["windows-x86-vc14.29.30133-99349522b5044396a72704fb31dd29ca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-99349522b5044396a72704fb31dd29ca.7z",
+        sha256 = "ca4199607e21c920f350f6e1737cdb66ca80066079f55388ba9113e4da0297c0",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-28d475fdd1b3464e93e12db54699f0e1"] = {
@@ -114,49 +154,9 @@
         sha256 = "070d42008a3012d00afff25563068013e6c026a15c736c7541fdce10bea8189a",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.38.33130-8d037fba7f42408f9f347d803905b69f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.38.33130-8d037fba7f42408f9f347d803905b69f.7z",
-        sha256 = "c87fdd975f2f214dcd1274d5fdf433cbe76472f1b5937958161a9a7fd2b3ab7c",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.37.32822-9884f8533c814d91b2fc019ad3902017"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.37.32822-9884f8533c814d91b2fc019ad3902017.7z",
-        sha256 = "2d63941fa603484dcd958a030920fd1323068994710ca5ff01666b1f0f7f0df3",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-99349522b5044396a72704fb31dd29ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-99349522b5044396a72704fb31dd29ca.7z",
-        sha256 = "58431c5f508fb9a46ed7036b75d9aa8f2653a77e34e028d8e3e617fb071ed64c",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-9884f8533c814d91b2fc019ad3902017"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-9884f8533c814d91b2fc019ad3902017.7z",
-        sha256 = "a9904903e445d18bf4780eb62efa55f9ec2235c6303767c3bc6db308a24748a8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ea9ee304db074bae805d84c29d579251"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-ea9ee304db074bae805d84c29d579251.7z",
-        sha256 = "4ba291ce1f05a2a2a711cf3a9e339faab3041fbdfa85b5a2480073a6da3171d7",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-9f87e14d6be34bac8347069ed5382ea3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x64-vc14.29.30133-9f87e14d6be34bac8347069ed5382ea3.7z",
-        sha256 = "74fae6c48edb2c494ce5e5793cba74c92fe079287c6399eb537be1c13e826ebc",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-4c45b2a06a384c20b80b50ee06b82f9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-4c45b2a06a384c20b80b50ee06b82f9f.7z",
-        sha256 = "d4a6ab468b6a96b35059b108cc63f82e16f522322104a41383b3fa46bcfdb30b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-ea73b3a2681946f4becd2bb857028dab"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.29.30133-ea73b3a2681946f4becd2bb857028dab.7z",
-        sha256 = "ac5b641948be1e3977c05eab0678f18813ba80bf451be528a1a44ae87ae6204b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.38.33130-56257a4556204ca2a0c0dda57a820c9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-56257a4556204ca2a0c0dda57a820c9f.7z",
-        sha256 = "7ab3e9269904934a2ce6d14940451aca298572a2b1afbd9bc443165612dd91b2",
+    ["windows-x86-vc14.38.33130-26fde786e49d4c43a641d0d35bd427e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp20-http-client-2023.08.11/windows-x86-vc14.38.33130-26fde786e49d4c43a641d0d35bd427e4.7z",
+        sha256 = "3d70edb6381583d8d4f36f6a9a2f92cfa5fe1d9556dadd9ebbdc462971ca0f73",
         toolset = "14.38.33130"
     }
 }
