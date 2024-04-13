@@ -1,293 +1,243 @@
 {
-    ["windows-x64-vc141-a49255b77080467081db76408f16d664"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-a49255b77080467081db76408f16d664.7z",
-        toolset = "14.16.27023",
-        sha256 = "cdc468107df1691a5e574db6610d057b4d9ddc8ec81cf00f04625aaa54f76c1f"
-    },
-    ["windows-x64-vc142-6070510cdbe4423380449d9482fb5e63"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-6070510cdbe4423380449d9482fb5e63.7z",
+    ["windows-x86-vc142-139319bafac349e4a4ca701ac3979c62"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-139319bafac349e4a4ca701ac3979c62.7z",
         toolset = "14.29.30133",
-        sha256 = "b428f5bfdf511efeb19c1b26a330a0e1bd0719dd8f8bd37b6322831eaf2b8155"
-    },
-    ["windows-x86-vc141-b883d8edf7d7429e81c910ca38b0fe84"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-b883d8edf7d7429e81c910ca38b0fe84.7z",
-        toolset = "14.16.27023",
-        sha256 = "903e477daa003dc87e2f99304ffa9ce1556f1873473bcd81ead89c3ac49ed627"
-    },
-    ["windows-x64-vc141-f43116cbe4db44a685c4627dca2098df"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-f43116cbe4db44a685c4627dca2098df.7z",
-        toolset = "14.16.27023",
-        sha256 = "9e009756257e8f3bd9ce4eea030e9aca225fd43e033006c6397aa17c1800a592"
-    },
-    ["windows-x86-vc142-461ab942fede451889bf1720b3439d03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-461ab942fede451889bf1720b3439d03.7z",
-        toolset = "14.29.30133",
-        sha256 = "aa711c36965453aac98f452ceb87e55f34dd1c426a50a075d26a342c580b6457"
-    },
-    ["windows-x86-vc142-a5a94d93f81b4be59f4e36f668915785"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-a5a94d93f81b4be59f4e36f668915785.7z",
-        toolset = "14.29.30133",
-        sha256 = "6e8f080d7a4d7bc6d2e704256b06a182c3ccea215059469096286dd29836065e"
-    },
-    ["windows-x64-vc141-56363b9ea99a412bbe5213438c4ba5fd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-56363b9ea99a412bbe5213438c4ba5fd.7z",
-        toolset = "14.16.27023",
-        sha256 = "a2fff81649f809747aec63bafdf338e7137bbd8f851d6162499e72a32830b260"
-    },
-    ["windows-x64-vc142-56363b9ea99a412bbe5213438c4ba5fd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-56363b9ea99a412bbe5213438c4ba5fd.7z",
-        toolset = "14.29.30133",
-        sha256 = "6933fae977b2092c6a4500e5e4296cd78bf19c19ae6cfde557ba2e228e850796"
-    },
-    ["windows-x86-vc14.29.30133-139319bafac349e4a4ca701ac3979c62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-139319bafac349e4a4ca701ac3979c62.7z",
-        sha256 = "7a039e0823ba41420fec3a08e53d83820b857f55840797f92a7933a7c7a08ca3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-a5a94d93f81b4be59f4e36f668915785"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-a5a94d93f81b4be59f4e36f668915785.7z",
-        sha256 = "ca810dfb54dfe2590baffe676dc1485ca94dd54dffb3159c7f047c00f7a014fc",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-ac55321f18e44af3a941881ad9740a3d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-ac55321f18e44af3a941881ad9740a3d.7z",
-        toolset = "14.29.30133",
-        sha256 = "e4acdec106e45103d7243708c335b81ea1c7e00f091102170ee71c8d2468b203"
-    },
-    ["windows-x86-vc141-c588a9ab0c494e3d8edc6fca81f24fd8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-c588a9ab0c494e3d8edc6fca81f24fd8.7z",
-        toolset = "14.16.27023",
-        sha256 = "7557d2205009c9e35453c3dc9ed2f0c0b656ff0b4f794c11e76005a179d1f285"
-    },
-    ["windows-x86-vc142-99824a8cb0bd4cee81a601caceae3a94"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-99824a8cb0bd4cee81a601caceae3a94.7z",
-        toolset = "14.29.30133",
-        sha256 = "9611ea0cbe81584a3cfcadf073b7b37e480dba921572cb58930bfe528f2076b8"
-    },
-    ["windows-x86-vc142-f6c2f2e40a0e4266abc7b08d20ec01d9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-f6c2f2e40a0e4266abc7b08d20ec01d9.7z",
-        toolset = "14.29.30133",
-        sha256 = "533e255633cc1d66df6250d8ebea16d7f2ed067cc4d34c4cf3417409ba2e0c28"
-    },
-    ["windows-x86-vc14.37.32822-5bfc6c247b3843749f527296487b0cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-5bfc6c247b3843749f527296487b0cb0.7z",
-        sha256 = "1d58dec28921c84689608527e677ebf2300355680dbb2b68ec191b04f367e728",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc142-88a0e53c736f42c7aaffc4ac19a5e581"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-88a0e53c736f42c7aaffc4ac19a5e581.7z",
-        toolset = "14.29.30133",
-        sha256 = "368f0f9757328aa696d2e3f1b4c777e7a66d2b2fae0822c2739a49e50a2e21c0"
+        sha256 = "44d6c9b3666839cf0e68b94292887c2f396140c89a83bd67d22b14696c647017"
     },
     ["windows-x86-vc141-7f6915ae41524015b29d414a2faf48be"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-7f6915ae41524015b29d414a2faf48be.7z",
         toolset = "14.16.27023",
         sha256 = "88a261ca6b161f329ebc6c2bfdde851634236fa5728a3fe265be5c317436afa1"
     },
-    ["windows-x86-vc142-63540e9f51214d49b33152a1fb11d1fa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-63540e9f51214d49b33152a1fb11d1fa.7z",
-        toolset = "14.29.30133",
-        sha256 = "90b7b3d530582d2533ec1731feda253a99d6f9a51ce74cdb048a9a4bd718e84a"
-    },
     ["windows-x64-vc14.29.30133-178d6d225a2e4311b90a037c75c37a33"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-178d6d225a2e4311b90a037c75c37a33.7z",
-        sha256 = "56a01fcd6c0ab0e9d8e62b6c417fa3bfc5f451224307eff2019ab6bf6096ce30",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "56a01fcd6c0ab0e9d8e62b6c417fa3bfc5f451224307eff2019ab6bf6096ce30"
     },
-    ["windows-x64-vc141-0ebe653a88094511a5bd393c64c56add"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-0ebe653a88094511a5bd393c64c56add.7z",
+    ["windows-x86-vc142-88a0e53c736f42c7aaffc4ac19a5e581"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-88a0e53c736f42c7aaffc4ac19a5e581.7z",
+        toolset = "14.29.30133",
+        sha256 = "368f0f9757328aa696d2e3f1b4c777e7a66d2b2fae0822c2739a49e50a2e21c0"
+    },
+    ["windows-x64-vc141-06de948c951b424d86015964de20a931"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-06de948c951b424d86015964de20a931.7z",
         toolset = "14.16.27023",
-        sha256 = "84a99c9422a3ba8b4ea66490a821873bbf2004f3c1c383ce01f3a634f3779299"
+        sha256 = "a6ccb66bce882168aaa5eda948349848ca626aa120f58cff6f22568283d4024f"
     },
-    ["windows-x86-vc142-75a003da68b14604a82f5b1cbbf3b7f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-75a003da68b14604a82f5b1cbbf3b7f5.7z",
+    ["windows-x86-vc14.29.30133-ba9ab9d94bd042beb8daa5c2bed0156d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-ba9ab9d94bd042beb8daa5c2bed0156d.7z",
         toolset = "14.29.30133",
-        sha256 = "05a5df32189dc7d5ff2a52fad938c39b960cc62ea5a8553ce2f011baa5f1100f"
+        sha256 = "f2b2f2770849ee480342fc85ad1b7f9ea207efcc70422eee0fd7f00edfb4eb12"
     },
-    ["windows-x64-vc14.37.32822-a49255b77080467081db76408f16d664"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-a49255b77080467081db76408f16d664.7z",
-        sha256 = "99205410dbae3d189e5022ae130209fb05a9542644ec10309696a800fd1ddbe3",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc142-b883d8edf7d7429e81c910ca38b0fe84"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-b883d8edf7d7429e81c910ca38b0fe84.7z",
+    ["windows-x64-vc142-6070510cdbe4423380449d9482fb5e63"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-6070510cdbe4423380449d9482fb5e63.7z",
         toolset = "14.29.30133",
-        sha256 = "6f2fcf709d372808a103017e4ab7f082aa2eb46990bfe0ff2d457b899602ecd3"
-    },
-    ["windows-x64-vc14.37.32822-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
-        sha256 = "d2f4f5c05e9b4b213ffc517aa62c3ed324bfc95858149c4268772cb793c29df8",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc142-c588a9ab0c494e3d8edc6fca81f24fd8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-c588a9ab0c494e3d8edc6fca81f24fd8.7z",
-        toolset = "14.29.30133",
-        sha256 = "03bf89fbee34d967fb08b65a23f782ba3f0baa750c31214de45d9bf77ec41026"
-    },
-    ["windows-x64-vc14.29.30133-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
-        sha256 = "8817be840740c4757426817ed62a28a7e63b99aad7b870260c9d517501ff35b8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-4bf5d45c081349279069b3fae703759e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-4bf5d45c081349279069b3fae703759e.7z",
-        toolset = "14.16.27023",
-        sha256 = "3227bbe8e578ba7e5d987e1c2a7ae6f6527a9cc4a17dfd607acda84b11779bda"
-    },
-    ["windows-x64-vc142-0ebe653a88094511a5bd393c64c56add"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-0ebe653a88094511a5bd393c64c56add.7z",
-        toolset = "14.29.30133",
-        sha256 = "d4db5840c0f1c68e7f640de7c4c2c699ed86ba5ae7d83d73a2501badbb8553c5"
-    },
-    ["windows-x86-vc142-5bfc6c247b3843749f527296487b0cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-5bfc6c247b3843749f527296487b0cb0.7z",
-        toolset = "14.29.30133",
-        sha256 = "cae294fb189dff1d300287c53cdda014422b283a2074be4f022ee157088bf950"
-    },
-    ["windows-x64-vc141-6070510cdbe4423380449d9482fb5e63"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-6070510cdbe4423380449d9482fb5e63.7z",
-        toolset = "14.16.27023",
-        sha256 = "3d5d10f46391d604299300e97adcbd06ec20e70692ea47b42780ffa86c29f691"
-    },
-    ["windows-x86-vc14.37.32822-d4bd0205e7d7466fb11898645892c05c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-d4bd0205e7d7466fb11898645892c05c.7z",
-        sha256 = "3c57e25f081f7e6dd85c289d8d371e2745cf7829bb3c252972b7daddf825c56e",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-178d6d225a2e4311b90a037c75c37a33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-178d6d225a2e4311b90a037c75c37a33.7z",
-        sha256 = "a70346ab8f5287a49cf03930510e2034479a041229cd98b22025f76adf3a1dbe",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc142-02732642f1c64d93ac5b8e33d47fe423"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-02732642f1c64d93ac5b8e33d47fe423.7z",
-        toolset = "14.29.30133",
-        sha256 = "2503bce28238ac575d5a6fedda9ffc0fe87d10d398d012e4f4a552ec906966ba"
-    },
-    ["windows-x64-vc141-178d6d225a2e4311b90a037c75c37a33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-178d6d225a2e4311b90a037c75c37a33.7z",
-        toolset = "14.16.27023",
-        sha256 = "3b1df771137b241455c480a8cc13fe12d8ef46dbc9d76df771f21c8c2739994c"
-    },
-    ["windows-x64-vc142-b37d42933b614ac3b8212a90283ff59f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-b37d42933b614ac3b8212a90283ff59f.7z",
-        toolset = "14.29.30133",
-        sha256 = "308a1c5a27876e79752ebdbb0c4fbea70ae9386806fd11d426fcb7d9766c3251"
-    },
-    ["windows-x64-vc14.37.32822-73cec713904d422db4cc08532110b842"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-73cec713904d422db4cc08532110b842.7z",
-        sha256 = "a73428fb689499a79d077dde1757d0d514d6e50621886ce3dfc8e7fed82d694b",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-139319bafac349e4a4ca701ac3979c62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-139319bafac349e4a4ca701ac3979c62.7z",
-        sha256 = "42500c499c373b2276ab5958050f6cb8c2759d40cfecc6e232518a4458a66403",
-        toolset = "14.37.32822"
+        sha256 = "b428f5bfdf511efeb19c1b26a330a0e1bd0719dd8f8bd37b6322831eaf2b8155"
     },
     ["windows-x86-vc141-5bfc6c247b3843749f527296487b0cb0"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-5bfc6c247b3843749f527296487b0cb0.7z",
         toolset = "14.16.27023",
         sha256 = "30f614af75c686570b6f738031604df0aa0ecda4407f93892e70f28f75c3eb14"
     },
-    ["windows-x64-vc142-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
+    ["windows-x64-vc14.29.30133-2b2a3c9c6a64447a8f02258746aa0e99"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-2b2a3c9c6a64447a8f02258746aa0e99.7z",
         toolset = "14.29.30133",
-        sha256 = "8a168653faef402ab067580fe0fd0de4ea7bda773f1c7576252f68347565b0a0"
+        sha256 = "57e1a9e77cfd0abdf8581e42401c1680ed0cf48e983c29562659a84cdf1db673"
     },
-    ["windows-x64-vc141-73cec713904d422db4cc08532110b842"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-73cec713904d422db4cc08532110b842.7z",
-        toolset = "14.16.27023",
-        sha256 = "4de1a66b3a5558ecf7c5a20c8821d110827de083fb9f23563792240681657009"
-    },
-    ["windows-x86-vc141-a5a94d93f81b4be59f4e36f668915785"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-a5a94d93f81b4be59f4e36f668915785.7z",
-        toolset = "14.16.27023",
-        sha256 = "db87004a236d60f35e0f750bc8e9f640d794f864d13dc09795bc921515d19e83"
-    },
-    ["windows-x86-vc141-af762fb790504f04926df93affb9e560"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-af762fb790504f04926df93affb9e560.7z",
-        toolset = "14.16.27023",
-        sha256 = "bafb186226e0d9c212e8992169eb9826a8bff6a47748b4753011965b7e24b8cf"
-    },
-    ["windows-x86-vc141-63540e9f51214d49b33152a1fb11d1fa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-63540e9f51214d49b33152a1fb11d1fa.7z",
-        toolset = "14.16.27023",
-        sha256 = "9631d35e56890d5d27dac49581528ec0fbfbbb299e78391491c7cc0723c3d5e6"
-    },
-    ["windows-x64-vc142-4bf5d45c081349279069b3fae703759e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-4bf5d45c081349279069b3fae703759e.7z",
+    ["windows-x86-vc142-99824a8cb0bd4cee81a601caceae3a94"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-99824a8cb0bd4cee81a601caceae3a94.7z",
         toolset = "14.29.30133",
-        sha256 = "4ce8b509df2d21e1307a7d7645f0edfecab828a04ed071e3692f6ad2ee43e087"
+        sha256 = "9611ea0cbe81584a3cfcadf073b7b37e480dba921572cb58930bfe528f2076b8"
     },
-    ["windows-x64-vc142-a49255b77080467081db76408f16d664"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-a49255b77080467081db76408f16d664.7z",
+    ["windows-x86-vc14.29.30133-a5a94d93f81b4be59f4e36f668915785"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-a5a94d93f81b4be59f4e36f668915785.7z",
         toolset = "14.29.30133",
-        sha256 = "4d3a2c4c43d674ceef63f8f2fd4eeffa4036001d369eb7419cd4e7a9c1f57222"
+        sha256 = "ca810dfb54dfe2590baffe676dc1485ca94dd54dffb3159c7f047c00f7a014fc"
     },
-    ["windows-x86-vc14.29.30133-d4bd0205e7d7466fb11898645892c05c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-d4bd0205e7d7466fb11898645892c05c.7z",
-        sha256 = "1e3ea9216abaa626399d137ce015e88d56b44bdbb43e95aa5a71e19e8e2486be",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
+        toolset = "14.37.32822",
+        sha256 = "d2f4f5c05e9b4b213ffc517aa62c3ed324bfc95858149c4268772cb793c29df8"
     },
-    ["windows-x86-vc141-d4bd0205e7d7466fb11898645892c05c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-d4bd0205e7d7466fb11898645892c05c.7z",
-        toolset = "14.16.27023",
-        sha256 = "57a89fa54c3d728d3affec48b02b73c2f837b559378590135a608aab6f14a072"
-    },
-    ["windows-x64-vc142-90018749ba864d7cb0d91ce9b6e34cfb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-90018749ba864d7cb0d91ce9b6e34cfb.7z",
+    ["windows-x64-vc142-1dbc6c31ef6c415d97c9c4e1aabe21f6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-1dbc6c31ef6c415d97c9c4e1aabe21f6.7z",
         toolset = "14.29.30133",
-        sha256 = "2cda615fea81ef7ecb91126770c4a66408ebe2efb022e251c1deaa70fe340642"
+        sha256 = "4257718de854d701c8bbba6bb000f477eed04e16b159c43ee158ecfca234ae40"
     },
-    ["windows-x64-vc142-f43116cbe4db44a685c4627dca2098df"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-f43116cbe4db44a685c4627dca2098df.7z",
+    ["windows-x86-vc142-75a003da68b14604a82f5b1cbbf3b7f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-75a003da68b14604a82f5b1cbbf3b7f5.7z",
         toolset = "14.29.30133",
-        sha256 = "296e92ff3e1f857ccc8a8a06177051d52d68a71ebd91f4c5ab447424c582b464"
-    },
-    ["windows-x86-vc142-7f6915ae41524015b29d414a2faf48be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-7f6915ae41524015b29d414a2faf48be.7z",
-        toolset = "14.29.30133",
-        sha256 = "91ce1b46a7680e5b01566738fc6c136a498f1a33475f493fce6d4ed3f3baad95"
-    },
-    ["windows-x86-vc141-75a003da68b14604a82f5b1cbbf3b7f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-75a003da68b14604a82f5b1cbbf3b7f5.7z",
-        toolset = "14.16.27023",
-        sha256 = "af62dc4f7af00706d7fb2f2b61119af52756408b3ac9640749a11e45aa3303ff"
+        sha256 = "05a5df32189dc7d5ff2a52fad938c39b960cc62ea5a8553ce2f011baa5f1100f"
     },
     ["windows-x86-vc141-ac55321f18e44af3a941881ad9740a3d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-ac55321f18e44af3a941881ad9740a3d.7z",
         toolset = "14.16.27023",
         sha256 = "f5a20d4e3af6ef0e30bef5c53000cee1fef494c4da529dbf34b9ccfafcaf3ac5"
     },
-    ["windows-x64-vc14.29.30133-73cec713904d422db4cc08532110b842"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-73cec713904d422db4cc08532110b842.7z",
-        sha256 = "f3efdffee487ceb6b2404f80a97f3ea909f603f1143c0cd89329a813b28b26a9",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-c40dd676a160450aa97d6e82a79377f0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-c40dd676a160450aa97d6e82a79377f0.7z",
+        toolset = "14.29.30133",
+        sha256 = "bcc48ad5a53a6d69b5b8f5b33270d4fbae523c655497cbb8eb461e26cbb9060b"
     },
-    ["windows-x64-vc141-598a07de2c234717ad63781bdf90b273"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-598a07de2c234717ad63781bdf90b273.7z",
+    ["windows-x64-vc142-f43116cbe4db44a685c4627dca2098df"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-f43116cbe4db44a685c4627dca2098df.7z",
+        toolset = "14.29.30133",
+        sha256 = "296e92ff3e1f857ccc8a8a06177051d52d68a71ebd91f4c5ab447424c582b464"
+    },
+    ["windows-x64-vc141-02732642f1c64d93ac5b8e33d47fe423"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-02732642f1c64d93ac5b8e33d47fe423.7z",
         toolset = "14.16.27023",
-        sha256 = "89e1edd0fa26394524afdab32ccac58243db5c1e6fd4920cd25010a29957de38"
+        sha256 = "5a7911cad055576a5832d183d97bc87c4dafcf926693061ab4f665525cffc529"
     },
-    ["windows-x64-vc141-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
+    ["windows-x64-vc141-a49255b77080467081db76408f16d664"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-a49255b77080467081db76408f16d664.7z",
         toolset = "14.16.27023",
-        sha256 = "006abfa0900bc92947c9371595c6f5645b82d218ba0fbf9fed9ca3bb335fb1d4"
+        sha256 = "cdc468107df1691a5e574db6610d057b4d9ddc8ec81cf00f04625aaa54f76c1f"
     },
-    ["windows-x86-vc142-af762fb790504f04926df93affb9e560"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-af762fb790504f04926df93affb9e560.7z",
+    ["windows-x86-vc14.29.30133-5bfc6c247b3843749f527296487b0cb0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-5bfc6c247b3843749f527296487b0cb0.7z",
         toolset = "14.29.30133",
-        sha256 = "a2d7b566280592d0663b164548caa25b6db1857ec2af2ec61bbb27047a4c0b4e"
+        sha256 = "fb1bb0a25bcaab37613af72790b1e0f622065feaf113671a2096d5993fada211"
     },
-    ["windows-x86-vc142-1bbb33e21d704e7391e5ba86c2f448d0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-1bbb33e21d704e7391e5ba86c2f448d0.7z",
-        toolset = "14.29.30133",
-        sha256 = "4b8aeaf0c8b757467f36e74d868258e98e979bb44beb4c57696b89b12d56f677"
+    ["windows-x86-vc141-af762fb790504f04926df93affb9e560"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-af762fb790504f04926df93affb9e560.7z",
+        toolset = "14.16.27023",
+        sha256 = "bafb186226e0d9c212e8992169eb9826a8bff6a47748b4753011965b7e24b8cf"
     },
-    ["windows-x64-vc142-06de948c951b424d86015964de20a931"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-06de948c951b424d86015964de20a931.7z",
+    ["windows-x86-vc141-139319bafac349e4a4ca701ac3979c62"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-139319bafac349e4a4ca701ac3979c62.7z",
+        toolset = "14.16.27023",
+        sha256 = "450cdcec193d2a532210d4de51459d07f0dd31fe6b6111b2403d282863bbb6ec"
+    },
+    ["windows-x64-vc142-0ebe653a88094511a5bd393c64c56add"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-0ebe653a88094511a5bd393c64c56add.7z",
         toolset = "14.29.30133",
-        sha256 = "905def7412b01c5f023b91500e0aff1b9bcc1821238d2fe6b6effc9c4b509c6e"
+        sha256 = "d4db5840c0f1c68e7f640de7c4c2c699ed86ba5ae7d83d73a2501badbb8553c5"
+    },
+    ["windows-x64-vc14.29.30133-c24cb0727af94b3eb21ca1d9bf2b266d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-c24cb0727af94b3eb21ca1d9bf2b266d.7z",
+        toolset = "14.29.30133",
+        sha256 = "f19ae9217ff16ff7cdc2d1cf73f4a689ef1b9ace905f02e9ca3ed47d2a58dddf"
+    },
+    ["windows-x86-vc142-f6c2f2e40a0e4266abc7b08d20ec01d9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-f6c2f2e40a0e4266abc7b08d20ec01d9.7z",
+        toolset = "14.29.30133",
+        sha256 = "533e255633cc1d66df6250d8ebea16d7f2ed067cc4d34c4cf3417409ba2e0c28"
+    },
+    ["windows-x64-vc14.29.30133-71cdbbf0be284b5a9cb63820e1686c17"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-71cdbbf0be284b5a9cb63820e1686c17.7z",
+        toolset = "14.29.30133",
+        sha256 = "2202266d342233d8340fd0c4de69cd66ae17f2ea6575730b8bad2f406f4fe7f9"
+    },
+    ["windows-x86-vc14.37.32822-a5a94d93f81b4be59f4e36f668915785"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-a5a94d93f81b4be59f4e36f668915785.7z",
+        toolset = "14.37.32822",
+        sha256 = "762a2642abcd9357902ac82a37945c960e72585c49aa72ec3a29da39161330f6"
+    },
+    ["windows-x64-vc142-02732642f1c64d93ac5b8e33d47fe423"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-02732642f1c64d93ac5b8e33d47fe423.7z",
+        toolset = "14.29.30133",
+        sha256 = "2503bce28238ac575d5a6fedda9ffc0fe87d10d398d012e4f4a552ec906966ba"
+    },
+    ["windows-x64-vc14.29.30133-a49255b77080467081db76408f16d664"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-a49255b77080467081db76408f16d664.7z",
+        toolset = "14.29.30133",
+        sha256 = "849b9b2eb58bd49f31422b9d9555b77551fd8700b49daae584659ec23f1cb6b7"
+    },
+    ["windows-x86-vc142-c588a9ab0c494e3d8edc6fca81f24fd8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-c588a9ab0c494e3d8edc6fca81f24fd8.7z",
+        toolset = "14.29.30133",
+        sha256 = "03bf89fbee34d967fb08b65a23f782ba3f0baa750c31214de45d9bf77ec41026"
+    },
+    ["windows-x86-vc142-7f6915ae41524015b29d414a2faf48be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-7f6915ae41524015b29d414a2faf48be.7z",
+        toolset = "14.29.30133",
+        sha256 = "91ce1b46a7680e5b01566738fc6c136a498f1a33475f493fce6d4ed3f3baad95"
+    },
+    ["windows-x86-vc14.38.33130-c40dd676a160450aa97d6e82a79377f0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.38.33130-c40dd676a160450aa97d6e82a79377f0.7z",
+        toolset = "14.38.33130",
+        sha256 = "5f362c0af74e2c3f68bce77b0071e596783c8f7833e51a8e73999d2f56d18992"
+    },
+    ["windows-x86-vc142-d4bd0205e7d7466fb11898645892c05c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-d4bd0205e7d7466fb11898645892c05c.7z",
+        toolset = "14.29.30133",
+        sha256 = "f0599097b14da7c59f5f014ef4c74f4ae29b0e56dd51238674551d08599d1c8d"
+    },
+    ["windows-x86-vc142-461ab942fede451889bf1720b3439d03"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-461ab942fede451889bf1720b3439d03.7z",
+        toolset = "14.29.30133",
+        sha256 = "aa711c36965453aac98f452ceb87e55f34dd1c426a50a075d26a342c580b6457"
+    },
+    ["windows-x86-vc14.38.33130-ba9ab9d94bd042beb8daa5c2bed0156d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.38.33130-ba9ab9d94bd042beb8daa5c2bed0156d.7z",
+        toolset = "14.38.33130",
+        sha256 = "d8193117ee7201347b43bc3352f4311ba471413f8f45143114f258ac1303d3be"
+    },
+    ["windows-x64-vc14.37.32822-a49255b77080467081db76408f16d664"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-a49255b77080467081db76408f16d664.7z",
+        toolset = "14.37.32822",
+        sha256 = "99205410dbae3d189e5022ae130209fb05a9542644ec10309696a800fd1ddbe3"
+    },
+    ["windows-x86-vc142-63540e9f51214d49b33152a1fb11d1fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-63540e9f51214d49b33152a1fb11d1fa.7z",
+        toolset = "14.29.30133",
+        sha256 = "90b7b3d530582d2533ec1731feda253a99d6f9a51ce74cdb048a9a4bd718e84a"
+    },
+    ["windows-x64-vc141-6070510cdbe4423380449d9482fb5e63"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-6070510cdbe4423380449d9482fb5e63.7z",
+        toolset = "14.16.27023",
+        sha256 = "3d5d10f46391d604299300e97adcbd06ec20e70692ea47b42780ffa86c29f691"
+    },
+    ["windows-x64-vc141-f43116cbe4db44a685c4627dca2098df"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-f43116cbe4db44a685c4627dca2098df.7z",
+        toolset = "14.16.27023",
+        sha256 = "9e009756257e8f3bd9ce4eea030e9aca225fd43e033006c6397aa17c1800a592"
+    },
+    ["windows-x86-vc14.37.32822-139319bafac349e4a4ca701ac3979c62"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-139319bafac349e4a4ca701ac3979c62.7z",
+        toolset = "14.37.32822",
+        sha256 = "42500c499c373b2276ab5958050f6cb8c2759d40cfecc6e232518a4458a66403"
+    },
+    ["windows-x86-vc14.29.30133-139319bafac349e4a4ca701ac3979c62"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-139319bafac349e4a4ca701ac3979c62.7z",
+        toolset = "14.29.30133",
+        sha256 = "7a039e0823ba41420fec3a08e53d83820b857f55840797f92a7933a7c7a08ca3"
+    },
+    ["windows-x64-vc14.37.32822-178d6d225a2e4311b90a037c75c37a33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-178d6d225a2e4311b90a037c75c37a33.7z",
+        toolset = "14.37.32822",
+        sha256 = "a70346ab8f5287a49cf03930510e2034479a041229cd98b22025f76adf3a1dbe"
+    },
+    ["windows-x64-vc142-b37d42933b614ac3b8212a90283ff59f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-b37d42933b614ac3b8212a90283ff59f.7z",
+        toolset = "14.29.30133",
+        sha256 = "308a1c5a27876e79752ebdbb0c4fbea70ae9386806fd11d426fcb7d9766c3251"
+    },
+    ["windows-x64-vc141-178d6d225a2e4311b90a037c75c37a33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-178d6d225a2e4311b90a037c75c37a33.7z",
+        toolset = "14.16.27023",
+        sha256 = "3b1df771137b241455c480a8cc13fe12d8ef46dbc9d76df771f21c8c2739994c"
+    },
+    ["windows-x64-vc14.38.33130-71cdbbf0be284b5a9cb63820e1686c17"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.38.33130-71cdbbf0be284b5a9cb63820e1686c17.7z",
+        toolset = "14.38.33130",
+        sha256 = "96de751193314cc6cd37fce42c5dc365c829839904482bac5f8d90ae2cc9b4a3"
+    },
+    ["windows-x86-vc14.38.33130-dcf0d10387c14b8984e3e07be082738e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.38.33130-dcf0d10387c14b8984e3e07be082738e.7z",
+        toolset = "14.38.33130",
+        sha256 = "1df4c0b53474ffe76c825b69cca1cd475465a85c3e166a3cbb5c48e591c2f29c"
+    },
+    ["windows-x86-vc141-c588a9ab0c494e3d8edc6fca81f24fd8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-c588a9ab0c494e3d8edc6fca81f24fd8.7z",
+        toolset = "14.16.27023",
+        sha256 = "7557d2205009c9e35453c3dc9ed2f0c0b656ff0b4f794c11e76005a179d1f285"
+    },
+    ["windows-x86-vc14.37.32822-d4bd0205e7d7466fb11898645892c05c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-d4bd0205e7d7466fb11898645892c05c.7z",
+        toolset = "14.37.32822",
+        sha256 = "3c57e25f081f7e6dd85c289d8d371e2745cf7829bb3c252972b7daddf825c56e"
     },
     ["windows-x64-vc142-73cec713904d422db4cc08532110b842"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-73cec713904d422db4cc08532110b842.7z",
@@ -299,64 +249,194 @@
         toolset = "14.29.30133",
         sha256 = "a34461bd68865f46e2b3abb76352784939bf731cc54c1ba09c9132eea5b2f416"
     },
-    ["windows-x86-vc142-139319bafac349e4a4ca701ac3979c62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-139319bafac349e4a4ca701ac3979c62.7z",
+    ["windows-x64-vc14.29.30133-f40476a4516c4b05ad286df01da96b59"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-f40476a4516c4b05ad286df01da96b59.7z",
         toolset = "14.29.30133",
-        sha256 = "44d6c9b3666839cf0e68b94292887c2f396140c89a83bd67d22b14696c647017"
+        sha256 = "a7e6bf305e1ea1fb41b9fd57c15ed457d8a202f4320a494e590320e500a21331"
     },
-    ["windows-x86-vc14.37.32822-a5a94d93f81b4be59f4e36f668915785"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-a5a94d93f81b4be59f4e36f668915785.7z",
-        sha256 = "762a2642abcd9357902ac82a37945c960e72585c49aa72ec3a29da39161330f6",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.37.32822-73cec713904d422db4cc08532110b842"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.37.32822-73cec713904d422db4cc08532110b842.7z",
+        toolset = "14.37.32822",
+        sha256 = "a73428fb689499a79d077dde1757d0d514d6e50621886ce3dfc8e7fed82d694b"
+    },
+    ["windows-x64-vc142-4bf5d45c081349279069b3fae703759e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-4bf5d45c081349279069b3fae703759e.7z",
+        toolset = "14.29.30133",
+        sha256 = "4ce8b509df2d21e1307a7d7645f0edfecab828a04ed071e3692f6ad2ee43e087"
+    },
+    ["windows-x86-vc142-b883d8edf7d7429e81c910ca38b0fe84"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-b883d8edf7d7429e81c910ca38b0fe84.7z",
+        toolset = "14.29.30133",
+        sha256 = "6f2fcf709d372808a103017e4ab7f082aa2eb46990bfe0ff2d457b899602ecd3"
+    },
+    ["windows-x86-vc141-a5a94d93f81b4be59f4e36f668915785"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-a5a94d93f81b4be59f4e36f668915785.7z",
+        toolset = "14.16.27023",
+        sha256 = "db87004a236d60f35e0f750bc8e9f640d794f864d13dc09795bc921515d19e83"
+    },
+    ["windows-x86-vc142-5bfc6c247b3843749f527296487b0cb0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-5bfc6c247b3843749f527296487b0cb0.7z",
+        toolset = "14.29.30133",
+        sha256 = "cae294fb189dff1d300287c53cdda014422b283a2074be4f022ee157088bf950"
+    },
+    ["windows-x64-vc142-56363b9ea99a412bbe5213438c4ba5fd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-56363b9ea99a412bbe5213438c4ba5fd.7z",
+        toolset = "14.29.30133",
+        sha256 = "6933fae977b2092c6a4500e5e4296cd78bf19c19ae6cfde557ba2e228e850796"
+    },
+    ["windows-x64-vc142-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
+        toolset = "14.29.30133",
+        sha256 = "8a168653faef402ab067580fe0fd0de4ea7bda773f1c7576252f68347565b0a0"
+    },
+    ["windows-x86-vc142-ac55321f18e44af3a941881ad9740a3d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-ac55321f18e44af3a941881ad9740a3d.7z",
+        toolset = "14.29.30133",
+        sha256 = "e4acdec106e45103d7243708c335b81ea1c7e00f091102170ee71c8d2468b203"
+    },
+    ["windows-x86-vc14.37.32822-5bfc6c247b3843749f527296487b0cb0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.37.32822-5bfc6c247b3843749f527296487b0cb0.7z",
+        toolset = "14.37.32822",
+        sha256 = "1d58dec28921c84689608527e677ebf2300355680dbb2b68ec191b04f367e728"
+    },
+    ["windows-x64-vc14.29.30133-73cec713904d422db4cc08532110b842"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-73cec713904d422db4cc08532110b842.7z",
+        toolset = "14.29.30133",
+        sha256 = "f3efdffee487ceb6b2404f80a97f3ea909f603f1143c0cd89329a813b28b26a9"
+    },
+    ["windows-x64-vc142-a49255b77080467081db76408f16d664"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-a49255b77080467081db76408f16d664.7z",
+        toolset = "14.29.30133",
+        sha256 = "4d3a2c4c43d674ceef63f8f2fd4eeffa4036001d369eb7419cd4e7a9c1f57222"
+    },
+    ["windows-x86-vc141-b883d8edf7d7429e81c910ca38b0fe84"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-b883d8edf7d7429e81c910ca38b0fe84.7z",
+        toolset = "14.16.27023",
+        sha256 = "903e477daa003dc87e2f99304ffa9ce1556f1873473bcd81ead89c3ac49ed627"
+    },
+    ["windows-x86-vc14.29.30133-d4bd0205e7d7466fb11898645892c05c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-d4bd0205e7d7466fb11898645892c05c.7z",
+        toolset = "14.29.30133",
+        sha256 = "1e3ea9216abaa626399d137ce015e88d56b44bdbb43e95aa5a71e19e8e2486be"
+    },
+    ["windows-x86-vc142-a5a94d93f81b4be59f4e36f668915785"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-a5a94d93f81b4be59f4e36f668915785.7z",
+        toolset = "14.29.30133",
+        sha256 = "6e8f080d7a4d7bc6d2e704256b06a182c3ccea215059469096286dd29836065e"
+    },
+    ["windows-x86-vc141-d4bd0205e7d7466fb11898645892c05c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-d4bd0205e7d7466fb11898645892c05c.7z",
+        toolset = "14.16.27023",
+        sha256 = "57a89fa54c3d728d3affec48b02b73c2f837b559378590135a608aab6f14a072"
+    },
+    ["windows-x86-vc141-75a003da68b14604a82f5b1cbbf3b7f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-75a003da68b14604a82f5b1cbbf3b7f5.7z",
+        toolset = "14.16.27023",
+        sha256 = "af62dc4f7af00706d7fb2f2b61119af52756408b3ac9640749a11e45aa3303ff"
+    },
+    ["windows-x86-vc14.29.30133-dcf0d10387c14b8984e3e07be082738e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-dcf0d10387c14b8984e3e07be082738e.7z",
+        toolset = "14.29.30133",
+        sha256 = "dcbbcbd57a763b406bd2019b02831aecc4d88ef5e1611d10a33e1edf8825e438"
+    },
+    ["windows-x64-vc142-90018749ba864d7cb0d91ce9b6e34cfb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-90018749ba864d7cb0d91ce9b6e34cfb.7z",
+        toolset = "14.29.30133",
+        sha256 = "2cda615fea81ef7ecb91126770c4a66408ebe2efb022e251c1deaa70fe340642"
+    },
+    ["windows-x86-vc142-af762fb790504f04926df93affb9e560"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-af762fb790504f04926df93affb9e560.7z",
+        toolset = "14.29.30133",
+        sha256 = "a2d7b566280592d0663b164548caa25b6db1857ec2af2ec61bbb27047a4c0b4e"
+    },
+    ["windows-x64-vc14.38.33130-2b2a3c9c6a64447a8f02258746aa0e99"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.38.33130-2b2a3c9c6a64447a8f02258746aa0e99.7z",
+        toolset = "14.38.33130",
+        sha256 = "7d9e4b18468330e377a6f0ab9c9932585502cd3e83a7e1f4aba3bcc0d21f09e5"
+    },
+    ["windows-x86-vc141-63540e9f51214d49b33152a1fb11d1fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-63540e9f51214d49b33152a1fb11d1fa.7z",
+        toolset = "14.16.27023",
+        sha256 = "9631d35e56890d5d27dac49581528ec0fbfbbb299e78391491c7cc0723c3d5e6"
+    },
+    ["windows-x64-vc141-598a07de2c234717ad63781bdf90b273"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-598a07de2c234717ad63781bdf90b273.7z",
+        toolset = "14.16.27023",
+        sha256 = "89e1edd0fa26394524afdab32ccac58243db5c1e6fd4920cd25010a29957de38"
+    },
+    ["windows-x86-vc142-1bbb33e21d704e7391e5ba86c2f448d0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-1bbb33e21d704e7391e5ba86c2f448d0.7z",
+        toolset = "14.29.30133",
+        sha256 = "4b8aeaf0c8b757467f36e74d868258e98e979bb44beb4c57696b89b12d56f677"
+    },
+    ["windows-x64-vc141-73cec713904d422db4cc08532110b842"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-73cec713904d422db4cc08532110b842.7z",
+        toolset = "14.16.27023",
+        sha256 = "4de1a66b3a5558ecf7c5a20c8821d110827de083fb9f23563792240681657009"
+    },
+    ["windows-x64-vc141-0ebe653a88094511a5bd393c64c56add"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-0ebe653a88094511a5bd393c64c56add.7z",
+        toolset = "14.16.27023",
+        sha256 = "84a99c9422a3ba8b4ea66490a821873bbf2004f3c1c383ce01f3a634f3779299"
+    },
+    ["windows-x86-vc14.38.33130-178b14804c9046d28c2d731553d10d24"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.38.33130-178b14804c9046d28c2d731553d10d24.7z",
+        toolset = "14.38.33130",
+        sha256 = "d870f3aeb83f5ed96f1b34a73f21dfa57f4cc93398bdec18fde7fb85b984bcc5"
+    },
+    ["windows-x64-vc14.38.33130-f40476a4516c4b05ad286df01da96b59"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.38.33130-f40476a4516c4b05ad286df01da96b59.7z",
+        toolset = "14.38.33130",
+        sha256 = "f4859c4b3bca7c2fb70f7fbe3e245b4e21656fc91b291f750d4f468a7f9f53b3"
+    },
+    ["windows-x86-vc14.29.30133-178b14804c9046d28c2d731553d10d24"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-178b14804c9046d28c2d731553d10d24.7z",
+        toolset = "14.29.30133",
+        sha256 = "ebc0a68e770044c711f19ccf654f124523336a4d260ff172e6445f49f996c65a"
+    },
+    ["windows-x64-vc14.29.30133-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
+        toolset = "14.29.30133",
+        sha256 = "8817be840740c4757426817ed62a28a7e63b99aad7b870260c9d517501ff35b8"
+    },
+    ["windows-x64-vc142-06de948c951b424d86015964de20a931"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-06de948c951b424d86015964de20a931.7z",
+        toolset = "14.29.30133",
+        sha256 = "905def7412b01c5f023b91500e0aff1b9bcc1821238d2fe6b6effc9c4b509c6e"
+    },
+    ["windows-x64-vc14.38.33130-c24cb0727af94b3eb21ca1d9bf2b266d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.38.33130-c24cb0727af94b3eb21ca1d9bf2b266d.7z",
+        toolset = "14.38.33130",
+        sha256 = "056caa31aa68600862ae85cec484be82c6c384b985960e9b7c50273db9755c29"
+    },
+    ["windows-x64-vc141-4bf5d45c081349279069b3fae703759e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-4bf5d45c081349279069b3fae703759e.7z",
+        toolset = "14.16.27023",
+        sha256 = "3227bbe8e578ba7e5d987e1c2a7ae6f6527a9cc4a17dfd607acda84b11779bda"
     },
     ["windows-x64-vc142-431b993ab4d94cd4885046efde7e2e33"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-431b993ab4d94cd4885046efde7e2e33.7z",
         toolset = "14.29.30133",
         sha256 = "0aa18c874665ee7130f9cd0eb813b188ac267f424cb4dc58661b69b671762497"
     },
-    ["windows-x64-vc141-02732642f1c64d93ac5b8e33d47fe423"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-02732642f1c64d93ac5b8e33d47fe423.7z",
+    ["windows-x64-vc141-68c7ad25467a4f9eab8b38cb0a4f9def"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-68c7ad25467a4f9eab8b38cb0a4f9def.7z",
         toolset = "14.16.27023",
-        sha256 = "5a7911cad055576a5832d183d97bc87c4dafcf926693061ab4f665525cffc529"
+        sha256 = "006abfa0900bc92947c9371595c6f5645b82d218ba0fbf9fed9ca3bb335fb1d4"
     },
-    ["windows-x86-vc141-99824a8cb0bd4cee81a601caceae3a94"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-99824a8cb0bd4cee81a601caceae3a94.7z",
+    ["windows-x64-vc141-56363b9ea99a412bbe5213438c4ba5fd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-56363b9ea99a412bbe5213438c4ba5fd.7z",
         toolset = "14.16.27023",
-        sha256 = "200d04e6deba008d738885762ab2cdd13cc1546418d36374a06ab15f811d8b9b"
-    },
-    ["windows-x64-vc142-1dbc6c31ef6c415d97c9c4e1aabe21f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-1dbc6c31ef6c415d97c9c4e1aabe21f6.7z",
-        toolset = "14.29.30133",
-        sha256 = "4257718de854d701c8bbba6bb000f477eed04e16b159c43ee158ecfca234ae40"
-    },
-    ["windows-x64-vc14.29.30133-a49255b77080467081db76408f16d664"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc14.29.30133-a49255b77080467081db76408f16d664.7z",
-        sha256 = "849b9b2eb58bd49f31422b9d9555b77551fd8700b49daae584659ec23f1cb6b7",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-139319bafac349e4a4ca701ac3979c62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-139319bafac349e4a4ca701ac3979c62.7z",
-        toolset = "14.16.27023",
-        sha256 = "450cdcec193d2a532210d4de51459d07f0dd31fe6b6111b2403d282863bbb6ec"
-    },
-    ["windows-x86-vc14.29.30133-5bfc6c247b3843749f527296487b0cb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc14.29.30133-5bfc6c247b3843749f527296487b0cb0.7z",
-        sha256 = "fb1bb0a25bcaab37613af72790b1e0f622065feaf113671a2096d5993fada211",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-06de948c951b424d86015964de20a931"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc141-06de948c951b424d86015964de20a931.7z",
-        toolset = "14.16.27023",
-        sha256 = "a6ccb66bce882168aaa5eda948349848ca626aa120f58cff6f22568283d4024f"
+        sha256 = "a2fff81649f809747aec63bafdf338e7137bbd8f851d6162499e72a32830b260"
     },
     ["windows-x64-vc142-598a07de2c234717ad63781bdf90b273"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x64-vc142-598a07de2c234717ad63781bdf90b273.7z",
         toolset = "14.29.30133",
         sha256 = "588de5951ffe54ad1ae8b113a31b2087484169b1c7024faa30f721351e21bccc"
     },
-    ["windows-x86-vc142-d4bd0205e7d7466fb11898645892c05c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc142-d4bd0205e7d7466fb11898645892c05c.7z",
-        toolset = "14.29.30133",
-        sha256 = "f0599097b14da7c59f5f014ef4c74f4ae29b0e56dd51238674551d08599d1c8d"
+    ["windows-x86-vc141-99824a8cb0bd4cee81a601caceae3a94"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/magnum-integration-v2020.06/windows-x86-vc141-99824a8cb0bd4cee81a601caceae3a94.7z",
+        toolset = "14.16.27023",
+        sha256 = "200d04e6deba008d738885762ab2cdd13cc1546418d36374a06ab15f811d8b9b"
     }
 }
