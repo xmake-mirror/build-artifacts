@@ -1,162 +1,242 @@
 {
-    ["windows-x64-vc142-04293188d61d4ac3a27a75bf7e9bdefc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-04293188d61d4ac3a27a75bf7e9bdefc.7z",
-        sha256 = "dcfb2aab415f5b46e9ef3331c2ce667c230e5110da96c9d845ee67ebb82284c4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-d11e03defef94eb9b25a2752a358e391"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-d11e03defef94eb9b25a2752a358e391.7z",
-        sha256 = "3d561049bb6e33dce3a427a7649f21186e3cf9088dcab0ffcd7140928e532b4f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-ac5ac2fcc73f4d1593f46ae94c0b397a.7z",
-        sha256 = "215e34b3da427c6d34a023c4081be62fd84390b282c450251713f7973be3b20d",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc14.37.32822-41bfbf1ffe4c486d8011428c6de42435"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-41bfbf1ffe4c486d8011428c6de42435.7z",
-        sha256 = "07b5a78a1014bae6c799ad98c390c7f90d4cf13d0c8132b0bb284a64f2cdf2d9",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc142-41bfbf1ffe4c486d8011428c6de42435"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-41bfbf1ffe4c486d8011428c6de42435.7z",
-        sha256 = "7de6593f06b05d962175dbba856a741330e3dc1d5a34ef95ec94808013ae69b3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-8cd181f7167f4e9083ebe7ed200c84ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-8cd181f7167f4e9083ebe7ed200c84ca.7z",
-        sha256 = "5e292465b23bcf4f6ca3e8ea3b3f033dc4b6442711359c5841227f25dfaa2a7e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-41bfbf1ffe4c486d8011428c6de42435"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-41bfbf1ffe4c486d8011428c6de42435.7z",
-        sha256 = "f9ddcf6da14b20483da3b8f51cae275ea39fce6c00d5e79668b2d3c0911b9632",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-8d5116a29ff54f9192d7e961cac30afc"] = {
+        sha256 = "fee5d5949a6d87a91e587b354d6ebad3679ee5c903883c0149430f8767b27a5b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-8d5116a29ff54f9192d7e961cac30afc.7z"
     },
     ["windows-x86-vc143-8cd181f7167f4e9083ebe7ed200c84ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-8cd181f7167f4e9083ebe7ed200c84ca.7z",
         sha256 = "adb077fc108218355226f51c22c17f862a05dc74e3e0ee8bfd1ee06b0ad24c37",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc143-d11e03defef94eb9b25a2752a358e391"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-d11e03defef94eb9b25a2752a358e391.7z",
-        sha256 = "aba452c77212d44c9499442edfdf406d4e0d3457ea8b61e97afa15606d44a74d",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc143-41bfbf1ffe4c486d8011428c6de42435"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-41bfbf1ffe4c486d8011428c6de42435.7z",
-        sha256 = "2cadcfb3457b021d9245dc5adbb7e96f03020897f83a9d110fd89601b7dc20df",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc14.29.30133-8d5116a29ff54f9192d7e961cac30afc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-8d5116a29ff54f9192d7e961cac30afc.7z",
-        sha256 = "fee5d5949a6d87a91e587b354d6ebad3679ee5c903883c0149430f8767b27a5b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-d11e03defef94eb9b25a2752a358e391"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-d11e03defef94eb9b25a2752a358e391.7z",
-        sha256 = "d542c863bd910c94eea8be38f6ca0e1953596a62f15d148bda58b45509bb1dfd",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-355640e420034bbbb7de83d33b1aea9d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-355640e420034bbbb7de83d33b1aea9d.7z",
-        sha256 = "d786771954af585fe8843050c65f59d40426a5219f13f84d0e532b695a434b0d",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-8d5116a29ff54f9192d7e961cac30afc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-8d5116a29ff54f9192d7e961cac30afc.7z",
-        sha256 = "b4e5b30c7a7a757c04ef47a34dde1826ee25ed85bc5b5f25d52c1e1efe9f7a74",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc142-88a13c317ecd4e13a5214397f4effcd6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-88a13c317ecd4e13a5214397f4effcd6.7z",
-        sha256 = "fe98e2fdd6755f537138d765c466a1e778f5e7384204f7ea72adb1177a7ee9cf",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-355640e420034bbbb7de83d33b1aea9d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-355640e420034bbbb7de83d33b1aea9d.7z",
-        sha256 = "43e918edcb67609e4eb0623f66dceea2843c6cd6eb5bef0031b145aa167ef148",
-        toolset = "14.29.30133"
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-8cd181f7167f4e9083ebe7ed200c84ca.7z"
     },
     ["windows-x86-vc14.37.32822-88a13c317ecd4e13a5214397f4effcd6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-88a13c317ecd4e13a5214397f4effcd6.7z",
         sha256 = "acb8120e8d341826fba73ce9c021b5cccec200a436b2acfa8c9e6912217f4888",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-88a13c317ecd4e13a5214397f4effcd6.7z"
     },
-    ["windows-x86-vc14.37.32822-d11e03defef94eb9b25a2752a358e391"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-d11e03defef94eb9b25a2752a358e391.7z",
-        sha256 = "c8d5623c1e699a6f936f0689a3410f99b43973e9141fc0e3cdd94bc8a557c1f8",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.29.30133-cade8693a9744635921c8edbfb492101"] = {
+        sha256 = "48d18e3c67c7c276fc60171618e1e94d56af2a61d7780c4b65de525637bef086",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-cade8693a9744635921c8edbfb492101.7z"
     },
-    ["windows-x86-vc143-88a13c317ecd4e13a5214397f4effcd6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-88a13c317ecd4e13a5214397f4effcd6.7z",
-        sha256 = "b9e93aacf82441b9d2d24ab4ae68b04efc1716a3e1cb0ea45d8dade8706da296",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc143-355640e420034bbbb7de83d33b1aea9d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-355640e420034bbbb7de83d33b1aea9d.7z",
-        sha256 = "d028bd9d8fa9095ba74c2ecd8d227ae2df03969d1ed38c2cffe01b41065b4704",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc143-04293188d61d4ac3a27a75bf7e9bdefc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-04293188d61d4ac3a27a75bf7e9bdefc.7z",
-        sha256 = "fc00d7c48f50aea77f1123768f0ebdc82523056859897305deed31cce94a3d7c",
-        toolset = "14.34.31933"
-    },
-    ["windows-x64-vc14.29.30133-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-ac5ac2fcc73f4d1593f46ae94c0b397a.7z",
-        sha256 = "1ecf5b54ff63111a809ed0a206e37272b26130a32ee54b1df13c1884ddcccec2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-8cd181f7167f4e9083ebe7ed200c84ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-8cd181f7167f4e9083ebe7ed200c84ca.7z",
-        sha256 = "4e8c35cc360d371a67ee101f7bd1b4336a98bfa5db8d55b01ddf05c6c74ce417",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-ac5ac2fcc73f4d1593f46ae94c0b397a.7z",
-        sha256 = "d3c047394fec3a0f9de971c7127f9ad382c0fa2e745ed0c3a317473773634deb",
-        toolset = "14.37.32822"
+    ["windows-x86-vc143-d11e03defef94eb9b25a2752a358e391"] = {
+        sha256 = "aba452c77212d44c9499442edfdf406d4e0d3457ea8b61e97afa15606d44a74d",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-d11e03defef94eb9b25a2752a358e391.7z"
     },
     ["windows-x64-vc143-8d5116a29ff54f9192d7e961cac30afc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-8d5116a29ff54f9192d7e961cac30afc.7z",
         sha256 = "8f032f98feac8292ce4d3f72267bf3da8f20210143abdab5bab77079213e9ece",
-        toolset = "14.34.31933"
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-8d5116a29ff54f9192d7e961cac30afc.7z"
     },
-    ["windows-x64-vc14.37.32822-04293188d61d4ac3a27a75bf7e9bdefc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-04293188d61d4ac3a27a75bf7e9bdefc.7z",
-        sha256 = "c9aba49c0bf4f26cd2250dda40602a04e4ee3ec200fe243f1a5df4f2524e8601",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.37.32822-41bfbf1ffe4c486d8011428c6de42435"] = {
+        sha256 = "07b5a78a1014bae6c799ad98c390c7f90d4cf13d0c8132b0bb284a64f2cdf2d9",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-41bfbf1ffe4c486d8011428c6de42435.7z"
     },
-    ["windows-x64-vc142-8d5116a29ff54f9192d7e961cac30afc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-8d5116a29ff54f9192d7e961cac30afc.7z",
-        sha256 = "f36f225988be1f9a80ce99cb165b5053f605b0032d248cb750575468830b26fb",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-8d5116a29ff54f9192d7e961cac30afc"] = {
+        sha256 = "b4e5b30c7a7a757c04ef47a34dde1826ee25ed85bc5b5f25d52c1e1efe9f7a74",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-8d5116a29ff54f9192d7e961cac30afc.7z"
+    },
+    ["windows-x64-vc14.29.30133-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
+        sha256 = "1ecf5b54ff63111a809ed0a206e37272b26130a32ee54b1df13c1884ddcccec2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-ac5ac2fcc73f4d1593f46ae94c0b397a.7z"
+    },
+    ["windows-x64-vc14.38.33130-cffd29d39bbf4bcda490600a68b48587"] = {
+        sha256 = "47582ce6cd92e0ea54a2428f79e6a100a3aaaa88045a4d5f591be9395fc9bc08",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.38.33130-cffd29d39bbf4bcda490600a68b48587.7z"
     },
     ["windows-x86-vc14.29.30133-88a13c317ecd4e13a5214397f4effcd6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-88a13c317ecd4e13a5214397f4effcd6.7z",
         sha256 = "b18b3cb50433bfce6d01323d3e8e1f50b4015354b492e17af3964a1bafd14d20",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-88a13c317ecd4e13a5214397f4effcd6.7z"
     },
-    ["windows-x64-vc142-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-ac5ac2fcc73f4d1593f46ae94c0b397a.7z",
-        sha256 = "25211a39be5f836cb49ae8bd996f40e607785f042c2d241bc108aac1855e4b39",
-        toolset = "14.29.30133"
+    ["windows-x86-vc142-88a13c317ecd4e13a5214397f4effcd6"] = {
+        sha256 = "fe98e2fdd6755f537138d765c466a1e778f5e7384204f7ea72adb1177a7ee9cf",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-88a13c317ecd4e13a5214397f4effcd6.7z"
     },
-    ["windows-x64-vc14.29.30133-04293188d61d4ac3a27a75bf7e9bdefc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-04293188d61d4ac3a27a75bf7e9bdefc.7z",
-        sha256 = "78cac346d73fd2247f0c7fcc7900abfcabb4fc87e52ce66ce909bacedc53e29e",
-        toolset = "14.29.30133"
+    ["windows-x64-vc143-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
+        sha256 = "215e34b3da427c6d34a023c4081be62fd84390b282c450251713f7973be3b20d",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-ac5ac2fcc73f4d1593f46ae94c0b397a.7z"
     },
-    ["windows-x86-vc14.37.32822-355640e420034bbbb7de83d33b1aea9d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-355640e420034bbbb7de83d33b1aea9d.7z",
-        sha256 = "3907dacda173053bc310f0c7426eacc0ba003d91a8c10efa24613355d41b4c92",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-cffd29d39bbf4bcda490600a68b48587"] = {
+        sha256 = "17b14f4993c831ab3bde7b593c57426488c24a911c4d9c634a2a12964fb53af6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-cffd29d39bbf4bcda490600a68b48587.7z"
+    },
+    ["windows-x86-vc14.38.33130-cade8693a9744635921c8edbfb492101"] = {
+        sha256 = "d18588ea99bf956a0c52716e2e5ebe12499600b1f9ae17a6394a67e44eb7524d",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.38.33130-cade8693a9744635921c8edbfb492101.7z"
+    },
+    ["windows-x64-vc14.37.32822-04293188d61d4ac3a27a75bf7e9bdefc"] = {
+        sha256 = "c9aba49c0bf4f26cd2250dda40602a04e4ee3ec200fe243f1a5df4f2524e8601",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-04293188d61d4ac3a27a75bf7e9bdefc.7z"
     },
     ["windows-x86-vc142-8cd181f7167f4e9083ebe7ed200c84ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-8cd181f7167f4e9083ebe7ed200c84ca.7z",
         sha256 = "5b8c4765f6ac21039b533052210a8b59218fbd5af141b9f8a504368d5be0b83d",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-8cd181f7167f4e9083ebe7ed200c84ca.7z"
+    },
+    ["windows-x86-vc14.29.30133-ecd8d5a8b2594500be90db0f5d90ca2d"] = {
+        sha256 = "1c7147fd98e218191c13e5b2638083840a78e6d922d1734535340bf1c422790f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-ecd8d5a8b2594500be90db0f5d90ca2d.7z"
+    },
+    ["windows-x64-vc143-04293188d61d4ac3a27a75bf7e9bdefc"] = {
+        sha256 = "fc00d7c48f50aea77f1123768f0ebdc82523056859897305deed31cce94a3d7c",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-04293188d61d4ac3a27a75bf7e9bdefc.7z"
+    },
+    ["windows-x86-vc142-d11e03defef94eb9b25a2752a358e391"] = {
+        sha256 = "d542c863bd910c94eea8be38f6ca0e1953596a62f15d148bda58b45509bb1dfd",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-d11e03defef94eb9b25a2752a358e391.7z"
+    },
+    ["windows-x64-vc14.29.30133-04293188d61d4ac3a27a75bf7e9bdefc"] = {
+        sha256 = "78cac346d73fd2247f0c7fcc7900abfcabb4fc87e52ce66ce909bacedc53e29e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-04293188d61d4ac3a27a75bf7e9bdefc.7z"
+    },
+    ["windows-x86-vc14.29.30133-d11e03defef94eb9b25a2752a358e391"] = {
+        sha256 = "3d561049bb6e33dce3a427a7649f21186e3cf9088dcab0ffcd7140928e532b4f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-d11e03defef94eb9b25a2752a358e391.7z"
+    },
+    ["windows-x64-vc142-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
+        sha256 = "25211a39be5f836cb49ae8bd996f40e607785f042c2d241bc108aac1855e4b39",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-ac5ac2fcc73f4d1593f46ae94c0b397a.7z"
+    },
+    ["windows-x86-vc14.38.33130-8afee5e9099a4e6a8f5d173f5d46e025"] = {
+        sha256 = "3c13f6a3c6a21d684bdf739be5f3f95c328b8ac062c59dbefd361512cb8c20b9",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.38.33130-8afee5e9099a4e6a8f5d173f5d46e025.7z"
+    },
+    ["windows-x64-vc14.38.33130-da70b4857cf24d3ba3277510660e28a0"] = {
+        sha256 = "be2d3cc0a460e9a575b12abafab468ffd3cf561c2e1fb546295e9d2016548d20",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.38.33130-da70b4857cf24d3ba3277510660e28a0.7z"
+    },
+    ["windows-x86-vc142-355640e420034bbbb7de83d33b1aea9d"] = {
+        sha256 = "d786771954af585fe8843050c65f59d40426a5219f13f84d0e532b695a434b0d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc142-355640e420034bbbb7de83d33b1aea9d.7z"
+    },
+    ["windows-x86-vc14.37.32822-d11e03defef94eb9b25a2752a358e391"] = {
+        sha256 = "c8d5623c1e699a6f936f0689a3410f99b43973e9141fc0e3cdd94bc8a557c1f8",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-d11e03defef94eb9b25a2752a358e391.7z"
+    },
+    ["windows-x64-vc143-41bfbf1ffe4c486d8011428c6de42435"] = {
+        sha256 = "2cadcfb3457b021d9245dc5adbb7e96f03020897f83a9d110fd89601b7dc20df",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc143-41bfbf1ffe4c486d8011428c6de42435.7z"
+    },
+    ["windows-x86-vc14.37.32822-355640e420034bbbb7de83d33b1aea9d"] = {
+        sha256 = "3907dacda173053bc310f0c7426eacc0ba003d91a8c10efa24613355d41b4c92",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-355640e420034bbbb7de83d33b1aea9d.7z"
+    },
+    ["windows-x86-vc14.37.32822-8cd181f7167f4e9083ebe7ed200c84ca"] = {
+        sha256 = "4e8c35cc360d371a67ee101f7bd1b4336a98bfa5db8d55b01ddf05c6c74ce417",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.37.32822-8cd181f7167f4e9083ebe7ed200c84ca.7z"
+    },
+    ["windows-x64-vc142-41bfbf1ffe4c486d8011428c6de42435"] = {
+        sha256 = "7de6593f06b05d962175dbba856a741330e3dc1d5a34ef95ec94808013ae69b3",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-41bfbf1ffe4c486d8011428c6de42435.7z"
+    },
+    ["windows-x64-vc142-8d5116a29ff54f9192d7e961cac30afc"] = {
+        sha256 = "f36f225988be1f9a80ce99cb165b5053f605b0032d248cb750575468830b26fb",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-8d5116a29ff54f9192d7e961cac30afc.7z"
+    },
+    ["windows-x86-vc14.29.30133-355640e420034bbbb7de83d33b1aea9d"] = {
+        sha256 = "43e918edcb67609e4eb0623f66dceea2843c6cd6eb5bef0031b145aa167ef148",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-355640e420034bbbb7de83d33b1aea9d.7z"
+    },
+    ["windows-x86-vc143-355640e420034bbbb7de83d33b1aea9d"] = {
+        sha256 = "d028bd9d8fa9095ba74c2ecd8d227ae2df03969d1ed38c2cffe01b41065b4704",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-355640e420034bbbb7de83d33b1aea9d.7z"
+    },
+    ["windows-x64-vc14.29.30133-53ad3f2fd1714c72b84d2f86e6d28bd6"] = {
+        sha256 = "99c034d9ee7148daa1c312d1ba1ee5e47b55f03e33b04c2349bf4f257fbbffa4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-53ad3f2fd1714c72b84d2f86e6d28bd6.7z"
+    },
+    ["windows-x86-vc14.29.30133-8cd181f7167f4e9083ebe7ed200c84ca"] = {
+        sha256 = "5e292465b23bcf4f6ca3e8ea3b3f033dc4b6442711359c5841227f25dfaa2a7e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-8cd181f7167f4e9083ebe7ed200c84ca.7z"
+    },
+    ["windows-x86-vc143-88a13c317ecd4e13a5214397f4effcd6"] = {
+        sha256 = "b9e93aacf82441b9d2d24ab4ae68b04efc1716a3e1cb0ea45d8dade8706da296",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc143-88a13c317ecd4e13a5214397f4effcd6.7z"
+    },
+    ["windows-x64-vc14.38.33130-53ad3f2fd1714c72b84d2f86e6d28bd6"] = {
+        sha256 = "897015c8f8fa93bd48d98c8bfbe76f6cc5582c48a41b514be0d72e02ddc6c4c3",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.38.33130-53ad3f2fd1714c72b84d2f86e6d28bd6.7z"
+    },
+    ["windows-x64-vc14.29.30133-da70b4857cf24d3ba3277510660e28a0"] = {
+        sha256 = "4270a60b698d326aa38ed8757464b98315731625a5e6952a3298c20b759bb0ec",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-da70b4857cf24d3ba3277510660e28a0.7z"
+    },
+    ["windows-x64-vc14.29.30133-ea6b9ca96a99477a857c89c6fa512b2d"] = {
+        sha256 = "6f28040d1baaa06b331fe8fbbe88a921d620f957d3862dd9a19b45825c48cb55",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-ea6b9ca96a99477a857c89c6fa512b2d.7z"
+    },
+    ["windows-x64-vc14.29.30133-41bfbf1ffe4c486d8011428c6de42435"] = {
+        sha256 = "f9ddcf6da14b20483da3b8f51cae275ea39fce6c00d5e79668b2d3c0911b9632",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.29.30133-41bfbf1ffe4c486d8011428c6de42435.7z"
+    },
+    ["windows-x64-vc14.38.33130-ea6b9ca96a99477a857c89c6fa512b2d"] = {
+        sha256 = "ea89f8f3383de50c145504e5798967d6739ecc610798cea9f948aadadeed4b0c",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.38.33130-ea6b9ca96a99477a857c89c6fa512b2d.7z"
+    },
+    ["windows-x86-vc14.38.33130-ecd8d5a8b2594500be90db0f5d90ca2d"] = {
+        sha256 = "6d11ad8061aa4377dfceb1bb073fe25c3ea8305dc68e137e893ed931eb6bf6f3",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.38.33130-ecd8d5a8b2594500be90db0f5d90ca2d.7z"
+    },
+    ["windows-x86-vc14.29.30133-8afee5e9099a4e6a8f5d173f5d46e025"] = {
+        sha256 = "e70e6faccc62ab07a7b178768fc383be1f9efb44c7f6e46a864dfe935b51be02",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-8afee5e9099a4e6a8f5d173f5d46e025.7z"
+    },
+    ["windows-x64-vc14.37.32822-ac5ac2fcc73f4d1593f46ae94c0b397a"] = {
+        sha256 = "d3c047394fec3a0f9de971c7127f9ad382c0fa2e745ed0c3a317473773634deb",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc14.37.32822-ac5ac2fcc73f4d1593f46ae94c0b397a.7z"
+    },
+    ["windows-x86-vc14.38.33130-90ef7a224bb141d0b709f7e52ea4abc8"] = {
+        sha256 = "153c7f83f1c73b60f77a52a16b3c78ff43ac7298cab23d4227369b62cd84d390",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.38.33130-90ef7a224bb141d0b709f7e52ea4abc8.7z"
+    },
+    ["windows-x64-vc142-04293188d61d4ac3a27a75bf7e9bdefc"] = {
+        sha256 = "dcfb2aab415f5b46e9ef3331c2ce667c230e5110da96c9d845ee67ebb82284c4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x64-vc142-04293188d61d4ac3a27a75bf7e9bdefc.7z"
+    },
+    ["windows-x86-vc14.29.30133-90ef7a224bb141d0b709f7e52ea4abc8"] = {
+        sha256 = "2cefcd86a9a24da37f3861b7ca6a54286e17483e4e61547e33badc54c2cd3ace",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libui-2022.12.3/windows-x86-vc14.29.30133-90ef7a224bb141d0b709f7e52ea4abc8.7z"
     }
 }
