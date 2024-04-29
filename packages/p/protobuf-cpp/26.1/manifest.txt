@@ -1,42 +1,82 @@
 {
-    ["windows-x86-vc14.38.33130-d47336d401d74f188b2a8254c70ac933"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.38.33130-d47336d401d74f188b2a8254c70ac933.7z",
-        sha256 = "32a19e6d934ffce23a8187f1a3b565e1d032afda46317c234e963f75b0c496aa",
+    ["windows-x64-vc14.38.33130-306d197677f34d0c83903475a16853c8"] = {
+        sha256 = "149cc5a2d5ce8ef420d2fd26e0a1d0c34ce21ade93f67f63269a757bf2a7c730",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.38.33130-306d197677f34d0c83903475a16853c8.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc14.29.30133-6ffa349d1b5f4047a086e95e2d5e70ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.29.30133-6ffa349d1b5f4047a086e95e2d5e70ed.7z",
-        sha256 = "022afc3c9c36f9e12dc68438b5e7014a38b9245919a9c25f8714a953331c1d52",
+    ["windows-x64-vc14.29.30133-3a8fed6601e84365a1b0c2fcf677b36c"] = {
+        sha256 = "56a9f76bc79812e6659127087f6efdfa23dca86b48ce4d5ed55cea73d901ee1c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.29.30133-3a8fed6601e84365a1b0c2fcf677b36c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-306d197677f34d0c83903475a16853c8"] = {
+        sha256 = "141ed131c7cf08cbdd348ba874ec8f538e0f946e56b50e0054d12bd5878582b3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.29.30133-306d197677f34d0c83903475a16853c8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-2c24d4ad3f4047a49af1a5ba01d8202c"] = {
+        sha256 = "4e36c519893dc7bc80a8a2343f938648a9d882f0c2063965c3050a153ebce2df",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.29.30133-2c24d4ad3f4047a49af1a5ba01d8202c.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-d47336d401d74f188b2a8254c70ac933"] = {
+        sha256 = "9f8a38da83475edc44401d2b33690aa7dd8a123dd95a953f2b13f526c16c01b5",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.29.30133-d47336d401d74f188b2a8254c70ac933.7z",
-        sha256 = "5e2f8fe441a7e1b9f066bb40290c8383eae6acd663f0d5213467d20fcfb754fe",
         toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-6ffa349d1b5f4047a086e95e2d5e70ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.38.33130-6ffa349d1b5f4047a086e95e2d5e70ed.7z",
-        sha256 = "61a2942b18fe4d6464b7cfc403e2ffb31058e4032bb5e8e113831e38a92377cf",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.38.33130-c442d1bd6be64ffb88fbca9ce544e614"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.38.33130-c442d1bd6be64ffb88fbca9ce544e614.7z",
-        sha256 = "4ef08d304cd2e3bb0a6737e8896a9e34ff170bd0bcbae9ae0bf54750a22f8ce7",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-8758d4826ed54d0ab699fc77e144cb47"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.38.33130-8758d4826ed54d0ab699fc77e144cb47.7z",
-        sha256 = "4fbc27747daafe8f6ecd00894fdadb571c2f1ae18c6c4f788f66ef6525158e3c",
-        toolset = "14.38.33130"
     },
     ["windows-x86-vc14.29.30133-c442d1bd6be64ffb88fbca9ce544e614"] = {
+        sha256 = "aa99afce45ed52e6b50c3afb903457c23c54b602ea704fe0ba5b98d00e651c60",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.29.30133-c442d1bd6be64ffb88fbca9ce544e614.7z",
-        sha256 = "32288aea2df8e59f0ac189f429f827849494413243ddaa274f22fa0e994ec991",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-8758d4826ed54d0ab699fc77e144cb47"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.29.30133-8758d4826ed54d0ab699fc77e144cb47.7z",
-        sha256 = "64895e29a7df80bbb33b8543ce1c47f96136ef2d527963e4fff446931c940b6b",
+    ["windows-x64-vc14.29.30133-6ffa349d1b5f4047a086e95e2d5e70ed"] = {
+        sha256 = "ab68f7d4ca9c3f60aee5c6736ab1485b6974958a45db75e63c66ed8fe443b325",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.29.30133-6ffa349d1b5f4047a086e95e2d5e70ed.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-8758d4826ed54d0ab699fc77e144cb47"] = {
+        sha256 = "defc4d0740941930065329758f44a436a34324f07f768b62d0f32c25e33a40a8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.38.33130-8758d4826ed54d0ab699fc77e144cb47.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-8758d4826ed54d0ab699fc77e144cb47"] = {
+        sha256 = "a19191da2d49598cdeded3c250531f8f3b0d700ed517e2a8e9d744080e536975",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.29.30133-8758d4826ed54d0ab699fc77e144cb47.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-d47336d401d74f188b2a8254c70ac933"] = {
+        sha256 = "40c85361c4b2150fe23c3921bbc4f4561a717c2172617e234843ba93dc7f0f1f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.38.33130-d47336d401d74f188b2a8254c70ac933.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-0dac15d91198487898caf366a8f5d863"] = {
+        sha256 = "53bb18faa9a11f3a65ef6f92cd09373dc6135355a9348a7fba1321b0a003eb5f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.29.30133-0dac15d91198487898caf366a8f5d863.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-c442d1bd6be64ffb88fbca9ce544e614"] = {
+        sha256 = "0cf0795e60c10e0b55a9b7110dc4190a9e8dd2a996f1be58654ac6dd3dc26328",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.38.33130-c442d1bd6be64ffb88fbca9ce544e614.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-0dac15d91198487898caf366a8f5d863"] = {
+        sha256 = "1862f0ac8faf41faa04fd903a20a6ea4f8fec26bf060c4895556bbc237c03595",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.38.33130-0dac15d91198487898caf366a8f5d863.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-6ffa349d1b5f4047a086e95e2d5e70ed"] = {
+        sha256 = "459473247bab36854ac0d3dd3a31b0b4de1e93c4713297f0d830775981c1250d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.38.33130-6ffa349d1b5f4047a086e95e2d5e70ed.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-3a8fed6601e84365a1b0c2fcf677b36c"] = {
+        sha256 = "02c10b203adfc7d74a78eb7ce5a40a2422857d2c4b201a5745cd7686ab5b2974",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x64-vc14.38.33130-3a8fed6601e84365a1b0c2fcf677b36c.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-2c24d4ad3f4047a49af1a5ba01d8202c"] = {
+        sha256 = "b8e6be5b698875326d27d3f40660deaafb17dcd8f3cb562a096ebcec78d8c884",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/protobuf-cpp-26.1/windows-x86-vc14.38.33130-2c24d4ad3f4047a49af1a5ba01d8202c.7z",
+        toolset = "14.38.33130"
     }
 }
