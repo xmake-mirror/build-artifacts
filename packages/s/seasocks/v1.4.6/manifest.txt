@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.37.32822-baca81eb0cad4fcb8ace9649f5466eb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-baca81eb0cad4fcb8ace9649f5466eb0.7z",
-        sha256 = "0ef4704bc843b987d6ed13ff1e639985662eda307dd36c42ca3c2968a0a22f33",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.38.33130-9c11f0c4e4a64c15aa87e77db1cb1c4e"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.38.33130-9c11f0c4e4a64c15aa87e77db1cb1c4e.7z",
+        sha256 = "133765cab1ce74c17316ed8ba8420914f4116837755551729ab47e181bd874b8"
+    },
+    ["windows-x86-vc14.38.33130-a83f4a99aab44cb2996c0b83fc06ebb6"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.38.33130-a83f4a99aab44cb2996c0b83fc06ebb6.7z",
+        sha256 = "63a5fd9cdde7887c965b5b98185411c52225295d6bf7cb764277126f8b5ba6d3"
     },
     ["windows-x64-vc14.29.30133-4bfc624c0bc749968315ea57d4ae9512"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.29.30133-4bfc624c0bc749968315ea57d4ae9512.7z",
-        sha256 = "35e7925b5297f317f059e585ea3c3e885f6f6da3dfbf383883dc1c3911c42ce1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-4bfc624c0bc749968315ea57d4ae9512"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-4bfc624c0bc749968315ea57d4ae9512.7z",
-        sha256 = "a6175411086ae3537a74b595a4e47c39a4669044d0dc5940a1def3c37d17d335",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-c336f188ccdd4349b43fee455279da88"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-c336f188ccdd4349b43fee455279da88.7z",
-        sha256 = "8ee090f0d0447290548c4ebdce1718cfd206fcd90887ffc7224ecc0a49877945",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-c336f188ccdd4349b43fee455279da88"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.29.30133-c336f188ccdd4349b43fee455279da88.7z",
-        sha256 = "76709e1b18747276238e745603538ad700bfbf7eb1a0903fb2078c34c12a01ce",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-baca81eb0cad4fcb8ace9649f5466eb0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-baca81eb0cad4fcb8ace9649f5466eb0.7z",
-        sha256 = "f36440b0d20efe17e2e3581e59443f7c49bb264dbc81eb515701ea96a92e10d1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-9c11f0c4e4a64c15aa87e77db1cb1c4e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-9c11f0c4e4a64c15aa87e77db1cb1c4e.7z",
-        sha256 = "c4422e4bb5b92b90ec566442de56e896c14d2b4e2477543ecb31108dcba4eb92",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-d20d2a9716ac4fad8f66dcf08d79ecbe"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-d20d2a9716ac4fad8f66dcf08d79ecbe.7z",
-        sha256 = "acaae66881c12c7bea51f7232ad30f6b8cd543db7feae6817da5c5812d05b91e",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-a83f4a99aab44cb2996c0b83fc06ebb6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-a83f4a99aab44cb2996c0b83fc06ebb6.7z",
-        sha256 = "dff65a9fd9765da69206dbc43413cd30000aba32ffcd3873515640196586328b",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-542325aa29914f46b45af8266cd29a0f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-542325aa29914f46b45af8266cd29a0f.7z",
-        sha256 = "9a6a792e47f6b9e230bed2a6835c971b4ac9b2c3c5654505e495fc0c8fafafa3",
-        toolset = "14.29.30133"
+        sha256 = "aa3d9294c8c522cea8eade9adc292f5cdee98e47e7b3f8ea0f3e39c4e63b37db"
     },
     ["windows-x64-vc14.29.30133-d20d2a9716ac4fad8f66dcf08d79ecbe"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.29.30133-d20d2a9716ac4fad8f66dcf08d79ecbe.7z",
-        sha256 = "987985386a3b4bee70559415a9bf3bd7cf5251bb1a54a402ee970f8643fb71e1",
-        toolset = "14.29.30133"
+        sha256 = "71f1d4886f9c27df4a3822d623719edbf170ddf93df504464f66d67395aca228"
     },
-    ["windows-x64-vc14.29.30133-245d985c4cb045c090fe4e7347e32a84"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.29.30133-245d985c4cb045c090fe4e7347e32a84.7z",
-        sha256 = "1a1836df05ba50486750be9d23b3559ce5690305da325c4a33d09d633627a0f0",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.38.33130-4bfc624c0bc749968315ea57d4ae9512"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.38.33130-4bfc624c0bc749968315ea57d4ae9512.7z",
+        sha256 = "fd0b78093a2b4f030766de6c3ee290449d45d03b3e6b6caa751f8a8f4c82f4cc"
     },
     ["windows-x86-vc14.37.32822-542325aa29914f46b45af8266cd29a0f"] = {
+        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-542325aa29914f46b45af8266cd29a0f.7z",
-        sha256 = "c7997bd3700000215c5b395b592f73f8e8adfb7e795cfd28a2d6b2612fa623f4",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-a83f4a99aab44cb2996c0b83fc06ebb6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-a83f4a99aab44cb2996c0b83fc06ebb6.7z",
-        sha256 = "01a468b60d349f87b45a031639f296c7a12b5694011514edb9ad48b500653d34",
-        toolset = "14.29.30133"
+        sha256 = "c7997bd3700000215c5b395b592f73f8e8adfb7e795cfd28a2d6b2612fa623f4"
     },
     ["windows-x86-vc14.29.30133-9c11f0c4e4a64c15aa87e77db1cb1c4e"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-9c11f0c4e4a64c15aa87e77db1cb1c4e.7z",
-        sha256 = "98348f3a649c7a1ce65f7e3d1c109e7aaa050e49a083cd5afcad57eb20d2576b",
-        toolset = "14.29.30133"
+        sha256 = "179649801cfa06fbe69a0f6dfa8bd1ee53023e939bfc71a3a1be4f36c7a64e95"
+    },
+    ["windows-x64-vc14.29.30133-245d985c4cb045c090fe4e7347e32a84"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.29.30133-245d985c4cb045c090fe4e7347e32a84.7z",
+        sha256 = "4bd2a93a3ff5098e2bd43e4cc02afafff3a1a99d65dd9fa6b9ed44a8023ba466"
+    },
+    ["windows-x86-vc14.38.33130-542325aa29914f46b45af8266cd29a0f"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.38.33130-542325aa29914f46b45af8266cd29a0f.7z",
+        sha256 = "339672c2a9261366388acab99e46411c472c77760112dc91973629f5668aeb1f"
     },
     ["windows-x64-vc14.37.32822-245d985c4cb045c090fe4e7347e32a84"] = {
+        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-245d985c4cb045c090fe4e7347e32a84.7z",
-        sha256 = "eb9d8ea795132f0e60449a87541cadaa5a3931ccca4872e44ce90a829c09e3a7",
-        toolset = "14.37.32822"
+        sha256 = "eb9d8ea795132f0e60449a87541cadaa5a3931ccca4872e44ce90a829c09e3a7"
+    },
+    ["windows-x86-vc14.29.30133-a83f4a99aab44cb2996c0b83fc06ebb6"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-a83f4a99aab44cb2996c0b83fc06ebb6.7z",
+        sha256 = "534989a62d71b43fcf7acb186fb935509630cb28e5e96787de01bc345ca10c7c"
+    },
+    ["windows-x64-vc14.37.32822-c336f188ccdd4349b43fee455279da88"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-c336f188ccdd4349b43fee455279da88.7z",
+        sha256 = "8ee090f0d0447290548c4ebdce1718cfd206fcd90887ffc7224ecc0a49877945"
+    },
+    ["windows-x86-vc14.37.32822-baca81eb0cad4fcb8ace9649f5466eb0"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-baca81eb0cad4fcb8ace9649f5466eb0.7z",
+        sha256 = "0ef4704bc843b987d6ed13ff1e639985662eda307dd36c42ca3c2968a0a22f33"
+    },
+    ["windows-x86-vc14.29.30133-542325aa29914f46b45af8266cd29a0f"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-542325aa29914f46b45af8266cd29a0f.7z",
+        sha256 = "cbde6b6ea7177e75de3d308c02d85e37231ec65acab32ba56784c0158f1702f8"
+    },
+    ["windows-x64-vc14.29.30133-c336f188ccdd4349b43fee455279da88"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.29.30133-c336f188ccdd4349b43fee455279da88.7z",
+        sha256 = "b8e2823119574af08f88418585608a29f74946701c73e25acd234246c438e799"
+    },
+    ["windows-x86-vc14.37.32822-a83f4a99aab44cb2996c0b83fc06ebb6"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-a83f4a99aab44cb2996c0b83fc06ebb6.7z",
+        sha256 = "dff65a9fd9765da69206dbc43413cd30000aba32ffcd3873515640196586328b"
+    },
+    ["windows-x64-vc14.37.32822-4bfc624c0bc749968315ea57d4ae9512"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-4bfc624c0bc749968315ea57d4ae9512.7z",
+        sha256 = "a6175411086ae3537a74b595a4e47c39a4669044d0dc5940a1def3c37d17d335"
+    },
+    ["windows-x86-vc14.29.30133-baca81eb0cad4fcb8ace9649f5466eb0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.29.30133-baca81eb0cad4fcb8ace9649f5466eb0.7z",
+        sha256 = "001ae185e6110218511fd8256c214a119d457511ee1718f468afa52f2e7d6e7f"
+    },
+    ["windows-x64-vc14.37.32822-d20d2a9716ac4fad8f66dcf08d79ecbe"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.37.32822-d20d2a9716ac4fad8f66dcf08d79ecbe.7z",
+        sha256 = "acaae66881c12c7bea51f7232ad30f6b8cd543db7feae6817da5c5812d05b91e"
+    },
+    ["windows-x64-vc14.38.33130-d20d2a9716ac4fad8f66dcf08d79ecbe"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.38.33130-d20d2a9716ac4fad8f66dcf08d79ecbe.7z",
+        sha256 = "6dbb51b143d27c006b2b604ca41ad704fd7608360bce30dbacce6dc1d6135e05"
+    },
+    ["windows-x64-vc14.38.33130-c336f188ccdd4349b43fee455279da88"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.38.33130-c336f188ccdd4349b43fee455279da88.7z",
+        sha256 = "c7cb340489584efb74e4c18221602524e16d6f72cbdde30e3023e1409d695d27"
+    },
+    ["windows-x64-vc14.38.33130-245d985c4cb045c090fe4e7347e32a84"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x64-vc14.38.33130-245d985c4cb045c090fe4e7347e32a84.7z",
+        sha256 = "28965b83783d9169b4179eb6812cd48d11abd61a542c81e6e1e488558388924c"
+    },
+    ["windows-x86-vc14.37.32822-9c11f0c4e4a64c15aa87e77db1cb1c4e"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.37.32822-9c11f0c4e4a64c15aa87e77db1cb1c4e.7z",
+        sha256 = "c4422e4bb5b92b90ec566442de56e896c14d2b4e2477543ecb31108dcba4eb92"
+    },
+    ["windows-x86-vc14.38.33130-baca81eb0cad4fcb8ace9649f5466eb0"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/seasocks-v1.4.6/windows-x86-vc14.38.33130-baca81eb0cad4fcb8ace9649f5466eb0.7z",
+        sha256 = "fc4ce68b17090366470d587bc768642ced9a28a55b6251a519d14f44b5e788ea"
     }
 }
