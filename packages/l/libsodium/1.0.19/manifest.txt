@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.29.30133-f1ff71ff85364fa89c17d828953ae217"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-f1ff71ff85364fa89c17d828953ae217.7z",
-        sha256 = "05f9f3f360e63d6ae38ad1071dc61d817588e762ec8672d4916068910d59ce4d"
-    },
-    ["windows-x64-vc14.37.32822-2ac0d64315874c3aae6a82ab84f2aa89"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-2ac0d64315874c3aae6a82ab84f2aa89.7z",
-        sha256 = "6facbaf790e475a6f9e95aa1ab9e958063b1a595947f8ea606755d2716b4998b"
+    ["windows-x64-vc14.38.33130-5beef67fcc9341f29beebc5e310d1b15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.38.33130-5beef67fcc9341f29beebc5e310d1b15.7z",
+        sha256 = "182fe217d892070098ada21ad340d227391a2f82bda7bad5e40f057692dcb36b",
+        toolset = "14.38.33130"
     },
     ["windows-x64-vc14.29.30133-effe7bf737af4fcf86bd9461fac3adb6"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-effe7bf737af4fcf86bd9461fac3adb6.7z",
-        sha256 = "0442347de1422942a8f636c0dff55adbae63ea13e78068bbb48e85db29595db3"
-    },
-    ["windows-x86-vc14.37.32822-1a8e295a8bac4c428ddbe9bf6f24754e"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.37.32822-1a8e295a8bac4c428ddbe9bf6f24754e.7z",
-        sha256 = "4e413a2c02f734f89d233bc74a1c867a281503a3fb47fd6fb43833b9e8e7ab8a"
+        sha256 = "0442347de1422942a8f636c0dff55adbae63ea13e78068bbb48e85db29595db3",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.37.32822-f1ff71ff85364fa89c17d828953ae217"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-f1ff71ff85364fa89c17d828953ae217.7z",
-        sha256 = "5cbb6ea6b7904b636362284aef41bfb32cf81b42129497448a75779a87ffa43a"
-    },
-    ["windows-x64-vc14.37.32822-c9201ea03bc848deae5ddc1409a102d1"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-c9201ea03bc848deae5ddc1409a102d1.7z",
-        sha256 = "d2dd78f17c250e568a3bc51307e4244aa90f25341da879221075fe9ee4a764f9"
-    },
-    ["windows-x64-vc14.29.30133-c9201ea03bc848deae5ddc1409a102d1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-c9201ea03bc848deae5ddc1409a102d1.7z",
-        sha256 = "38dd6ce79882eb35d2ec14dbe3d7baa7a5d0366dcbac798086b1bfc950a75bb5"
-    },
-    ["windows-x86-vc14.29.30133-1efa5de84a5541bf84b4e81d963adc89"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-1efa5de84a5541bf84b4e81d963adc89.7z",
-        sha256 = "2c4df08ae736c49aa2f19bcd15f63744bccc5b057600e69cac4b19021b92aaaa"
-    },
-    ["windows-x64-vc14.37.32822-effe7bf737af4fcf86bd9461fac3adb6"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-effe7bf737af4fcf86bd9461fac3adb6.7z",
-        sha256 = "0bbb54f9dfd7db5ad37af660e32646f4e6b2feac79217d32fe5ff974327ea44e"
-    },
-    ["windows-x86-vc14.29.30133-1a8e295a8bac4c428ddbe9bf6f24754e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-1a8e295a8bac4c428ddbe9bf6f24754e.7z",
-        sha256 = "4c466ddcecf93770aca63224774d5b3b79426898c16a0c4d247b830c2d5b67f8"
-    },
-    ["windows-x86-vc14.29.30133-46d0f4458e404c0882d5bf2ea9f3972a"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-46d0f4458e404c0882d5bf2ea9f3972a.7z",
-        sha256 = "c825d66e7b26e3d7535d4c92a5dae800538a53c00a81c26bb5423021051f0a1b"
-    },
-    ["windows-x86-vc14.29.30133-cdc1ef49ca244a328b7ec5b295736807"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-cdc1ef49ca244a328b7ec5b295736807.7z",
-        sha256 = "8e3bdfa141fd6dfba4fa35b3064fbf9108935faae7fc533016985fde5831f5fa"
-    },
-    ["windows-x64-vc14.29.30133-2ac0d64315874c3aae6a82ab84f2aa89"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-2ac0d64315874c3aae6a82ab84f2aa89.7z",
-        sha256 = "32ca3900512e3c53203077b1aab0b1548da4acc0324d6ecfa02dc7aec8670cb1"
-    },
-    ["windows-x86-vc14.37.32822-1efa5de84a5541bf84b4e81d963adc89"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.37.32822-1efa5de84a5541bf84b4e81d963adc89.7z",
-        sha256 = "71eb4ff55699857f607cae79e5e1568b59c49d1c8411314c8137cd9d9f671fc2"
+        sha256 = "5cbb6ea6b7904b636362284aef41bfb32cf81b42129497448a75779a87ffa43a",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.37.32822-46d0f4458e404c0882d5bf2ea9f3972a"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.37.32822-46d0f4458e404c0882d5bf2ea9f3972a.7z",
-        sha256 = "b0d8e26fe6925fe09be57d87eed2c2f34396b77c0454d8142e36cb8a76f6b0f3"
+        sha256 = "b0d8e26fe6925fe09be57d87eed2c2f34396b77c0454d8142e36cb8a76f6b0f3",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-b62578bce06f4d20bce02b7c0c83025e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-b62578bce06f4d20bce02b7c0c83025e.7z",
+        sha256 = "f392d78f1d493ea71711424c99d70020bc49b948114f5bb0b427aca43dcbb151",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-b75d10da99b0440ea7c23a3aa55ea6b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.38.33130-b75d10da99b0440ea7c23a3aa55ea6b7.7z",
+        sha256 = "f69bb77433ed24ad03ccb5029145bbfa2643a7732e040e29b3ca1222d16fe434",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-c9201ea03bc848deae5ddc1409a102d1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-c9201ea03bc848deae5ddc1409a102d1.7z",
+        sha256 = "38dd6ce79882eb35d2ec14dbe3d7baa7a5d0366dcbac798086b1bfc950a75bb5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-b75d10da99b0440ea7c23a3aa55ea6b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-b75d10da99b0440ea7c23a3aa55ea6b7.7z",
+        sha256 = "539a439edc76c3fe33d0c0f5a057ac39c069358d5c0042a8072f4012bb405f35",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-a9c6c27791704e5b9727e988d4ec2882"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.38.33130-a9c6c27791704e5b9727e988d4ec2882.7z",
+        sha256 = "000b0fcf0ecd17392e6d77e1ec847a49241faafb39ce7ac5d1c7c473b8a921bc",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-b62578bce06f4d20bce02b7c0c83025e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.38.33130-b62578bce06f4d20bce02b7c0c83025e.7z",
+        sha256 = "7087e5c41b7a1f5f5d6236e379cd57d57ac478c1d51ad9ac20c9188776add29c",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-f1ff71ff85364fa89c17d828953ae217"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-f1ff71ff85364fa89c17d828953ae217.7z",
+        sha256 = "05f9f3f360e63d6ae38ad1071dc61d817588e762ec8672d4916068910d59ce4d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-1a8e295a8bac4c428ddbe9bf6f24754e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.37.32822-1a8e295a8bac4c428ddbe9bf6f24754e.7z",
+        sha256 = "4e413a2c02f734f89d233bc74a1c867a281503a3fb47fd6fb43833b9e8e7ab8a",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-5beef67fcc9341f29beebc5e310d1b15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-5beef67fcc9341f29beebc5e310d1b15.7z",
+        sha256 = "5f1ba9e1e4fee86e9d81d4206b3a0d69021bdda3ea1babd19edfae1f47ab934b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-7838458b514e4cc9a55d0e3a96ed8d8d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-7838458b514e4cc9a55d0e3a96ed8d8d.7z",
+        sha256 = "b697542093a047005b6e12500494bcc1af9df1c9af0502377f41fe22bab06648",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-46d0f4458e404c0882d5bf2ea9f3972a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-46d0f4458e404c0882d5bf2ea9f3972a.7z",
+        sha256 = "c825d66e7b26e3d7535d4c92a5dae800538a53c00a81c26bb5423021051f0a1b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-cdc1ef49ca244a328b7ec5b295736807"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-cdc1ef49ca244a328b7ec5b295736807.7z",
+        sha256 = "8e3bdfa141fd6dfba4fa35b3064fbf9108935faae7fc533016985fde5831f5fa",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-c04aa7f1344544a6b96a1396703d9b6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-c04aa7f1344544a6b96a1396703d9b6d.7z",
+        sha256 = "3f172b70253914266a71960e6de57c91d169b1d8bf6ed3cf58805eafc523ed80",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-1efa5de84a5541bf84b4e81d963adc89"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-1efa5de84a5541bf84b4e81d963adc89.7z",
+        sha256 = "2c4df08ae736c49aa2f19bcd15f63744bccc5b057600e69cac4b19021b92aaaa",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-1efa5de84a5541bf84b4e81d963adc89"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.37.32822-1efa5de84a5541bf84b4e81d963adc89.7z",
+        sha256 = "71eb4ff55699857f607cae79e5e1568b59c49d1c8411314c8137cd9d9f671fc2",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-a9c6c27791704e5b9727e988d4ec2882"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-a9c6c27791704e5b9727e988d4ec2882.7z",
+        sha256 = "46d87f89f891b35b135d6c8e7893ed8e0c5e8fb85e34aa1efbf05d90c194b0a8",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-c04aa7f1344544a6b96a1396703d9b6d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.38.33130-c04aa7f1344544a6b96a1396703d9b6d.7z",
+        sha256 = "bb45e6a86198312131d8c0550e203e5fb7fe3c1fec240ae941344b6009686631",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-743ddb44d26b49748ca9429f45835d72"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.38.33130-743ddb44d26b49748ca9429f45835d72.7z",
+        sha256 = "4474c1108976b3a4370f7ab116d6616540c3b633cf8556f4403e80b2b616fc16",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.37.32822-effe7bf737af4fcf86bd9461fac3adb6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-effe7bf737af4fcf86bd9461fac3adb6.7z",
+        sha256 = "0bbb54f9dfd7db5ad37af660e32646f4e6b2feac79217d32fe5ff974327ea44e",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-d08afe7b126846918824925636a877fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-d08afe7b126846918824925636a877fc.7z",
+        sha256 = "d5c0116cf669c462b87754a3208e2ca9a0ea5502e2d81bd0956067ad838676fc",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-7838458b514e4cc9a55d0e3a96ed8d8d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.38.33130-7838458b514e4cc9a55d0e3a96ed8d8d.7z",
+        sha256 = "e6d1a234f51988019fc3916f7290d54c4d86e79592847825e212760f57889b7b",
+        toolset = "14.38.33130"
     },
     ["windows-x86-vc14.37.32822-cdc1ef49ca244a328b7ec5b295736807"] = {
-        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.37.32822-cdc1ef49ca244a328b7ec5b295736807.7z",
-        sha256 = "aa2b875d30640b4d88093a864d24a4d70b4aafdb4a7dac7318139fc5f4c5c6a6"
+        sha256 = "aa2b875d30640b4d88093a864d24a4d70b4aafdb4a7dac7318139fc5f4c5c6a6",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.38.33130-d08afe7b126846918824925636a877fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.38.33130-d08afe7b126846918824925636a877fc.7z",
+        sha256 = "2e09c1d5c0b723ec2a3abafe9ccb64359a9bc1a2812104ead9c2f737b906ea4e",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.37.32822-2ac0d64315874c3aae6a82ab84f2aa89"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-2ac0d64315874c3aae6a82ab84f2aa89.7z",
+        sha256 = "6facbaf790e475a6f9e95aa1ab9e958063b1a595947f8ea606755d2716b4998b",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-2ac0d64315874c3aae6a82ab84f2aa89"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.29.30133-2ac0d64315874c3aae6a82ab84f2aa89.7z",
+        sha256 = "32ca3900512e3c53203077b1aab0b1548da4acc0324d6ecfa02dc7aec8670cb1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-743ddb44d26b49748ca9429f45835d72"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-743ddb44d26b49748ca9429f45835d72.7z",
+        sha256 = "540252a1addf928942f2581300d2e557cdb22636ffd65ade97204f93c8602715",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-1a8e295a8bac4c428ddbe9bf6f24754e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x86-vc14.29.30133-1a8e295a8bac4c428ddbe9bf6f24754e.7z",
+        sha256 = "4c466ddcecf93770aca63224774d5b3b79426898c16a0c4d247b830c2d5b67f8",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-c9201ea03bc848deae5ddc1409a102d1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libsodium-1.0.19/windows-x64-vc14.37.32822-c9201ea03bc848deae5ddc1409a102d1.7z",
+        sha256 = "d2dd78f17c250e568a3bc51307e4244aa90f25341da879221075fe9ee4a764f9",
+        toolset = "14.37.32822"
     }
 }
