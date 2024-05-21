@@ -1,82 +1,117 @@
 {
-    ["windows-x64-vc14.38.33130-a3dd2a9819244b7ab9690203dcc63402"] = {
-        sha256 = "03525463386b9f330763830d4e426e57ff8e2acdff8706000fb2b365499a4e0c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-a3dd2a9819244b7ab9690203dcc63402.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-3e295c18ba604c55959f1d9aa86b3c59"] = {
-        sha256 = "7bf54242534d083ad690de5e2574a87bfb495898386c8b787113fbb9231b5b07",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-3e295c18ba604c55959f1d9aa86b3c59.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-5eaa4a3f045f4a8ba69dab7cce1c7fc9"] = {
-        sha256 = "2f1f243d2dcedb3315a2122425fb7881fda8f6e25fe6a5558f267a97d1a84890",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-5eaa4a3f045f4a8ba69dab7cce1c7fc9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-135607ca5d3545abb998f06a3be89fc2"] = {
-        sha256 = "c905c2ce97e29045b9559dcd5f4afbcfb7f2192aade071d1b2d22dff31e09bd1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-135607ca5d3545abb998f06a3be89fc2.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-a3dd2a9819244b7ab9690203dcc63402"] = {
-        sha256 = "bda430cc1948d383c5e384b2a4262a0990c09ee75de45198ed2765c7b3232e4e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-a3dd2a9819244b7ab9690203dcc63402.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x86-vc14.38.33130-3e295c18ba604c55959f1d9aa86b3c59"] = {
-        sha256 = "39d93cba44c5bdf251aa23874b701dc91e39041b42c48eaace37bfbc446e379b",
+        toolset = "14.38.33130",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.38.33130-3e295c18ba604c55959f1d9aa86b3c59.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-68a2c94232af4354bc30fc536c064513"] = {
-        sha256 = "6e998c3f844589e08d6c246cbb251aa0322c788013a10ae085f430602082f527",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-68a2c94232af4354bc30fc536c064513.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.38.33130-cc6032e6b388466895563b1574d451db"] = {
-        sha256 = "b3dbb6428e196be7b70efbfec129bf08fdf857570c5a9183bc6fb8ce6010f86d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.38.33130-cc6032e6b388466895563b1574d451db.7z",
-        toolset = "14.38.33130"
+        sha256 = "39d93cba44c5bdf251aa23874b701dc91e39041b42c48eaace37bfbc446e379b"
     },
     ["windows-x64-vc14.29.30133-68a2c94232af4354bc30fc536c064513"] = {
-        sha256 = "ce9e9421dead3c068234d8b0afc2d79747dd957fba7545e1f7e3664f2585a79e",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-68a2c94232af4354bc30fc536c064513.7z",
-        toolset = "14.29.30133"
+        sha256 = "ce9e9421dead3c068234d8b0afc2d79747dd957fba7545e1f7e3664f2585a79e"
+    },
+    ["windows-x64-vc14.29.30133-a3dd2a9819244b7ab9690203dcc63402"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-a3dd2a9819244b7ab9690203dcc63402.7z",
+        sha256 = "f98dedfe2a21132f90260a09f960e836a4eeb54204ca0f95df8fb2a365596872"
+    },
+    ["windows-x64-vc14.39.33519-4fadee05a64b4712a4909a49c3ab79ad"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.39.33519-4fadee05a64b4712a4909a49c3ab79ad.7z",
+        sha256 = "2812fa8e358fcf5ca85af3b0339c6fa47d0460631e822b629e23b4b6f87fe291"
     },
     ["windows-x86-vc14.38.33130-5eaa4a3f045f4a8ba69dab7cce1c7fc9"] = {
-        sha256 = "b7d097f798c0ed93cda6288acb8aadb38d1d30e7aee8cbd168d0a98992336b42",
+        toolset = "14.38.33130",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.38.33130-5eaa4a3f045f4a8ba69dab7cce1c7fc9.7z",
-        toolset = "14.38.33130"
+        sha256 = "b7d097f798c0ed93cda6288acb8aadb38d1d30e7aee8cbd168d0a98992336b42"
     },
-    ["windows-x86-vc14.29.30133-e4ecabf97ab243dbaebab26a6eda3f1a"] = {
-        sha256 = "2928f1c877a083b1f7380691c8209e18f20930a7b2a600d1d9c167ca829fadc1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-e4ecabf97ab243dbaebab26a6eda3f1a.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-5eaa4a3f045f4a8ba69dab7cce1c7fc9"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-5eaa4a3f045f4a8ba69dab7cce1c7fc9.7z",
+        sha256 = "6f2de7640a79919e7f7411c9d3f7621f5f0f9b737be9b8d35752b7ab339a99f4"
     },
-    ["windows-x64-vc14.38.33130-135607ca5d3545abb998f06a3be89fc2"] = {
-        sha256 = "50de57edfa6a505a643186cfd9ef091598b7d2dbde6ca2c4898d928fb3a41f16",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-135607ca5d3545abb998f06a3be89fc2.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-cc6032e6b388466895563b1574d451db"] = {
-        sha256 = "22ab3ebd243e74e59f3b106c6b56503b49c8b6273997463d05ecc53b8ee883b5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-cc6032e6b388466895563b1574d451db.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-3e295c18ba604c55959f1d9aa86b3c59"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-3e295c18ba604c55959f1d9aa86b3c59.7z",
+        sha256 = "7bf54242534d083ad690de5e2574a87bfb495898386c8b787113fbb9231b5b07"
     },
     ["windows-x64-vc14.38.33130-a6da55c180874cf49d1ac688892bc24c"] = {
-        sha256 = "d51e5f943ad15ec120d096097ee285bcfb61fedc076e502888d95d2597fd5ff9",
+        toolset = "14.38.33130",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-a6da55c180874cf49d1ac688892bc24c.7z",
-        toolset = "14.38.33130"
+        sha256 = "d51e5f943ad15ec120d096097ee285bcfb61fedc076e502888d95d2597fd5ff9"
+    },
+    ["windows-x64-vc14.39.33519-cf146e194d9e4373aa2e468b2cd43a29"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.39.33519-cf146e194d9e4373aa2e468b2cd43a29.7z",
+        sha256 = "2772b288928461f2f42ebc0cd879ead7cee477860735fb7948474538327107a9"
+    },
+    ["windows-x86-vc14.39.33519-cc6032e6b388466895563b1574d451db"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.39.33519-cc6032e6b388466895563b1574d451db.7z",
+        sha256 = "18ff50975b0894e29462b17e55144eeea45ee28041922672bf021ffbdcc3d510"
+    },
+    ["windows-x86-vc14.29.30133-e4ecabf97ab243dbaebab26a6eda3f1a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-e4ecabf97ab243dbaebab26a6eda3f1a.7z",
+        sha256 = "2928f1c877a083b1f7380691c8209e18f20930a7b2a600d1d9c167ca829fadc1"
     },
     ["windows-x64-vc14.29.30133-a6da55c180874cf49d1ac688892bc24c"] = {
-        sha256 = "ef88d007678022e333c17a10bef3415d0d1c229d37c4c39c53d8373cd5e651bb",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-a6da55c180874cf49d1ac688892bc24c.7z",
-        toolset = "14.29.30133"
+        sha256 = "ef88d007678022e333c17a10bef3415d0d1c229d37c4c39c53d8373cd5e651bb"
+    },
+    ["windows-x86-vc14.29.30133-46bb5ab46d7644f6a2ac93767804c3be"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-46bb5ab46d7644f6a2ac93767804c3be.7z",
+        sha256 = "fb7015f5fb5dc25a88af1b319c9e8656680c45d454bea9b2c4826b3c88592659"
+    },
+    ["windows-x64-vc14.29.30133-135607ca5d3545abb998f06a3be89fc2"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-135607ca5d3545abb998f06a3be89fc2.7z",
+        sha256 = "c905c2ce97e29045b9559dcd5f4afbcfb7f2192aade071d1b2d22dff31e09bd1"
+    },
+    ["windows-x86-vc14.29.30133-8371fb9a050240babb65762462054b07"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-8371fb9a050240babb65762462054b07.7z",
+        sha256 = "7087cbff4d24337a140b38c240f5e13880046d8428b39096124677caec4b0ae2"
+    },
+    ["windows-x64-vc14.38.33130-135607ca5d3545abb998f06a3be89fc2"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-135607ca5d3545abb998f06a3be89fc2.7z",
+        sha256 = "50de57edfa6a505a643186cfd9ef091598b7d2dbde6ca2c4898d928fb3a41f16"
+    },
+    ["windows-x86-vc14.29.30133-cc6032e6b388466895563b1574d451db"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.29.30133-cc6032e6b388466895563b1574d451db.7z",
+        sha256 = "22ab3ebd243e74e59f3b106c6b56503b49c8b6273997463d05ecc53b8ee883b5"
+    },
+    ["windows-x86-vc14.38.33130-cc6032e6b388466895563b1574d451db"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.38.33130-cc6032e6b388466895563b1574d451db.7z",
+        sha256 = "b3dbb6428e196be7b70efbfec129bf08fdf857570c5a9183bc6fb8ce6010f86d"
+    },
+    ["windows-x64-vc14.38.33130-a3dd2a9819244b7ab9690203dcc63402"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-a3dd2a9819244b7ab9690203dcc63402.7z",
+        sha256 = "03525463386b9f330763830d4e426e57ff8e2acdff8706000fb2b365499a4e0c"
+    },
+    ["windows-x64-vc14.29.30133-8e157266843449d8b2a733106d49b8e7"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.29.30133-8e157266843449d8b2a733106d49b8e7.7z",
+        sha256 = "d3a5933d19c80ff11169b64b75b8a39e98b6f9b933dffb1afb89b05998a3d06a"
+    },
+    ["windows-x64-vc14.38.33130-68a2c94232af4354bc30fc536c064513"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.38.33130-68a2c94232af4354bc30fc536c064513.7z",
+        sha256 = "6e998c3f844589e08d6c246cbb251aa0322c788013a10ae085f430602082f527"
+    },
+    ["windows-x64-vc14.39.33519-944501b0c8684e7fb19dd80af64ddabf"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x64-vc14.39.33519-944501b0c8684e7fb19dd80af64ddabf.7z",
+        sha256 = "91bd04070b6b534932c00d4377117a19a3e52789c366c5d7d9ed1d02e8805411"
     },
     ["windows-x86-vc14.38.33130-e4ecabf97ab243dbaebab26a6eda3f1a"] = {
-        sha256 = "e22f040ea207836c105ca9811275958c0c16c89e8a4f02700cbc6cbd328e3301",
+        toolset = "14.38.33130",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlite3-3.45.0%2B100/windows-x86-vc14.38.33130-e4ecabf97ab243dbaebab26a6eda3f1a.7z",
-        toolset = "14.38.33130"
+        sha256 = "e22f040ea207836c105ca9811275958c0c16c89e8a4f02700cbc6cbd328e3301"
     }
 }
