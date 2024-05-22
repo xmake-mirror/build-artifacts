@@ -4,10 +4,10 @@
         toolset = "14.37.32822",
         sha256 = "d051d49a5a9ab403e9eb687e90969997cd162048f2de3596228587ccf6240d15"
     },
-    ["windows-x64-vc14.37.32822-f11ed2e26125432cb8f0fa822f583f24"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.37.32822-f11ed2e26125432cb8f0fa822f583f24.7z",
-        toolset = "14.37.32822",
-        sha256 = "b09f06b8526fa0b74236ecbafd3cdd5403bc4f6ca8c9e69f683df676a6972a6e"
+    ["windows-x64-vc14.29.30133-83fa3fef01984d1abc39182990b0eb8a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.29.30133-83fa3fef01984d1abc39182990b0eb8a.7z",
+        toolset = "14.29.30133",
+        sha256 = "f2fed70a57f0265703c8fed2cea6d340dd69b0e29b52e0d0a24076d6716e3b3b"
     },
     ["windows-x64-vc14.29.30133-43fc208a7f944bdcbb81ea450e22a8b2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.29.30133-43fc208a7f944bdcbb81ea450e22a8b2.7z",
@@ -19,15 +19,15 @@
         toolset = "14.39.33519",
         sha256 = "a266673c53c3a6193604eb4ec1b11258bd6d70e0d836e5678c28cff700a0b9cd"
     },
-    ["windows-x86-vc14.39.33519-85a1a452ffe442a0b7cf877bc3d764de"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x86-vc14.39.33519-85a1a452ffe442a0b7cf877bc3d764de.7z",
-        toolset = "14.39.33519",
-        sha256 = "1d15555ed87e745f613c92badc29bae5bcfb224decccaecf73d51b73e6cbb9d8"
-    },
-    ["windows-x64-vc14.29.30133-83fa3fef01984d1abc39182990b0eb8a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.29.30133-83fa3fef01984d1abc39182990b0eb8a.7z",
+    ["windows-x64-vc14.29.30133-f11ed2e26125432cb8f0fa822f583f24"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.29.30133-f11ed2e26125432cb8f0fa822f583f24.7z",
         toolset = "14.29.30133",
-        sha256 = "f2fed70a57f0265703c8fed2cea6d340dd69b0e29b52e0d0a24076d6716e3b3b"
+        sha256 = "fc776ea1c59c532b9107523b6ad903684ec8334698e036448d5c186248401e4e"
+    },
+    ["windows-x64-vc14.37.32822-f11ed2e26125432cb8f0fa822f583f24"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.37.32822-f11ed2e26125432cb8f0fa822f583f24.7z",
+        toolset = "14.37.32822",
+        sha256 = "b09f06b8526fa0b74236ecbafd3cdd5403bc4f6ca8c9e69f683df676a6972a6e"
     },
     ["windows-x86-vc14.29.30133-e4317a6b26854c57858fb68677065a44"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x86-vc14.29.30133-e4317a6b26854c57858fb68677065a44.7z",
@@ -39,10 +39,10 @@
         toolset = "14.29.30133",
         sha256 = "a68726abeb06314d1f39de078bd394b662387a029d46f0cad3a2b5433642fcbf"
     },
-    ["windows-x64-vc14.39.33519-c88cdc84648041e5bbd64ae65393b9be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.39.33519-c88cdc84648041e5bbd64ae65393b9be.7z",
+    ["windows-x64-vc14.39.33519-43fc208a7f944bdcbb81ea450e22a8b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.39.33519-43fc208a7f944bdcbb81ea450e22a8b2.7z",
         toolset = "14.39.33519",
-        sha256 = "bf9415dc504dd19cf8fa2b2d980041ac0bf330359dddcd860c75191b19340f52"
+        sha256 = "83111477c3c29a43426c0cab0f81afa3e698dd90d5d8e80c3f1293e6883e3351"
     },
     ["windows-x86-vc14.29.30133-044f0dc57f1b4a3d84e17a8b70245f1f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x86-vc14.29.30133-044f0dc57f1b4a3d84e17a8b70245f1f.7z",
@@ -54,10 +54,10 @@
         toolset = "14.37.32822",
         sha256 = "378d6ad95282fbf1ccde4171cfd63f798d498d5bad8b856f79059928d6c1aecc"
     },
-    ["windows-x64-vc14.29.30133-f11ed2e26125432cb8f0fa822f583f24"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.29.30133-f11ed2e26125432cb8f0fa822f583f24.7z",
-        toolset = "14.29.30133",
-        sha256 = "fc776ea1c59c532b9107523b6ad903684ec8334698e036448d5c186248401e4e"
+    ["windows-x86-vc14.39.33519-85a1a452ffe442a0b7cf877bc3d764de"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x86-vc14.39.33519-85a1a452ffe442a0b7cf877bc3d764de.7z",
+        toolset = "14.39.33519",
+        sha256 = "1d15555ed87e745f613c92badc29bae5bcfb224decccaecf73d51b73e6cbb9d8"
     },
     ["windows-x86-vc14.29.30133-85a1a452ffe442a0b7cf877bc3d764de"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x86-vc14.29.30133-85a1a452ffe442a0b7cf877bc3d764de.7z",
@@ -69,10 +69,10 @@
         toolset = "14.37.32822",
         sha256 = "e292f0744b07abe0ba34ca3bde1d13801d1c6b92f70c6ff2d1b857558f64731c"
     },
-    ["windows-x64-vc14.39.33519-43fc208a7f944bdcbb81ea450e22a8b2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.39.33519-43fc208a7f944bdcbb81ea450e22a8b2.7z",
+    ["windows-x64-vc14.39.33519-c88cdc84648041e5bbd64ae65393b9be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x64-vc14.39.33519-c88cdc84648041e5bbd64ae65393b9be.7z",
         toolset = "14.39.33519",
-        sha256 = "83111477c3c29a43426c0cab0f81afa3e698dd90d5d8e80c3f1293e6883e3351"
+        sha256 = "bf9415dc504dd19cf8fa2b2d980041ac0bf330359dddcd860c75191b19340f52"
     },
     ["windows-x86-vc14.29.30133-dc9d1f802829410fac16ce2a95ae0a74"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/capnproto-0.9.0/windows-x86-vc14.29.30133-dc9d1f802829410fac16ce2a95ae0a74.7z",
