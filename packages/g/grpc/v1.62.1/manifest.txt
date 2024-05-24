@@ -1,42 +1,62 @@
 {
+    ["windows-x64-vc14.29.30133-94199e7ff8e24dc3ba94ad5846bb4df2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.29.30133-94199e7ff8e24dc3ba94ad5846bb4df2.7z",
+        toolset = "14.29.30133",
+        sha256 = "c72b4ec02518a5839d9c5925db1ae0e2c71c03b6a9718d62768e4605dbf25250"
+    },
+    ["windows-x86-vc14.39.33519-51facacb01fb47019b92fc36c0971201"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.39.33519-51facacb01fb47019b92fc36c0971201.7z",
+        toolset = "14.39.33519",
+        sha256 = "2a6ca5a795c141314396329418b23f7cbd9f1220f7d6ace21f6c9b6b5bd356c9"
+    },
+    ["windows-x64-vc14.29.30133-e0eef5f34c38400a87f8ba2e6bbf0a9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.29.30133-e0eef5f34c38400a87f8ba2e6bbf0a9f.7z",
+        toolset = "14.29.30133",
+        sha256 = "44035651a55363a560a56d5d28fbbbe89ee96d552d16ad23807a9acc33f2eced"
+    },
+    ["windows-x86-vc14.39.33519-705b6728b986466e99597a82eceb68f9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.39.33519-705b6728b986466e99597a82eceb68f9.7z",
+        toolset = "14.39.33519",
+        sha256 = "73bceb5d1486d6e74680c66f8232e5e4dfed1d4f6d40eb91f2af5b0ced3f145f"
+    },
     ["windows-x86-vc14.38.33130-51facacb01fb47019b92fc36c0971201"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.38.33130-51facacb01fb47019b92fc36c0971201.7z",
         toolset = "14.38.33130",
         sha256 = "9048c14865cda85d91b5dd9e8292bf8eb7cc9ed7b73831b1c0318914e562b6f8"
-    },
-    ["windows-x64-vc14.38.33130-e0eef5f34c38400a87f8ba2e6bbf0a9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.38.33130-e0eef5f34c38400a87f8ba2e6bbf0a9f.7z",
-        toolset = "14.38.33130",
-        sha256 = "024286c7bbe73a2a49701e4382bd9405de75014458b334b0f6e5820d1ac10919"
-    },
-    ["windows-x64-vc14.29.30133-94199e7ff8e24dc3ba94ad5846bb4df2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.29.30133-94199e7ff8e24dc3ba94ad5846bb4df2.7z",
-        toolset = "14.29.30133",
-        sha256 = "752f7e22c60dc3583e272620e01bbc9b07a1ef17eeec353218a63fa6dccaee38"
-    },
-    ["windows-x86-vc14.29.30133-705b6728b986466e99597a82eceb68f9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.29.30133-705b6728b986466e99597a82eceb68f9.7z",
-        toolset = "14.29.30133",
-        sha256 = "a22d6fca0c12eccbdb62291bea93189fe0239e1943bb16bb5fb156eb3cef299a"
-    },
-    ["windows-x64-vc14.38.33130-94199e7ff8e24dc3ba94ad5846bb4df2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.38.33130-94199e7ff8e24dc3ba94ad5846bb4df2.7z",
-        toolset = "14.38.33130",
-        sha256 = "1c4d3977fd60e73ea98accffc50dbba4ae0d05ed464c7f11d0dab9493cfed3ff"
     },
     ["windows-x86-vc14.38.33130-705b6728b986466e99597a82eceb68f9"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.38.33130-705b6728b986466e99597a82eceb68f9.7z",
         toolset = "14.38.33130",
         sha256 = "5692454924e6627f47d4ed4c917fdb21cb3522062cee72a4974f24dd85571964"
     },
-    ["windows-x64-vc14.29.30133-e0eef5f34c38400a87f8ba2e6bbf0a9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.29.30133-e0eef5f34c38400a87f8ba2e6bbf0a9f.7z",
-        toolset = "14.29.30133",
-        sha256 = "5ce2c0d1d165a5709801abaa6bdf300e7e5b237a33fc8930c69fc2b937d81e27"
-    },
     ["windows-x86-vc14.29.30133-51facacb01fb47019b92fc36c0971201"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.29.30133-51facacb01fb47019b92fc36c0971201.7z",
         toolset = "14.29.30133",
-        sha256 = "8bea3d2e0512c90d6f69015fc7544073c4ca0b2a39046eb0260275209d864a9e"
+        sha256 = "8caa3e605720ad0be014240a1e9eef5c24984fc1f21ddc4f51b692d5b9739b9f"
+    },
+    ["windows-x86-vc14.29.30133-705b6728b986466e99597a82eceb68f9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x86-vc14.29.30133-705b6728b986466e99597a82eceb68f9.7z",
+        toolset = "14.29.30133",
+        sha256 = "fb317d1d6b4a7e8ce2ccdb498d1f9df329cb87d3dd928b32a5d01e6952fdb3f1"
+    },
+    ["windows-x64-vc14.38.33130-94199e7ff8e24dc3ba94ad5846bb4df2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.38.33130-94199e7ff8e24dc3ba94ad5846bb4df2.7z",
+        toolset = "14.38.33130",
+        sha256 = "1c4d3977fd60e73ea98accffc50dbba4ae0d05ed464c7f11d0dab9493cfed3ff"
+    },
+    ["windows-x64-vc14.39.33519-94199e7ff8e24dc3ba94ad5846bb4df2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.39.33519-94199e7ff8e24dc3ba94ad5846bb4df2.7z",
+        toolset = "14.39.33519",
+        sha256 = "c085cf400233640ef26ac7d649ded632ebc610eff28b3b141acad38b53320324"
+    },
+    ["windows-x64-vc14.39.33519-e0eef5f34c38400a87f8ba2e6bbf0a9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.39.33519-e0eef5f34c38400a87f8ba2e6bbf0a9f.7z",
+        toolset = "14.39.33519",
+        sha256 = "8da3bf5ac6e67a017f1214056f056589aa9c8a0f6375cbc29cacbdc175fcce87"
+    },
+    ["windows-x64-vc14.38.33130-e0eef5f34c38400a87f8ba2e6bbf0a9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/grpc-v1.62.1/windows-x64-vc14.38.33130-e0eef5f34c38400a87f8ba2e6bbf0a9f.7z",
+        toolset = "14.38.33130",
+        sha256 = "024286c7bbe73a2a49701e4382bd9405de75014458b334b0f6e5820d1ac10919"
     }
 }
