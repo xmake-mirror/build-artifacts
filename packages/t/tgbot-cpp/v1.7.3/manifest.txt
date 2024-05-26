@@ -1,42 +1,102 @@
 {
-    ["windows-x64-vc14.29.30133-106834a4ce184929a92bc24fa3533c10"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-106834a4ce184929a92bc24fa3533c10.7z",
-        sha256 = "7779501c379d22420dbf0faf27a8983d6bbaa120fbc70f47d964ce23514727d3",
+    ["windows-x64-vc14.39.33519-c293982608634ef5b382e591792d921e"] = {
+        sha256 = "7ce2b71ecc211c5b777821a976397a504000ceba7ec1f3b0661cdf6ce4bd336c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.39.33519-c293982608634ef5b382e591792d921e.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-b0c05920ec1842af9937f8fa25636900"] = {
+        sha256 = "eab21ee2a9f5829845ea38e83051400165280d0c0c822af5c4b25140ebb2a6e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.29.30133-b0c05920ec1842af9937f8fa25636900.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-174d6a2177fb4a77be83670df0e3eec6"] = {
+        sha256 = "a909710a8bfccc7af308967010be4df292d2cc0addad6e2fb18028f9fba9d36e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.39.33519-174d6a2177fb4a77be83670df0e3eec6.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-5375a6f907c94dff90598928d2dbe032"] = {
+        sha256 = "775f96df6742a02ee11aaa2e8b1c8a83341d4c141634dee73b09752efe79bc51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-5375a6f907c94dff90598928d2dbe032.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-b0c05920ec1842af9937f8fa25636900"] = {
+        sha256 = "9fa3d8107c0a056e9073f4959d183f8f33b3f59186ea6cc1df02a22111182980",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.39.33519-b0c05920ec1842af9937f8fa25636900.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-9520768e78c54d2cbaa63841edd68ab0"] = {
+        sha256 = "4615fe36c8d276d5420e65dfeb7f0981397d88655e24f4c1d25b6ac05dc95818",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.29.30133-9520768e78c54d2cbaa63841edd68ab0.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-9520768e78c54d2cbaa63841edd68ab0"] = {
+        sha256 = "401c6c1d5866b3945f4f17e9af3bf11f90fe67d8a2df61ee416f9974bbee7eb6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.39.33519-9520768e78c54d2cbaa63841edd68ab0.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-c293982608634ef5b382e591792d921e"] = {
+        sha256 = "44e8b4b08d2b1cd37cb1dfe4910fc946fcdce975d9a45b89a8ed8145afd04754",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-c293982608634ef5b382e591792d921e.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.38.33130-106834a4ce184929a92bc24fa3533c10"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-106834a4ce184929a92bc24fa3533c10.7z",
         sha256 = "4ec52e1702df0675b236941b87d8aa67f3ecaa7ab2a7476bab3e70453ac23202",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-c293982608634ef5b382e591792d921e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-c293982608634ef5b382e591792d921e.7z",
-        sha256 = "e344abb533398fb9264ea13287a8591371e8d6cfeaedb01d8fd789c02c2250e7",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-5375a6f907c94dff90598928d2dbe032"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-5375a6f907c94dff90598928d2dbe032.7z",
-        sha256 = "923ecfd9cf48dc0c66b903302892de58fb833aef289bc3ff20f781ed6bb70c36",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-c293982608634ef5b382e591792d921e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-c293982608634ef5b382e591792d921e.7z",
-        sha256 = "7439c968c7568045c002f138223e924b05153d41b7d2413592bb0dafc25e5232",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-106834a4ce184929a92bc24fa3533c10.7z",
         toolset = "14.38.33130"
     },
     ["windows-x64-vc14.38.33130-2f7a34a72a47470599a42a9d8a2a9ec9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-2f7a34a72a47470599a42a9d8a2a9ec9.7z",
         sha256 = "33212d96484ba4fd9df47be910c4fe270e60d8378bfbed9bbea7d2c7e53fd693",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-2f7a34a72a47470599a42a9d8a2a9ec9.7z",
         toolset = "14.38.33130"
     },
+    ["windows-x64-vc14.38.33130-c293982608634ef5b382e591792d921e"] = {
+        sha256 = "7439c968c7568045c002f138223e924b05153d41b7d2413592bb0dafc25e5232",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-c293982608634ef5b382e591792d921e.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.39.33519-2f7a34a72a47470599a42a9d8a2a9ec9"] = {
+        sha256 = "796497b3f655c7d2ca7f27b5d99f0c2f46417e2a080e71a4bae4d55a9c2bfa84",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.39.33519-2f7a34a72a47470599a42a9d8a2a9ec9.7z",
+        toolset = "14.39.33519"
+    },
     ["windows-x64-vc14.29.30133-2f7a34a72a47470599a42a9d8a2a9ec9"] = {
+        sha256 = "3bc527ee3b7f18af574cd9ce555de25d48bcff9f4a5e783bbb5089b0752cea93",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-2f7a34a72a47470599a42a9d8a2a9ec9.7z",
-        sha256 = "6902be860837341ec78e6927c6411728c7f980efc36391ce8d9d679d711012e5",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-5375a6f907c94dff90598928d2dbe032"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-5375a6f907c94dff90598928d2dbe032.7z",
-        sha256 = "775f96df6742a02ee11aaa2e8b1c8a83341d4c141634dee73b09752efe79bc51",
+    ["windows-x64-vc14.29.30133-106834a4ce184929a92bc24fa3533c10"] = {
+        sha256 = "e2e809898f79d86fe7ef65122d7a25e563c9811dec15b90658502ce4bfa39fa5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.29.30133-106834a4ce184929a92bc24fa3533c10.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-5375a6f907c94dff90598928d2dbe032"] = {
+        sha256 = "923ecfd9cf48dc0c66b903302892de58fb833aef289bc3ff20f781ed6bb70c36",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.38.33130-5375a6f907c94dff90598928d2dbe032.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-6745ebce32f24a22b5b7f96521806edf"] = {
+        sha256 = "f67c95affdb751533f2303bcf50f2146a050055bcc21bac37f2cadfeaeb690c5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.29.30133-6745ebce32f24a22b5b7f96521806edf.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-106834a4ce184929a92bc24fa3533c10"] = {
+        sha256 = "d9c359ae7826ed9d3d15d4703f1dbeb6d7c2cf39745e6b0ad7e1e0c6326c99dc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.39.33519-106834a4ce184929a92bc24fa3533c10.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.39.33519-5375a6f907c94dff90598928d2dbe032"] = {
+        sha256 = "ba9be1ffdb10c5a4485426e113ced849368e415f49d6403db06468a13f077ef6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x64-vc14.39.33519-5375a6f907c94dff90598928d2dbe032.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.39.33519-6745ebce32f24a22b5b7f96521806edf"] = {
+        sha256 = "8fd69c9c250cc0b591e2d7f4ac7c21f488391e71d148183bcc7d7f26b0e61dc8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.39.33519-6745ebce32f24a22b5b7f96521806edf.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-174d6a2177fb4a77be83670df0e3eec6"] = {
+        sha256 = "663f4c90722b6a9118708ab5ddbdec64085ca13e7c7473927b307de9a684194c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tgbot-cpp-v1.7.3/windows-x86-vc14.29.30133-174d6a2177fb4a77be83670df0e3eec6.7z",
         toolset = "14.29.30133"
     }
 }
