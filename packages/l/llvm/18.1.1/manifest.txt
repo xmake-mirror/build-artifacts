@@ -1,22 +1,37 @@
 {
-    ["windows-x64-vc14.29.30133-a50392092a734147a1c75f9b56f6cfbd"] = {
-        toolset = "14.29.30133",
-        sha256 = "aabe50b1744e918bb7ec009ab535253b66391bc809f3a53d0bef3feda56267cd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x64-vc14.29.30133-a50392092a734147a1c75f9b56f6cfbd.7z"
-    },
-    ["windows-x86-vc14.29.30133-da4e1496005a4c8798bd7797590fc91b"] = {
-        toolset = "14.29.30133",
-        sha256 = "9cef34e7d4cfec76797ae3e964e615a72d05b59065281b94542c27dc7a6f3b69",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x86-vc14.29.30133-da4e1496005a4c8798bd7797590fc91b.7z"
+    ["windows-x86-vc14.29.30133-a50392092a734147a1c75f9b56f6cfbd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x86-vc14.29.30133-a50392092a734147a1c75f9b56f6cfbd.7z",
+        sha256 = "d5c04e9f70f7cce2c68c751b3ee2f3a5539e3a9b872fff2e99278fe01d6022aa",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.38.33130-a50392092a734147a1c75f9b56f6cfbd"] = {
-        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x64-vc14.38.33130-a50392092a734147a1c75f9b56f6cfbd.7z",
         sha256 = "ba90bac87baf66256bf6b94b25e764133ee1991d459e87d955369a78bb9c8507",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x64-vc14.38.33130-a50392092a734147a1c75f9b56f6cfbd.7z"
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-da4e1496005a4c8798bd7797590fc91b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x86-vc14.29.30133-da4e1496005a4c8798bd7797590fc91b.7z",
+        sha256 = "9cef34e7d4cfec76797ae3e964e615a72d05b59065281b94542c27dc7a6f3b69",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.38.33130-da4e1496005a4c8798bd7797590fc91b"] = {
-        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x86-vc14.38.33130-da4e1496005a4c8798bd7797590fc91b.7z",
         sha256 = "6e5348dfcd08240e28a8250b3c153aa942587d66d255f12ff70b84c146ea98ab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x86-vc14.38.33130-da4e1496005a4c8798bd7797590fc91b.7z"
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.39.33519-a50392092a734147a1c75f9b56f6cfbd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x64-vc14.39.33519-a50392092a734147a1c75f9b56f6cfbd.7z",
+        sha256 = "a721a3432c96d385e6ca87b09c159ed075096b0276bc76a2e63e33116650a559",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-a50392092a734147a1c75f9b56f6cfbd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x64-vc14.29.30133-a50392092a734147a1c75f9b56f6cfbd.7z",
+        sha256 = "3ced8bb873cb8a2042324041fd29b1193b3770cb283a9a77263bf620fe2b3676",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-a50392092a734147a1c75f9b56f6cfbd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/llvm-18.1.1/windows-x86-vc14.39.33519-a50392092a734147a1c75f9b56f6cfbd.7z",
+        sha256 = "0f3768df8116090aa46b6b9a9d3fa2d1f55232d5471b6bf15d946a3ed12e2d02",
+        toolset = "14.39.33519"
     }
 }
