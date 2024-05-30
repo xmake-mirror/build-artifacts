@@ -1,42 +1,42 @@
 {
-    ["windows-x86-vc14.29.30133-ce39a0f5e7d64f6e91302b7e4429e420"] = {
-        sha256 = "d4117213bccc124fef0d1210c1abcc87f4f2f75c003c5bd744de11c1e1211d43",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.29.30133-ce39a0f5e7d64f6e91302b7e4429e420.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-531c2ba6fe1646f18af7dd51b9710288"] = {
-        sha256 = "0400355863e2748e06f1c375569edbaae01f39ef59fa167dfd83ca20d6fdf778",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.39.33519-531c2ba6fe1646f18af7dd51b9710288.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-152cda2b45e9475e999e11dba66f0bc3"] = {
-        sha256 = "64be94889469ba31cafcd9a18cd598e507cb46c6a00c1ffade40ff095f50776a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.29.30133-152cda2b45e9475e999e11dba66f0bc3.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-ce39a0f5e7d64f6e91302b7e4429e420"] = {
-        sha256 = "2d8de1801ced41ed807500664d698982f662bc4f9df3e743d6296660004b8bea",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.39.33519-ce39a0f5e7d64f6e91302b7e4429e420.7z",
-        toolset = "14.39.33519"
-    },
     ["windows-x86-vc14.29.30133-531c2ba6fe1646f18af7dd51b9710288"] = {
-        sha256 = "e6cc964a24c01b0585532321fd5562259f77cb4f7c5ea6ca4df6f5c46b87aca7",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.29.30133-531c2ba6fe1646f18af7dd51b9710288.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-63238de7cc96460e845e9f5aa749bc5e"] = {
-        sha256 = "a1f17853247d31937aae628b8c27e74ea05b55524c64a6a8fa48d4e91b5cd883",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.29.30133-63238de7cc96460e845e9f5aa749bc5e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-152cda2b45e9475e999e11dba66f0bc3"] = {
-        sha256 = "e21d5d95b69a238115457f2596849148e4e49367921ea6c83c371a6ddccb60ea",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.39.33519-152cda2b45e9475e999e11dba66f0bc3.7z",
-        toolset = "14.39.33519"
+        toolset = "14.29.30133",
+        sha256 = "b0548940d2b8dd75704fc6a6ffab06b36cb69fdc1cbab141aa1ae438aacd2d18"
     },
     ["windows-x64-vc14.39.33519-63238de7cc96460e845e9f5aa749bc5e"] = {
-        sha256 = "f9937d448b25ed3b9e101d4d0cfa8d078eb719cbfc6409eb41397b9c4c865608",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.39.33519-63238de7cc96460e845e9f5aa749bc5e.7z",
-        toolset = "14.39.33519"
+        toolset = "14.39.33519",
+        sha256 = "3cb7b7d909f08fe0d266070b94082f46a785f7de803b7700f37f5d272084679a"
+    },
+    ["windows-x86-vc14.29.30133-ce39a0f5e7d64f6e91302b7e4429e420"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.29.30133-ce39a0f5e7d64f6e91302b7e4429e420.7z",
+        toolset = "14.29.30133",
+        sha256 = "e8443ec0d71f31dd169d99a2803fdae097dd626c7ef95c885f9aa8f376d7e329"
+    },
+    ["windows-x86-vc14.39.33519-ce39a0f5e7d64f6e91302b7e4429e420"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.39.33519-ce39a0f5e7d64f6e91302b7e4429e420.7z",
+        toolset = "14.39.33519",
+        sha256 = "6f14807b64d0c4eabd5922a344ad9597d667e13e33d4d2ee6664ded3ac28f367"
+    },
+    ["windows-x64-vc14.29.30133-63238de7cc96460e845e9f5aa749bc5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.29.30133-63238de7cc96460e845e9f5aa749bc5e.7z",
+        toolset = "14.29.30133",
+        sha256 = "97ca61c68a4ae617a9f4c138a2dc811c5dd0d0a2377e3a7bd3321e4d0cf89049"
+    },
+    ["windows-x64-vc14.29.30133-152cda2b45e9475e999e11dba66f0bc3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.29.30133-152cda2b45e9475e999e11dba66f0bc3.7z",
+        toolset = "14.29.30133",
+        sha256 = "b7b87a89ed21978b4ab0579a128cd393d7acf10ec51062d4065026ed1f48cf8e"
+    },
+    ["windows-x86-vc14.39.33519-531c2ba6fe1646f18af7dd51b9710288"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x86-vc14.39.33519-531c2ba6fe1646f18af7dd51b9710288.7z",
+        toolset = "14.39.33519",
+        sha256 = "15fc4eed20e8f203785b7e09f594fd79aa6d07acced383fd08c02ea435852bb8"
+    },
+    ["windows-x64-vc14.39.33519-152cda2b45e9475e999e11dba66f0bc3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/quantlib-1.34/windows-x64-vc14.39.33519-152cda2b45e9475e999e11dba66f0bc3.7z",
+        toolset = "14.39.33519",
+        sha256 = "f979d57fbdef757812c8d91b1e79d0cb17366f6e6000225fac558627383306d2"
     }
 }
