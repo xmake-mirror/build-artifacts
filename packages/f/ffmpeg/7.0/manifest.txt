@@ -1,82 +1,97 @@
 {
-    ["windows-x86-vc14.39.33519-44837940f67a4feabb6961a19eb59382"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-44837940f67a4feabb6961a19eb59382.7z",
-        sha256 = "0bbcb2b20c4c5f3f202c549ab57f09deba29bf1f550c85ce187171aac7f78733",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.39.33519-9295b27e0a6a4e59937d5304f008d730"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-9295b27e0a6a4e59937d5304f008d730.7z",
-        sha256 = "60f4bf19c46d9a700174289d78504655fb52efedaf9a29a766e8da06cf6a0904",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.39.33519-2c797407ad4d4e1596864892d1edc14e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-2c797407ad4d4e1596864892d1edc14e.7z",
-        sha256 = "116545d8acf26613853d50cc9ba4b621c61c28b2a3a8a67fc1ac322700665d33",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-2c797407ad4d4e1596864892d1edc14e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-2c797407ad4d4e1596864892d1edc14e.7z",
-        sha256 = "d0292d45108d8877e1601f81521000585a4d71437489f90eb1f8c691ad5e4d67",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-9295b27e0a6a4e59937d5304f008d730"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-9295b27e0a6a4e59937d5304f008d730.7z",
-        sha256 = "3b09525f4f4eea6d52511c09b0c101cc36991ea0f998fda8aaea2b8ad29115c7",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-39fae468e0814057824ee5bb8f9924b8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-39fae468e0814057824ee5bb8f9924b8.7z",
-        sha256 = "edd6b3ba50f681c8484605d5a37b92cc81824d9ab323cc089842a8e0fed79080",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-7ff98c0ea4374794a8ffd1e7587ca69c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-7ff98c0ea4374794a8ffd1e7587ca69c.7z",
-        sha256 = "7369e421e8cc254422e4c1c0c66eb8ce7ed71c8f2fc6b0b072c112c0de7937d3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-21fd013c696a446694d850b5595269c6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-21fd013c696a446694d850b5595269c6.7z",
-        sha256 = "f5a2c735be5955c6e23dbf6c3067faaf45a2bcd3e2f8ac812af57e016471b28a",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-39fae468e0814057824ee5bb8f9924b8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-39fae468e0814057824ee5bb8f9924b8.7z",
-        sha256 = "e809650e8763cb335cefb317956719ea47b19adf1e69f5a81a25a8dcf78d1133",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-7ff98c0ea4374794a8ffd1e7587ca69c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-7ff98c0ea4374794a8ffd1e7587ca69c.7z",
-        sha256 = "017e27893bafac28a84761a8b6fac1caf11334fc18287d1412912717727ae72a",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-44837940f67a4feabb6961a19eb59382"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-44837940f67a4feabb6961a19eb59382.7z",
-        sha256 = "1e8112aef36c4c2bc1b401c08b66d00aff8b4ed0247bd1d65a3c0107acde5041",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-a8e828a46bbe4df4b6c358587ab945f3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-a8e828a46bbe4df4b6c358587ab945f3.7z",
-        sha256 = "90936edaada7a543d482d4f40fd35cb7a19871a1979b7acf3bb2b502b73a279d",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc14.39.33519-16015d22ceaa489cac284610dfea7012"] = {
+        sha256 = "a21fbc9feeee204cfdbee30f3b3c101edf375bd1e8d7bdac2089eed6ce57e392",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-16015d22ceaa489cac284610dfea7012.7z",
-        sha256 = "dccdbc523bfb750142b2d0378ebc90b0e699d451c320feacfc80ad7b77e4f56b",
         toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-21fd013c696a446694d850b5595269c6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-21fd013c696a446694d850b5595269c6.7z",
-        sha256 = "ec360bb34b5862a88b1bb2e5d2dacab42c3924fe5bf08fece6beb1a9db99b389",
-        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-16015d22ceaa489cac284610dfea7012"] = {
+        sha256 = "bf9bce74d16fffa22eb3c01e50061decee560433d614055d551e0c6bbeff5ae3",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-16015d22ceaa489cac284610dfea7012.7z",
-        sha256 = "9c647c7a59891fb24cf2d72787d0932de21b41ac59903c904488c897be2641af",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-9295b27e0a6a4e59937d5304f008d730"] = {
+        sha256 = "36ea2c6e049314eec5891f5aa17a0062d8be286cb35904da339272f10dfcea11",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.40.33807-9295b27e0a6a4e59937d5304f008d730.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-a8e828a46bbe4df4b6c358587ab945f3"] = {
+        sha256 = "51c36d3da97dccab70f4fc3a603ff93d4d5e8c5b8fb0a76e8861687de963c6fa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-a8e828a46bbe4df4b6c358587ab945f3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-2c797407ad4d4e1596864892d1edc14e"] = {
+        sha256 = "451f379bfce55df8548246fef970756d83d890fd46a81524acbb56b5c6277963",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-2c797407ad4d4e1596864892d1edc14e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-44837940f67a4feabb6961a19eb59382"] = {
+        sha256 = "5ff3906baa1cb96e7f0767cb9e3de8bf13e8dcd4c120ffebe997ccd5a5fb2726",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-44837940f67a4feabb6961a19eb59382.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-21fd013c696a446694d850b5595269c6"] = {
+        sha256 = "9c24aa30ac822cb3cdb17f05c4c9a7d561a9b009df565bbf05246e02c1265c6c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-21fd013c696a446694d850b5595269c6.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.39.33519-a8e828a46bbe4df4b6c358587ab945f3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-a8e828a46bbe4df4b6c358587ab945f3.7z",
         sha256 = "ecab60e2ba9cc8de6e4165fd89ce9baf285e8312e6e0fa903036baeae262375c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-a8e828a46bbe4df4b6c358587ab945f3.7z",
         toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-39fae468e0814057824ee5bb8f9924b8"] = {
+        sha256 = "f5a310fb73c9031730207585a42c95b0d559b987b7412f5c0d454fa3525fec38",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-39fae468e0814057824ee5bb8f9924b8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-2c797407ad4d4e1596864892d1edc14e"] = {
+        sha256 = "7ba9af31fb1b5fee6c4797bcb807822f37903ef80992d5bb8fb14f161c8b3e99",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-2c797407ad4d4e1596864892d1edc14e.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.39.33519-7ff98c0ea4374794a8ffd1e7587ca69c"] = {
+        sha256 = "9318787239a8b6e184877a7ed279668afa44d1565c8d00befeb245870574fdfc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-7ff98c0ea4374794a8ffd1e7587ca69c.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-9295b27e0a6a4e59937d5304f008d730"] = {
+        sha256 = "54208641e2b841d65198908b3e1fc96e847adfb1b3de1e6bfe8785915e05427b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.29.30133-9295b27e0a6a4e59937d5304f008d730.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-21fd013c696a446694d850b5595269c6"] = {
+        sha256 = "f5a2c735be5955c6e23dbf6c3067faaf45a2bcd3e2f8ac812af57e016471b28a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-21fd013c696a446694d850b5595269c6.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-7ff98c0ea4374794a8ffd1e7587ca69c"] = {
+        sha256 = "e0e53f9208ce088b55816e21fac77aace9e3015506d00068aa8490bfb7ef5f51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.29.30133-7ff98c0ea4374794a8ffd1e7587ca69c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-9295b27e0a6a4e59937d5304f008d730"] = {
+        sha256 = "60f4bf19c46d9a700174289d78504655fb52efedaf9a29a766e8da06cf6a0904",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-9295b27e0a6a4e59937d5304f008d730.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.39.33519-44837940f67a4feabb6961a19eb59382"] = {
+        sha256 = "30d23fa40916a239d96818a1fa476921b8a235d1c40c0a3b5767bf462930779e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.39.33519-44837940f67a4feabb6961a19eb59382.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.40.33807-21fd013c696a446694d850b5595269c6"] = {
+        sha256 = "c7e9b8f7507b79c82ca29dcb074a5175b0c07aa55e172db9dcc01d6feab1ec86",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.40.33807-21fd013c696a446694d850b5595269c6.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.39.33519-39fae468e0814057824ee5bb8f9924b8"] = {
+        sha256 = "1f19e492051f93b91fd85d1bd30ad9246b608215d015b7a83377a1288c782389",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x64-vc14.39.33519-39fae468e0814057824ee5bb8f9924b8.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.40.33807-a8e828a46bbe4df4b6c358587ab945f3"] = {
+        sha256 = "b48c85afb2b7a0a7592c69d9c17701da4101aef2f656e38c6f3a9cbb9d97ee7c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ffmpeg-7.0/windows-x86-vc14.40.33807-a8e828a46bbe4df4b6c358587ab945f3.7z",
+        toolset = "14.40.33807"
     }
 }
