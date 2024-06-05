@@ -1,82 +1,87 @@
 {
-    ["windows-x86-vc14.39.33519-e11f56e57f974a709ed7f260b1ef1a3b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-e11f56e57f974a709ed7f260b1ef1a3b.7z",
-        sha256 = "4c108d5d643404926869689e9bd5d73529940c0cb0ba9aae9dccebb89e2dee54",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-44cf3f4e35fb4279a1af876a76618419"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-44cf3f4e35fb4279a1af876a76618419.7z",
-        sha256 = "e3eb6ffc69ae6739a99b839d1acd76a633ccb01cd41ee25b20266ad71fdb692a",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-4bc1909a149d43a4b7c6cb9aeeda6208"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-4bc1909a149d43a4b7c6cb9aeeda6208.7z",
-        sha256 = "f442c0f903743c703430e20f4c71ede969d5677a40a2fe7c79ef709fd7ec14f7",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-246eb3a2f2f8424791f9eb09b29de0d6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-246eb3a2f2f8424791f9eb09b29de0d6.7z",
-        sha256 = "dbee003c0d44a87a6cb0a968932259a20d26f505125fa00e9d9d9224834db99a",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-246eb3a2f2f8424791f9eb09b29de0d6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-246eb3a2f2f8424791f9eb09b29de0d6.7z",
-        sha256 = "91cb30d9b57ec1ac59078c6c6e2c6e34ccb60e66748116e2e47ca87e51a9d05d",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.39.33519-4bc1909a149d43a4b7c6cb9aeeda6208"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-4bc1909a149d43a4b7c6cb9aeeda6208.7z",
-        sha256 = "49ed6d9f43abce64abeac22e04a602bf3dcb89af80c2787d77e89c54b3bdbd8d",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-e11f56e57f974a709ed7f260b1ef1a3b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-e11f56e57f974a709ed7f260b1ef1a3b.7z",
-        sha256 = "72c4032f21fd5eaff56ab4361e1eeed0d488a51df5429301f3040296a8904e35",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-bdf22e68b12b469c95df3289ad8b28c4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-bdf22e68b12b469c95df3289ad8b28c4.7z",
-        sha256 = "6fb23ec788fa16c8b7934b8ff1443bd1c2d146c8fc64926ad534028b1d496fdc",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-23d7480689954204ad1e721602cc67be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-23d7480689954204ad1e721602cc67be.7z",
-        sha256 = "e1d82b539151a30188ff05326fd20efc8336177143d06e4cb90607897a6e050b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-bdf22e68b12b469c95df3289ad8b28c4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-bdf22e68b12b469c95df3289ad8b28c4.7z",
-        sha256 = "1f6de1e1d0f9a2e45019f634235a3d86d6f8ec0dc41e4b824a13d652d9179ad4",
-        toolset = "14.39.33519"
-    },
     ["windows-x64-vc14.29.30133-10234ba5244045d184b80a4aeb4c2ccd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-10234ba5244045d184b80a4aeb4c2ccd.7z",
-        sha256 = "b035acc4ba78435e36cb2dbb40350a8235db753075c5e94e596a3ec177e15be2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-6636b1b7b37d40ca802d63ca2d643b9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-6636b1b7b37d40ca802d63ca2d643b9f.7z",
-        sha256 = "95a5a516f8d18a6a1f8e5e7dcd9ebb5f3ceff92b3b8a9ada89dc0634debfd078",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.39.33519-10234ba5244045d184b80a4aeb4c2ccd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-10234ba5244045d184b80a4aeb4c2ccd.7z",
-        sha256 = "b42454b2d83689c517ea3b208d37dd9ac69356aa1b7c27d9ccf8a734de74e214",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.39.33519-44cf3f4e35fb4279a1af876a76618419"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-44cf3f4e35fb4279a1af876a76618419.7z",
-        sha256 = "b4819fa013753b74217d969ea3cd9504f2881503dfe69176ce07eac59e730cd8",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-6636b1b7b37d40ca802d63ca2d643b9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-6636b1b7b37d40ca802d63ca2d643b9f.7z",
-        sha256 = "f0e7037108d913a27a68027c581ea78b15c2054b5e91f9b991ad6078bbfb6520",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "d89fea9a39872c82440bf194a8a83593841c7822c8e1c58d1e609cb2df237ed6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-10234ba5244045d184b80a4aeb4c2ccd.7z"
     },
     ["windows-x86-vc14.39.33519-23d7480689954204ad1e721602cc67be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-23d7480689954204ad1e721602cc67be.7z",
-        sha256 = "9dec349c67fc6082d3a8a47093b4cd90b57685c7507ac5eee46f3c7c4a752545",
-        toolset = "14.39.33519"
+        toolset = "14.39.33519",
+        sha256 = "4a1370cfd76e58b911a3f0b998ec48a41d642c67f52e930b9bed8042d5a7311f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-23d7480689954204ad1e721602cc67be.7z"
+    },
+    ["windows-x86-vc14.29.30133-23d7480689954204ad1e721602cc67be"] = {
+        toolset = "14.29.30133",
+        sha256 = "f6f118e1d29bd133d059c9056dbfb7ba48035d3f5c641c430b7c08bec32e43e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-23d7480689954204ad1e721602cc67be.7z"
+    },
+    ["windows-x86-vc14.39.33519-6636b1b7b37d40ca802d63ca2d643b9f"] = {
+        toolset = "14.39.33519",
+        sha256 = "7f1ac3b11253332fa2bb3b188adedfe792973e9deabc6684557e6d9196da1438",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-6636b1b7b37d40ca802d63ca2d643b9f.7z"
+    },
+    ["windows-x86-vc14.29.30133-44cf3f4e35fb4279a1af876a76618419"] = {
+        toolset = "14.29.30133",
+        sha256 = "756e2a484ead68f242ca1bc6c751c7ccdd44b9a786f94f427277e4026e06ccf1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-44cf3f4e35fb4279a1af876a76618419.7z"
+    },
+    ["windows-x64-vc14.39.33519-246eb3a2f2f8424791f9eb09b29de0d6"] = {
+        toolset = "14.39.33519",
+        sha256 = "b004d152c5bc18c0bed9cab9fccbb8b8cb9afd78353057a404567aae41af1e38",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-246eb3a2f2f8424791f9eb09b29de0d6.7z"
+    },
+    ["windows-x64-vc14.39.33519-bdf22e68b12b469c95df3289ad8b28c4"] = {
+        toolset = "14.39.33519",
+        sha256 = "1f6de1e1d0f9a2e45019f634235a3d86d6f8ec0dc41e4b824a13d652d9179ad4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-bdf22e68b12b469c95df3289ad8b28c4.7z"
+    },
+    ["windows-x64-vc14.29.30133-4bc1909a149d43a4b7c6cb9aeeda6208"] = {
+        toolset = "14.29.30133",
+        sha256 = "d964a6ebaf2b75362e3d193ae4eceaf6a777d2f441f31c3f7ce6352b5b43512b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-4bc1909a149d43a4b7c6cb9aeeda6208.7z"
+    },
+    ["windows-x86-vc14.29.30133-e11f56e57f974a709ed7f260b1ef1a3b"] = {
+        toolset = "14.29.30133",
+        sha256 = "dea1faa7db9f79ac72a04223f094185f4279f9eab76be79573763bf882ffe66d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-e11f56e57f974a709ed7f260b1ef1a3b.7z"
+    },
+    ["windows-x64-vc14.29.30133-246eb3a2f2f8424791f9eb09b29de0d6"] = {
+        toolset = "14.29.30133",
+        sha256 = "f1d9aff3e128a8092cc0de6c25a43631e278351c9f895386fd730da3c42dcc23",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-246eb3a2f2f8424791f9eb09b29de0d6.7z"
+    },
+    ["windows-x64-vc14.39.33519-4bc1909a149d43a4b7c6cb9aeeda6208"] = {
+        toolset = "14.39.33519",
+        sha256 = "224a322134c2f97b5f3a0b42c84fd527736cf8829b12897125cc995341f07308",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-4bc1909a149d43a4b7c6cb9aeeda6208.7z"
+    },
+    ["windows-x86-vc14.39.33519-e11f56e57f974a709ed7f260b1ef1a3b"] = {
+        toolset = "14.39.33519",
+        sha256 = "134baf6799cb402c4c3a7ae2f15bb3007a2f9345a0c6ee388d99f42ad064438a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-e11f56e57f974a709ed7f260b1ef1a3b.7z"
+    },
+    ["windows-x64-vc14.29.30133-bdf22e68b12b469c95df3289ad8b28c4"] = {
+        toolset = "14.29.30133",
+        sha256 = "a1d96fb07372324d0c0bede0a3223684e844d0180567b91ee22c8a1d99bfe612",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.29.30133-bdf22e68b12b469c95df3289ad8b28c4.7z"
+    },
+    ["windows-x86-vc14.29.30133-6636b1b7b37d40ca802d63ca2d643b9f"] = {
+        toolset = "14.29.30133",
+        sha256 = "0b2e364f4810fcab61cb6de311df2315d30157b32e2257099574c8c67d3c462b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.29.30133-6636b1b7b37d40ca802d63ca2d643b9f.7z"
+    },
+    ["windows-x64-vc14.39.33519-10234ba5244045d184b80a4aeb4c2ccd"] = {
+        toolset = "14.39.33519",
+        sha256 = "4f17ac3ce08dd1e0b569d6266229867ddfdc3deb02b3a44b33c1dd5ba59403fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.39.33519-10234ba5244045d184b80a4aeb4c2ccd.7z"
+    },
+    ["windows-x86-vc14.39.33519-44cf3f4e35fb4279a1af876a76618419"] = {
+        toolset = "14.39.33519",
+        sha256 = "c1ec8fa05825eaf409c6709de8616e741186ead61187765ceaa9a32f619a3379",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x86-vc14.39.33519-44cf3f4e35fb4279a1af876a76618419.7z"
+    },
+    ["windows-x64-vc14.40.33807-bdf22e68b12b469c95df3289ad8b28c4"] = {
+        toolset = "14.40.33807",
+        sha256 = "00108eae41a0a989533872f6b400612895ee5798c2859ca3f577c70d59401a8c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liboai-4.0.1/windows-x64-vc14.40.33807-bdf22e68b12b469c95df3289ad8b28c4.7z"
     }
 }
