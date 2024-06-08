@@ -1,122 +1,122 @@
 {
-    ["windows-x64-vc14.40.33807-2606244526ad490d82a34e8f3e3fbeaf"] = {
-        sha256 = "f99ab02b2477a70edb831c8516cc651664c4d875e41596ec4b4cd4ef7270e786",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-2606244526ad490d82a34e8f3e3fbeaf.7z"
-    },
-    ["windows-x64-vc14.29.30133-2606244526ad490d82a34e8f3e3fbeaf"] = {
-        sha256 = "781746dc137db9c59c679dafc60e319abda9e11a6e61171b509f680606fccc00",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-2606244526ad490d82a34e8f3e3fbeaf.7z"
-    },
-    ["windows-x86-vc14.39.33519-312e5eb596c0497ebe6be12eb5053ae5"] = {
-        sha256 = "ce22bef66ea8a3bfb9bc439f8b529763af0265c97f4fe6c1ed57b4d21f3f792a",
+    ["windows-x64-vc14.39.33519-0a9ca3a4e7d642f3bb6a6854d94e73ac"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-0a9ca3a4e7d642f3bb6a6854d94e73ac.7z",
         toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-312e5eb596c0497ebe6be12eb5053ae5.7z"
+        sha256 = "494d159876e75a452637f5e113f0eacb556d828c1bdc1594ee193309866bdd4e"
     },
-    ["windows-x86-vc14.40.33807-531628a2fd6d47ae88597a52ec7b6ff3"] = {
-        sha256 = "1f3ab888ce0fa9f910be30cacc0e532942278c64b82ba280859539127d2d9ea0",
+    ["windows-x64-vc14.40.33807-2606244526ad490d82a34e8f3e3fbeaf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-2606244526ad490d82a34e8f3e3fbeaf.7z",
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-531628a2fd6d47ae88597a52ec7b6ff3.7z"
+        sha256 = "4233591620481fa3adec43bfa4df585eb1c6b368bb200dc2834b2c8407c20129"
     },
     ["windows-x64-vc14.39.33519-49166697c65042c091ab029ed57c9f24"] = {
-        sha256 = "7d4170ceaac1c36bf2c8bef257385d1fe686d8e7cf20a20314204d3f9b9cffa3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-49166697c65042c091ab029ed57c9f24.7z",
         toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-49166697c65042c091ab029ed57c9f24.7z"
-    },
-    ["windows-x86-vc14.39.33519-b6b4c244453f40318a3aaa326a7eea4a"] = {
-        sha256 = "86e5c8ba163f24dc01357bb69d0f031c3bcdbc4e23f314a4a1ef810241c42df6",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-b6b4c244453f40318a3aaa326a7eea4a.7z"
-    },
-    ["windows-x64-vc14.39.33519-2392b42ef4fd4bd0bb400dc41b370d4a"] = {
-        sha256 = "ad39701f7167704ca16db2fe42011d8f278ca8f5d5ffc2f8f7aa4c79add4ce59",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-2392b42ef4fd4bd0bb400dc41b370d4a.7z"
-    },
-    ["windows-x86-vc14.39.33519-03b4637ee2d74f62b15633ab68bf441d"] = {
-        sha256 = "9b400c208c3a8ef3b8513dbde8fb9e707c265423b5dbb165ff163ebe3602be87",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-03b4637ee2d74f62b15633ab68bf441d.7z"
-    },
-    ["windows-x86-vc14.29.30133-312e5eb596c0497ebe6be12eb5053ae5"] = {
-        sha256 = "b2fa5320cb1ccb85a5d7ff3f9752a51297a52d676e246bfa15e64841e76376c3",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-312e5eb596c0497ebe6be12eb5053ae5.7z"
-    },
-    ["windows-x86-vc14.40.33807-b6b4c244453f40318a3aaa326a7eea4a"] = {
-        sha256 = "58c781aec90ee446a083cf25a730004e2ab8d799798dca8a7accaa6f36351741",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-b6b4c244453f40318a3aaa326a7eea4a.7z"
-    },
-    ["windows-x64-vc14.40.33807-2392b42ef4fd4bd0bb400dc41b370d4a"] = {
-        sha256 = "1d2e4114d6de6a044ddfc12560f85ff87ecfa51d83ff84d11c5858add705c733",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-2392b42ef4fd4bd0bb400dc41b370d4a.7z"
-    },
-    ["windows-x64-vc14.29.30133-49166697c65042c091ab029ed57c9f24"] = {
-        sha256 = "d7c17a8f972b7d1e1d1d6ac77e23d955d3e7be8b7b078f3953153d3c6fc69771",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-49166697c65042c091ab029ed57c9f24.7z"
-    },
-    ["windows-x86-vc14.39.33519-531628a2fd6d47ae88597a52ec7b6ff3"] = {
-        sha256 = "b8b812341ed161baae11e29664d3e7155148f59c2c050a4735032f93ffff5dd1",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-531628a2fd6d47ae88597a52ec7b6ff3.7z"
+        sha256 = "7d4170ceaac1c36bf2c8bef257385d1fe686d8e7cf20a20314204d3f9b9cffa3"
     },
     ["windows-x64-vc14.29.30133-0a9ca3a4e7d642f3bb6a6854d94e73ac"] = {
-        sha256 = "a4e74cb3481cb62c86655e0f1174ba8fed6b5cd220459983689d2d2336ab76e2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-0a9ca3a4e7d642f3bb6a6854d94e73ac.7z",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-0a9ca3a4e7d642f3bb6a6854d94e73ac.7z"
+        sha256 = "f010501ec6c26b2de34ecd4750aa7b085d579b8d7d1f16c82811e130d4122f33"
     },
-    ["windows-x64-vc14.29.30133-2392b42ef4fd4bd0bb400dc41b370d4a"] = {
-        sha256 = "9f6bf25ca27debb1d15e5f45dddcb2a98cb80b03b100b93bf1e89efa7b039cb5",
+    ["windows-x86-vc14.29.30133-312e5eb596c0497ebe6be12eb5053ae5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-312e5eb596c0497ebe6be12eb5053ae5.7z",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-2392b42ef4fd4bd0bb400dc41b370d4a.7z"
+        sha256 = "6c24d6aa2460b2d827538ec877ca7c76e2ced97e85bd7d015f8cd25c5cf56f39"
     },
-    ["windows-x64-vc14.39.33519-2606244526ad490d82a34e8f3e3fbeaf"] = {
-        sha256 = "03d1478adef1de21db4fe617699fe0c0d6e9df89f4a5caae49d7ea31d9ec3833",
+    ["windows-x64-vc14.39.33519-2392b42ef4fd4bd0bb400dc41b370d4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-2392b42ef4fd4bd0bb400dc41b370d4a.7z",
         toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-2606244526ad490d82a34e8f3e3fbeaf.7z"
+        sha256 = "ad39701f7167704ca16db2fe42011d8f278ca8f5d5ffc2f8f7aa4c79add4ce59"
     },
-    ["windows-x64-vc14.40.33807-49166697c65042c091ab029ed57c9f24"] = {
-        sha256 = "abb9a98742978b865bb93349e10eab7921c6dee3e108101299028d9aa77e48c2",
+    ["windows-x64-vc14.40.33807-2392b42ef4fd4bd0bb400dc41b370d4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-2392b42ef4fd4bd0bb400dc41b370d4a.7z",
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-49166697c65042c091ab029ed57c9f24.7z"
-    },
-    ["windows-x86-vc14.29.30133-03b4637ee2d74f62b15633ab68bf441d"] = {
-        sha256 = "7ce485a7ece735fc15c5f4a5d34b6aef678fa3e405377c2c7b8e21c2e5bdc950",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-03b4637ee2d74f62b15633ab68bf441d.7z"
-    },
-    ["windows-x86-vc14.29.30133-b6b4c244453f40318a3aaa326a7eea4a"] = {
-        sha256 = "496fede64d45d2878a28c4298e8996360d9a5707be6ea9da8a965ded727a5008",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-b6b4c244453f40318a3aaa326a7eea4a.7z"
+        sha256 = "50d8be137679cc19c057b1126f4b91594c7fd267a2308249319d9bf71194eec6"
     },
     ["windows-x64-vc14.40.33807-0a9ca3a4e7d642f3bb6a6854d94e73ac"] = {
-        sha256 = "8aecebef38915abdd2bd0bb690f0c1a568f1e4bdac5bfede5f006649ca87f070",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-0a9ca3a4e7d642f3bb6a6854d94e73ac.7z",
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-0a9ca3a4e7d642f3bb6a6854d94e73ac.7z"
+        sha256 = "7c4098456a575debdd9cfcc4255840dd617cb092dab5d27136a70a6691808e6d"
     },
-    ["windows-x86-vc14.40.33807-312e5eb596c0497ebe6be12eb5053ae5"] = {
-        sha256 = "1d442a4a410f443e62f79876db6aecd8d73d70b0454442b0b3dfc91ae30a92e6",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-312e5eb596c0497ebe6be12eb5053ae5.7z"
-    },
-    ["windows-x86-vc14.29.30133-531628a2fd6d47ae88597a52ec7b6ff3"] = {
-        sha256 = "ee1f956d6165e95e12ac87e1866b816b66eb4e7f8025523a190c2af84dc82494",
+    ["windows-x64-vc14.29.30133-2606244526ad490d82a34e8f3e3fbeaf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-2606244526ad490d82a34e8f3e3fbeaf.7z",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-531628a2fd6d47ae88597a52ec7b6ff3.7z"
+        sha256 = "a99271e9209111ded40cded72951e1eb2d570855a1ed29d90d46f1f0d8b29e87"
+    },
+    ["windows-x86-vc14.39.33519-312e5eb596c0497ebe6be12eb5053ae5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-312e5eb596c0497ebe6be12eb5053ae5.7z",
+        toolset = "14.39.33519",
+        sha256 = "ce22bef66ea8a3bfb9bc439f8b529763af0265c97f4fe6c1ed57b4d21f3f792a"
     },
     ["windows-x86-vc14.40.33807-03b4637ee2d74f62b15633ab68bf441d"] = {
-        sha256 = "653776efd42c803a02b039f38577d347763cfa3890ff1db2838e24368417bf8a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-03b4637ee2d74f62b15633ab68bf441d.7z",
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-03b4637ee2d74f62b15633ab68bf441d.7z"
+        sha256 = "628da44c15a9895847b10e6c0d36c6815310cc68bc2f5adc3ce953f8784cd5c3"
     },
-    ["windows-x64-vc14.39.33519-0a9ca3a4e7d642f3bb6a6854d94e73ac"] = {
-        sha256 = "494d159876e75a452637f5e113f0eacb556d828c1bdc1594ee193309866bdd4e",
+    ["windows-x64-vc14.29.30133-49166697c65042c091ab029ed57c9f24"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-49166697c65042c091ab029ed57c9f24.7z",
+        toolset = "14.29.30133",
+        sha256 = "c23cd0b501cfe182800c89e0182e1c0e21cd45b5eedf698e778fa84c75c0922c"
+    },
+    ["windows-x86-vc14.39.33519-531628a2fd6d47ae88597a52ec7b6ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-531628a2fd6d47ae88597a52ec7b6ff3.7z",
         toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-0a9ca3a4e7d642f3bb6a6854d94e73ac.7z"
+        sha256 = "b8b812341ed161baae11e29664d3e7155148f59c2c050a4735032f93ffff5dd1"
+    },
+    ["windows-x64-vc14.29.30133-2392b42ef4fd4bd0bb400dc41b370d4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.29.30133-2392b42ef4fd4bd0bb400dc41b370d4a.7z",
+        toolset = "14.29.30133",
+        sha256 = "98a5cc856bc618f2ba0d6e62867cdc0447910e7efb521946418c3c920a98e80d"
+    },
+    ["windows-x86-vc14.40.33807-531628a2fd6d47ae88597a52ec7b6ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-531628a2fd6d47ae88597a52ec7b6ff3.7z",
+        toolset = "14.40.33807",
+        sha256 = "80305f29f551f6fa0696aa8e35c27a25934fba8653662b5cc4fbcf5b7e4ac1dc"
+    },
+    ["windows-x86-vc14.29.30133-531628a2fd6d47ae88597a52ec7b6ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-531628a2fd6d47ae88597a52ec7b6ff3.7z",
+        toolset = "14.29.30133",
+        sha256 = "364b0854bd4d6bdb4f3174c3cd0f5cab139a410c5ab6f63f046be6c0a8602c21"
+    },
+    ["windows-x86-vc14.29.30133-03b4637ee2d74f62b15633ab68bf441d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-03b4637ee2d74f62b15633ab68bf441d.7z",
+        toolset = "14.29.30133",
+        sha256 = "50160ef72ff6612c3b3a031c0bd69aeab4a0881ea0ede3a45c395557d7ca4669"
+    },
+    ["windows-x64-vc14.39.33519-2606244526ad490d82a34e8f3e3fbeaf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.39.33519-2606244526ad490d82a34e8f3e3fbeaf.7z",
+        toolset = "14.39.33519",
+        sha256 = "03d1478adef1de21db4fe617699fe0c0d6e9df89f4a5caae49d7ea31d9ec3833"
+    },
+    ["windows-x86-vc14.40.33807-b6b4c244453f40318a3aaa326a7eea4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-b6b4c244453f40318a3aaa326a7eea4a.7z",
+        toolset = "14.40.33807",
+        sha256 = "ef9d7a8a10bf3f7a2f9b6cbd551e4698d36db71cacb80b13aedf3fd6f4316c6b"
+    },
+    ["windows-x86-vc14.39.33519-b6b4c244453f40318a3aaa326a7eea4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-b6b4c244453f40318a3aaa326a7eea4a.7z",
+        toolset = "14.39.33519",
+        sha256 = "86e5c8ba163f24dc01357bb69d0f031c3bcdbc4e23f314a4a1ef810241c42df6"
+    },
+    ["windows-x86-vc14.39.33519-03b4637ee2d74f62b15633ab68bf441d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.39.33519-03b4637ee2d74f62b15633ab68bf441d.7z",
+        toolset = "14.39.33519",
+        sha256 = "9b400c208c3a8ef3b8513dbde8fb9e707c265423b5dbb165ff163ebe3602be87"
+    },
+    ["windows-x64-vc14.40.33807-49166697c65042c091ab029ed57c9f24"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x64-vc14.40.33807-49166697c65042c091ab029ed57c9f24.7z",
+        toolset = "14.40.33807",
+        sha256 = "69243f5da2307b0563873d3a20f55bcb4e91aefe5d8be4371cf48b64f7555c91"
+    },
+    ["windows-x86-vc14.29.30133-b6b4c244453f40318a3aaa326a7eea4a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.29.30133-b6b4c244453f40318a3aaa326a7eea4a.7z",
+        toolset = "14.29.30133",
+        sha256 = "a3a3693e69dbd7f4608f9332cac4f8da305551bedbb1e77398d984e8b3c9cb92"
+    },
+    ["windows-x86-vc14.40.33807-312e5eb596c0497ebe6be12eb5053ae5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/boost-1.85.0/windows-x86-vc14.40.33807-312e5eb596c0497ebe6be12eb5053ae5.7z",
+        toolset = "14.40.33807",
+        sha256 = "69baa8d5d052b3affaaa0c5ba6fda2e87f0605f52a53deb8a9787fe64970b593"
     }
 }
