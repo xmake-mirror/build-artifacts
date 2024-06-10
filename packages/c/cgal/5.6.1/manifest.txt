@@ -1,162 +1,162 @@
 {
-    ["windows-x86-vc14.39.33519-8d270128053c4b53b62ff0cee641e94c"] = {
-        sha256 = "3a23baa357bdaf594cbd3f233fd9ca2b0240b454c9d20c14d0576a9a80267289",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-8d270128053c4b53b62ff0cee641e94c.7z",
-        toolset = "14.39.33519"
+    ["windows-x64-vc14.38.33130-da98235c67e7440eaccbfdd6ff5e3638"] = {
+        toolset = "14.38.33130",
+        sha256 = "cb6090c213b33078138b5206b7cb2c85245b3ed0d05b16e3d9e8ec9b39356cd0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-da98235c67e7440eaccbfdd6ff5e3638.7z"
     },
     ["windows-x64-vc14.39.33519-da98235c67e7440eaccbfdd6ff5e3638"] = {
+        toolset = "14.39.33519",
         sha256 = "9dc5064ff471148bb9345549333c1841b49e6a7ee7fe33c356cabeb81dc79c70",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-da98235c67e7440eaccbfdd6ff5e3638.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
-        sha256 = "98a0f06469c2dd256e8abfdb4396aab2b36be57a48e055db2f4c7ebcffe3f8cc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-2a7bc26c6ed1421384c756b658a7c4f4"] = {
-        sha256 = "433ed5e2827933339625087346cc2666cce4bc75dea1b187935f1864fc2d7e43",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-2a7bc26c6ed1421384c756b658a7c4f4.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.39.33519-8d32f457cc60452bb011e89e0a162af9"] = {
-        sha256 = "8614b398ff77dd0404f9be877e858411d2dbf9cce2a75a946d70cfd9a5e61a6e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-8d32f457cc60452bb011e89e0a162af9.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.38.33130-da98235c67e7440eaccbfdd6ff5e3638"] = {
-        sha256 = "cb6090c213b33078138b5206b7cb2c85245b3ed0d05b16e3d9e8ec9b39356cd0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-da98235c67e7440eaccbfdd6ff5e3638.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-f03b861d900b417a9d521d580f1de56c"] = {
-        sha256 = "1eff38bdb4de80105b672db49d982b7ab270275791d469fca323c4013215f45e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-f03b861d900b417a9d521d580f1de56c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-8d32f457cc60452bb011e89e0a162af9"] = {
-        sha256 = "69769fde640a051704efc9ccfff357cf63aaaa45233711443c51d13cbb72ffd2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-8d32f457cc60452bb011e89e0a162af9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
-        sha256 = "e552acd853c9f276e4f605f183f66ba89cb988a3e9b32257edebd2ce2a398136",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.40.33807-8d32f457cc60452bb011e89e0a162af9"] = {
-        sha256 = "0d6fc7a5af817cc98d6398c02ad1313ac6e82141948257e3546fe75b53972586",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-8d32f457cc60452bb011e89e0a162af9.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.38.33130-8d270128053c4b53b62ff0cee641e94c"] = {
-        sha256 = "abc31496148dbb5dfaad848aa05c6d54718cfa19e5899f744a6e817ae4765cb4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-8d270128053c4b53b62ff0cee641e94c.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.39.33519-2a7bc26c6ed1421384c756b658a7c4f4"] = {
-        sha256 = "487e7300d325266061ad02c5ecfe23af48136f8e1fcfee295c8776e595147ec3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-2a7bc26c6ed1421384c756b658a7c4f4.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.38.33130-f03b861d900b417a9d521d580f1de56c"] = {
-        sha256 = "c8eb3ba15724768afc66772aff94e95faeece3b958d1c4d91972d666c511c6cc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-f03b861d900b417a9d521d580f1de56c.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.39.33519-f03b861d900b417a9d521d580f1de56c"] = {
-        sha256 = "159d94b73a83f693b4dc416080e33c3690019c602bdcfde6567033d6eee9f5e4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-f03b861d900b417a9d521d580f1de56c.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.40.33807-f03b861d900b417a9d521d580f1de56c"] = {
-        sha256 = "b52e906b288b5f47d4e4a9f94e360b3cd84e9ece5920051d1fe66c42aa578068",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-f03b861d900b417a9d521d580f1de56c.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.38.33130-259086c7f3bc460488034a60d50b438a"] = {
-        sha256 = "459c12d19f9f4760787b5a87f3ae665aef5863944a3d6a2124a0a5d0cb860e20",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-259086c7f3bc460488034a60d50b438a.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-8d270128053c4b53b62ff0cee641e94c"] = {
-        sha256 = "307777dcf490253e2708f9f1b7ee4a86351d1b7f37c24c095eca7857be9e8bfa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-8d270128053c4b53b62ff0cee641e94c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-2a7bc26c6ed1421384c756b658a7c4f4"] = {
-        sha256 = "3da47e4f78f7bf46926782abe20fb0758a1f7feee8a6ac14f0f1de3f5eff8140",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-2a7bc26c6ed1421384c756b658a7c4f4.7z",
-        toolset = "14.38.33130"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-da98235c67e7440eaccbfdd6ff5e3638.7z"
     },
     ["windows-x86-vc14.38.33130-4963f7cfe9f741d1b46c7b7f57feb986"] = {
+        toolset = "14.38.33130",
         sha256 = "6351a8f462f417c4af359ccac50f2241bdadf5eb2377b4d5b2ed7fe24ea9e15b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-4963f7cfe9f741d1b46c7b7f57feb986.7z",
-        toolset = "14.38.33130"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-4963f7cfe9f741d1b46c7b7f57feb986.7z"
     },
-    ["windows-x86-vc14.40.33807-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
-        sha256 = "a37f71dd15695cda1c6a0ef56c89d837f430659613095980bb18fea86c8fd1ab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z",
-        toolset = "14.40.33807"
+    ["windows-x86-vc14.29.30133-8d270128053c4b53b62ff0cee641e94c"] = {
+        toolset = "14.29.30133",
+        sha256 = "d8fb0fd707ec9fe1bbd52acb86c6f7f0dc8f2ceaba5e7482709f4785177772a6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-8d270128053c4b53b62ff0cee641e94c.7z"
     },
-    ["windows-x86-vc14.29.30133-259086c7f3bc460488034a60d50b438a"] = {
-        sha256 = "0b56866809ee68a19c93454f9770e96c21471509b96665ee10adb9d54bbb432e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-259086c7f3bc460488034a60d50b438a.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.40.33807-8d32f457cc60452bb011e89e0a162af9"] = {
+        toolset = "14.40.33807",
+        sha256 = "7c7afb3702e3eb3790907c440ca03074199ebd24473c2747933093bdce9fb3c8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-8d32f457cc60452bb011e89e0a162af9.7z"
     },
-    ["windows-x64-vc14.29.30133-da98235c67e7440eaccbfdd6ff5e3638"] = {
-        sha256 = "d580a604fdae125386e73718d3f72d4685250d466d05632608b5efc88ec36378",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-da98235c67e7440eaccbfdd6ff5e3638.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-4963f7cfe9f741d1b46c7b7f57feb986"] = {
-        sha256 = "0be673b138c2909a52d837c02eab486c3018cfbaf63c8b8004b235482dd6d8a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-4963f7cfe9f741d1b46c7b7f57feb986.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-2a7bc26c6ed1421384c756b658a7c4f4"] = {
-        sha256 = "9d45c55631f88b3b68aaef18d3469223d2304694c00e3974eeb5ea9a506bfd0d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-2a7bc26c6ed1421384c756b658a7c4f4.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.38.33130-f03b861d900b417a9d521d580f1de56c"] = {
+        toolset = "14.38.33130",
+        sha256 = "c8eb3ba15724768afc66772aff94e95faeece3b958d1c4d91972d666c511c6cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-f03b861d900b417a9d521d580f1de56c.7z"
     },
     ["windows-x86-vc14.40.33807-259086c7f3bc460488034a60d50b438a"] = {
-        sha256 = "f8282bbadef5952956ee1f6e2152ea401ecebd04fe9d2d0ec9d900d9ba9683b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-259086c7f3bc460488034a60d50b438a.7z",
-        toolset = "14.40.33807"
+        toolset = "14.40.33807",
+        sha256 = "8df3fcbf3992cf68ca1b76382e02307813c05780b1a93c77c98677294bdab0b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-259086c7f3bc460488034a60d50b438a.7z"
     },
-    ["windows-x86-vc14.39.33519-259086c7f3bc460488034a60d50b438a"] = {
-        sha256 = "d856225a9c2c5dfea81e86d27f855509e2204160391e990fb72ed3bfe5a49516",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-259086c7f3bc460488034a60d50b438a.7z",
-        toolset = "14.39.33519"
+    ["windows-x64-vc14.38.33130-2a7bc26c6ed1421384c756b658a7c4f4"] = {
+        toolset = "14.38.33130",
+        sha256 = "3da47e4f78f7bf46926782abe20fb0758a1f7feee8a6ac14f0f1de3f5eff8140",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-2a7bc26c6ed1421384c756b658a7c4f4.7z"
     },
-    ["windows-x64-vc14.38.33130-8d32f457cc60452bb011e89e0a162af9"] = {
-        sha256 = "2321703b505cb292592a8d5f39f71228c373bb5a5663f8c4bd5f9f08ac139d32",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-8d32f457cc60452bb011e89e0a162af9.7z",
-        toolset = "14.38.33130"
+    ["windows-x86-vc14.39.33519-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
+        toolset = "14.39.33519",
+        sha256 = "e552acd853c9f276e4f605f183f66ba89cb988a3e9b32257edebd2ce2a398136",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z"
+    },
+    ["windows-x86-vc14.39.33519-8d270128053c4b53b62ff0cee641e94c"] = {
+        toolset = "14.39.33519",
+        sha256 = "3a23baa357bdaf594cbd3f233fd9ca2b0240b454c9d20c14d0576a9a80267289",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-8d270128053c4b53b62ff0cee641e94c.7z"
+    },
+    ["windows-x64-vc14.29.30133-da98235c67e7440eaccbfdd6ff5e3638"] = {
+        toolset = "14.29.30133",
+        sha256 = "17ddf7c4614003ebc54979eff2757e344dde3297471b3fd7c230d16fad7c3a9f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-da98235c67e7440eaccbfdd6ff5e3638.7z"
+    },
+    ["windows-x64-vc14.39.33519-2a7bc26c6ed1421384c756b658a7c4f4"] = {
+        toolset = "14.39.33519",
+        sha256 = "487e7300d325266061ad02c5ecfe23af48136f8e1fcfee295c8776e595147ec3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-2a7bc26c6ed1421384c756b658a7c4f4.7z"
+    },
+    ["windows-x64-vc14.29.30133-2a7bc26c6ed1421384c756b658a7c4f4"] = {
+        toolset = "14.29.30133",
+        sha256 = "7a289e903c86c64647ad0e54cdf54a7397f70724b8e24feb5d988d074dc56eed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-2a7bc26c6ed1421384c756b658a7c4f4.7z"
+    },
+    ["windows-x86-vc14.38.33130-8d270128053c4b53b62ff0cee641e94c"] = {
+        toolset = "14.38.33130",
+        sha256 = "abc31496148dbb5dfaad848aa05c6d54718cfa19e5899f744a6e817ae4765cb4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-8d270128053c4b53b62ff0cee641e94c.7z"
+    },
+    ["windows-x64-vc14.29.30133-8d32f457cc60452bb011e89e0a162af9"] = {
+        toolset = "14.29.30133",
+        sha256 = "b114738fae520fda39db0b719393b902111164664df0bed2a18c71c5a07dc2af",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-8d32f457cc60452bb011e89e0a162af9.7z"
+    },
+    ["windows-x86-vc14.39.33519-4963f7cfe9f741d1b46c7b7f57feb986"] = {
+        toolset = "14.39.33519",
+        sha256 = "0be673b138c2909a52d837c02eab486c3018cfbaf63c8b8004b235482dd6d8a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-4963f7cfe9f741d1b46c7b7f57feb986.7z"
     },
     ["windows-x86-vc14.40.33807-4963f7cfe9f741d1b46c7b7f57feb986"] = {
-        sha256 = "d78b7dffbf6c2a35c2f1459e7ee4d99339ef1c1dfa8b00c533e0159d922a9e2f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-4963f7cfe9f741d1b46c7b7f57feb986.7z",
-        toolset = "14.40.33807"
+        toolset = "14.40.33807",
+        sha256 = "27493e6d5e2fea328cc9bdc406beb11db7458e8fc902aeefa7dae5d7cc32b4a9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-4963f7cfe9f741d1b46c7b7f57feb986.7z"
     },
-    ["windows-x64-vc14.40.33807-da98235c67e7440eaccbfdd6ff5e3638"] = {
-        sha256 = "0b32d489c15238db226c6b868230f79de3a7d4682f3c468763dec5ef060aee2c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-da98235c67e7440eaccbfdd6ff5e3638.7z",
-        toolset = "14.40.33807"
+    ["windows-x64-vc14.40.33807-f03b861d900b417a9d521d580f1de56c"] = {
+        toolset = "14.40.33807",
+        sha256 = "81fdb40d6e0537491c45d3406259a9de4b26c881e8ef61a6dab020476d2dec0b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-f03b861d900b417a9d521d580f1de56c.7z"
     },
-    ["windows-x86-vc14.38.33130-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
-        sha256 = "3d660823677af73c3094a054ca1712c90934f3f75730bb8789542d5c00b68eb2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z",
-        toolset = "14.38.33130"
+    ["windows-x64-vc14.38.33130-8d32f457cc60452bb011e89e0a162af9"] = {
+        toolset = "14.38.33130",
+        sha256 = "2321703b505cb292592a8d5f39f71228c373bb5a5663f8c4bd5f9f08ac139d32",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.38.33130-8d32f457cc60452bb011e89e0a162af9.7z"
+    },
+    ["windows-x86-vc14.29.30133-259086c7f3bc460488034a60d50b438a"] = {
+        toolset = "14.29.30133",
+        sha256 = "92a05eabd22b68e9ae7c4897183f10d18ba88e99368a7f403d1d56f7849f9a61",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-259086c7f3bc460488034a60d50b438a.7z"
+    },
+    ["windows-x86-vc14.39.33519-259086c7f3bc460488034a60d50b438a"] = {
+        toolset = "14.39.33519",
+        sha256 = "d856225a9c2c5dfea81e86d27f855509e2204160391e990fb72ed3bfe5a49516",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.39.33519-259086c7f3bc460488034a60d50b438a.7z"
+    },
+    ["windows-x64-vc14.29.30133-f03b861d900b417a9d521d580f1de56c"] = {
+        toolset = "14.29.30133",
+        sha256 = "e96cf89f278f39526156dc4ab2720379410c8258925ec01010390d97da25899e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.29.30133-f03b861d900b417a9d521d580f1de56c.7z"
     },
     ["windows-x86-vc14.40.33807-8d270128053c4b53b62ff0cee641e94c"] = {
-        sha256 = "37e337f7b1adb3c925b0738fd60e623629cc29de52a96dceae269c11da4102db",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-8d270128053c4b53b62ff0cee641e94c.7z",
-        toolset = "14.40.33807"
+        toolset = "14.40.33807",
+        sha256 = "65cc1b6b6acf6a87e95f1f285aece966d1fa49499dd4a8862d41e6849e7ec512",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-8d270128053c4b53b62ff0cee641e94c.7z"
+    },
+    ["windows-x86-vc14.38.33130-259086c7f3bc460488034a60d50b438a"] = {
+        toolset = "14.38.33130",
+        sha256 = "459c12d19f9f4760787b5a87f3ae665aef5863944a3d6a2124a0a5d0cb860e20",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-259086c7f3bc460488034a60d50b438a.7z"
+    },
+    ["windows-x86-vc14.29.30133-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
+        toolset = "14.29.30133",
+        sha256 = "4c1a23b11538c92dede139fd8a1b632108b5436613a554461bb416c91030bdda",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z"
+    },
+    ["windows-x64-vc14.39.33519-8d32f457cc60452bb011e89e0a162af9"] = {
+        toolset = "14.39.33519",
+        sha256 = "8614b398ff77dd0404f9be877e858411d2dbf9cce2a75a946d70cfd9a5e61a6e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-8d32f457cc60452bb011e89e0a162af9.7z"
+    },
+    ["windows-x64-vc14.40.33807-da98235c67e7440eaccbfdd6ff5e3638"] = {
+        toolset = "14.40.33807",
+        sha256 = "a1dd3e3812d06893babd67bb8db1b684cb6cc6175d31592cae8b37d3220e7b71",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-da98235c67e7440eaccbfdd6ff5e3638.7z"
+    },
+    ["windows-x64-vc14.40.33807-2a7bc26c6ed1421384c756b658a7c4f4"] = {
+        toolset = "14.40.33807",
+        sha256 = "1c5583de658fc29dae31e3a5d4e74ee3dce2c74b5e21a838d780fc9dfcde24a9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.40.33807-2a7bc26c6ed1421384c756b658a7c4f4.7z"
+    },
+    ["windows-x86-vc14.38.33130-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
+        toolset = "14.38.33130",
+        sha256 = "3d660823677af73c3094a054ca1712c90934f3f75730bb8789542d5c00b68eb2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.38.33130-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z"
+    },
+    ["windows-x64-vc14.39.33519-f03b861d900b417a9d521d580f1de56c"] = {
+        toolset = "14.39.33519",
+        sha256 = "159d94b73a83f693b4dc416080e33c3690019c602bdcfde6567033d6eee9f5e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x64-vc14.39.33519-f03b861d900b417a9d521d580f1de56c.7z"
+    },
+    ["windows-x86-vc14.40.33807-3cfa8cbe5f00462c9c3adb9cec6b6a57"] = {
+        toolset = "14.40.33807",
+        sha256 = "2ac1ad53f8ead92365294971318a706aec3508eeb2fdfb4ce0d691ed2f387344",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.40.33807-3cfa8cbe5f00462c9c3adb9cec6b6a57.7z"
     },
     ["windows-x86-vc14.29.30133-4963f7cfe9f741d1b46c7b7f57feb986"] = {
-        sha256 = "bc8f3228f313cd77c3a972006ce40e59be94114a4ce9fd50514049563dbf233f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-4963f7cfe9f741d1b46c7b7f57feb986.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "82dec91590c2a8fc81411ad2383b03496316bd1c98c3f1cb40df2d27f20a3938",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cgal-5.6.1/windows-x86-vc14.29.30133-4963f7cfe9f741d1b46c7b7f57feb986.7z"
     }
 }
