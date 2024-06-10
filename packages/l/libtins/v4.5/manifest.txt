@@ -34,10 +34,10 @@
         toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.37.32822-082ed70538e34b07a7955576c77247e4.7z"
     },
-    ["windows-x86-vc14.37.32822-6615341579604a5f927567c95256ae50"] = {
-        sha256 = "c233b8e9427e0a2d8245de33893120da82cef489025b43d5ed70ca308100f66e",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.37.32822-6615341579604a5f927567c95256ae50.7z"
+    ["windows-x64-vc14.40.33807-15507fe89a8f472296cdd7a60e48bcd8"] = {
+        sha256 = "c65a7bf7577763cfde7f3c74cbd67b792873231d586d8cb5d1946aeda93e1750",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.40.33807-15507fe89a8f472296cdd7a60e48bcd8.7z"
     },
     ["windows-x64-vc14.40.33807-9897bcd23d754981a9455f99aa6fca71"] = {
         sha256 = "4276cbdebb8b3d0af73a2c9d2a8964a6c0eca24c2e8bfb2c370c689cf99e235b",
@@ -79,25 +79,25 @@
         toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.37.32822-384766f9db11454e9bf92d6963bd915e.7z"
     },
-    ["windows-x86-vc14.40.33807-082ed70538e34b07a7955576c77247e4"] = {
-        sha256 = "d1a7c97eed7018b1146356f8f71bc9e7b2a1faf923f1b159a67e881ed8ffa8a3",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.40.33807-082ed70538e34b07a7955576c77247e4.7z"
+    ["windows-x64-vc14.37.32822-875743c5b6f84fac937466f167efc6c4"] = {
+        sha256 = "36dbffd1bb9ea29ef74a73348f4538b4c60958858444d2dab77990d6aad1bcca",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.37.32822-875743c5b6f84fac937466f167efc6c4.7z"
+    },
+    ["windows-x64-vc14.39.33519-875743c5b6f84fac937466f167efc6c4"] = {
+        sha256 = "6de1d6593d780854b8e0fc080de7128cde1547985b276e6c85ae405ab5b832b1",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.39.33519-875743c5b6f84fac937466f167efc6c4.7z"
     },
     ["windows-x64-vc14.37.32822-9897bcd23d754981a9455f99aa6fca71"] = {
         sha256 = "aa669520c49ec629fbbcdc079046529d66ed345d1b99fd71d4e9dfee02be1123",
         toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.37.32822-9897bcd23d754981a9455f99aa6fca71.7z"
     },
-    ["windows-x86-vc14.39.33519-2c53f1c914454791aa87acd7e79ee96a"] = {
-        sha256 = "026e4c69c0d01069975d177f6f80930b0af8376d75ca875c21eaddd46b8fa6c9",
+    ["windows-x64-vc14.39.33519-9897bcd23d754981a9455f99aa6fca71"] = {
+        sha256 = "c55aacf91f2a5d6634d5221d474fa15d0d03bc9c77ab60d65e32a90fd01d7a8b",
         toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.39.33519-2c53f1c914454791aa87acd7e79ee96a.7z"
-    },
-    ["windows-x64-vc14.40.33807-875743c5b6f84fac937466f167efc6c4"] = {
-        sha256 = "7c9ba73fdedc792ae0e1773fb8284a318d23ac7d71c8f5d500e1e76bc8c19196",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.40.33807-875743c5b6f84fac937466f167efc6c4.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.39.33519-9897bcd23d754981a9455f99aa6fca71.7z"
     },
     ["windows-x86-vc14.40.33807-6615341579604a5f927567c95256ae50"] = {
         sha256 = "87f9a419a35cdf7c237beb9718626a8e7deff597a6c2a5bce0f6ba71c3749014",
@@ -114,20 +114,20 @@
         toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.37.32822-15507fe89a8f472296cdd7a60e48bcd8.7z"
     },
-    ["windows-x64-vc14.39.33519-9897bcd23d754981a9455f99aa6fca71"] = {
-        sha256 = "c55aacf91f2a5d6634d5221d474fa15d0d03bc9c77ab60d65e32a90fd01d7a8b",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.39.33519-9897bcd23d754981a9455f99aa6fca71.7z"
+    ["windows-x86-vc14.40.33807-2c53f1c914454791aa87acd7e79ee96a"] = {
+        sha256 = "e1c49c400a30d39d5856362b172248a56c1f5454ee9a22178b27caf643747902",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.40.33807-2c53f1c914454791aa87acd7e79ee96a.7z"
     },
     ["windows-x86-vc14.29.30133-6615341579604a5f927567c95256ae50"] = {
         sha256 = "ba7ab8ed5e0dbd397e4c3e74b6d1884d38462064430b9d60670e208ebeadb85d",
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.29.30133-6615341579604a5f927567c95256ae50.7z"
     },
-    ["windows-x86-vc14.40.33807-2c53f1c914454791aa87acd7e79ee96a"] = {
-        sha256 = "e1c49c400a30d39d5856362b172248a56c1f5454ee9a22178b27caf643747902",
+    ["windows-x64-vc14.40.33807-875743c5b6f84fac937466f167efc6c4"] = {
+        sha256 = "7c9ba73fdedc792ae0e1773fb8284a318d23ac7d71c8f5d500e1e76bc8c19196",
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.40.33807-2c53f1c914454791aa87acd7e79ee96a.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.40.33807-875743c5b6f84fac937466f167efc6c4.7z"
     },
     ["windows-x86-vc14.37.32822-07149fac41bf468eab0872017a0f24b0"] = {
         sha256 = "e7c2a7b9f4ce6bbe9ad91055f6cb3452e80091298534a7329bc545437da01f43",
@@ -169,30 +169,30 @@
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.29.30133-2c53f1c914454791aa87acd7e79ee96a.7z"
     },
-    ["windows-x86-vc14.38.33130-6615341579604a5f927567c95256ae50"] = {
-        sha256 = "923c013ca6f2345040f513c79f492eb6b343ffdff57c6c9f43d149eb1b8caf18",
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.38.33130-6615341579604a5f927567c95256ae50.7z"
-    },
-    ["windows-x64-vc14.37.32822-875743c5b6f84fac937466f167efc6c4"] = {
-        sha256 = "36dbffd1bb9ea29ef74a73348f4538b4c60958858444d2dab77990d6aad1bcca",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.37.32822-875743c5b6f84fac937466f167efc6c4.7z"
-    },
     ["windows-x64-vc14.38.33130-384766f9db11454e9bf92d6963bd915e"] = {
         sha256 = "a9f5d34fee8d85b20fdc212466edd7e4c09345abd4484ba45cf1051891d73b08",
         toolset = "14.38.33130",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.38.33130-384766f9db11454e9bf92d6963bd915e.7z"
     },
-    ["windows-x64-vc14.39.33519-875743c5b6f84fac937466f167efc6c4"] = {
-        sha256 = "6de1d6593d780854b8e0fc080de7128cde1547985b276e6c85ae405ab5b832b1",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.39.33519-875743c5b6f84fac937466f167efc6c4.7z"
-    },
-    ["windows-x64-vc14.40.33807-15507fe89a8f472296cdd7a60e48bcd8"] = {
-        sha256 = "c65a7bf7577763cfde7f3c74cbd67b792873231d586d8cb5d1946aeda93e1750",
+    ["windows-x86-vc14.40.33807-082ed70538e34b07a7955576c77247e4"] = {
+        sha256 = "d1a7c97eed7018b1146356f8f71bc9e7b2a1faf923f1b159a67e881ed8ffa8a3",
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x64-vc14.40.33807-15507fe89a8f472296cdd7a60e48bcd8.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.40.33807-082ed70538e34b07a7955576c77247e4.7z"
+    },
+    ["windows-x86-vc14.38.33130-6615341579604a5f927567c95256ae50"] = {
+        sha256 = "923c013ca6f2345040f513c79f492eb6b343ffdff57c6c9f43d149eb1b8caf18",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.38.33130-6615341579604a5f927567c95256ae50.7z"
+    },
+    ["windows-x86-vc14.39.33519-2c53f1c914454791aa87acd7e79ee96a"] = {
+        sha256 = "026e4c69c0d01069975d177f6f80930b0af8376d75ca875c21eaddd46b8fa6c9",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.39.33519-2c53f1c914454791aa87acd7e79ee96a.7z"
+    },
+    ["windows-x86-vc14.37.32822-6615341579604a5f927567c95256ae50"] = {
+        sha256 = "c233b8e9427e0a2d8245de33893120da82cef489025b43d5ed70ca308100f66e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libtins-v4.5/windows-x86-vc14.37.32822-6615341579604a5f927567c95256ae50.7z"
     },
     ["windows-x64-vc14.29.30133-384766f9db11454e9bf92d6963bd915e"] = {
         sha256 = "c2e19cdecdbba6fa83526042fc5b5df357db8fd894a8b5b9559f0eb23a8713c6",
