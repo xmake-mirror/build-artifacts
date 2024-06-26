@@ -1,42 +1,122 @@
 {
+    ["windows-x86-vc14.29.30133-1e15022eddb54584a8eaa98220b3d318"] = {
+        sha256 = "f99f0329a3dc6c60d8d9064993e5d00a427aa75bcf3ea8f0f466ef546610af41",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.29.30133-1e15022eddb54584a8eaa98220b3d318.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-b4b62dcf3d7c4ed1a7af39db565d95a4"] = {
+        sha256 = "de95776285d03707d0f6d83ce813e1912efe3594e89130ea491d639dc1a822e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.40.33807-b4b62dcf3d7c4ed1a7af39db565d95a4.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc142-b5ea0f9cbdcf42bb9b358758287856f7"] = {
+        sha256 = "8034e95f66641665f8d5f7be1e58ba71a72fd74ab1bb25874aab20858fca0c83",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-b5ea0f9cbdcf42bb9b358758287856f7.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-7de9eb36831248abae4947b139f2c8bb"] = {
+        sha256 = "5d600b566c12f2ca7ef4d3bd9f0bdbcf50035d9e7a6cba5face6bcfd80d36d1b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.29.30133-7de9eb36831248abae4947b139f2c8bb.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-78d6c311a93f4da9a19e332f14f8363f"] = {
+        sha256 = "b86ad010b00202c1c78220bdcbd3f2a06cf7205354d3fdf91e7afcb96a3f4003",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.40.33807-78d6c311a93f4da9a19e332f14f8363f.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-d0db069d468047c0a7aa63bcba2ad772"] = {
+        sha256 = "5362c35e12d8b182fcea13ba6d0885584cbc3296be9aa86e89e92870ec973d68",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.40.33807-d0db069d468047c0a7aa63bcba2ad772.7z",
+        toolset = "14.40.33807"
+    },
     ["windows-x86-vc142-6285eb1355114cc897e3162428410860"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-6285eb1355114cc897e3162428410860.7z",
         sha256 = "5dc4f492650295e50ce7817fdbfb90bb109b93a2486bfe8c9d1b8d50a56b4e66",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-6285eb1355114cc897e3162428410860.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-dc1a819c50534b6f837b4d6cd8de0b33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-dc1a819c50534b6f837b4d6cd8de0b33.7z",
-        sha256 = "76c29a9de0c97b2bd7c92ed73d2898c0a634ff1e0afe157eb1d4e09899e3c3c5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-c42388cbccc641449a7a8e305d153b81"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-c42388cbccc641449a7a8e305d153b81.7z",
-        sha256 = "1411f46484fb9fb6ca7189868b5aad3a2b7f901da57dc0874e364d74eb631dd2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-4a0e94481b024d27bb09f3e7c2f2213d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-4a0e94481b024d27bb09f3e7c2f2213d.7z",
-        sha256 = "038790d4663e729560442f79a851e287e307b0d452ed226576a0f0b0d1dc4506",
+    ["windows-x86-vc14.29.30133-57e38664fc0148049b35d5302d5b62b2"] = {
+        sha256 = "b42e46c211e654079256ac223459250d9be820f526400d047f183e73f6dbcafe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.29.30133-57e38664fc0148049b35d5302d5b62b2.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc142-0d77b176e1d04a90b9b2433d4b5d078d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-0d77b176e1d04a90b9b2433d4b5d078d.7z",
         sha256 = "6f3b231b10a57baad4af99565a54cfb598eb511e0b064e63635f9fb24b2bd78c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-0d77b176e1d04a90b9b2433d4b5d078d.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc142-dfa820e221e443a89abaac204d442aa3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-dfa820e221e443a89abaac204d442aa3.7z",
-        sha256 = "1cdbf0792a4d9e19db9bb7db8e62b731efd48bbda68b01d06191753055b2d21e",
+    ["windows-x86-vc14.29.30133-580d5847aa2c4bbeb90400af364aa3d2"] = {
+        sha256 = "6b10287a4ef53906cab5b832ead52177a7831e6881b389ec75fe42a886453e64",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.29.30133-580d5847aa2c4bbeb90400af364aa3d2.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-b4b62dcf3d7c4ed1a7af39db565d95a4"] = {
+        sha256 = "53bbce50a01b0152ae102bc3441e3f3cdef6870f3de0e2657e43a0e4de5b6957",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.29.30133-b4b62dcf3d7c4ed1a7af39db565d95a4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d0db069d468047c0a7aa63bcba2ad772"] = {
+        sha256 = "8dbb1a9385175bf69cba5d437d0ae23506833aebafffecf0e3214ebfdd9d95ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.29.30133-d0db069d468047c0a7aa63bcba2ad772.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-4a0e94481b024d27bb09f3e7c2f2213d"] = {
+        sha256 = "038790d4663e729560442f79a851e287e307b0d452ed226576a0f0b0d1dc4506",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-4a0e94481b024d27bb09f3e7c2f2213d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-1e15022eddb54584a8eaa98220b3d318"] = {
+        sha256 = "fe81efa41bf412f1e17e7088a4ea84f30046145faf3047f0c358d37f5b4a846b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.40.33807-1e15022eddb54584a8eaa98220b3d318.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc142-c42388cbccc641449a7a8e305d153b81"] = {
+        sha256 = "1411f46484fb9fb6ca7189868b5aad3a2b7f901da57dc0874e364d74eb631dd2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-c42388cbccc641449a7a8e305d153b81.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc142-3303ee2e48ab47d6b108b82a9e0143c4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-3303ee2e48ab47d6b108b82a9e0143c4.7z",
         sha256 = "3dad8a280aeec95653b599fbe82ab697befbeb76285f863331cf11532ec31ace",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-3303ee2e48ab47d6b108b82a9e0143c4.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-b5ea0f9cbdcf42bb9b358758287856f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-b5ea0f9cbdcf42bb9b358758287856f7.7z",
-        sha256 = "8034e95f66641665f8d5f7be1e58ba71a72fd74ab1bb25874aab20858fca0c83",
+    ["windows-x64-vc142-dc1a819c50534b6f837b4d6cd8de0b33"] = {
+        sha256 = "76c29a9de0c97b2bd7c92ed73d2898c0a634ff1e0afe157eb1d4e09899e3c3c5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc142-dc1a819c50534b6f837b4d6cd8de0b33.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-57e38664fc0148049b35d5302d5b62b2"] = {
+        sha256 = "b540071ef050dd1554532ff7c1455497082a56fd465a00d2a1a5981c90b6badc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.40.33807-57e38664fc0148049b35d5302d5b62b2.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-91177908efa8435f80dc1920fd5255de"] = {
+        sha256 = "7495640260ae1c44145e271836e6848f4768043af0cf125fbd44341c3b4340a7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.40.33807-91177908efa8435f80dc1920fd5255de.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-7de9eb36831248abae4947b139f2c8bb"] = {
+        sha256 = "938a788bb2142ae97e7eac4f89485116510d0f7d344d3e3080bfd4d3460f7bdd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.40.33807-7de9eb36831248abae4947b139f2c8bb.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-580d5847aa2c4bbeb90400af364aa3d2"] = {
+        sha256 = "d521dcafa2c67f330ff01578a693372a024ecb6238a8b38b29745d4da1d4e7d8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.40.33807-580d5847aa2c4bbeb90400af364aa3d2.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-78d6c311a93f4da9a19e332f14f8363f"] = {
+        sha256 = "0e85356554579061839cb72489003ee394e92d4d0a76c20a5a2c3b86a7dfbed3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x64-vc14.29.30133-78d6c311a93f4da9a19e332f14f8363f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-91177908efa8435f80dc1920fd5255de"] = {
+        sha256 = "7b09adf15f251a2563bbdf223dee277ea75c79c90df852d88a0106d0bce61ecd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc14.29.30133-91177908efa8435f80dc1920fd5255de.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-dfa820e221e443a89abaac204d442aa3"] = {
+        sha256 = "1cdbf0792a4d9e19db9bb7db8e62b731efd48bbda68b01d06191753055b2d21e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mimalloc-2.1.2/windows-x86-vc142-dfa820e221e443a89abaac204d442aa3.7z",
         toolset = "14.29.30133"
     }
 }
