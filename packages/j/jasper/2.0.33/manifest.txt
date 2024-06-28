@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.37.32822-f7e16f50e3d0484094f572ff2113b389"] = {
-        sha256 = "86648606a7622ae25a1c56310ee1f6796a785e20afd0da450b9a8ebeb8989cdd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-f7e16f50e3d0484094f572ff2113b389.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-50f79e9a632147c19c818cb3733f9da0"] = {
-        sha256 = "4390be6868f098237d518c0324b6d00da72ca11819cf72c8cbd1450ba35dfe79",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-50f79e9a632147c19c818cb3733f9da0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-044218d8277b442b99e0180f49e9bbbe"] = {
-        sha256 = "265ec7f7070339edbe046a1e74a26d40a36ae8bfbd4f434ddbd078637fcd6895",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-044218d8277b442b99e0180f49e9bbbe.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-1968f29aef124d6bb174b40e5f5357ca"] = {
-        sha256 = "6c962d31f7fc3d0ab16837c83a208dc53e6de4ee4df1cc98984f0dd94b64a9cb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.37.32822-1968f29aef124d6bb174b40e5f5357ca.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-66e5c225d712472f85e7695ed3656c6a"] = {
-        sha256 = "bb92d715613e5a484a19616050fb733972e62bddcf636f9bbdfc615c16485fd8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-66e5c225d712472f85e7695ed3656c6a.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-72ca913c69204e519e74f91ade7bbc64"] = {
-        sha256 = "2db3b8c17961a824b1ba88233c2a22d007d9701d66976ba4d5309af1d45a646f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-72ca913c69204e519e74f91ade7bbc64.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-66e5c225d712472f85e7695ed3656c6a"] = {
-        sha256 = "509aae30484d865401211358bc26673190c16fdb758c4435db01da5487538f2a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-66e5c225d712472f85e7695ed3656c6a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-c21ef08e87fc4cf390314231a38f3815"] = {
-        sha256 = "3ca31dd348a290512f4c83b9570a43b1c78a9e9bde81d4dad6a522b9fb90b065",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-c21ef08e87fc4cf390314231a38f3815.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-703dbbf988b342d0a93001bfb85ef070"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-703dbbf988b342d0a93001bfb85ef070.7z",
+        toolset = "14.29.30133",
+        sha256 = "478c0af6738396f951d8aeef6d72f2ffd1c0d713b1ec178debadf4dca03bf0ba"
     },
     ["windows-x86-vc14.37.32822-044218d8277b442b99e0180f49e9bbbe"] = {
-        sha256 = "d6dcaa9b23c5003d190091dbcccfcc1cddcab0a5f343065dae9955bd990d962b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.37.32822-044218d8277b442b99e0180f49e9bbbe.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "d6dcaa9b23c5003d190091dbcccfcc1cddcab0a5f343065dae9955bd990d962b"
     },
-    ["windows-x64-vc14.37.32822-703dbbf988b342d0a93001bfb85ef070"] = {
-        sha256 = "d4ed02bb7c4c53173076669f3aab57543bfa5cb32cc78697fe3f6d08b59344d3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-703dbbf988b342d0a93001bfb85ef070.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.29.30133-50f79e9a632147c19c818cb3733f9da0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-50f79e9a632147c19c818cb3733f9da0.7z",
+        toolset = "14.29.30133",
+        sha256 = "4390be6868f098237d518c0324b6d00da72ca11819cf72c8cbd1450ba35dfe79"
     },
-    ["windows-x64-vc14.29.30133-f7e16f50e3d0484094f572ff2113b389"] = {
-        sha256 = "22883186959af120544e251ac8cf6ed0cf17d3ac54d66c97e8e76abb4e3c0c11",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-f7e16f50e3d0484094f572ff2113b389.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.40.33807-8e16c6d887a745519d6bb3ea820d3e32"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.40.33807-8e16c6d887a745519d6bb3ea820d3e32.7z",
+        toolset = "14.40.33807",
+        sha256 = "e3fbb11ad2c929838228b90b1f3247aaf14342313fb947451537eafed5c65a79"
     },
-    ["windows-x86-vc14.29.30133-1968f29aef124d6bb174b40e5f5357ca"] = {
-        sha256 = "42595a382a55cfc3624a83353e2b6c78e3ccea138cb22f16e7dbea25cb320d3a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-1968f29aef124d6bb174b40e5f5357ca.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-8e16c6d887a745519d6bb3ea820d3e32"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-8e16c6d887a745519d6bb3ea820d3e32.7z",
+        toolset = "14.29.30133",
+        sha256 = "79e417c39863a986e7edf923c871bc9035b8cd880767c77bd7495e9e931d2315"
     },
-    ["windows-x64-vc14.37.32822-72ca913c69204e519e74f91ade7bbc64"] = {
-        sha256 = "adb88d49f075c814f9bc4d13f81ca0bb2072782bb361888de726652575632bd3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-72ca913c69204e519e74f91ade7bbc64.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-703dbbf988b342d0a93001bfb85ef070"] = {
-        sha256 = "478c0af6738396f951d8aeef6d72f2ffd1c0d713b1ec178debadf4dca03bf0ba",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-703dbbf988b342d0a93001bfb85ef070.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-c21ef08e87fc4cf390314231a38f3815"] = {
-        sha256 = "7f14df3e8f22eb3822e3b8ba49bf3e5ede7311f2bfe43360a4d2398f11e63690",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.37.32822-c21ef08e87fc4cf390314231a38f3815.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.40.33807-c9c32e322ace415393df24a9f3377fcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.40.33807-c9c32e322ace415393df24a9f3377fcd.7z",
+        toolset = "14.40.33807",
+        sha256 = "8ba65aaf64f0feba73e085dcd1e24e6b4b666ca273293ff4337f06108af58aed"
     },
     ["windows-x86-vc14.37.32822-50f79e9a632147c19c818cb3733f9da0"] = {
-        sha256 = "1692f377f6acd148cc32a2d37352a0e4b74bcf6e7fdb7af7af07f0dcd0a421f2",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.37.32822-50f79e9a632147c19c818cb3733f9da0.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "1692f377f6acd148cc32a2d37352a0e4b74bcf6e7fdb7af7af07f0dcd0a421f2"
+    },
+    ["windows-x64-vc14.29.30133-72ca913c69204e519e74f91ade7bbc64"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-72ca913c69204e519e74f91ade7bbc64.7z",
+        toolset = "14.29.30133",
+        sha256 = "2db3b8c17961a824b1ba88233c2a22d007d9701d66976ba4d5309af1d45a646f"
+    },
+    ["windows-x64-vc14.37.32822-66e5c225d712472f85e7695ed3656c6a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-66e5c225d712472f85e7695ed3656c6a.7z",
+        toolset = "14.37.32822",
+        sha256 = "bb92d715613e5a484a19616050fb733972e62bddcf636f9bbdfc615c16485fd8"
+    },
+    ["windows-x86-vc14.29.30133-c9c32e322ace415393df24a9f3377fcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-c9c32e322ace415393df24a9f3377fcd.7z",
+        toolset = "14.29.30133",
+        sha256 = "33bc2bc66d678ba434a7ee157ea6b338677784bf2c8c29701c690b95b39aff73"
+    },
+    ["windows-x64-vc14.37.32822-f7e16f50e3d0484094f572ff2113b389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-f7e16f50e3d0484094f572ff2113b389.7z",
+        toolset = "14.37.32822",
+        sha256 = "86648606a7622ae25a1c56310ee1f6796a785e20afd0da450b9a8ebeb8989cdd"
+    },
+    ["windows-x64-vc14.29.30133-f7e16f50e3d0484094f572ff2113b389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-f7e16f50e3d0484094f572ff2113b389.7z",
+        toolset = "14.29.30133",
+        sha256 = "22883186959af120544e251ac8cf6ed0cf17d3ac54d66c97e8e76abb4e3c0c11"
+    },
+    ["windows-x86-vc14.29.30133-c21ef08e87fc4cf390314231a38f3815"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-c21ef08e87fc4cf390314231a38f3815.7z",
+        toolset = "14.29.30133",
+        sha256 = "3ca31dd348a290512f4c83b9570a43b1c78a9e9bde81d4dad6a522b9fb90b065"
+    },
+    ["windows-x64-vc14.37.32822-72ca913c69204e519e74f91ade7bbc64"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-72ca913c69204e519e74f91ade7bbc64.7z",
+        toolset = "14.37.32822",
+        sha256 = "adb88d49f075c814f9bc4d13f81ca0bb2072782bb361888de726652575632bd3"
+    },
+    ["windows-x64-vc14.37.32822-703dbbf988b342d0a93001bfb85ef070"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.37.32822-703dbbf988b342d0a93001bfb85ef070.7z",
+        toolset = "14.37.32822",
+        sha256 = "d4ed02bb7c4c53173076669f3aab57543bfa5cb32cc78697fe3f6d08b59344d3"
+    },
+    ["windows-x64-vc14.29.30133-0c1e40899df449bb824287cfedd1b443"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-0c1e40899df449bb824287cfedd1b443.7z",
+        toolset = "14.29.30133",
+        sha256 = "29b73e21ea38d36869616687b8eb51d3362cd95ff6094913b4f3a39ae8e30e86"
+    },
+    ["windows-x86-vc14.37.32822-1968f29aef124d6bb174b40e5f5357ca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.37.32822-1968f29aef124d6bb174b40e5f5357ca.7z",
+        toolset = "14.37.32822",
+        sha256 = "6c962d31f7fc3d0ab16837c83a208dc53e6de4ee4df1cc98984f0dd94b64a9cb"
+    },
+    ["windows-x86-vc14.29.30133-ea6843588e184208a994320fcbf4feb5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-ea6843588e184208a994320fcbf4feb5.7z",
+        toolset = "14.29.30133",
+        sha256 = "0f54edde68d2885ea71326b4c646cefc7046806a553a91ef4c48e78fa3dcdba2"
+    },
+    ["windows-x86-vc14.29.30133-8bb587a25f424d79aee1e19089f01488"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-8bb587a25f424d79aee1e19089f01488.7z",
+        toolset = "14.29.30133",
+        sha256 = "9d8ccf38dddaec4abf33e75ac0694a45fc9f1f4dab9b481e529308096bf30e8d"
+    },
+    ["windows-x64-vc14.29.30133-8f2b7b427f814bcb8cefd216aabb2e2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-8f2b7b427f814bcb8cefd216aabb2e2b.7z",
+        toolset = "14.29.30133",
+        sha256 = "5e75c7597ae4afd8e7567ff4216bee11514c78242a950c3d14de4d62c92d836d"
+    },
+    ["windows-x64-vc14.29.30133-66e5c225d712472f85e7695ed3656c6a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-66e5c225d712472f85e7695ed3656c6a.7z",
+        toolset = "14.29.30133",
+        sha256 = "509aae30484d865401211358bc26673190c16fdb758c4435db01da5487538f2a"
+    },
+    ["windows-x64-vc14.40.33807-9fb31bac0607450d85e7541a4539e0b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.40.33807-9fb31bac0607450d85e7541a4539e0b2.7z",
+        toolset = "14.40.33807",
+        sha256 = "59a23350d16f28fc2fa8bd128963b7c39d43e564062e24404f62b798d2fb33ce"
+    },
+    ["windows-x86-vc14.29.30133-044218d8277b442b99e0180f49e9bbbe"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-044218d8277b442b99e0180f49e9bbbe.7z",
+        toolset = "14.29.30133",
+        sha256 = "265ec7f7070339edbe046a1e74a26d40a36ae8bfbd4f434ddbd078637fcd6895"
+    },
+    ["windows-x86-vc14.29.30133-643901ac6d61439db3acdba8ca324d1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-643901ac6d61439db3acdba8ca324d1d.7z",
+        toolset = "14.29.30133",
+        sha256 = "b830c7b294ad754eda6a4eecd1e96f29ff955b6bf21e40eed54ba77b503eaf4c"
+    },
+    ["windows-x86-vc14.37.32822-c21ef08e87fc4cf390314231a38f3815"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.37.32822-c21ef08e87fc4cf390314231a38f3815.7z",
+        toolset = "14.37.32822",
+        sha256 = "7f14df3e8f22eb3822e3b8ba49bf3e5ede7311f2bfe43360a4d2398f11e63690"
+    },
+    ["windows-x86-vc14.40.33807-8bb587a25f424d79aee1e19089f01488"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.40.33807-8bb587a25f424d79aee1e19089f01488.7z",
+        toolset = "14.40.33807",
+        sha256 = "5cb8547fdd407ef7e2209854274ff2013806e768bc27665eaa6713c9c707423c"
+    },
+    ["windows-x64-vc14.40.33807-8f2b7b427f814bcb8cefd216aabb2e2b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.40.33807-8f2b7b427f814bcb8cefd216aabb2e2b.7z",
+        toolset = "14.40.33807",
+        sha256 = "f1a3bd729bebdedfc2aeeb40b3e2f1b866a2dc32355d1a8b60eb3ccd9e06ce37"
+    },
+    ["windows-x64-vc14.29.30133-9fb31bac0607450d85e7541a4539e0b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.29.30133-9fb31bac0607450d85e7541a4539e0b2.7z",
+        toolset = "14.29.30133",
+        sha256 = "d877915ac17d1396eca78b44b9fea6b196d85b40ad1a37f41cf3ab8ed9eb3a11"
+    },
+    ["windows-x64-vc14.40.33807-0c1e40899df449bb824287cfedd1b443"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x64-vc14.40.33807-0c1e40899df449bb824287cfedd1b443.7z",
+        toolset = "14.40.33807",
+        sha256 = "e716194819a219e61f0d757d5657f7eaaaea0d00dd1904bbe5991dffb1605ab4"
+    },
+    ["windows-x86-vc14.40.33807-ea6843588e184208a994320fcbf4feb5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.40.33807-ea6843588e184208a994320fcbf4feb5.7z",
+        toolset = "14.40.33807",
+        sha256 = "2db2996ce4327a0943db545187e480848f8021c5bef21803605fd38fa7f1a56e"
+    },
+    ["windows-x86-vc14.40.33807-643901ac6d61439db3acdba8ca324d1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.40.33807-643901ac6d61439db3acdba8ca324d1d.7z",
+        toolset = "14.40.33807",
+        sha256 = "173be76839618afd3363b78c6c67bfee2751e5558047acb3acb342a30ff15d1e"
+    },
+    ["windows-x86-vc14.29.30133-1968f29aef124d6bb174b40e5f5357ca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/jasper-2.0.33/windows-x86-vc14.29.30133-1968f29aef124d6bb174b40e5f5357ca.7z",
+        toolset = "14.29.30133",
+        sha256 = "42595a382a55cfc3624a83353e2b6c78e3ccea138cb22f16e7dbea25cb320d3a"
     }
 }
