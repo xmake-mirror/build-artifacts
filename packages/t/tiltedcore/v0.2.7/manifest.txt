@@ -1,103 +1,123 @@
 {
-    ["windows-x86-vc143-6b8bf1a534a847f381895f485547a5ec"] = {
-        toolset = "14.32.31326",
-        sha256 = "9cfb9dde7344a48e1ace6ed7e3ee80a17a1c457bf7396eafdb6ec424eb0999bc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-6b8bf1a534a847f381895f485547a5ec.7z"
+    ["windows-x86-vc14.40.33807-6940b5bb2e3248d4a24b35bcd0fbc3c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-6940b5bb2e3248d4a24b35bcd0fbc3c5.7z",
+        sha256 = "3dfa9a62ce2bca7f38796a3c197cc18531a75e5b15848893c252e9856943f597",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-e5ab7a8d51cc4354a9f793bd768848b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-e5ab7a8d51cc4354a9f793bd768848b2.7z",
+        sha256 = "eb44c4df9dab301cb1f43f6a4776733cf8005db7529f337902bd2b2ef31ae552",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-1f5f81944cef4e46b02a265fb7f1d9df"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-1f5f81944cef4e46b02a265fb7f1d9df.7z",
+        sha256 = "e86ada67de47d1f9e984a153aba443916ed39ebfa31136b03d6d092fdc777adc",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-366fe42f55764348b8c507c6ce35e65c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-366fe42f55764348b8c507c6ce35e65c.7z",
+        sha256 = "e411ee12b2eeeca8e3b0fba6161160fe10f6a52c902cc64e1ff4770abfefe09d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-027b30ef2d23462d9fa9c825d979091a"] = {
+        toolset = "14.29.30133",
+        sha256 = "02d9e117686a2fa8fb1fbef9794a8f02329f4ad1a92f9ad1cfa8521f45792754",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-027b30ef2d23462d9fa9c825d979091a.7z"
+    },
+    ["windows-x86-vc14.40.33807-1f5f81944cef4e46b02a265fb7f1d9df"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-1f5f81944cef4e46b02a265fb7f1d9df.7z",
+        sha256 = "15f11f30fbe431e95bfc024f72729949db5f9ca07f3e9cbcb402929f76d1441e",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.29.30133-955cd3ca06ab42b5adbb9dcaa38f8409"] = {
-        toolset = "14.29.30133",
-        sha256 = "6f15727845d33ff1bf899406db8f87470699a9a8981dce51f34b574f7b61118d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-955cd3ca06ab42b5adbb9dcaa38f8409.7z"
-    },
-    ["windows-x64-vc142-44b7b6fe8aaa496691fd2a8437aa2621"] = {
-        toolset = "14.29.30133",
-        sha256 = "982a5d4e1d1c0c21b2d0b1912774734da3c5c41b3b1751cf964659e0fde5f3c2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-44b7b6fe8aaa496691fd2a8437aa2621.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-955cd3ca06ab42b5adbb9dcaa38f8409.7z",
+        sha256 = "54813fc97e02b36b817983645cc8c6104ec21ea28b9f833c37d6ec7cf1e41f75",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-4d07365e3a8545619e46dcd7aee12000"] = {
         toolset = "14.29.30133",
         sha256 = "1224a822c5d9bd2a69150fe315a28b41ded1530be57ae0cb8b4c90ec651a1680",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc142-4d07365e3a8545619e46dcd7aee12000.7z"
     },
-    ["windows-x86-vc143-06ca057d3217458892747cf5a51cd7b8"] = {
-        toolset = "14.32.31326",
-        sha256 = "10bf0c09c6b93f26e676feb4ce5cadd9740e79cb39b3f940dcc0a38843883e50",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-06ca057d3217458892747cf5a51cd7b8.7z"
+    ["windows-x64-vc142-44b7b6fe8aaa496691fd2a8437aa2621"] = {
+        toolset = "14.29.30133",
+        sha256 = "982a5d4e1d1c0c21b2d0b1912774734da3c5c41b3b1751cf964659e0fde5f3c2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-44b7b6fe8aaa496691fd2a8437aa2621.7z"
     },
     ["windows-x64-vc14.29.30133-cd45ce4b31104fd19d2a82b66ce97755"] = {
-        toolset = "14.29.30133",
-        sha256 = "3aa8acb7367b9299f5a63b64244ee9d7255d092a01d9da5b2d5c3ebfc776aa06",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-cd45ce4b31104fd19d2a82b66ce97755.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-cd45ce4b31104fd19d2a82b66ce97755.7z",
+        sha256 = "0d2a46fdaa63077de613921f2afd5c18f4ca517c9c46feee1808f02b0b05f287",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-366fe42f55764348b8c507c6ce35e65c"] = {
-        toolset = "14.29.30133",
-        sha256 = "26193a8f9b2343c4a03dee3b06a90e0cd05620f77ce35fee36a4c0f26ef32f75",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-366fe42f55764348b8c507c6ce35e65c.7z"
+    ["windows-x64-vc14.40.33807-20491871580e490d89085df5dc5576a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-20491871580e490d89085df5dc5576a5.7z",
+        sha256 = "185b9dafd8055c55a514aaca3822ae20aa8cfd8b774147ff9724039948ce5a6d",
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc143-87d667e7317949fba7d1c4cda0a4964a"] = {
+    ["windows-x64-vc14.39.33519-c047dae485f94209874420a4faceb832"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-c047dae485f94209874420a4faceb832.7z",
+        sha256 = "163877afb1298cbadbb999f0dbfe729a171446e47d4c4b5d1318f2c1615c3d6e",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-20491871580e490d89085df5dc5576a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-20491871580e490d89085df5dc5576a5.7z",
+        sha256 = "445bbda453c1cbecddebcf8b6a3435e7e1ed0d0c6defa152cf2488c1e93e41bb",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-c047dae485f94209874420a4faceb832"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-c047dae485f94209874420a4faceb832.7z",
+        sha256 = "c1866073d8e3490367c15927a384bfbc2abd14612c8d73e92928e512303e2adc",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-e5ab7a8d51cc4354a9f793bd768848b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-e5ab7a8d51cc4354a9f793bd768848b2.7z",
+        sha256 = "12fc535f5c962b7f848ea22015664c1e18af37456b02b1fd516800573b60c069",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.39.33519-6940b5bb2e3248d4a24b35bcd0fbc3c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-6940b5bb2e3248d4a24b35bcd0fbc3c5.7z",
+        sha256 = "b775b8c96c92776dac274101e043c65a0795aa725d6c001ed235f8d0d829ecdb",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc143-6b8bf1a534a847f381895f485547a5ec"] = {
         toolset = "14.32.31326",
-        sha256 = "6ae03b244adc40928665a87ece6da0bed73e247f8ccff6cecdf1e15b803344d9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-87d667e7317949fba7d1c4cda0a4964a.7z"
+        sha256 = "9cfb9dde7344a48e1ace6ed7e3ee80a17a1c457bf7396eafdb6ec424eb0999bc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-6b8bf1a534a847f381895f485547a5ec.7z"
     },
-    ["windows-x64-vc142-0f1ec8958f07448182f7fdd2dd9b8cc7"] = {
-        toolset = "14.29.30133",
-        sha256 = "d2d60f2b38b6b5d4b96a190e82afcc082985b5ed68c51d3eda0258f252d3514f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-0f1ec8958f07448182f7fdd2dd9b8cc7.7z"
+    ["windows-x64-vc143-027b30ef2d23462d9fa9c825d979091a"] = {
+        toolset = "14.32.31326",
+        sha256 = "71e9e2379932605518e2db6d76ead3a28a02fcd34aa2634a74c325d4d5f14863",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc143-027b30ef2d23462d9fa9c825d979091a.7z"
+    },
+    ["windows-x86-vc143-4d07365e3a8545619e46dcd7aee12000"] = {
+        toolset = "14.32.31326",
+        sha256 = "421520cfc7d3ed9b6153a4e0dabc2368f35908c1faf1a72d98b6ceaf4c85800e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-4d07365e3a8545619e46dcd7aee12000.7z"
     },
     ["windows-x64-vc143-44b7b6fe8aaa496691fd2a8437aa2621"] = {
         toolset = "14.32.31326",
         sha256 = "e56e7b3770f6920cd5ff2871ed3b447550a111c7daf6cb9a938e7ec673bed4c6",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc143-44b7b6fe8aaa496691fd2a8437aa2621.7z"
     },
-    ["windows-x86-vc14.40.33807-1f5f81944cef4e46b02a265fb7f1d9df"] = {
-        toolset = "14.40.33807",
-        sha256 = "7e70a65577ab7a981c75e4f861efa41ab8db0bf7ceed2acb95a5ac905b5f213b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-1f5f81944cef4e46b02a265fb7f1d9df.7z"
+    ["windows-x86-vc14.29.30133-6940b5bb2e3248d4a24b35bcd0fbc3c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-6940b5bb2e3248d4a24b35bcd0fbc3c5.7z",
+        sha256 = "4508c41a01f0407c0524094cac5974cb10efe01a32885a8aa15a009d459af529",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-20491871580e490d89085df5dc5576a5"] = {
-        toolset = "14.29.30133",
-        sha256 = "757408f1e283571647d19ae03f355a22e13030acf5087670ae149bbc4c0fd6c2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-20491871580e490d89085df5dc5576a5.7z"
+    ["windows-x64-vc143-16ab1826e02a499eafafa65af7b9fc0e"] = {
+        toolset = "14.32.31326",
+        sha256 = "2613156d86af842a0de53bbae33e365e8825054af25154b9f7d1040f476ce1bc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc143-16ab1826e02a499eafafa65af7b9fc0e.7z"
     },
     ["windows-x64-vc14.39.33519-955cd3ca06ab42b5adbb9dcaa38f8409"] = {
-        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-955cd3ca06ab42b5adbb9dcaa38f8409.7z",
         sha256 = "aa94a2fdffd5ae3788eeb09f3897bd74086929784e71816796e5ebd68d78a8fb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-955cd3ca06ab42b5adbb9dcaa38f8409.7z"
+        toolset = "14.39.33519"
     },
-    ["windows-x64-vc14.40.33807-20491871580e490d89085df5dc5576a5"] = {
-        toolset = "14.40.33807",
-        sha256 = "21e79053a86c575b1bb829d2538bdb9dfed40f00f23af0c148e0fce8ed0a9dcc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-20491871580e490d89085df5dc5576a5.7z"
-    },
-    ["windows-x86-vc142-6b8bf1a534a847f381895f485547a5ec"] = {
-        toolset = "14.29.30133",
-        sha256 = "ac30dfa653584d01b9eb91db2a93cb1cab92545fb2d011d212cec7da0d333c55",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc142-6b8bf1a534a847f381895f485547a5ec.7z"
-    },
-    ["windows-x86-vc14.40.33807-6940b5bb2e3248d4a24b35bcd0fbc3c5"] = {
-        toolset = "14.40.33807",
-        sha256 = "733c8f86cbf7499001a9e4e16a71316607cc545d8e6116817413d157b2117a85",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-6940b5bb2e3248d4a24b35bcd0fbc3c5.7z"
-    },
-    ["windows-x86-vc14.39.33519-1f5f81944cef4e46b02a265fb7f1d9df"] = {
-        toolset = "14.39.33519",
-        sha256 = "e86ada67de47d1f9e984a153aba443916ed39ebfa31136b03d6d092fdc777adc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-1f5f81944cef4e46b02a265fb7f1d9df.7z"
-    },
-    ["windows-x86-vc14.39.33519-6940b5bb2e3248d4a24b35bcd0fbc3c5"] = {
-        toolset = "14.39.33519",
-        sha256 = "b775b8c96c92776dac274101e043c65a0795aa725d6c001ed235f8d0d829ecdb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-6940b5bb2e3248d4a24b35bcd0fbc3c5.7z"
-    },
-    ["windows-x86-vc14.29.30133-e5ab7a8d51cc4354a9f793bd768848b2"] = {
-        toolset = "14.29.30133",
-        sha256 = "5dbe604c2a850861a49d08977f435e4226ea9b308f7d9d37ec4e9cf067231895",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-e5ab7a8d51cc4354a9f793bd768848b2.7z"
-    },
-    ["windows-x86-vc143-4d07365e3a8545619e46dcd7aee12000"] = {
-        toolset = "14.32.31326",
-        sha256 = "421520cfc7d3ed9b6153a4e0dabc2368f35908c1faf1a72d98b6ceaf4c85800e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-4d07365e3a8545619e46dcd7aee12000.7z"
+    ["windows-x86-vc14.40.33807-366fe42f55764348b8c507c6ce35e65c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-366fe42f55764348b8c507c6ce35e65c.7z",
+        sha256 = "01a55f650bcf38b0cd0d8659cab21443f2d155842504609bcca3d7273b8e43c5",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc143-0f1ec8958f07448182f7fdd2dd9b8cc7"] = {
         toolset = "14.32.31326",
@@ -105,98 +125,78 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc143-0f1ec8958f07448182f7fdd2dd9b8cc7.7z"
     },
     ["windows-x64-vc14.39.33519-cd45ce4b31104fd19d2a82b66ce97755"] = {
-        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-cd45ce4b31104fd19d2a82b66ce97755.7z",
         sha256 = "3dd807aecbfdd758dfa3ba58d492f181110d3d9a26d899eb46852dbe67fe0048",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-cd45ce4b31104fd19d2a82b66ce97755.7z"
-    },
-    ["windows-x86-vc14.39.33519-366fe42f55764348b8c507c6ce35e65c"] = {
-        toolset = "14.39.33519",
-        sha256 = "089c85aa8f6d714dce1f41e5f4bb068f18bb22450c7bd61ac2afdc8720ce3c21",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-366fe42f55764348b8c507c6ce35e65c.7z"
-    },
-    ["windows-x64-vc14.39.33519-20491871580e490d89085df5dc5576a5"] = {
-        toolset = "14.39.33519",
-        sha256 = "f18e361f7d7f894939942f6d4dbd600a461306cd3fa62cfaa56ce38b443c7753",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-20491871580e490d89085df5dc5576a5.7z"
-    },
-    ["windows-x86-vc142-87d667e7317949fba7d1c4cda0a4964a"] = {
-        toolset = "14.29.30133",
-        sha256 = "f4f8c14f11ca5d3f6fd0e145a9b7956f38893064a9c4d12b593aea7280e2917a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc142-87d667e7317949fba7d1c4cda0a4964a.7z"
-    },
-    ["windows-x86-vc14.29.30133-6940b5bb2e3248d4a24b35bcd0fbc3c5"] = {
-        toolset = "14.29.30133",
-        sha256 = "74a3c10d1b22c132cd54cbe268826052a5cbd286aff218a5a80750d1b91afe5a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-6940b5bb2e3248d4a24b35bcd0fbc3c5.7z"
+        toolset = "14.39.33519"
     },
     ["windows-x64-vc14.40.33807-cd45ce4b31104fd19d2a82b66ce97755"] = {
-        toolset = "14.40.33807",
-        sha256 = "840384b6c262816375c00a5b82ccba12dbcdd755c5df82078542ef6a52f7b344",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-cd45ce4b31104fd19d2a82b66ce97755.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-cd45ce4b31104fd19d2a82b66ce97755.7z",
+        sha256 = "e80a4f2a7fa9d637e820a4b16c97a4b979e186663e9c087f338d36d6c2ec8f4f",
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.29.30133-1f5f81944cef4e46b02a265fb7f1d9df"] = {
+    ["windows-x86-vc142-6b8bf1a534a847f381895f485547a5ec"] = {
         toolset = "14.29.30133",
-        sha256 = "ae2abcca6f3ccffe44d7eb06282b13be8db884216e660a1a3a395b3eb2044f9a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-1f5f81944cef4e46b02a265fb7f1d9df.7z"
+        sha256 = "ac30dfa653584d01b9eb91db2a93cb1cab92545fb2d011d212cec7da0d333c55",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc142-6b8bf1a534a847f381895f485547a5ec.7z"
     },
-    ["windows-x64-vc143-027b30ef2d23462d9fa9c825d979091a"] = {
-        toolset = "14.32.31326",
-        sha256 = "71e9e2379932605518e2db6d76ead3a28a02fcd34aa2634a74c325d4d5f14863",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc143-027b30ef2d23462d9fa9c825d979091a.7z"
+    ["windows-x86-vc14.39.33519-366fe42f55764348b8c507c6ce35e65c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-366fe42f55764348b8c507c6ce35e65c.7z",
+        sha256 = "089c85aa8f6d714dce1f41e5f4bb068f18bb22450c7bd61ac2afdc8720ce3c21",
+        toolset = "14.39.33519"
     },
     ["windows-x86-vc14.39.33519-e5ab7a8d51cc4354a9f793bd768848b2"] = {
-        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-e5ab7a8d51cc4354a9f793bd768848b2.7z",
         sha256 = "00390d6dd1ddb0c4c8e78a07bcb38cabda5c2bf35b3d59c907fd01acd7d2804b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.39.33519-e5ab7a8d51cc4354a9f793bd768848b2.7z"
+        toolset = "14.39.33519"
     },
-    ["windows-x64-vc14.39.33519-c047dae485f94209874420a4faceb832"] = {
-        toolset = "14.39.33519",
-        sha256 = "163877afb1298cbadbb999f0dbfe729a171446e47d4c4b5d1318f2c1615c3d6e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-c047dae485f94209874420a4faceb832.7z"
+    ["windows-x64-vc14.39.33519-20491871580e490d89085df5dc5576a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.39.33519-20491871580e490d89085df5dc5576a5.7z",
+        sha256 = "f18e361f7d7f894939942f6d4dbd600a461306cd3fa62cfaa56ce38b443c7753",
+        toolset = "14.39.33519"
     },
-    ["windows-x64-vc142-027b30ef2d23462d9fa9c825d979091a"] = {
-        toolset = "14.29.30133",
-        sha256 = "02d9e117686a2fa8fb1fbef9794a8f02329f4ad1a92f9ad1cfa8521f45792754",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-027b30ef2d23462d9fa9c825d979091a.7z"
-    },
-    ["windows-x86-vc14.40.33807-e5ab7a8d51cc4354a9f793bd768848b2"] = {
-        toolset = "14.40.33807",
-        sha256 = "a78b4810e45e45d2469b4d5709a6540ffc32482d990eb096d14956c718df2943",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-e5ab7a8d51cc4354a9f793bd768848b2.7z"
-    },
-    ["windows-x86-vc14.40.33807-366fe42f55764348b8c507c6ce35e65c"] = {
-        toolset = "14.40.33807",
-        sha256 = "bead1771a52858c6e6944c445e7fe91fd65065cde22d41496a9315361f99726f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.40.33807-366fe42f55764348b8c507c6ce35e65c.7z"
-    },
-    ["windows-x64-vc143-16ab1826e02a499eafafa65af7b9fc0e"] = {
+    ["windows-x86-vc143-06ca057d3217458892747cf5a51cd7b8"] = {
         toolset = "14.32.31326",
-        sha256 = "2613156d86af842a0de53bbae33e365e8825054af25154b9f7d1040f476ce1bc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc143-16ab1826e02a499eafafa65af7b9fc0e.7z"
+        sha256 = "10bf0c09c6b93f26e676feb4ce5cadd9740e79cb39b3f940dcc0a38843883e50",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-06ca057d3217458892747cf5a51cd7b8.7z"
+    },
+    ["windows-x86-vc14.29.30133-1f5f81944cef4e46b02a265fb7f1d9df"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc14.29.30133-1f5f81944cef4e46b02a265fb7f1d9df.7z",
+        sha256 = "3391cdf81a2879f266d0ff162ccab1934a2d67ee47993c1412763d0b521930f9",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.40.33807-955cd3ca06ab42b5adbb9dcaa38f8409"] = {
-        toolset = "14.40.33807",
-        sha256 = "dc2d5532817cad3b2e36ef2a685ff42c161e130a1dab041d3e9f4b9b51df9594",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-955cd3ca06ab42b5adbb9dcaa38f8409.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-955cd3ca06ab42b5adbb9dcaa38f8409.7z",
+        sha256 = "b7e8067fc49376d25d70c827167528b990b1bcc761c327d4ca3180b4a74bcc5d",
+        toolset = "14.40.33807"
     },
-    ["windows-x64-vc142-16ab1826e02a499eafafa65af7b9fc0e"] = {
-        toolset = "14.29.30133",
-        sha256 = "9c9f908cac389b70927f067880ee139ac62d21e749b8e22a328e21ec114795ba",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-16ab1826e02a499eafafa65af7b9fc0e.7z"
+    ["windows-x86-vc143-87d667e7317949fba7d1c4cda0a4964a"] = {
+        toolset = "14.32.31326",
+        sha256 = "6ae03b244adc40928665a87ece6da0bed73e247f8ccff6cecdf1e15b803344d9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc143-87d667e7317949fba7d1c4cda0a4964a.7z"
+    },
+    ["windows-x64-vc14.40.33807-c047dae485f94209874420a4faceb832"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-c047dae485f94209874420a4faceb832.7z",
+        sha256 = "c964f4dc1ea9bc10124ce78b172c8388690506a987fb78bb4de92cc27a5107fc",
+        toolset = "14.40.33807"
     },
     ["windows-x86-vc142-06ca057d3217458892747cf5a51cd7b8"] = {
         toolset = "14.29.30133",
         sha256 = "89cce565f507e248871f34d447e95e5a7161aa31abd920c9b99e6f5ccd848664",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc142-06ca057d3217458892747cf5a51cd7b8.7z"
     },
-    ["windows-x64-vc14.40.33807-c047dae485f94209874420a4faceb832"] = {
-        toolset = "14.40.33807",
-        sha256 = "a046651746159784b6ae85d5da2353e1bfcb09f7ac1996abecc55c0d48e5db32",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.40.33807-c047dae485f94209874420a4faceb832.7z"
-    },
-    ["windows-x64-vc14.29.30133-c047dae485f94209874420a4faceb832"] = {
+    ["windows-x64-vc142-16ab1826e02a499eafafa65af7b9fc0e"] = {
         toolset = "14.29.30133",
-        sha256 = "ad4a8ef62bc2397ccdf64dfe6bb46209f93389f20aecbaef188a2bc16337d55a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc14.29.30133-c047dae485f94209874420a4faceb832.7z"
+        sha256 = "9c9f908cac389b70927f067880ee139ac62d21e749b8e22a328e21ec114795ba",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-16ab1826e02a499eafafa65af7b9fc0e.7z"
+    },
+    ["windows-x64-vc142-0f1ec8958f07448182f7fdd2dd9b8cc7"] = {
+        toolset = "14.29.30133",
+        sha256 = "d2d60f2b38b6b5d4b96a190e82afcc082985b5ed68c51d3eda0258f252d3514f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x64-vc142-0f1ec8958f07448182f7fdd2dd9b8cc7.7z"
+    },
+    ["windows-x86-vc142-87d667e7317949fba7d1c4cda0a4964a"] = {
+        toolset = "14.29.30133",
+        sha256 = "f4f8c14f11ca5d3f6fd0e145a9b7956f38893064a9c4d12b593aea7280e2917a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tiltedcore-v0.2.7/windows-x86-vc142-87d667e7317949fba7d1c4cda0a4964a.7z"
     }
 }
