@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-61d86fc2f8cc4e60a5bef5bc478c3a92"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-61d86fc2f8cc4e60a5bef5bc478c3a92.7z",
-        sha256 = "9d5b39a3576b43e3647190347cdaf2067098d4bbffba901e148207ff0f07eeb1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-ce89f4ca38384bcb91b02b7b4aed2d88"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-ce89f4ca38384bcb91b02b7b4aed2d88.7z",
-        sha256 = "cb77b9eb09206d701b903aca91b48c3db700b9da34a6ea28369c996df932558a",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-841074c53f84433490310f7aadc2934d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-841074c53f84433490310f7aadc2934d.7z",
-        sha256 = "25a6bf37c661ac7a500b21420c6b47de258d48c536b91bba1fd51b399041cb7b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.38.33130-841074c53f84433490310f7aadc2934d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-841074c53f84433490310f7aadc2934d.7z",
-        sha256 = "935113d8a694070bbe0d0903ad40fbca3ee9853beaeb0547bd76798aa7a363d9",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-ce89f4ca38384bcb91b02b7b4aed2d88"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-ce89f4ca38384bcb91b02b7b4aed2d88.7z",
-        sha256 = "5dd9fad03d2b5d5822ff301e56c22b27b08daf76d7d0b36b972b2145fe71cbae",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.38.33130-6e7361078b194e48b88f0294bea420c0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-6e7361078b194e48b88f0294bea420c0.7z",
-        sha256 = "917c952c4140dd484448a63ad98be27dd6a404c86601b890cb65fb581a77ef92",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-6e7361078b194e48b88f0294bea420c0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-6e7361078b194e48b88f0294bea420c0.7z",
-        sha256 = "754fa985c305b4fcd7668e40dbdb538dcabe7d739a9b1eb9fbb57d7905263773",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-2971d60ce4eb47e5a8dbc2fec08e1400"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-2971d60ce4eb47e5a8dbc2fec08e1400.7z",
-        sha256 = "ee9a7d7ab2e9cbfc077dcd894db29c7d760b908f4eac5b59fcddcc1b4eeda324",
+    ["windows-x64-vc14.29.30133-e8c8fe99c7b54362a71f97fe955ec977"] = {
+        sha256 = "70870989d38605303107acf7b218599c380bac1122062983ddce777ea0a61c8b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-e8c8fe99c7b54362a71f97fe955ec977.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-842aa1378b0844938419a289cb6622f7"] = {
+        sha256 = "89ad6886bbbfc4b2284012a3722f99d7a535b11a304991425738fa2361a436e4",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-842aa1378b0844938419a289cb6622f7.7z",
-        sha256 = "8d162f48f6a7c8917657b237e341a5f00e1f9ff84f50620d7908cb1f9d886196",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.38.33130-290075b839ee412e80953472c36e007b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-290075b839ee412e80953472c36e007b.7z",
-        sha256 = "3dd4582ea7b29647b2f550283efc4c79303a568fa6a329b9a2d15c028f1156f9",
-        toolset = "14.38.33130"
+    ["windows-x86-vc14.40.33807-841074c53f84433490310f7aadc2934d"] = {
+        sha256 = "d1ad3e1691a7518d411ad575e54276cbda57481baae21adb0d0518785ad5de9f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.40.33807-841074c53f84433490310f7aadc2934d.7z",
+        toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.29.30133-290075b839ee412e80953472c36e007b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-290075b839ee412e80953472c36e007b.7z",
-        sha256 = "01664f93db96b985530d6780d653292cb6559657bb6059413340dd8c551280a6",
+    ["windows-x64-vc14.29.30133-61d86fc2f8cc4e60a5bef5bc478c3a92"] = {
+        sha256 = "bf40fcef0f74fe364d254eb4def78034ee557c3c4eba94bdc8da097897b4f7ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-61d86fc2f8cc4e60a5bef5bc478c3a92.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-e8c8fe99c7b54362a71f97fe955ec977"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-e8c8fe99c7b54362a71f97fe955ec977.7z",
-        sha256 = "3d5b94267943e7d4ba6c627c89194b48eeb61dc6eb4ebd5cb590487d9cb7bc25",
+    ["windows-x86-vc14.38.33130-841074c53f84433490310f7aadc2934d"] = {
+        sha256 = "935113d8a694070bbe0d0903ad40fbca3ee9853beaeb0547bd76798aa7a363d9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-841074c53f84433490310f7aadc2934d.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-ce89f4ca38384bcb91b02b7b4aed2d88"] = {
+        sha256 = "cb77b9eb09206d701b903aca91b48c3db700b9da34a6ea28369c996df932558a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-ce89f4ca38384bcb91b02b7b4aed2d88.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.40.33807-290075b839ee412e80953472c36e007b"] = {
+        sha256 = "65b9b81a24eea728f22b445a6b31d562f3c4057697fe29fcc1954111f551781e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.40.33807-290075b839ee412e80953472c36e007b.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-6e7361078b194e48b88f0294bea420c0"] = {
+        sha256 = "8c1679bf9f015b699427408b6afbbb7dc56ddef99dd9f491ff4677c096de1b6c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-6e7361078b194e48b88f0294bea420c0.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.38.33130-2971d60ce4eb47e5a8dbc2fec08e1400"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-2971d60ce4eb47e5a8dbc2fec08e1400.7z",
-        sha256 = "294f0bca27f39cd1d6bd4da33ea45dc16363be58dabe2750b35dd78bbb21fd5e",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-e8c8fe99c7b54362a71f97fe955ec977"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-e8c8fe99c7b54362a71f97fe955ec977.7z",
-        sha256 = "b26d50c10330f55191df715e584d2736415ae56630404cb2b793f15d858d1173",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-61d86fc2f8cc4e60a5bef5bc478c3a92"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-61d86fc2f8cc4e60a5bef5bc478c3a92.7z",
-        sha256 = "c67eab29ade78e8946044d8866f40299c5b4bdc02e755bc361fbf45ab58d46cc",
-        toolset = "14.38.33130"
+    ["windows-x64-vc14.29.30133-ce89f4ca38384bcb91b02b7b4aed2d88"] = {
+        sha256 = "beeca72035afd5daab09fc0e767b56f1cb17a44d40f66a5750ef78b49cafb498",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-ce89f4ca38384bcb91b02b7b4aed2d88.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.38.33130-842aa1378b0844938419a289cb6622f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-842aa1378b0844938419a289cb6622f7.7z",
         sha256 = "c16f89f3a66305605b7d11f0ab90d35e760bf77b678a535e3df9300efe000d1d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-842aa1378b0844938419a289cb6622f7.7z",
         toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-2971d60ce4eb47e5a8dbc2fec08e1400"] = {
+        sha256 = "294f0bca27f39cd1d6bd4da33ea45dc16363be58dabe2750b35dd78bbb21fd5e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-2971d60ce4eb47e5a8dbc2fec08e1400.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-841074c53f84433490310f7aadc2934d"] = {
+        sha256 = "b0f536940850674aad9926091280d8e4e3fe0a873151741afc23f55fa9e1fadb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-841074c53f84433490310f7aadc2934d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-290075b839ee412e80953472c36e007b"] = {
+        sha256 = "d32a635295c19015fc099c92c9522b7178de0464ae652cad7e157d7b87ee7b26",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.29.30133-290075b839ee412e80953472c36e007b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-e8c8fe99c7b54362a71f97fe955ec977"] = {
+        sha256 = "b26d50c10330f55191df715e584d2736415ae56630404cb2b793f15d858d1173",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-e8c8fe99c7b54362a71f97fe955ec977.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-2971d60ce4eb47e5a8dbc2fec08e1400"] = {
+        sha256 = "91370d54c717c9e652bfa0beb9c07c7953a1bd9b364a5ff78007f750a35d07e0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.29.30133-2971d60ce4eb47e5a8dbc2fec08e1400.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-6e7361078b194e48b88f0294bea420c0"] = {
+        sha256 = "917c952c4140dd484448a63ad98be27dd6a404c86601b890cb65fb581a77ef92",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.38.33130-6e7361078b194e48b88f0294bea420c0.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.40.33807-e8c8fe99c7b54362a71f97fe955ec977"] = {
+        sha256 = "f791c7c403385ffc0e5165c959331f8e0b0a4af0e2e8b5a4b8ed674103761cf1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.40.33807-e8c8fe99c7b54362a71f97fe955ec977.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-2971d60ce4eb47e5a8dbc2fec08e1400"] = {
+        sha256 = "229d52def551c549ec53168e097453c9d33bded26d1d3fd52e6ff2f7041d3951",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.40.33807-2971d60ce4eb47e5a8dbc2fec08e1400.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.38.33130-290075b839ee412e80953472c36e007b"] = {
+        sha256 = "3dd4582ea7b29647b2f550283efc4c79303a568fa6a329b9a2d15c028f1156f9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-290075b839ee412e80953472c36e007b.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.40.33807-61d86fc2f8cc4e60a5bef5bc478c3a92"] = {
+        sha256 = "0f23a1c63096501873cb17d77f8d0bda215be523e9cbd79067e14dcdeb424293",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.40.33807-61d86fc2f8cc4e60a5bef5bc478c3a92.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-ce89f4ca38384bcb91b02b7b4aed2d88"] = {
+        sha256 = "6377b6b1ee41a009896101097fb2450d636e9734e073560389ca8f8891308edb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.40.33807-ce89f4ca38384bcb91b02b7b4aed2d88.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-6e7361078b194e48b88f0294bea420c0"] = {
+        sha256 = "da8817280bb58f133bf4811ceb76ad7c971354aef4a2cfe0176c58e8fdecec92",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.40.33807-6e7361078b194e48b88f0294bea420c0.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.38.33130-61d86fc2f8cc4e60a5bef5bc478c3a92"] = {
+        sha256 = "c67eab29ade78e8946044d8866f40299c5b4bdc02e755bc361fbf45ab58d46cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x64-vc14.38.33130-61d86fc2f8cc4e60a5bef5bc478c3a92.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.40.33807-842aa1378b0844938419a289cb6622f7"] = {
+        sha256 = "c8b4c790f1a9bc45cefdc45fb174a35e4132836a400292fa1bbcf3bb4dfedad9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openssl-1.1.1-w/windows-x86-vc14.40.33807-842aa1378b0844938419a289cb6622f7.7z",
+        toolset = "14.40.33807"
     }
 }
