@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.29.30133-1e2fb63e6e384894ac81770e8a7bc0df"] = {
+    ["windows-x86-vc14.29.30133-0937103d323f4a7f93aed9cc5afeeb44"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.29.30133-1e2fb63e6e384894ac81770e8a7bc0df.7z",
-        sha256 = "a5662067a2582cfce62c99ba5712f4ff97590e7a8c742c0a8a2089907af5b825"
+        sha256 = "080a804be5477d7b4e5d6be8e209e7972927bd2cd448c5465cdbc7ec768e309a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.29.30133-0937103d323f4a7f93aed9cc5afeeb44.7z"
+    },
+    ["windows-x64-vc14.40.33807-1e2fb63e6e384894ac81770e8a7bc0df"] = {
+        toolset = "14.40.33807",
+        sha256 = "e7e7b7ae4830516bb3c11deafa4a98050feb767424c86d4bcc629ba898597909",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.40.33807-1e2fb63e6e384894ac81770e8a7bc0df.7z"
     },
     ["windows-x86-vc14.29.30133-6638503b620d4c2880048df11e7e5098"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.29.30133-6638503b620d4c2880048df11e7e5098.7z",
-        sha256 = "0f960afae66d245a9ab64eb1d7c5dbc6e31840b8f615e084bad7c247cec31499"
-    },
-    ["windows-x64-vc14.38.33130-1e2fb63e6e384894ac81770e8a7bc0df"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.38.33130-1e2fb63e6e384894ac81770e8a7bc0df.7z",
-        sha256 = "6c72b57089fd8e104e9458fb935726cfe0167eb57c59c5df78efb4add48f1b9c"
-    },
-    ["windows-x86-vc14.29.30133-ed308f6688ab4016a76c8068de7018df"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.29.30133-ed308f6688ab4016a76c8068de7018df.7z",
-        sha256 = "2b133eae8ca23c8b8f1248a56ac4dd88c5ba067fd95529b524468e75c1881256"
-    },
-    ["windows-x86-vc14.38.33130-ed308f6688ab4016a76c8068de7018df"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.38.33130-ed308f6688ab4016a76c8068de7018df.7z",
-        sha256 = "200449e8c6d73aed835e3ad15c561bef765a528cfcacfd80efd931959d60932e"
-    },
-    ["windows-x64-vc14.29.30133-75d638db81e04175a045e9195e1d8721"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.29.30133-75d638db81e04175a045e9195e1d8721.7z",
-        sha256 = "fa785b36a38c3adbf4bc312ef0e9d2cbf55fa007696c9d4f26d6b0b475c283c5"
-    },
-    ["windows-x86-vc14.38.33130-6638503b620d4c2880048df11e7e5098"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.38.33130-6638503b620d4c2880048df11e7e5098.7z",
-        sha256 = "6fd2df0ff7bf29aa0517d515f32ac18250576806538c66cb52262148dd1c8926"
+        sha256 = "b4b3a99b837dc6c271450e74d5d1a6e4664ba6d1fc96dfbcc72d27bd53bc5ab5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.29.30133-6638503b620d4c2880048df11e7e5098.7z"
     },
     ["windows-x64-vc14.38.33130-75d638db81e04175a045e9195e1d8721"] = {
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.38.33130-75d638db81e04175a045e9195e1d8721.7z",
-        sha256 = "2fdaf371a6a926b495cc2972c2473759bc28a54cf94265b166ddfd5ad4f3dc41"
+        sha256 = "2fdaf371a6a926b495cc2972c2473759bc28a54cf94265b166ddfd5ad4f3dc41",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.38.33130-75d638db81e04175a045e9195e1d8721.7z"
+    },
+    ["windows-x86-vc14.38.33130-ed308f6688ab4016a76c8068de7018df"] = {
+        toolset = "14.38.33130",
+        sha256 = "200449e8c6d73aed835e3ad15c561bef765a528cfcacfd80efd931959d60932e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.38.33130-ed308f6688ab4016a76c8068de7018df.7z"
+    },
+    ["windows-x86-vc14.29.30133-6e3619a93fd148c591fa46b611cb2dc1"] = {
+        toolset = "14.29.30133",
+        sha256 = "42b4c484356fbbe930156f1c2139fa8d6df0215550d4a802268b91736e05cf45",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.29.30133-6e3619a93fd148c591fa46b611cb2dc1.7z"
+    },
+    ["windows-x86-vc14.40.33807-6638503b620d4c2880048df11e7e5098"] = {
+        toolset = "14.40.33807",
+        sha256 = "3748af237eb8816030ec15af60750c7d503ea2d4b5f316c36e25616e6deef79b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.40.33807-6638503b620d4c2880048df11e7e5098.7z"
+    },
+    ["windows-x64-vc14.29.30133-75d638db81e04175a045e9195e1d8721"] = {
+        toolset = "14.29.30133",
+        sha256 = "8c97ea89b789af0d236af1365c7e6f356be83716fe47d2a7b1bfb2f9350f7c37",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.29.30133-75d638db81e04175a045e9195e1d8721.7z"
+    },
+    ["windows-x86-vc14.38.33130-6638503b620d4c2880048df11e7e5098"] = {
+        toolset = "14.38.33130",
+        sha256 = "6fd2df0ff7bf29aa0517d515f32ac18250576806538c66cb52262148dd1c8926",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.38.33130-6638503b620d4c2880048df11e7e5098.7z"
+    },
+    ["windows-x86-vc14.40.33807-ed308f6688ab4016a76c8068de7018df"] = {
+        toolset = "14.40.33807",
+        sha256 = "5134cdf58ec27cf20ed8fd78234fcfc1ed4d861c5e104ab55361c4f46853aa3a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.40.33807-ed308f6688ab4016a76c8068de7018df.7z"
+    },
+    ["windows-x64-vc14.29.30133-1e2fb63e6e384894ac81770e8a7bc0df"] = {
+        toolset = "14.29.30133",
+        sha256 = "61e514af492de346c52f6378ff757bafaf6e3318eb15c12a75f14bffa7217e94",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.29.30133-1e2fb63e6e384894ac81770e8a7bc0df.7z"
+    },
+    ["windows-x86-vc14.29.30133-ed308f6688ab4016a76c8068de7018df"] = {
+        toolset = "14.29.30133",
+        sha256 = "3c682ba7a99c71032870b5c28232d7ddc41ef52fb861f62963af61d937e3fd2d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.29.30133-ed308f6688ab4016a76c8068de7018df.7z"
+    },
+    ["windows-x64-vc14.38.33130-1e2fb63e6e384894ac81770e8a7bc0df"] = {
+        toolset = "14.38.33130",
+        sha256 = "6c72b57089fd8e104e9458fb935726cfe0167eb57c59c5df78efb4add48f1b9c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.38.33130-1e2fb63e6e384894ac81770e8a7bc0df.7z"
+    },
+    ["windows-x86-vc14.40.33807-0937103d323f4a7f93aed9cc5afeeb44"] = {
+        toolset = "14.40.33807",
+        sha256 = "87233d03f1e64cd45acf187e44855654cc0fe7dcbfa9864dc9dc68ca70813a4d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.40.33807-0937103d323f4a7f93aed9cc5afeeb44.7z"
+    },
+    ["windows-x64-vc14.40.33807-75d638db81e04175a045e9195e1d8721"] = {
+        toolset = "14.40.33807",
+        sha256 = "6da356d1b805fb33abc30d08c6d541ba5fb188942662e4d117bacd8ee732c8fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x64-vc14.40.33807-75d638db81e04175a045e9195e1d8721.7z"
+    },
+    ["windows-x86-vc14.40.33807-6e3619a93fd148c591fa46b611cb2dc1"] = {
+        toolset = "14.40.33807",
+        sha256 = "ed535f60a10c990e4f15e25c161840c24606f73f6c4cf2874d5fec4d70cdc197",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/srtp-v2.6/windows-x86-vc14.40.33807-6e3619a93fd148c591fa46b611cb2dc1.7z"
     }
 }
