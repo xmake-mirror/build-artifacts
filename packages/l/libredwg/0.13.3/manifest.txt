@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.38.33130-037deb4408f645deacf9d85e174051f2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-037deb4408f645deacf9d85e174051f2.7z",
-        sha256 = "e3a8c00f2abce168c128af6d3170c8d3751ae76114de16ebf23bdf23dec8c614",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-037deb4408f645deacf9d85e174051f2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-037deb4408f645deacf9d85e174051f2.7z",
-        sha256 = "bdb1312777ed0e3805a302d5637783cfa8481d022a63ec02f5dfd2adc2546ae5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-a6a617f654da4cb0b7f96b1db91c267a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-a6a617f654da4cb0b7f96b1db91c267a.7z",
-        sha256 = "79895fdc5978a47e597ee3b0a257c716f680054c927e53077b0013ef5f54f313",
+    ["windows-x86-vc14.29.30133-fddec620ae92434596e7634d091fca51"] = {
+        sha256 = "da83b78abc4b06f4110a79b52ba4016292e7f127eb0a072a47941ae69132f96f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-fddec620ae92434596e7634d091fca51.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.38.33130-aa7af3e6cbd74bfea5af1f3e22bca7ae"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-aa7af3e6cbd74bfea5af1f3e22bca7ae.7z",
         sha256 = "28d6d44b3f997cef63cc3deb5371658d4736f29710fcaeb7ab1171388a052e09",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-aa7af3e6cbd74bfea5af1f3e22bca7ae.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc14.29.30133-e97be296ac05441f8105a03d273bc906"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-e97be296ac05441f8105a03d273bc906.7z",
-        sha256 = "e5fe1b662648449168ee063f92ee482a15354ddec41a26ee1556db50bab8aa96",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-9efaa5efcdc44c1fbe268b3f3f109aba"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-9efaa5efcdc44c1fbe268b3f3f109aba.7z",
-        sha256 = "2f79810e5d05d623f543446306777b9d549b780f746e7e11e2a2b409d085c189",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-f74ad3b3203647998a94f058c74510d0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-f74ad3b3203647998a94f058c74510d0.7z",
-        sha256 = "1fd59da12bc3eed6399cbca782d02cc57491b7e7f1855b80beda5adb26a6356f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-a6a617f654da4cb0b7f96b1db91c267a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-a6a617f654da4cb0b7f96b1db91c267a.7z",
-        sha256 = "4a9cdfa45fc1abcb234abfa8087b41ee5a65314e74c825e1bd89e2018f674b4b",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-f89bc14c2c3d405787d534f6ac2ebd73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-f89bc14c2c3d405787d534f6ac2ebd73.7z",
-        sha256 = "bd60653219cc5a6ef34fd1cd0e028060be5db8f06ffc2ad4482bdcef1533a12b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-f74ad3b3203647998a94f058c74510d0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-f74ad3b3203647998a94f058c74510d0.7z",
-        sha256 = "0915e6ed267e9bce80021cd013a6621ed6b711f7853783f9ca6ebef3bab2c148",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.38.33130-9efaa5efcdc44c1fbe268b3f3f109aba"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-9efaa5efcdc44c1fbe268b3f3f109aba.7z",
-        sha256 = "e820776fe18456236ec4b1dc6a5c38eea6b5e8dd519b06ea74f268dabd489918",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-e97be296ac05441f8105a03d273bc906"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-e97be296ac05441f8105a03d273bc906.7z",
-        sha256 = "d24c5a7089030bc6e8d195f26b875ba5a3bbe65cfcff4f97e71a17c519d7509b",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-fddec620ae92434596e7634d091fca51"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-fddec620ae92434596e7634d091fca51.7z",
-        sha256 = "3120a2ded21070806dfbfd9175ce3480b1571fdcf2784b9b5bbe9a76118d2c19",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.38.33130-fddec620ae92434596e7634d091fca51"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-fddec620ae92434596e7634d091fca51.7z",
-        sha256 = "6e4b0dd20913770c6886e7e516fac3bde471679192e88289b4cea4462fda8dc1",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-aa7af3e6cbd74bfea5af1f3e22bca7ae"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-aa7af3e6cbd74bfea5af1f3e22bca7ae.7z",
-        sha256 = "30f7f3be7d15bef4f67f1b4deb1cfd289bcdc5114477fd4b60904db3a66967a5",
+    ["windows-x64-vc14.29.30133-037deb4408f645deacf9d85e174051f2"] = {
+        sha256 = "ffce15f1c7afa3ef99b975f4a6731f3f967082bb9bcb4630faf6486cb334017e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-037deb4408f645deacf9d85e174051f2.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.38.33130-f89bc14c2c3d405787d534f6ac2ebd73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-f89bc14c2c3d405787d534f6ac2ebd73.7z",
         sha256 = "ce0b2328dbbd0168127033051a09ec47ee5b5555544675d8ea63b4d3645fe6d3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-f89bc14c2c3d405787d534f6ac2ebd73.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-9efaa5efcdc44c1fbe268b3f3f109aba"] = {
+        sha256 = "e820776fe18456236ec4b1dc6a5c38eea6b5e8dd519b06ea74f268dabd489918",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-9efaa5efcdc44c1fbe268b3f3f109aba.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-f74ad3b3203647998a94f058c74510d0"] = {
+        sha256 = "2172adf51d3775233c2cbe67bd649ae838159ea62ac87c0615e063a5f018d8e2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-f74ad3b3203647998a94f058c74510d0.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-aa7af3e6cbd74bfea5af1f3e22bca7ae"] = {
+        sha256 = "ca1643d5c9ded528baa29f2abf061a98d7272ead4053f77f3edc55473ce7bbd4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-aa7af3e6cbd74bfea5af1f3e22bca7ae.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-fddec620ae92434596e7634d091fca51"] = {
+        sha256 = "f67fa3f8a0b7152b1516b9cacb652f791c7c9f1c73e9f1ef3465a7b733c26beb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.40.33807-fddec620ae92434596e7634d091fca51.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.38.33130-f74ad3b3203647998a94f058c74510d0"] = {
+        sha256 = "0915e6ed267e9bce80021cd013a6621ed6b711f7853783f9ca6ebef3bab2c148",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-f74ad3b3203647998a94f058c74510d0.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.40.33807-f89bc14c2c3d405787d534f6ac2ebd73"] = {
+        sha256 = "ea5a94f6b13b3cd4c09aafefdbcc4bef22b7958e40943ee374f085a4d96e9085",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.40.33807-f89bc14c2c3d405787d534f6ac2ebd73.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-a6a617f654da4cb0b7f96b1db91c267a"] = {
+        sha256 = "e7854f1c73498e3a8540ba4b6e36eb055d632f562c3da5761d00c68a85dd51ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-a6a617f654da4cb0b7f96b1db91c267a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.38.33130-e97be296ac05441f8105a03d273bc906"] = {
+        sha256 = "d24c5a7089030bc6e8d195f26b875ba5a3bbe65cfcff4f97e71a17c519d7509b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-e97be296ac05441f8105a03d273bc906.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-037deb4408f645deacf9d85e174051f2"] = {
+        sha256 = "e3a8c00f2abce168c128af6d3170c8d3751ae76114de16ebf23bdf23dec8c614",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-037deb4408f645deacf9d85e174051f2.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.40.33807-f74ad3b3203647998a94f058c74510d0"] = {
+        sha256 = "469dd1c929209c1e8eee20d0a8cca764207ce5829544066c9a742fa404604e71",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.40.33807-f74ad3b3203647998a94f058c74510d0.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.38.33130-a6a617f654da4cb0b7f96b1db91c267a"] = {
+        sha256 = "4a9cdfa45fc1abcb234abfa8087b41ee5a65314e74c825e1bd89e2018f674b4b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.38.33130-a6a617f654da4cb0b7f96b1db91c267a.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-9efaa5efcdc44c1fbe268b3f3f109aba"] = {
+        sha256 = "20a322ae5192ef501c1cc1b09df9aa3d80859c9e77ec3c637d109613b2dc5c18",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-9efaa5efcdc44c1fbe268b3f3f109aba.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-e97be296ac05441f8105a03d273bc906"] = {
+        sha256 = "5ff3174e2689215a7a3d8d6a3eecca8a2dfb2e9ac93f720137c53fc227eb2e9b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.40.33807-e97be296ac05441f8105a03d273bc906.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-aa7af3e6cbd74bfea5af1f3e22bca7ae"] = {
+        sha256 = "9eb52cf83c3a7bd42d7a25af70e8c0db44316f21de9e927466dd6b2b0e68d3b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.40.33807-aa7af3e6cbd74bfea5af1f3e22bca7ae.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-e97be296ac05441f8105a03d273bc906"] = {
+        sha256 = "040805d5af606f7c25eae3d3597da631baf6f755b6cb219648f7ba3d8fefb948",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.29.30133-e97be296ac05441f8105a03d273bc906.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-037deb4408f645deacf9d85e174051f2"] = {
+        sha256 = "4de41aaf770b237fee849bc3f7afacafe90b97a60e5cac886f51567293a69d9f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.40.33807-037deb4408f645deacf9d85e174051f2.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-f89bc14c2c3d405787d534f6ac2ebd73"] = {
+        sha256 = "3700f11c9c40da299706f61e6eff66a5560db77c57c48839f8834beef8d7805d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.29.30133-f89bc14c2c3d405787d534f6ac2ebd73.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-a6a617f654da4cb0b7f96b1db91c267a"] = {
+        sha256 = "e3cf22ac68e0c8c6e7ffe1a367806f46e2977f1bf6735c5a2248e08320556713",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x64-vc14.40.33807-a6a617f654da4cb0b7f96b1db91c267a.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-9efaa5efcdc44c1fbe268b3f3f109aba"] = {
+        sha256 = "3f1f71c9f7528518df21dff7d2fb1c1aeaed4c2e2da2bbaad277f6e5a377f76e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.40.33807-9efaa5efcdc44c1fbe268b3f3f109aba.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.38.33130-fddec620ae92434596e7634d091fca51"] = {
+        sha256 = "6e4b0dd20913770c6886e7e516fac3bde471679192e88289b4cea4462fda8dc1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libredwg-0.13.3/windows-x86-vc14.38.33130-fddec620ae92434596e7634d091fca51.7z",
         toolset = "14.38.33130"
     }
 }
