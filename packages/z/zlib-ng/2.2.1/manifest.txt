@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.40.33807-12a82e449dac4f8793535dd4c47b6404"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-12a82e449dac4f8793535dd4c47b6404.7z",
-        sha256 = "9b75a682f5eb3349570f91c614598e209a00ae0eb3f3c15d8cc242b64b1dbd48",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-3c332be551f6485e8d17e1830ee49789"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-3c332be551f6485e8d17e1830ee49789.7z",
-        sha256 = "d0271c66d1eba4dcca696f54199c2fa8a8ec099dd9fc3b7713736d7044ae758c",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-a11dcc3a1c08476590461852f6d4257b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-a11dcc3a1c08476590461852f6d4257b.7z",
-        sha256 = "1cd8038fe60ef9f21c2525181c4ca58d52603320044fea4e7df5f59b1b964d1e",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        sha256 = "62c6447e744e1621ef3b3d32b83f87f99bb585f873c00c833c4e18dd6d9320b3",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
-        sha256 = "09ff896a8a3bc2b1e6ae9d6f303e56c520a1f6d9622dc0c30a0affa92e795cf6",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-b1caf5aecf3447d1bfaf66081135de32"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-b1caf5aecf3447d1bfaf66081135de32.7z",
-        sha256 = "9366911d3d027139bc4e31abd48b1e9a4fd5a3c27dcac3ce47a08f7f391a15ea",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
-        sha256 = "6770576a57f7bd10dc7f57c9f273126d58b2de9e294de19922ada6ace4861d11",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        sha256 = "5b13a7ed0cf7a1d836286a799e128ac387b2d109fa3c2aaaf125b9c3cfb207e5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
-        sha256 = "24c7fc0ed09deb7147bac8576d6bc1467f78d708c53d859edc1390c3764490c2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-aeda7dc391cf4237b8f316df1955053b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-aeda7dc391cf4237b8f316df1955053b.7z",
-        sha256 = "e23aad8f17f1c90daa6ca1402f573a22d41f253cb87f86b99ec39bc19871d286",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-af705bc0e66f4f108a3a47c7ee859189"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-af705bc0e66f4f108a3a47c7ee859189.7z",
-        sha256 = "b5a34e59ee5ec8e95fa07315ef2903344fed9af948db9ca7ffc10a429e7c2318",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
-        sha256 = "ff79ce934b7459e0d4809c4451cd348e05cdfcde332966eecfac372a437c0685",
+    ["windows-x86-vc14.29.30133-37c164b65ad046a2b27fed9a7e70d712"] = {
+        sha256 = "d02ac1cba91e99002fe300b266180a6865ddeee1c5904e5572ddeaedf62427d7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-37c164b65ad046a2b27fed9a7e70d712.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
         sha256 = "36f49b3c1a935a88e9e005748a1124d02a06434fcba950c5c2faa85f597bfc76",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.40.33807-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        sha256 = "7342b44e6082331ed4f518a94b9022971aadfc2ad37b8be558082e8e72ebc8f7",
+    ["windows-x86-vc14.40.33807-41d4ccf869244437a170a29bb57d49f3"] = {
+        sha256 = "b79304872dbf057c2707cb3ce0a89af1e87e6ebf05806cd5787405d22dddf075",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-41d4ccf869244437a170a29bb57d49f3.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        sha256 = "bdec42ab8a3b6940760292411440dfc6481b638cfb1b36b08ada3eebb32714f2",
+    ["windows-x86-vc14.40.33807-37c164b65ad046a2b27fed9a7e70d712"] = {
+        sha256 = "7db27acbb8434f2d570ad27b9765ddb0582b4afb32f77ae3e5f15321e867a596",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-37c164b65ad046a2b27fed9a7e70d712.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-112c45b75e8945b0b763aca1270e2b36"] = {
+        sha256 = "af467ddda6ad813cb466cdcfb0eb5c07c3c03b24f6f7a93db9b2be658774089d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-112c45b75e8945b0b763aca1270e2b36.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-aeda7dc391cf4237b8f316df1955053b"] = {
+        sha256 = "e23aad8f17f1c90daa6ca1402f573a22d41f253cb87f86b99ec39bc19871d286",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-aeda7dc391cf4237b8f316df1955053b.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-3a0322c6bbfd4212b0b7cae0193c1c8c"] = {
+        sha256 = "8049e8ce2668668e5c3caa61ae41df37985f748de6b1a28611b906e2e0f0d84e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-3a0322c6bbfd4212b0b7cae0193c1c8c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-b1caf5aecf3447d1bfaf66081135de32"] = {
+        sha256 = "9366911d3d027139bc4e31abd48b1e9a4fd5a3c27dcac3ce47a08f7f391a15ea",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-b1caf5aecf3447d1bfaf66081135de32.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
+        sha256 = "24c7fc0ed09deb7147bac8576d6bc1467f78d708c53d859edc1390c3764490c2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-112c45b75e8945b0b763aca1270e2b36"] = {
+        sha256 = "561770282c3a11882ac808edcc0ba1ce8c6eba28f538d1a9a031f5aff4dc93d5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-112c45b75e8945b0b763aca1270e2b36.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-af705bc0e66f4f108a3a47c7ee859189"] = {
+        sha256 = "b5a34e59ee5ec8e95fa07315ef2903344fed9af948db9ca7ffc10a429e7c2318",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-af705bc0e66f4f108a3a47c7ee859189.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
+        sha256 = "6770576a57f7bd10dc7f57c9f273126d58b2de9e294de19922ada6ace4861d11",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-2a2bf0ad085743a8b52ada6fd93a5a6e"] = {
+        sha256 = "56fcd6dbc1eb9ea23167304b6a21da20f521ed61a0e551b6cd60cf5ced0da20f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-2a2bf0ad085743a8b52ada6fd93a5a6e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-3c332be551f6485e8d17e1830ee49789"] = {
+        sha256 = "d0271c66d1eba4dcca696f54199c2fa8a8ec099dd9fc3b7713736d7044ae758c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-3c332be551f6485e8d17e1830ee49789.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        sha256 = "5b13a7ed0cf7a1d836286a799e128ac387b2d109fa3c2aaaf125b9c3cfb207e5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
+        sha256 = "09ff896a8a3bc2b1e6ae9d6f303e56c520a1f6d9622dc0c30a0affa92e795cf6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        sha256 = "62c6447e744e1621ef3b3d32b83f87f99bb585f873c00c833c4e18dd6d9320b3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-4f2491f1c32d41409e0ca2ca411991b5"] = {
+        sha256 = "387cbfe200dac60744cb67aff08cc764dca0d8ce053985d33874e8f05ac51f6e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-4f2491f1c32d41409e0ca2ca411991b5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-4f2491f1c32d41409e0ca2ca411991b5"] = {
+        sha256 = "57dfabdfa09a55c9e862d89ece5d7ed7d8bd4ed835417279dcb287435b91c56c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-4f2491f1c32d41409e0ca2ca411991b5.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-12a82e449dac4f8793535dd4c47b6404"] = {
+        sha256 = "9b75a682f5eb3349570f91c614598e209a00ae0eb3f3c15d8cc242b64b1dbd48",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-12a82e449dac4f8793535dd4c47b6404.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        sha256 = "7342b44e6082331ed4f518a94b9022971aadfc2ad37b8be558082e8e72ebc8f7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-8e0bb7de54904441a58cc49bd1bdd7d1"] = {
+        sha256 = "e863ee116454d000d1e5350715471b5a78c9677d424d4e9936ac1b93108efe13",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-8e0bb7de54904441a58cc49bd1bdd7d1.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
         sha256 = "307deb62966d55b9c02a777be1a678f80f29166753b01b88d58b1fe27cbaea81",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-6c970f7bc2af4fe296c9c41f4cffcdb3"] = {
+        sha256 = "4be0e6d3508d6551ce4431f46f4ef2096719fdde84c2b24fab6e3b0f42b2356f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-6c970f7bc2af4fe296c9c41f4cffcdb3.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        sha256 = "bdec42ab8a3b6940760292411440dfc6481b638cfb1b36b08ada3eebb32714f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-2a2bf0ad085743a8b52ada6fd93a5a6e"] = {
+        sha256 = "6a2899b21c388088e30d91884220796f218e762ffcd83b820f01fec902918ab1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-2a2bf0ad085743a8b52ada6fd93a5a6e.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-8e0bb7de54904441a58cc49bd1bdd7d1"] = {
+        sha256 = "5ec192f1c058321ecd294036186979abd13340d24cabd14df50f2a41d988656a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-8e0bb7de54904441a58cc49bd1bdd7d1.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-6c970f7bc2af4fe296c9c41f4cffcdb3"] = {
+        sha256 = "c0a4ac998ea088373e4ec11f2de3ede377ff5128b1bd1aba1d0fc4e19a945522",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.29.30133-6c970f7bc2af4fe296c9c41f4cffcdb3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-41d4ccf869244437a170a29bb57d49f3"] = {
+        sha256 = "d73d2ea4e6590226f832fa4361b353a3cd1999f624869b014a19ea7a324c1fcb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-41d4ccf869244437a170a29bb57d49f3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-a11dcc3a1c08476590461852f6d4257b"] = {
+        sha256 = "1cd8038fe60ef9f21c2525181c4ca58d52603320044fea4e7df5f59b1b964d1e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.40.33807-a11dcc3a1c08476590461852f6d4257b.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-3a0322c6bbfd4212b0b7cae0193c1c8c"] = {
+        sha256 = "e6f739e7d5e098b12f2a52aa2ca762c2867847ce87e25b914cb05b8c2a1cc8f5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x64-vc14.40.33807-3a0322c6bbfd4212b0b7cae0193c1c8c.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
+        sha256 = "ff79ce934b7459e0d4809c4451cd348e05cdfcde332966eecfac372a437c0685",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-ng-2.2.1/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
         toolset = "14.29.30133"
     }
 }
