@@ -1,82 +1,82 @@
 {
-    ["windows-x86-vc14.29.30133-624cae69115748ffa80faea108c966d5"] = {
-        sha256 = "16246415cd2626fdcc897f5420f3055f5290d980c2770e4b86bec77b310e8452",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-624cae69115748ffa80faea108c966d5.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.40.33807-5599f2b9379b466d84cc8694a41f2f51"] = {
+        sha256 = "22daa40c2d471099f94e9a74561e6b8dc3e41a539faec06c07979bb818497a6e",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-5599f2b9379b466d84cc8694a41f2f51.7z"
     },
     ["windows-x64-vc14.29.30133-2351edf9d25849099d1c644778a8ce79"] = {
-        sha256 = "cb8ae02f5ee3f1915020debc2defc9782df68446a56fc221e9db42c7d2317c33",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-2351edf9d25849099d1c644778a8ce79.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-5599f2b9379b466d84cc8694a41f2f51"] = {
-        sha256 = "596a1af1d4d37e14614a5ea50302ef03ae72022db568554c64cc11ec31f2113a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-5599f2b9379b466d84cc8694a41f2f51.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-28626cb7503d4af9834464e7f9656b43"] = {
-        sha256 = "a77d964e9e4d4c633301f87938cf2bfa24593306e9059187b8969c158837864f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-28626cb7503d4af9834464e7f9656b43.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-f1c0df704ef74fd3922466aa08f11539"] = {
-        sha256 = "f66e3e039beb0dcf5b54e693fb4f2222b6188a76f844091a0dc11ac5874c55ba",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-f1c0df704ef74fd3922466aa08f11539.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-2351edf9d25849099d1c644778a8ce79"] = {
-        sha256 = "937fdd654e2e1d154e1635b4c71be77bb4b663212a3b5d824cb19ebca625a3ab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-2351edf9d25849099d1c644778a8ce79.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-ce3811b744f34acbb1500cbc403f8118"] = {
-        sha256 = "92ed6c38a0e27c8fc4e3dff304d3192947efc8c18cdbac18bb4366dd011c9971",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-ce3811b744f34acbb1500cbc403f8118.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-624cae69115748ffa80faea108c966d5"] = {
-        sha256 = "965a1fc9a99dae8c6268958ca6f0d21b6d5205dff5f41e9179e614311356f708",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-624cae69115748ffa80faea108c966d5.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-2638a2c555ec41658be0fcc853957e9c"] = {
-        sha256 = "0086de1bc95bd551e43ce880c2af4b3c2b0905eccb580bed7db6222232ba2a59",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-2638a2c555ec41658be0fcc853957e9c.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-2638a2c555ec41658be0fcc853957e9c"] = {
-        sha256 = "5097702bada6baa66574fde9d647ca7be634347a47f67db2f9676ab73dc3b0ca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-2638a2c555ec41658be0fcc853957e9c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-5599f2b9379b466d84cc8694a41f2f51"] = {
-        sha256 = "bce43776d38d812a0b6b2af2198a141633d46c09f0f476e1444caccc3501c3e9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-5599f2b9379b466d84cc8694a41f2f51.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-28626cb7503d4af9834464e7f9656b43"] = {
-        sha256 = "925d6af30d1c4fb37f6036a787caec14cf97a4b953cf0a04b8904b0d63497c0a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-28626cb7503d4af9834464e7f9656b43.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-f1c0df704ef74fd3922466aa08f11539"] = {
-        sha256 = "11690aaae12e23ebf7f97660d7175f550e88fea152e1481255df5b7e51c46512",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-f1c0df704ef74fd3922466aa08f11539.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-5a0d4a0f06664120ba968d2b42342aea"] = {
-        sha256 = "52853040eece90606ef4f11a72c63fb3691c5c1542bd3f512faa5f3dd03f1af6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-5a0d4a0f06664120ba968d2b42342aea.7z",
-        toolset = "14.40.33807"
+        sha256 = "d0345445572e4b914243cd7a4b79bb1f43c72da5c4c3ea628afef861903299b1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-2351edf9d25849099d1c644778a8ce79.7z"
     },
     ["windows-x86-vc14.29.30133-5a0d4a0f06664120ba968d2b42342aea"] = {
-        sha256 = "7c28537422089f89ef4d197ac8a8b4d075aec84df81457453b61172ddb533e0c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-5a0d4a0f06664120ba968d2b42342aea.7z",
-        toolset = "14.29.30133"
+        sha256 = "d1718367ee571f95aee6f1ffdf94e75006f1886fbf1bd811fd3fb2d2a90708e6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-5a0d4a0f06664120ba968d2b42342aea.7z"
+    },
+    ["windows-x86-vc14.29.30133-f1c0df704ef74fd3922466aa08f11539"] = {
+        sha256 = "deb80f9924e3cdf39daf9ed772f87496d403b5667465d9fd40421621650e7981",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-f1c0df704ef74fd3922466aa08f11539.7z"
+    },
+    ["windows-x86-vc14.29.30133-624cae69115748ffa80faea108c966d5"] = {
+        sha256 = "a2072f48bc19e29b285ffda4f741e58fc0fbd4229a006fa34dd7730fc4fff2dc",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-624cae69115748ffa80faea108c966d5.7z"
+    },
+    ["windows-x86-vc14.40.33807-624cae69115748ffa80faea108c966d5"] = {
+        sha256 = "46a5a47e30594d13056886db44ab6b32772275ce5bdf2a126a9b524257daacdf",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-624cae69115748ffa80faea108c966d5.7z"
+    },
+    ["windows-x64-vc14.29.30133-2638a2c555ec41658be0fcc853957e9c"] = {
+        sha256 = "ff2fd3fdb48898e12f4cdf6eb594df51fd44edca64db7a05f730ba575b2391e0",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-2638a2c555ec41658be0fcc853957e9c.7z"
+    },
+    ["windows-x64-vc14.29.30133-5599f2b9379b466d84cc8694a41f2f51"] = {
+        sha256 = "160f71e10994e8a4c756e130d3dc3d3f54634bc596fa4cb2c1759d9926dc3ae8",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-5599f2b9379b466d84cc8694a41f2f51.7z"
+    },
+    ["windows-x64-vc14.40.33807-ce3811b744f34acbb1500cbc403f8118"] = {
+        sha256 = "093901cc8d503cd14d7e8de580aabedd95622f949bcbf4df982aec312c4923fb",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-ce3811b744f34acbb1500cbc403f8118.7z"
+    },
+    ["windows-x86-vc14.29.30133-28626cb7503d4af9834464e7f9656b43"] = {
+        sha256 = "efeafe4aefa68f4e127f4038fd131c65e271f4473d892ea7459cef4cb7490084",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.29.30133-28626cb7503d4af9834464e7f9656b43.7z"
     },
     ["windows-x64-vc14.29.30133-ce3811b744f34acbb1500cbc403f8118"] = {
-        sha256 = "51c7eb8b8b41d6db31ec0255f6d5ae38ad634a4affb8173e4983e49a45ce4b5a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-ce3811b744f34acbb1500cbc403f8118.7z",
-        toolset = "14.29.30133"
+        sha256 = "7217e3a7b3a13dfc0186dff9a5712957835857f871d74015bf538922646a9ea9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.29.30133-ce3811b744f34acbb1500cbc403f8118.7z"
+    },
+    ["windows-x86-vc14.40.33807-5a0d4a0f06664120ba968d2b42342aea"] = {
+        sha256 = "c204b247aedb5db0873712517093acd757caab88915a04ff675eee5f04329101",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-5a0d4a0f06664120ba968d2b42342aea.7z"
+    },
+    ["windows-x86-vc14.40.33807-28626cb7503d4af9834464e7f9656b43"] = {
+        sha256 = "e73aa93c2310c3c87a1ff3fcff82f6be682cb9e537acc9d9a04ba89eab12620b",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-28626cb7503d4af9834464e7f9656b43.7z"
+    },
+    ["windows-x64-vc14.40.33807-2638a2c555ec41658be0fcc853957e9c"] = {
+        sha256 = "7d52e8680837001782cca00a46afbf930018162256b0050eb98393b5fbee4f93",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-2638a2c555ec41658be0fcc853957e9c.7z"
+    },
+    ["windows-x64-vc14.40.33807-2351edf9d25849099d1c644778a8ce79"] = {
+        sha256 = "f252a5c15429d02555931929e545969f7ff62f21ebe06814006cfb4493c14dd6",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x64-vc14.40.33807-2351edf9d25849099d1c644778a8ce79.7z"
+    },
+    ["windows-x86-vc14.40.33807-f1c0df704ef74fd3922466aa08f11539"] = {
+        sha256 = "7a4af1d2f0adc75f61f97cb71acc4ca9b7337a80156d6f2a0dae7da71b9afdd5",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-crt-cpp-v0.27.4/windows-x86-vc14.40.33807-f1c0df704ef74fd3922466aa08f11539.7z"
     }
 }
