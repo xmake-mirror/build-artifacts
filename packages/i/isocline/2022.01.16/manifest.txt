@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc143-1912450c529d4bf5becfd614681dc0a9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-1912450c529d4bf5becfd614681dc0a9.7z",
-        sha256 = "2847172ffedceb14021a3173f72df83a8e10ca82f5d0ce7b70b1d35c7580316c",
-        toolset = "14.30.30705"
+    ["windows-x64-vc14.29.30133-5537a50dbffd497abbbaaa3b55b58673"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.29.30133-5537a50dbffd497abbbaaa3b55b58673.7z",
+        toolset = "14.29.30133",
+        sha256 = "b4becfe7d7b74237910da5ac4f0149b17299cf0adcd0a8364ac6fea0d8796020"
     },
     ["windows-x86-vc142-28a9edb531c14a469580e4620dfe432c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-28a9edb531c14a469580e4620dfe432c.7z",
-        sha256 = "b7b9b0dd00b2d17676826a9364af604e55b0447bc7ce8b92a4e8e0008b2560fa",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-c629f1cdddb5430d9faa847a0b520fb2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-c629f1cdddb5430d9faa847a0b520fb2.7z",
-        sha256 = "dda83d78056ad1b41af9671ced3b6b5a448e31dc9893e93c669e9ab29e7f4f7d",
-        toolset = "14.30.30705"
-    },
-    ["windows-x86-vc142-3a1e523c04944056b68d82373c27c58e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-3a1e523c04944056b68d82373c27c58e.7z",
-        sha256 = "d8b470a601d56d2eeb73fa6aa6418654a427d712ad1cade2d92c869c4514b3bf",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-c629f1cdddb5430d9faa847a0b520fb2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-c629f1cdddb5430d9faa847a0b520fb2.7z",
-        sha256 = "ea7e256ad1eccc0c952b6fa40af8a6a6d698a491b70c372ee7b833d40f5db7fa",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-dcde5e4eb9dc4ec78876aa01ec384d55"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-dcde5e4eb9dc4ec78876aa01ec384d55.7z",
-        sha256 = "e8ba9f148f20219d752f22bd645431533d8178430244953050ad2f3390b75ebd",
-        toolset = "14.30.30705"
-    },
-    ["windows-x86-vc142-65b3cdd79f484cb396b511d264eb66d7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-65b3cdd79f484cb396b511d264eb66d7.7z",
-        sha256 = "6e23d1e0e4b5a6884c1375a8d807ec840933ec2337aa5e068fa6835344e89c03",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-facbe815e1f94a8ca1a666e2b2642734"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-facbe815e1f94a8ca1a666e2b2642734.7z",
-        sha256 = "4147cd784f39d4f486c04b1411cfc21f5678271e475ec283a1be695b8a757c98",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-facbe815e1f94a8ca1a666e2b2642734"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-facbe815e1f94a8ca1a666e2b2642734.7z",
-        sha256 = "72ba3d563decaa58da2a7525858dfc0499fc338be76ba8d6ff4201a800e7fc95",
-        toolset = "14.30.30705"
-    },
-    ["windows-x64-vc142-c6f047f98a7742768c817c5eb4ea2704"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-c6f047f98a7742768c817c5eb4ea2704.7z",
-        sha256 = "ca365af58bd4374c74fef08567171970d8a01e2fb964e0cdbee8f45b9b62fb3f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-3a1e523c04944056b68d82373c27c58e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-3a1e523c04944056b68d82373c27c58e.7z",
-        sha256 = "3c72fc7454e97361a8ce5a1d26b614b90ac71f4b5ac9f560ee78ad707d3fb9e7",
-        toolset = "14.30.30705"
-    },
-    ["windows-x86-vc142-dcde5e4eb9dc4ec78876aa01ec384d55"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-dcde5e4eb9dc4ec78876aa01ec384d55.7z",
-        sha256 = "cb52abe90d63f40a09bc626cf60f96f5e46f341f8b41522d69362e3c3ba7cd70",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-1912450c529d4bf5becfd614681dc0a9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-1912450c529d4bf5becfd614681dc0a9.7z",
-        sha256 = "d4c41c311cea479450fd31b351c8ff2aea6d1fe85894d4b205b08237ebee08bc",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-65b3cdd79f484cb396b511d264eb66d7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-65b3cdd79f484cb396b511d264eb66d7.7z",
-        sha256 = "35a8d24b37dbf5d58f727a5932564fe54061ba0b50e03a1911d06f98513d81fe",
-        toolset = "14.30.30705"
+        toolset = "14.29.30133",
+        sha256 = "b7b9b0dd00b2d17676826a9364af604e55b0447bc7ce8b92a4e8e0008b2560fa"
     },
     ["windows-x86-vc143-28a9edb531c14a469580e4620dfe432c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-28a9edb531c14a469580e4620dfe432c.7z",
-        sha256 = "ceafaf358827e915bef3c14cf6bfb9f82e204897978de3504ea9ec17dce6bec2",
-        toolset = "14.30.30705"
+        toolset = "14.30.30705",
+        sha256 = "ceafaf358827e915bef3c14cf6bfb9f82e204897978de3504ea9ec17dce6bec2"
+    },
+    ["windows-x64-vc143-1912450c529d4bf5becfd614681dc0a9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-1912450c529d4bf5becfd614681dc0a9.7z",
+        toolset = "14.30.30705",
+        sha256 = "2847172ffedceb14021a3173f72df83a8e10ca82f5d0ce7b70b1d35c7580316c"
+    },
+    ["windows-x64-vc14.29.30133-e4475284be52426999431efb200aad26"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.29.30133-e4475284be52426999431efb200aad26.7z",
+        toolset = "14.29.30133",
+        sha256 = "8d0ad13bf45bffff1f24a5579b651c3c61396975acc4290ff6c0d1568bb17442"
+    },
+    ["windows-x64-vc14.40.33807-5537a50dbffd497abbbaaa3b55b58673"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.40.33807-5537a50dbffd497abbbaaa3b55b58673.7z",
+        toolset = "14.40.33807",
+        sha256 = "eca92c40b50cac4fd36435ea1f77cb799a7f5d903fe29578f012000172c11373"
+    },
+    ["windows-x64-vc142-c629f1cdddb5430d9faa847a0b520fb2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-c629f1cdddb5430d9faa847a0b520fb2.7z",
+        toolset = "14.29.30133",
+        sha256 = "ea7e256ad1eccc0c952b6fa40af8a6a6d698a491b70c372ee7b833d40f5db7fa"
+    },
+    ["windows-x64-vc142-1912450c529d4bf5becfd614681dc0a9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-1912450c529d4bf5becfd614681dc0a9.7z",
+        toolset = "14.29.30133",
+        sha256 = "d4c41c311cea479450fd31b351c8ff2aea6d1fe85894d4b205b08237ebee08bc"
+    },
+    ["windows-x64-vc14.29.30133-565c3fe0767f4c4c97fb33500a8b0392"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.29.30133-565c3fe0767f4c4c97fb33500a8b0392.7z",
+        toolset = "14.29.30133",
+        sha256 = "26562627ff06051f68de8fd1b3ea22872ae266c5e52ffdb9a96e9382ab578ea8"
+    },
+    ["windows-x86-vc143-65b3cdd79f484cb396b511d264eb66d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-65b3cdd79f484cb396b511d264eb66d7.7z",
+        toolset = "14.30.30705",
+        sha256 = "35a8d24b37dbf5d58f727a5932564fe54061ba0b50e03a1911d06f98513d81fe"
+    },
+    ["windows-x86-vc14.40.33807-c9f909c900264a47a450634e758e4ce0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.40.33807-c9f909c900264a47a450634e758e4ce0.7z",
+        toolset = "14.40.33807",
+        sha256 = "e3685d4a8c772abe7dc6429ba3d5b7117a734be5a7711922e63b857d651e7f53"
+    },
+    ["windows-x86-vc142-dcde5e4eb9dc4ec78876aa01ec384d55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-dcde5e4eb9dc4ec78876aa01ec384d55.7z",
+        toolset = "14.29.30133",
+        sha256 = "cb52abe90d63f40a09bc626cf60f96f5e46f341f8b41522d69362e3c3ba7cd70"
+    },
+    ["windows-x64-vc142-c6f047f98a7742768c817c5eb4ea2704"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-c6f047f98a7742768c817c5eb4ea2704.7z",
+        toolset = "14.29.30133",
+        sha256 = "ca365af58bd4374c74fef08567171970d8a01e2fb964e0cdbee8f45b9b62fb3f"
+    },
+    ["windows-x86-vc142-65b3cdd79f484cb396b511d264eb66d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-65b3cdd79f484cb396b511d264eb66d7.7z",
+        toolset = "14.29.30133",
+        sha256 = "6e23d1e0e4b5a6884c1375a8d807ec840933ec2337aa5e068fa6835344e89c03"
+    },
+    ["windows-x86-vc143-3a1e523c04944056b68d82373c27c58e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-3a1e523c04944056b68d82373c27c58e.7z",
+        toolset = "14.30.30705",
+        sha256 = "3c72fc7454e97361a8ce5a1d26b614b90ac71f4b5ac9f560ee78ad707d3fb9e7"
+    },
+    ["windows-x64-vc14.29.30133-1386cbe1b96b42b9bf3731fbf9117ec4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.29.30133-1386cbe1b96b42b9bf3731fbf9117ec4.7z",
+        toolset = "14.29.30133",
+        sha256 = "a4baba80d61adec2fd63ea32135ab645b359a8cd78037e5bc1c946c146ea6e42"
+    },
+    ["windows-x86-vc143-dcde5e4eb9dc4ec78876aa01ec384d55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc143-dcde5e4eb9dc4ec78876aa01ec384d55.7z",
+        toolset = "14.30.30705",
+        sha256 = "e8ba9f148f20219d752f22bd645431533d8178430244953050ad2f3390b75ebd"
+    },
+    ["windows-x64-vc143-facbe815e1f94a8ca1a666e2b2642734"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-facbe815e1f94a8ca1a666e2b2642734.7z",
+        toolset = "14.30.30705",
+        sha256 = "72ba3d563decaa58da2a7525858dfc0499fc338be76ba8d6ff4201a800e7fc95"
+    },
+    ["windows-x64-vc143-c629f1cdddb5430d9faa847a0b520fb2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-c629f1cdddb5430d9faa847a0b520fb2.7z",
+        toolset = "14.30.30705",
+        sha256 = "dda83d78056ad1b41af9671ced3b6b5a448e31dc9893e93c669e9ab29e7f4f7d"
+    },
+    ["windows-x86-vc14.29.30133-38575baa96f54dbd8830d5e879a74e29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.29.30133-38575baa96f54dbd8830d5e879a74e29.7z",
+        toolset = "14.29.30133",
+        sha256 = "8549dbce95e7da65a5e826e31d09d78fa68f0266a7e89c54c36682412a31f6ef"
     },
     ["windows-x64-vc143-c6f047f98a7742768c817c5eb4ea2704"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc143-c6f047f98a7742768c817c5eb4ea2704.7z",
-        sha256 = "3bba722f525e90b52c2769b18a2b455ed4cc871850a4cbdbd84bd2e78d417c41",
-        toolset = "14.30.30705"
+        toolset = "14.30.30705",
+        sha256 = "3bba722f525e90b52c2769b18a2b455ed4cc871850a4cbdbd84bd2e78d417c41"
+    },
+    ["windows-x86-vc14.40.33807-38575baa96f54dbd8830d5e879a74e29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.40.33807-38575baa96f54dbd8830d5e879a74e29.7z",
+        toolset = "14.40.33807",
+        sha256 = "8b2637f67bbf6ec22e89f1b41f7fdd797a21aad2b259a24f9959e490df87ec79"
+    },
+    ["windows-x64-vc142-facbe815e1f94a8ca1a666e2b2642734"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc142-facbe815e1f94a8ca1a666e2b2642734.7z",
+        toolset = "14.29.30133",
+        sha256 = "4147cd784f39d4f486c04b1411cfc21f5678271e475ec283a1be695b8a757c98"
+    },
+    ["windows-x86-vc14.29.30133-167eebfe104949729ac2254bb09b1a7f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.29.30133-167eebfe104949729ac2254bb09b1a7f.7z",
+        toolset = "14.29.30133",
+        sha256 = "7ff109148eb3500423b2e081ed32cfa938139a16f659b32c27c20920d8923ae7"
+    },
+    ["windows-x64-vc14.40.33807-e4475284be52426999431efb200aad26"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.40.33807-e4475284be52426999431efb200aad26.7z",
+        toolset = "14.40.33807",
+        sha256 = "3a5720952ac5f48a7c75df4909ac586f2126f59fa7463ae66e98cad3d127c5cc"
+    },
+    ["windows-x86-vc14.29.30133-c9f909c900264a47a450634e758e4ce0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.29.30133-c9f909c900264a47a450634e758e4ce0.7z",
+        toolset = "14.29.30133",
+        sha256 = "9ff6e3eedede39a47ff55055e8d46a97b2ecc88421235ab2524a7577cc8064b8"
+    },
+    ["windows-x86-vc14.40.33807-fa06ae3bd4af4cc49f0b4f71ea5d610b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.40.33807-fa06ae3bd4af4cc49f0b4f71ea5d610b.7z",
+        toolset = "14.40.33807",
+        sha256 = "e524d04c1f86f83d3d8a0ebb56d58b876ad83b758bb1a40dcf3a6c4f94893a32"
+    },
+    ["windows-x86-vc142-3a1e523c04944056b68d82373c27c58e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc142-3a1e523c04944056b68d82373c27c58e.7z",
+        toolset = "14.29.30133",
+        sha256 = "d8b470a601d56d2eeb73fa6aa6418654a427d712ad1cade2d92c869c4514b3bf"
+    },
+    ["windows-x86-vc14.29.30133-fa06ae3bd4af4cc49f0b4f71ea5d610b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.29.30133-fa06ae3bd4af4cc49f0b4f71ea5d610b.7z",
+        toolset = "14.29.30133",
+        sha256 = "e7d3268009f07b865a6c5895e17a5679624a510d18e0d88b55301dde8cc37231"
+    },
+    ["windows-x86-vc14.40.33807-167eebfe104949729ac2254bb09b1a7f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x86-vc14.40.33807-167eebfe104949729ac2254bb09b1a7f.7z",
+        toolset = "14.40.33807",
+        sha256 = "4e1d4b1bf7d5c57142411771ae15c8c40ab21ed2570bfe7c3c470a7c98f908d6"
+    },
+    ["windows-x64-vc14.40.33807-1386cbe1b96b42b9bf3731fbf9117ec4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.40.33807-1386cbe1b96b42b9bf3731fbf9117ec4.7z",
+        toolset = "14.40.33807",
+        sha256 = "daa48669e236d65ff5939edcf37cd1d1426bb1ec15ba3894b8694fb1d6ffe6e6"
+    },
+    ["windows-x64-vc14.40.33807-565c3fe0767f4c4c97fb33500a8b0392"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/isocline-2022.01.16/windows-x64-vc14.40.33807-565c3fe0767f4c4c97fb33500a8b0392.7z",
+        toolset = "14.40.33807",
+        sha256 = "8ef32d48929beeb97134705942bb9fed835ce44249e859d7884ab5face481ff4"
     }
 }
