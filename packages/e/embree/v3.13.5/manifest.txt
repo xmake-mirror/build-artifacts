@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc142-31c1aa019a7144c9a713b57823603064"] = {
-        sha256 = "052e0fc949f7520a1b76751eaf50ea3338578fbaccd1ac68e584b357ec0efc18",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc142-31c1aa019a7144c9a713b57823603064.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-31c1aa019a7144c9a713b57823603064"] = {
-        sha256 = "0d2186818cddf041fe1c143da5baeed6ce61dd05c2b431489967e734bd3df805",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc143-31c1aa019a7144c9a713b57823603064.7z",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc143-6d2a08fb012f4eafaa16d505518861a3"] = {
-        sha256 = "565c573c9aa2aaa822fba4501eed694a7a99a9a4fbd0acea3548c9583d5d8f1a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc143-6d2a08fb012f4eafaa16d505518861a3.7z",
-        toolset = "14.34.31933"
-    },
-    ["windows-x86-vc143-a4ad03a91ebd4287b1c17445e3a61e53"] = {
-        sha256 = "7c06a4cbfef37c4496fe0df960c285fca58234f0421933ca4a59a0299de31f4c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc143-a4ad03a91ebd4287b1c17445e3a61e53.7z",
-        toolset = "14.34.31933"
+    ["windows-x64-vc14.40.33807-d23ea1707e9d4a39a283d6ae7c9238ef"] = {
+        sha256 = "322372c56adeff3c49d51f21183b2776f1fc197433b4826454b6d5450d9b6d27",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc14.40.33807-d23ea1707e9d4a39a283d6ae7c9238ef.7z"
     },
     ["windows-x64-vc143-d09979db3e3c46c09f862e4f1f45a7cb"] = {
         sha256 = "3a48954b2c163bdf5fdd9a74c69ed67ceef0ec7360cd489e92a4c1d72e271931",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc143-d09979db3e3c46c09f862e4f1f45a7cb.7z",
-        toolset = "14.34.31933"
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc143-d09979db3e3c46c09f862e4f1f45a7cb.7z"
     },
     ["windows-x86-vc142-6d2a08fb012f4eafaa16d505518861a3"] = {
         sha256 = "9589627529ab068efab1d5c1b4df5a3d766842d09107a31a96cad145ed240868",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc142-6d2a08fb012f4eafaa16d505518861a3.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc142-6d2a08fb012f4eafaa16d505518861a3.7z"
+    },
+    ["windows-x86-vc143-6d2a08fb012f4eafaa16d505518861a3"] = {
+        sha256 = "565c573c9aa2aaa822fba4501eed694a7a99a9a4fbd0acea3548c9583d5d8f1a",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc143-6d2a08fb012f4eafaa16d505518861a3.7z"
+    },
+    ["windows-x64-vc143-31c1aa019a7144c9a713b57823603064"] = {
+        sha256 = "0d2186818cddf041fe1c143da5baeed6ce61dd05c2b431489967e734bd3df805",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc143-31c1aa019a7144c9a713b57823603064.7z"
+    },
+    ["windows-x64-vc14.29.30133-d23ea1707e9d4a39a283d6ae7c9238ef"] = {
+        sha256 = "28ff0d036c11da6d37c1b9836603be80fd752e01d33aed4e0420d82ceb56417f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc14.29.30133-d23ea1707e9d4a39a283d6ae7c9238ef.7z"
+    },
+    ["windows-x64-vc14.29.30133-b3863477f843447a9164f695fd761e19"] = {
+        sha256 = "0adcb9af067ab4783e5587835fa9d3666da6b386dd4f529b56f72119ae3d541c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc14.29.30133-b3863477f843447a9164f695fd761e19.7z"
+    },
+    ["windows-x86-vc14.40.33807-dc2559bf3f6a442e826ae84f52c6f035"] = {
+        sha256 = "0e519f475c5d285ba3d3afe109b630eca1c0e1093d649ad743360dd2c5ba2f27",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc14.40.33807-dc2559bf3f6a442e826ae84f52c6f035.7z"
+    },
+    ["windows-x64-vc14.40.33807-b3863477f843447a9164f695fd761e19"] = {
+        sha256 = "883668f46f6a6015e2491673a8995e4eb6bcc00ba1cbbaf497da24c427089bcf",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc14.40.33807-b3863477f843447a9164f695fd761e19.7z"
+    },
+    ["windows-x86-vc143-a4ad03a91ebd4287b1c17445e3a61e53"] = {
+        sha256 = "7c06a4cbfef37c4496fe0df960c285fca58234f0421933ca4a59a0299de31f4c",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc143-a4ad03a91ebd4287b1c17445e3a61e53.7z"
     },
     ["windows-x64-vc142-d09979db3e3c46c09f862e4f1f45a7cb"] = {
         sha256 = "e8bf2988275159e94843dca776b433ac6cd9dc9f0da7184829a0c2ab7d2cb560",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc142-d09979db3e3c46c09f862e4f1f45a7cb.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc142-d09979db3e3c46c09f862e4f1f45a7cb.7z"
+    },
+    ["windows-x86-vc14.29.30133-fe94d86630e84347a0fda1d2f525f081"] = {
+        sha256 = "d8a89a08ba92d6a9aa331a9f80b09536e59bebd923cd05adbd381c68c30de894",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc14.29.30133-fe94d86630e84347a0fda1d2f525f081.7z"
+    },
+    ["windows-x64-vc142-31c1aa019a7144c9a713b57823603064"] = {
+        sha256 = "052e0fc949f7520a1b76751eaf50ea3338578fbaccd1ac68e584b357ec0efc18",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x64-vc142-31c1aa019a7144c9a713b57823603064.7z"
     },
     ["windows-x86-vc142-a4ad03a91ebd4287b1c17445e3a61e53"] = {
         sha256 = "cdfd1a98c5d784e2a91fcb51f7f2f9d32cb024a7421cc69b58a3a79c4df4e1e4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc142-a4ad03a91ebd4287b1c17445e3a61e53.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc142-a4ad03a91ebd4287b1c17445e3a61e53.7z"
+    },
+    ["windows-x86-vc14.40.33807-fe94d86630e84347a0fda1d2f525f081"] = {
+        sha256 = "e6971db9d4259e555ef1d68ba399d56f738f3035729315b2a1364f1276f9a171",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc14.40.33807-fe94d86630e84347a0fda1d2f525f081.7z"
+    },
+    ["windows-x86-vc14.29.30133-dc2559bf3f6a442e826ae84f52c6f035"] = {
+        sha256 = "ff5c916288c291b3e6a4972c6536dc2181f478455ede6c8c8532bd399317902f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/embree-v3.13.5/windows-x86-vc14.29.30133-dc2559bf3f6a442e826ae84f52c6f035.7z"
     }
 }
