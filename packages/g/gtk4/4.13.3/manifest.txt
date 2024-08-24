@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.29.30133-00f322d2c19a4e4c8ea708b6efd1d79f"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.29.30133-00f322d2c19a4e4c8ea708b6efd1d79f.7z",
-        sha256 = "9e1a641737dc545a7eedea76cef6befb550faf83bea90be6db19ee4a7268ba66"
-    },
     ["windows-x64-vc14.37.32822-00f322d2c19a4e4c8ea708b6efd1d79f"] = {
+        sha256 = "c7a26519cd105348bfe291ae754d37b289c43e27e6e979da822cdc38a01fa874",
         toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.37.32822-00f322d2c19a4e4c8ea708b6efd1d79f.7z",
-        sha256 = "c7a26519cd105348bfe291ae754d37b289c43e27e6e979da822cdc38a01fa874"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.37.32822-00f322d2c19a4e4c8ea708b6efd1d79f.7z"
+    },
+    ["windows-x86-vc14.40.33807-3d1c81c0d40a42c28502fb22af78237a"] = {
+        sha256 = "3e90c95463271266609c91c4a18fbe9c10c8d2595ffde339d37c361a42aeb635",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.40.33807-3d1c81c0d40a42c28502fb22af78237a.7z"
+    },
+    ["windows-x64-vc14.29.30133-00f322d2c19a4e4c8ea708b6efd1d79f"] = {
+        sha256 = "9e1a641737dc545a7eedea76cef6befb550faf83bea90be6db19ee4a7268ba66",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.29.30133-00f322d2c19a4e4c8ea708b6efd1d79f.7z"
+    },
+    ["windows-x86-vc14.40.33807-04ed04d6f6f843f294174e853cd795e0"] = {
+        sha256 = "d6f086ebb7d50b0d4b4d086352de662d250fb456b311ac6349fa5e6892a201d5",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.40.33807-04ed04d6f6f843f294174e853cd795e0.7z"
     },
     ["windows-x64-vc14.29.30133-570fe5b3f4cf42589800727281bc547b"] = {
+        sha256 = "429c599a68e7e45b781f8ee9f6a9c7c66c9071a5d62df21e946d9d46255e8134",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.29.30133-570fe5b3f4cf42589800727281bc547b.7z",
-        sha256 = "429c599a68e7e45b781f8ee9f6a9c7c66c9071a5d62df21e946d9d46255e8134"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.29.30133-570fe5b3f4cf42589800727281bc547b.7z"
     },
-    ["windows-x64-vc14.37.32822-570fe5b3f4cf42589800727281bc547b"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.37.32822-570fe5b3f4cf42589800727281bc547b.7z",
-        sha256 = "c2e9bc70dcc74e97a8dbb9bd04fbe1289a5d2c9944a4fa29649b5e45583b70ec"
-    },
-    ["windows-x86-vc14.37.32822-075cfaba285f418a9d8bd8c0c60647fb"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.37.32822-075cfaba285f418a9d8bd8c0c60647fb.7z",
-        sha256 = "60dfb1fa683f6726907be15e79aa5039ead3ab5bec604bca151607d680d73951"
-    },
-    ["windows-x86-vc14.37.32822-11ca288940224b6f88a9b6ff8f5c87e1"] = {
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.37.32822-11ca288940224b6f88a9b6ff8f5c87e1.7z",
-        sha256 = "f225debcd99f8b78dc542652a548f8268ce4d04dd1c5f1b7222aafc59c888d58"
+    ["windows-x64-vc14.29.30133-68ccff4e49c34d75a7c9a2ce7f000623"] = {
+        sha256 = "73cc19921c700611153fea17a44bd48410b293aed3748c232501ef25747d1a13",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.29.30133-68ccff4e49c34d75a7c9a2ce7f000623.7z"
     },
     ["windows-x86-vc14.29.30133-075cfaba285f418a9d8bd8c0c60647fb"] = {
+        sha256 = "551fe91a4a9ee22bac1899baa6afb91abcd00f343927dee8803b10ddcb9c2bb6",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.29.30133-075cfaba285f418a9d8bd8c0c60647fb.7z",
-        sha256 = "551fe91a4a9ee22bac1899baa6afb91abcd00f343927dee8803b10ddcb9c2bb6"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.29.30133-075cfaba285f418a9d8bd8c0c60647fb.7z"
+    },
+    ["windows-x64-vc14.29.30133-3c34bdef89c94c7998ca7ed0ec47e809"] = {
+        sha256 = "6ac5587d80f0009264c8c8c0c8af6c18ad10d7122fd2c39976baf0ff04757884",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.29.30133-3c34bdef89c94c7998ca7ed0ec47e809.7z"
+    },
+    ["windows-x86-vc14.37.32822-075cfaba285f418a9d8bd8c0c60647fb"] = {
+        sha256 = "60dfb1fa683f6726907be15e79aa5039ead3ab5bec604bca151607d680d73951",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.37.32822-075cfaba285f418a9d8bd8c0c60647fb.7z"
+    },
+    ["windows-x64-vc14.37.32822-570fe5b3f4cf42589800727281bc547b"] = {
+        sha256 = "c2e9bc70dcc74e97a8dbb9bd04fbe1289a5d2c9944a4fa29649b5e45583b70ec",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.37.32822-570fe5b3f4cf42589800727281bc547b.7z"
+    },
+    ["windows-x86-vc14.37.32822-11ca288940224b6f88a9b6ff8f5c87e1"] = {
+        sha256 = "f225debcd99f8b78dc542652a548f8268ce4d04dd1c5f1b7222aafc59c888d58",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.37.32822-11ca288940224b6f88a9b6ff8f5c87e1.7z"
+    },
+    ["windows-x86-vc14.29.30133-04ed04d6f6f843f294174e853cd795e0"] = {
+        sha256 = "62d21797963b365eb6bc23e75ba6c0c88c1e50431f98913deb2329ed666db78a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.29.30133-04ed04d6f6f843f294174e853cd795e0.7z"
+    },
+    ["windows-x64-vc14.40.33807-68ccff4e49c34d75a7c9a2ce7f000623"] = {
+        sha256 = "487d96eadbc6afb8a64a74501e8c4a9a212d6eb1f3f9f48bc32d324f8f6208d0",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.40.33807-68ccff4e49c34d75a7c9a2ce7f000623.7z"
+    },
+    ["windows-x86-vc14.29.30133-3d1c81c0d40a42c28502fb22af78237a"] = {
+        sha256 = "341fab537763c5d2aceca8c6f651cf62a284dbab7feaa01ecfe31d93dd87c178",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.29.30133-3d1c81c0d40a42c28502fb22af78237a.7z"
     },
     ["windows-x86-vc14.29.30133-11ca288940224b6f88a9b6ff8f5c87e1"] = {
+        sha256 = "bf77446a265f0d81db7c9d839e98ee96f063eb63bebf5ea3e8779238ade072b2",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.29.30133-11ca288940224b6f88a9b6ff8f5c87e1.7z",
-        sha256 = "bf77446a265f0d81db7c9d839e98ee96f063eb63bebf5ea3e8779238ade072b2"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x86-vc14.29.30133-11ca288940224b6f88a9b6ff8f5c87e1.7z"
+    },
+    ["windows-x64-vc14.40.33807-3c34bdef89c94c7998ca7ed0ec47e809"] = {
+        sha256 = "7f77e19e26ff87ab2bb8bdef9c1b50dae3f29fe0d9a8be68ac97fb32e9d35ad3",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gtk4-4.13.3/windows-x64-vc14.40.33807-3c34bdef89c94c7998ca7ed0ec47e809.7z"
     }
 }
