@@ -1,83 +1,113 @@
 {
-    ["windows-x64-vc14.39.33519-1fd3bfc624694677a7b2eaeb0c1dbe88"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.39.33519-1fd3bfc624694677a7b2eaeb0c1dbe88.7z",
-        sha256 = "44ed8102fde09644cc7e45202f1095207fdc33e48f50be1967453be593c8f852"
-    },
-    ["windows-x64-vc14.29.30133-1fd3bfc624694677a7b2eaeb0c1dbe88"] = {
+    ["windows-x86-vc14.29.30133-f902706083d241ada4ed622a6273af48"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.29.30133-1fd3bfc624694677a7b2eaeb0c1dbe88.7z",
-        sha256 = "f9c8189569bbcb8648f24c929e49ef04d53ff9f04ca60240174465fe4cb149ca"
-    },
-    ["windows-x86-vc14.40.33807-14406b088fc049a9a6bf3ae2cacf0e03"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.40.33807-14406b088fc049a9a6bf3ae2cacf0e03.7z",
-        sha256 = "c4d26f86f12e939a53467f3220210161841b5b50bb06c027567a2cabcda531e9"
-    },
-    ["windows-x64-vc14.40.33807-1fd3bfc624694677a7b2eaeb0c1dbe88"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-1fd3bfc624694677a7b2eaeb0c1dbe88.7z",
-        sha256 = "79ea5808ae99020a26e3367c7c98ef52329054001ca371132d3b1e8a42be36a6"
-    },
-    ["windows-x86-vc14.29.30133-b04e741139b44574842612477875d3f8"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-b04e741139b44574842612477875d3f8.7z",
-        sha256 = "c21f6d024afcf1ef63e2cbb3cd8a1cf9a65224384bfed306d4f72bd0c85b01b8"
-    },
-    ["windows-x86-vc14.29.30133-493ea4b0f22041ce954ba1cba7834f73"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-493ea4b0f22041ce954ba1cba7834f73.7z",
-        sha256 = "cdb7ce3bad59ebca55af43c50d892704bc8081719e6f6de63f86f38b6ee1630e"
-    },
-    ["windows-x64-vc14.39.33519-94eebc6fde9d4f1494f23a6475547b34"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.39.33519-94eebc6fde9d4f1494f23a6475547b34.7z",
-        sha256 = "0e3cf97d9811a823b537ab00f135afa5d37e76d0890516d15510533bb2b351cb"
-    },
-    ["windows-x86-vc14.29.30133-14406b088fc049a9a6bf3ae2cacf0e03"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-14406b088fc049a9a6bf3ae2cacf0e03.7z",
-        sha256 = "94d077dd0df80f1299f9a01e020d6cb50ec5cd0b3b24e901cde2b95834ddcac0"
-    },
-    ["windows-x64-vc14.40.33807-94eebc6fde9d4f1494f23a6475547b34"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-94eebc6fde9d4f1494f23a6475547b34.7z",
-        sha256 = "301831aeb543b9ed09a026584f0dc61df8c4c94eb0e386eabd22ae7a0fe08838"
-    },
-    ["windows-x64-vc14.40.33807-7112836c52224a0a936d8c86085035bd"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-7112836c52224a0a936d8c86085035bd.7z",
-        sha256 = "a3e349bc3d49763f5a91ab54843305544e70b19f054cbb9bbe6e0eabee83cc1a"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-f902706083d241ada4ed622a6273af48.7z",
+        sha256 = "1d01407dc6669e813f265e7f736ec36df05d88c31c7da9b9da960bfbb3a9cb28"
     },
     ["windows-x86-vc14.39.33519-14406b088fc049a9a6bf3ae2cacf0e03"] = {
         toolset = "14.39.33519",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.39.33519-14406b088fc049a9a6bf3ae2cacf0e03.7z",
         sha256 = "c3ea3d290e72a685599a773b618e3d8263ec11bbda5802ce31aab9d1ca7fd8f4"
     },
+    ["windows-x64-vc14.29.30133-eb4b514b4bfc467e97f01fef597a1eaa"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.29.30133-eb4b514b4bfc467e97f01fef597a1eaa.7z",
+        sha256 = "468f8b8020beba527e827d3bd798ba6d437eb904ba520513c67a7cff71b949b5"
+    },
+    ["windows-x64-vc14.39.33519-94eebc6fde9d4f1494f23a6475547b34"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.39.33519-94eebc6fde9d4f1494f23a6475547b34.7z",
+        sha256 = "0e3cf97d9811a823b537ab00f135afa5d37e76d0890516d15510533bb2b351cb"
+    },
     ["windows-x64-vc14.29.30133-94eebc6fde9d4f1494f23a6475547b34"] = {
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.29.30133-94eebc6fde9d4f1494f23a6475547b34.7z",
         sha256 = "2a4cf8018c10379ed5f079386a84427536e7f83f3f8dd25ff636509d6eba012a"
     },
+    ["windows-x86-vc14.41.34120-b04e741139b44574842612477875d3f8"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.41.34120-b04e741139b44574842612477875d3f8.7z",
+        sha256 = "c4c556c401eb083fc6e9b9905ca4c4717029205112a9eb4e3d3cdca67cf9184a"
+    },
     ["windows-x64-vc14.29.30133-7112836c52224a0a936d8c86085035bd"] = {
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.29.30133-7112836c52224a0a936d8c86085035bd.7z",
-        sha256 = "d0189431337b1c9cb2513979aea7725e615f7bb4874f72a18637f8ad401c7f30"
+        sha256 = "e28df7b94e5c69a69a4af86f95fcf7c057b01b94141e5ab762cbdec2d719b94d"
+    },
+    ["windows-x64-vc14.41.34120-7112836c52224a0a936d8c86085035bd"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.41.34120-7112836c52224a0a936d8c86085035bd.7z",
+        sha256 = "397177ee4ab25121ad6fcfada8dff4b09f172ed9101b79e60778cf94be74623e"
     },
     ["windows-x86-vc14.40.33807-b04e741139b44574842612477875d3f8"] = {
         toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.40.33807-b04e741139b44574842612477875d3f8.7z",
         sha256 = "6c36ea8a713a87940e7828d95e192d4598f5272fd7b74461617fb40ddba93ffa"
     },
-    ["windows-x64-vc14.29.30133-eb4b514b4bfc467e97f01fef597a1eaa"] = {
+    ["windows-x86-vc14.29.30133-b04e741139b44574842612477875d3f8"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.29.30133-eb4b514b4bfc467e97f01fef597a1eaa.7z",
-        sha256 = "a4292eb4423cc609b589ed68bd4510104f5beda26691234105b45d1bc6d91dc5"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-b04e741139b44574842612477875d3f8.7z",
+        sha256 = "6ce7f49de7e85dcc10b8805e2e7c124b6e2d4f46e372fb85f95106133524df28"
     },
     ["windows-x86-vc14.39.33519-493ea4b0f22041ce954ba1cba7834f73"] = {
         toolset = "14.39.33519",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.39.33519-493ea4b0f22041ce954ba1cba7834f73.7z",
         sha256 = "72c79ec282b88abbe1339c61a865f62e1e48192c59f2df9e08a37591f2fc512f"
+    },
+    ["windows-x64-vc14.29.30133-1fd3bfc624694677a7b2eaeb0c1dbe88"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.29.30133-1fd3bfc624694677a7b2eaeb0c1dbe88.7z",
+        sha256 = "f9c8189569bbcb8648f24c929e49ef04d53ff9f04ca60240174465fe4cb149ca"
+    },
+    ["windows-x64-vc14.39.33519-1fd3bfc624694677a7b2eaeb0c1dbe88"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.39.33519-1fd3bfc624694677a7b2eaeb0c1dbe88.7z",
+        sha256 = "44ed8102fde09644cc7e45202f1095207fdc33e48f50be1967453be593c8f852"
+    },
+    ["windows-x64-vc14.40.33807-7112836c52224a0a936d8c86085035bd"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-7112836c52224a0a936d8c86085035bd.7z",
+        sha256 = "a3e349bc3d49763f5a91ab54843305544e70b19f054cbb9bbe6e0eabee83cc1a"
+    },
+    ["windows-x64-vc14.40.33807-94eebc6fde9d4f1494f23a6475547b34"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-94eebc6fde9d4f1494f23a6475547b34.7z",
+        sha256 = "301831aeb543b9ed09a026584f0dc61df8c4c94eb0e386eabd22ae7a0fe08838"
+    },
+    ["windows-x86-vc14.29.30133-14406b088fc049a9a6bf3ae2cacf0e03"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-14406b088fc049a9a6bf3ae2cacf0e03.7z",
+        sha256 = "94d077dd0df80f1299f9a01e020d6cb50ec5cd0b3b24e901cde2b95834ddcac0"
+    },
+    ["windows-x64-vc14.40.33807-1fd3bfc624694677a7b2eaeb0c1dbe88"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-1fd3bfc624694677a7b2eaeb0c1dbe88.7z",
+        sha256 = "79ea5808ae99020a26e3367c7c98ef52329054001ca371132d3b1e8a42be36a6"
+    },
+    ["windows-x86-vc14.29.30133-493ea4b0f22041ce954ba1cba7834f73"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-493ea4b0f22041ce954ba1cba7834f73.7z",
+        sha256 = "cdb7ce3bad59ebca55af43c50d892704bc8081719e6f6de63f86f38b6ee1630e"
+    },
+    ["windows-x64-vc14.40.33807-eb4b514b4bfc467e97f01fef597a1eaa"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-eb4b514b4bfc467e97f01fef597a1eaa.7z",
+        sha256 = "27516f2ca19374063a153b764c78245bbefed41627dd49bb98120eb79c48b4b8"
+    },
+    ["windows-x86-vc14.40.33807-14406b088fc049a9a6bf3ae2cacf0e03"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.40.33807-14406b088fc049a9a6bf3ae2cacf0e03.7z",
+        sha256 = "c4d26f86f12e939a53467f3220210161841b5b50bb06c027567a2cabcda531e9"
+    },
+    ["windows-x64-vc14.41.34120-eb4b514b4bfc467e97f01fef597a1eaa"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.41.34120-eb4b514b4bfc467e97f01fef597a1eaa.7z",
+        sha256 = "0010e662c55b4c50139123528ae8de0ea6fbebe151fc5c5826b5f95327f8b153"
+    },
+    ["windows-x86-vc14.41.34120-f902706083d241ada4ed622a6273af48"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.41.34120-f902706083d241ada4ed622a6273af48.7z",
+        sha256 = "1cbbbe6401cc5627f5c53c1f76e77fc48f626f5bb940ee1feb1bd78c1c327b49"
     },
     ["windows-x86-vc14.40.33807-493ea4b0f22041ce954ba1cba7834f73"] = {
         toolset = "14.40.33807",
@@ -88,15 +118,5 @@
         toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.40.33807-f902706083d241ada4ed622a6273af48.7z",
         sha256 = "af750c0a1a881a751eec31547ba3d2efeb880c8701b7566a015774f5fee1da20"
-    },
-    ["windows-x64-vc14.40.33807-eb4b514b4bfc467e97f01fef597a1eaa"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x64-vc14.40.33807-eb4b514b4bfc467e97f01fef597a1eaa.7z",
-        sha256 = "27516f2ca19374063a153b764c78245bbefed41627dd49bb98120eb79c48b4b8"
-    },
-    ["windows-x86-vc14.29.30133-f902706083d241ada4ed622a6273af48"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/poco-1.13.3/windows-x86-vc14.29.30133-f902706083d241ada4ed622a6273af48.7z",
-        sha256 = "6f4f838592f9028d5bc05cdf07bb3791572012ac3a13ca6919ae774f7038819b"
     }
 }
