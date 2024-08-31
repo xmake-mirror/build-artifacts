@@ -1,122 +1,162 @@
 {
-    ["windows-x86-vc14.40.33807-e5bc4d05e1734749b579defa32278be1"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-e5bc4d05e1734749b579defa32278be1.7z",
-        sha256 = "cc5d8f7adfd223c7bf2c53060e661da2b012e43cfb652c40d239bfc2d31d87be"
+    ["windows-x64-vc14.38.33130-d52c4cd90c234ee7a10e2d4770d38741"] = {
+        toolset = "14.38.33130",
+        sha256 = "924a71732a5eb7bfb18ea4775267501ff7c007eac0e98c3cc1801f3bf1cb9674",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-d52c4cd90c234ee7a10e2d4770d38741.7z"
     },
     ["windows-x64-vc14.40.33807-016bf1beb9c64d3692cf42686056f496"] = {
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-016bf1beb9c64d3692cf42686056f496.7z",
-        sha256 = "a753140233380363b6c98cbcd4daec06507dec57ae6a8c09863d6b6862e89fef"
-    },
-    ["windows-x86-vc14.40.33807-893d6bf2921840378c9f28fdacf5455c"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-893d6bf2921840378c9f28fdacf5455c.7z",
-        sha256 = "4fa6397d4894647380f773f3c2abdc4f6e72375261fd979c9833c2e0108a675d"
-    },
-    ["windows-x64-vc14.29.30133-8bd0b80cfc6a41d48b99a67be111f57f"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-8bd0b80cfc6a41d48b99a67be111f57f.7z",
-        sha256 = "38cad6c3d82fb0de55f281d7b9af455c91d2357c8e47c4c83f0b2179f9d62b75"
-    },
-    ["windows-x86-vc14.40.33807-257ed7bc29244e1aa212b66751140d68"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-257ed7bc29244e1aa212b66751140d68.7z",
-        sha256 = "41a36985e294d77b5dc4994e9e884601aadbb8c0e9fa5c97ba4c869c5c2ccbd9"
-    },
-    ["windows-x86-vc14.38.33130-257ed7bc29244e1aa212b66751140d68"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-257ed7bc29244e1aa212b66751140d68.7z",
-        sha256 = "f3c1ce0e33f153bd0a87fb0313da28197814187af6e3832d19c44047b7bd712c"
-    },
-    ["windows-x86-vc14.40.33807-1e464b7c0fb44f9ead96b6cd548e9513"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-1e464b7c0fb44f9ead96b6cd548e9513.7z",
-        sha256 = "4b97a8d5f2d22351229ec6698516f49ac52bb8fb52e9f1276ca1dd72287116f4"
-    },
-    ["windows-x64-vc14.29.30133-09b66d0aa6a949a3be60e26e28921679"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-09b66d0aa6a949a3be60e26e28921679.7z",
-        sha256 = "108656fee26044d69543ee61366685b8ef7e7bdb0fcfe625f26281dc11698afa"
+        sha256 = "a753140233380363b6c98cbcd4daec06507dec57ae6a8c09863d6b6862e89fef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-016bf1beb9c64d3692cf42686056f496.7z"
     },
     ["windows-x86-vc14.29.30133-1e464b7c0fb44f9ead96b6cd548e9513"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-1e464b7c0fb44f9ead96b6cd548e9513.7z",
-        sha256 = "0c310cebcc9993b8c7cf61d4d8683c5a7275715cac41a4a40d13ad9094133555"
-    },
-    ["windows-x64-vc14.29.30133-016bf1beb9c64d3692cf42686056f496"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-016bf1beb9c64d3692cf42686056f496.7z",
-        sha256 = "6e1195f7962db2f5cf76944dfc4c38295e1b38b60db72bbf3df0929cbcbf916e"
-    },
-    ["windows-x64-vc14.38.33130-d52c4cd90c234ee7a10e2d4770d38741"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-d52c4cd90c234ee7a10e2d4770d38741.7z",
-        sha256 = "924a71732a5eb7bfb18ea4775267501ff7c007eac0e98c3cc1801f3bf1cb9674"
-    },
-    ["windows-x86-vc14.38.33130-893d6bf2921840378c9f28fdacf5455c"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-893d6bf2921840378c9f28fdacf5455c.7z",
-        sha256 = "91d532bd604cf47dc1baa56196ff792c30c65a5146249af7ea9dcc41847205ec"
-    },
-    ["windows-x64-vc14.38.33130-09b66d0aa6a949a3be60e26e28921679"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-09b66d0aa6a949a3be60e26e28921679.7z",
-        sha256 = "f41a401e597895f29f95364ec073577aac8469d8f1c8ad6363c686795040f27d"
-    },
-    ["windows-x64-vc14.38.33130-016bf1beb9c64d3692cf42686056f496"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-016bf1beb9c64d3692cf42686056f496.7z",
-        sha256 = "7d18c07f04a3a1aee25c29f512caec3e80413c3255e19d5d7f9973763ed5c4eb"
-    },
-    ["windows-x86-vc14.29.30133-257ed7bc29244e1aa212b66751140d68"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-257ed7bc29244e1aa212b66751140d68.7z",
-        sha256 = "3521330009c475aec9e434063f577bac131f8c8b76b8b4efa0ad49da8559cbaa"
-    },
-    ["windows-x86-vc14.38.33130-1e464b7c0fb44f9ead96b6cd548e9513"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-1e464b7c0fb44f9ead96b6cd548e9513.7z",
-        sha256 = "2e4080b79f1fb512bace099941a4d37129dbaad9861a983ab043397dc0506510"
-    },
-    ["windows-x64-vc14.40.33807-09b66d0aa6a949a3be60e26e28921679"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-09b66d0aa6a949a3be60e26e28921679.7z",
-        sha256 = "41b05e3c1b8206f35619c9c278404b52c7a3fa00e74a0055dee0369ca2899032"
-    },
-    ["windows-x64-vc14.40.33807-8bd0b80cfc6a41d48b99a67be111f57f"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-8bd0b80cfc6a41d48b99a67be111f57f.7z",
-        sha256 = "27ab0c74d5c93a88534e6aa986e4f13305786257bba0a69f23af2b7f38174a29"
+        sha256 = "fe6e8b0c49f95c8f4c1a06b740e77995400543027d90cb8562b9a4406f91f5f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-1e464b7c0fb44f9ead96b6cd548e9513.7z"
     },
     ["windows-x86-vc14.29.30133-e5bc4d05e1734749b579defa32278be1"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-e5bc4d05e1734749b579defa32278be1.7z",
-        sha256 = "af3178c3ed9555848d8036eb74f62976ddfb99679316ff2eef05ee586b90025a"
-    },
-    ["windows-x64-vc14.29.30133-d52c4cd90c234ee7a10e2d4770d38741"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-d52c4cd90c234ee7a10e2d4770d38741.7z",
-        sha256 = "daf3646f76dac4e16780e850b4bc6d5a467aa2f5d69ea64c15ae3eb87a3a541f"
-    },
-    ["windows-x64-vc14.38.33130-8bd0b80cfc6a41d48b99a67be111f57f"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-8bd0b80cfc6a41d48b99a67be111f57f.7z",
-        sha256 = "d08a6df150684f2f572051d2a01cd417bfcc74a9893c0ba86610ec1d899a7473"
-    },
-    ["windows-x86-vc14.38.33130-e5bc4d05e1734749b579defa32278be1"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-e5bc4d05e1734749b579defa32278be1.7z",
-        sha256 = "5bdb2c04d200bd5a435c2dcef46c66b1264befafe33b436d644e781e955ea11c"
+        sha256 = "fe354ad904147d2e370f4a41f1f9b0d3ac8d1779ed8467b691df77e4ff87a550",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-e5bc4d05e1734749b579defa32278be1.7z"
     },
     ["windows-x64-vc14.40.33807-d52c4cd90c234ee7a10e2d4770d38741"] = {
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-d52c4cd90c234ee7a10e2d4770d38741.7z",
-        sha256 = "e6a0bd89a020991de93d7c1723ff34d58d2180930802c712d32c950fd5ec349d"
+        sha256 = "e6a0bd89a020991de93d7c1723ff34d58d2180930802c712d32c950fd5ec349d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-d52c4cd90c234ee7a10e2d4770d38741.7z"
+    },
+    ["windows-x64-vc14.41.34120-8bd0b80cfc6a41d48b99a67be111f57f"] = {
+        toolset = "14.41.34120",
+        sha256 = "7a04e00b8d65dccda7a465fd055563d397e264168f7999ab5db3c288bf2749a2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.41.34120-8bd0b80cfc6a41d48b99a67be111f57f.7z"
+    },
+    ["windows-x64-vc14.41.34120-016bf1beb9c64d3692cf42686056f496"] = {
+        toolset = "14.41.34120",
+        sha256 = "2bf770c488094adaf5f8b41641479e58fb17fd4585fc6fdca639370a7d224011",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.41.34120-016bf1beb9c64d3692cf42686056f496.7z"
+    },
+    ["windows-x86-vc14.40.33807-257ed7bc29244e1aa212b66751140d68"] = {
+        toolset = "14.40.33807",
+        sha256 = "41a36985e294d77b5dc4994e9e884601aadbb8c0e9fa5c97ba4c869c5c2ccbd9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-257ed7bc29244e1aa212b66751140d68.7z"
+    },
+    ["windows-x64-vc14.29.30133-8bd0b80cfc6a41d48b99a67be111f57f"] = {
+        toolset = "14.29.30133",
+        sha256 = "e4abbebea1ecc4e794fe8ad546c79dce7929205ad3f5e2b83c75750a4a6a50d7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-8bd0b80cfc6a41d48b99a67be111f57f.7z"
+    },
+    ["windows-x86-vc14.40.33807-893d6bf2921840378c9f28fdacf5455c"] = {
+        toolset = "14.40.33807",
+        sha256 = "4fa6397d4894647380f773f3c2abdc4f6e72375261fd979c9833c2e0108a675d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-893d6bf2921840378c9f28fdacf5455c.7z"
+    },
+    ["windows-x64-vc14.29.30133-d52c4cd90c234ee7a10e2d4770d38741"] = {
+        toolset = "14.29.30133",
+        sha256 = "8fe55219e8fd2d3270f4fa2efa250dc5c3916a360b43247a60f529c3b28f7fc3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-d52c4cd90c234ee7a10e2d4770d38741.7z"
+    },
+    ["windows-x86-vc14.40.33807-1e464b7c0fb44f9ead96b6cd548e9513"] = {
+        toolset = "14.40.33807",
+        sha256 = "4b97a8d5f2d22351229ec6698516f49ac52bb8fb52e9f1276ca1dd72287116f4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-1e464b7c0fb44f9ead96b6cd548e9513.7z"
+    },
+    ["windows-x86-vc14.38.33130-257ed7bc29244e1aa212b66751140d68"] = {
+        toolset = "14.38.33130",
+        sha256 = "f3c1ce0e33f153bd0a87fb0313da28197814187af6e3832d19c44047b7bd712c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-257ed7bc29244e1aa212b66751140d68.7z"
+    },
+    ["windows-x64-vc14.38.33130-09b66d0aa6a949a3be60e26e28921679"] = {
+        toolset = "14.38.33130",
+        sha256 = "f41a401e597895f29f95364ec073577aac8469d8f1c8ad6363c686795040f27d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-09b66d0aa6a949a3be60e26e28921679.7z"
+    },
+    ["windows-x86-vc14.40.33807-e5bc4d05e1734749b579defa32278be1"] = {
+        toolset = "14.40.33807",
+        sha256 = "cc5d8f7adfd223c7bf2c53060e661da2b012e43cfb652c40d239bfc2d31d87be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.40.33807-e5bc4d05e1734749b579defa32278be1.7z"
+    },
+    ["windows-x86-vc14.38.33130-e5bc4d05e1734749b579defa32278be1"] = {
+        toolset = "14.38.33130",
+        sha256 = "5bdb2c04d200bd5a435c2dcef46c66b1264befafe33b436d644e781e955ea11c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-e5bc4d05e1734749b579defa32278be1.7z"
+    },
+    ["windows-x64-vc14.40.33807-8bd0b80cfc6a41d48b99a67be111f57f"] = {
+        toolset = "14.40.33807",
+        sha256 = "27ab0c74d5c93a88534e6aa986e4f13305786257bba0a69f23af2b7f38174a29",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-8bd0b80cfc6a41d48b99a67be111f57f.7z"
+    },
+    ["windows-x64-vc14.41.34120-d52c4cd90c234ee7a10e2d4770d38741"] = {
+        toolset = "14.41.34120",
+        sha256 = "6801ce9ba9a47abbd55a82fb3267b6ce63678cde98dc233b279a774c04b438fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.41.34120-d52c4cd90c234ee7a10e2d4770d38741.7z"
+    },
+    ["windows-x64-vc14.41.34120-09b66d0aa6a949a3be60e26e28921679"] = {
+        toolset = "14.41.34120",
+        sha256 = "d6827ca9ea1d8efc2c3dd98aa25ffcec8e73d86961bf1d3d030c504554b5b3a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.41.34120-09b66d0aa6a949a3be60e26e28921679.7z"
+    },
+    ["windows-x86-vc14.41.34120-e5bc4d05e1734749b579defa32278be1"] = {
+        toolset = "14.41.34120",
+        sha256 = "f9ac91dfc22d0a75f966385e637e154e23b1044bc8496f5b5c1281b31a412351",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.41.34120-e5bc4d05e1734749b579defa32278be1.7z"
+    },
+    ["windows-x64-vc14.29.30133-09b66d0aa6a949a3be60e26e28921679"] = {
+        toolset = "14.29.30133",
+        sha256 = "b075ac44b97708ccbd5caf14adf41083a0f68021a18b9e963825358a10129bb0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-09b66d0aa6a949a3be60e26e28921679.7z"
+    },
+    ["windows-x64-vc14.29.30133-016bf1beb9c64d3692cf42686056f496"] = {
+        toolset = "14.29.30133",
+        sha256 = "ee822e551ab3c30eaa36b61a198eadbd3142e5226e69a3816f420b7755386297",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.29.30133-016bf1beb9c64d3692cf42686056f496.7z"
+    },
+    ["windows-x64-vc14.38.33130-8bd0b80cfc6a41d48b99a67be111f57f"] = {
+        toolset = "14.38.33130",
+        sha256 = "d08a6df150684f2f572051d2a01cd417bfcc74a9893c0ba86610ec1d899a7473",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-8bd0b80cfc6a41d48b99a67be111f57f.7z"
+    },
+    ["windows-x86-vc14.41.34120-1e464b7c0fb44f9ead96b6cd548e9513"] = {
+        toolset = "14.41.34120",
+        sha256 = "1bea757e35b06a738dfa4acfac99bd6835666d8e4a24749be9d42b256cbdeb42",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.41.34120-1e464b7c0fb44f9ead96b6cd548e9513.7z"
+    },
+    ["windows-x86-vc14.29.30133-257ed7bc29244e1aa212b66751140d68"] = {
+        toolset = "14.29.30133",
+        sha256 = "261529a81c5ee724d258fa7d425a6cc8ad1540a58b3c5450a2e49ebf6a6409c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-257ed7bc29244e1aa212b66751140d68.7z"
+    },
+    ["windows-x86-vc14.41.34120-257ed7bc29244e1aa212b66751140d68"] = {
+        toolset = "14.41.34120",
+        sha256 = "9ec57de15908b14dc3438843528a057a74411f8ef556bf4fb9a61cd7c1cd3b43",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.41.34120-257ed7bc29244e1aa212b66751140d68.7z"
+    },
+    ["windows-x86-vc14.41.34120-893d6bf2921840378c9f28fdacf5455c"] = {
+        toolset = "14.41.34120",
+        sha256 = "1be18717b575159660f9636d5260835e2fc91a1370359bb96bea9822bc0424d8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.41.34120-893d6bf2921840378c9f28fdacf5455c.7z"
+    },
+    ["windows-x64-vc14.38.33130-016bf1beb9c64d3692cf42686056f496"] = {
+        toolset = "14.38.33130",
+        sha256 = "7d18c07f04a3a1aee25c29f512caec3e80413c3255e19d5d7f9973763ed5c4eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.38.33130-016bf1beb9c64d3692cf42686056f496.7z"
+    },
+    ["windows-x86-vc14.38.33130-893d6bf2921840378c9f28fdacf5455c"] = {
+        toolset = "14.38.33130",
+        sha256 = "91d532bd604cf47dc1baa56196ff792c30c65a5146249af7ea9dcc41847205ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-893d6bf2921840378c9f28fdacf5455c.7z"
+    },
+    ["windows-x64-vc14.40.33807-09b66d0aa6a949a3be60e26e28921679"] = {
+        toolset = "14.40.33807",
+        sha256 = "41b05e3c1b8206f35619c9c278404b52c7a3fa00e74a0055dee0369ca2899032",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x64-vc14.40.33807-09b66d0aa6a949a3be60e26e28921679.7z"
     },
     ["windows-x86-vc14.29.30133-893d6bf2921840378c9f28fdacf5455c"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-893d6bf2921840378c9f28fdacf5455c.7z",
-        sha256 = "beb30564fc5eebffc7b7f17ae11b84ffaf524650cb4022d6ae28335c39f34501"
+        sha256 = "62561266cb9a1286f3ffc9a5e1390ddb794b0ec2b47d8082a91282882c5a1850",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.29.30133-893d6bf2921840378c9f28fdacf5455c.7z"
+    },
+    ["windows-x86-vc14.38.33130-1e464b7c0fb44f9ead96b6cd548e9513"] = {
+        toolset = "14.38.33130",
+        sha256 = "2e4080b79f1fb512bace099941a4d37129dbaad9861a983ab043397dc0506510",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/expat-2.6.2/windows-x86-vc14.38.33130-1e464b7c0fb44f9ead96b6cd548e9513.7z"
     }
 }
