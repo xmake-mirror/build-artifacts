@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-8ce1c8ebb4d04057a3c721d71dc8ca1b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-8ce1c8ebb4d04057a3c721d71dc8ca1b.7z",
-        sha256 = "a78d5d1c15b1e5b24a8af24145058aae2b958b502345607a9d637d79563c0783"
-    },
-    ["windows-x64-vc14.29.30133-cd313d0b3ebb4df38d86e76c8ae248fc"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-cd313d0b3ebb4df38d86e76c8ae248fc.7z",
-        sha256 = "131beba6c9c69b9a8ade343320e442c8cacd92cf96dbd60ed77c5b865319781e"
-    },
-    ["windows-x64-vc14.29.30133-bc85633e409f47fda13bdf141196ccd3"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-bc85633e409f47fda13bdf141196ccd3.7z",
-        sha256 = "ba5e6b89c4af64706b514fe540c7b3acd1ac1e67b547e3363438da993833dc5a"
-    },
-    ["windows-x64-vc14.40.33807-cd313d0b3ebb4df38d86e76c8ae248fc"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-cd313d0b3ebb4df38d86e76c8ae248fc.7z",
-        sha256 = "478439679cedb1e4cc7ec8bcc18ea34cc2c133da1629c63e155e2ad9531a1463"
-    },
-    ["windows-x64-vc14.40.33807-abf9c1706adc480382fda0d0f94293cc"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-abf9c1706adc480382fda0d0f94293cc.7z",
-        sha256 = "0b8b349cd17a27b85d1a397654569ecb2b17419c3230cd104bf9594f814d247a"
+    ["windows-x86-vc14.41.34120-0980ff699a8e4b17b7233be783647c6f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.41.34120-0980ff699a8e4b17b7233be783647c6f.7z",
+        toolset = "14.41.34120",
+        sha256 = "79458ef558ecf3b992ed6f9e47877772ef63ed193978ded4144c1bc3c8c0a07e"
     },
     ["windows-x86-vc14.29.30133-5426e84c46494124a52ddf5affb57d8a"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.29.30133-5426e84c46494124a52ddf5affb57d8a.7z",
-        sha256 = "bb282d51617bb15ca32c62ac8a3733a814bfe6f70a707231531886c88521b7a4"
-    },
-    ["windows-x86-vc14.40.33807-5426e84c46494124a52ddf5affb57d8a"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-5426e84c46494124a52ddf5affb57d8a.7z",
-        sha256 = "8f6dbbeedeeeb57b5154e3a938a9f868be40bcc90821dd44b225d002ea9ee8ff"
-    },
-    ["windows-x86-vc14.29.30133-fb8d728449804d0b91cce8f98f1d51a3"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.29.30133-fb8d728449804d0b91cce8f98f1d51a3.7z",
-        sha256 = "9e3111c95206be81708aa520a78a2fb9abd5bbd752e63ed00e7590c3e1e80062"
+        sha256 = "21561d0ca1394c2780cf73cdd86aaa355fac28d705a64065fdb39f4b87a3f877"
     },
-    ["windows-x64-vc14.29.30133-abf9c1706adc480382fda0d0f94293cc"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-abf9c1706adc480382fda0d0f94293cc.7z",
-        sha256 = "472882e182cff51f0f176e68abdb8971f9f9a7d2a8bf938b552a4167cdcbbc43"
-    },
-    ["windows-x64-vc14.40.33807-8ce1c8ebb4d04057a3c721d71dc8ca1b"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-8ce1c8ebb4d04057a3c721d71dc8ca1b.7z",
-        sha256 = "a2df6ea84356b2c9e21bbef61b6ef2098c058050db4bec68b73066115d87972c"
-    },
-    ["windows-x86-vc14.40.33807-fb8d728449804d0b91cce8f98f1d51a3"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-fb8d728449804d0b91cce8f98f1d51a3.7z",
-        sha256 = "83ce9a20339bdce8315713cd394cb71686c4fb914ce782f00f129a866db9d40e"
+    ["windows-x86-vc14.41.34120-5426e84c46494124a52ddf5affb57d8a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.41.34120-5426e84c46494124a52ddf5affb57d8a.7z",
+        toolset = "14.41.34120",
+        sha256 = "9378cb7e4de1daef36393bc6f50962925815fc9f8bbdd5023f1fe9e069ca88e3"
     },
     ["windows-x86-vc14.29.30133-032c7a390e4547078ec7079be6fc1fde"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.29.30133-032c7a390e4547078ec7079be6fc1fde.7z",
-        sha256 = "a227fc79377a081902e660e25364e328a6e50ab3f2dabffa5eaaa133a00cde90"
-    },
-    ["windows-x86-vc14.29.30133-0980ff699a8e4b17b7233be783647c6f"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.29.30133-0980ff699a8e4b17b7233be783647c6f.7z",
-        sha256 = "c37eafa62ad35f3d2e3148459610a973f0741219ac8c75aab1ef3f6b36084d58"
-    },
-    ["windows-x86-vc14.40.33807-0980ff699a8e4b17b7233be783647c6f"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-0980ff699a8e4b17b7233be783647c6f.7z",
-        sha256 = "87ac2640e121400a0b40911e151f0901373c241b3444465c780b672f114f9d1a"
-    },
-    ["windows-x86-vc14.40.33807-032c7a390e4547078ec7079be6fc1fde"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-032c7a390e4547078ec7079be6fc1fde.7z",
-        sha256 = "10304ea821934635954c24ecdeada9d4f45cf3ffd0ac90146c1adfa36c55b296"
+        sha256 = "9f936f86c9ddb9d2afc46debf0dfb221025fcafdec0cadec677596d0c614a670"
     },
     ["windows-x64-vc14.40.33807-bc85633e409f47fda13bdf141196ccd3"] = {
-        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-bc85633e409f47fda13bdf141196ccd3.7z",
+        toolset = "14.40.33807",
         sha256 = "b0baf9976b4e1f0dc287258ddb5d52c21cc30e55f94af0b477dc7272d415e103"
+    },
+    ["windows-x64-vc14.29.30133-cd313d0b3ebb4df38d86e76c8ae248fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-cd313d0b3ebb4df38d86e76c8ae248fc.7z",
+        toolset = "14.29.30133",
+        sha256 = "1e5db264017760e56db46c1d5db77d214e32f41369ba71143e9586b3becc0771"
+    },
+    ["windows-x86-vc14.40.33807-032c7a390e4547078ec7079be6fc1fde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-032c7a390e4547078ec7079be6fc1fde.7z",
+        toolset = "14.40.33807",
+        sha256 = "10304ea821934635954c24ecdeada9d4f45cf3ffd0ac90146c1adfa36c55b296"
+    },
+    ["windows-x64-vc14.40.33807-8ce1c8ebb4d04057a3c721d71dc8ca1b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-8ce1c8ebb4d04057a3c721d71dc8ca1b.7z",
+        toolset = "14.40.33807",
+        sha256 = "a2df6ea84356b2c9e21bbef61b6ef2098c058050db4bec68b73066115d87972c"
+    },
+    ["windows-x86-vc14.29.30133-fb8d728449804d0b91cce8f98f1d51a3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.29.30133-fb8d728449804d0b91cce8f98f1d51a3.7z",
+        toolset = "14.29.30133",
+        sha256 = "076f0c3396d8ec91513f861136226591d23ad6b3b32e4046877b9a09f38cb9f3"
+    },
+    ["windows-x64-vc14.41.34120-8ce1c8ebb4d04057a3c721d71dc8ca1b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.41.34120-8ce1c8ebb4d04057a3c721d71dc8ca1b.7z",
+        toolset = "14.41.34120",
+        sha256 = "e0d1f336c8c246ee282bcfba6774bc4a3e69caa8d3e7b44780878f10757e874f"
+    },
+    ["windows-x64-vc14.29.30133-bc85633e409f47fda13bdf141196ccd3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-bc85633e409f47fda13bdf141196ccd3.7z",
+        toolset = "14.29.30133",
+        sha256 = "b665266b9c97e184abe97b87d09945747db3a5bd09bc1476a5d0c62e13d161f0"
+    },
+    ["windows-x64-vc14.40.33807-cd313d0b3ebb4df38d86e76c8ae248fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-cd313d0b3ebb4df38d86e76c8ae248fc.7z",
+        toolset = "14.40.33807",
+        sha256 = "478439679cedb1e4cc7ec8bcc18ea34cc2c133da1629c63e155e2ad9531a1463"
+    },
+    ["windows-x64-vc14.41.34120-cd313d0b3ebb4df38d86e76c8ae248fc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.41.34120-cd313d0b3ebb4df38d86e76c8ae248fc.7z",
+        toolset = "14.41.34120",
+        sha256 = "eb9533bbf2f3b8779e0dae4e6367947a4dbb044052fb99165d89b85125c347e2"
+    },
+    ["windows-x86-vc14.40.33807-0980ff699a8e4b17b7233be783647c6f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-0980ff699a8e4b17b7233be783647c6f.7z",
+        toolset = "14.40.33807",
+        sha256 = "87ac2640e121400a0b40911e151f0901373c241b3444465c780b672f114f9d1a"
+    },
+    ["windows-x86-vc14.40.33807-fb8d728449804d0b91cce8f98f1d51a3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-fb8d728449804d0b91cce8f98f1d51a3.7z",
+        toolset = "14.40.33807",
+        sha256 = "83ce9a20339bdce8315713cd394cb71686c4fb914ce782f00f129a866db9d40e"
+    },
+    ["windows-x64-vc14.29.30133-abf9c1706adc480382fda0d0f94293cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-abf9c1706adc480382fda0d0f94293cc.7z",
+        toolset = "14.29.30133",
+        sha256 = "5c899ad8ba33e37355a3b2bad6027c73ea6fc16ca19db93a2108e107a6422339"
+    },
+    ["windows-x86-vc14.40.33807-5426e84c46494124a52ddf5affb57d8a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.40.33807-5426e84c46494124a52ddf5affb57d8a.7z",
+        toolset = "14.40.33807",
+        sha256 = "8f6dbbeedeeeb57b5154e3a938a9f868be40bcc90821dd44b225d002ea9ee8ff"
+    },
+    ["windows-x86-vc14.29.30133-0980ff699a8e4b17b7233be783647c6f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.29.30133-0980ff699a8e4b17b7233be783647c6f.7z",
+        toolset = "14.29.30133",
+        sha256 = "4255749c6eba57cac2d67d6f61ce5bf26a43e6fa3677544342aa3671606df74e"
+    },
+    ["windows-x64-vc14.40.33807-abf9c1706adc480382fda0d0f94293cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.40.33807-abf9c1706adc480382fda0d0f94293cc.7z",
+        toolset = "14.40.33807",
+        sha256 = "0b8b349cd17a27b85d1a397654569ecb2b17419c3230cd104bf9594f814d247a"
+    },
+    ["windows-x64-vc14.41.34120-abf9c1706adc480382fda0d0f94293cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.41.34120-abf9c1706adc480382fda0d0f94293cc.7z",
+        toolset = "14.41.34120",
+        sha256 = "bd9456c572c453a475148e2bb8ebcc28a83084be01edb5e2b8a463671cfacaaa"
+    },
+    ["windows-x86-vc14.41.34120-032c7a390e4547078ec7079be6fc1fde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.41.34120-032c7a390e4547078ec7079be6fc1fde.7z",
+        toolset = "14.41.34120",
+        sha256 = "e6622b6f745c45d1e7f1c82c508a5faaae19883a8e9ad3172365118cccc501f7"
+    },
+    ["windows-x86-vc14.41.34120-fb8d728449804d0b91cce8f98f1d51a3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x86-vc14.41.34120-fb8d728449804d0b91cce8f98f1d51a3.7z",
+        toolset = "14.41.34120",
+        sha256 = "ae45832268b4f2d62c26a832cb606a2dc9915f8cafa547de63b56477efd18111"
+    },
+    ["windows-x64-vc14.41.34120-bc85633e409f47fda13bdf141196ccd3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.41.34120-bc85633e409f47fda13bdf141196ccd3.7z",
+        toolset = "14.41.34120",
+        sha256 = "db6c156f8920fb34701a9b32f229a737acf6df9a372474ebfd24dfb3312974d4"
+    },
+    ["windows-x64-vc14.29.30133-8ce1c8ebb4d04057a3c721d71dc8ca1b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pango-1.51.1/windows-x64-vc14.29.30133-8ce1c8ebb4d04057a3c721d71dc8ca1b.7z",
+        toolset = "14.29.30133",
+        sha256 = "76f801370ae28b45e0e39c15e2fc07ecfc457051006c3b145bf4e677c2ca6738"
     }
 }
