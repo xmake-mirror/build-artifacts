@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.40.33807-09d045df73034a7ba68a4f7a14f97f0c"] = {
-        sha256 = "295f8824bca953f4b4035936089929f6341c03ed4810f060717c3d8a0239e239",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.40.33807-09d045df73034a7ba68a4f7a14f97f0c.7z",
-        toolset = "14.40.33807"
+    ["windows-x64-vc14.41.34120-bd15684d566f4d25b2feb69356c66d20"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.41.34120-bd15684d566f4d25b2feb69356c66d20.7z",
+        sha256 = "195669ca6ae60fe6da1ddd1b2cc5aff44ae8b589e39e84072730336760968af3"
     },
     ["windows-x64-vc14.29.30133-09d045df73034a7ba68a4f7a14f97f0c"] = {
-        sha256 = "ab9d97559edad2e10a1b3c488569d73a921d1c76bb0d1627298721e850896f35",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-09d045df73034a7ba68a4f7a14f97f0c.7z",
-        toolset = "14.29.30133"
+        sha256 = "6b28868ba7b6925dbf7421e2736dbff15bf2ab417e30c9e1704fa3f1a186a4fa"
     },
-    ["windows-x86-vc14.40.33807-0fc40501b2704ebe8af37a0424c32ded"] = {
-        sha256 = "bb86184206574672df010fc15fe9e6d8d12ad0b76ecfd8f1a9f02bc239d805f0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.40.33807-0fc40501b2704ebe8af37a0424c32ded.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-9db011aa6ec447a1a7f4158609541908"] = {
-        sha256 = "45760e310a850c6c16970483c48452887a43051618e1c1ef3e77a9bd2a7785e5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-9db011aa6ec447a1a7f4158609541908.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-2c6d43fe26d14551ad600546148fff5a"] = {
-        sha256 = "74ffabb6d1d311bb0874a5a1ce70ccc7331f623971360a4f1e4f2a83e7c5fd89",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.40.33807-2c6d43fe26d14551ad600546148fff5a.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-c374eff99d9742a585bd3551dce6c7a5"] = {
-        sha256 = "ba6482201240b04cd3f7fb260340792e26e315ad1b62f23390e3e434e5b6bc80",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-c374eff99d9742a585bd3551dce6c7a5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-730d78f09d87404fbb814ffad3ab326d"] = {
-        sha256 = "2b4fe109deb42cb66de7330321351b8727b03c0fef0451ef02c2a4cb8db14385",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-730d78f09d87404fbb814ffad3ab326d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-0fc40501b2704ebe8af37a0424c32ded"] = {
-        sha256 = "5d018cd7dc8e9f47955d4ed890055548741e0ac8c832d581e130c076fa63db88",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-0fc40501b2704ebe8af37a0424c32ded.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-2c6d43fe26d14551ad600546148fff5a"] = {
-        sha256 = "4f3832205d4a8b61f2869ee173b0ff25f7163bd6e6eb5c8bc8fdf5a6bd018a88",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-2c6d43fe26d14551ad600546148fff5a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-bd15684d566f4d25b2feb69356c66d20"] = {
-        sha256 = "2ec99ffc3d0b63b03d682a8f0da8f96127836eb9588c6ad98a5d925d989aeeb1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.40.33807-bd15684d566f4d25b2feb69356c66d20.7z",
-        toolset = "14.40.33807"
+    ["windows-x86-vc14.41.34120-2c6d43fe26d14551ad600546148fff5a"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.41.34120-2c6d43fe26d14551ad600546148fff5a.7z",
+        sha256 = "1f0392ed3c3d0b1df35f677c0eb67d50a9126c287100509bf47c67aa78e4b3c3"
     },
     ["windows-x64-vc14.40.33807-9db011aa6ec447a1a7f4158609541908"] = {
-        sha256 = "2d8fd5b8d4e666134ee94e3151959e70aa02a2fdc09a9e050e72507190b16bd1",
+        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.40.33807-9db011aa6ec447a1a7f4158609541908.7z",
-        toolset = "14.40.33807"
+        sha256 = "2d8fd5b8d4e666134ee94e3151959e70aa02a2fdc09a9e050e72507190b16bd1"
+    },
+    ["windows-x86-vc14.29.30133-2c6d43fe26d14551ad600546148fff5a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-2c6d43fe26d14551ad600546148fff5a.7z",
+        sha256 = "5b2712cc8bd61b412c51804551fcd80795cd43a75f9250b2212f49534ccde3e5"
+    },
+    ["windows-x64-vc14.41.34120-09d045df73034a7ba68a4f7a14f97f0c"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.41.34120-09d045df73034a7ba68a4f7a14f97f0c.7z",
+        sha256 = "b842624d5ae8db2cf5e95c56b2fae4bf70e234f6639674766f3889fefe15e9ba"
+    },
+    ["windows-x86-vc14.29.30133-c374eff99d9742a585bd3551dce6c7a5"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-c374eff99d9742a585bd3551dce6c7a5.7z",
+        sha256 = "50b405fc536cb2ecaa3cf636346e6c6c6a89a383d537fec0111fc59833da9fe2"
+    },
+    ["windows-x86-vc14.29.30133-0fc40501b2704ebe8af37a0424c32ded"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-0fc40501b2704ebe8af37a0424c32ded.7z",
+        sha256 = "114d0b404da603d65ccf1f6c7928fb24aaeb204c5bc77eef72c2387ded3fe084"
+    },
+    ["windows-x86-vc14.41.34120-0fc40501b2704ebe8af37a0424c32ded"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.41.34120-0fc40501b2704ebe8af37a0424c32ded.7z",
+        sha256 = "2b57023340f593902eac094cee396e783ad97656c583ebb84a43526dad59db8c"
+    },
+    ["windows-x86-vc14.41.34120-f85e98190a8648f09c7dba5a8f307371"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.41.34120-f85e98190a8648f09c7dba5a8f307371.7z",
+        sha256 = "17874b666b880b7a04934d7f1f695628c50d71cfcb6c6aba06873aa3c2dc274f"
+    },
+    ["windows-x64-vc14.40.33807-bd15684d566f4d25b2feb69356c66d20"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.40.33807-bd15684d566f4d25b2feb69356c66d20.7z",
+        sha256 = "2ec99ffc3d0b63b03d682a8f0da8f96127836eb9588c6ad98a5d925d989aeeb1"
+    },
+    ["windows-x86-vc14.41.34120-c374eff99d9742a585bd3551dce6c7a5"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.41.34120-c374eff99d9742a585bd3551dce6c7a5.7z",
+        sha256 = "cab9b83d18a940052c19e9e34458eaffc329ff5002bc30da90d228ff6ec1781b"
+    },
+    ["windows-x64-vc14.29.30133-730d78f09d87404fbb814ffad3ab326d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-730d78f09d87404fbb814ffad3ab326d.7z",
+        sha256 = "190cf35dade62cda21aab5a56ebdefa58031f8582237b97117871ececc674902"
     },
     ["windows-x86-vc14.40.33807-c374eff99d9742a585bd3551dce6c7a5"] = {
-        sha256 = "bfd86fb3277b0a6f7beb94edcc194c758085b61cb4054b4c1f7a25655aa515a4",
+        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.40.33807-c374eff99d9742a585bd3551dce6c7a5.7z",
-        toolset = "14.40.33807"
+        sha256 = "bfd86fb3277b0a6f7beb94edcc194c758085b61cb4054b4c1f7a25655aa515a4"
     },
     ["windows-x86-vc14.29.30133-f85e98190a8648f09c7dba5a8f307371"] = {
-        sha256 = "04649bf4b0812f089457bea965d4121b2474d7b18f9cc71a87a7aa1ce1a39faa",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.29.30133-f85e98190a8648f09c7dba5a8f307371.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-bd15684d566f4d25b2feb69356c66d20"] = {
-        sha256 = "7597bbf2026fa1654f23375b6547e9a31e4cf44f5a007f97c45bf0fd61260ac9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-bd15684d566f4d25b2feb69356c66d20.7z",
-        toolset = "14.29.30133"
+        sha256 = "a6c926d8209a34168708ebda46540bb05662d1611da6265649721dd25626da5f"
     },
     ["windows-x86-vc14.40.33807-f85e98190a8648f09c7dba5a8f307371"] = {
-        sha256 = "edf5517ddea49fe18c71c7e08c7a09d2beac3bd3c381198d0013b4acda0734a3",
+        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.40.33807-f85e98190a8648f09c7dba5a8f307371.7z",
-        toolset = "14.40.33807"
+        sha256 = "edf5517ddea49fe18c71c7e08c7a09d2beac3bd3c381198d0013b4acda0734a3"
+    },
+    ["windows-x86-vc14.40.33807-2c6d43fe26d14551ad600546148fff5a"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.40.33807-2c6d43fe26d14551ad600546148fff5a.7z",
+        sha256 = "74ffabb6d1d311bb0874a5a1ce70ccc7331f623971360a4f1e4f2a83e7c5fd89"
+    },
+    ["windows-x64-vc14.40.33807-09d045df73034a7ba68a4f7a14f97f0c"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.40.33807-09d045df73034a7ba68a4f7a14f97f0c.7z",
+        sha256 = "295f8824bca953f4b4035936089929f6341c03ed4810f060717c3d8a0239e239"
+    },
+    ["windows-x64-vc14.29.30133-bd15684d566f4d25b2feb69356c66d20"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-bd15684d566f4d25b2feb69356c66d20.7z",
+        sha256 = "32c0f20caffaf77e2147860ab0ef06c7a8b9679e78df2a13ab69321c9d21a96e"
+    },
+    ["windows-x64-vc14.41.34120-730d78f09d87404fbb814ffad3ab326d"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.41.34120-730d78f09d87404fbb814ffad3ab326d.7z",
+        sha256 = "8452cefdfc4dd0d4d3ed416b1d6d5ada02e07b7ac4d7bf3ff1d2d0f2e4f1bb44"
+    },
+    ["windows-x64-vc14.29.30133-9db011aa6ec447a1a7f4158609541908"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.29.30133-9db011aa6ec447a1a7f4158609541908.7z",
+        sha256 = "d384220c24b11e6e3560637e52a4fa460bd3af33756cb0f3c9771a3df2afd983"
     },
     ["windows-x64-vc14.40.33807-730d78f09d87404fbb814ffad3ab326d"] = {
-        sha256 = "477400250c67d5f9f56f3d2d46346bef3448b0efc29294bbc124c6f160ea53a8",
+        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.40.33807-730d78f09d87404fbb814ffad3ab326d.7z",
-        toolset = "14.40.33807"
+        sha256 = "477400250c67d5f9f56f3d2d46346bef3448b0efc29294bbc124c6f160ea53a8"
+    },
+    ["windows-x64-vc14.41.34120-9db011aa6ec447a1a7f4158609541908"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x64-vc14.41.34120-9db011aa6ec447a1a7f4158609541908.7z",
+        sha256 = "625da0ed64b5efb43bf3cc572910794dba148962d0ad2f14654259ae831c0d99"
+    },
+    ["windows-x86-vc14.40.33807-0fc40501b2704ebe8af37a0424c32ded"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flann-1.9.2/windows-x86-vc14.40.33807-0fc40501b2704ebe8af37a0424c32ded.7z",
+        sha256 = "bb86184206574672df010fc15fe9e6d8d12ad0b76ecfd8f1a9f02bc239d805f0"
     }
 }
