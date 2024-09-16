@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        sha256 = "527601de32710d65d2ce0639582f50a29b2b140ccd424370a0050b7af2516037",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
-        sha256 = "b87ce1f228310dd6ffc9c96909abdf6faefae8476137ae67cf6e24146a466651",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b"] = {
-        sha256 = "eb3fda2aeb9c87e835d29b9b12f3f22f253f3bf81122f1503b8a2efc0a734f01",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-12a82e449dac4f8793535dd4c47b6404"] = {
-        sha256 = "044df5eef6759eecc9697284510aa40e8c3a0634a0bec0e8903455377fdaf5ed",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-12a82e449dac4f8793535dd4c47b6404.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
-        sha256 = "2e2e5c8c3ab37ddbc3c4db778b0d8a13077a8af933aa463ab0c52258e61f888e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b"] = {
-        sha256 = "69da853ce60fa4ad697c15a3b785ee753bc475ee47b20ea125d40878c7153cd5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
-        sha256 = "fe7d3831ffc9650287853b38d04bd4de9f854f6a78f818ae8a9af58fde3facfe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-b1caf5aecf3447d1bfaf66081135de32"] = {
-        sha256 = "49ef3aa6c8b8871bc5553de8cfa39ad346467724eb152dbd69ca6c86d7282bfa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-b1caf5aecf3447d1bfaf66081135de32.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789"] = {
-        sha256 = "9965f8a944e3e536c6c581000d52558eab10e314e98c62c95419e2fe19c3e2bb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
-        sha256 = "dfd325cab54008964b12cad9072359c60d8095a199524ecdc21d8c3d880afdd1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        sha256 = "90c08373b4894cfddc48b5dfb09b426cab97c92f83f8996f73a94c839446a3f0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+    ["windows-x64-vc14.29.30133-9f2d73e883684ec3ba6023559e62cd67"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-9f2d73e883684ec3ba6023559e62cd67.7z",
+        sha256 = "461491438f6e60b22bf49e45d676e1e6dc4a54fdd10a36a288e44276df621649",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.41.34120-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        sha256 = "5347a4ce21d831e8c45a1a36a3af2e891bcbf2d1e0dea30539b0e32a5edf9bca",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        sha256 = "5347a4ce21d831e8c45a1a36a3af2e891bcbf2d1e0dea30539b0e32a5edf9bca",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
-        sha256 = "0f99fdaa9b78803b8a0446e83bbbe85f5e81e2b6bb09156bac7b16793d34eb55",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
+    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        sha256 = "90c08373b4894cfddc48b5dfb09b426cab97c92f83f8996f73a94c839446a3f0",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
-        sha256 = "3d793ed3cf9f8e9eccc4a1c6a743dec06a063c6d01b40e5870c4ae44386d6fff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
+    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
+        sha256 = "2e2e5c8c3ab37ddbc3c4db778b0d8a13077a8af933aa463ab0c52258e61f888e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
+        sha256 = "b87ce1f228310dd6ffc9c96909abdf6faefae8476137ae67cf6e24146a466651",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-501259956019477196ef7ba9914d0597"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-501259956019477196ef7ba9914d0597.7z",
+        sha256 = "762d4d7f5b9f6405b2092621d2dd348e05a4e21443c5da0c40fa500f52f2bc10",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        sha256 = "d20717414b4a9cbf0bb5e4428e7496f00b9fe5afdc7afeeda3ef041e966b151a",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b.7z",
+        sha256 = "eb3fda2aeb9c87e835d29b9b12f3f22f253f3bf81122f1503b8a2efc0a734f01",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-c018b4d3ffa64fddb77f16f6deed36aa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-c018b4d3ffa64fddb77f16f6deed36aa.7z",
+        sha256 = "e73db6764d6012881d611f3d029cb6e3820e08d031a1128de015bff4dac363d6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-33081cb8ecea4121ba9de406bc5de7dd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-33081cb8ecea4121ba9de406bc5de7dd.7z",
+        sha256 = "69609b765eac9f16b654e10a3882cea5c2b56749dc5968b60690213bf4e534d5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
+        sha256 = "dfd325cab54008964b12cad9072359c60d8095a199524ecdc21d8c3d880afdd1",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-af705bc0e66f4f108a3a47c7ee859189"] = {
-        sha256 = "7a86b1f7cf68f553f225887b101512d8f93d0d70bd87d157cdbaa4c5c12a4989",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-af705bc0e66f4f108a3a47c7ee859189.7z",
+        sha256 = "7a86b1f7cf68f553f225887b101512d8f93d0d70bd87d157cdbaa4c5c12a4989",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.41.34120-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        sha256 = "d20717414b4a9cbf0bb5e4428e7496f00b9fe5afdc7afeeda3ef041e966b151a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+    ["windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789.7z",
+        sha256 = "9965f8a944e3e536c6c581000d52558eab10e314e98c62c95419e2fe19c3e2bb",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-848735399cf942d999387114f24f5288"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-848735399cf942d999387114f24f5288.7z",
+        sha256 = "398621c10406c417f643e1345f846b0fc687520c244b6ffa3178dc3c8e88e594",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-f7e427e7c14943d2b9511a545ff479d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-f7e427e7c14943d2b9511a545ff479d8.7z",
+        sha256 = "c7066276d4f8302e0699e741ecb8ad588db2fa048df68fabf4a74ae94dcedd37",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-6aa24863ce3a41ca8d4c072480843f6c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-6aa24863ce3a41ca8d4c072480843f6c.7z",
+        sha256 = "d84992590c42b975ec5c2de17340a271dc4c90d3e3a3595b6b412c850b7b26e6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-f7e427e7c14943d2b9511a545ff479d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-f7e427e7c14943d2b9511a545ff479d8.7z",
+        sha256 = "0537d502a08a615a0d2c8f95130f497f49786e226a963c11b3dc5939f3634aa0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-c018b4d3ffa64fddb77f16f6deed36aa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-c018b4d3ffa64fddb77f16f6deed36aa.7z",
+        sha256 = "e28fef70e17d438be8bd944b1f3f266a031a5b64ba22aba15d4223402aabc765",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
+        sha256 = "fe7d3831ffc9650287853b38d04bd4de9f854f6a78f818ae8a9af58fde3facfe",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-6aa24863ce3a41ca8d4c072480843f6c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-6aa24863ce3a41ca8d4c072480843f6c.7z",
+        sha256 = "dd09e863781bad7f13c45cc86c783084f3a59d9d560babcca24e4be78a861817",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-b1caf5aecf3447d1bfaf66081135de32"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-b1caf5aecf3447d1bfaf66081135de32.7z",
+        sha256 = "49ef3aa6c8b8871bc5553de8cfa39ad346467724eb152dbd69ca6c86d7282bfa",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-12a82e449dac4f8793535dd4c47b6404"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-12a82e449dac4f8793535dd4c47b6404.7z",
+        sha256 = "044df5eef6759eecc9697284510aa40e8c3a0634a0bec0e8903455377fdaf5ed",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
+        sha256 = "3d793ed3cf9f8e9eccc4a1c6a743dec06a063c6d01b40e5870c4ae44386d6fff",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-848735399cf942d999387114f24f5288"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-848735399cf942d999387114f24f5288.7z",
+        sha256 = "aa10d680d246766124164a38daecb4450085fad1bad6603d10b4c61e9d811fa1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
+        sha256 = "0f99fdaa9b78803b8a0446e83bbbe85f5e81e2b6bb09156bac7b16793d34eb55",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        sha256 = "527601de32710d65d2ce0639582f50a29b2b140ccd424370a0050b7af2516037",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-33081cb8ecea4121ba9de406bc5de7dd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-33081cb8ecea4121ba9de406bc5de7dd.7z",
+        sha256 = "a8e212b79de09e3b92a2bf5f4bf12a159b2dfc0b9f46735f5d83d9614dd7d89d",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-8af00f79a08740f38b782655eb523008"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.29.30133-8af00f79a08740f38b782655eb523008.7z",
+        sha256 = "5d9f2d96daa603672611a4c570fc5c37a6ca128731d17e13fe4b91caa20afc79",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-501259956019477196ef7ba9914d0597"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-501259956019477196ef7ba9914d0597.7z",
+        sha256 = "369e4d251dfb3446a07e4d6925751fcc2cbaeddaa69c9499df06621c540e5d6f",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-9f2d73e883684ec3ba6023559e62cd67"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x64-vc14.41.34120-9f2d73e883684ec3ba6023559e62cd67.7z",
+        sha256 = "93204740f36cd031d17f94c41d6b51aa5951f39a10d78b2f37ed0f74de10c862",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b.7z",
+        sha256 = "69da853ce60fa4ad697c15a3b785ee753bc475ee47b20ea125d40878c7153cd5",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-8af00f79a08740f38b782655eb523008"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osqp-v0.6.3/windows-x86-vc14.41.34120-8af00f79a08740f38b782655eb523008.7z",
+        sha256 = "3b2bdfe9fd19dec75645728e39265a588e937d7f0a5338f70b49cb80094f5e06",
         toolset = "14.41.34120"
     }
 }
