@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.41.34120-5abe926d043c4345b3c46c865ff6caa9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-5abe926d043c4345b3c46c865ff6caa9.7z",
-        toolset = "14.41.34120",
-        sha256 = "b72264ab5fccf12f3c8f9aa9596fdaaea09521357c7fd66bf232662d8c74eed2"
-    },
-    ["windows-x86-vc14.29.30133-517e2f5d943b4951810319a3c3b630a2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-517e2f5d943b4951810319a3c3b630a2.7z",
-        toolset = "14.29.30133",
-        sha256 = "720651f16663cdcc71fce681476a7cfdf6335380f2d24cf5b35bcf713f9f6ed4"
-    },
-    ["windows-x64-vc14.29.30133-d414de7842b041ccb37cceffca00a103"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-d414de7842b041ccb37cceffca00a103.7z",
-        toolset = "14.29.30133",
-        sha256 = "dddbd41b12cb54a335e5bf83f8d410d494fb7a25ea62c401ec7b18821f10f5da"
+    ["windows-x86-vc14.29.30133-094fbee243f340c68df16e49369be576"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-094fbee243f340c68df16e49369be576.7z",
+        sha256 = "cb42ad3aa5ca58a5ec9c51d9ff65478256f242fa8cbdd5ac2b27697cafad428d",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.41.34120-528a51cc0f6d4d958c6d832b5cbcd50f"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-528a51cc0f6d4d958c6d832b5cbcd50f.7z",
-        toolset = "14.41.34120",
-        sha256 = "7a98d35672881e5d710664ea5e2a85cfa9aac161ec4f32ccd22f92a0cf670718"
+        sha256 = "7a98d35672881e5d710664ea5e2a85cfa9aac161ec4f32ccd22f92a0cf670718",
+        toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.41.34120-bf43c4d1d2f449da963d1f4289959eda"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-bf43c4d1d2f449da963d1f4289959eda.7z",
-        toolset = "14.41.34120",
-        sha256 = "5998cc21530481cefbaae1e3aff8f316fba90a64a79eae5509b079d031ac3ecc"
+    ["windows-x86-vc14.29.30133-8a7fb273360442809438bd803fd127ee"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-8a7fb273360442809438bd803fd127ee.7z",
+        sha256 = "42d03d6d20931fc126af0bbf811d9333ef3b19d371d9a61b1c17bacb3b93dbd1",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-36933979a6974be29334645bf287fb8c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-36933979a6974be29334645bf287fb8c.7z",
-        toolset = "14.29.30133",
-        sha256 = "eff6bd0890cd1a2215bc12ca985de8bc8bca773a181d4b11855a1f349b3f34da"
+    ["windows-x86-vc14.41.34120-094fbee243f340c68df16e49369be576"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-094fbee243f340c68df16e49369be576.7z",
+        sha256 = "93fef7e00a4065d04de9083cc61bee3da4231b6d4b5ad0641936ec734aa23edc",
+        toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-282e70c108914028919b86600d0eab27"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-282e70c108914028919b86600d0eab27.7z",
-        toolset = "14.29.30133",
-        sha256 = "fb4cb9e84cddcd0da6a1bad58cb119854a8969abf177c87d5596303967cb72b1"
-    },
-    ["windows-x86-vc14.41.34120-282e70c108914028919b86600d0eab27"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-282e70c108914028919b86600d0eab27.7z",
-        toolset = "14.41.34120",
-        sha256 = "4435fe9b1d2e2fdb11483e76b730a470fe1605c25f0f7c0dcc114190712c90af"
-    },
-    ["windows-x86-vc14.41.34120-cfc5c1176f204cfe99f72a41a9bdc3ab"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-cfc5c1176f204cfe99f72a41a9bdc3ab.7z",
-        toolset = "14.41.34120",
-        sha256 = "d9a3da8238ddff766867e23238caed284cd78f1fca906fe64db2ed7d301b06cc"
-    },
-    ["windows-x64-vc14.29.30133-5abe926d043c4345b3c46c865ff6caa9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-5abe926d043c4345b3c46c865ff6caa9.7z",
-        toolset = "14.29.30133",
-        sha256 = "1296f46c2c484bfe7add7eac0aec31ce16a8d3a1afca3c012009622e80da5643"
-    },
-    ["windows-x64-vc14.29.30133-528a51cc0f6d4d958c6d832b5cbcd50f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-528a51cc0f6d4d958c6d832b5cbcd50f.7z",
-        toolset = "14.29.30133",
-        sha256 = "a671d9e9ef03d8fda5455247a21e2fd8413babcfae2951ed2ffe1449dcd2c1e2"
-    },
-    ["windows-x64-vc14.41.34120-36933979a6974be29334645bf287fb8c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-36933979a6974be29334645bf287fb8c.7z",
-        toolset = "14.41.34120",
-        sha256 = "7dcd8b9b84eb9b6ea48c6bf4aefa75d70b2b2a6370c97736d69d4bb0bfcf6923"
-    },
-    ["windows-x86-vc14.29.30133-bf43c4d1d2f449da963d1f4289959eda"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-bf43c4d1d2f449da963d1f4289959eda.7z",
-        toolset = "14.29.30133",
-        sha256 = "1ba10cdeb99a1636cb93bce9a8701ad0fb229ad79e0085d91861dcaf1ae9d5f0"
-    },
-    ["windows-x86-vc14.29.30133-cfc5c1176f204cfe99f72a41a9bdc3ab"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-cfc5c1176f204cfe99f72a41a9bdc3ab.7z",
-        toolset = "14.29.30133",
-        sha256 = "b27d03b15feb0139e6fdb81d484095f6a94069b153bc4ecb9462dc65ea877159"
+    ["windows-x86-vc14.41.34120-8baba8261fb8408e8e26b2cac0458ce2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-8baba8261fb8408e8e26b2cac0458ce2.7z",
+        sha256 = "6f01a179aa9548283d6d09c1924dcbe17fd6c42c389a59c2312348864bee6e6f",
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.41.34120-517e2f5d943b4951810319a3c3b630a2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-517e2f5d943b4951810319a3c3b630a2.7z",
-        toolset = "14.41.34120",
-        sha256 = "a8e01cb497347881409bbebc96455dcec13b75b0945733b2afa5ad8a81d669a0"
+        sha256 = "a8e01cb497347881409bbebc96455dcec13b75b0945733b2afa5ad8a81d669a0",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-bf43c4d1d2f449da963d1f4289959eda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-bf43c4d1d2f449da963d1f4289959eda.7z",
+        sha256 = "1ba10cdeb99a1636cb93bce9a8701ad0fb229ad79e0085d91861dcaf1ae9d5f0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-cfc5c1176f204cfe99f72a41a9bdc3ab"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-cfc5c1176f204cfe99f72a41a9bdc3ab.7z",
+        sha256 = "b27d03b15feb0139e6fdb81d484095f6a94069b153bc4ecb9462dc65ea877159",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-cfc5c1176f204cfe99f72a41a9bdc3ab"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-cfc5c1176f204cfe99f72a41a9bdc3ab.7z",
+        sha256 = "d9a3da8238ddff766867e23238caed284cd78f1fca906fe64db2ed7d301b06cc",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-b2a709a4514442c499b4080ac7a7cc00"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-b2a709a4514442c499b4080ac7a7cc00.7z",
+        sha256 = "f5c1c4aaaeb4da229602a75c9bb96772615a505917b98cf21fcc3abaf93213b1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d414de7842b041ccb37cceffca00a103"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-d414de7842b041ccb37cceffca00a103.7z",
+        sha256 = "dddbd41b12cb54a335e5bf83f8d410d494fb7a25ea62c401ec7b18821f10f5da",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.41.34120-d414de7842b041ccb37cceffca00a103"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-d414de7842b041ccb37cceffca00a103.7z",
-        toolset = "14.41.34120",
-        sha256 = "a1a5a60a3f502e595dbcf3ac202534475a263ba23e3c9d095f0b735d07320ab7"
+        sha256 = "a1a5a60a3f502e595dbcf3ac202534475a263ba23e3c9d095f0b735d07320ab7",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-517e2f5d943b4951810319a3c3b630a2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-517e2f5d943b4951810319a3c3b630a2.7z",
+        sha256 = "720651f16663cdcc71fce681476a7cfdf6335380f2d24cf5b35bcf713f9f6ed4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-282e70c108914028919b86600d0eab27"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-282e70c108914028919b86600d0eab27.7z",
+        sha256 = "fb4cb9e84cddcd0da6a1bad58cb119854a8969abf177c87d5596303967cb72b1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-054710ec6382452e9277bb010268a254"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-054710ec6382452e9277bb010268a254.7z",
+        sha256 = "049282c3b3d022143cd8dfd0dd152cccb6e4a9bba05e715d47cb5861b17010ad",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-cbdfdc36fd20406fb85016c7bebf4a4d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-cbdfdc36fd20406fb85016c7bebf4a4d.7z",
+        sha256 = "0efe5f8c8803783f619453d6936ded2b634da49707b475fdee3e911e9ea8780e",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-8baba8261fb8408e8e26b2cac0458ce2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-8baba8261fb8408e8e26b2cac0458ce2.7z",
+        sha256 = "8875c79f79671ae658b020dd76202ceacd2ccb89d8bbf0276afa1c96cb954d8e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-b2a709a4514442c499b4080ac7a7cc00"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-b2a709a4514442c499b4080ac7a7cc00.7z",
+        sha256 = "9c3bfa92c9f4d5400e58de4198a896a5ae6221e432751ea64b455058bd305dd9",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-36933979a6974be29334645bf287fb8c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-36933979a6974be29334645bf287fb8c.7z",
+        sha256 = "7dcd8b9b84eb9b6ea48c6bf4aefa75d70b2b2a6370c97736d69d4bb0bfcf6923",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-054710ec6382452e9277bb010268a254"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-054710ec6382452e9277bb010268a254.7z",
+        sha256 = "2f5b672f2aebf893fb4c7188b64f5d7edfaa8f1aa6f93abbe795b1ae356e4f71",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-282e70c108914028919b86600d0eab27"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-282e70c108914028919b86600d0eab27.7z",
+        sha256 = "4435fe9b1d2e2fdb11483e76b730a470fe1605c25f0f7c0dcc114190712c90af",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-528a51cc0f6d4d958c6d832b5cbcd50f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-528a51cc0f6d4d958c6d832b5cbcd50f.7z",
+        sha256 = "a671d9e9ef03d8fda5455247a21e2fd8413babcfae2951ed2ffe1449dcd2c1e2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-d0aa109738cb453db45eb9988ce37647"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-d0aa109738cb453db45eb9988ce37647.7z",
+        sha256 = "e185b82e29c4bc610173ded74dc977e3d67d35aee2eef007940626cd8e7f659d",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-36933979a6974be29334645bf287fb8c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-36933979a6974be29334645bf287fb8c.7z",
+        sha256 = "eff6bd0890cd1a2215bc12ca985de8bc8bca773a181d4b11855a1f349b3f34da",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-5abe926d043c4345b3c46c865ff6caa9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-5abe926d043c4345b3c46c865ff6caa9.7z",
+        sha256 = "1296f46c2c484bfe7add7eac0aec31ce16a8d3a1afca3c012009622e80da5643",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-cbdfdc36fd20406fb85016c7bebf4a4d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-cbdfdc36fd20406fb85016c7bebf4a4d.7z",
+        sha256 = "5b30501b0970f3a5044750e473f42309f101b41893eaf4dc0f44dcc592e28b56",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-8a7fb273360442809438bd803fd127ee"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-8a7fb273360442809438bd803fd127ee.7z",
+        sha256 = "cbd295c40e02e9de10233e6b5bddf44abf389092761b5b505f92207209905d54",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-bf43c4d1d2f449da963d1f4289959eda"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-bf43c4d1d2f449da963d1f4289959eda.7z",
+        sha256 = "5998cc21530481cefbaae1e3aff8f316fba90a64a79eae5509b079d031ac3ecc",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-959b05d033f64b49965da0d94addab4f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.41.34120-959b05d033f64b49965da0d94addab4f.7z",
+        sha256 = "dc97934d6ad75bc64ebfe18bc966279728247fee5893f16f6997258d6e21521f",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-959b05d033f64b49965da0d94addab4f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x86-vc14.29.30133-959b05d033f64b49965da0d94addab4f.7z",
+        sha256 = "221c744c4000bcfd157c28b584c931cf0bc1e8b494029cf3f4f32383d3158ff4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d0aa109738cb453db45eb9988ce37647"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.29.30133-d0aa109738cb453db45eb9988ce37647.7z",
+        sha256 = "071686e6d5430592bbb7b6b0bcf24cd0ce0628ce3fe34f95eb517ae02dd793a6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-5abe926d043c4345b3c46c865ff6caa9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libxml2-v2.13.4/windows-x64-vc14.41.34120-5abe926d043c4345b3c46c865ff6caa9.7z",
+        sha256 = "b72264ab5fccf12f3c8f9aa9596fdaaea09521357c7fd66bf232662d8c74eed2",
+        toolset = "14.41.34120"
     }
 }
