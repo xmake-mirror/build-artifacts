@@ -1,37 +1,57 @@
 {
-    ["windows-x64-vc14.41.34120-0bb557d2972540dbbcea554643731227"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-0bb557d2972540dbbcea554643731227.7z",
-        sha256 = "bdb70a250c9ef0cf6af3bbe4735017db8a78d7624e5bdd28a25cd7aec8e2e9ae",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.40.33807-4e67e641d2d54e8dac7d4ad1568ecda8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.40.33807-4e67e641d2d54e8dac7d4ad1568ecda8.7z",
+        sha256 = "b5d2552c39b5d3a617cd3efeb0254e83ca7d85d150de1cd9fc7d7808b96d8338",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.29.30133-4e67e641d2d54e8dac7d4ad1568ecda8"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-4e67e641d2d54e8dac7d4ad1568ecda8.7z",
-        sha256 = "2a580d19783f91a4238d579be36e76f182d0cd91a36dfa71ca32c4028de9f699",
+        sha256 = "bf21ce77fad102ae54cf38983a2a5d5d023fe3d8017b8b032f32eb62a61c936b",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.40.33807-f8c788c2fcd5439dba2f165f09673d92"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.40.33807-f8c788c2fcd5439dba2f165f09673d92.7z",
-        sha256 = "b962333d08ceda66cc693dc3b54af3860daabae7c40e437e94f7e135e6e71311",
+    ["windows-x64-vc14.29.30133-0bb557d2972540dbbcea554643731227"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-0bb557d2972540dbbcea554643731227.7z",
+        sha256 = "f5f89fc91fe7b88c84c3b36873f75a8c61eef5e99438c72cfd6860cbbf99894f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-0bb557d2972540dbbcea554643731227"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-0bb557d2972540dbbcea554643731227.7z",
+        sha256 = "f37d449cb5a70f31036456afaf3aa6ae43d37969b857de174fa0b8e1ecdcb454",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.40.33807-81cbbe626ebf46dc843bab2f5a50975d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.40.33807-81cbbe626ebf46dc843bab2f5a50975d.7z",
+        sha256 = "8a1b02fe1f3ff5b61a121715319db53b752fd91077c4533aa2e1ac1b9c2dc9f0",
         toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.41.34120-81cbbe626ebf46dc843bab2f5a50975d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-81cbbe626ebf46dc843bab2f5a50975d.7z",
+        sha256 = "19ab3955ed7ec83707d2511e107a0a7aa469d9848b04741e5d8af027c378f88c",
+        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.40.33807-0bb557d2972540dbbcea554643731227"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.40.33807-0bb557d2972540dbbcea554643731227.7z",
         sha256 = "f78bdc0aa8da72d1fbc67074dfe1788cd791013818649b23a0d8f7542341e486",
         toolset = "14.40.33807"
     },
+    ["windows-x64-vc14.40.33807-f8c788c2fcd5439dba2f165f09673d92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.40.33807-f8c788c2fcd5439dba2f165f09673d92.7z",
+        sha256 = "b962333d08ceda66cc693dc3b54af3860daabae7c40e437e94f7e135e6e71311",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.41.34120-4e67e641d2d54e8dac7d4ad1568ecda8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-4e67e641d2d54e8dac7d4ad1568ecda8.7z",
+        sha256 = "07bee8f2878940a7a657494fe17a4796573d60d9a4dde01f6d49f772c16445e6",
+        toolset = "14.41.34120"
+    },
     ["windows-x86-vc14.41.34120-bae9e2727312471894d1a8dcf6b852b2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-bae9e2727312471894d1a8dcf6b852b2.7z",
-        sha256 = "c3c92fc877b903ab017c987343e31edef4b1d0220198a0b1708bdc084fca95a1",
+        sha256 = "676a862a1fb8070c84bedcf48d93ec36eb13df0b2e6e3160fbfa765405afa1cb",
         toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.41.34120-290ceae151594f42aa429313177173e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-290ceae151594f42aa429313177173e2.7z",
-        sha256 = "002ba0d727ce6d74f5ed05e9332128e32cf4f33130f730a16871720ba93ebd9d",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-f8c788c2fcd5439dba2f165f09673d92"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-f8c788c2fcd5439dba2f165f09673d92.7z",
-        sha256 = "5f8244895e3d4a4b83acdf76270d48fd158d4aae25581ee6451fbd3cb9eaf41e",
+    ["windows-x86-vc14.29.30133-ad5851e7f14f451197f02f886c27691b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-ad5851e7f14f451197f02f886c27691b.7z",
+        sha256 = "4391399115c2ff20243c558f4ed9bf653d29e9d4dcddd39cc1bc2b7c91ba578c",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.40.33807-290ceae151594f42aa429313177173e2"] = {
@@ -39,84 +59,64 @@
         sha256 = "d389600da3ec7e81e289de1ccb6aed39593262365b598090be9f7f501418e52c",
         toolset = "14.40.33807"
     },
+    ["windows-x86-vc14.41.34120-d50a85f611fc490eb9be1a352eb70a50"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-d50a85f611fc490eb9be1a352eb70a50.7z",
+        sha256 = "ee87a64e6c1ffb79ec1ffcb39635eafda6cc3cec85bff5974a5839c68ab8d1c7",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-290ceae151594f42aa429313177173e2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-290ceae151594f42aa429313177173e2.7z",
+        sha256 = "7a38f10cf6e3d8c0fb4b3c1cd1661390a9cfff93959b98e589f2367f087ea86a",
+        toolset = "14.29.30133"
+    },
     ["windows-x86-vc14.40.33807-bae9e2727312471894d1a8dcf6b852b2"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.40.33807-bae9e2727312471894d1a8dcf6b852b2.7z",
         sha256 = "fa72f95590557c28726d3a413a218b1a39d58789b8fb4bdb9bb940904f5343d9",
         toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.29.30133-290ceae151594f42aa429313177173e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-290ceae151594f42aa429313177173e2.7z",
-        sha256 = "dc718871b839a7e6b2270404fe8ce1a5224d74c52a2d7b79a3464baacc612f01",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.41.34120-ad5851e7f14f451197f02f886c27691b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-ad5851e7f14f451197f02f886c27691b.7z",
+        sha256 = "33f13f67c78c30a1c7a5af7489287ba0940befe71d02c3ff162be0828a973e96",
+        toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-d50a85f611fc490eb9be1a352eb70a50"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-d50a85f611fc490eb9be1a352eb70a50.7z",
-        sha256 = "ee5609520a0f12c7567ddea192941f4f1a3ce247abbca7144b57322786f96cb8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-4e67e641d2d54e8dac7d4ad1568ecda8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.40.33807-4e67e641d2d54e8dac7d4ad1568ecda8.7z",
-        sha256 = "b5d2552c39b5d3a617cd3efeb0254e83ca7d85d150de1cd9fc7d7808b96d8338",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.41.34120-f8c788c2fcd5439dba2f165f09673d92"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-f8c788c2fcd5439dba2f165f09673d92.7z",
-        sha256 = "2f8edf13b63225fec17c31b9047b3ef56f969b0c9f724d0333a0ba3114c8d392",
+    ["windows-x64-vc14.41.34120-290ceae151594f42aa429313177173e2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-290ceae151594f42aa429313177173e2.7z",
+        sha256 = "84576b524823e07d833f9664b655bc3f8865fb28ba8cf5a67b003435f0035925",
         toolset = "14.41.34120"
     },
     ["windows-x86-vc14.29.30133-81cbbe626ebf46dc843bab2f5a50975d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-81cbbe626ebf46dc843bab2f5a50975d.7z",
-        sha256 = "5de72029eac6cb5d0f10838d2bed42ed2fc0f0fb0db62882898493c034920b75",
+        sha256 = "1ffffdf93ab82fc9274ffb9f515176adebd361891712007c7638936a9abe84df",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-bae9e2727312471894d1a8dcf6b852b2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-bae9e2727312471894d1a8dcf6b852b2.7z",
-        sha256 = "790b489f28fe2a945c9b55a00871f53b64fd744d5ed3d07c0fd6bdbfec7a36c7",
+    ["windows-x86-vc14.29.30133-d50a85f611fc490eb9be1a352eb70a50"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-d50a85f611fc490eb9be1a352eb70a50.7z",
+        sha256 = "236a98b4feb5f77720199bcffc39d52262eb49b37ac77232e5a767da8aa81339",
         toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-4e67e641d2d54e8dac7d4ad1568ecda8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-4e67e641d2d54e8dac7d4ad1568ecda8.7z",
-        sha256 = "e36cc6c24319a7e5054be517e8e2aa4fc7d774d9fe52b0e4d312a02a6635fb72",
-        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.40.33807-d50a85f611fc490eb9be1a352eb70a50"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.40.33807-d50a85f611fc490eb9be1a352eb70a50.7z",
         sha256 = "c777e9937b66e0f3232fc4d0b7e25a7ca412cf8f82859f40faae363c5555a06d",
         toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.41.34120-d50a85f611fc490eb9be1a352eb70a50"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-d50a85f611fc490eb9be1a352eb70a50.7z",
-        sha256 = "0d494937591a5303e02dccd5ca1620000c9da14c4046c5373b9c676f74ddfa89",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-0bb557d2972540dbbcea554643731227"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-0bb557d2972540dbbcea554643731227.7z",
-        sha256 = "071edbe7b9aa5ca3715599605be7dbb9e596114147efb19d34f4cfb34eadf0ea",
+    ["windows-x86-vc14.29.30133-bae9e2727312471894d1a8dcf6b852b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-bae9e2727312471894d1a8dcf6b852b2.7z",
+        sha256 = "60ba0fa3aa45c49ba62db28e770d4cd74d1c3d5d3d7c947c9cf7bf64058e5f2e",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.41.34120-81cbbe626ebf46dc843bab2f5a50975d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-81cbbe626ebf46dc843bab2f5a50975d.7z",
-        sha256 = "6a7124e00db654d8282a3fdd7721bc59cd702c4f89ce2e9e66a8e68255562f30",
+    ["windows-x64-vc14.41.34120-f8c788c2fcd5439dba2f165f09673d92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.41.34120-f8c788c2fcd5439dba2f165f09673d92.7z",
+        sha256 = "dc08703fdcbb18a2a49898ecc98ec3599a21b5a4a82a6dbeb55699412033932f",
         toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-ad5851e7f14f451197f02f886c27691b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.29.30133-ad5851e7f14f451197f02f886c27691b.7z",
-        sha256 = "438c897dd10a7526cbc2b8eda80917473d986122c739c92ce0671a6567963056",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-81cbbe626ebf46dc843bab2f5a50975d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.40.33807-81cbbe626ebf46dc843bab2f5a50975d.7z",
-        sha256 = "8a1b02fe1f3ff5b61a121715319db53b752fd91077c4533aa2e1ac1b9c2dc9f0",
-        toolset = "14.40.33807"
     },
     ["windows-x86-vc14.40.33807-ad5851e7f14f451197f02f886c27691b"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.40.33807-ad5851e7f14f451197f02f886c27691b.7z",
         sha256 = "35906a34e74b0f52145f81f76643bcc91957f4537e4cc78c002b8731c8449282",
         toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.41.34120-ad5851e7f14f451197f02f886c27691b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x86-vc14.41.34120-ad5851e7f14f451197f02f886c27691b.7z",
-        sha256 = "9b2569c48a2ebfb8ff1539fa4a2073f2c2bd7309f84f278ec03fd7eed922ba9e",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.29.30133-f8c788c2fcd5439dba2f165f09673d92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-mqtt-v0.10.4/windows-x64-vc14.29.30133-f8c788c2fcd5439dba2f165f09673d92.7z",
+        sha256 = "6d1bc213e2af7058bd00b8891d59725521caafb54138051337530a3b59cb1c55",
+        toolset = "14.29.30133"
     }
 }
