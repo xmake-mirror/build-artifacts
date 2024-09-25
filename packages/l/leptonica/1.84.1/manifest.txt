@@ -1,117 +1,157 @@
 {
-    ["windows-x64-vc14.40.33807-313d8f83cf2e4e5aa6768ed621e6fa88"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.40.33807-313d8f83cf2e4e5aa6768ed621e6fa88.7z",
-        toolset = "14.40.33807",
-        sha256 = "3f2a673830df484d3adcdba531518195831a9df71a5cf5cc3b68ce50d3cd59aa"
-    },
-    ["windows-x86-vc14.38.33130-c9efab0ae9c84e1798b48490b535fa7a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-c9efab0ae9c84e1798b48490b535fa7a.7z",
-        toolset = "14.38.33130",
-        sha256 = "108d4a55f548fdf6f5d5c389817cd410e2908178c8fe8fa87694b5b145c190ba"
-    },
-    ["windows-x86-vc14.39.33519-36e2c07574f84ced8d329229777e1506"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-36e2c07574f84ced8d329229777e1506.7z",
-        toolset = "14.39.33519",
-        sha256 = "bbf9c7c4b83479aaf9e42a4abe4f9ba5aa47fc090143be89a164538b5d81e4f7"
-    },
-    ["windows-x86-vc14.39.33519-4f9dbf4797af4753a980f38a89698ff3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-4f9dbf4797af4753a980f38a89698ff3.7z",
-        toolset = "14.39.33519",
-        sha256 = "6f4f9187fdd8b2067fc25f4618391553bf6585cba1a0ed28aa1141d1af8118af"
-    },
-    ["windows-x86-vc14.39.33519-049fb7a9cb9a4bce91d798145e67a1f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-049fb7a9cb9a4bce91d798145e67a1f5.7z",
-        toolset = "14.39.33519",
-        sha256 = "d27f9dc2575457e664b1c3dac1920f7b07f013f403b40dcd9a6791927226ce13"
-    },
-    ["windows-x64-vc14.40.33807-8d7d29653e07485fbf9207efeda2e14d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.40.33807-8d7d29653e07485fbf9207efeda2e14d.7z",
-        toolset = "14.40.33807",
-        sha256 = "597641c544f04ade26b752689f72acfaa6dbfadf77e192d2e5ca8f5ccfdf695f"
-    },
-    ["windows-x86-vc14.38.33130-049fb7a9cb9a4bce91d798145e67a1f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-049fb7a9cb9a4bce91d798145e67a1f5.7z",
-        toolset = "14.38.33130",
-        sha256 = "0d50abf41f6967752a8ccfcaccce91fa443d28e6a7ba52dc15c9f1c0e4659fe4"
-    },
-    ["windows-x64-vc14.39.33519-137ef0bb0fca4f42826806e5bd2df725"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.39.33519-137ef0bb0fca4f42826806e5bd2df725.7z",
-        toolset = "14.39.33519",
-        sha256 = "10c3b5f39385745f35fd3f6403583578a5a2906811d6928a89bf3840f3da6fca"
-    },
-    ["windows-x86-vc14.38.33130-4f9dbf4797af4753a980f38a89698ff3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-4f9dbf4797af4753a980f38a89698ff3.7z",
-        toolset = "14.38.33130",
-        sha256 = "d02f9092e8393b29a81a83919251508b6b69dc5c6ee66bb70e47b1b142af0f3b"
-    },
-    ["windows-x64-vc14.38.33130-8d7d29653e07485fbf9207efeda2e14d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.38.33130-8d7d29653e07485fbf9207efeda2e14d.7z",
-        toolset = "14.38.33130",
-        sha256 = "c4a4f3871ad85e262fffd22434bb3a319a6ba702189f7cbad3fd3523c7f4619f"
-    },
-    ["windows-x86-vc14.40.33807-c9efab0ae9c84e1798b48490b535fa7a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.40.33807-c9efab0ae9c84e1798b48490b535fa7a.7z",
-        toolset = "14.40.33807",
-        sha256 = "0f87ba620a18f15a3fa9d28ed0df240716d12faff4c45cca6c7772d95b19164e"
-    },
-    ["windows-x64-vc14.39.33519-8d7d29653e07485fbf9207efeda2e14d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.39.33519-8d7d29653e07485fbf9207efeda2e14d.7z",
-        toolset = "14.39.33519",
-        sha256 = "c58918ceee013390b6ad1ab70415d31e36aa03a9b7d9ac4c4489c3d68fca70d9"
+    ["windows-x64-vc14.41.34120-313d8f83cf2e4e5aa6768ed621e6fa88"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.41.34120-313d8f83cf2e4e5aa6768ed621e6fa88.7z",
+        sha256 = "57c6be061a76c4f1163e6c70909bba46aac6ba3741d955fb02d509fbffc16de9",
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.40.33807-36e2c07574f84ced8d329229777e1506"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.40.33807-36e2c07574f84ced8d329229777e1506.7z",
-        toolset = "14.40.33807",
-        sha256 = "ec388c8449b857acffe9fd1a0c9fc8725c2f6fd0c3eec82cd7780e7aff796366"
+        sha256 = "ec388c8449b857acffe9fd1a0c9fc8725c2f6fd0c3eec82cd7780e7aff796366",
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.38.33130-36e2c07574f84ced8d329229777e1506"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-36e2c07574f84ced8d329229777e1506.7z",
-        toolset = "14.38.33130",
-        sha256 = "f41925a31a7cfa2af700f6a456e180040b61a8937ba61d3b548f37f2c92f9de9"
+    ["windows-x86-vc14.39.33519-4f9dbf4797af4753a980f38a89698ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-4f9dbf4797af4753a980f38a89698ff3.7z",
+        sha256 = "6f4f9187fdd8b2067fc25f4618391553bf6585cba1a0ed28aa1141d1af8118af",
+        toolset = "14.39.33519"
     },
-    ["windows-x86-vc14.39.33519-c9efab0ae9c84e1798b48490b535fa7a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-c9efab0ae9c84e1798b48490b535fa7a.7z",
-        toolset = "14.39.33519",
-        sha256 = "ff11a1ed5d816fdfd8a31d0c9f9f8973341ba8e2798c32d570770d88bffd920e"
+    ["windows-x86-vc14.41.34120-36e2c07574f84ced8d329229777e1506"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.41.34120-36e2c07574f84ced8d329229777e1506.7z",
+        sha256 = "889ce4dd76a9d7e68262fe019aaefe350dfbd7eefa001815912955db096b714b",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.40.33807-8d7d29653e07485fbf9207efeda2e14d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.40.33807-8d7d29653e07485fbf9207efeda2e14d.7z",
+        sha256 = "597641c544f04ade26b752689f72acfaa6dbfadf77e192d2e5ca8f5ccfdf695f",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.39.33519-137ef0bb0fca4f42826806e5bd2df725"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.39.33519-137ef0bb0fca4f42826806e5bd2df725.7z",
+        sha256 = "10c3b5f39385745f35fd3f6403583578a5a2906811d6928a89bf3840f3da6fca",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.40.33807-313d8f83cf2e4e5aa6768ed621e6fa88"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.40.33807-313d8f83cf2e4e5aa6768ed621e6fa88.7z",
+        sha256 = "3f2a673830df484d3adcdba531518195831a9df71a5cf5cc3b68ce50d3cd59aa",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.39.33519-36e2c07574f84ced8d329229777e1506"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-36e2c07574f84ced8d329229777e1506.7z",
+        sha256 = "bbf9c7c4b83479aaf9e42a4abe4f9ba5aa47fc090143be89a164538b5d81e4f7",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.38.33130-4f9dbf4797af4753a980f38a89698ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-4f9dbf4797af4753a980f38a89698ff3.7z",
+        sha256 = "d02f9092e8393b29a81a83919251508b6b69dc5c6ee66bb70e47b1b142af0f3b",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.39.33519-8d7d29653e07485fbf9207efeda2e14d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.39.33519-8d7d29653e07485fbf9207efeda2e14d.7z",
+        sha256 = "c58918ceee013390b6ad1ab70415d31e36aa03a9b7d9ac4c4489c3d68fca70d9",
+        toolset = "14.39.33519"
     },
     ["windows-x64-vc14.39.33519-f60cb0c952f944eb89c9a41b1d4adf5d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.39.33519-f60cb0c952f944eb89c9a41b1d4adf5d.7z",
-        toolset = "14.39.33519",
-        sha256 = "911e08bcff9c0a21f708bf4a042b08e1e6d7905beaabf3328de7ad0aa247d9b7"
+        sha256 = "911e08bcff9c0a21f708bf4a042b08e1e6d7905beaabf3328de7ad0aa247d9b7",
+        toolset = "14.39.33519"
     },
-    ["windows-x64-vc14.38.33130-137ef0bb0fca4f42826806e5bd2df725"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.38.33130-137ef0bb0fca4f42826806e5bd2df725.7z",
-        toolset = "14.38.33130",
-        sha256 = "daea72d24fd8ee13e659d258cc3f31b735a06ce76d5810bcd8af716257a2ed7d"
+    ["windows-x86-vc14.39.33519-c9efab0ae9c84e1798b48490b535fa7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-c9efab0ae9c84e1798b48490b535fa7a.7z",
+        sha256 = "ff11a1ed5d816fdfd8a31d0c9f9f8973341ba8e2798c32d570770d88bffd920e",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.41.34120-137ef0bb0fca4f42826806e5bd2df725"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.41.34120-137ef0bb0fca4f42826806e5bd2df725.7z",
+        sha256 = "0dff3262415a013049da23d550dfd562b716525a9a07163359f420aac0c62fe6",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.39.33519-049fb7a9cb9a4bce91d798145e67a1f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.39.33519-049fb7a9cb9a4bce91d798145e67a1f5.7z",
+        sha256 = "d27f9dc2575457e664b1c3dac1920f7b07f013f403b40dcd9a6791927226ce13",
+        toolset = "14.39.33519"
     },
     ["windows-x86-vc14.40.33807-049fb7a9cb9a4bce91d798145e67a1f5"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.40.33807-049fb7a9cb9a4bce91d798145e67a1f5.7z",
-        toolset = "14.40.33807",
-        sha256 = "425a3cae8a74bca409d30020b388373a33b39134024ce0e719dd1849f7c9b32e"
+        sha256 = "425a3cae8a74bca409d30020b388373a33b39134024ce0e719dd1849f7c9b32e",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.38.33130-f60cb0c952f944eb89c9a41b1d4adf5d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.38.33130-f60cb0c952f944eb89c9a41b1d4adf5d.7z",
-        toolset = "14.38.33130",
-        sha256 = "361429b608f3207b8f05593fa12ad9c68e89e65619e8a614361abb86262ba58c"
+        sha256 = "361429b608f3207b8f05593fa12ad9c68e89e65619e8a614361abb86262ba58c",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.41.34120-c9efab0ae9c84e1798b48490b535fa7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.41.34120-c9efab0ae9c84e1798b48490b535fa7a.7z",
+        sha256 = "a6cbd0106650a604f53d1844c51fd54ceeb48db41b429668e46d69ce7e8b5707",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-4f9dbf4797af4753a980f38a89698ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.41.34120-4f9dbf4797af4753a980f38a89698ff3.7z",
+        sha256 = "caccc1f2b6933dbf757d638796357d5aaa7dd54c491fe34d175c1efeaaa9b7ae",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.38.33130-049fb7a9cb9a4bce91d798145e67a1f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-049fb7a9cb9a4bce91d798145e67a1f5.7z",
+        sha256 = "0d50abf41f6967752a8ccfcaccce91fa443d28e6a7ba52dc15c9f1c0e4659fe4",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.38.33130-c9efab0ae9c84e1798b48490b535fa7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-c9efab0ae9c84e1798b48490b535fa7a.7z",
+        sha256 = "108d4a55f548fdf6f5d5c389817cd410e2908178c8fe8fa87694b5b145c190ba",
+        toolset = "14.38.33130"
     },
     ["windows-x64-vc14.40.33807-f60cb0c952f944eb89c9a41b1d4adf5d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.40.33807-f60cb0c952f944eb89c9a41b1d4adf5d.7z",
-        toolset = "14.40.33807",
-        sha256 = "84d4db1bdb28e1109c28f318a9615705106e9b55e2c9880e56fd0e659331d488"
+        sha256 = "84d4db1bdb28e1109c28f318a9615705106e9b55e2c9880e56fd0e659331d488",
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.40.33807-4f9dbf4797af4753a980f38a89698ff3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.40.33807-4f9dbf4797af4753a980f38a89698ff3.7z",
-        toolset = "14.40.33807",
-        sha256 = "49059496fe8ea2218bf90a3a8b2bf5bb54122b0a2edc9ad2d1baa603d421d214"
+    ["windows-x86-vc14.38.33130-36e2c07574f84ced8d329229777e1506"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.38.33130-36e2c07574f84ced8d329229777e1506.7z",
+        sha256 = "f41925a31a7cfa2af700f6a456e180040b61a8937ba61d3b548f37f2c92f9de9",
+        toolset = "14.38.33130"
     },
     ["windows-x64-vc14.38.33130-313d8f83cf2e4e5aa6768ed621e6fa88"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.38.33130-313d8f83cf2e4e5aa6768ed621e6fa88.7z",
-        toolset = "14.38.33130",
-        sha256 = "d34dea8bcfcd55e5ee54f37fa52167e9adfa703b9c09658c7b771c7f0ba8b711"
+        sha256 = "d34dea8bcfcd55e5ee54f37fa52167e9adfa703b9c09658c7b771c7f0ba8b711",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.40.33807-4f9dbf4797af4753a980f38a89698ff3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.40.33807-4f9dbf4797af4753a980f38a89698ff3.7z",
+        sha256 = "49059496fe8ea2218bf90a3a8b2bf5bb54122b0a2edc9ad2d1baa603d421d214",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.41.34120-8d7d29653e07485fbf9207efeda2e14d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.41.34120-8d7d29653e07485fbf9207efeda2e14d.7z",
+        sha256 = "1402ec0097c15c34199e172394b1ceb17d0787ec4e013bdeafeaae7845bea27a",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.38.33130-8d7d29653e07485fbf9207efeda2e14d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.38.33130-8d7d29653e07485fbf9207efeda2e14d.7z",
+        sha256 = "c4a4f3871ad85e262fffd22434bb3a319a6ba702189f7cbad3fd3523c7f4619f",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.41.34120-049fb7a9cb9a4bce91d798145e67a1f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.41.34120-049fb7a9cb9a4bce91d798145e67a1f5.7z",
+        sha256 = "63649522f59fb8bd68dafbc2431cc9911aaa2cd6457ea4991f26363de1e24673",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-f60cb0c952f944eb89c9a41b1d4adf5d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.41.34120-f60cb0c952f944eb89c9a41b1d4adf5d.7z",
+        sha256 = "df8561789dab7defd5620117d2b8ae35f55a9d0c281b09a8469ffc16fcf6d635",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.40.33807-c9efab0ae9c84e1798b48490b535fa7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x86-vc14.40.33807-c9efab0ae9c84e1798b48490b535fa7a.7z",
+        sha256 = "0f87ba620a18f15a3fa9d28ed0df240716d12faff4c45cca6c7772d95b19164e",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.38.33130-137ef0bb0fca4f42826806e5bd2df725"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.38.33130-137ef0bb0fca4f42826806e5bd2df725.7z",
+        sha256 = "daea72d24fd8ee13e659d258cc3f31b735a06ce76d5810bcd8af716257a2ed7d",
+        toolset = "14.38.33130"
     },
     ["windows-x64-vc14.40.33807-137ef0bb0fca4f42826806e5bd2df725"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/leptonica-1.84.1/windows-x64-vc14.40.33807-137ef0bb0fca4f42826806e5bd2df725.7z",
-        toolset = "14.40.33807",
-        sha256 = "18c281a70718aaec919ab478bf7934a57e80ecfa6463f08fcf6573d7b1823e75"
+        sha256 = "18c281a70718aaec919ab478bf7934a57e80ecfa6463f08fcf6573d7b1823e75",
+        toolset = "14.40.33807"
     }
 }
