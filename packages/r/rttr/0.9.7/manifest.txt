@@ -1,82 +1,122 @@
 {
+    ["windows-x86-vc14.41.34120-e699a0bbdc494fe9aec439b4fe7fd2a1"] = {
+        sha256 = "49bc8084950721405f4dad973700a2b4baf2d7285f343e7389dbba31e08beeea",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.41.34120-e699a0bbdc494fe9aec439b4fe7fd2a1.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-01d4672e453946e19516b4fd63eb7122"] = {
+        sha256 = "f8b736cbd83bc5c0cab6e3fbe0be2483773fdd66cd4e4c7195020c7abd7ec058",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.41.34120-01d4672e453946e19516b4fd63eb7122.7z",
+        toolset = "14.41.34120"
+    },
     ["windows-x64-vc14.40.33807-654c238933454041966363f5c9ee6198"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-654c238933454041966363f5c9ee6198.7z",
         sha256 = "32ef74c73cf632795e88c3836e1b619693aa9e687ada3ced0caac4623cf5cfaf",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-01d4672e453946e19516b4fd63eb7122"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-01d4672e453946e19516b4fd63eb7122.7z",
-        sha256 = "26aa90e7e88d555554e9b16b1c0fcd96cab84cc934eec3140b6de30db795269e",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-51b8d287112a4cf5bb8a251b17a6028b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-51b8d287112a4cf5bb8a251b17a6028b.7z",
-        sha256 = "98dff060f083c1d1b5a06dbcbeb75a6cdde457cf9ad12ab6fb964a09b41fb98e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-c41de41a9d2343778af243974ee8d63b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-c41de41a9d2343778af243974ee8d63b.7z",
-        sha256 = "550bd502487779809c9cb388a8671dda23aaa043655d3281005f63e722b8d3ef",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-51b8d287112a4cf5bb8a251b17a6028b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-51b8d287112a4cf5bb8a251b17a6028b.7z",
-        sha256 = "23953ad91019a745c2465cad385514e0fd8235af43762f2e6aaf23fd48fb2057",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-787267ce4d9943dea2a76cb3e6869c50"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-787267ce4d9943dea2a76cb3e6869c50.7z",
-        sha256 = "9ebcf084f451ccf0d7c1cde1adb30e547f94f4807a031677aa53d234ba229fc9",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-c41de41a9d2343778af243974ee8d63b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-c41de41a9d2343778af243974ee8d63b.7z",
-        sha256 = "7d8c7c809cd5a922395d6c6eca06d9fb9d874562126255e6650dcfdc48901d5c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-654c238933454041966363f5c9ee6198.7z",
         toolset = "14.40.33807"
     },
     ["windows-x64-vc14.29.30133-654c238933454041966363f5c9ee6198"] = {
+        sha256 = "a13d736ce34e22fb9f1640dda8deeb858a55029e8b23dfde4fe4180ac26a93d4",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-654c238933454041966363f5c9ee6198.7z",
-        sha256 = "de59352b562362c43d8f579d52871a71bc2f249e0271fcfc3c0da2dcaa86281b",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-428884cbd65743dea4aace11c4ffb50a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-428884cbd65743dea4aace11c4ffb50a.7z",
-        sha256 = "98b7c79ef8dbbe54d33471ed13b00f816830f1e96e625d7a35aad00f4578a6e3",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.41.34120-654c238933454041966363f5c9ee6198"] = {
+        sha256 = "e60213b77172c38b00013f921cdcab50c00b5f1faa728c41361200aa4997af24",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.41.34120-654c238933454041966363f5c9ee6198.7z",
+        toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.29.30133-01d4672e453946e19516b4fd63eb7122"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-01d4672e453946e19516b4fd63eb7122.7z",
-        sha256 = "0a138386c678a419fd3dd022f9ef11f131ecbc91b0ff3bf82b2d8bfaa7281753",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-cd96d28678344ea2897c1931cb1ed84f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-cd96d28678344ea2897c1931cb1ed84f.7z",
-        sha256 = "7b608cc3c76d758401da97b640e9568456383be2838d71f091e4a73704790dca",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-e699a0bbdc494fe9aec439b4fe7fd2a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-e699a0bbdc494fe9aec439b4fe7fd2a1.7z",
-        sha256 = "cbb93075dd83766a6b6b4b42e50f57fab012d9f1f2dd00a4dc7b687de11257da",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-e699a0bbdc494fe9aec439b4fe7fd2a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-e699a0bbdc494fe9aec439b4fe7fd2a1.7z",
-        sha256 = "2bf2ea3b3a33b7fdfa6dee9b7eed7c7fa2dadd022bbd24e7947e227de490ee9f",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-787267ce4d9943dea2a76cb3e6869c50"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-787267ce4d9943dea2a76cb3e6869c50.7z",
-        sha256 = "08f6b7d07664e23ed9374666f99ac405d3294e1848ed145f949e7c6697b67c9c",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-428884cbd65743dea4aace11c4ffb50a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-428884cbd65743dea4aace11c4ffb50a.7z",
-        sha256 = "0adbf971fc1a9e853630397895058fd2d89924cab88777bdc145c7d74d8e8d98",
+    ["windows-x64-vc14.40.33807-01d4672e453946e19516b4fd63eb7122"] = {
+        sha256 = "26aa90e7e88d555554e9b16b1c0fcd96cab84cc934eec3140b6de30db795269e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-01d4672e453946e19516b4fd63eb7122.7z",
         toolset = "14.40.33807"
     },
     ["windows-x86-vc14.40.33807-cd96d28678344ea2897c1931cb1ed84f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-cd96d28678344ea2897c1931cb1ed84f.7z",
         sha256 = "e31afed905d4392420d203dd40a49c8cf5c22f7868fc501a41c8d2a9cfb1bd31",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-cd96d28678344ea2897c1931cb1ed84f.7z",
         toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-428884cbd65743dea4aace11c4ffb50a"] = {
+        sha256 = "0adbf971fc1a9e853630397895058fd2d89924cab88777bdc145c7d74d8e8d98",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-428884cbd65743dea4aace11c4ffb50a.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-51b8d287112a4cf5bb8a251b17a6028b"] = {
+        sha256 = "23953ad91019a745c2465cad385514e0fd8235af43762f2e6aaf23fd48fb2057",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-51b8d287112a4cf5bb8a251b17a6028b.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-e699a0bbdc494fe9aec439b4fe7fd2a1"] = {
+        sha256 = "cbb93075dd83766a6b6b4b42e50f57fab012d9f1f2dd00a4dc7b687de11257da",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-e699a0bbdc494fe9aec439b4fe7fd2a1.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-e699a0bbdc494fe9aec439b4fe7fd2a1"] = {
+        sha256 = "2b3c8bc103ab88f70eecde81e69413edd538d68edb437923d7ad2c74b0ecf10e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-e699a0bbdc494fe9aec439b4fe7fd2a1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-c41de41a9d2343778af243974ee8d63b"] = {
+        sha256 = "7d8c7c809cd5a922395d6c6eca06d9fb9d874562126255e6650dcfdc48901d5c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.40.33807-c41de41a9d2343778af243974ee8d63b.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-428884cbd65743dea4aace11c4ffb50a"] = {
+        sha256 = "bd53e8149436fcbd154f2550a37cf05753269a42812f644b8e771ef6ac758ade",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-428884cbd65743dea4aace11c4ffb50a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-787267ce4d9943dea2a76cb3e6869c50"] = {
+        sha256 = "9ebcf084f451ccf0d7c1cde1adb30e547f94f4807a031677aa53d234ba229fc9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.40.33807-787267ce4d9943dea2a76cb3e6869c50.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-01d4672e453946e19516b4fd63eb7122"] = {
+        sha256 = "86778803d392548edec11d896e594ba5207005895f9882429fe8de20fb326393",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-01d4672e453946e19516b4fd63eb7122.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-787267ce4d9943dea2a76cb3e6869c50"] = {
+        sha256 = "259987a7210ec07276a705e4778186483cc4f65ed786efe87f8ad809b4ce422b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-787267ce4d9943dea2a76cb3e6869c50.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-51b8d287112a4cf5bb8a251b17a6028b"] = {
+        sha256 = "1806b6f91de241f072bffc0e19b2da7be1ce27139b5c5ee14a56de7d68af7bdb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.41.34120-51b8d287112a4cf5bb8a251b17a6028b.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-428884cbd65743dea4aace11c4ffb50a"] = {
+        sha256 = "546a6695ddfed3b4435f7c38870690c539348a0803e40b358b748f4c3b0dfaba",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.41.34120-428884cbd65743dea4aace11c4ffb50a.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-c41de41a9d2343778af243974ee8d63b"] = {
+        sha256 = "88156d841b46c8bfedc28a82a623e6ca4366cbc90feda4090746562173650b32",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-c41de41a9d2343778af243974ee8d63b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-cd96d28678344ea2897c1931cb1ed84f"] = {
+        sha256 = "b2ed01410d2ef431a25c0edd287f936659cfa4f21e402e47ef1f8ad391ece388",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.29.30133-cd96d28678344ea2897c1931cb1ed84f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-787267ce4d9943dea2a76cb3e6869c50"] = {
+        sha256 = "08caa5e7f0575828b185aa162523bf4462bc9bd34bc0996817a6fd9d2af0c478",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.41.34120-787267ce4d9943dea2a76cb3e6869c50.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-c41de41a9d2343778af243974ee8d63b"] = {
+        sha256 = "967b4a7a4e23bb69cbe9cd650921343460637614c3d50de45cb8eb6b749dc6f8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.41.34120-c41de41a9d2343778af243974ee8d63b.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-51b8d287112a4cf5bb8a251b17a6028b"] = {
+        sha256 = "4d9261af37bb54528bcf25ae81014d894b2eeddddf6f76dee9509f7195062aa3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x64-vc14.29.30133-51b8d287112a4cf5bb8a251b17a6028b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-cd96d28678344ea2897c1931cb1ed84f"] = {
+        sha256 = "e69c66ac637e286f17896e6d18c2fecd0a39ece58bfdad295f05d3860110b6c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/rttr-0.9.7/windows-x86-vc14.41.34120-cd96d28678344ea2897c1931cb1ed84f.7z",
+        toolset = "14.41.34120"
     }
 }
