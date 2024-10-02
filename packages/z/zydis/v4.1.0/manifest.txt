@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.38.33130-9c6f44e8d5124c66a65942cd11923467"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-9c6f44e8d5124c66a65942cd11923467.7z",
-        sha256 = "7fb4015279f51375b9622206e13998eef3a4e315903f32001d4e1aaa142f3297"
-    },
-    ["windows-x64-vc14.29.30133-8fa77c9548374f2f88d3a029c0b71b46"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-8fa77c9548374f2f88d3a029c0b71b46.7z",
-        sha256 = "87a69d3b5d193335263aa744980d1d821074f32db8b26455bcf8a9c8f6c939e1"
-    },
     ["windows-x86-vc14.38.33130-76ffd48d32a2464fbbadca616c4f3454"] = {
+        sha256 = "c50dd3f561055776b373c2d5505c81996fc36e7958510f3fe5ae4d3921309ff3",
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-76ffd48d32a2464fbbadca616c4f3454.7z",
-        sha256 = "c50dd3f561055776b373c2d5505c81996fc36e7958510f3fe5ae4d3921309ff3"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-76ffd48d32a2464fbbadca616c4f3454.7z"
     },
-    ["windows-x64-vc14.38.33130-8fa77c9548374f2f88d3a029c0b71b46"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-8fa77c9548374f2f88d3a029c0b71b46.7z",
-        sha256 = "1f01a79414f9e38e4cfffa43d516d557f3403bbe56d9042f948b569e2968a0c4"
-    },
-    ["windows-x86-vc14.29.30133-db49985468584402b6d3315196da7c11"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-db49985468584402b6d3315196da7c11.7z",
-        sha256 = "d234e9611d8dc706d62fd4f7ffc27ad4b65a0f2ff96acb2e0feba2602fb0cdc1"
-    },
-    ["windows-x64-vc14.38.33130-45088c68eb9247e78d8de40df3da6f9c"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-45088c68eb9247e78d8de40df3da6f9c.7z",
-        sha256 = "b69c3bdc561c580c0812a0917888c7557a1b97187af220f7fa61a50ab86af356"
-    },
-    ["windows-x64-vc14.29.30133-391656aa809f4fddbc96778334d19c48"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-391656aa809f4fddbc96778334d19c48.7z",
-        sha256 = "3081a862b3120ca9a6ab180eaad62f11581919a6f1e3aa3c02ce4daed137c731"
-    },
-    ["windows-x86-vc14.29.30133-76ffd48d32a2464fbbadca616c4f3454"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-76ffd48d32a2464fbbadca616c4f3454.7z",
-        sha256 = "91c1d3fb94d96bd49beac41e4053c09c4cdaf0969e35d8fe0b44773187f4fbc6"
-    },
-    ["windows-x86-vc14.38.33130-fff29acd2bec4c36aed7ccfc759ad535"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-fff29acd2bec4c36aed7ccfc759ad535.7z",
-        sha256 = "ef1ef678d450800d7599461f6fc8d2662f88b789e611285cd65aa6aee0a3416f"
-    },
-    ["windows-x64-vc14.38.33130-1fbda9b0a47245b7a989285985dde5a5"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-1fbda9b0a47245b7a989285985dde5a5.7z",
-        sha256 = "07c0027e1ce4c90111335fc777c710eb5215284ceba972c581e5b651dea642d8"
+    ["windows-x64-vc14.41.34120-8fa77c9548374f2f88d3a029c0b71b46"] = {
+        sha256 = "c0ae62884f9230362c19b2a5df18d47125b30a835ecbc4d9fb1c99aa56750aa2",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.41.34120-8fa77c9548374f2f88d3a029c0b71b46.7z"
     },
     ["windows-x64-vc14.29.30133-1fbda9b0a47245b7a989285985dde5a5"] = {
+        sha256 = "c7f18e9ed16f0e7b3058dcd122cd34cbe37c0a713ac45c90fb6978050f94b549",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-1fbda9b0a47245b7a989285985dde5a5.7z",
-        sha256 = "314cad84d4fd1fff21df7cad8c0e3aa54bade4060383d58150b3886c7c0dd626"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-1fbda9b0a47245b7a989285985dde5a5.7z"
     },
-    ["windows-x86-vc14.29.30133-fff29acd2bec4c36aed7ccfc759ad535"] = {
+    ["windows-x64-vc14.29.30133-8fa77c9548374f2f88d3a029c0b71b46"] = {
+        sha256 = "f877a7991102bad9b55c588ae01112089ef8156fa26e10959ee4863a744f7e04",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-fff29acd2bec4c36aed7ccfc759ad535.7z",
-        sha256 = "63ec3d6773d5536e37273508c09e5f6e3021e8868bc541f220a9db05bda093ea"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-8fa77c9548374f2f88d3a029c0b71b46.7z"
     },
-    ["windows-x86-vc14.29.30133-9c6f44e8d5124c66a65942cd11923467"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-9c6f44e8d5124c66a65942cd11923467.7z",
-        sha256 = "f5f1280a4f784d7d78cb1448ee020b24f3fa88478fcf411bb5f49f370de176d0"
-    },
-    ["windows-x64-vc14.29.30133-45088c68eb9247e78d8de40df3da6f9c"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-45088c68eb9247e78d8de40df3da6f9c.7z",
-        sha256 = "928f31a2c35c9966b40769a3ea1049dfda0e9faf9520898e9cf95fab9db9dbaf"
-    },
-    ["windows-x86-vc14.38.33130-db49985468584402b6d3315196da7c11"] = {
+    ["windows-x86-vc14.38.33130-fff29acd2bec4c36aed7ccfc759ad535"] = {
+        sha256 = "ef1ef678d450800d7599461f6fc8d2662f88b789e611285cd65aa6aee0a3416f",
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-db49985468584402b6d3315196da7c11.7z",
-        sha256 = "bb5a0f0448e7914e06d366eaf8b94a7e29b87e99435b9a509ac12ad22f3c9a2c"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-fff29acd2bec4c36aed7ccfc759ad535.7z"
+    },
+    ["windows-x86-vc14.29.30133-db49985468584402b6d3315196da7c11"] = {
+        sha256 = "7c8ee8c9d02f8058b335d37602e57cb64725a52199e12210d796096de55ead31",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-db49985468584402b6d3315196da7c11.7z"
     },
     ["windows-x64-vc14.38.33130-391656aa809f4fddbc96778334d19c48"] = {
+        sha256 = "fa7fcf7148851b2735a0cf1838484cd66870cb948038d8f68a81f7f98bdd9540",
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-391656aa809f4fddbc96778334d19c48.7z",
-        sha256 = "fa7fcf7148851b2735a0cf1838484cd66870cb948038d8f68a81f7f98bdd9540"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-391656aa809f4fddbc96778334d19c48.7z"
+    },
+    ["windows-x64-vc14.41.34120-1fbda9b0a47245b7a989285985dde5a5"] = {
+        sha256 = "0c60321cb20c7932eb75a3f8ba7da6929276039b755b004f15a5f015c72346e6",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.41.34120-1fbda9b0a47245b7a989285985dde5a5.7z"
+    },
+    ["windows-x86-vc14.38.33130-db49985468584402b6d3315196da7c11"] = {
+        sha256 = "bb5a0f0448e7914e06d366eaf8b94a7e29b87e99435b9a509ac12ad22f3c9a2c",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-db49985468584402b6d3315196da7c11.7z"
+    },
+    ["windows-x64-vc14.29.30133-45088c68eb9247e78d8de40df3da6f9c"] = {
+        sha256 = "0380a70aeb906ec5787a8a1a149884c666441d20b6e7d0829ba4b4980ff882f7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-45088c68eb9247e78d8de40df3da6f9c.7z"
+    },
+    ["windows-x86-vc14.29.30133-76ffd48d32a2464fbbadca616c4f3454"] = {
+        sha256 = "e348d9d05c5556b47cfb3b2624adb2d6b530983d232e16c99453549f4baa1578",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-76ffd48d32a2464fbbadca616c4f3454.7z"
+    },
+    ["windows-x86-vc14.29.30133-9c6f44e8d5124c66a65942cd11923467"] = {
+        sha256 = "3b1ec0e9951379fb0c2bc13656f769d6772ed24c27134a5d04ca4ed7b0a8964e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-9c6f44e8d5124c66a65942cd11923467.7z"
+    },
+    ["windows-x64-vc14.41.34120-391656aa809f4fddbc96778334d19c48"] = {
+        sha256 = "be5a0f943e20208dc67d172ef932a29fad36bc242215dc864ec7728d9c32777e",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.41.34120-391656aa809f4fddbc96778334d19c48.7z"
+    },
+    ["windows-x86-vc14.38.33130-9c6f44e8d5124c66a65942cd11923467"] = {
+        sha256 = "7fb4015279f51375b9622206e13998eef3a4e315903f32001d4e1aaa142f3297",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.38.33130-9c6f44e8d5124c66a65942cd11923467.7z"
+    },
+    ["windows-x64-vc14.38.33130-45088c68eb9247e78d8de40df3da6f9c"] = {
+        sha256 = "b69c3bdc561c580c0812a0917888c7557a1b97187af220f7fa61a50ab86af356",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-45088c68eb9247e78d8de40df3da6f9c.7z"
+    },
+    ["windows-x86-vc14.29.30133-fff29acd2bec4c36aed7ccfc759ad535"] = {
+        sha256 = "5a2b04997b3668d1039edd26c5daf19ce3ce50592813139786bd578a8c7bcfef",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.29.30133-fff29acd2bec4c36aed7ccfc759ad535.7z"
+    },
+    ["windows-x64-vc14.41.34120-45088c68eb9247e78d8de40df3da6f9c"] = {
+        sha256 = "60cc09be2ea4c124dabf1852d3628685a37978fff4cfd9b7f6e2ff024d0f4ec9",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.41.34120-45088c68eb9247e78d8de40df3da6f9c.7z"
+    },
+    ["windows-x64-vc14.29.30133-391656aa809f4fddbc96778334d19c48"] = {
+        sha256 = "762d44f78167a40abd2c87a3553436b6a2dc196e49793ae29c6d335106d04b0f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.29.30133-391656aa809f4fddbc96778334d19c48.7z"
+    },
+    ["windows-x86-vc14.41.34120-76ffd48d32a2464fbbadca616c4f3454"] = {
+        sha256 = "e341ed1130b0a342fc859b6d4b8672855383815ee333a93c5e65b3a71dce5d37",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.41.34120-76ffd48d32a2464fbbadca616c4f3454.7z"
+    },
+    ["windows-x86-vc14.41.34120-db49985468584402b6d3315196da7c11"] = {
+        sha256 = "20e0aaccee8621fe2bdb552100bd11ea6522d376d8ceb7329a25fc020b325b7d",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.41.34120-db49985468584402b6d3315196da7c11.7z"
+    },
+    ["windows-x64-vc14.38.33130-1fbda9b0a47245b7a989285985dde5a5"] = {
+        sha256 = "07c0027e1ce4c90111335fc777c710eb5215284ceba972c581e5b651dea642d8",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-1fbda9b0a47245b7a989285985dde5a5.7z"
+    },
+    ["windows-x86-vc14.41.34120-9c6f44e8d5124c66a65942cd11923467"] = {
+        sha256 = "4da3efa5c0c5328cbe05670911c06c018b85c3ff9d3fc6220e1fc216cb9cd92a",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.41.34120-9c6f44e8d5124c66a65942cd11923467.7z"
+    },
+    ["windows-x86-vc14.41.34120-fff29acd2bec4c36aed7ccfc759ad535"] = {
+        sha256 = "bc67e3597cd587bd052618eee62729d4d21fc59ab30e7b87bec3fe5151a35ddf",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x86-vc14.41.34120-fff29acd2bec4c36aed7ccfc759ad535.7z"
+    },
+    ["windows-x64-vc14.38.33130-8fa77c9548374f2f88d3a029c0b71b46"] = {
+        sha256 = "1f01a79414f9e38e4cfffa43d516d557f3403bbe56d9042f948b569e2968a0c4",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zydis-v4.1.0/windows-x64-vc14.38.33130-8fa77c9548374f2f88d3a029c0b71b46.7z"
     }
 }
