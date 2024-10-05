@@ -1,27 +1,17 @@
 {
-    ["windows-x64-vc142-5f70d5772c2e4609af3a2d71323ce4cc"] = {
-        sha256 = "906eeac3ed2067471abca9a7bdb28a8a5a17224ae28e03fa1e4470829d85d9ee",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-5f70d5772c2e4609af3a2d71323ce4cc.7z",
+    ["windows-x64-vc142-4257d9069eee4a45957fe4d5fc019a41"] = {
+        sha256 = "6ccdd564cdf354a38b59e5c05db981130ee527d2ac20a7ea213881e5ca803147",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-4257d9069eee4a45957fe4d5fc019a41.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-4257d9069eee4a45957fe4d5fc019a41"] = {
-        sha256 = "2c2926608274a7ec5e790ce5e436f96149d5f414df39ad2e4bdf68cef3587616",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-4257d9069eee4a45957fe4d5fc019a41.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.39.33519-b6bd246510454179bf27f3f5ff3f18d6"] = {
+        sha256 = "27d5055def0098ba3109c6799698ca84fb004121f61c2bcc495a40b1b64a297e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-b6bd246510454179bf27f3f5ff3f18d6.7z",
+        toolset = "14.39.33519"
     },
-    ["windows-x86-vc142-c3be4ba8b9644098868bbb85c88bbf20"] = {
-        sha256 = "f6ca6421a7005490764b0a26159477e98aed25ef4d072232af0694989f21f2f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-c3be4ba8b9644098868bbb85c88bbf20.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-4133d2738826480e9dfd91852e7df252"] = {
-        sha256 = "b035a707850cb7c0657515c53580763a3ba24c9469da7cbcc078401e394e19ea",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-4133d2738826480e9dfd91852e7df252.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-4133d2738826480e9dfd91852e7df252"] = {
-        sha256 = "d8cd5e59cfc81db61038a368ffba10cb342f88cf1a2372ced0f71f1944baed16",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-4133d2738826480e9dfd91852e7df252.7z",
+    ["windows-x86-vc14.29.30133-7d1147db277942f4b23c7a7063792443"] = {
+        sha256 = "fbf73db114b81f1a79d9c6c8f2d417cd5e5a558381a23126fd2a7249d8bcf43c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-7d1147db277942f4b23c7a7063792443.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.40.33807-4133d2738826480e9dfd91852e7df252"] = {
@@ -29,199 +19,9 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.40.33807-4133d2738826480e9dfd91852e7df252.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.37.32822-074cb0b47b594d1296ae7f1c69f260c5"] = {
-        sha256 = "c0a495ad070259dad11215e313ceed95e9e3466bab83506e75e781a5bedf76cb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-074cb0b47b594d1296ae7f1c69f260c5.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.39.33519-4133d2738826480e9dfd91852e7df252"] = {
-        sha256 = "7d760d8026fce24adf4319a558cffd94aeeb71fe7fd9b0e68f9eed05113bfef2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-4133d2738826480e9dfd91852e7df252.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.41.34120-b6bd246510454179bf27f3f5ff3f18d6"] = {
-        sha256 = "cb9bcd683178aa9195ce61d6231c8d1b7b0c58cc31ebfc840e9d59f2b468c67b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-b6bd246510454179bf27f3f5ff3f18d6.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-da7e289c43164872b94ccb85d74c2c50"] = {
-        sha256 = "c54cf497bb9fa77ad9eedd747494fa131ba88c189fb89d55468cfb87a5c3adc5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-da7e289c43164872b94ccb85d74c2c50.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.39.33519-18a18de6f4a7435bbb530fc9d4be04fb"] = {
-        sha256 = "a97bdedd4da6d74dad9ccfde9209a6c9ba1606d09132be4e63835b47da41c3f8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-18a18de6f4a7435bbb530fc9d4be04fb.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-5f70d5772c2e4609af3a2d71323ce4cc"] = {
-        sha256 = "ba01c3fb69d0835126d61d76f051647f13bbd18d11138956da2febf3d27db256",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-5f70d5772c2e4609af3a2d71323ce4cc.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-4171ec05f9e64d0192bba245b1396f9d"] = {
-        sha256 = "2c2974e70f80690551c9059b8d4a0e089f34aebfc715677c6109dc406ec62b5e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-4171ec05f9e64d0192bba245b1396f9d.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.40.33807-18a18de6f4a7435bbb530fc9d4be04fb"] = {
-        sha256 = "6ae64d2a96626ea00f3fb8499597469a445ba657961a871c0f70c1bd9257cc5c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-18a18de6f4a7435bbb530fc9d4be04fb.7z",
-        toolset = "14.40.33807"
-    },
     ["windows-x86-vc14.29.30133-af848948abed4a3a93f37d15062e3e9a"] = {
-        sha256 = "071beca13cdc6878bfefd0e9cfa7925ce9c7a53379f1916d641f6cd34d74f2cf",
+        sha256 = "fb02c4136e233642942e852ab92b0f497e1300b3d3ec40d4efede082d15ff77d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-af848948abed4a3a93f37d15062e3e9a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-18a18de6f4a7435bbb530fc9d4be04fb"] = {
-        sha256 = "6ef6ab2e0e9be0c6844850a41ed123a456c86439c14f259254b866a4f7350e2d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-18a18de6f4a7435bbb530fc9d4be04fb.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.40.33807-4df6e84f76144465a216006c7457eea5"] = {
-        sha256 = "192f48b50f5ddf1b489ffd9af335bb3a154f96190bf50053aaef142c209a783e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-4df6e84f76144465a216006c7457eea5.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.41.34120-af848948abed4a3a93f37d15062e3e9a"] = {
-        sha256 = "359ceb89de8584c33013fd9ef5e9164184f8257f5a4a210871347d2dce4b4f9d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-af848948abed4a3a93f37d15062e3e9a.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.39.33519-b6bd246510454179bf27f3f5ff3f18d6"] = {
-        sha256 = "27d5055def0098ba3109c6799698ca84fb004121f61c2bcc495a40b1b64a297e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-b6bd246510454179bf27f3f5ff3f18d6.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.29.30133-4171ec05f9e64d0192bba245b1396f9d"] = {
-        sha256 = "caa3cc9c796dc5a26cf06451d8bf03e93bf5cf4073ffee77ffb6572cbcc7eb4c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-4171ec05f9e64d0192bba245b1396f9d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-dc2cb92ce4ac455eabd18619cd380456"] = {
-        sha256 = "9469c69d909b990648865ab1a0c477c234c3ce145906f006bc0c43397d61aff8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-dc2cb92ce4ac455eabd18619cd380456.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-c362088c0c1041e3be27363b437c9376"] = {
-        sha256 = "e09c72d01ffc2b2a53f2c91957aeb76ef69c3e1f28f90379260355fb336d9c3e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-c362088c0c1041e3be27363b437c9376.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.40.33807-da7e289c43164872b94ccb85d74c2c50"] = {
-        sha256 = "483190454078da5e7158fa7505014b7c5cf46bae0b7c6eb38d462302cb37a0cf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-da7e289c43164872b94ccb85d74c2c50.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc142-4257d9069eee4a45957fe4d5fc019a41"] = {
-        sha256 = "6ccdd564cdf354a38b59e5c05db981130ee527d2ac20a7ea213881e5ca803147",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-4257d9069eee4a45957fe4d5fc019a41.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-4171ec05f9e64d0192bba245b1396f9d"] = {
-        sha256 = "6ab9fe0113a163adc162a7d694bbfb02b958eaf89693cf7e46b629c697de2399",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-4171ec05f9e64d0192bba245b1396f9d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-af848948abed4a3a93f37d15062e3e9a"] = {
-        sha256 = "82d99443d41e9829a111d7794f719cd0076a9a412d10e060cc9b7a18e1531720",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.40.33807-af848948abed4a3a93f37d15062e3e9a.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.37.32822-7d1147db277942f4b23c7a7063792443"] = {
-        sha256 = "9ffd28787ba05abc7583542c5fb66ba2240d82cd1f389d38508c4601828b0a71",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-7d1147db277942f4b23c7a7063792443.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-5f70d5772c2e4609af3a2d71323ce4cc"] = {
-        sha256 = "b7150cec99a2b948a8ac14a07e7fbab0705647284754516b83e77ec9f1b6db6a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-5f70d5772c2e4609af3a2d71323ce4cc.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-18a18de6f4a7435bbb530fc9d4be04fb"] = {
-        sha256 = "0c9480616129fb2f65edd0b2035630139699b2f77429ceacb156d83546b6f43e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-18a18de6f4a7435bbb530fc9d4be04fb.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-4257d9069eee4a45957fe4d5fc019a41"] = {
-        sha256 = "9916e519ebf631a2692951585da506f35b4cb32576133b4bbe655c936bb32fa4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-4257d9069eee4a45957fe4d5fc019a41.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-4df6e84f76144465a216006c7457eea5"] = {
-        sha256 = "fbd077c8d3b781af5dd0e5ff1c074f0e382bc3a1e02bf7ad366b973562cbbfc3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-4df6e84f76144465a216006c7457eea5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-dc2cb92ce4ac455eabd18619cd380456"] = {
-        sha256 = "159f781a72f00e03d3252ea6a3696642c2d8dbca6a9d1a9fff263637ed7ade9e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-dc2cb92ce4ac455eabd18619cd380456.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc142-7d1147db277942f4b23c7a7063792443"] = {
-        sha256 = "29d7e8691f6933cb9974aae2fea584fd4b33a368df7b2c7cdeccd867945b4548",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-7d1147db277942f4b23c7a7063792443.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-ca2f6713dc644f52a3b31ed6cbc005e9"] = {
-        sha256 = "f41262341b7486d09572abf4963d3685bb205ba10da6852d8d567d4a0e6ab211",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-ca2f6713dc644f52a3b31ed6cbc005e9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-4df6e84f76144465a216006c7457eea5"] = {
-        sha256 = "22fee15c84f1eb14c108ea87b18a4ea1bd316920d883d2db85e31fffc562132f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-4df6e84f76144465a216006c7457eea5.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc142-074cb0b47b594d1296ae7f1c69f260c5"] = {
-        sha256 = "102b3acb31eb3d6de0b4be9d80cc3f9bb2d2825e6513683879f65806cb8f55a6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-074cb0b47b594d1296ae7f1c69f260c5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-c362088c0c1041e3be27363b437c9376"] = {
-        sha256 = "517ef0a4abab2dc9b6e4690c84f53f2c0ac96974195d49997e511c69c498288a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-c362088c0c1041e3be27363b437c9376.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.41.34120-c362088c0c1041e3be27363b437c9376"] = {
-        sha256 = "1fdc5979a0c5cba53a191bbab929d455f5b58f0bc721c9e94303176b2375b438",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-c362088c0c1041e3be27363b437c9376.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.39.33519-af848948abed4a3a93f37d15062e3e9a"] = {
-        sha256 = "4994ffbbd4dbefb1e0457644e94882d1adb74f7a1eb3ac071d1fc9d0ff2c7138",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-af848948abed4a3a93f37d15062e3e9a.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc142-ca2f6713dc644f52a3b31ed6cbc005e9"] = {
-        sha256 = "0d9c64dc7ae8ab40383e41dbce4a7c4fea686b11c067d303d6c055e2708dfcab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-ca2f6713dc644f52a3b31ed6cbc005e9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-074cb0b47b594d1296ae7f1c69f260c5"] = {
-        sha256 = "003d44faf2fbb8fa0dfdcba12494f5dd7281b619f1f769c4565421a467bf6e06",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-074cb0b47b594d1296ae7f1c69f260c5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-7be85251f98e409a80983191a4d5b20d"] = {
-        sha256 = "3895657742daed9b92668d54ebd7a5cdc312fb0dd053ac34c425f5b9d2040432",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-7be85251f98e409a80983191a4d5b20d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-7be85251f98e409a80983191a4d5b20d"] = {
-        sha256 = "b54d6d27950975d9c2ab57645867ea39af0a88041b99ffc535b2eb10c38a1aa9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-7be85251f98e409a80983191a4d5b20d.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-c3be4ba8b9644098868bbb85c88bbf20"] = {
-        sha256 = "ff967d8948061c8fcba42df3253beeda7165bd7d8c895ba872cdc0c3eec8e8dd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-c3be4ba8b9644098868bbb85c88bbf20.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-7d1147db277942f4b23c7a7063792443"] = {
-        sha256 = "fbf73db114b81f1a79d9c6c8f2d417cd5e5a558381a23126fd2a7249d8bcf43c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-7d1147db277942f4b23c7a7063792443.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.37.32822-c3be4ba8b9644098868bbb85c88bbf20"] = {
@@ -229,20 +29,70 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-c3be4ba8b9644098868bbb85c88bbf20.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.29.30133-b6bd246510454179bf27f3f5ff3f18d6"] = {
-        sha256 = "16d9e60d51a065a6fcf81f47c2363ecb2dc16ca7e7e2722cb753e29d2c0a4509",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-b6bd246510454179bf27f3f5ff3f18d6.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.40.33807-18a18de6f4a7435bbb530fc9d4be04fb"] = {
+        sha256 = "6ae64d2a96626ea00f3fb8499597469a445ba657961a871c0f70c1bd9257cc5c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-18a18de6f4a7435bbb530fc9d4be04fb.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-da7e289c43164872b94ccb85d74c2c50"] = {
+        sha256 = "483190454078da5e7158fa7505014b7c5cf46bae0b7c6eb38d462302cb37a0cf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-da7e289c43164872b94ccb85d74c2c50.7z",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.29.30133-c362088c0c1041e3be27363b437c9376"] = {
-        sha256 = "cd01d358e65727a7c35e0643da93bb35ed8d8fc3ddda2eb1fe937718da67f641",
+        sha256 = "f083b56d054786c026987b816821e650918c82db04284cf13e3d4846290534dd",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-c362088c0c1041e3be27363b437c9376.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.39.33519-7be85251f98e409a80983191a4d5b20d"] = {
-        sha256 = "b04e65f2f94de9a436aa135fbfa336c643070361590b8f8eb6121ca8adb7d874",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-7be85251f98e409a80983191a4d5b20d.7z",
+    ["windows-x64-vc14.39.33519-18a18de6f4a7435bbb530fc9d4be04fb"] = {
+        sha256 = "a97bdedd4da6d74dad9ccfde9209a6c9ba1606d09132be4e63835b47da41c3f8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-18a18de6f4a7435bbb530fc9d4be04fb.7z",
         toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.37.32822-7d1147db277942f4b23c7a7063792443"] = {
+        sha256 = "9ffd28787ba05abc7583542c5fb66ba2240d82cd1f389d38508c4601828b0a71",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-7d1147db277942f4b23c7a7063792443.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-4133d2738826480e9dfd91852e7df252"] = {
+        sha256 = "1d349134dd982135214d0c6eb3e6af3b4a966d77f88345562d9debecf68117dc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-4133d2738826480e9dfd91852e7df252.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-4df6e84f76144465a216006c7457eea5"] = {
+        sha256 = "48421fb168a56567077be80c5f6a7fbc589619319658bac40662f6648e9bd800",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-4df6e84f76144465a216006c7457eea5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-c3be4ba8b9644098868bbb85c88bbf20"] = {
+        sha256 = "f6ca6421a7005490764b0a26159477e98aed25ef4d072232af0694989f21f2f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-c3be4ba8b9644098868bbb85c88bbf20.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-dc2cb92ce4ac455eabd18619cd380456"] = {
+        sha256 = "002fd9da9b184c105edda2488e7b87a480bbfb9e83b10a97f4058f052f27bb29",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-dc2cb92ce4ac455eabd18619cd380456.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-ca2f6713dc644f52a3b31ed6cbc005e9"] = {
+        sha256 = "f41262341b7486d09572abf4963d3685bb205ba10da6852d8d567d4a0e6ab211",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-ca2f6713dc644f52a3b31ed6cbc005e9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-4171ec05f9e64d0192bba245b1396f9d"] = {
+        sha256 = "6ab9fe0113a163adc162a7d694bbfb02b958eaf89693cf7e46b629c697de2399",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-4171ec05f9e64d0192bba245b1396f9d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-c362088c0c1041e3be27363b437c9376"] = {
+        sha256 = "288621e0288b70e766046da7d747b2ca0d15b0bf9ac2fec6cfcddeb91a0c1f0c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-c362088c0c1041e3be27363b437c9376.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-7be85251f98e409a80983191a4d5b20d"] = {
+        sha256 = "ad2999c4219f63e838c7bf819ce6d0c2000eab30dbaaa67d6a67b0864e88fe00",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-7be85251f98e409a80983191a4d5b20d.7z",
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.40.33807-7be85251f98e409a80983191a4d5b20d"] = {
         sha256 = "1059def9f2a07fbe0e0020e28d3c110f8ce0910d3231af575fa18c5c19b186f7",
@@ -254,29 +104,179 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-da7e289c43164872b94ccb85d74c2c50.7z",
         toolset = "14.39.33519"
     },
+    ["windows-x64-vc14.37.32822-074cb0b47b594d1296ae7f1c69f260c5"] = {
+        sha256 = "c0a495ad070259dad11215e313ceed95e9e3466bab83506e75e781a5bedf76cb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-074cb0b47b594d1296ae7f1c69f260c5.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-da7e289c43164872b94ccb85d74c2c50"] = {
+        sha256 = "1031bea29a1cd6c74cda2ebac372c8842dc0ddf7214d3eb9fc7ba79bc1fd0c23",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-da7e289c43164872b94ccb85d74c2c50.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-074cb0b47b594d1296ae7f1c69f260c5"] = {
+        sha256 = "102b3acb31eb3d6de0b4be9d80cc3f9bb2d2825e6513683879f65806cb8f55a6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-074cb0b47b594d1296ae7f1c69f260c5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-7be85251f98e409a80983191a4d5b20d"] = {
+        sha256 = "3d3399e583bad89cb6910440994a21ab035a9652e8c305caf20338d7ca14c8fa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-7be85251f98e409a80983191a4d5b20d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-c3be4ba8b9644098868bbb85c88bbf20"] = {
+        sha256 = "ff967d8948061c8fcba42df3253beeda7165bd7d8c895ba872cdc0c3eec8e8dd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-c3be4ba8b9644098868bbb85c88bbf20.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-4171ec05f9e64d0192bba245b1396f9d"] = {
+        sha256 = "2c2974e70f80690551c9059b8d4a0e089f34aebfc715677c6109dc406ec62b5e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-4171ec05f9e64d0192bba245b1396f9d.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.40.33807-af848948abed4a3a93f37d15062e3e9a"] = {
+        sha256 = "82d99443d41e9829a111d7794f719cd0076a9a412d10e060cc9b7a18e1531720",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.40.33807-af848948abed4a3a93f37d15062e3e9a.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.39.33519-4133d2738826480e9dfd91852e7df252"] = {
+        sha256 = "7d760d8026fce24adf4319a558cffd94aeeb71fe7fd9b0e68f9eed05113bfef2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-4133d2738826480e9dfd91852e7df252.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.41.34120-4133d2738826480e9dfd91852e7df252"] = {
+        sha256 = "abe393f4418c28c70187e0e1895424b34f67af102fcdc68ba171edd62aa81556",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-4133d2738826480e9dfd91852e7df252.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.37.32822-dc2cb92ce4ac455eabd18619cd380456"] = {
+        sha256 = "159f781a72f00e03d3252ea6a3696642c2d8dbca6a9d1a9fff263637ed7ade9e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-dc2cb92ce4ac455eabd18619cd380456.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.29.30133-4257d9069eee4a45957fe4d5fc019a41"] = {
+        sha256 = "9916e519ebf631a2692951585da506f35b4cb32576133b4bbe655c936bb32fa4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-4257d9069eee4a45957fe4d5fc019a41.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-074cb0b47b594d1296ae7f1c69f260c5"] = {
+        sha256 = "003d44faf2fbb8fa0dfdcba12494f5dd7281b619f1f769c4565421a467bf6e06",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-074cb0b47b594d1296ae7f1c69f260c5.7z",
+        toolset = "14.29.30133"
+    },
     ["windows-x64-vc14.41.34120-4df6e84f76144465a216006c7457eea5"] = {
-        sha256 = "913973ebe867e875fd9ac395c351671dc4455e09f600558d83f7cba379248640",
+        sha256 = "69ca71db286c5bf03c3ec10b5eb055578631d8d89bb4c70e128a81b85d754f4c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-4df6e84f76144465a216006c7457eea5.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.37.32822-ca2f6713dc644f52a3b31ed6cbc005e9"] = {
-        sha256 = "b86767ed27928bf15492a377a0fc1630021e219d96823587e78d7bd9cf8136a3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-ca2f6713dc644f52a3b31ed6cbc005e9.7z",
+    ["windows-x86-vc14.39.33519-7be85251f98e409a80983191a4d5b20d"] = {
+        sha256 = "b04e65f2f94de9a436aa135fbfa336c643070361590b8f8eb6121ca8adb7d874",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-7be85251f98e409a80983191a4d5b20d.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.40.33807-4df6e84f76144465a216006c7457eea5"] = {
+        sha256 = "192f48b50f5ddf1b489ffd9af335bb3a154f96190bf50053aaef142c209a783e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-4df6e84f76144465a216006c7457eea5.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.41.34120-af848948abed4a3a93f37d15062e3e9a"] = {
+        sha256 = "7ba41a7022689ce99d8a72543e8f9c96f2052c777c3f7bf4d94812a6cee7b565",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-af848948abed4a3a93f37d15062e3e9a.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.37.32822-5f70d5772c2e4609af3a2d71323ce4cc"] = {
+        sha256 = "b7150cec99a2b948a8ac14a07e7fbab0705647284754516b83e77ec9f1b6db6a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-5f70d5772c2e4609af3a2d71323ce4cc.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.29.30133-dc2cb92ce4ac455eabd18619cd380456"] = {
-        sha256 = "002fd9da9b184c105edda2488e7b87a480bbfb9e83b10a97f4058f052f27bb29",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-dc2cb92ce4ac455eabd18619cd380456.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.41.34120-18a18de6f4a7435bbb530fc9d4be04fb"] = {
+        sha256 = "403a395f2cbe5690eb1d357d9ab6f9ec2ad2b76c9a9f2fcfe503752fbd5c8ed5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-18a18de6f4a7435bbb530fc9d4be04fb.7z",
+        toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.29.30133-da7e289c43164872b94ccb85d74c2c50"] = {
-        sha256 = "f7111be99e5c40c8e1b41e55edc1b411b9061a1169ea59dc8f145cacabf3e4b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-da7e289c43164872b94ccb85d74c2c50.7z",
+    ["windows-x64-vc14.29.30133-5f70d5772c2e4609af3a2d71323ce4cc"] = {
+        sha256 = "ba01c3fb69d0835126d61d76f051647f13bbd18d11138956da2febf3d27db256",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-5f70d5772c2e4609af3a2d71323ce4cc.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.40.33807-b6bd246510454179bf27f3f5ff3f18d6"] = {
         sha256 = "d1a0e98137cdd4c806695f5a3d7c2843e0352156d047c1a1cf735a270c2b463b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.40.33807-b6bd246510454179bf27f3f5ff3f18d6.7z",
         toolset = "14.40.33807"
+    },
+    ["windows-x64-vc142-dc2cb92ce4ac455eabd18619cd380456"] = {
+        sha256 = "9469c69d909b990648865ab1a0c477c234c3ce145906f006bc0c43397d61aff8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-dc2cb92ce4ac455eabd18619cd380456.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-c362088c0c1041e3be27363b437c9376"] = {
+        sha256 = "517ef0a4abab2dc9b6e4690c84f53f2c0ac96974195d49997e511c69c498288a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.40.33807-c362088c0c1041e3be27363b437c9376.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.37.32822-4257d9069eee4a45957fe4d5fc019a41"] = {
+        sha256 = "2c2926608274a7ec5e790ce5e436f96149d5f414df39ad2e4bdf68cef3587616",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.37.32822-4257d9069eee4a45957fe4d5fc019a41.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.39.33519-af848948abed4a3a93f37d15062e3e9a"] = {
+        sha256 = "4994ffbbd4dbefb1e0457644e94882d1adb74f7a1eb3ac071d1fc9d0ff2c7138",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.39.33519-af848948abed4a3a93f37d15062e3e9a.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.39.33519-4df6e84f76144465a216006c7457eea5"] = {
+        sha256 = "22fee15c84f1eb14c108ea87b18a4ea1bd316920d883d2db85e31fffc562132f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-4df6e84f76144465a216006c7457eea5.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.41.34120-b6bd246510454179bf27f3f5ff3f18d6"] = {
+        sha256 = "f856f2215abc6d1e78b4a0c1283d4486929b8e5f42577a00c005c7fbbf15a215",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.41.34120-b6bd246510454179bf27f3f5ff3f18d6.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc142-7d1147db277942f4b23c7a7063792443"] = {
+        sha256 = "29d7e8691f6933cb9974aae2fea584fd4b33a368df7b2c7cdeccd867945b4548",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-7d1147db277942f4b23c7a7063792443.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-18a18de6f4a7435bbb530fc9d4be04fb"] = {
+        sha256 = "d27727b11aaba7e88209fcefe75bba385b7b4596589595e2d94442fe6a28dcbb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.29.30133-18a18de6f4a7435bbb530fc9d4be04fb.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-5f70d5772c2e4609af3a2d71323ce4cc"] = {
+        sha256 = "906eeac3ed2067471abca9a7bdb28a8a5a17224ae28e03fa1e4470829d85d9ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc142-5f70d5772c2e4609af3a2d71323ce4cc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-da7e289c43164872b94ccb85d74c2c50"] = {
+        sha256 = "5f428a5828b525f66d0e29e4b98f15c32b289c4c53118ea89bb0898445c3c185",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.41.34120-da7e289c43164872b94ccb85d74c2c50.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc142-ca2f6713dc644f52a3b31ed6cbc005e9"] = {
+        sha256 = "0d9c64dc7ae8ab40383e41dbce4a7c4fea686b11c067d303d6c055e2708dfcab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc142-ca2f6713dc644f52a3b31ed6cbc005e9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-4171ec05f9e64d0192bba245b1396f9d"] = {
+        sha256 = "caa3cc9c796dc5a26cf06451d8bf03e93bf5cf4073ffee77ffb6572cbcc7eb4c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-4171ec05f9e64d0192bba245b1396f9d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-ca2f6713dc644f52a3b31ed6cbc005e9"] = {
+        sha256 = "b86767ed27928bf15492a377a0fc1630021e219d96823587e78d7bd9cf8136a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.37.32822-ca2f6713dc644f52a3b31ed6cbc005e9.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-b6bd246510454179bf27f3f5ff3f18d6"] = {
+        sha256 = "254ed2d2281e3bbef9cd7ce3f05e2c1c4834ed82e0768ac56c64d1e5090df5e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x86-vc14.29.30133-b6bd246510454179bf27f3f5ff3f18d6.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-c362088c0c1041e3be27363b437c9376"] = {
+        sha256 = "e09c72d01ffc2b2a53f2c91957aeb76ef69c3e1f28f90379260355fb336d9c3e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libass-0.17.1/windows-x64-vc14.39.33519-c362088c0c1041e3be27363b437c9376.7z",
+        toolset = "14.39.33519"
     }
 }
