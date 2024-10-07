@@ -1,122 +1,192 @@
 {
-    ["windows-x86-vc14.29.30133-f1b08d9e69bd498b8876432733204732"] = {
-        sha256 = "d43be3fa4dd50b1a7bb453aedea87ba165e4acae63a23a200cbeefefee0fd85d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-f1b08d9e69bd498b8876432733204732.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-80d38f94a26044d3955446d80bc4d7d2"] = {
-        sha256 = "68ec41e4c95eaabccc8cf51f8822f3a5e25b28f3bdf0f5071887de2e9dde8592",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-80d38f94a26044d3955446d80bc4d7d2.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-20d6a314a6534b8d8a54ec397c78954b"] = {
-        sha256 = "a48e454323968c067b6f6e2415e1689ef9ec9fb1bfe4d89c464eefb02ede1052",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-20d6a314a6534b8d8a54ec397c78954b.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-aad102b928a94645a15e0a1a02d7ad9f"] = {
-        sha256 = "894525b6830e21032376fdb0978dcc3d28117e571856dbf1f398de37add4e5e2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-aad102b928a94645a15e0a1a02d7ad9f.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-b82cd920062e4c79977d021f35ec24f4"] = {
-        sha256 = "ec02f7dee70822c9befffb769765206523d65da1fc9d2b63d90bcb490e83993b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-b82cd920062e4c79977d021f35ec24f4.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-92e0b03390b44fc3bb7ae8c9a3b7b6d1"] = {
-        sha256 = "429e18f729e2c582ad8541ce4ae47c443a448d0713a01e582436d7a4f0daa09a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-92e0b03390b44fc3bb7ae8c9a3b7b6d1.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-aad102b928a94645a15e0a1a02d7ad9f"] = {
-        sha256 = "5cb1284735834a4cb211a8d4c8c49ad77288bebb2b184ab46d87cb3797116a40",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-aad102b928a94645a15e0a1a02d7ad9f.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-20d6a314a6534b8d8a54ec397c78954b"] = {
-        sha256 = "2be31600c61f80e82e4a7045f55f757fc0156e1b443a2be2899c3ca239df2135",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-20d6a314a6534b8d8a54ec397c78954b.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-29f086e7236c4a719d24608d6c35d644"] = {
-        sha256 = "eb6492c33d4af7392c2d1a2dac7e1b2c501b906502a6d717589cd4ead3b7a586",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-29f086e7236c4a719d24608d6c35d644.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-7cdd64c23f9a4a929604896bcf5abf00"] = {
-        sha256 = "f454daa916d3f6d7217738bcf6e531df6a9237994f7fc6702365bae1ebac5d6e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-7cdd64c23f9a4a929604896bcf5abf00.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.41.34120-7cdd64c23f9a4a929604896bcf5abf00"] = {
-        sha256 = "5f1136fd566cbf17730414a5b57f4648d62bb7ce04dfe843cfbccde2d134e5f3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-7cdd64c23f9a4a929604896bcf5abf00.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-aad102b928a94645a15e0a1a02d7ad9f"] = {
-        sha256 = "b36eae0a3ca74e38c087b3eeea413d930be34c25a69f7179d7a5b2e44990c75b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-aad102b928a94645a15e0a1a02d7ad9f.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.40.33807-92e0b03390b44fc3bb7ae8c9a3b7b6d1"] = {
-        sha256 = "0e07b558cc791e51d0546331c1bee21cc7f252a221f6dc58eaacafde5c2fe966",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-92e0b03390b44fc3bb7ae8c9a3b7b6d1.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-92e0b03390b44fc3bb7ae8c9a3b7b6d1"] = {
-        sha256 = "b1b5443a73862cfd8b757a7d7fa00c58eedf2e0b28dea1d5bc1af94960344aff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-92e0b03390b44fc3bb7ae8c9a3b7b6d1.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-b82cd920062e4c79977d021f35ec24f4"] = {
-        sha256 = "ca7968dbbb082298f71a2491bf5318f0a345fd5b389f2d261a591fb053f3ea79",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.40.33807-b82cd920062e4c79977d021f35ec24f4.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-80d38f94a26044d3955446d80bc4d7d2"] = {
-        sha256 = "4379708a69d6b6308036e00844b48ff5cc1d9f157b97a7f9bd6217280432195d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.40.33807-80d38f94a26044d3955446d80bc4d7d2.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.41.34120-80d38f94a26044d3955446d80bc4d7d2"] = {
-        sha256 = "e7a3dc2e09aefc86d4b15a295566a54f740c4b19b57c21b0b4afdd4f5c828be8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-80d38f94a26044d3955446d80bc4d7d2.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-7cdd64c23f9a4a929604896bcf5abf00"] = {
-        sha256 = "efc8441fcdd5e4465a9fb8bf67accfb4f5ad485b40b6e00a5bba07bce8dfd2cf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-7cdd64c23f9a4a929604896bcf5abf00.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.41.34120-29f086e7236c4a719d24608d6c35d644"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-29f086e7236c4a719d24608d6c35d644.7z",
+        sha256 = "a5996ef620e1e710dffc9698f0b9b7ffaa063db2d44ec853bb1936c87d77dccd"
     },
     ["windows-x86-vc14.40.33807-f1b08d9e69bd498b8876432733204732"] = {
-        sha256 = "94c3c509e1e961516ea739d41bd0eb50bd2b287021409664dcfa7e4707ac57aa",
+        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.40.33807-f1b08d9e69bd498b8876432733204732.7z",
-        toolset = "14.40.33807"
+        sha256 = "94c3c509e1e961516ea739d41bd0eb50bd2b287021409664dcfa7e4707ac57aa"
     },
-    ["windows-x86-vc14.41.34120-f1b08d9e69bd498b8876432733204732"] = {
-        sha256 = "bd238dedfdb87670c63b6949275faf4ef0c7a9abaf8782c4075dee2aedc8219f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-f1b08d9e69bd498b8876432733204732.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.40.33807-aad102b928a94645a15e0a1a02d7ad9f"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-aad102b928a94645a15e0a1a02d7ad9f.7z",
+        sha256 = "894525b6830e21032376fdb0978dcc3d28117e571856dbf1f398de37add4e5e2"
+    },
+    ["windows-x64-vc14.41.34120-92e0b03390b44fc3bb7ae8c9a3b7b6d1"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-92e0b03390b44fc3bb7ae8c9a3b7b6d1.7z",
+        sha256 = "429e18f729e2c582ad8541ce4ae47c443a448d0713a01e582436d7a4f0daa09a"
+    },
+    ["windows-x86-vc14.29.30133-f1b08d9e69bd498b8876432733204732"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-f1b08d9e69bd498b8876432733204732.7z",
+        sha256 = "d43be3fa4dd50b1a7bb453aedea87ba165e4acae63a23a200cbeefefee0fd85d"
+    },
+    ["windows-x64-vc14.41.34120-aad102b928a94645a15e0a1a02d7ad9f"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-aad102b928a94645a15e0a1a02d7ad9f.7z",
+        sha256 = "b36eae0a3ca74e38c087b3eeea413d930be34c25a69f7179d7a5b2e44990c75b"
+    },
+    ["windows-x64-vc14.29.30133-92e0b03390b44fc3bb7ae8c9a3b7b6d1"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-92e0b03390b44fc3bb7ae8c9a3b7b6d1.7z",
+        sha256 = "b1b5443a73862cfd8b757a7d7fa00c58eedf2e0b28dea1d5bc1af94960344aff"
+    },
+    ["windows-x86-vc14.40.33807-b82cd920062e4c79977d021f35ec24f4"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.40.33807-b82cd920062e4c79977d021f35ec24f4.7z",
+        sha256 = "ca7968dbbb082298f71a2491bf5318f0a345fd5b389f2d261a591fb053f3ea79"
+    },
+    ["windows-x64-vc14.40.33807-7cdd64c23f9a4a929604896bcf5abf00"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-7cdd64c23f9a4a929604896bcf5abf00.7z",
+        sha256 = "f454daa916d3f6d7217738bcf6e531df6a9237994f7fc6702365bae1ebac5d6e"
+    },
+    ["windows-x64-vc14.29.30133-1b34c81ab1e04ffeafed3f0c1620e35a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-1b34c81ab1e04ffeafed3f0c1620e35a.7z",
+        sha256 = "022f16dafec019d1e21553fce3b8cb22adf56e756e99ca48be9e9a1b64b42f3e"
     },
     ["windows-x86-vc14.40.33807-29f086e7236c4a719d24608d6c35d644"] = {
-        sha256 = "170548688d55275bd63f6b7c4fbc3dd3ee84fca511a094194f73a9b3f14f76c1",
+        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.40.33807-29f086e7236c4a719d24608d6c35d644.7z",
-        toolset = "14.40.33807"
+        sha256 = "170548688d55275bd63f6b7c4fbc3dd3ee84fca511a094194f73a9b3f14f76c1"
     },
-    ["windows-x86-vc14.41.34120-29f086e7236c4a719d24608d6c35d644"] = {
-        sha256 = "a5996ef620e1e710dffc9698f0b9b7ffaa063db2d44ec853bb1936c87d77dccd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-29f086e7236c4a719d24608d6c35d644.7z",
-        toolset = "14.41.34120"
+    ["windows-x86-vc14.29.30133-29f086e7236c4a719d24608d6c35d644"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-29f086e7236c4a719d24608d6c35d644.7z",
+        sha256 = "eb6492c33d4af7392c2d1a2dac7e1b2c501b906502a6d717589cd4ead3b7a586"
+    },
+    ["windows-x86-vc14.41.34120-f1b08d9e69bd498b8876432733204732"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-f1b08d9e69bd498b8876432733204732.7z",
+        sha256 = "bd238dedfdb87670c63b6949275faf4ef0c7a9abaf8782c4075dee2aedc8219f"
+    },
+    ["windows-x64-vc14.40.33807-20d6a314a6534b8d8a54ec397c78954b"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-20d6a314a6534b8d8a54ec397c78954b.7z",
+        sha256 = "a48e454323968c067b6f6e2415e1689ef9ec9fb1bfe4d89c464eefb02ede1052"
+    },
+    ["windows-x64-vc14.41.34120-20d6a314a6534b8d8a54ec397c78954b"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-20d6a314a6534b8d8a54ec397c78954b.7z",
+        sha256 = "2be31600c61f80e82e4a7045f55f757fc0156e1b443a2be2899c3ca239df2135"
+    },
+    ["windows-x64-vc14.41.34120-3e8ee3d11ce14e479bafabb5de961834"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-3e8ee3d11ce14e479bafabb5de961834.7z",
+        sha256 = "0aec4491d6113f96757e59543b579831a64b8da9e6ea743a17061a66ddf2ee6a"
+    },
+    ["windows-x86-vc14.41.34120-80d38f94a26044d3955446d80bc4d7d2"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-80d38f94a26044d3955446d80bc4d7d2.7z",
+        sha256 = "e7a3dc2e09aefc86d4b15a295566a54f740c4b19b57c21b0b4afdd4f5c828be8"
+    },
+    ["windows-x86-vc14.41.34120-7f940158043f415da221c0e0b7448afa"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-7f940158043f415da221c0e0b7448afa.7z",
+        sha256 = "2753416378de7290e9591ef0cd68f6ab4d7482658207d603af9fd0c27c3e4cda"
+    },
+    ["windows-x64-vc14.41.34120-d26670296e614585a80bf538354771f4"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-d26670296e614585a80bf538354771f4.7z",
+        sha256 = "dba5861614394dcce46683d8a272e414a4bc023c9e33beca547db8ff83dd3b01"
+    },
+    ["windows-x86-vc14.29.30133-b82cd920062e4c79977d021f35ec24f4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-b82cd920062e4c79977d021f35ec24f4.7z",
+        sha256 = "ec02f7dee70822c9befffb769765206523d65da1fc9d2b63d90bcb490e83993b"
+    },
+    ["windows-x64-vc14.40.33807-92e0b03390b44fc3bb7ae8c9a3b7b6d1"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.40.33807-92e0b03390b44fc3bb7ae8c9a3b7b6d1.7z",
+        sha256 = "0e07b558cc791e51d0546331c1bee21cc7f252a221f6dc58eaacafde5c2fe966"
+    },
+    ["windows-x86-vc14.29.30133-ac1ad95b848643daa52d2be392a4bd2b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-ac1ad95b848643daa52d2be392a4bd2b.7z",
+        sha256 = "e9a89173e8b74830c2aee8e9d3378096f5f9745eaa8f01e7a5d57bd3c7fdb6e7"
+    },
+    ["windows-x64-vc14.29.30133-aad102b928a94645a15e0a1a02d7ad9f"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-aad102b928a94645a15e0a1a02d7ad9f.7z",
+        sha256 = "5cb1284735834a4cb211a8d4c8c49ad77288bebb2b184ab46d87cb3797116a40"
+    },
+    ["windows-x64-vc14.29.30133-d26670296e614585a80bf538354771f4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-d26670296e614585a80bf538354771f4.7z",
+        sha256 = "de10a1d1e41a813c9d16182f01b462adc3403c02c6b38dddd967bf71b1aa970d"
+    },
+    ["windows-x64-vc14.41.34120-e0cadacc115241ed918df3149153cf88"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-e0cadacc115241ed918df3149153cf88.7z",
+        sha256 = "8ab0eef68bbd7bdfb053916035ddc6eec1da504fef72d8795f3906f492effed2"
+    },
+    ["windows-x86-vc14.41.34120-ac1ad95b848643daa52d2be392a4bd2b"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-ac1ad95b848643daa52d2be392a4bd2b.7z",
+        sha256 = "a38af8440b202d644486f069b2f708cc0c454fc6f8bafde9f8278ebd4f919a23"
+    },
+    ["windows-x64-vc14.41.34120-1b34c81ab1e04ffeafed3f0c1620e35a"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-1b34c81ab1e04ffeafed3f0c1620e35a.7z",
+        sha256 = "e09e1585b45a2322509edae3983b1cc615b91971c89c7cc7694b3ee2a8970fd1"
+    },
+    ["windows-x86-vc14.29.30133-40486151f3814170a9a57dc6991ea852"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-40486151f3814170a9a57dc6991ea852.7z",
+        sha256 = "8d177831bf45de5f0798f9b35b6afac191a0e5181eafba81761a2335c0eccdfd"
     },
     ["windows-x64-vc14.29.30133-20d6a314a6534b8d8a54ec397c78954b"] = {
-        sha256 = "1c26607c1027be47e5f03bd181e813c1d390ebfaf3bd00680ff48d04037a9d3d",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-20d6a314a6534b8d8a54ec397c78954b.7z",
-        toolset = "14.29.30133"
+        sha256 = "1c26607c1027be47e5f03bd181e813c1d390ebfaf3bd00680ff48d04037a9d3d"
+    },
+    ["windows-x64-vc14.29.30133-7cdd64c23f9a4a929604896bcf5abf00"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-7cdd64c23f9a4a929604896bcf5abf00.7z",
+        sha256 = "efc8441fcdd5e4465a9fb8bf67accfb4f5ad485b40b6e00a5bba07bce8dfd2cf"
     },
     ["windows-x86-vc14.41.34120-b82cd920062e4c79977d021f35ec24f4"] = {
-        sha256 = "c3f6f7c07e92cdd3b60e2138247e2182e53fae77f0bae1ab8fce4a7345a8113c",
+        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-b82cd920062e4c79977d021f35ec24f4.7z",
-        toolset = "14.41.34120"
+        sha256 = "c3f6f7c07e92cdd3b60e2138247e2182e53fae77f0bae1ab8fce4a7345a8113c"
+    },
+    ["windows-x86-vc14.29.30133-7f940158043f415da221c0e0b7448afa"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-7f940158043f415da221c0e0b7448afa.7z",
+        sha256 = "e3974a4be12f6cb7c96156b34ee5e6866682e55b457535d9e4aa83db84fa2c0b"
+    },
+    ["windows-x86-vc14.41.34120-40486151f3814170a9a57dc6991ea852"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.41.34120-40486151f3814170a9a57dc6991ea852.7z",
+        sha256 = "c30d0b220334ad614a46d3e00fa7befb6cc860457e03c8e5d84cc9e0ea89fc41"
+    },
+    ["windows-x64-vc14.29.30133-3e8ee3d11ce14e479bafabb5de961834"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-3e8ee3d11ce14e479bafabb5de961834.7z",
+        sha256 = "be32f3cfc04029d8a77a18bca3a76bbfb596de5966101ce7cb532cff4a733860"
+    },
+    ["windows-x86-vc14.29.30133-80d38f94a26044d3955446d80bc4d7d2"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.29.30133-80d38f94a26044d3955446d80bc4d7d2.7z",
+        sha256 = "68ec41e4c95eaabccc8cf51f8822f3a5e25b28f3bdf0f5071887de2e9dde8592"
+    },
+    ["windows-x64-vc14.41.34120-7cdd64c23f9a4a929604896bcf5abf00"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.41.34120-7cdd64c23f9a4a929604896bcf5abf00.7z",
+        sha256 = "5f1136fd566cbf17730414a5b57f4648d62bb7ce04dfe843cfbccde2d134e5f3"
+    },
+    ["windows-x86-vc14.40.33807-80d38f94a26044d3955446d80bc4d7d2"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x86-vc14.40.33807-80d38f94a26044d3955446d80bc4d7d2.7z",
+        sha256 = "4379708a69d6b6308036e00844b48ff5cc1d9f157b97a7f9bd6217280432195d"
+    },
+    ["windows-x64-vc14.29.30133-e0cadacc115241ed918df3149153cf88"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgit2-v1.8.1/windows-x64-vc14.29.30133-e0cadacc115241ed918df3149153cf88.7z",
+        sha256 = "e99e1c3698a722584a4586911bffb76bbdef9a1887d32d8592ea3ce2170e193f"
     }
 }
