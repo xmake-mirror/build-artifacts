@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.41.34120-ca7618ab82d6420c91002971aa3b1bb9"] = {
-        sha256 = "0820c21e1f2ba773d4160710fd52dc364f029708080b871ba54d2af83cfcd4a8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-ca7618ab82d6420c91002971aa3b1bb9.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-632d809ae3a34771a91dfdfd1b1909fa"] = {
-        sha256 = "b19908e3e2daca798b3b01a7624f5251a252b4f92f5a7016c2a172aafaf1a432",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-632d809ae3a34771a91dfdfd1b1909fa.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-d34e84cba35e4d11a59962fe0640b1c8"] = {
-        sha256 = "0a47688e8560f9a040c20f066dcf8b80ddffb154d61a1db3c88080b41cbe2dd6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-d34e84cba35e4d11a59962fe0640b1c8.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-5fd3eb2e6af74362b556a844ae423801"] = {
-        sha256 = "384dbfb436b2442d85352e788685e41ca141fdee0655e531fdcf06d761675771",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-5fd3eb2e6af74362b556a844ae423801.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc14.29.30133-632d809ae3a34771a91dfdfd1b1909fa"] = {
-        sha256 = "250b868bda79901f8fc1f07c12d3b903ed287b77b7b3c3a880a70bd1d13ff77e",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-632d809ae3a34771a91dfdfd1b1909fa.7z",
-        toolset = "14.29.30133"
+        sha256 = "250b868bda79901f8fc1f07c12d3b903ed287b77b7b3c3a880a70bd1d13ff77e"
     },
-    ["windows-x64-vc14.29.30133-e220c5713eab4fd7ac42462460b1e1d6"] = {
-        sha256 = "67ee70e2bf43ebb55efe1db152acd383630e38261a30cb38a7a834bcb90ab2d6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-e220c5713eab4fd7ac42462460b1e1d6.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-e62c2ea97b504bb5946b4a00a8d8b603"] = {
-        sha256 = "fb4acbd1724384111cd9f66e4dac8dfc744b020a54d0878aa172b7bb6faa5789",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-e62c2ea97b504bb5946b4a00a8d8b603.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-e220c5713eab4fd7ac42462460b1e1d6"] = {
-        sha256 = "5af4604612f63e03d317099a28035fa4a910392b68672decf62e2e2f17ecf3b7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-e220c5713eab4fd7ac42462460b1e1d6.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-ca7618ab82d6420c91002971aa3b1bb9"] = {
-        sha256 = "00ad4524d9f7d0a68702a07576685a3d044f027091b0153dc26750ce4f2df0ed",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-ca7618ab82d6420c91002971aa3b1bb9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-0a5ad7da8b304d96909ba869afb21376"] = {
-        sha256 = "1be6c30850afad5f5870839610cb0ca2a5b33e144310580030adafc301920173",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-0a5ad7da8b304d96909ba869afb21376.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-7a05f23b9a714ae58c92c36f2d9475ec"] = {
-        sha256 = "2c8e3a07217924f7d998786c0e45c4acc9f3507d1caf611f1d2c5f9c0b111bb2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-7a05f23b9a714ae58c92c36f2d9475ec.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-0a5ad7da8b304d96909ba869afb21376"] = {
-        sha256 = "046dc857e01d2bc2242e416b463f7444f577ca61235201a7d47753c2fcf8860b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-0a5ad7da8b304d96909ba869afb21376.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.41.34120-1ed2e261c0ee43daa2b9a880b2a02247"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-1ed2e261c0ee43daa2b9a880b2a02247.7z",
+        sha256 = "22cacd3c45e3ef54d0e1ff9b90979e268cbdaebf268aab5f25aac6d2aef419d5"
     },
     ["windows-x86-vc14.41.34120-e62c2ea97b504bb5946b4a00a8d8b603"] = {
-        sha256 = "4ca64869ef6749a30155f597773a0c699ed400feab867fe87ce1282affe195f6",
+        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-e62c2ea97b504bb5946b4a00a8d8b603.7z",
-        toolset = "14.41.34120"
+        sha256 = "4ca64869ef6749a30155f597773a0c699ed400feab867fe87ce1282affe195f6"
     },
-    ["windows-x86-vc14.41.34120-7a05f23b9a714ae58c92c36f2d9475ec"] = {
-        sha256 = "0e57de7da72c75fd3810fa948cd8b3a15efc6f54608fc37e4029517b91b250c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-7a05f23b9a714ae58c92c36f2d9475ec.7z",
-        toolset = "14.41.34120"
+    ["windows-x86-vc14.29.30133-628afb453f31403483e1f10aa75e2e8b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-628afb453f31403483e1f10aa75e2e8b.7z",
+        sha256 = "ed5330a3d8fb4b022c2d5aa8aa2cfe6c3aee005643ec7419013694b8c279e59d"
+    },
+    ["windows-x86-vc14.29.30133-5fd3eb2e6af74362b556a844ae423801"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-5fd3eb2e6af74362b556a844ae423801.7z",
+        sha256 = "384dbfb436b2442d85352e788685e41ca141fdee0655e531fdcf06d761675771"
+    },
+    ["windows-x86-vc14.41.34120-628afb453f31403483e1f10aa75e2e8b"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-628afb453f31403483e1f10aa75e2e8b.7z",
+        sha256 = "83103fe0ba605f4b210d6ba8a613f0a7981840ca4c3648be9e4caac0533d5a7c"
+    },
+    ["windows-x86-vc14.29.30133-88b19605100e4991a9b4a409f255f00d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-88b19605100e4991a9b4a409f255f00d.7z",
+        sha256 = "567936706cda884ebda2e83d3bbdd17536bfc0fd385d599900362d48b0935a96"
+    },
+    ["windows-x86-vc14.41.34120-0a5ad7da8b304d96909ba869afb21376"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-0a5ad7da8b304d96909ba869afb21376.7z",
+        sha256 = "1be6c30850afad5f5870839610cb0ca2a5b33e144310580030adafc301920173"
+    },
+    ["windows-x64-vc14.41.34120-ca7618ab82d6420c91002971aa3b1bb9"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-ca7618ab82d6420c91002971aa3b1bb9.7z",
+        sha256 = "0820c21e1f2ba773d4160710fd52dc364f029708080b871ba54d2af83cfcd4a8"
+    },
+    ["windows-x64-vc14.29.30133-e220c5713eab4fd7ac42462460b1e1d6"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-e220c5713eab4fd7ac42462460b1e1d6.7z",
+        sha256 = "67ee70e2bf43ebb55efe1db152acd383630e38261a30cb38a7a834bcb90ab2d6"
+    },
+    ["windows-x64-vc14.29.30133-2ddf89e831864e6da1d8f41d2b0b6680"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-2ddf89e831864e6da1d8f41d2b0b6680.7z",
+        sha256 = "10fef769ff2979f9244659623e4844f5e4736e97c9f7ac8a0f145060733bb4e0"
+    },
+    ["windows-x64-vc14.29.30133-6691ec7e73144b8ba1063ea4dc94ea8c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-6691ec7e73144b8ba1063ea4dc94ea8c.7z",
+        sha256 = "b5aecd36ea2190b4a71dd8cf9b825226c89d0bf019660da283a671b4839d1452"
+    },
+    ["windows-x64-vc14.29.30133-cc44c58d5bf24c9eb41bf3fb23442b76"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-cc44c58d5bf24c9eb41bf3fb23442b76.7z",
+        sha256 = "e6b571345ccf11ddfa6613ce745c89e9ec5504fa88a4ae1b2ddc1aaf76576a52"
+    },
+    ["windows-x86-vc14.29.30133-0a5ad7da8b304d96909ba869afb21376"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-0a5ad7da8b304d96909ba869afb21376.7z",
+        sha256 = "046dc857e01d2bc2242e416b463f7444f577ca61235201a7d47753c2fcf8860b"
+    },
+    ["windows-x86-vc14.29.30133-851d9147282341cbbb78a242f4c66da4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-851d9147282341cbbb78a242f4c66da4.7z",
+        sha256 = "af47b0137d4f65314ac69b001e1ebcd50902da4ca5827f7fbaac5234bd69c971"
+    },
+    ["windows-x64-vc14.41.34120-632d809ae3a34771a91dfdfd1b1909fa"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-632d809ae3a34771a91dfdfd1b1909fa.7z",
+        sha256 = "b19908e3e2daca798b3b01a7624f5251a252b4f92f5a7016c2a172aafaf1a432"
+    },
+    ["windows-x64-vc14.29.30133-ca7618ab82d6420c91002971aa3b1bb9"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-ca7618ab82d6420c91002971aa3b1bb9.7z",
+        sha256 = "00ad4524d9f7d0a68702a07576685a3d044f027091b0153dc26750ce4f2df0ed"
     },
     ["windows-x64-vc14.41.34120-d34e84cba35e4d11a59962fe0640b1c8"] = {
-        sha256 = "d2dd3ef1a5a60bff8bfb435980c2961431d1049a09ce0b845c88e5694bf17795",
+        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-d34e84cba35e4d11a59962fe0640b1c8.7z",
-        toolset = "14.41.34120"
+        sha256 = "d2dd3ef1a5a60bff8bfb435980c2961431d1049a09ce0b845c88e5694bf17795"
+    },
+    ["windows-x86-vc14.29.30133-1ed2e261c0ee43daa2b9a880b2a02247"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-1ed2e261c0ee43daa2b9a880b2a02247.7z",
+        sha256 = "c336beb96940bb0444431ce7985be7d43057fd826ad3101dd06c99311bc98c94"
+    },
+    ["windows-x64-vc14.41.34120-2ddf89e831864e6da1d8f41d2b0b6680"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-2ddf89e831864e6da1d8f41d2b0b6680.7z",
+        sha256 = "d452d220d4e4dd5a1ba03c96babd130c842d129f3f73b3cdb2a400a8669aef07"
+    },
+    ["windows-x86-vc14.41.34120-851d9147282341cbbb78a242f4c66da4"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-851d9147282341cbbb78a242f4c66da4.7z",
+        sha256 = "c3f90211bb6f5ba7aff84c02ff5d561f76b0e24a52ecd00f9baa883f26d04b3e"
+    },
+    ["windows-x64-vc14.29.30133-d0d373d17aee4c15b1fed4842d74fa6a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-d0d373d17aee4c15b1fed4842d74fa6a.7z",
+        sha256 = "c9d4c59a560a3d45613a4e42d04796d7c6203d2f2843b24c58fd85c36dc998d1"
+    },
+    ["windows-x64-vc14.41.34120-6691ec7e73144b8ba1063ea4dc94ea8c"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-6691ec7e73144b8ba1063ea4dc94ea8c.7z",
+        sha256 = "117b45ec99e9a2657ac2d1f89559ee2b4eee85d83b5dfd2123ba6749c6dd6f3c"
+    },
+    ["windows-x64-vc14.29.30133-d34e84cba35e4d11a59962fe0640b1c8"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.29.30133-d34e84cba35e4d11a59962fe0640b1c8.7z",
+        sha256 = "0a47688e8560f9a040c20f066dcf8b80ddffb154d61a1db3c88080b41cbe2dd6"
+    },
+    ["windows-x86-vc14.29.30133-e62c2ea97b504bb5946b4a00a8d8b603"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-e62c2ea97b504bb5946b4a00a8d8b603.7z",
+        sha256 = "fb4acbd1724384111cd9f66e4dac8dfc744b020a54d0878aa172b7bb6faa5789"
     },
     ["windows-x86-vc14.41.34120-5fd3eb2e6af74362b556a844ae423801"] = {
-        sha256 = "985b0efccbe7db7c045863b75b078f39be6dec2d6d98d83ff3d6dce75beeebdb",
+        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-5fd3eb2e6af74362b556a844ae423801.7z",
-        toolset = "14.41.34120"
+        sha256 = "985b0efccbe7db7c045863b75b078f39be6dec2d6d98d83ff3d6dce75beeebdb"
+    },
+    ["windows-x86-vc14.41.34120-7a05f23b9a714ae58c92c36f2d9475ec"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-7a05f23b9a714ae58c92c36f2d9475ec.7z",
+        sha256 = "0e57de7da72c75fd3810fa948cd8b3a15efc6f54608fc37e4029517b91b250c7"
+    },
+    ["windows-x86-vc14.41.34120-88b19605100e4991a9b4a409f255f00d"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.41.34120-88b19605100e4991a9b4a409f255f00d.7z",
+        sha256 = "a5bdb52d15198ba70a6e34c30c856268d7aed3ccb6033b75ddfc9eaaa21e4342"
+    },
+    ["windows-x64-vc14.41.34120-cc44c58d5bf24c9eb41bf3fb23442b76"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-cc44c58d5bf24c9eb41bf3fb23442b76.7z",
+        sha256 = "928bd2a79e92b91b72847789c553f92a92e3564c15da5fb3e76d8c9c0ff80246"
+    },
+    ["windows-x64-vc14.41.34120-d0d373d17aee4c15b1fed4842d74fa6a"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-d0d373d17aee4c15b1fed4842d74fa6a.7z",
+        sha256 = "df2d8316667830ffbce1edc724582985ad71dc70a56c29b55f02749ea8f0f3be"
+    },
+    ["windows-x64-vc14.41.34120-e220c5713eab4fd7ac42462460b1e1d6"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x64-vc14.41.34120-e220c5713eab4fd7ac42462460b1e1d6.7z",
+        sha256 = "5af4604612f63e03d317099a28035fa4a910392b68672decf62e2e2f17ecf3b7"
+    },
+    ["windows-x86-vc14.29.30133-7a05f23b9a714ae58c92c36f2d9475ec"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-cal-v0.7.4/windows-x86-vc14.29.30133-7a05f23b9a714ae58c92c36f2d9475ec.7z",
+        sha256 = "2c8e3a07217924f7d998786c0e45c4acc9f3507d1caf611f1d2c5f9c0b111bb2"
     }
 }
