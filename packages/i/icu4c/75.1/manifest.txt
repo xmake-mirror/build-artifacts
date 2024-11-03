@@ -1,42 +1,62 @@
 {
-    ["windows-x64-vc14.29.30133-976190f3d7864153ba54df4a337a36a5"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.29.30133-976190f3d7864153ba54df4a337a36a5.7z",
-        sha256 = "e810a178cab742ef573dfdbd1d299a98ba33c6104adde83666868b7b606dd43e"
-    },
-    ["windows-x64-vc14.38.33130-8653cc4afd8d4f52a4154011e91b4847"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.38.33130-8653cc4afd8d4f52a4154011e91b4847.7z",
-        sha256 = "749c5011731280bb352214b1c466533b7ee7cbdff45bc2c7864631d8915e3252"
+    ["windows-x64-vc14.41.34120-8653cc4afd8d4f52a4154011e91b4847"] = {
+        toolset = "14.41.34120",
+        sha256 = "53f4c74b496b7354c2ed2c96aa77712288eee78715901307be371a357f2dd605",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.41.34120-8653cc4afd8d4f52a4154011e91b4847.7z"
     },
     ["windows-x64-vc14.29.30133-8653cc4afd8d4f52a4154011e91b4847"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.29.30133-8653cc4afd8d4f52a4154011e91b4847.7z",
-        sha256 = "eefc4595fa508fca582be22e80eb6baa3441e0298ac1c5932eff30e0cab5c11d"
+        sha256 = "2b1e47d2a3b11a34e664096defacdde2307e7683dc896015d43318fa55d60299",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.29.30133-8653cc4afd8d4f52a4154011e91b4847.7z"
     },
-    ["windows-x86-vc14.29.30133-2b540a52365d4e9eb04224b36e57ab4f"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.29.30133-2b540a52365d4e9eb04224b36e57ab4f.7z",
-        sha256 = "4692649b611102cf9bcbe8b0b13808378343f8977736dd20e48766520bf47174"
-    },
-    ["windows-x64-vc14.38.33130-976190f3d7864153ba54df4a337a36a5"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.38.33130-976190f3d7864153ba54df4a337a36a5.7z",
-        sha256 = "1d4ca0888ab1c6212b7ff18f1ba87630a8a9f1e087aa6201b205dbc757ab9211"
-    },
-    ["windows-x86-vc14.38.33130-2b540a52365d4e9eb04224b36e57ab4f"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.38.33130-2b540a52365d4e9eb04224b36e57ab4f.7z",
-        sha256 = "8102f07f40958b73e621ca58352c6a66eb231f8c148edf5d901a9c398334d1da"
-    },
-    ["windows-x86-vc14.29.30133-628a70d41c284eacacbb060f3cb672f4"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.29.30133-628a70d41c284eacacbb060f3cb672f4.7z",
-        sha256 = "288a4edb9f8290ad1a6b1c18cd3d58c09a75f3b0c5eb3e8f301ae4a5b62c4e30"
+    ["windows-x86-vc14.41.34120-2b540a52365d4e9eb04224b36e57ab4f"] = {
+        toolset = "14.41.34120",
+        sha256 = "5da2b5a61f17267ca2523beb5d0f12f44740aed94d0d67556d2d0fc1aaff1dab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.41.34120-2b540a52365d4e9eb04224b36e57ab4f.7z"
     },
     ["windows-x86-vc14.38.33130-628a70d41c284eacacbb060f3cb672f4"] = {
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.38.33130-628a70d41c284eacacbb060f3cb672f4.7z",
-        sha256 = "e9dd050fcde221445b5cc4d2a9dcc6ab4dbbad7f752cc118968c851e195292fd"
+        sha256 = "e9dd050fcde221445b5cc4d2a9dcc6ab4dbbad7f752cc118968c851e195292fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.38.33130-628a70d41c284eacacbb060f3cb672f4.7z"
+    },
+    ["windows-x86-vc14.29.30133-2b540a52365d4e9eb04224b36e57ab4f"] = {
+        toolset = "14.29.30133",
+        sha256 = "354a596ff0545ac022d1a7525a0b4b04becd6c62833ddd47b8b7aa2731a1008a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.29.30133-2b540a52365d4e9eb04224b36e57ab4f.7z"
+    },
+    ["windows-x86-vc14.38.33130-2b540a52365d4e9eb04224b36e57ab4f"] = {
+        toolset = "14.38.33130",
+        sha256 = "8102f07f40958b73e621ca58352c6a66eb231f8c148edf5d901a9c398334d1da",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.38.33130-2b540a52365d4e9eb04224b36e57ab4f.7z"
+    },
+    ["windows-x64-vc14.41.34120-976190f3d7864153ba54df4a337a36a5"] = {
+        toolset = "14.41.34120",
+        sha256 = "88d144d5f1ddbb8db8e50457dd382080e9ad3d162bde5e9ddcd7d408676225d0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.41.34120-976190f3d7864153ba54df4a337a36a5.7z"
+    },
+    ["windows-x86-vc14.29.30133-628a70d41c284eacacbb060f3cb672f4"] = {
+        toolset = "14.29.30133",
+        sha256 = "fc6d5ea513778edeaeaba4a057b4d1b70444d2f65bfb9dc2a289a6fc21181b53",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.29.30133-628a70d41c284eacacbb060f3cb672f4.7z"
+    },
+    ["windows-x64-vc14.29.30133-976190f3d7864153ba54df4a337a36a5"] = {
+        toolset = "14.29.30133",
+        sha256 = "df39521b6084ef3f41616fb18c7a383af2b263db66d7fe75183c8f1ca2309e2b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.29.30133-976190f3d7864153ba54df4a337a36a5.7z"
+    },
+    ["windows-x86-vc14.41.34120-628a70d41c284eacacbb060f3cb672f4"] = {
+        toolset = "14.41.34120",
+        sha256 = "2504eca61713cbea7cce39221e6acda1b9a2d78f76d3c7aa225b3a9e49bfc8f8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x86-vc14.41.34120-628a70d41c284eacacbb060f3cb672f4.7z"
+    },
+    ["windows-x64-vc14.38.33130-976190f3d7864153ba54df4a337a36a5"] = {
+        toolset = "14.38.33130",
+        sha256 = "1d4ca0888ab1c6212b7ff18f1ba87630a8a9f1e087aa6201b205dbc757ab9211",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.38.33130-976190f3d7864153ba54df4a337a36a5.7z"
+    },
+    ["windows-x64-vc14.38.33130-8653cc4afd8d4f52a4154011e91b4847"] = {
+        toolset = "14.38.33130",
+        sha256 = "749c5011731280bb352214b1c466533b7ee7cbdff45bc2c7864631d8915e3252",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/icu4c-75.1/windows-x64-vc14.38.33130-8653cc4afd8d4f52a4154011e91b4847.7z"
     }
 }
