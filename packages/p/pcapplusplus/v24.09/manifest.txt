@@ -1,42 +1,62 @@
 {
-    ["windows-x64-vc14.41.34120-22085be2534f460ab7ee27b806fbae33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.41.34120-22085be2534f460ab7ee27b806fbae33.7z",
-        toolset = "14.41.34120",
-        sha256 = "169bbe5f48868b999b6d6c15d50ce42db2fba2b495dea398788b730b6fd9b2a7"
-    },
-    ["windows-x64-vc14.41.34120-32c7d2f02af04e7a82ffb4c6669a1aa2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.41.34120-32c7d2f02af04e7a82ffb4c6669a1aa2.7z",
-        toolset = "14.41.34120",
-        sha256 = "cee68a458736fa69dfca8da518fd83d55e14d6d8f751e5b302ca5d79b8cb717d"
-    },
-    ["windows-x86-vc14.29.30133-b8e498ebc36e4fa1be3f4175ae21a009"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.29.30133-b8e498ebc36e4fa1be3f4175ae21a009.7z",
-        toolset = "14.29.30133",
-        sha256 = "5aea3cdc1be37bf224bae4fd8f7a61a08631bd6454464dfe48e5a05bf16b13bb"
+    ["windows-x64-vc14.42.34433-22085be2534f460ab7ee27b806fbae33"] = {
+        toolset = "14.42.34433",
+        sha256 = "73de8bd2a110cdc2666b753dac5486353c85e15cb64c3f85b8356a0b61a5e4cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.42.34433-22085be2534f460ab7ee27b806fbae33.7z"
     },
     ["windows-x86-vc14.41.34120-b8e498ebc36e4fa1be3f4175ae21a009"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.41.34120-b8e498ebc36e4fa1be3f4175ae21a009.7z",
         toolset = "14.41.34120",
-        sha256 = "1cf7121bc98089389ed8d7ad487565e2b89a116a28616ddddcc2b0fc4feaaf01"
-    },
-    ["windows-x86-vc14.29.30133-0bfda23dbb8b4c2ca90c80f9dde78257"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.29.30133-0bfda23dbb8b4c2ca90c80f9dde78257.7z",
-        toolset = "14.29.30133",
-        sha256 = "ad8e6b7ccfe52b64deda851e3aadfbca27e468634e0d033379954e2aa967b605"
-    },
-    ["windows-x86-vc14.41.34120-0bfda23dbb8b4c2ca90c80f9dde78257"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.41.34120-0bfda23dbb8b4c2ca90c80f9dde78257.7z",
-        toolset = "14.41.34120",
-        sha256 = "462a1d6f4959ac32dae0178089f3db437c3ac67eadb805f0f1740ed1c04e590f"
-    },
-    ["windows-x64-vc14.29.30133-32c7d2f02af04e7a82ffb4c6669a1aa2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.29.30133-32c7d2f02af04e7a82ffb4c6669a1aa2.7z",
-        toolset = "14.29.30133",
-        sha256 = "b9d98ff88953c3b6d27c47de549eaa5b4a75c5be2c196ad7fffb32a0bba05344"
+        sha256 = "51d91613d355251afa6429c9af719367c3bc36fb423accfc26ae9dc0322ee78e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.41.34120-b8e498ebc36e4fa1be3f4175ae21a009.7z"
     },
     ["windows-x64-vc14.29.30133-22085be2534f460ab7ee27b806fbae33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.29.30133-22085be2534f460ab7ee27b806fbae33.7z",
         toolset = "14.29.30133",
-        sha256 = "b7fcd7b8754caed823e767ca946df28f551a3ea0525fa3b981346bdae434c498"
+        sha256 = "35e7db4609a15362d108a5c2346506201c6120fe27f84ffa8abb89f81fd3c735",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.29.30133-22085be2534f460ab7ee27b806fbae33.7z"
+    },
+    ["windows-x86-vc14.29.30133-0bfda23dbb8b4c2ca90c80f9dde78257"] = {
+        toolset = "14.29.30133",
+        sha256 = "944138bd1979ee775ad9cb43aff92eb671ba2318fe26c17b80442d5cde0c7651",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.29.30133-0bfda23dbb8b4c2ca90c80f9dde78257.7z"
+    },
+    ["windows-x86-vc14.29.30133-b8e498ebc36e4fa1be3f4175ae21a009"] = {
+        toolset = "14.29.30133",
+        sha256 = "0c0b6d7b31126ef229585a2dd57506641924ba485152cfde74ac5832b6108c7c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.29.30133-b8e498ebc36e4fa1be3f4175ae21a009.7z"
+    },
+    ["windows-x64-vc14.41.34120-22085be2534f460ab7ee27b806fbae33"] = {
+        toolset = "14.41.34120",
+        sha256 = "42b8041ea5956e2cdd49492ffd10a2ba526ded87b0281f9b43d8e21ecc78aa5e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.41.34120-22085be2534f460ab7ee27b806fbae33.7z"
+    },
+    ["windows-x86-vc14.41.34120-0bfda23dbb8b4c2ca90c80f9dde78257"] = {
+        toolset = "14.41.34120",
+        sha256 = "f5afca020633a39a21fb22fdfc815b934e3c443858608c9b5bcea5016bf48796",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.41.34120-0bfda23dbb8b4c2ca90c80f9dde78257.7z"
+    },
+    ["windows-x64-vc14.42.34433-32c7d2f02af04e7a82ffb4c6669a1aa2"] = {
+        toolset = "14.42.34433",
+        sha256 = "fefb3a5e32725fb1da5ef0eaa16d29790c354925e47d836bc8b680ab0966cef5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.42.34433-32c7d2f02af04e7a82ffb4c6669a1aa2.7z"
+    },
+    ["windows-x64-vc14.29.30133-32c7d2f02af04e7a82ffb4c6669a1aa2"] = {
+        toolset = "14.29.30133",
+        sha256 = "6cb5600a62fe2029257e59844f64a9d3b983539028ca14e91896b4d897c17302",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.29.30133-32c7d2f02af04e7a82ffb4c6669a1aa2.7z"
+    },
+    ["windows-x86-vc14.42.34433-0bfda23dbb8b4c2ca90c80f9dde78257"] = {
+        toolset = "14.42.34433",
+        sha256 = "63aa22e8e903b9d132087658e9083ad9c36f3c9828112018abae4f42797795f5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.42.34433-0bfda23dbb8b4c2ca90c80f9dde78257.7z"
+    },
+    ["windows-x64-vc14.41.34120-32c7d2f02af04e7a82ffb4c6669a1aa2"] = {
+        toolset = "14.41.34120",
+        sha256 = "d84e4aea7af37efde69403019c95e3334d39c94eff3882303dca60e5e2e3c47d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x64-vc14.41.34120-32c7d2f02af04e7a82ffb4c6669a1aa2.7z"
+    },
+    ["windows-x86-vc14.42.34433-b8e498ebc36e4fa1be3f4175ae21a009"] = {
+        toolset = "14.42.34433",
+        sha256 = "463296c2cf6f4d40fc145d5cb6d2a53f120385d7519e3123b3ef6cbe127a43ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pcapplusplus-v24.09/windows-x86-vc14.42.34433-b8e498ebc36e4fa1be3f4175ae21a009.7z"
     }
 }
