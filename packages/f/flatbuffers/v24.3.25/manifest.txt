@@ -1,122 +1,162 @@
 {
-    ["windows-x86-vc14.41.34120-6bdd170298eb4f4280bd20693d6e0367"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-6bdd170298eb4f4280bd20693d6e0367.7z",
-        sha256 = "688d6f3c17a846c568fd44f4feb3ffebba66e4916844cd73a9c6788b18d44ecc",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-cf3f79676f504a7997090dbf69993775"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-cf3f79676f504a7997090dbf69993775.7z",
-        sha256 = "de47092b7b3090d3bfb7f853fa79997590e5525fc76f446b69c3f4bbed717ae6",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.40.33807-ed9f651b56cf4969b9f5094a10944af9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-ed9f651b56cf4969b9f5094a10944af9.7z",
-        sha256 = "665ab8adc2f323cc6b5c039c0632eefc9666907c78b808bd92b9e7eecb83353f",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.41.34120-63896159b6f34246a657cdd819515213"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-63896159b6f34246a657cdd819515213.7z",
-        sha256 = "8d34fb05305a1a89c152cc56f834fd17cce245ae31042f824bce58976bb2b1dd",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-03b8f74023c44241baef128649f3ee14"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-03b8f74023c44241baef128649f3ee14.7z",
-        sha256 = "2465a89bfc72710bc2f1ab4ef898a9a78e85486a52c681fe4f3b41ee0150a8ec",
-        toolset = "14.41.34120"
-    },
     ["windows-x64-vc14.29.30133-ed9f651b56cf4969b9f5094a10944af9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-ed9f651b56cf4969b9f5094a10944af9.7z",
-        sha256 = "0bbe251f1a2a3a23b2c0b682102f27cbdb419ed184cfe320d5c84e20fb5e83a6",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "e0f6d59a2c7f719bca67450521344eee18d4e12b33af942d8725c7af1d9c7bd2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-ed9f651b56cf4969b9f5094a10944af9.7z"
     },
-    ["windows-x86-vc14.29.30133-63896159b6f34246a657cdd819515213"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-63896159b6f34246a657cdd819515213.7z",
-        sha256 = "076b58d510bb01c1a653663db37a22eb93cbd5ada35dbc3d691de35063b34e53",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-deb30bd0d98b41cfaab74e36a4f33759"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-deb30bd0d98b41cfaab74e36a4f33759.7z",
-        sha256 = "78b47441fcb46de941922f29fca876a7d2a7d21f9d33bcd5940d1e123b164e59",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z",
-        sha256 = "e135e9d28fa48990f65dfadbf682252f562ceefb5c7a650b3d8d41b23c5623db",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-c00f27979ec54838b6b63527f49266fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-c00f27979ec54838b6b63527f49266fc.7z",
-        sha256 = "371814a801fee8c91aad2eb977cc7bf4c40aebcebbb65362f3490bbbeda5c3a9",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-6bdd170298eb4f4280bd20693d6e0367"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-6bdd170298eb4f4280bd20693d6e0367.7z",
-        sha256 = "b423b4f9eb45017bdd61bc3b90cba6e6c054d35d248d35fc8d6f954178906201",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-03b8f74023c44241baef128649f3ee14"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-03b8f74023c44241baef128649f3ee14.7z",
-        sha256 = "2988fbaaaa586f2c9eb5b168aae5b0791acb2b84cf2dad53f59c7308b1c84f2f",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.41.34120-c00f27979ec54838b6b63527f49266fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-c00f27979ec54838b6b63527f49266fc.7z",
-        sha256 = "3a40dabd3a109d075c2c20c5b9d9501758795bb5fb718b88cd695c6b22ad20e9",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-03b8f74023c44241baef128649f3ee14"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-03b8f74023c44241baef128649f3ee14.7z",
-        sha256 = "d1735d27fcea7b3117d9435e9646fb32527c03ad534f04833a9eeedef078ebe4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-deb30bd0d98b41cfaab74e36a4f33759"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-deb30bd0d98b41cfaab74e36a4f33759.7z",
-        sha256 = "37c86c92faf99d1d11593ae1bd2661865d75c4fe8e11f7d01f805591552f17b6",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.40.33807-deb30bd0d98b41cfaab74e36a4f33759"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-deb30bd0d98b41cfaab74e36a4f33759.7z",
-        sha256 = "4256be86a1e1c0cfb1efebb0260feca139e811eda197c100e578ae75a28131b2",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.41.34120-ed9f651b56cf4969b9f5094a10944af9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-ed9f651b56cf4969b9f5094a10944af9.7z",
-        sha256 = "f2bc8728a8d5738d822be38036464732e41af7b08647c7a366bb11c825ed85f4",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.40.33807-c00f27979ec54838b6b63527f49266fc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-c00f27979ec54838b6b63527f49266fc.7z",
-        sha256 = "b990bba779e06e69727aa3b3c9a9fabe403ac147257d7416d03e117fd4f0f4ec",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-cf3f79676f504a7997090dbf69993775"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-cf3f79676f504a7997090dbf69993775.7z",
-        sha256 = "573864c4d1acadd5dcd7e0283920fdd691d43844ff9a4f460cbe0743ceec8ddc",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z",
-        sha256 = "b0dffd7beaa9a9367b3c99624d8f5f52a2bb90620bf1eaf46ed0932c62819a0a",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.40.33807-cf3f79676f504a7997090dbf69993775"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-cf3f79676f504a7997090dbf69993775.7z",
-        sha256 = "7179cf23a0e28fddd2272416d80018425041bcf8bfd6e1bab93112d709129423",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-63896159b6f34246a657cdd819515213"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-63896159b6f34246a657cdd819515213.7z",
-        sha256 = "0f4a9de5d37cd3c0902f9fccf9ec891a0b208f22af2c3bb710d9713334118055",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z",
-        sha256 = "f5b120d8381e404ea1e842e1523754ddf1df5fad1d4ab89bf91e22fbe33ac41f",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.42.34433-ed9f651b56cf4969b9f5094a10944af9"] = {
+        toolset = "14.42.34433",
+        sha256 = "35466a28770acabd8fd1f751d6cf9499a63c44b00472e5f8a62900603806abdc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.42.34433-ed9f651b56cf4969b9f5094a10944af9.7z"
     },
     ["windows-x86-vc14.29.30133-6bdd170298eb4f4280bd20693d6e0367"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-6bdd170298eb4f4280bd20693d6e0367.7z",
-        sha256 = "9b98c537d05abed9d88d0920bd8b99e562b2990dfa1f79f0c54b37d740de803d",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "8edfab0e926459898bdffc773100b74b8db982b56d2b5b1173ae3ea445d64078",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-6bdd170298eb4f4280bd20693d6e0367.7z"
+    },
+    ["windows-x86-vc14.41.34120-cf3f79676f504a7997090dbf69993775"] = {
+        toolset = "14.41.34120",
+        sha256 = "de47092b7b3090d3bfb7f853fa79997590e5525fc76f446b69c3f4bbed717ae6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-cf3f79676f504a7997090dbf69993775.7z"
+    },
+    ["windows-x64-vc14.29.30133-deb30bd0d98b41cfaab74e36a4f33759"] = {
+        toolset = "14.29.30133",
+        sha256 = "bbceccb7b7ebfcf9c8c4febae568135d3a0999474e525c4b8f67ed4ac5a776ff",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-deb30bd0d98b41cfaab74e36a4f33759.7z"
+    },
+    ["windows-x86-vc14.29.30133-63896159b6f34246a657cdd819515213"] = {
+        toolset = "14.29.30133",
+        sha256 = "d9cf49300ce02831d1ea611bec139944e8cf330b7543f7e2ab7da5dc1c0293c6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-63896159b6f34246a657cdd819515213.7z"
+    },
+    ["windows-x64-vc14.29.30133-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
+        toolset = "14.29.30133",
+        sha256 = "70364895519ba90de4e2230ca99cb6935da66385390a2441370b7113641b2dd0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z"
+    },
+    ["windows-x64-vc14.42.34433-deb30bd0d98b41cfaab74e36a4f33759"] = {
+        toolset = "14.42.34433",
+        sha256 = "0753c981aafd6b4ac30c8e045948e396a4fb7110cb9a4bdf2c55a8f87dab0ea1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.42.34433-deb30bd0d98b41cfaab74e36a4f33759.7z"
+    },
+    ["windows-x86-vc14.29.30133-c00f27979ec54838b6b63527f49266fc"] = {
+        toolset = "14.29.30133",
+        sha256 = "7c562663e1df62c699d0b51d6c3e65b3cf1363390fd07a3a2f8c07409c10f0c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-c00f27979ec54838b6b63527f49266fc.7z"
+    },
+    ["windows-x64-vc14.41.34120-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
+        toolset = "14.41.34120",
+        sha256 = "b0dffd7beaa9a9367b3c99624d8f5f52a2bb90620bf1eaf46ed0932c62819a0a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z"
+    },
+    ["windows-x86-vc14.42.34433-63896159b6f34246a657cdd819515213"] = {
+        toolset = "14.42.34433",
+        sha256 = "38a8c2e13abf54e5907ab6f9f5d6213f9b4f9f5d6e4660635134cbe57b031f67",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.42.34433-63896159b6f34246a657cdd819515213.7z"
+    },
+    ["windows-x86-vc14.40.33807-c00f27979ec54838b6b63527f49266fc"] = {
+        toolset = "14.40.33807",
+        sha256 = "b990bba779e06e69727aa3b3c9a9fabe403ac147257d7416d03e117fd4f0f4ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-c00f27979ec54838b6b63527f49266fc.7z"
+    },
+    ["windows-x64-vc14.40.33807-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
+        toolset = "14.40.33807",
+        sha256 = "e135e9d28fa48990f65dfadbf682252f562ceefb5c7a650b3d8d41b23c5623db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z"
+    },
+    ["windows-x64-vc14.40.33807-03b8f74023c44241baef128649f3ee14"] = {
+        toolset = "14.40.33807",
+        sha256 = "2988fbaaaa586f2c9eb5b168aae5b0791acb2b84cf2dad53f59c7308b1c84f2f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-03b8f74023c44241baef128649f3ee14.7z"
+    },
+    ["windows-x64-vc14.40.33807-deb30bd0d98b41cfaab74e36a4f33759"] = {
+        toolset = "14.40.33807",
+        sha256 = "4256be86a1e1c0cfb1efebb0260feca139e811eda197c100e578ae75a28131b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-deb30bd0d98b41cfaab74e36a4f33759.7z"
+    },
+    ["windows-x64-vc14.42.34433-bf7ce6cc2ad94e7ea7efecb381b69bf8"] = {
+        toolset = "14.42.34433",
+        sha256 = "ac1fa4f243c8007ff34e12ea07724a2cacec26b3cabd19f6d69125f7e4ae8d83",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.42.34433-bf7ce6cc2ad94e7ea7efecb381b69bf8.7z"
+    },
+    ["windows-x64-vc14.40.33807-ed9f651b56cf4969b9f5094a10944af9"] = {
+        toolset = "14.40.33807",
+        sha256 = "665ab8adc2f323cc6b5c039c0632eefc9666907c78b808bd92b9e7eecb83353f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.40.33807-ed9f651b56cf4969b9f5094a10944af9.7z"
+    },
+    ["windows-x86-vc14.41.34120-c00f27979ec54838b6b63527f49266fc"] = {
+        toolset = "14.41.34120",
+        sha256 = "3a40dabd3a109d075c2c20c5b9d9501758795bb5fb718b88cd695c6b22ad20e9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-c00f27979ec54838b6b63527f49266fc.7z"
+    },
+    ["windows-x64-vc14.41.34120-deb30bd0d98b41cfaab74e36a4f33759"] = {
+        toolset = "14.41.34120",
+        sha256 = "37c86c92faf99d1d11593ae1bd2661865d75c4fe8e11f7d01f805591552f17b6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-deb30bd0d98b41cfaab74e36a4f33759.7z"
+    },
+    ["windows-x86-vc14.41.34120-6bdd170298eb4f4280bd20693d6e0367"] = {
+        toolset = "14.41.34120",
+        sha256 = "688d6f3c17a846c568fd44f4feb3ffebba66e4916844cd73a9c6788b18d44ecc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-6bdd170298eb4f4280bd20693d6e0367.7z"
+    },
+    ["windows-x64-vc14.41.34120-03b8f74023c44241baef128649f3ee14"] = {
+        toolset = "14.41.34120",
+        sha256 = "2465a89bfc72710bc2f1ab4ef898a9a78e85486a52c681fe4f3b41ee0150a8ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-03b8f74023c44241baef128649f3ee14.7z"
+    },
+    ["windows-x86-vc14.29.30133-cf3f79676f504a7997090dbf69993775"] = {
+        toolset = "14.29.30133",
+        sha256 = "f86b2931cb455ea540284983469efd5f7def4ab78a1538c0a8eb7df8e76f1a38",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.29.30133-cf3f79676f504a7997090dbf69993775.7z"
+    },
+    ["windows-x86-vc14.42.34433-c00f27979ec54838b6b63527f49266fc"] = {
+        toolset = "14.42.34433",
+        sha256 = "0dea32c914f1855f816008fa37de390ab3a2c784ed1bd2c66dc609c846510e48",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.42.34433-c00f27979ec54838b6b63527f49266fc.7z"
+    },
+    ["windows-x86-vc14.40.33807-cf3f79676f504a7997090dbf69993775"] = {
+        toolset = "14.40.33807",
+        sha256 = "7179cf23a0e28fddd2272416d80018425041bcf8bfd6e1bab93112d709129423",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-cf3f79676f504a7997090dbf69993775.7z"
+    },
+    ["windows-x64-vc14.41.34120-ed9f651b56cf4969b9f5094a10944af9"] = {
+        toolset = "14.41.34120",
+        sha256 = "f2bc8728a8d5738d822be38036464732e41af7b08647c7a366bb11c825ed85f4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.41.34120-ed9f651b56cf4969b9f5094a10944af9.7z"
+    },
+    ["windows-x64-vc14.42.34433-03b8f74023c44241baef128649f3ee14"] = {
+        toolset = "14.42.34433",
+        sha256 = "cb021faad0e27ee3ede164737b5af17b01ed3632440806f5cf9707d5a3965d85",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.42.34433-03b8f74023c44241baef128649f3ee14.7z"
+    },
+    ["windows-x86-vc14.40.33807-6bdd170298eb4f4280bd20693d6e0367"] = {
+        toolset = "14.40.33807",
+        sha256 = "b423b4f9eb45017bdd61bc3b90cba6e6c054d35d248d35fc8d6f954178906201",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-6bdd170298eb4f4280bd20693d6e0367.7z"
+    },
+    ["windows-x86-vc14.41.34120-63896159b6f34246a657cdd819515213"] = {
+        toolset = "14.41.34120",
+        sha256 = "8d34fb05305a1a89c152cc56f834fd17cce245ae31042f824bce58976bb2b1dd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.41.34120-63896159b6f34246a657cdd819515213.7z"
+    },
+    ["windows-x86-vc14.42.34433-6bdd170298eb4f4280bd20693d6e0367"] = {
+        toolset = "14.42.34433",
+        sha256 = "4606f138ab59497cc0030aac64f45d49ac0103557774b55830cbcbb8afdc985e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.42.34433-6bdd170298eb4f4280bd20693d6e0367.7z"
+    },
+    ["windows-x86-vc14.40.33807-63896159b6f34246a657cdd819515213"] = {
+        toolset = "14.40.33807",
+        sha256 = "0f4a9de5d37cd3c0902f9fccf9ec891a0b208f22af2c3bb710d9713334118055",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.40.33807-63896159b6f34246a657cdd819515213.7z"
+    },
+    ["windows-x86-vc14.42.34433-cf3f79676f504a7997090dbf69993775"] = {
+        toolset = "14.42.34433",
+        sha256 = "93742c1faa608076f93f618415fbe53bce89fcdc25b66d1702f87390a823d0c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x86-vc14.42.34433-cf3f79676f504a7997090dbf69993775.7z"
+    },
+    ["windows-x64-vc14.29.30133-03b8f74023c44241baef128649f3ee14"] = {
+        toolset = "14.29.30133",
+        sha256 = "fe9d8329436476ffaca3f2e01a7224ac234af4b0eb605c3662e3c594f3e98523",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/flatbuffers-v24.3.25/windows-x64-vc14.29.30133-03b8f74023c44241baef128649f3ee14.7z"
     }
 }
