@@ -1,42 +1,42 @@
 {
     ["windows-x86-vc14.29.30133-13c70b9900884efb931889f0911fab9b"] = {
-        sha256 = "fec4cf0a46e36f6d6efbfbe3acb36c87efd25478acfebd57b71fa1fe75fc962b",
         toolset = "14.29.30133",
+        sha256 = "4291402d17410437bf32cc3ec5db1d91224600d27fe97f51f41b6a4d4023a4aa",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.29.30133-13c70b9900884efb931889f0911fab9b.7z"
     },
-    ["windows-x64-vc14.42.34433-8525a7ab69b243feaf29552a4f7493f3"] = {
-        sha256 = "1e81bc144a7e4bc05f3003ae36d0f714c71ca2c2b7977497047269a11ec1c236",
+    ["windows-x86-vc14.29.30133-0c253a68baf146c2af1d2918458be2c5"] = {
+        toolset = "14.29.30133",
+        sha256 = "720b0ee01ff27e5e3040f2a64e4be0af5cde7a81b93f3ed727666b444f06dff3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.29.30133-0c253a68baf146c2af1d2918458be2c5.7z"
+    },
+    ["windows-x86-vc14.42.34433-0c253a68baf146c2af1d2918458be2c5"] = {
         toolset = "14.42.34433",
+        sha256 = "f3db8cd8268c6aa59dc477c1af1c50c3d5a92519cbd0c6620b65a3115a373011",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.42.34433-0c253a68baf146c2af1d2918458be2c5.7z"
+    },
+    ["windows-x86-vc14.42.34433-13c70b9900884efb931889f0911fab9b"] = {
+        toolset = "14.42.34433",
+        sha256 = "8baec38a1100b87f87599e5b6fe04bf56e1230e5469ffb721b96a0d2de5be6aa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.42.34433-13c70b9900884efb931889f0911fab9b.7z"
+    },
+    ["windows-x64-vc14.42.34433-40e6bfd5a1a24eb192ffa6767f700669"] = {
+        toolset = "14.42.34433",
+        sha256 = "da92cb7a9226c74648fa3b05e08221f649bec1c2ed850babd1e616d44712e7e2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x64-vc14.42.34433-40e6bfd5a1a24eb192ffa6767f700669.7z"
+    },
+    ["windows-x64-vc14.42.34433-8525a7ab69b243feaf29552a4f7493f3"] = {
+        toolset = "14.42.34433",
+        sha256 = "a2b6921cb2f413eb4b211e6bf8337e2030db78a6f422a856a464ae062e28872e",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x64-vc14.42.34433-8525a7ab69b243feaf29552a4f7493f3.7z"
     },
     ["windows-x64-vc14.29.30133-40e6bfd5a1a24eb192ffa6767f700669"] = {
-        sha256 = "7c9aa237ea251d46684b71d2515d3942f6646835dbdba57e05869e8e363df3c5",
         toolset = "14.29.30133",
+        sha256 = "eaf906baebd2491fa8d9163647ca2d509404fb4c66d8d17dc759a05e4ff2a632",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x64-vc14.29.30133-40e6bfd5a1a24eb192ffa6767f700669.7z"
     },
-    ["windows-x86-vc14.29.30133-0c253a68baf146c2af1d2918458be2c5"] = {
-        sha256 = "1ecab4533199ba8a08a41bcff21d6c83477a168b93fa0cc822402c751836eee9",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.29.30133-0c253a68baf146c2af1d2918458be2c5.7z"
-    },
     ["windows-x64-vc14.29.30133-8525a7ab69b243feaf29552a4f7493f3"] = {
-        sha256 = "47c436ed28fe15bd21a5c97e63d14790d1c62ad9488f7374a63ce7bf9f11ce86",
         toolset = "14.29.30133",
+        sha256 = "2dd0ed9402e0bc8af94c1b07db115ee8aec66b338c1b5972387073050e111c5a",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x64-vc14.29.30133-8525a7ab69b243feaf29552a4f7493f3.7z"
-    },
-    ["windows-x64-vc14.42.34433-40e6bfd5a1a24eb192ffa6767f700669"] = {
-        sha256 = "661df072458e8e1f425fe1333b50de9d498f9e72fe92a46be2c7dc57fb62b5c9",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x64-vc14.42.34433-40e6bfd5a1a24eb192ffa6767f700669.7z"
-    },
-    ["windows-x86-vc14.42.34433-13c70b9900884efb931889f0911fab9b"] = {
-        sha256 = "38b4ce9f57280251b94825438ceefd3cdac883f0fc5d413852f00ce66b1ed751",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.42.34433-13c70b9900884efb931889f0911fab9b.7z"
-    },
-    ["windows-x86-vc14.42.34433-0c253a68baf146c2af1d2918458be2c5"] = {
-        sha256 = "33d841884c60bc37efffdf4db2cf6a0103fbe6bd8d61a3519be9cbe927917ee7",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/microsoft-seal-v4.1.2/windows-x86-vc14.42.34433-0c253a68baf146c2af1d2918458be2c5.7z"
     }
 }
