@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.42.34433-9b016bec96f7401995af13cf24c44c5b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-9b016bec96f7401995af13cf24c44c5b.7z",
-        sha256 = "b0765cdde6613854a983c6e543a01f138d8844f182895a8d9caabd95b80b4833",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.29.30133-9b016bec96f7401995af13cf24c44c5b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-9b016bec96f7401995af13cf24c44c5b.7z",
-        sha256 = "0ef99c3bbdf28f4acaf28737470fcd8000b44c41ebb06a3ca99ee642a13443f2",
+    ["windows-x86-vc14.29.30133-4883cafc84d4417c8c63dd98617a4959"] = {
+        sha256 = "4ac217d24d9c47ee82ae2d6add2306a9d5c4de493e56428b8e9af8934f472418",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-4883cafc84d4417c8c63dd98617a4959.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-9f79d6b220bb493da4449a56af3851db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-9f79d6b220bb493da4449a56af3851db.7z",
-        sha256 = "edabcab4780a57a0774eb1a16700bfbf93f3f4dc036eeb0fad53e1c59040af2d",
+    ["windows-x86-vc14.42.34433-7abee6166806425dab795f15cc77b533"] = {
+        sha256 = "bd5db8bc11d3fa6e9cc1068c35e20be23a30286cca67a76cc36f1048b48d6c6d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-7abee6166806425dab795f15cc77b533.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-283c5186f4974626b853dd32aa393531"] = {
+        sha256 = "f9d80ccd352f3c688da32b2a44018dcd092905905a656dbca50f4edee85cfc54",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-283c5186f4974626b853dd32aa393531.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.42.34433-283c5186f4974626b853dd32aa393531"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-283c5186f4974626b853dd32aa393531.7z",
         sha256 = "f1072cb94af71574f82284788772b645d2626756158bfd825c335f8b76807905",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.42.34433-60bd8d7cdece49f798bbcc41383c68a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-60bd8d7cdece49f798bbcc41383c68a1.7z",
-        sha256 = "9d5eebeff93fd9839afe375e7cce090ab578c4058806710cf758ef4faee28079",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.42.34433-d5ca57045d414e658550f4bce1bb4ba4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-d5ca57045d414e658550f4bce1bb4ba4.7z",
-        sha256 = "e94fb9ae6023132ba87fb1ede36985bb66c75bbda658fceee6024b60b19a6053",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-283c5186f4974626b853dd32aa393531.7z",
         toolset = "14.42.34433"
     },
     ["windows-x64-vc14.29.30133-27621347c2674ef3bdd0de2dfaabd409"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-27621347c2674ef3bdd0de2dfaabd409.7z",
         sha256 = "884112d8813a4371578085cc7b2b40dd21b5754a55d03724eb93718f05e2cd93",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-27621347c2674ef3bdd0de2dfaabd409.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-60bd8d7cdece49f798bbcc41383c68a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-60bd8d7cdece49f798bbcc41383c68a1.7z",
-        sha256 = "d93d47ad5cbd85f0c8bbe6789c63dd6a47d5ada1a96c2420db69867f79bdc429",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.42.34433-9f79d6b220bb493da4449a56af3851db"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-9f79d6b220bb493da4449a56af3851db.7z",
-        sha256 = "7a1a71e21ad56d163fe22b0a34c4690730472a58e16d990e3162ea1a7dd31b8e",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.29.30133-7abee6166806425dab795f15cc77b533"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-7abee6166806425dab795f15cc77b533.7z",
-        sha256 = "108b67e17aaff75f901510192621cf10104609c55b902371b72df987c0e04f51",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-72c0bc9814d343d2bd922aad2c3de5e1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-72c0bc9814d343d2bd922aad2c3de5e1.7z",
-        sha256 = "3d3ba13d282d3c02c36d5e9270908890b0ea13bd47f4814c5c4ccc7afa441391",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-283c5186f4974626b853dd32aa393531"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-283c5186f4974626b853dd32aa393531.7z",
-        sha256 = "f9d80ccd352f3c688da32b2a44018dcd092905905a656dbca50f4edee85cfc54",
+    ["windows-x64-vc14.29.30133-164a8b15472a4aa4a85e1e266abc732c"] = {
+        sha256 = "bc445ee269e905450350ad9bc5ecd8d0b6424a52bd89c0bbd65ec6e125346340",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-164a8b15472a4aa4a85e1e266abc732c.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.42.34433-27621347c2674ef3bdd0de2dfaabd409"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-27621347c2674ef3bdd0de2dfaabd409.7z",
         sha256 = "5f5f07fed8b3cc46f685858c4cc7ba9fd98b9c40b56e8869e551448d05d663e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-27621347c2674ef3bdd0de2dfaabd409.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x86-vc14.42.34433-7abee6166806425dab795f15cc77b533"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-7abee6166806425dab795f15cc77b533.7z",
-        sha256 = "bd5db8bc11d3fa6e9cc1068c35e20be23a30286cca67a76cc36f1048b48d6c6d",
+    ["windows-x64-vc14.42.34433-9502f3871231411cb724e79291181a9a"] = {
+        sha256 = "f18abd33871ab212ea86d34d5835e4259426f064776dbba50b0d8653f16ee7a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-9502f3871231411cb724e79291181a9a.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x64-vc14.29.30133-d5ca57045d414e658550f4bce1bb4ba4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-d5ca57045d414e658550f4bce1bb4ba4.7z",
-        sha256 = "5f9e5da1062e7020781b9ddf96a41544cce9c4706c23423e613d3de0f0f715eb",
+    ["windows-x86-vc14.29.30133-7abee6166806425dab795f15cc77b533"] = {
+        sha256 = "108b67e17aaff75f901510192621cf10104609c55b902371b72df987c0e04f51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-7abee6166806425dab795f15cc77b533.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.42.34433-72c0bc9814d343d2bd922aad2c3de5e1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-72c0bc9814d343d2bd922aad2c3de5e1.7z",
-        sha256 = "3ef893b2f73674c93fbc16cf87bc31cbca5ce571abcd4c0b4b686c0b6c0acb09",
+    ["windows-x86-vc14.42.34433-80b86df5d500466b98c1bb0a62308637"] = {
+        sha256 = "e6c134f704a040bb286ecb4f34fbef94619306cfa2d618e8122f463b7a5967b7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-80b86df5d500466b98c1bb0a62308637.7z",
         toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-9b016bec96f7401995af13cf24c44c5b"] = {
+        sha256 = "b0765cdde6613854a983c6e543a01f138d8844f182895a8d9caabd95b80b4833",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-9b016bec96f7401995af13cf24c44c5b.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-60bd8d7cdece49f798bbcc41383c68a1"] = {
+        sha256 = "9d5eebeff93fd9839afe375e7cce090ab578c4058806710cf758ef4faee28079",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-60bd8d7cdece49f798bbcc41383c68a1.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-d5ca57045d414e658550f4bce1bb4ba4"] = {
+        sha256 = "e94fb9ae6023132ba87fb1ede36985bb66c75bbda658fceee6024b60b19a6053",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-d5ca57045d414e658550f4bce1bb4ba4.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-72c0bc9814d343d2bd922aad2c3de5e1"] = {
+        sha256 = "3ef893b2f73674c93fbc16cf87bc31cbca5ce571abcd4c0b4b686c0b6c0acb09",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-72c0bc9814d343d2bd922aad2c3de5e1.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-9f79d6b220bb493da4449a56af3851db"] = {
+        sha256 = "edabcab4780a57a0774eb1a16700bfbf93f3f4dc036eeb0fad53e1c59040af2d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-9f79d6b220bb493da4449a56af3851db.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-018717789a0b4a8e9e3ea73514f790f5"] = {
+        sha256 = "7f16025bec77a82196c6979fb22b00bfe6222dd4d4be8c8d5faf80242f86311b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-018717789a0b4a8e9e3ea73514f790f5.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-318137a900764f949e3a26098132fac4"] = {
+        sha256 = "0073085eb6aeeae8d20d917a63b6cf69439aea5044655c923e45a66bb606b480",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-318137a900764f949e3a26098132fac4.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-018717789a0b4a8e9e3ea73514f790f5"] = {
+        sha256 = "72f22353b1da53e52e4773f1e64a8aa7349a881870b58866b2d4f86c0f817cd8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-018717789a0b4a8e9e3ea73514f790f5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-ce9ad50375f54310bc8a0e089fe4dab3"] = {
+        sha256 = "6f76400b9f10bc1cf5fa31fbbde9ac9195a0ccb303b48abc2bb9ca42ecda4600",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-ce9ad50375f54310bc8a0e089fe4dab3.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-9502f3871231411cb724e79291181a9a"] = {
+        sha256 = "514cec2d178ef4702f6f51874c00c416a3b6e53807c45b432c0007d535ce4d88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-9502f3871231411cb724e79291181a9a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-4883cafc84d4417c8c63dd98617a4959"] = {
+        sha256 = "84f5c643f1157c945443d2406a39ee64d2487a6ed29cb26a4d2cb2279e7b4a0e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-4883cafc84d4417c8c63dd98617a4959.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-ce9ad50375f54310bc8a0e089fe4dab3"] = {
+        sha256 = "e0336d8cd9aea72f8bc8b462b4431ee1b41118ad4e2f63113b9d209c35423978",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-ce9ad50375f54310bc8a0e089fe4dab3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-164a8b15472a4aa4a85e1e266abc732c"] = {
+        sha256 = "d52e5ced71ca903ee0748e8c22e7244908dfca2486c440c3e11774d494f3dc84",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.42.34433-164a8b15472a4aa4a85e1e266abc732c.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-60bd8d7cdece49f798bbcc41383c68a1"] = {
+        sha256 = "d93d47ad5cbd85f0c8bbe6789c63dd6a47d5ada1a96c2420db69867f79bdc429",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-60bd8d7cdece49f798bbcc41383c68a1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d5ca57045d414e658550f4bce1bb4ba4"] = {
+        sha256 = "5f9e5da1062e7020781b9ddf96a41544cce9c4706c23423e613d3de0f0f715eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-d5ca57045d414e658550f4bce1bb4ba4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-80b86df5d500466b98c1bb0a62308637"] = {
+        sha256 = "9141828662c6969baf35a7b028997345ab8044f9360e213cc86c17ca633c489c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-80b86df5d500466b98c1bb0a62308637.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-9f79d6b220bb493da4449a56af3851db"] = {
+        sha256 = "7a1a71e21ad56d163fe22b0a34c4690730472a58e16d990e3162ea1a7dd31b8e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-9f79d6b220bb493da4449a56af3851db.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-a7608675099949fd89832cbb9207001b"] = {
+        sha256 = "40bf823f248d7844ed114ab6027c35bff5523bed4783133aaa09b7eb99f8e322",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-a7608675099949fd89832cbb9207001b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-72c0bc9814d343d2bd922aad2c3de5e1"] = {
+        sha256 = "3d3ba13d282d3c02c36d5e9270908890b0ea13bd47f4814c5c4ccc7afa441391",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-72c0bc9814d343d2bd922aad2c3de5e1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-a7608675099949fd89832cbb9207001b"] = {
+        sha256 = "ffe0eabb6b1aba5db68c4a65d3154ff4cb37f7578cc32220b8cc1c6b03fc1e35",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.42.34433-a7608675099949fd89832cbb9207001b.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-9b016bec96f7401995af13cf24c44c5b"] = {
+        sha256 = "0ef99c3bbdf28f4acaf28737470fcd8000b44c41ebb06a3ca99ee642a13443f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x64-vc14.29.30133-9b016bec96f7401995af13cf24c44c5b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-318137a900764f949e3a26098132fac4"] = {
+        sha256 = "6bd55e211d302e1659ee0a41bfdc282a3be09250ca602a93b651523bb94aab86",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcurl-8.11.0/windows-x86-vc14.29.30133-318137a900764f949e3a26098132fac4.7z",
+        toolset = "14.29.30133"
     }
 }
