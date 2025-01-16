@@ -1,82 +1,147 @@
 {
     ["windows-x64-vc141-660162cad58e43f7aeb7b8209a23a649"] = {
-        sha256 = "6a26c47bef10263edae94bdca2dbd41a8e980ef4d5837801250be24cd6d98fcf",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc141-660162cad58e43f7aeb7b8209a23a649.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-6da7a61ca83a4ecebb35cb23f72631b2"] = {
-        sha256 = "0e3e0e0b16676946a981a383f4c27e46e68b625c6cdfb323bc9253c659337100",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-6da7a61ca83a4ecebb35cb23f72631b2.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-2a6a21e4fdc24e0ebfa44dab5349d311"] = {
-        sha256 = "692e4b19f4bdc8dca3bd90f5fd32db51681ebc98553a30ab46205da84071418a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc141-2a6a21e4fdc24e0ebfa44dab5349d311.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-a7e9a304d333472887e185f8d4e4e475"] = {
-        sha256 = "1d806e0b53aa28875d29ae7c50586ba2fb7c63ba20a7a2c9a436481b146d16a7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-a7e9a304d333472887e185f8d4e4e475.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-660162cad58e43f7aeb7b8209a23a649"] = {
-        sha256 = "80dbca70ee566d1ec4b9430ce9ba9b695d82909afc9ae60b7d2dcd1c448007dc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-660162cad58e43f7aeb7b8209a23a649.7z",
-        toolset = "14.29.30133"
+        sha256 = "6a26c47bef10263edae94bdca2dbd41a8e980ef4d5837801250be24cd6d98fcf"
     },
     ["windows-x64-vc141-6da7a61ca83a4ecebb35cb23f72631b2"] = {
-        sha256 = "e18f7528369065fb2ff1d37b50f1eaf77baf74b39ff8d03ba173c360bc78ee7b",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc141-6da7a61ca83a4ecebb35cb23f72631b2.7z",
-        toolset = "14.16.27023"
+        sha256 = "e18f7528369065fb2ff1d37b50f1eaf77baf74b39ff8d03ba173c360bc78ee7b"
+    },
+    ["windows-x86-vc14.29.30133-f3b18970ae65459f89508033b5514429"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc14.29.30133-f3b18970ae65459f89508033b5514429.7z",
+        sha256 = "69e9ffd893f70e3ce4719b6f235efdab1dc274891f899c9123e15f1d867de4de"
     },
     ["windows-x86-vc141-a7e9a304d333472887e185f8d4e4e475"] = {
-        sha256 = "d4810cd91d765943649c93ca4f269805a87f62f5141dfada82d865390214a496",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc141-a7e9a304d333472887e185f8d4e4e475.7z",
-        toolset = "14.16.27023"
+        sha256 = "d4810cd91d765943649c93ca4f269805a87f62f5141dfada82d865390214a496"
     },
-    ["windows-x86-vc141-7c98eb5da85741e8bc8f69df3d86940c"] = {
-        sha256 = "db785d01c08e0839f6feeac10404d2131f06c2185724c4529f63b026a64b916c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc141-7c98eb5da85741e8bc8f69df3d86940c.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-420c3f3fe60e4215ab960c05389aea00"] = {
-        sha256 = "df5c275f9369c5383490068e2acd381f6acf4c24059729028435d2c3c7d1ed03",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-420c3f3fe60e4215ab960c05389aea00.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-b066b79d4a2d40f2a5fec2c274067df3"] = {
-        sha256 = "ddd79e167c73175f2bed796859adc3eb2671e2f05b6804d55a3d5e5fd72e6104",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-b066b79d4a2d40f2a5fec2c274067df3.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-baf41e089e3740fe87c4dd4fab5e4589"] = {
-        sha256 = "ebf115e157a8884642feae48e08800264dd0533b61e063b940fe65aab811875b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-baf41e089e3740fe87c4dd4fab5e4589.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-2a6a21e4fdc24e0ebfa44dab5349d311"] = {
-        sha256 = "34e6cc0a3082790de76592a93c401739c20084488eda5a2843cfc826841ccad6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-2a6a21e4fdc24e0ebfa44dab5349d311.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-9517464e76df4cdf8576700c7ad7e33b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.29.30133-9517464e76df4cdf8576700c7ad7e33b.7z",
+        sha256 = "5d823bf0d80298aa5593f6287155c94771ca63b28a958eaf6b108787757e140c"
     },
     ["windows-x64-vc141-baf41e089e3740fe87c4dd4fab5e4589"] = {
-        sha256 = "ff461f195df314791317fbed79a488e21656d65097668573d40013334c36767c",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc141-baf41e089e3740fe87c4dd4fab5e4589.7z",
-        toolset = "14.16.27023"
+        sha256 = "ff461f195df314791317fbed79a488e21656d65097668573d40013334c36767c"
+    },
+    ["windows-x64-vc142-baf41e089e3740fe87c4dd4fab5e4589"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-baf41e089e3740fe87c4dd4fab5e4589.7z",
+        sha256 = "ebf115e157a8884642feae48e08800264dd0533b61e063b940fe65aab811875b"
+    },
+    ["windows-x86-vc142-2a6a21e4fdc24e0ebfa44dab5349d311"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-2a6a21e4fdc24e0ebfa44dab5349d311.7z",
+        sha256 = "34e6cc0a3082790de76592a93c401739c20084488eda5a2843cfc826841ccad6"
+    },
+    ["windows-x86-vc14.42.34433-441f242dad514695ad408b9820c807e2"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc14.42.34433-441f242dad514695ad408b9820c807e2.7z",
+        sha256 = "cd908581155e0ba47f17cc4e317de7c60936377b81214957522a2d36fb192105"
+    },
+    ["windows-x64-vc14.29.30133-32627fca8e204038b3eb0ed221e1f847"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.29.30133-32627fca8e204038b3eb0ed221e1f847.7z",
+        sha256 = "1ef434f40717ddabf83c07a7c1f7425fb5f0d842e8aae73cd6dc4fb2c5b0d217"
+    },
+    ["windows-x64-vc14.42.34433-fd85272d53ec47d3b9fcd0a848f14f42"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.42.34433-fd85272d53ec47d3b9fcd0a848f14f42.7z",
+        sha256 = "7fe4ff0e5f2fa9f5ce740b333b3bf7db717fd699a5d05365a0adffd900b9e903"
     },
     ["windows-x86-vc141-420c3f3fe60e4215ab960c05389aea00"] = {
-        sha256 = "5fe24a21764d5e2414dd5547ffba5f05dbc82c6222eee11d0248d2545a7aadf5",
+        toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc141-420c3f3fe60e4215ab960c05389aea00.7z",
-        toolset = "14.16.27023"
+        sha256 = "5fe24a21764d5e2414dd5547ffba5f05dbc82c6222eee11d0248d2545a7aadf5"
     },
-    ["windows-x64-vc141-b066b79d4a2d40f2a5fec2c274067df3"] = {
-        sha256 = "fafccda2e8a1200dae8aa7d74d26c6593bfbf0edcbe85c4bf62182f19b352618",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc141-b066b79d4a2d40f2a5fec2c274067df3.7z",
-        toolset = "14.16.27023"
+    ["windows-x64-vc14.42.34433-32627fca8e204038b3eb0ed221e1f847"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.42.34433-32627fca8e204038b3eb0ed221e1f847.7z",
+        sha256 = "97bf1b6ca4e6d58fa07c9ec2d17e822a7a38bc5f9664c007347b74ce18bf1671"
     },
     ["windows-x86-vc142-7c98eb5da85741e8bc8f69df3d86940c"] = {
-        sha256 = "16d2bcd2b69d819e0c74660d9b023d528892985a4f0f8bdfb0172935d2875b3a",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-7c98eb5da85741e8bc8f69df3d86940c.7z",
-        toolset = "14.29.30133"
+        sha256 = "16d2bcd2b69d819e0c74660d9b023d528892985a4f0f8bdfb0172935d2875b3a"
+    },
+    ["windows-x86-vc142-a7e9a304d333472887e185f8d4e4e475"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-a7e9a304d333472887e185f8d4e4e475.7z",
+        sha256 = "1d806e0b53aa28875d29ae7c50586ba2fb7c63ba20a7a2c9a436481b146d16a7"
+    },
+    ["windows-x64-vc142-660162cad58e43f7aeb7b8209a23a649"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-660162cad58e43f7aeb7b8209a23a649.7z",
+        sha256 = "80dbca70ee566d1ec4b9430ce9ba9b695d82909afc9ae60b7d2dcd1c448007dc"
+    },
+    ["windows-x86-vc14.29.30133-a8a06d5eed8d41f9a091b3141b3e57ad"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc14.29.30133-a8a06d5eed8d41f9a091b3141b3e57ad.7z",
+        sha256 = "966a48f1298cb56845178e1a44bcca79197995edc92f39e6cc22b691e1ee1e2b"
+    },
+    ["windows-x86-vc142-420c3f3fe60e4215ab960c05389aea00"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc142-420c3f3fe60e4215ab960c05389aea00.7z",
+        sha256 = "df5c275f9369c5383490068e2acd381f6acf4c24059729028435d2c3c7d1ed03"
+    },
+    ["windows-x64-vc142-6da7a61ca83a4ecebb35cb23f72631b2"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-6da7a61ca83a4ecebb35cb23f72631b2.7z",
+        sha256 = "0e3e0e0b16676946a981a383f4c27e46e68b625c6cdfb323bc9253c659337100"
+    },
+    ["windows-x86-vc141-7c98eb5da85741e8bc8f69df3d86940c"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc141-7c98eb5da85741e8bc8f69df3d86940c.7z",
+        sha256 = "db785d01c08e0839f6feeac10404d2131f06c2185724c4529f63b026a64b916c"
+    },
+    ["windows-x64-vc14.42.34433-9517464e76df4cdf8576700c7ad7e33b"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.42.34433-9517464e76df4cdf8576700c7ad7e33b.7z",
+        sha256 = "4a57d4365609879454ed8ce2568881cd3107c13e6662d8530d60aaa259bfc9b9"
+    },
+    ["windows-x86-vc14.29.30133-441f242dad514695ad408b9820c807e2"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc14.29.30133-441f242dad514695ad408b9820c807e2.7z",
+        sha256 = "115eb365375cf18a4e56cd4e35728c67d63d0c29b43e88a4bb2f6b1bf81bc3ec"
+    },
+    ["windows-x64-vc14.29.30133-a6f5660acf8f41689132472ff1f06b7d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.29.30133-a6f5660acf8f41689132472ff1f06b7d.7z",
+        sha256 = "cfc0092afc606647f37f4a270eb9c7ad6dc4d836899bbcc86d2d2c6106f98d25"
+    },
+    ["windows-x64-vc141-b066b79d4a2d40f2a5fec2c274067df3"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc141-b066b79d4a2d40f2a5fec2c274067df3.7z",
+        sha256 = "fafccda2e8a1200dae8aa7d74d26c6593bfbf0edcbe85c4bf62182f19b352618"
+    },
+    ["windows-x64-vc14.29.30133-fd85272d53ec47d3b9fcd0a848f14f42"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc14.29.30133-fd85272d53ec47d3b9fcd0a848f14f42.7z",
+        sha256 = "41592bbcf69194430030481d479a5afd6918442316857e4d9d779d1bb674659a"
+    },
+    ["windows-x86-vc141-2a6a21e4fdc24e0ebfa44dab5349d311"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc141-2a6a21e4fdc24e0ebfa44dab5349d311.7z",
+        sha256 = "692e4b19f4bdc8dca3bd90f5fd32db51681ebc98553a30ab46205da84071418a"
+    },
+    ["windows-x86-vc14.29.30133-b166fce52f6a4de68c75eb061d8bfa68"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc14.29.30133-b166fce52f6a4de68c75eb061d8bfa68.7z",
+        sha256 = "2ced9099a1d26554f99b57eef636a1744b8e951e4a99ca0a761d1e235e03cc6b"
+    },
+    ["windows-x64-vc142-b066b79d4a2d40f2a5fec2c274067df3"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x64-vc142-b066b79d4a2d40f2a5fec2c274067df3.7z",
+        sha256 = "ddd79e167c73175f2bed796859adc3eb2671e2f05b6804d55a3d5e5fd72e6104"
+    },
+    ["windows-x86-vc14.42.34433-f3b18970ae65459f89508033b5514429"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/crc32c-1.1.2/windows-x86-vc14.42.34433-f3b18970ae65459f89508033b5514429.7z",
+        sha256 = "e0f341d82920ddb4a4a8236ed51a94cb57095f8e058414007f4b65d5fca2c45f"
     }
 }
