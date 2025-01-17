@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-4e0299f8bdb44e8fa90241813dd52414"] = {
-        sha256 = "df8301693213a73c8a1471cb4f541e4f8845dd5a48f5ef452c3b6fc98760a4eb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-4e0299f8bdb44e8fa90241813dd52414.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-5c34cc3ab67e4c1a8b86738a9872c0f1"] = {
-        sha256 = "133f5790c3f71f97cffc52a9bbf0908221e1364931c006feb7c8fccd679150ea",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-5c34cc3ab67e4c1a8b86738a9872c0f1.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-b336a6f7723941e29f4a114e2db7329b"] = {
-        sha256 = "3c4e048435975315fcc126810394e17dc8f38b0de676a66a039bc7402e0c75c4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-b336a6f7723941e29f4a114e2db7329b.7z",
-        toolset = "14.40.33807"
-    },
     ["windows-x86-vc14.29.30133-b336a6f7723941e29f4a114e2db7329b"] = {
         sha256 = "23563d8238ea94254fad08ba71ea02ec666e08288522daef32d10d211f995094",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-b336a6f7723941e29f4a114e2db7329b.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-b336a6f7723941e29f4a114e2db7329b.7z"
     },
-    ["windows-x64-vc14.40.33807-78aa0188bf1744e9b50de41421aca9b2"] = {
-        sha256 = "b56d591d22cedd0256e631fd0f4461b641fc3ed3b888f0bfa8102940f99e8744",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-78aa0188bf1744e9b50de41421aca9b2.7z",
-        toolset = "14.40.33807"
+    ["windows-x64-vc14.42.34433-e64745d2907c458783dbe263867cba28"] = {
+        sha256 = "c6b198471137702167c9673003781c05e72971ec843b4f1d34d65f695b8f87bc",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.42.34433-e64745d2907c458783dbe263867cba28.7z"
     },
-    ["windows-x86-vc14.29.30133-85b4c2a584824c6eb8eda63adb450163"] = {
-        sha256 = "a0acbeba0967f4a078dbb550f49d4c1e0232d9fe6f9b6e471f91c6d0243340b2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-85b4c2a584824c6eb8eda63adb450163.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-78aa0188bf1744e9b50de41421aca9b2"] = {
-        sha256 = "08c0ba3c03c93c7633e12b60aa6e9f877df65d01b4f3656e7d1b4c8b5a70eb40",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-78aa0188bf1744e9b50de41421aca9b2.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-5c34cc3ab67e4c1a8b86738a9872c0f1"] = {
-        sha256 = "545ef966b7dcfba20e3c8b088c5f4275dead79b27c5dec5d9e68a7f4d79ba268",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-5c34cc3ab67e4c1a8b86738a9872c0f1.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-b0810b0226694999a37768253ffe8bef"] = {
-        sha256 = "f673a802a779575eccb1547ad9fc9451eb4cac28947bdef89dd30d9f0e0b9511",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-b0810b0226694999a37768253ffe8bef.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-b4acf5f3f8334c6a8fa5aacec03e678d"] = {
-        sha256 = "8e1237cdf3ef24fabf7560e3a3f37ec200f2d06e1f34901189a3f6962d606416",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-b4acf5f3f8334c6a8fa5aacec03e678d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-69e004b54f9f438eb9da0bb87e7611ad"] = {
-        sha256 = "d221861e27f664330b6bc0e5be5f6a50c9c6c30feb47d5ae52f559d7524dac11",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-69e004b54f9f438eb9da0bb87e7611ad.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-85b4c2a584824c6eb8eda63adb450163"] = {
-        sha256 = "f10321cf4affe5db63361355762a7ebd9f8115aa268ad38078aef2c5e7212ad0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-85b4c2a584824c6eb8eda63adb450163.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-b0810b0226694999a37768253ffe8bef"] = {
-        sha256 = "079732909bb18cb724f99991abe4204b25a84eb9995e467a8add5a82e197e992",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-b0810b0226694999a37768253ffe8bef.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-69e004b54f9f438eb9da0bb87e7611ad"] = {
-        sha256 = "e606024d8bccb7010ed1bcfd605e4cc45c31ce9f0ae41c1f51e173b8bf51f3a3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-69e004b54f9f438eb9da0bb87e7611ad.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-b4acf5f3f8334c6a8fa5aacec03e678d"] = {
-        sha256 = "af687eb00db6f07eaa58368bad0ae8aa6edaf7581990ab86e23981596d24a5da",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-b4acf5f3f8334c6a8fa5aacec03e678d.7z",
-        toolset = "14.40.33807"
+    ["windows-x86-vc14.42.34433-2f28600097ab4ffcafbcd9101e27f20a"] = {
+        sha256 = "dab6210ba0ca84be705d085d63ecf94064ed2917c601c175a052ae70fddd5e62",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.42.34433-2f28600097ab4ffcafbcd9101e27f20a.7z"
     },
     ["windows-x86-vc14.40.33807-4e0299f8bdb44e8fa90241813dd52414"] = {
         sha256 = "905efac01c32964c78b497a931eed3c6184d9a55e89bd26e16317617fedbf431",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-4e0299f8bdb44e8fa90241813dd52414.7z",
-        toolset = "14.40.33807"
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-4e0299f8bdb44e8fa90241813dd52414.7z"
+    },
+    ["windows-x86-vc14.29.30133-b4acf5f3f8334c6a8fa5aacec03e678d"] = {
+        sha256 = "8e1237cdf3ef24fabf7560e3a3f37ec200f2d06e1f34901189a3f6962d606416",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-b4acf5f3f8334c6a8fa5aacec03e678d.7z"
+    },
+    ["windows-x86-vc14.29.30133-85b4c2a584824c6eb8eda63adb450163"] = {
+        sha256 = "a0acbeba0967f4a078dbb550f49d4c1e0232d9fe6f9b6e471f91c6d0243340b2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-85b4c2a584824c6eb8eda63adb450163.7z"
+    },
+    ["windows-x64-vc14.40.33807-69e004b54f9f438eb9da0bb87e7611ad"] = {
+        sha256 = "e606024d8bccb7010ed1bcfd605e4cc45c31ce9f0ae41c1f51e173b8bf51f3a3",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-69e004b54f9f438eb9da0bb87e7611ad.7z"
+    },
+    ["windows-x64-vc14.40.33807-78aa0188bf1744e9b50de41421aca9b2"] = {
+        sha256 = "b56d591d22cedd0256e631fd0f4461b641fc3ed3b888f0bfa8102940f99e8744",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-78aa0188bf1744e9b50de41421aca9b2.7z"
+    },
+    ["windows-x86-vc14.29.30133-e867c41e9d4548d59eafb1ed520fc27b"] = {
+        sha256 = "a431786cc9a56a72d9cbaeeb45999655d4894023220c6e33d22b8bd833896d4d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-e867c41e9d4548d59eafb1ed520fc27b.7z"
+    },
+    ["windows-x86-vc14.40.33807-b4acf5f3f8334c6a8fa5aacec03e678d"] = {
+        sha256 = "af687eb00db6f07eaa58368bad0ae8aa6edaf7581990ab86e23981596d24a5da",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-b4acf5f3f8334c6a8fa5aacec03e678d.7z"
+    },
+    ["windows-x64-vc14.29.30133-5c34cc3ab67e4c1a8b86738a9872c0f1"] = {
+        sha256 = "133f5790c3f71f97cffc52a9bbf0908221e1364931c006feb7c8fccd679150ea",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-5c34cc3ab67e4c1a8b86738a9872c0f1.7z"
+    },
+    ["windows-x64-vc14.29.30133-6479dd32d26c4e16a5e40a51d29b721a"] = {
+        sha256 = "67219e24f55424d8ebc7af3ca3b429d1cf99f6bc5683c9e9ff22f4ac38b24ed4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-6479dd32d26c4e16a5e40a51d29b721a.7z"
+    },
+    ["windows-x86-vc14.40.33807-b336a6f7723941e29f4a114e2db7329b"] = {
+        sha256 = "3c4e048435975315fcc126810394e17dc8f38b0de676a66a039bc7402e0c75c4",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-b336a6f7723941e29f4a114e2db7329b.7z"
+    },
+    ["windows-x86-vc14.42.34433-821d4ddabb2743f581e646b7e7269165"] = {
+        sha256 = "0d8407dbd7809da1c1ead23cd2a7a6b58f97ce3877c4ecd002077bf32496aabd",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.42.34433-821d4ddabb2743f581e646b7e7269165.7z"
+    },
+    ["windows-x86-vc14.42.34433-e867c41e9d4548d59eafb1ed520fc27b"] = {
+        sha256 = "ba56c6acc5c8378bfdd13b381cdd4023a5408526b0ffc29078ef669dc1566679",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.42.34433-e867c41e9d4548d59eafb1ed520fc27b.7z"
+    },
+    ["windows-x64-vc14.40.33807-5c34cc3ab67e4c1a8b86738a9872c0f1"] = {
+        sha256 = "545ef966b7dcfba20e3c8b088c5f4275dead79b27c5dec5d9e68a7f4d79ba268",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-5c34cc3ab67e4c1a8b86738a9872c0f1.7z"
+    },
+    ["windows-x64-vc14.29.30133-e64745d2907c458783dbe263867cba28"] = {
+        sha256 = "a39b480e9655dd42c642c2087da6283f9dc27774052eabaaef197181e2e6842a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-e64745d2907c458783dbe263867cba28.7z"
+    },
+    ["windows-x64-vc14.29.30133-78aa0188bf1744e9b50de41421aca9b2"] = {
+        sha256 = "08c0ba3c03c93c7633e12b60aa6e9f877df65d01b4f3656e7d1b4c8b5a70eb40",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-78aa0188bf1744e9b50de41421aca9b2.7z"
+    },
+    ["windows-x86-vc14.29.30133-ac813fc1e9db44979b677c18ce9d8104"] = {
+        sha256 = "1f6e3e4670d84184c0eb9b09857f9d4f2aa3d49bf775461f8e0c9d3ab7ccf03a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-ac813fc1e9db44979b677c18ce9d8104.7z"
+    },
+    ["windows-x64-vc14.42.34433-f4fd168c0665436588ada6d6f2e99e70"] = {
+        sha256 = "c72b65be88a01d423f489aad3a8ff0f6a421c1b56542619160f775f4079f7912",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.42.34433-f4fd168c0665436588ada6d6f2e99e70.7z"
+    },
+    ["windows-x64-vc14.29.30133-69e004b54f9f438eb9da0bb87e7611ad"] = {
+        sha256 = "d221861e27f664330b6bc0e5be5f6a50c9c6c30feb47d5ae52f559d7524dac11",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-69e004b54f9f438eb9da0bb87e7611ad.7z"
+    },
+    ["windows-x86-vc14.40.33807-85b4c2a584824c6eb8eda63adb450163"] = {
+        sha256 = "f10321cf4affe5db63361355762a7ebd9f8115aa268ad38078aef2c5e7212ad0",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.40.33807-85b4c2a584824c6eb8eda63adb450163.7z"
+    },
+    ["windows-x86-vc14.29.30133-2f28600097ab4ffcafbcd9101e27f20a"] = {
+        sha256 = "c753d87a784559c18bc0633b8f60ae094a6ace10f3beaae2a796e11830be2c25",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-2f28600097ab4ffcafbcd9101e27f20a.7z"
+    },
+    ["windows-x64-vc14.40.33807-b0810b0226694999a37768253ffe8bef"] = {
+        sha256 = "079732909bb18cb724f99991abe4204b25a84eb9995e467a8add5a82e197e992",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.40.33807-b0810b0226694999a37768253ffe8bef.7z"
+    },
+    ["windows-x64-vc14.29.30133-737b0b83d9c04f49b7ec1cf247aec1da"] = {
+        sha256 = "2c00038030d5cbc55e6afd99f7093ced5da2cfd3f8950bd59d8a34c64a9751e9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-737b0b83d9c04f49b7ec1cf247aec1da.7z"
+    },
+    ["windows-x86-vc14.42.34433-ac813fc1e9db44979b677c18ce9d8104"] = {
+        sha256 = "2dcef9bdd6611e92f80b0b8377bd0b7e219d8578c2e67397c6e5f8300e0f4f74",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.42.34433-ac813fc1e9db44979b677c18ce9d8104.7z"
+    },
+    ["windows-x64-vc14.29.30133-f4fd168c0665436588ada6d6f2e99e70"] = {
+        sha256 = "0a3ac8ec80b335e889f802afe1051b7357969846c2f9fc9e71e26920b137d737",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-f4fd168c0665436588ada6d6f2e99e70.7z"
+    },
+    ["windows-x86-vc14.29.30133-821d4ddabb2743f581e646b7e7269165"] = {
+        sha256 = "d3ef4f306284d7b6050fa311c162dcd2b8dca32ffec8a28c39e81331421cbc0a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-821d4ddabb2743f581e646b7e7269165.7z"
+    },
+    ["windows-x64-vc14.42.34433-6479dd32d26c4e16a5e40a51d29b721a"] = {
+        sha256 = "ccc632077e68738c324ee3ce845516a7efc5b3474e06c70ea214c5dd7475a9c0",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.42.34433-6479dd32d26c4e16a5e40a51d29b721a.7z"
+    },
+    ["windows-x64-vc14.42.34433-737b0b83d9c04f49b7ec1cf247aec1da"] = {
+        sha256 = "75a575094f6a7aa372b1f8cdb13181b41b896b8ca20ce48f114be8d2698983c4",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.42.34433-737b0b83d9c04f49b7ec1cf247aec1da.7z"
+    },
+    ["windows-x86-vc14.29.30133-4e0299f8bdb44e8fa90241813dd52414"] = {
+        sha256 = "df8301693213a73c8a1471cb4f541e4f8845dd5a48f5ef452c3b6fc98760a4eb",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x86-vc14.29.30133-4e0299f8bdb44e8fa90241813dd52414.7z"
+    },
+    ["windows-x64-vc14.29.30133-b0810b0226694999a37768253ffe8bef"] = {
+        sha256 = "f673a802a779575eccb1547ad9fc9451eb4cac28947bdef89dd30d9f0e0b9511",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libigl-v2.5.0/windows-x64-vc14.29.30133-b0810b0226694999a37768253ffe8bef.7z"
     }
 }
