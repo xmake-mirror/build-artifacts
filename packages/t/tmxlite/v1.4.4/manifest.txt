@@ -1,122 +1,162 @@
 {
-    ["windows-x86-vc14.40.33807-d695341e4c274d0890e2f11c34b54ddc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-d695341e4c274d0890e2f11c34b54ddc.7z",
-        sha256 = "c7d99c1157f4c91353b2a39f0a238958b71c894827da19a7251ac7066a716265",
-        toolset = "14.40.33807"
+    ["windows-x86-vc14.42.34433-67eff1e226614de9ac3b3f539676c7fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.42.34433-67eff1e226614de9ac3b3f539676c7fa.7z",
+        toolset = "14.42.34433",
+        sha256 = "fe41b112a17c710533434f73add2a82c1dd640ad46dd41593fc8100fa5d4b646"
     },
-    ["windows-x86-vc14.40.33807-d926a11b1f8b4d21a028e41fd02e940b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-d926a11b1f8b4d21a028e41fd02e940b.7z",
-        sha256 = "69eba44e4588b832216ea2d1517d57d909d1da26e2c0a1767ed2a083cbb4fcc7",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.38.33130-d695341e4c274d0890e2f11c34b54ddc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.38.33130-d695341e4c274d0890e2f11c34b54ddc.7z",
-        sha256 = "9308d7f05ec517be4f7e356a60bfc0b71cfeba8625f9e0644dd27c11d5ce8ec8",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.40.33807-67eff1e226614de9ac3b3f539676c7fa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-67eff1e226614de9ac3b3f539676c7fa.7z",
-        sha256 = "dc38eb4df9a5e1b73e1653cdaa5af8ccf99ea0f9b3dbb67dff74b0f51a38f328",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.38.33130-9a9a77522ca34007a20f9ec7567fdbe7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-9a9a77522ca34007a20f9ec7567fdbe7.7z",
-        sha256 = "4f13701380f3dc70ffdcbaf4881af7f07d7c6652602fedb98538ecbcc014c6ad",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-d695341e4c274d0890e2f11c34b54ddc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-d695341e4c274d0890e2f11c34b54ddc.7z",
-        sha256 = "f672c686709e5e7ad60e2751cf45cda654254aca103b2e2a16073e8f72833b23",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-9be1377559674de581e8e88c197f476c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-9be1377559674de581e8e88c197f476c.7z",
-        sha256 = "50975a2a7dab9ce908f1a4f2794c4446983e752dbcc3147bc8d4192bb273616b",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.38.33130-67eff1e226614de9ac3b3f539676c7fa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.38.33130-67eff1e226614de9ac3b3f539676c7fa.7z",
-        sha256 = "c8b4d12b2907db429c5839b027823236d27f36a0bda3fd89d72b6d72b96cf911",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.40.33807-37b140bceed9438fa7487eacd9f66a37"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-37b140bceed9438fa7487eacd9f66a37.7z",
-        sha256 = "0dce9ec07b0b27b8477b22413e61fbb4f9d196cd80b46d33bd6a4d59ae28f397",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-9a9a77522ca34007a20f9ec7567fdbe7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-9a9a77522ca34007a20f9ec7567fdbe7.7z",
-        sha256 = "cbb100a48688e97d3a0e2f77bae77883ac082de48e09e082c5f1a1867eddee77",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.38.33130-25565f3b86d1404fa7d6270db4610f1f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-25565f3b86d1404fa7d6270db4610f1f.7z",
-        sha256 = "79751aae63bc4dd4e01fb66b943ed2c2312506565348604a1a26dd53ed8413bf",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-9be1377559674de581e8e88c197f476c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-9be1377559674de581e8e88c197f476c.7z",
-        sha256 = "d24f199ed5a5383273661660e259945c0e01eeffb66731aa198a6ada3e810fdd",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-67eff1e226614de9ac3b3f539676c7fa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-67eff1e226614de9ac3b3f539676c7fa.7z",
-        sha256 = "53a59eeed29db754354dd56f7b79e84a25760826065e732ba11f1e3558bff42f",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.42.34433-37b140bceed9438fa7487eacd9f66a37"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.42.34433-37b140bceed9438fa7487eacd9f66a37.7z",
+        toolset = "14.42.34433",
+        sha256 = "6dfd50e946bec679fb10468e88c3795f4a86dde60f73ea145a16d73437a7e293"
     },
     ["windows-x64-vc14.38.33130-9be1377559674de581e8e88c197f476c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-9be1377559674de581e8e88c197f476c.7z",
-        sha256 = "97cb0bdf16426770902d26bf56dfc6598e9635b424cb68ae9a37476d655d667c",
-        toolset = "14.38.33130"
+        toolset = "14.38.33130",
+        sha256 = "97cb0bdf16426770902d26bf56dfc6598e9635b424cb68ae9a37476d655d667c"
     },
     ["windows-x86-vc14.38.33130-d926a11b1f8b4d21a028e41fd02e940b"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.38.33130-d926a11b1f8b4d21a028e41fd02e940b.7z",
-        sha256 = "ddb8ed1fc6c4703ed2b54713d701a7cb5ade655f7ee634fb33d117e49c1a59e9",
-        toolset = "14.38.33130"
+        toolset = "14.38.33130",
+        sha256 = "ddb8ed1fc6c4703ed2b54713d701a7cb5ade655f7ee634fb33d117e49c1a59e9"
     },
-    ["windows-x64-vc14.29.30133-9a9a77522ca34007a20f9ec7567fdbe7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-9a9a77522ca34007a20f9ec7567fdbe7.7z",
-        sha256 = "82537a45a2deb290fac3f7e36b9f3c1e508e3fcb4ad08f7d9bc398a7215396c1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-37b140bceed9438fa7487eacd9f66a37"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-37b140bceed9438fa7487eacd9f66a37.7z",
-        sha256 = "ca39acfe5eee036dcdebd26a9ddb5e4447d0076d7e115a490b177e3c95e57d93",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-d926a11b1f8b4d21a028e41fd02e940b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-d926a11b1f8b4d21a028e41fd02e940b.7z",
-        sha256 = "b978379947d1b727864d6056e721ae12bb474de4feb5c92c7e6d04b08b418f95",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-d09f3787f0184d2b8b81b4e1b3093834"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-d09f3787f0184d2b8b81b4e1b3093834.7z",
-        sha256 = "b429c109d65d6b2b06c850cbed3c8770af6cf8964462352efe44176e4be52647",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-25565f3b86d1404fa7d6270db4610f1f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-25565f3b86d1404fa7d6270db4610f1f.7z",
-        sha256 = "abc7c5b185ca17b928062de3546bf3607d968e7d1bea89995ad69285dc4f9378",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-25565f3b86d1404fa7d6270db4610f1f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-25565f3b86d1404fa7d6270db4610f1f.7z",
-        sha256 = "489b262f78554d18ecddea4ea52b3fcb246a0505943f4070f1ae719fa69195e5",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.38.33130-37b140bceed9438fa7487eacd9f66a37"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-37b140bceed9438fa7487eacd9f66a37.7z",
-        sha256 = "68ae9a3d0adab2fbecec50667ee8b498493b9fb2b48e4b93ddda4eb66383eba2",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-d09f3787f0184d2b8b81b4e1b3093834"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-d09f3787f0184d2b8b81b4e1b3093834.7z",
-        sha256 = "46d53e9ebb07798726a291d9ed0adc359c22988eac56919b98c5851ee5ead154",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-9be1377559674de581e8e88c197f476c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-9be1377559674de581e8e88c197f476c.7z",
+        toolset = "14.29.30133",
+        sha256 = "8b1919057a4f650869c33669bba8c160b6a4d5e36c34ca5df91c4237fec0799c"
     },
     ["windows-x86-vc14.38.33130-d09f3787f0184d2b8b81b4e1b3093834"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.38.33130-d09f3787f0184d2b8b81b4e1b3093834.7z",
-        sha256 = "1e6447ea98a54809bf9840f63d50076f8968d7bf8a5819d1dd0bccb021ab9844",
-        toolset = "14.38.33130"
+        toolset = "14.38.33130",
+        sha256 = "1e6447ea98a54809bf9840f63d50076f8968d7bf8a5819d1dd0bccb021ab9844"
+    },
+    ["windows-x86-vc14.42.34433-d09f3787f0184d2b8b81b4e1b3093834"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.42.34433-d09f3787f0184d2b8b81b4e1b3093834.7z",
+        toolset = "14.42.34433",
+        sha256 = "6ca3f9de4aadf9df05f813b60f16a4f98e0bb938e9387fd4311fa96d478fda6c"
+    },
+    ["windows-x64-vc14.42.34433-9be1377559674de581e8e88c197f476c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.42.34433-9be1377559674de581e8e88c197f476c.7z",
+        toolset = "14.42.34433",
+        sha256 = "726bebb399668d2a52f414a00df4732b4d7be01d9948fdaa405ef219b672d264"
+    },
+    ["windows-x64-vc14.29.30133-9a9a77522ca34007a20f9ec7567fdbe7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-9a9a77522ca34007a20f9ec7567fdbe7.7z",
+        toolset = "14.29.30133",
+        sha256 = "6b85a6cd2ca031933b00782db02731d328c5b979a06882eb778f345cd0831ef8"
+    },
+    ["windows-x64-vc14.40.33807-37b140bceed9438fa7487eacd9f66a37"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-37b140bceed9438fa7487eacd9f66a37.7z",
+        toolset = "14.40.33807",
+        sha256 = "0dce9ec07b0b27b8477b22413e61fbb4f9d196cd80b46d33bd6a4d59ae28f397"
+    },
+    ["windows-x86-vc14.29.30133-67eff1e226614de9ac3b3f539676c7fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-67eff1e226614de9ac3b3f539676c7fa.7z",
+        toolset = "14.29.30133",
+        sha256 = "14ccc333c015127acc56f2d4b0f2bd8529e968dbc9fb3eb55ba766e807c6c054"
+    },
+    ["windows-x64-vc14.40.33807-9be1377559674de581e8e88c197f476c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-9be1377559674de581e8e88c197f476c.7z",
+        toolset = "14.40.33807",
+        sha256 = "50975a2a7dab9ce908f1a4f2794c4446983e752dbcc3147bc8d4192bb273616b"
+    },
+    ["windows-x86-vc14.40.33807-d926a11b1f8b4d21a028e41fd02e940b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-d926a11b1f8b4d21a028e41fd02e940b.7z",
+        toolset = "14.40.33807",
+        sha256 = "69eba44e4588b832216ea2d1517d57d909d1da26e2c0a1767ed2a083cbb4fcc7"
+    },
+    ["windows-x86-vc14.38.33130-d695341e4c274d0890e2f11c34b54ddc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.38.33130-d695341e4c274d0890e2f11c34b54ddc.7z",
+        toolset = "14.38.33130",
+        sha256 = "9308d7f05ec517be4f7e356a60bfc0b71cfeba8625f9e0644dd27c11d5ce8ec8"
+    },
+    ["windows-x64-vc14.40.33807-25565f3b86d1404fa7d6270db4610f1f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-25565f3b86d1404fa7d6270db4610f1f.7z",
+        toolset = "14.40.33807",
+        sha256 = "489b262f78554d18ecddea4ea52b3fcb246a0505943f4070f1ae719fa69195e5"
+    },
+    ["windows-x86-vc14.40.33807-d695341e4c274d0890e2f11c34b54ddc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-d695341e4c274d0890e2f11c34b54ddc.7z",
+        toolset = "14.40.33807",
+        sha256 = "c7d99c1157f4c91353b2a39f0a238958b71c894827da19a7251ac7066a716265"
+    },
+    ["windows-x86-vc14.29.30133-d695341e4c274d0890e2f11c34b54ddc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-d695341e4c274d0890e2f11c34b54ddc.7z",
+        toolset = "14.29.30133",
+        sha256 = "64a8f96a865fe99bb2b9949cf53c44f5ddf849c87fb6b54a0263449381e9640a"
+    },
+    ["windows-x86-vc14.29.30133-d09f3787f0184d2b8b81b4e1b3093834"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-d09f3787f0184d2b8b81b4e1b3093834.7z",
+        toolset = "14.29.30133",
+        sha256 = "c383138b93baa3acb4f4e0546ff81f88c0b6347ad45dfb6b90b6dc885bebd927"
+    },
+    ["windows-x86-vc14.42.34433-d695341e4c274d0890e2f11c34b54ddc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.42.34433-d695341e4c274d0890e2f11c34b54ddc.7z",
+        toolset = "14.42.34433",
+        sha256 = "0938a9b2381f5bf2aee2bac88741d294ab6530906c0dd5f00d2b71e99112a6b3"
+    },
+    ["windows-x86-vc14.40.33807-67eff1e226614de9ac3b3f539676c7fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-67eff1e226614de9ac3b3f539676c7fa.7z",
+        toolset = "14.40.33807",
+        sha256 = "dc38eb4df9a5e1b73e1653cdaa5af8ccf99ea0f9b3dbb67dff74b0f51a38f328"
+    },
+    ["windows-x64-vc14.42.34433-25565f3b86d1404fa7d6270db4610f1f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.42.34433-25565f3b86d1404fa7d6270db4610f1f.7z",
+        toolset = "14.42.34433",
+        sha256 = "78d2a4381929e54f17c2cf7fceff5171ac2bd29e28f3ad34eb825f50665b7da7"
+    },
+    ["windows-x86-vc14.38.33130-67eff1e226614de9ac3b3f539676c7fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.38.33130-67eff1e226614de9ac3b3f539676c7fa.7z",
+        toolset = "14.38.33130",
+        sha256 = "c8b4d12b2907db429c5839b027823236d27f36a0bda3fd89d72b6d72b96cf911"
+    },
+    ["windows-x86-vc14.40.33807-d09f3787f0184d2b8b81b4e1b3093834"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.40.33807-d09f3787f0184d2b8b81b4e1b3093834.7z",
+        toolset = "14.40.33807",
+        sha256 = "b429c109d65d6b2b06c850cbed3c8770af6cf8964462352efe44176e4be52647"
+    },
+    ["windows-x64-vc14.40.33807-9a9a77522ca34007a20f9ec7567fdbe7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.40.33807-9a9a77522ca34007a20f9ec7567fdbe7.7z",
+        toolset = "14.40.33807",
+        sha256 = "cbb100a48688e97d3a0e2f77bae77883ac082de48e09e082c5f1a1867eddee77"
+    },
+    ["windows-x64-vc14.38.33130-37b140bceed9438fa7487eacd9f66a37"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-37b140bceed9438fa7487eacd9f66a37.7z",
+        toolset = "14.38.33130",
+        sha256 = "68ae9a3d0adab2fbecec50667ee8b498493b9fb2b48e4b93ddda4eb66383eba2"
+    },
+    ["windows-x64-vc14.29.30133-25565f3b86d1404fa7d6270db4610f1f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-25565f3b86d1404fa7d6270db4610f1f.7z",
+        toolset = "14.29.30133",
+        sha256 = "449e734f0b9f1c86c5b0b4fd1baac6f4d39670b0f9dca2dc5923da9b17ca806e"
+    },
+    ["windows-x64-vc14.38.33130-9a9a77522ca34007a20f9ec7567fdbe7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-9a9a77522ca34007a20f9ec7567fdbe7.7z",
+        toolset = "14.38.33130",
+        sha256 = "4f13701380f3dc70ffdcbaf4881af7f07d7c6652602fedb98538ecbcc014c6ad"
+    },
+    ["windows-x86-vc14.42.34433-d926a11b1f8b4d21a028e41fd02e940b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.42.34433-d926a11b1f8b4d21a028e41fd02e940b.7z",
+        toolset = "14.42.34433",
+        sha256 = "406c69bcb9dc49f3173810ac5d5ab1390645133c3c7efb6c5ebd2af7bd7b7104"
+    },
+    ["windows-x64-vc14.29.30133-37b140bceed9438fa7487eacd9f66a37"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.29.30133-37b140bceed9438fa7487eacd9f66a37.7z",
+        toolset = "14.29.30133",
+        sha256 = "4115d4003957d63ee47086837548cf9dd5713be29149e24c8fd9ea70afd025f5"
+    },
+    ["windows-x64-vc14.38.33130-25565f3b86d1404fa7d6270db4610f1f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.38.33130-25565f3b86d1404fa7d6270db4610f1f.7z",
+        toolset = "14.38.33130",
+        sha256 = "79751aae63bc4dd4e01fb66b943ed2c2312506565348604a1a26dd53ed8413bf"
+    },
+    ["windows-x86-vc14.29.30133-d926a11b1f8b4d21a028e41fd02e940b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x86-vc14.29.30133-d926a11b1f8b4d21a028e41fd02e940b.7z",
+        toolset = "14.29.30133",
+        sha256 = "3f1c53ac91c755798dbaf185cdbf622f0bb061af24857e164a32ac3cc123e2fe"
+    },
+    ["windows-x64-vc14.42.34433-9a9a77522ca34007a20f9ec7567fdbe7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tmxlite-v1.4.4/windows-x64-vc14.42.34433-9a9a77522ca34007a20f9ec7567fdbe7.7z",
+        toolset = "14.42.34433",
+        sha256 = "d2ef26be47c8fddcb1aea5a950eb29d1bc9048f269ad2ea5adc9710c30753c19"
     }
 }
