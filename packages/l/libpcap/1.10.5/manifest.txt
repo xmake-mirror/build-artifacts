@@ -1,62 +1,92 @@
 {
-    ["windows-x86-vc14.41.34120-26eb893c3bfb42808fdd423685734c1d"] = {
-        sha256 = "5d355e0087cf14c36c68d074c272cb773666e2fa18870a86612400c62dc71b2e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-26eb893c3bfb42808fdd423685734c1d.7z",
-        toolset = "14.41.34120"
+    ["windows-x86-vc14.42.34433-3ffd494ac0294564b14cf263153fa30c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.42.34433-3ffd494ac0294564b14cf263153fa30c.7z",
+        sha256 = "5b60743939652111999ca52e59f6142e22b21b9cd32e6a981288d8580ad1bffc",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-64bc212f08224803abacaf5bfb08765f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.42.34433-64bc212f08224803abacaf5bfb08765f.7z",
+        sha256 = "10e5555172474f531f2508b08f3aba0b20c82601116806f9b051a9cb1c7e11fd",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.29.30133-f265c1e120d941509ffe0e1a6603131d"] = {
-        sha256 = "9e8915708a573472e422eafc50d45e0a5ca7d056854c2013ff8dc82a25c6c04f",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.29.30133-f265c1e120d941509ffe0e1a6603131d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-99a8db7dcfb844f0a9f6b5c706aefd22"] = {
-        sha256 = "e0a63f74647385768fb0b467a908e325d810251a0941fe0008215874718aa519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-99a8db7dcfb844f0a9f6b5c706aefd22.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-64bc212f08224803abacaf5bfb08765f"] = {
-        sha256 = "223b7921d50d3fd960e29ad4dc02f27424b2d122056e75344525bad96e8075f6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-64bc212f08224803abacaf5bfb08765f.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-ae828d14ae7741d1920f2129774eabd7"] = {
-        sha256 = "5a5fcafa86f872706aafc25d7e48b9b6ebcf6b13fe844fedb9bfc55c75253e16",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.41.34120-ae828d14ae7741d1920f2129774eabd7.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-26eb893c3bfb42808fdd423685734c1d"] = {
-        sha256 = "575c49f172495ddc784100baaa078936c2309ca882b16f9f6d7b98b5d51b80f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-26eb893c3bfb42808fdd423685734c1d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ae828d14ae7741d1920f2129774eabd7"] = {
-        sha256 = "f972d6e50894ae87d2d700f21d33c9d520b39842226bc2f4a58743aca1f83e2f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.29.30133-ae828d14ae7741d1920f2129774eabd7.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-3ffd494ac0294564b14cf263153fa30c"] = {
-        sha256 = "6c380bc4cd763f8ced729298687ad6f3277badac6c4425890b988e05967be546",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-3ffd494ac0294564b14cf263153fa30c.7z",
+        sha256 = "fecea7e45e10413d07566120a3d8594b2fd0830563f3c355e57b31400b561a81",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-3ffd494ac0294564b14cf263153fa30c"] = {
-        sha256 = "b50e19c603a1ec63536447cbc332632905e5945b177137aebf655fe1e12b5642",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-3ffd494ac0294564b14cf263153fa30c.7z",
+        sha256 = "b50e19c603a1ec63536447cbc332632905e5945b177137aebf655fe1e12b5642",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-99a8db7dcfb844f0a9f6b5c706aefd22"] = {
-        sha256 = "e872029dafc7358cf8b3f2088305125f68700de32562d57c90a27c4fa40c60be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-99a8db7dcfb844f0a9f6b5c706aefd22.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.42.34433-ae828d14ae7741d1920f2129774eabd7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.42.34433-ae828d14ae7741d1920f2129774eabd7.7z",
+        sha256 = "1557271069d7a3457dec6bc0c00e9287179f2544a3879418ca15b8ab0cb3c720",
+        toolset = "14.42.34433"
     },
-    ["windows-x86-vc14.29.30133-64bc212f08224803abacaf5bfb08765f"] = {
-        sha256 = "3ddfb168009479274900c40a0aae193c331a9f8517a9dc72f086aa2f56dfb622",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-64bc212f08224803abacaf5bfb08765f.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.42.34433-99a8db7dcfb844f0a9f6b5c706aefd22"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.42.34433-99a8db7dcfb844f0a9f6b5c706aefd22.7z",
+        sha256 = "70357bc79f80e6274d6ce41572dfa89d4ac4c96d0df16bbb67dd6d3a17f63066",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.41.34120-f265c1e120d941509ffe0e1a6603131d"] = {
-        sha256 = "8558d6c8bd55452a4bfba35201886491818b230f494051e488041fff46d6acdb",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.41.34120-f265c1e120d941509ffe0e1a6603131d.7z",
+        sha256 = "8558d6c8bd55452a4bfba35201886491818b230f494051e488041fff46d6acdb",
         toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-ae828d14ae7741d1920f2129774eabd7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.29.30133-ae828d14ae7741d1920f2129774eabd7.7z",
+        sha256 = "48d27b85fb64bb71dcb5e10ce140fdd1992d4a2a1bc5289c35b9175b07b30ebe",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-26eb893c3bfb42808fdd423685734c1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-26eb893c3bfb42808fdd423685734c1d.7z",
+        sha256 = "5d355e0087cf14c36c68d074c272cb773666e2fa18870a86612400c62dc71b2e",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-26eb893c3bfb42808fdd423685734c1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-26eb893c3bfb42808fdd423685734c1d.7z",
+        sha256 = "ee2f8b0e72427f32b73417b538b28f37b2c1820f658a729acf1ca2bcc627e087",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-99a8db7dcfb844f0a9f6b5c706aefd22"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-99a8db7dcfb844f0a9f6b5c706aefd22.7z",
+        sha256 = "e0a63f74647385768fb0b467a908e325d810251a0941fe0008215874718aa519",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-ae828d14ae7741d1920f2129774eabd7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.41.34120-ae828d14ae7741d1920f2129774eabd7.7z",
+        sha256 = "5a5fcafa86f872706aafc25d7e48b9b6ebcf6b13fe844fedb9bfc55c75253e16",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-3ffd494ac0294564b14cf263153fa30c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-3ffd494ac0294564b14cf263153fa30c.7z",
+        sha256 = "d7709a556a9344ef8366737bbd23b4f58168cec8bcd95cd30d8b0b11ac9c6b95",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-64bc212f08224803abacaf5bfb08765f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.41.34120-64bc212f08224803abacaf5bfb08765f.7z",
+        sha256 = "223b7921d50d3fd960e29ad4dc02f27424b2d122056e75344525bad96e8075f6",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-f265c1e120d941509ffe0e1a6603131d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x64-vc14.42.34433-f265c1e120d941509ffe0e1a6603131d.7z",
+        sha256 = "5e4383eebed186a3b8969956873dd9ddcf3cbefa1cdccd7a4f6460f087f71a08",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-64bc212f08224803abacaf5bfb08765f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-64bc212f08224803abacaf5bfb08765f.7z",
+        sha256 = "dab604595e86f3e27f69c6ed13298a34649e6aebc1111333830a19897dbbe89e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-99a8db7dcfb844f0a9f6b5c706aefd22"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.29.30133-99a8db7dcfb844f0a9f6b5c706aefd22.7z",
+        sha256 = "6988d376658dedf9fde820fd410419feea3da0cb60d2c44ea8002d45fcf0fb30",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-26eb893c3bfb42808fdd423685734c1d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libpcap-1.10.5/windows-x86-vc14.42.34433-26eb893c3bfb42808fdd423685734c1d.7z",
+        sha256 = "fbcc6302e3b64bf698a62480665435a6c2288c4465c2f2854d894b25cb829525",
+        toolset = "14.42.34433"
     }
 }
