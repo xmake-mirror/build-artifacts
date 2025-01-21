@@ -1,42 +1,62 @@
 {
-    ["windows-x64-vc14.40.33807-78dd7f2088df4c2d9902459bf8274a0a"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-78dd7f2088df4c2d9902459bf8274a0a.7z",
-        sha256 = "0a1f0dedbd9b393d99a794634ec07249d32933fff6e8469b337e6d71dd898eb2"
-    },
     ["windows-x64-vc14.29.30133-19550308787840a2b74e1b28966257a7"] = {
-        toolset = "14.29.30133",
+        sha256 = "fb291f099f83b5547cfc86485c63b7ea59db0f9ac9cc9b3add7693d0ea4f2022",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.29.30133-19550308787840a2b74e1b28966257a7.7z",
-        sha256 = "b0f492331e47f19dc57206921f95d646c02213db9d4d4c9331d4db82bf1ada32"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-f9f154085a4444e2bd62ea6bcc8afacb"] = {
-        toolset = "14.29.30133",
+        sha256 = "0296ec4ca0883889fc6069b2c46b5926ae24a146b58401f8948209b1620cb62f",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.29.30133-f9f154085a4444e2bd62ea6bcc8afacb.7z",
-        sha256 = "f427ba94b00f975cd348154d31920a3a0d8d0998b8f095b63da83696cd6a5f47"
-    },
-    ["windows-x64-vc14.40.33807-f9f154085a4444e2bd62ea6bcc8afacb"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-f9f154085a4444e2bd62ea6bcc8afacb.7z",
-        sha256 = "86208d02efc81a1741cf69ab1b31f9320f4e8a8a6e38de73b10ee4e4889f17ee"
-    },
-    ["windows-x64-vc14.29.30133-393cb64eda10489aac48dfceea0d56c6"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.29.30133-393cb64eda10489aac48dfceea0d56c6.7z",
-        sha256 = "a699ddf1a6897cade810c03595a5b75b1dc5ce109be3e61bd3e95b496ebfa169"
-    },
-    ["windows-x64-vc14.29.30133-78dd7f2088df4c2d9902459bf8274a0a"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.29.30133-78dd7f2088df4c2d9902459bf8274a0a.7z",
-        sha256 = "9b362b19a7e4ca6b73b42b8568f696b76ea150279ae6a75ca9596adff7f0f2c8"
-    },
-    ["windows-x64-vc14.40.33807-393cb64eda10489aac48dfceea0d56c6"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-393cb64eda10489aac48dfceea0d56c6.7z",
-        sha256 = "de1cbe79ec0e2ffcb80e162297b3316d9a2f4c83397348262c3464216eebc16b"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.40.33807-19550308787840a2b74e1b28966257a7"] = {
-        toolset = "14.40.33807",
+        sha256 = "b4d2e9734a0df9f6d005967178d625f5df0533a394c2a61641610fd66248f7bb",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-19550308787840a2b74e1b28966257a7.7z",
-        sha256 = "b4d2e9734a0df9f6d005967178d625f5df0533a394c2a61641610fd66248f7bb"
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-393cb64eda10489aac48dfceea0d56c6"] = {
+        sha256 = "de1cbe79ec0e2ffcb80e162297b3316d9a2f4c83397348262c3464216eebc16b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-393cb64eda10489aac48dfceea0d56c6.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-78dd7f2088df4c2d9902459bf8274a0a"] = {
+        sha256 = "17155fa593cde2efd533ea7390dce2e0f8dbed2f5885119629bf9b790242b92d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.29.30133-78dd7f2088df4c2d9902459bf8274a0a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-f9f154085a4444e2bd62ea6bcc8afacb"] = {
+        sha256 = "86208d02efc81a1741cf69ab1b31f9320f4e8a8a6e38de73b10ee4e4889f17ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-f9f154085a4444e2bd62ea6bcc8afacb.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.42.34433-393cb64eda10489aac48dfceea0d56c6"] = {
+        sha256 = "f2d387f87c195c1a63da06006426888b6c9aa3edf1742c6858dc90a1bec29b22",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.42.34433-393cb64eda10489aac48dfceea0d56c6.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-19550308787840a2b74e1b28966257a7"] = {
+        sha256 = "ac855a5cdc0826c676a9576fa563a625cb4b3a9290db12f684993a278202b996",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.42.34433-19550308787840a2b74e1b28966257a7.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-f9f154085a4444e2bd62ea6bcc8afacb"] = {
+        sha256 = "0199e3653a782b3991d69da71d8e81396285e4263c349f2b3979812862a66b76",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.42.34433-f9f154085a4444e2bd62ea6bcc8afacb.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-393cb64eda10489aac48dfceea0d56c6"] = {
+        sha256 = "547fced4796190a9c9f4395e831c2156387f7ad8f6584c751c8dbdb217a943f6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.29.30133-393cb64eda10489aac48dfceea0d56c6.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-78dd7f2088df4c2d9902459bf8274a0a"] = {
+        sha256 = "0a1f0dedbd9b393d99a794634ec07249d32933fff6e8469b337e6d71dd898eb2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.40.33807-78dd7f2088df4c2d9902459bf8274a0a.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.42.34433-78dd7f2088df4c2d9902459bf8274a0a"] = {
+        sha256 = "fc334d3af58db06587e86ea28d90948120b3272f29109f9d17ff13a42a548da7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fbgemm-v0.8.0/windows-x64-vc14.42.34433-78dd7f2088df4c2d9902459bf8274a0a.7z",
+        toolset = "14.42.34433"
     }
 }
