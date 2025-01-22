@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.37.32822-65f187f269194c00a0a08b2eb07e91b8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-65f187f269194c00a0a08b2eb07e91b8.7z",
-        sha256 = "aefc79f0230ec5b3367441478e11881670c8c365c94a980e27d13483ea049284",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-5c68e45ca5eb43ee846e829aa1477d79"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-5c68e45ca5eb43ee846e829aa1477d79.7z",
-        sha256 = "0a5e72b1edce206236846a0300eff5b834b079682447e22cce21ae85ba85884e",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-664845438b664dee8bf9b78efe2e75f3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-664845438b664dee8bf9b78efe2e75f3.7z",
-        sha256 = "816c5b9429c186b236d4432dfbf0ea477ee35193b59217b64b25ec15ac4c38ec",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-7a03c865bfe04ce0acd667e63aadea9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-7a03c865bfe04ce0acd667e63aadea9f.7z",
-        sha256 = "58e7d6b79b22116b70031daecee86925dd36ca9e8eb8ede3e2ca31ca66c3b214",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-e59172c5e83148a4a0f4141cbe8aa50c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-e59172c5e83148a4a0f4141cbe8aa50c.7z",
-        sha256 = "76425d0228c7892fa08dae9a4b56c055a4d0d596c5baf2f4acbc5aba7ca17873",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-7a03c865bfe04ce0acd667e63aadea9f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-7a03c865bfe04ce0acd667e63aadea9f.7z",
-        sha256 = "2dea89c5b84a6257042d52691cf0ca58868a50317073888b566c9781e1ac899d",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-5c68e45ca5eb43ee846e829aa1477d79"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-5c68e45ca5eb43ee846e829aa1477d79.7z",
-        sha256 = "93b87b03a9f5fcfda32e3a70d5b5494d7ebd709a14e18c943823fc4ff85e728e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-18d95973bb0443ea8f35dca739fec572"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-18d95973bb0443ea8f35dca739fec572.7z",
-        sha256 = "50f7e26415447b59003eb0fa9ba361249abf9f904c745e0acee8f6041a48b3a5",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-be6b682505ad4eb982c2d5a6a4e07ec2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-be6b682505ad4eb982c2d5a6a4e07ec2.7z",
-        sha256 = "1feea2f3be3cb72829f46f660fff5158ab20f06e01b7c72c45201fbae999edab",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-65f187f269194c00a0a08b2eb07e91b8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-65f187f269194c00a0a08b2eb07e91b8.7z",
-        sha256 = "570834bef3c7d3087c46acbc3aa0ed76f068f978bf6750daa9ea4522f79d4036",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-664845438b664dee8bf9b78efe2e75f3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-664845438b664dee8bf9b78efe2e75f3.7z",
-        sha256 = "a16d1eab711f585882e23e37db64827565749ec4b3f66ed5229a0c6437154442",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-30aff2cf72634cc3a4e995a1768b4660"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-30aff2cf72634cc3a4e995a1768b4660.7z",
-        sha256 = "ff6bb3b97564b9e823f46b6491d669586e7960135c93113cc3c70fea318e79d8",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.42.34433-02a307cf18c441d68240afd79a7340a3"] = {
+        sha256 = "5c75db72406f20cd0ec3abfe2b42dbfac8d587fd738b671e009d8cb656ba08ac",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.42.34433-02a307cf18c441d68240afd79a7340a3.7z"
     },
     ["windows-x64-vc14.29.30133-e59172c5e83148a4a0f4141cbe8aa50c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-e59172c5e83148a4a0f4141cbe8aa50c.7z",
         sha256 = "234b5613bd798e1dea7935a104aed65d946886e8e017b96d44bb3bf084452d21",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-e59172c5e83148a4a0f4141cbe8aa50c.7z"
     },
-    ["windows-x86-vc14.29.30133-30aff2cf72634cc3a4e995a1768b4660"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-30aff2cf72634cc3a4e995a1768b4660.7z",
-        sha256 = "3c4b2803d79027298a65fbc7adbb38d653c91d0e747f76d6e7cffcc08f461aa9",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.29.30133-65f187f269194c00a0a08b2eb07e91b8"] = {
+        sha256 = "570834bef3c7d3087c46acbc3aa0ed76f068f978bf6750daa9ea4522f79d4036",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-65f187f269194c00a0a08b2eb07e91b8.7z"
+    },
+    ["windows-x64-vc14.42.34433-d1fddc8b87e040deb6b5fc6ce03ce79c"] = {
+        sha256 = "e2f335eaaf62634539c3e6544e806e5e953d4a4331e99373cdc25eef985132f3",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.42.34433-d1fddc8b87e040deb6b5fc6ce03ce79c.7z"
+    },
+    ["windows-x86-vc14.29.30133-be6b682505ad4eb982c2d5a6a4e07ec2"] = {
+        sha256 = "1feea2f3be3cb72829f46f660fff5158ab20f06e01b7c72c45201fbae999edab",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-be6b682505ad4eb982c2d5a6a4e07ec2.7z"
     },
     ["windows-x86-vc14.37.32822-be6b682505ad4eb982c2d5a6a4e07ec2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-be6b682505ad4eb982c2d5a6a4e07ec2.7z",
         sha256 = "4ce1ecd47bfb2820b2642045b2ed2379ea83f0101f149e8630191cc4a992d55b",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-be6b682505ad4eb982c2d5a6a4e07ec2.7z"
+    },
+    ["windows-x86-vc14.29.30133-b4cbd4a159a847a298ebdce46a04b14c"] = {
+        sha256 = "6a96340714296cc247450f2a08c0bb67212a04eec96ab86bc6e3a06e535e9648",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-b4cbd4a159a847a298ebdce46a04b14c.7z"
+    },
+    ["windows-x86-vc14.29.30133-30aff2cf72634cc3a4e995a1768b4660"] = {
+        sha256 = "3c4b2803d79027298a65fbc7adbb38d653c91d0e747f76d6e7cffcc08f461aa9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-30aff2cf72634cc3a4e995a1768b4660.7z"
     },
     ["windows-x64-vc14.29.30133-18d95973bb0443ea8f35dca739fec572"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-18d95973bb0443ea8f35dca739fec572.7z",
         sha256 = "4cd20d946a175431cf99f1379f2ded4511a7ffe1ca4b16d89bfd22fd0ba63256",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-18d95973bb0443ea8f35dca739fec572.7z"
+    },
+    ["windows-x86-vc14.42.34433-b4cbd4a159a847a298ebdce46a04b14c"] = {
+        sha256 = "36e3e9b3eb4fcafc19e3bf6cd99f165c2693264e4d047cf27698d2a061d6eae5",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.42.34433-b4cbd4a159a847a298ebdce46a04b14c.7z"
+    },
+    ["windows-x64-vc14.42.34433-65fd78a6504f45ab956b292bd05268e1"] = {
+        sha256 = "3d404cb234e0df37c063c638f35e75c73ba80e91ccaa65b84417669e29855e26",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.42.34433-65fd78a6504f45ab956b292bd05268e1.7z"
+    },
+    ["windows-x86-vc14.37.32822-7a03c865bfe04ce0acd667e63aadea9f"] = {
+        sha256 = "2dea89c5b84a6257042d52691cf0ca58868a50317073888b566c9781e1ac899d",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-7a03c865bfe04ce0acd667e63aadea9f.7z"
+    },
+    ["windows-x86-vc14.42.34433-44851769227d442e97c06bd2ed4ab539"] = {
+        sha256 = "ec2db2ebcc016a5397091e7a3fcabc5b3da5cdbd0948cfdcd647edf883d3db17",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.42.34433-44851769227d442e97c06bd2ed4ab539.7z"
+    },
+    ["windows-x64-vc14.29.30133-d1fddc8b87e040deb6b5fc6ce03ce79c"] = {
+        sha256 = "daf80068b61715e77b169160294f7a80088524809071af2b79938a34136534d7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-d1fddc8b87e040deb6b5fc6ce03ce79c.7z"
+    },
+    ["windows-x64-vc14.42.34433-f6262d27cae74d03b3b10b322c582624"] = {
+        sha256 = "5bcfa54a4f1bbd9ccc19044272bd88299eaf4a78af60fcb1a2bb8e212696d7ea",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.42.34433-f6262d27cae74d03b3b10b322c582624.7z"
+    },
+    ["windows-x64-vc14.29.30133-f6262d27cae74d03b3b10b322c582624"] = {
+        sha256 = "c42640fdeeba634fab2115491db83cd0a1b80653819d84c29b86970ef69ef542",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-f6262d27cae74d03b3b10b322c582624.7z"
+    },
+    ["windows-x64-vc14.37.32822-5c68e45ca5eb43ee846e829aa1477d79"] = {
+        sha256 = "0a5e72b1edce206236846a0300eff5b834b079682447e22cce21ae85ba85884e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-5c68e45ca5eb43ee846e829aa1477d79.7z"
+    },
+    ["windows-x86-vc14.29.30133-664845438b664dee8bf9b78efe2e75f3"] = {
+        sha256 = "816c5b9429c186b236d4432dfbf0ea477ee35193b59217b64b25ec15ac4c38ec",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-664845438b664dee8bf9b78efe2e75f3.7z"
+    },
+    ["windows-x64-vc14.37.32822-e59172c5e83148a4a0f4141cbe8aa50c"] = {
+        sha256 = "76425d0228c7892fa08dae9a4b56c055a4d0d596c5baf2f4acbc5aba7ca17873",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-e59172c5e83148a4a0f4141cbe8aa50c.7z"
+    },
+    ["windows-x86-vc14.29.30133-e6eeb9c9b30049b59dd0e9a125ca337f"] = {
+        sha256 = "78877a8183e810a758a36b82522594550f7168fc34fc88f7e3c5d7bccad88bf8",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-e6eeb9c9b30049b59dd0e9a125ca337f.7z"
+    },
+    ["windows-x86-vc14.37.32822-30aff2cf72634cc3a4e995a1768b4660"] = {
+        sha256 = "ff6bb3b97564b9e823f46b6491d669586e7960135c93113cc3c70fea318e79d8",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-30aff2cf72634cc3a4e995a1768b4660.7z"
+    },
+    ["windows-x64-vc14.29.30133-5c68e45ca5eb43ee846e829aa1477d79"] = {
+        sha256 = "93b87b03a9f5fcfda32e3a70d5b5494d7ebd709a14e18c943823fc4ff85e728e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-5c68e45ca5eb43ee846e829aa1477d79.7z"
+    },
+    ["windows-x64-vc14.29.30133-05018e4502714722b24e8fdc791eabb2"] = {
+        sha256 = "47dca9078a6649d0baa178fd3ac910b0a652fb7dd4fe3a90b3422422e3525a7d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-05018e4502714722b24e8fdc791eabb2.7z"
+    },
+    ["windows-x86-vc14.37.32822-664845438b664dee8bf9b78efe2e75f3"] = {
+        sha256 = "a16d1eab711f585882e23e37db64827565749ec4b3f66ed5229a0c6437154442",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.37.32822-664845438b664dee8bf9b78efe2e75f3.7z"
+    },
+    ["windows-x64-vc14.37.32822-18d95973bb0443ea8f35dca739fec572"] = {
+        sha256 = "50f7e26415447b59003eb0fa9ba361249abf9f904c745e0acee8f6041a48b3a5",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-18d95973bb0443ea8f35dca739fec572.7z"
+    },
+    ["windows-x64-vc14.29.30133-65fd78a6504f45ab956b292bd05268e1"] = {
+        sha256 = "07fdce637daf638548faed465bccd31d3b23149b4f3da3955d2ebd534ad5a50a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.29.30133-65fd78a6504f45ab956b292bd05268e1.7z"
+    },
+    ["windows-x86-vc14.29.30133-02a307cf18c441d68240afd79a7340a3"] = {
+        sha256 = "1812bf5245997b0352135e0f5417270dfd0508469132b38f3df23cb76281aa32",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-02a307cf18c441d68240afd79a7340a3.7z"
+    },
+    ["windows-x64-vc14.42.34433-05018e4502714722b24e8fdc791eabb2"] = {
+        sha256 = "aac03c9b302f98e3ccdf82a1d7cddb63fddc7777410da76b2318c2c68f1c2628",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.42.34433-05018e4502714722b24e8fdc791eabb2.7z"
+    },
+    ["windows-x86-vc14.29.30133-7a03c865bfe04ce0acd667e63aadea9f"] = {
+        sha256 = "58e7d6b79b22116b70031daecee86925dd36ca9e8eb8ede3e2ca31ca66c3b214",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-7a03c865bfe04ce0acd667e63aadea9f.7z"
+    },
+    ["windows-x64-vc14.37.32822-65f187f269194c00a0a08b2eb07e91b8"] = {
+        sha256 = "aefc79f0230ec5b3367441478e11881670c8c365c94a980e27d13483ea049284",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x64-vc14.37.32822-65f187f269194c00a0a08b2eb07e91b8.7z"
+    },
+    ["windows-x86-vc14.29.30133-44851769227d442e97c06bd2ed4ab539"] = {
+        sha256 = "f8b84ffc4dd5c2fa58840f6b7c1ae0b7e159b3b72b91a53fa384d5e32b043ef6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.29.30133-44851769227d442e97c06bd2ed4ab539.7z"
+    },
+    ["windows-x86-vc14.42.34433-e6eeb9c9b30049b59dd0e9a125ca337f"] = {
+        sha256 = "2ac999ac405eba60ba2616a6fd7d4015605dcc0252464d8c07c63070388f601d",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/wingetopt-2023.10.29/windows-x86-vc14.42.34433-e6eeb9c9b30049b59dd0e9a125ca337f.7z"
     }
 }
