@@ -1,4 +1,54 @@
 {
+    ["windows-x64-vc14.40.33807-7a00b948da6d402cacfa4bbdbcd7bdb1"] = {
+        sha256 = "2a3f59d34742c5bb9832ad2c389af1a3ea952e9daf038dac9829d013622e25e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.40.33807-7a00b948da6d402cacfa4bbdbcd7bdb1.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.42.34433-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
+        sha256 = "eb2a563f8b559e9133fb479d2731e8f819e76ac6008dc501ad8defc748b51fef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.42.34433-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.40.33807-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
+        sha256 = "7be73c077088fd5f95426712e2871aa2adf2523aa59741a731a81f299cb818c2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.42.34433-ab3b952ea8f549d8a74371dde16268d7"] = {
+        sha256 = "d29b00990c4b3efebf07be0db1c98d1e868cd4a0555bf7bed068127e6c7e9381",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.42.34433-ab3b952ea8f549d8a74371dde16268d7.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.41.34120-bad83e0227f04a3ab47e2f9eb7ee9359"] = {
+        sha256 = "36f8106efb0ef974cbbbf960af98679cfaf903ed378f045057527517b29081df",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.41.34120-bad83e0227f04a3ab47e2f9eb7ee9359.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-7a00b948da6d402cacfa4bbdbcd7bdb1"] = {
+        sha256 = "710e1924368e016e078f99a1193a7347eb06b476948637903c4974a18e7e4980",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-7a00b948da6d402cacfa4bbdbcd7bdb1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-91e351e3586d4a49ada137753540b3bc"] = {
+        sha256 = "654d65a9f61a96a1bab721e728db5d43a8e98be33d78d6abfe0da398982395e7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.41.34120-91e351e3586d4a49ada137753540b3bc.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-92cbecc4a2cc48fd8bd96331b5ab91da"] = {
+        sha256 = "9c964da98566c1ecfe3c13f3ddbcf3c39ddc4f080f4a84d2be418d39fe68059b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.42.34433-92cbecc4a2cc48fd8bd96331b5ab91da.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-bad83e0227f04a3ab47e2f9eb7ee9359"] = {
+        sha256 = "d35837d110c1d7b649ba1fb712679120e7b4c5a24a15d05ee114684cbc608dad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-bad83e0227f04a3ab47e2f9eb7ee9359.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-2e5891e13ba648ec8d219c7000a55ac4"] = {
+        sha256 = "e29359b67e0074822e61939994fe949fae29581285e1851608bed6f0aecdf4f1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-2e5891e13ba648ec8d219c7000a55ac4.7z",
+        toolset = "14.40.33807"
+    },
     ["windows-x64-vc14.40.33807-9800df68572645d2b67c8be253ba7072"] = {
         sha256 = "ad1a9109c4572ef39211d3006c7891dcb03869cda577ae3dc670b3446ba86c2a",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.40.33807-9800df68572645d2b67c8be253ba7072.7z",
@@ -9,19 +59,24 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.41.34120-7a00b948da6d402cacfa4bbdbcd7bdb1.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
-        sha256 = "02a42fa51d074d7cd691977390948b6df8952768622207028deed6d95fac5d4c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
+    ["windows-x86-vc14.29.30133-ab3b952ea8f549d8a74371dde16268d7"] = {
+        sha256 = "4c3fbf5d6622f254d869a04eba3427e554c95ed09e047a3369f3044a32d61b0d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-ab3b952ea8f549d8a74371dde16268d7.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.41.34120-bad83e0227f04a3ab47e2f9eb7ee9359"] = {
-        sha256 = "36f8106efb0ef974cbbbf960af98679cfaf903ed378f045057527517b29081df",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.41.34120-bad83e0227f04a3ab47e2f9eb7ee9359.7z",
-        toolset = "14.41.34120"
-    },
     ["windows-x64-vc14.29.30133-91e351e3586d4a49ada137753540b3bc"] = {
-        sha256 = "490db1d9e1e8c4cccce46db900d8cf67fbb0063dee2ae49de9c21ff20ed83ed3",
+        sha256 = "605e2022c74d245ba7593ccc7f1a18f7c4decec616e7f5e3e22b2e9b0ecc2c60",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-91e351e3586d4a49ada137753540b3bc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-ab3b952ea8f549d8a74371dde16268d7"] = {
+        sha256 = "5925668dbbb17baadf59dfa111ec0db35d8274852b0744ad2018b61d28fed1fe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-ab3b952ea8f549d8a74371dde16268d7.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-92cbecc4a2cc48fd8bd96331b5ab91da"] = {
+        sha256 = "8617035ff23691797f4eaee9f54ffeeb6daf0e201ec95d75cfc7afb5695ba8ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-92cbecc4a2cc48fd8bd96331b5ab91da.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.40.33807-92cbecc4a2cc48fd8bd96331b5ab91da"] = {
@@ -29,94 +84,79 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.40.33807-92cbecc4a2cc48fd8bd96331b5ab91da.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.29.30133-bad83e0227f04a3ab47e2f9eb7ee9359"] = {
-        sha256 = "153549ee6d30673f0200158c69cd6282ed99b8d52ad5db0367ecdd01e5b3e0d7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-bad83e0227f04a3ab47e2f9eb7ee9359.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.42.34433-7a00b948da6d402cacfa4bbdbcd7bdb1"] = {
+        sha256 = "25f3947635dfc3542c86adca1ed3e818b0972e99eb3156d7dba7b3dbb0a80204",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.42.34433-7a00b948da6d402cacfa4bbdbcd7bdb1.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-2e5891e13ba648ec8d219c7000a55ac4"] = {
+        sha256 = "f34c621fbd832a1d3b42b61a7cffc56ef766ea65e0558eab1f99a951ac55b7c2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.42.34433-2e5891e13ba648ec8d219c7000a55ac4.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x86-vc14.40.33807-bad83e0227f04a3ab47e2f9eb7ee9359"] = {
         sha256 = "13d17212f87eeae08df589554220bf3484285522188485f073b9c7fb5c260267",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-bad83e0227f04a3ab47e2f9eb7ee9359.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.40.33807-7a00b948da6d402cacfa4bbdbcd7bdb1"] = {
-        sha256 = "2a3f59d34742c5bb9832ad2c389af1a3ea952e9daf038dac9829d013622e25e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.40.33807-7a00b948da6d402cacfa4bbdbcd7bdb1.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-2e5891e13ba648ec8d219c7000a55ac4"] = {
-        sha256 = "e29359b67e0074822e61939994fe949fae29581285e1851608bed6f0aecdf4f1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-2e5891e13ba648ec8d219c7000a55ac4.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.41.34120-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
-        sha256 = "1c355b03f64ac22c7ebcd061fc2cc6919c413c8ce38133d9bbf25d4236c49dc6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.41.34120-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
-        toolset = "14.41.34120"
-    },
     ["windows-x86-vc14.41.34120-ab3b952ea8f549d8a74371dde16268d7"] = {
         sha256 = "9c28ab863262cb13bdcaab0a9f40eeaca11afe0d75344e5ef5660af3ded0e6cd",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.41.34120-ab3b952ea8f549d8a74371dde16268d7.7z",
         toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-7a00b948da6d402cacfa4bbdbcd7bdb1"] = {
-        sha256 = "5d2e01ea46243691dcbe6ea263888ac2c673c0c7559e81cd8a3478a7900b8912",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-7a00b948da6d402cacfa4bbdbcd7bdb1.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
-        sha256 = "7be73c077088fd5f95426712e2871aa2adf2523aa59741a731a81f299cb818c2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.40.33807-ab3b952ea8f549d8a74371dde16268d7"] = {
-        sha256 = "5925668dbbb17baadf59dfa111ec0db35d8274852b0744ad2018b61d28fed1fe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.40.33807-ab3b952ea8f549d8a74371dde16268d7.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-91e351e3586d4a49ada137753540b3bc"] = {
-        sha256 = "1ece2a1133525f9d0e465e0a2e1e4229cf3a1f32ff6c378468fe3b924a428b24",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.40.33807-91e351e3586d4a49ada137753540b3bc.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-92cbecc4a2cc48fd8bd96331b5ab91da"] = {
-        sha256 = "62e1bc1be0aea3fc45b19671f932127470a2c80723916330983c821100852765",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-92cbecc4a2cc48fd8bd96331b5ab91da.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-9800df68572645d2b67c8be253ba7072"] = {
-        sha256 = "83e0bfd9a0998710a122e36caf46f303d2cbc17c7592814b177119b4fc353710",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-9800df68572645d2b67c8be253ba7072.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-9800df68572645d2b67c8be253ba7072"] = {
-        sha256 = "4f96409a54095861fc8ec6a7f76f0e420fbb7afc7e9c53d387fc05f1f8c1a89a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.41.34120-9800df68572645d2b67c8be253ba7072.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-2e5891e13ba648ec8d219c7000a55ac4"] = {
-        sha256 = "1f4fb49939dec45538f356ecb61f16c3bbff815c8ceecff4e73467b20beee175",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-2e5891e13ba648ec8d219c7000a55ac4.7z",
-        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-2e5891e13ba648ec8d219c7000a55ac4"] = {
         sha256 = "98fd898278e8730b20adce45dc1ea40a70b3a5952bc451287ae0eed792f9a103",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.41.34120-2e5891e13ba648ec8d219c7000a55ac4.7z",
         toolset = "14.41.34120"
     },
+    ["windows-x86-vc14.29.30133-2e5891e13ba648ec8d219c7000a55ac4"] = {
+        sha256 = "8169d9cd75e2fd8cf034388ec717be454b0bc129e8191dde939d14ed51f6bb6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-2e5891e13ba648ec8d219c7000a55ac4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-bad83e0227f04a3ab47e2f9eb7ee9359"] = {
+        sha256 = "aa8b31c9d0d7358c5f260a9893c17e02bf61a9111e09d8f30f80134cadc2765e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.42.34433-bad83e0227f04a3ab47e2f9eb7ee9359.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.41.34120-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
+        sha256 = "1c355b03f64ac22c7ebcd061fc2cc6919c413c8ce38133d9bbf25d4236c49dc6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.41.34120-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-91e351e3586d4a49ada137753540b3bc"] = {
+        sha256 = "df5da84f847f5aa4bac2ca15c30e4537aa2b3930d07d9911b048ec855e5c628c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.42.34433-91e351e3586d4a49ada137753540b3bc.7z",
+        toolset = "14.42.34433"
+    },
     ["windows-x64-vc14.41.34120-92cbecc4a2cc48fd8bd96331b5ab91da"] = {
         sha256 = "51ef465ef4fd155abd443d611514dcb0ff4d277c940f9544c7532c9356dd804b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.41.34120-92cbecc4a2cc48fd8bd96331b5ab91da.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-ab3b952ea8f549d8a74371dde16268d7"] = {
-        sha256 = "1c4af66cd2b49b463f1827319f9b4c354095e2c76c843bfbd2a387514dece47c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-ab3b952ea8f549d8a74371dde16268d7.7z",
+    ["windows-x64-vc14.29.30133-9800df68572645d2b67c8be253ba7072"] = {
+        sha256 = "9d255549905f769431c181eb04c22d93a1cf8166f0a2895b15f4dd46a0b50cac",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.29.30133-9800df68572645d2b67c8be253ba7072.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.41.34120-91e351e3586d4a49ada137753540b3bc"] = {
-        sha256 = "654d65a9f61a96a1bab721e728db5d43a8e98be33d78d6abfe0da398982395e7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.41.34120-91e351e3586d4a49ada137753540b3bc.7z",
+    ["windows-x64-vc14.42.34433-9800df68572645d2b67c8be253ba7072"] = {
+        sha256 = "1f11c3571ca56957e44ef0f513311f46978082126d47dd1374476d27b0501357",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.42.34433-9800df68572645d2b67c8be253ba7072.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.41.34120-9800df68572645d2b67c8be253ba7072"] = {
+        sha256 = "4f96409a54095861fc8ec6a7f76f0e420fbb7afc7e9c53d387fc05f1f8c1a89a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.41.34120-9800df68572645d2b67c8be253ba7072.7z",
         toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-4b72e5e4ad624f45b47d6ce85b5231e8"] = {
+        sha256 = "e497c3f5f2cf9534b7dd1ed5c105a2cf6201fc0bb19415cc319ed558003ede07",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x86-vc14.29.30133-4b72e5e4ad624f45b47d6ce85b5231e8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-91e351e3586d4a49ada137753540b3bc"] = {
+        sha256 = "1ece2a1133525f9d0e465e0a2e1e4229cf3a1f32ff6c378468fe3b924a428b24",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/uvwasi-v0.0.21/windows-x64-vc14.40.33807-91e351e3586d4a49ada137753540b3bc.7z",
+        toolset = "14.40.33807"
     }
 }
