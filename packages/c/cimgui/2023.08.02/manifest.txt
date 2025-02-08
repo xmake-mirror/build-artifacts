@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.41.34120-4004bfa3ee28427ba1b629d48a1d9333"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-4004bfa3ee28427ba1b629d48a1d9333.7z",
-        toolset = "14.41.34120",
-        sha256 = "be854bc66ff185962b225f9701b63716af5b00bbf001c6449b31a7fc972ed50e"
+    ["windows-x64-vc14.42.34433-37a52a2b6e0148c7b0da1ae0203af147"] = {
+        sha256 = "db1d9eb85da8d684b78cca99f1813c2486e536692f8533aedc12d31ce1de670d",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.42.34433-37a52a2b6e0148c7b0da1ae0203af147.7z"
     },
-    ["windows-x64-vc14.29.30133-3f89186020ef4ad19afc477bd2858a8e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-3f89186020ef4ad19afc477bd2858a8e.7z",
-        toolset = "14.29.30133",
-        sha256 = "414046e7e94e68713dab588aef634fb467b226e5fe7a15ab798ff21a557b6450"
+    ["windows-x64-vc14.42.34433-3f89186020ef4ad19afc477bd2858a8e"] = {
+        sha256 = "8dc1aecfeec4dc22164069c71564d6fa2fb005f892bf32f14905881f42b8b2b0",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.42.34433-3f89186020ef4ad19afc477bd2858a8e.7z"
     },
-    ["windows-x86-vc14.41.34120-fff322ad92d9463db19615c42ecc86a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-fff322ad92d9463db19615c42ecc86a4.7z",
-        toolset = "14.41.34120",
-        sha256 = "78f45d32f5ebf8ea55b32face786d1c8bde1829950fa127f4095482473c95eb7"
-    },
-    ["windows-x86-vc14.41.34120-b789585234b54674b491c7fa7144ea42"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-b789585234b54674b491c7fa7144ea42.7z",
-        toolset = "14.41.34120",
-        sha256 = "40bc43a4e53de55b419179107e97744acd8cd804204c988d3f69cd3f4c6ee395"
-    },
-    ["windows-x64-vc14.29.30133-11e78e3c6fd0440f8ccf591020954d5e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-11e78e3c6fd0440f8ccf591020954d5e.7z",
-        toolset = "14.29.30133",
-        sha256 = "020b8d1d3bb8a91cf2e3604931c107b4f10471c3ea6808a4af63c8bbac1b73d4"
-    },
-    ["windows-x64-vc14.41.34120-37a52a2b6e0148c7b0da1ae0203af147"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-37a52a2b6e0148c7b0da1ae0203af147.7z",
-        toolset = "14.41.34120",
-        sha256 = "3b2120522659daeee647b87a542909d63fa6a1e58b0fb4e5029cb27d4f7e2310"
-    },
-    ["windows-x64-vc14.41.34120-1ceac41b93a54544bfe810fd2b067ecf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-1ceac41b93a54544bfe810fd2b067ecf.7z",
-        toolset = "14.41.34120",
-        sha256 = "1095d1ae73fd6ea3418a4790c3fda151d6cf56b20a785bc21352a3e636d77406"
-    },
-    ["windows-x64-vc14.41.34120-3f89186020ef4ad19afc477bd2858a8e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-3f89186020ef4ad19afc477bd2858a8e.7z",
-        toolset = "14.41.34120",
-        sha256 = "ade12f325f27ead9d19800c817a8ef9fedb2d2803dff501ae79298abe5fba4ab"
-    },
-    ["windows-x86-vc14.29.30133-154ec0a476234774937236a7ee1ad062"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-154ec0a476234774937236a7ee1ad062.7z",
-        toolset = "14.29.30133",
-        sha256 = "7c439c3bf2a0e016689298fa6fc3bc232bc502ccf3ae4ac75cae7e55aa182c2e"
-    },
-    ["windows-x64-vc14.29.30133-1ceac41b93a54544bfe810fd2b067ecf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-1ceac41b93a54544bfe810fd2b067ecf.7z",
-        toolset = "14.29.30133",
-        sha256 = "60818a0822031215a94149aeb6db895df651b3d6c6427d5eec1326137d513bf5"
-    },
-    ["windows-x64-vc14.41.34120-11e78e3c6fd0440f8ccf591020954d5e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-11e78e3c6fd0440f8ccf591020954d5e.7z",
-        toolset = "14.41.34120",
-        sha256 = "bac337c30a076fb74307e7c4b7627b8f09d9eda8999143c03ccb8c63601e413d"
-    },
-    ["windows-x86-vc14.41.34120-154ec0a476234774937236a7ee1ad062"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-154ec0a476234774937236a7ee1ad062.7z",
-        toolset = "14.41.34120",
-        sha256 = "7924b9719570e4370ad68d0973dd2d4a2683c16893bb0e79b462b2f1a5da4ba3"
-    },
-    ["windows-x86-vc14.29.30133-b789585234b54674b491c7fa7144ea42"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-b789585234b54674b491c7fa7144ea42.7z",
-        toolset = "14.29.30133",
-        sha256 = "22631fa8f12c38f66040daf0e7f5f4866cfa62f8c986cdf4bd3f4c59b8cbc6dd"
-    },
-    ["windows-x86-vc14.29.30133-fff322ad92d9463db19615c42ecc86a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-fff322ad92d9463db19615c42ecc86a4.7z",
-        toolset = "14.29.30133",
-        sha256 = "9e4a35708c563eb61f51e6779092ab8cd6e079d6e96e8701eb1a0c0186f8c09e"
-    },
-    ["windows-x64-vc14.29.30133-37a52a2b6e0148c7b0da1ae0203af147"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-37a52a2b6e0148c7b0da1ae0203af147.7z",
-        toolset = "14.29.30133",
-        sha256 = "d5ee2e017926eae3829eca39ce89f437975b98ff1dd1852f21558458ff419131"
+    ["windows-x64-vc14.42.34433-1ceac41b93a54544bfe810fd2b067ecf"] = {
+        sha256 = "3bfc94270a0c0898951f1bcd2c078bfbab0bb4623f6e6901a8c709c011d6e736",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.42.34433-1ceac41b93a54544bfe810fd2b067ecf.7z"
     },
     ["windows-x86-vc14.29.30133-4004bfa3ee28427ba1b629d48a1d9333"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-4004bfa3ee28427ba1b629d48a1d9333.7z",
+        sha256 = "d05226bfd8c96d56152be6305469b31337a425cece0264d8ea190eecb05c3856",
         toolset = "14.29.30133",
-        sha256 = "2da453eec3b624a5fb9881f21a12509137e61fb9d19de2cd4d9c4f776eb6f88b"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-4004bfa3ee28427ba1b629d48a1d9333.7z"
+    },
+    ["windows-x86-vc14.29.30133-fff322ad92d9463db19615c42ecc86a4"] = {
+        sha256 = "76f24bac69c2d903089317447e9a3af59af726a3f52764c69fdc9469a728f2bf",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-fff322ad92d9463db19615c42ecc86a4.7z"
+    },
+    ["windows-x86-vc14.42.34433-b789585234b54674b491c7fa7144ea42"] = {
+        sha256 = "69d23221b3fc38fa88cf738f07eec338e32d365036181716776b031f959fdd0f",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.42.34433-b789585234b54674b491c7fa7144ea42.7z"
+    },
+    ["windows-x64-vc14.29.30133-1ceac41b93a54544bfe810fd2b067ecf"] = {
+        sha256 = "7f38ed87ba2d6e1c50e405d48d17c78a79183da87d7884cde2a316d2cb434efb",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-1ceac41b93a54544bfe810fd2b067ecf.7z"
+    },
+    ["windows-x86-vc14.41.34120-154ec0a476234774937236a7ee1ad062"] = {
+        sha256 = "7924b9719570e4370ad68d0973dd2d4a2683c16893bb0e79b462b2f1a5da4ba3",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-154ec0a476234774937236a7ee1ad062.7z"
+    },
+    ["windows-x86-vc14.29.30133-154ec0a476234774937236a7ee1ad062"] = {
+        sha256 = "ffb68f129db228d2854bc103c2baa5ba210531b055c72fc846656691513e1b7a",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-154ec0a476234774937236a7ee1ad062.7z"
+    },
+    ["windows-x86-vc14.42.34433-fff322ad92d9463db19615c42ecc86a4"] = {
+        sha256 = "f0449a0c58d598cb495c5759f3ce3191481e128b6b9d9f32c097f96a1f8618e4",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.42.34433-fff322ad92d9463db19615c42ecc86a4.7z"
+    },
+    ["windows-x86-vc14.29.30133-b789585234b54674b491c7fa7144ea42"] = {
+        sha256 = "15896a58a4f6e0479d979336b4cb61fd29d17ee03b7743381ae2b46c4eeb2a29",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.29.30133-b789585234b54674b491c7fa7144ea42.7z"
+    },
+    ["windows-x64-vc14.29.30133-37a52a2b6e0148c7b0da1ae0203af147"] = {
+        sha256 = "797c20b950cef72bb083f8cfd5b6b2ca018e621dd35c28ea1aa953313aab8707",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-37a52a2b6e0148c7b0da1ae0203af147.7z"
+    },
+    ["windows-x64-vc14.42.34433-11e78e3c6fd0440f8ccf591020954d5e"] = {
+        sha256 = "52af2b3108e00250b49632986629698246ed203ab23a2a1e1675d5eed56c36f4",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.42.34433-11e78e3c6fd0440f8ccf591020954d5e.7z"
+    },
+    ["windows-x64-vc14.29.30133-3f89186020ef4ad19afc477bd2858a8e"] = {
+        sha256 = "b19599dbe713ec3a9bf450f42c9ad07a8e97776e92addd6bd881d0d9fcdf9c2c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-3f89186020ef4ad19afc477bd2858a8e.7z"
+    },
+    ["windows-x64-vc14.41.34120-37a52a2b6e0148c7b0da1ae0203af147"] = {
+        sha256 = "3b2120522659daeee647b87a542909d63fa6a1e58b0fb4e5029cb27d4f7e2310",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-37a52a2b6e0148c7b0da1ae0203af147.7z"
+    },
+    ["windows-x86-vc14.41.34120-fff322ad92d9463db19615c42ecc86a4"] = {
+        sha256 = "78f45d32f5ebf8ea55b32face786d1c8bde1829950fa127f4095482473c95eb7",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-fff322ad92d9463db19615c42ecc86a4.7z"
+    },
+    ["windows-x86-vc14.42.34433-4004bfa3ee28427ba1b629d48a1d9333"] = {
+        sha256 = "92f2dd8fc4ec45026e1cbb221404b9bcb9e073108567d572a325d0dd82836661",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.42.34433-4004bfa3ee28427ba1b629d48a1d9333.7z"
+    },
+    ["windows-x86-vc14.42.34433-154ec0a476234774937236a7ee1ad062"] = {
+        sha256 = "cada676114ef2b2e307871a0befd3a9486072f2ac30ad7a8cc8bd4d7cc645d92",
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.42.34433-154ec0a476234774937236a7ee1ad062.7z"
+    },
+    ["windows-x64-vc14.41.34120-1ceac41b93a54544bfe810fd2b067ecf"] = {
+        sha256 = "1095d1ae73fd6ea3418a4790c3fda151d6cf56b20a785bc21352a3e636d77406",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-1ceac41b93a54544bfe810fd2b067ecf.7z"
+    },
+    ["windows-x86-vc14.41.34120-4004bfa3ee28427ba1b629d48a1d9333"] = {
+        sha256 = "be854bc66ff185962b225f9701b63716af5b00bbf001c6449b31a7fc972ed50e",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-4004bfa3ee28427ba1b629d48a1d9333.7z"
+    },
+    ["windows-x64-vc14.41.34120-11e78e3c6fd0440f8ccf591020954d5e"] = {
+        sha256 = "bac337c30a076fb74307e7c4b7627b8f09d9eda8999143c03ccb8c63601e413d",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-11e78e3c6fd0440f8ccf591020954d5e.7z"
+    },
+    ["windows-x86-vc14.41.34120-b789585234b54674b491c7fa7144ea42"] = {
+        sha256 = "40bc43a4e53de55b419179107e97744acd8cd804204c988d3f69cd3f4c6ee395",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x86-vc14.41.34120-b789585234b54674b491c7fa7144ea42.7z"
+    },
+    ["windows-x64-vc14.41.34120-3f89186020ef4ad19afc477bd2858a8e"] = {
+        sha256 = "ade12f325f27ead9d19800c817a8ef9fedb2d2803dff501ae79298abe5fba4ab",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.41.34120-3f89186020ef4ad19afc477bd2858a8e.7z"
+    },
+    ["windows-x64-vc14.29.30133-11e78e3c6fd0440f8ccf591020954d5e"] = {
+        sha256 = "6fa5c0bb18f3d22f2c264e609e780c09a822644c8d4ed0b078482a2079a0e46d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cimgui-2023.08.02/windows-x64-vc14.29.30133-11e78e3c6fd0440f8ccf591020954d5e.7z"
     }
 }
