@@ -1,162 +1,242 @@
 {
-    ["windows-x86-vc142-65750123b7a5465598223e85ca2fa61e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-65750123b7a5465598223e85ca2fa61e.7z",
-        sha256 = "d6f81236760e3626aff0db3f7297f716e5d8eb8f8148d30cb8d1c404fc3914af",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-de82421cc495468d96c2186a00189145"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-de82421cc495468d96c2186a00189145.7z",
-        sha256 = "e7b79a7f0e71272c61ec9ae5e402800f686b3b151ceb8b2ee2d755b463d2b065",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc143-9bf5add59869401691b94c32b1c3e4c7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-9bf5add59869401691b94c32b1c3e4c7.7z",
-        sha256 = "5f13899fd9eb1ae15653c7cdd6df02a037873c8f718fa2335938afc4278c8d65",
-        toolset = "14.33.31629"
-    },
     ["windows-x64-vc142-bc2d580bf37f46bc994238828cd2009c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-bc2d580bf37f46bc994238828cd2009c.7z",
         sha256 = "1bbc989e3106405eae6e020ff2d5e9d4dbd590974cd6afbc241d9505126326e1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-bc2d580bf37f46bc994238828cd2009c.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc143-181b6cfec44f4dfcaded49710c76f25e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-181b6cfec44f4dfcaded49710c76f25e.7z",
-        sha256 = "99249004c8049b0f15228bcd4c2f8b6cf40e6e311dcf592638b641bcf4736e14",
-        toolset = "14.33.31629"
+    ["windows-x64-vc142-c3239163fc444c98a14eae3ee54619a6"] = {
+        sha256 = "cabab2fbe1c88dc8375e5613e8f52047d2c5e37abc9063244f379a45f009fb6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-c3239163fc444c98a14eae3ee54619a6.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc142-6b2e196293d2485f9c8a7da510857723"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-6b2e196293d2485f9c8a7da510857723.7z",
         sha256 = "a1c2454e32aeffc899de3c449b9cceac300960760af3fa3f2233d4a17b40ac15",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-6b2e196293d2485f9c8a7da510857723.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-9bf5add59869401691b94c32b1c3e4c7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-9bf5add59869401691b94c32b1c3e4c7.7z",
-        sha256 = "34c2c9eacf654e5fbc1eb6c4f6f827bf80d3b87c44ae7d0947b39e8011b49d3b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-03644429fcee43008c361dd94e500877"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-03644429fcee43008c361dd94e500877.7z",
-        sha256 = "5d31e9ce7f49d807e8c2cf98ce4230cd3091f0ecb7ba3af6b2e80eea148b5907",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-6861617a1add46e48a2f3dc6d5571cf9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-6861617a1add46e48a2f3dc6d5571cf9.7z",
-        sha256 = "80596299c38fbefdca38960cdb132de1e845c3f0928999d4b23bc37d547ee873",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc143-30f853d4d1854407a0392faf45ccb5fe"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-30f853d4d1854407a0392faf45ccb5fe.7z",
-        sha256 = "90450cd5e120b045739e0f4b2c486426cf0b36d1a0df55ded85024cc865da1b2",
-        toolset = "14.33.31629"
-    },
-    ["windows-x86-vc142-6861617a1add46e48a2f3dc6d5571cf9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-6861617a1add46e48a2f3dc6d5571cf9.7z",
-        sha256 = "1612fd5b73d9845780ff838005b56470ffd025aac13efc4b595864498a71f75e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-65750123b7a5465598223e85ca2fa61e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-65750123b7a5465598223e85ca2fa61e.7z",
-        sha256 = "c3b818dbedd530897cf6320a472070932e3bdee41478a11b4fb4267ed496bb70",
-        toolset = "14.33.31629"
-    },
-    ["windows-x86-vc143-ad9c6916db594b5584b3e920999f46cd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-ad9c6916db594b5584b3e920999f46cd.7z",
-        sha256 = "a0a4f1f94124a7e22a322e63af35f2e4d4fbd41ccebe50f867a6d8d48df59a58",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc143-b82d16a21db6400e8b4211e9f2fc353e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-b82d16a21db6400e8b4211e9f2fc353e.7z",
-        sha256 = "a76526098fe69222e354dfcdf633f3dbf17ee3bf958c5a73226855f2f500e557",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc143-bc2d580bf37f46bc994238828cd2009c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-bc2d580bf37f46bc994238828cd2009c.7z",
-        sha256 = "31132f7a1899f55f7e03b8db48b9844955bb31b2d26d4374147f5a2480670674",
-        toolset = "14.33.31629"
-    },
-    ["windows-x86-vc143-03644429fcee43008c361dd94e500877"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-03644429fcee43008c361dd94e500877.7z",
-        sha256 = "1557b6ce06b9a48446b79e17d51349be3693f42f74ae12e6d1b092136e5be0ef",
-        toolset = "14.33.31629"
-    },
-    ["windows-x86-vc143-56bd9c1c70194b358df50ef74ebed930"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-56bd9c1c70194b358df50ef74ebed930.7z",
-        sha256 = "b25f476469111d6c90366a74fdb174a25ed19301068710864957ecfca0a717c1",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc143-628ea28819e24f3ea1df114368bc8fb8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-628ea28819e24f3ea1df114368bc8fb8.7z",
-        sha256 = "b5a6185d9a810561b190e6f76ea516bdae0e59698bb3da772c0e1aadad7c6a07",
-        toolset = "14.33.31629"
-    },
-    ["windows-x86-vc142-56bd9c1c70194b358df50ef74ebed930"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-56bd9c1c70194b358df50ef74ebed930.7z",
-        sha256 = "f122e6aa05e9946c29988be271ac841e5487fef0a6b28c5a477d2274540f09db",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-628ea28819e24f3ea1df114368bc8fb8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-628ea28819e24f3ea1df114368bc8fb8.7z",
-        sha256 = "e781eeefd7a48d0d3510c333f80b82b05238746fe01cda24604df87aa376fa88",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-4f8311c0365c4d389f8746dd34b7abf3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-4f8311c0365c4d389f8746dd34b7abf3.7z",
-        sha256 = "cc77454a20353268315530092c3b41b1b18837dfa20c25ac1ba3b3c656bd2f84",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-181b6cfec44f4dfcaded49710c76f25e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-181b6cfec44f4dfcaded49710c76f25e.7z",
-        sha256 = "b21bfbc898a6685c81c40e9bae0b617d31fa18bce17ee7cd1f13e8b393837c5b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-de82421cc495468d96c2186a00189145"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-de82421cc495468d96c2186a00189145.7z",
-        sha256 = "d95610ad620498784891bd1af46ee511d2653f868cd51caea92eaea1ccf30ebe",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-b82d16a21db6400e8b4211e9f2fc353e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-b82d16a21db6400e8b4211e9f2fc353e.7z",
-        sha256 = "f92f869648090c4b3ca9902df506122be50fa278123770006269c77aee812332",
+    ["windows-x64-vc142-84721aba5b114e38bb63761d1bd720dc"] = {
+        sha256 = "00fad3c2086b1b2a30e35e37f45de5807260966504f3b38756be110d4ec75ccd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-84721aba5b114e38bb63761d1bd720dc.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc142-ad9c6916db594b5584b3e920999f46cd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-ad9c6916db594b5584b3e920999f46cd.7z",
         sha256 = "0202f2b7acec8e2300032f64275f6e380ec08adb1c5ac61bb77d37760aa53712",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-84721aba5b114e38bb63761d1bd720dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-84721aba5b114e38bb63761d1bd720dc.7z",
-        sha256 = "9960fde51f194a928535523e0a85b2274220639bc3d69d90819e1e7fb41594c9",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc142-c3239163fc444c98a14eae3ee54619a6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-c3239163fc444c98a14eae3ee54619a6.7z",
-        sha256 = "cabab2fbe1c88dc8375e5613e8f52047d2c5e37abc9063244f379a45f009fb6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-ad9c6916db594b5584b3e920999f46cd.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc143-c3239163fc444c98a14eae3ee54619a6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-c3239163fc444c98a14eae3ee54619a6.7z",
         sha256 = "a5c59977ebe1345c7aea2e05d1a572fc11c10e071ba3f244826fc2096051586c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-c3239163fc444c98a14eae3ee54619a6.7z",
         toolset = "14.33.31629"
     },
-    ["windows-x86-vc143-6b2e196293d2485f9c8a7da510857723"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-6b2e196293d2485f9c8a7da510857723.7z",
-        sha256 = "5352dde5374a9e8a2542f0e4126743b3d59fafbf12a42b3c10dbe135ca82b492",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc143-4f8311c0365c4d389f8746dd34b7abf3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-4f8311c0365c4d389f8746dd34b7abf3.7z",
-        sha256 = "0cb6b9f4ab16e6298d87affc01f8e6b93318e6db191dc4eaa1b6bb0d2ae699eb",
-        toolset = "14.33.31629"
-    },
-    ["windows-x64-vc142-84721aba5b114e38bb63761d1bd720dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-84721aba5b114e38bb63761d1bd720dc.7z",
-        sha256 = "00fad3c2086b1b2a30e35e37f45de5807260966504f3b38756be110d4ec75ccd",
+    ["windows-x86-vc142-181b6cfec44f4dfcaded49710c76f25e"] = {
+        sha256 = "b21bfbc898a6685c81c40e9bae0b617d31fa18bce17ee7cd1f13e8b393837c5b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-181b6cfec44f4dfcaded49710c76f25e.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-6861617a1add46e48a2f3dc6d5571cf9"] = {
+        sha256 = "80596299c38fbefdca38960cdb132de1e845c3f0928999d4b23bc37d547ee873",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-6861617a1add46e48a2f3dc6d5571cf9.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc143-03644429fcee43008c361dd94e500877"] = {
+        sha256 = "1557b6ce06b9a48446b79e17d51349be3693f42f74ae12e6d1b092136e5be0ef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-03644429fcee43008c361dd94e500877.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.42.34433-0c320d21f8074966872ec9711123f95e"] = {
+        sha256 = "48cd01b588a6c43225c52c883440de21bf0372e1dcfc9a975f19d5ebb4724ff8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.42.34433-0c320d21f8074966872ec9711123f95e.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc142-6861617a1add46e48a2f3dc6d5571cf9"] = {
+        sha256 = "1612fd5b73d9845780ff838005b56470ffd025aac13efc4b595864498a71f75e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-6861617a1add46e48a2f3dc6d5571cf9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-0cfda982670b496e9020d45dd4d08aef"] = {
+        sha256 = "ad915951a7d5130582fb13ca1cedf731695770f6621c0ef15ad2d6e7771dc47e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.29.30133-0cfda982670b496e9020d45dd4d08aef.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-b82d16a21db6400e8b4211e9f2fc353e"] = {
+        sha256 = "f92f869648090c4b3ca9902df506122be50fa278123770006269c77aee812332",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-b82d16a21db6400e8b4211e9f2fc353e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-6ba7c067a93443ae9a6bb384dcae03fc"] = {
+        sha256 = "0a60c9a94a38852fc411c3548fb3674ff5ae1d90d67c1d039f73482b2b9c3461",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.42.34433-6ba7c067a93443ae9a6bb384dcae03fc.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc143-de82421cc495468d96c2186a00189145"] = {
+        sha256 = "e7b79a7f0e71272c61ec9ae5e402800f686b3b151ceb8b2ee2d755b463d2b065",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-de82421cc495468d96c2186a00189145.7z",
+        toolset = "14.33.31629"
     },
     ["windows-x64-vc142-30f853d4d1854407a0392faf45ccb5fe"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-30f853d4d1854407a0392faf45ccb5fe.7z",
         sha256 = "59a478ae195633e003138e347453395dd5d67382a3d406f660413bd40b4f9aa8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-30f853d4d1854407a0392faf45ccb5fe.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-29ebb1b35fdc485782531e4d9b2c216c"] = {
+        sha256 = "5d5c995543bbf7f14ce4bea76b81bc418b7f7a3acc9037443d6d175cb9cd550a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.29.30133-29ebb1b35fdc485782531e4d9b2c216c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-03644429fcee43008c361dd94e500877"] = {
+        sha256 = "5d31e9ce7f49d807e8c2cf98ce4230cd3091f0ecb7ba3af6b2e80eea148b5907",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-03644429fcee43008c361dd94e500877.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-65750123b7a5465598223e85ca2fa61e"] = {
+        sha256 = "c3b818dbedd530897cf6320a472070932e3bdee41478a11b4fb4267ed496bb70",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-65750123b7a5465598223e85ca2fa61e.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-628ea28819e24f3ea1df114368bc8fb8"] = {
+        sha256 = "b5a6185d9a810561b190e6f76ea516bdae0e59698bb3da772c0e1aadad7c6a07",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-628ea28819e24f3ea1df114368bc8fb8.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-b82d16a21db6400e8b4211e9f2fc353e"] = {
+        sha256 = "a76526098fe69222e354dfcdf633f3dbf17ee3bf958c5a73226855f2f500e557",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-b82d16a21db6400e8b4211e9f2fc353e.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc142-9bf5add59869401691b94c32b1c3e4c7"] = {
+        sha256 = "34c2c9eacf654e5fbc1eb6c4f6f827bf80d3b87c44ae7d0947b39e8011b49d3b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-9bf5add59869401691b94c32b1c3e4c7.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-56bd9c1c70194b358df50ef74ebed930"] = {
+        sha256 = "f122e6aa05e9946c29988be271ac841e5487fef0a6b28c5a477d2274540f09db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-56bd9c1c70194b358df50ef74ebed930.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-9bf5add59869401691b94c32b1c3e4c7"] = {
+        sha256 = "5f13899fd9eb1ae15653c7cdd6df02a037873c8f718fa2335938afc4278c8d65",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-9bf5add59869401691b94c32b1c3e4c7.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc14.29.30133-41f3bcac63a24ad28fdc4e63ec188b51"] = {
+        sha256 = "370ea95d0d9a7e8a18658ff82225d3bcf8cea452b267012fe43360052248cd60",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.29.30133-41f3bcac63a24ad28fdc4e63ec188b51.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-65750123b7a5465598223e85ca2fa61e"] = {
+        sha256 = "d6f81236760e3626aff0db3f7297f716e5d8eb8f8148d30cb8d1c404fc3914af",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-65750123b7a5465598223e85ca2fa61e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-4f8311c0365c4d389f8746dd34b7abf3"] = {
+        sha256 = "0cb6b9f4ab16e6298d87affc01f8e6b93318e6db191dc4eaa1b6bb0d2ae699eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-4f8311c0365c4d389f8746dd34b7abf3.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc142-4f8311c0365c4d389f8746dd34b7abf3"] = {
+        sha256 = "cc77454a20353268315530092c3b41b1b18837dfa20c25ac1ba3b3c656bd2f84",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-4f8311c0365c4d389f8746dd34b7abf3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-181b6cfec44f4dfcaded49710c76f25e"] = {
+        sha256 = "99249004c8049b0f15228bcd4c2f8b6cf40e6e311dcf592638b641bcf4736e14",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-181b6cfec44f4dfcaded49710c76f25e.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.29.30133-6ba7c067a93443ae9a6bb384dcae03fc"] = {
+        sha256 = "b4c2aa801a283149da6ecdd8aab557930577a0a6c6189cf27714a0fb18a9be9e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.29.30133-6ba7c067a93443ae9a6bb384dcae03fc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-29ebb1b35fdc485782531e4d9b2c216c"] = {
+        sha256 = "d73b0f9c97798444da9ecd020e46ee730bacd9823d242ea5baf86c335344a3e2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.42.34433-29ebb1b35fdc485782531e4d9b2c216c.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc143-84721aba5b114e38bb63761d1bd720dc"] = {
+        sha256 = "9960fde51f194a928535523e0a85b2274220639bc3d69d90819e1e7fb41594c9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-84721aba5b114e38bb63761d1bd720dc.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc142-de82421cc495468d96c2186a00189145"] = {
+        sha256 = "d95610ad620498784891bd1af46ee511d2653f868cd51caea92eaea1ccf30ebe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc142-de82421cc495468d96c2186a00189145.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-266154b3b25d46f4819a3485eb187c66"] = {
+        sha256 = "bed7ec5b3d7742b0371cf9f8241f4827756aec318f797c40edf66e6efc4cc279",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.29.30133-266154b3b25d46f4819a3485eb187c66.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-f0a96f1295a947f39c6825dff33ff4fe"] = {
+        sha256 = "e43bffc2c5206004bcde3ea2b3f1810a20fc1aae807c8ac3ebbe310b4a3cf9c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.29.30133-f0a96f1295a947f39c6825dff33ff4fe.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-6b2e196293d2485f9c8a7da510857723"] = {
+        sha256 = "5352dde5374a9e8a2542f0e4126743b3d59fafbf12a42b3c10dbe135ca82b492",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-6b2e196293d2485f9c8a7da510857723.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x86-vc14.29.30133-0c320d21f8074966872ec9711123f95e"] = {
+        sha256 = "794bb7948df95ed1fccc2d3f5304f8c54d235da63500b948230350cf6ee80235",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.29.30133-0c320d21f8074966872ec9711123f95e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-0cfda982670b496e9020d45dd4d08aef"] = {
+        sha256 = "ae2d7c6e2009cb395cab6b5aa8d2f5bc12b38dc7db05cbc4dc5b1425296a05ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.42.34433-0cfda982670b496e9020d45dd4d08aef.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-5f0c4a1b8de84ec0ad27db1d3c310a00"] = {
+        sha256 = "88529b13f3946a4f07021308f6ee74b729d2ab312cdee27c887b0d7ae530714f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.42.34433-5f0c4a1b8de84ec0ad27db1d3c310a00.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc143-30f853d4d1854407a0392faf45ccb5fe"] = {
+        sha256 = "90450cd5e120b045739e0f4b2c486426cf0b36d1a0df55ded85024cc865da1b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-30f853d4d1854407a0392faf45ccb5fe.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc14.42.34433-41f3bcac63a24ad28fdc4e63ec188b51"] = {
+        sha256 = "2c05c9b5da346e4195c0a569eb76949b8ab15ab01b2b157d611686cf6bb5d1de",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.42.34433-41f3bcac63a24ad28fdc4e63ec188b51.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc143-56bd9c1c70194b358df50ef74ebed930"] = {
+        sha256 = "b25f476469111d6c90366a74fdb174a25ed19301068710864957ecfca0a717c1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-56bd9c1c70194b358df50ef74ebed930.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc143-bc2d580bf37f46bc994238828cd2009c"] = {
+        sha256 = "31132f7a1899f55f7e03b8db48b9844955bb31b2d26d4374147f5a2480670674",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc143-bc2d580bf37f46bc994238828cd2009c.7z",
+        toolset = "14.33.31629"
+    },
+    ["windows-x64-vc14.42.34433-f0a96f1295a947f39c6825dff33ff4fe"] = {
+        sha256 = "22351c7b983d6a9f438e3052618b2d25928067018a4615dac211c1a6c5281712",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.42.34433-f0a96f1295a947f39c6825dff33ff4fe.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc142-628ea28819e24f3ea1df114368bc8fb8"] = {
+        sha256 = "e781eeefd7a48d0d3510c333f80b82b05238746fe01cda24604df87aa376fa88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc142-628ea28819e24f3ea1df114368bc8fb8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-266154b3b25d46f4819a3485eb187c66"] = {
+        sha256 = "4576c4e4b2da7e75219614366414287b4232278a2b7a3444666ac1fc787ec672",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x64-vc14.42.34433-266154b3b25d46f4819a3485eb187c66.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-5f0c4a1b8de84ec0ad27db1d3c310a00"] = {
+        sha256 = "2f35a75cf02bc3a679c65f576b234c3b9f53448b0f398cc53bb10d7946d7ebef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc14.29.30133-5f0c4a1b8de84ec0ad27db1d3c310a00.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-ad9c6916db594b5584b3e920999f46cd"] = {
+        sha256 = "a0a4f1f94124a7e22a322e63af35f2e4d4fbd41ccebe50f867a6d8d48df59a58",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/pdcurses-3.9/windows-x86-vc143-ad9c6916db594b5584b3e920999f46cd.7z",
+        toolset = "14.33.31629"
     }
 }
