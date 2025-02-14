@@ -1,222 +1,262 @@
 {
-    ["windows-x64-vc14.41.34120-20c0160b6a5145759e3f086a9c514061"] = {
-        sha256 = "e97f1e0311bb561d24f8963b07d7d1127f41c1e2e97872560fdb42fb54afc059",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-20c0160b6a5145759e3f086a9c514061.7z"
-    },
-    ["windows-x86-vc14.38.33130-b7e33ea93e184fa29e75f751ad61b000"] = {
-        sha256 = "40ae823e2d48c11e27828b9ae5660727713d515519bfe24d5b101d767e327b6b",
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-b7e33ea93e184fa29e75f751ad61b000.7z"
-    },
-    ["windows-x86-vc14.29.30133-86a9729470ef416d8b82aa25bafff6d8"] = {
-        sha256 = "3f0713e849def2843cfd46addd7a20493e97597a27bebc552e27decd8980ac18",
+    ["windows-x86-vc14.29.30133-8875295a2b3f48df88f6ae51d5066307"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-86a9729470ef416d8b82aa25bafff6d8.7z"
-    },
-    ["windows-x64-vc14.29.30133-7a19382b62ca4cea9d7fa0146558f6dd"] = {
-        sha256 = "976636f90c7e2f193af77f51e9d69f403bdbb4496e6531644f4d19ba6b81aec3",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-7a19382b62ca4cea9d7fa0146558f6dd.7z"
-    },
-    ["windows-x86-vc14.41.34120-3fc93abd5aa945db93cd3422400b70ea"] = {
-        sha256 = "44d93a3215b2b163d264361faad0998d62bf751e9ef7766d854378c9da55a84c",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-3fc93abd5aa945db93cd3422400b70ea.7z"
-    },
-    ["windows-x86-vc14.40.33807-c2aaefe60f454f99bdae9a4230f8ba96"] = {
-        sha256 = "180a7444e1da8ba2f028ad0db0790d6a74daf4f57384e42cc58736ac95466125",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.40.33807-c2aaefe60f454f99bdae9a4230f8ba96.7z"
-    },
-    ["windows-x64-vc14.37.32822-72ca41a15fb44b3d87b2c869a0250137"] = {
-        sha256 = "2611ed22b17c595e6525c0247585000615a0de06338a7b12984e28baa4373df3",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-72ca41a15fb44b3d87b2c869a0250137.7z"
-    },
-    ["windows-x86-vc14.37.32822-8875295a2b3f48df88f6ae51d5066307"] = {
-        sha256 = "e9f44efe08e890596d1067349d8ee98be3fce671c297fd53ee6c122c24f4d1c4",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-8875295a2b3f48df88f6ae51d5066307.7z"
-    },
-    ["windows-x86-vc14.41.34120-c2aaefe60f454f99bdae9a4230f8ba96"] = {
-        sha256 = "be42af7cfe704d9a4dd196146f6bdbbd7c4c4348665dfe2557c9404329f7b13c",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-c2aaefe60f454f99bdae9a4230f8ba96.7z"
-    },
-    ["windows-x64-vc14.41.34120-7a19382b62ca4cea9d7fa0146558f6dd"] = {
-        sha256 = "9a6713f8b177e3485c67497f0ae2558aae43c86ff0d26a1d3c8a372ad7a9838f",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-7a19382b62ca4cea9d7fa0146558f6dd.7z"
-    },
-    ["windows-x86-vc14.41.34120-fbd735b8eb1f499eb99806fd289978d9"] = {
-        sha256 = "60a3dd1309b67ccc65c90ee8e6adf658d6b16fc56f8883dea3418ad06a5f68d6",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-fbd735b8eb1f499eb99806fd289978d9.7z"
-    },
-    ["windows-x64-vc14.41.34120-15df8e82af6543c79fb28cfe3c64c000"] = {
-        sha256 = "0c3a82a34a6891ea83a91915bf60172ca646547ad5ea78260e304ac0bc0db479",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-15df8e82af6543c79fb28cfe3c64c000.7z"
-    },
-    ["windows-x64-vc14.29.30133-c0c8dec2c6f44ce183d2c3fc2b1f0688"] = {
-        sha256 = "fc759de88cd7e0de3e84ddfd13b590cccaaac436af6a68ce263d582b4d944248",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-c0c8dec2c6f44ce183d2c3fc2b1f0688.7z"
-    },
-    ["windows-x64-vc14.29.30133-b48211c2c4d5465e810ae2427111f8c5"] = {
-        sha256 = "bf480854c63a751e06857d09620f345b3b48144aa454f8aac6b193bcdf69a24f",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-b48211c2c4d5465e810ae2427111f8c5.7z"
-    },
-    ["windows-x64-vc14.37.32822-b48211c2c4d5465e810ae2427111f8c5"] = {
-        sha256 = "73bad3eafd62829244da2a4c2bd0b1b1d81ae672a8a500bc30cb1fd15c8a9c6f",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-b48211c2c4d5465e810ae2427111f8c5.7z"
-    },
-    ["windows-x64-vc14.41.34120-46074858a18a4c65af5d5456d987b3c5"] = {
-        sha256 = "8c8c98521a68457d0901ffbd56994d25ef83f5a29ed78469dc996288b7802e38",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-46074858a18a4c65af5d5456d987b3c5.7z"
-    },
-    ["windows-x86-vc14.29.30133-7dde9c829902491ca15fcefee8027b4f"] = {
-        sha256 = "45bb045a22b69438ab56e1b54e2ccfe2c810584e6f23326f95a71e82641713a5",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-7dde9c829902491ca15fcefee8027b4f.7z"
-    },
-    ["windows-x86-vc14.38.33130-c2aaefe60f454f99bdae9a4230f8ba96"] = {
-        sha256 = "babe05900269826dfc09061bf61a5228937301711fff389ecf26891612ca8404",
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-c2aaefe60f454f99bdae9a4230f8ba96.7z"
-    },
-    ["windows-x86-vc14.41.34120-b7e33ea93e184fa29e75f751ad61b000"] = {
-        sha256 = "a3568ec32f4739b0ebdcbd335524ba0a8856e7b3a8a52853cbbd1edfcf24f1e1",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-b7e33ea93e184fa29e75f751ad61b000.7z"
-    },
-    ["windows-x64-vc14.40.33807-20c0160b6a5145759e3f086a9c514061"] = {
-        sha256 = "787337b5da56eed964b71716e6aceca4025b08fe7a6e78c203cf90e64790fbdf",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.40.33807-20c0160b6a5145759e3f086a9c514061.7z"
-    },
-    ["windows-x64-vc14.37.32822-a7682753fe174473a588e317bf5ea795"] = {
-        sha256 = "348fcdfe9251ecb8910a84c17b24b91196929590e0a6af899e9fb5205564bf29",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-a7682753fe174473a588e317bf5ea795.7z"
-    },
-    ["windows-x64-vc14.37.32822-c0c8dec2c6f44ce183d2c3fc2b1f0688"] = {
-        sha256 = "336e31775bc71fb4cbd00039146b5736cfd90e7246bbf157303488accc2990d6",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-c0c8dec2c6f44ce183d2c3fc2b1f0688.7z"
-    },
-    ["windows-x64-vc14.29.30133-a7682753fe174473a588e317bf5ea795"] = {
-        sha256 = "e276ec0e4e2537c400edebe571d44d5b2dbecdbca6f2625c63734266e71f1856",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-a7682753fe174473a588e317bf5ea795.7z"
-    },
-    ["windows-x86-vc14.29.30133-b7e33ea93e184fa29e75f751ad61b000"] = {
-        sha256 = "2de79fb8d822de7b38046095984ccb8d57942922843f7496920d21d233ed9e84",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-b7e33ea93e184fa29e75f751ad61b000.7z"
-    },
-    ["windows-x86-vc14.29.30133-c2aaefe60f454f99bdae9a4230f8ba96"] = {
-        sha256 = "bf330d86acc8b35107bd94bae671be1e8624bcce0109aefe0c492eae28349707",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-c2aaefe60f454f99bdae9a4230f8ba96.7z"
-    },
-    ["windows-x86-vc14.29.30133-fbd735b8eb1f499eb99806fd289978d9"] = {
-        sha256 = "3330ac42e4fbbe90c7c6de334ad1a81656d42fd3596713abbb22b8ff0e1ca925",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-fbd735b8eb1f499eb99806fd289978d9.7z"
-    },
-    ["windows-x86-vc14.29.30133-4e499dfefe274bf785af501aa9d88a34"] = {
-        sha256 = "c27bb207eaaced68a87625d03bba86ed0f3485a8e7c57d983d560cd39c80f555",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-4e499dfefe274bf785af501aa9d88a34.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-8875295a2b3f48df88f6ae51d5066307.7z",
+        sha256 = "7756d634aa36042c47ffb08226946408c3206ffba112d5122defef4bc62f0614"
     },
     ["windows-x86-vc14.29.30133-3fc93abd5aa945db93cd3422400b70ea"] = {
-        sha256 = "67de47b6f2fd2f648adc2cd3587769670adfdb4b35e94e67ffcd68ff65134fea",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-3fc93abd5aa945db93cd3422400b70ea.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-3fc93abd5aa945db93cd3422400b70ea.7z",
+        sha256 = "eb99733af1f7a87b656ef66417a4a28110959b48b03bd23a63d4f91963026e1c"
     },
-    ["windows-x86-vc14.37.32822-4e499dfefe274bf785af501aa9d88a34"] = {
-        sha256 = "f1987e8727432cc4ff2388692fe122c7f498c19f0120e4419bf3272e8aa5f167",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-4e499dfefe274bf785af501aa9d88a34.7z"
+    ["windows-x64-vc14.41.34120-46074858a18a4c65af5d5456d987b3c5"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-46074858a18a4c65af5d5456d987b3c5.7z",
+        sha256 = "8c8c98521a68457d0901ffbd56994d25ef83f5a29ed78469dc996288b7802e38"
     },
-    ["windows-x64-vc14.29.30133-20c0160b6a5145759e3f086a9c514061"] = {
-        sha256 = "bb9fa44f4edb48275158f0ce8e3c43e88cc99dfa96336f2b6cfd83edb070d667",
+    ["windows-x86-vc14.40.33807-c2aaefe60f454f99bdae9a4230f8ba96"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.40.33807-c2aaefe60f454f99bdae9a4230f8ba96.7z",
+        sha256 = "180a7444e1da8ba2f028ad0db0790d6a74daf4f57384e42cc58736ac95466125"
+    },
+    ["windows-x86-vc14.29.30133-4e499dfefe274bf785af501aa9d88a34"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-20c0160b6a5145759e3f086a9c514061.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-4e499dfefe274bf785af501aa9d88a34.7z",
+        sha256 = "c27bb207eaaced68a87625d03bba86ed0f3485a8e7c57d983d560cd39c80f555"
+    },
+    ["windows-x64-vc14.41.34120-15df8e82af6543c79fb28cfe3c64c000"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-15df8e82af6543c79fb28cfe3c64c000.7z",
+        sha256 = "0c3a82a34a6891ea83a91915bf60172ca646547ad5ea78260e304ac0bc0db479"
     },
     ["windows-x86-vc14.37.32822-86a9729470ef416d8b82aa25bafff6d8"] = {
-        sha256 = "c4feb85e87f70178767b216920dd438dab14ee8eeb4096265c16a519d1f82d9f",
         toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-86a9729470ef416d8b82aa25bafff6d8.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-86a9729470ef416d8b82aa25bafff6d8.7z",
+        sha256 = "c4feb85e87f70178767b216920dd438dab14ee8eeb4096265c16a519d1f82d9f"
     },
-    ["windows-x86-vc14.37.32822-7dde9c829902491ca15fcefee8027b4f"] = {
-        sha256 = "dbe35f9ffa0d321c4caa90dc0c5147da6354c4d1aa4a7f245fa965d47c42920f",
-        toolset = "14.37.32822",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-7dde9c829902491ca15fcefee8027b4f.7z"
-    },
-    ["windows-x64-vc14.38.33130-46074858a18a4c65af5d5456d987b3c5"] = {
-        sha256 = "dcd3e7a2629b7c91ffed8f3b916958199fc43ca5bc75065901fc07202061d382",
+    ["windows-x86-vc14.38.33130-c2aaefe60f454f99bdae9a4230f8ba96"] = {
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-46074858a18a4c65af5d5456d987b3c5.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-c2aaefe60f454f99bdae9a4230f8ba96.7z",
+        sha256 = "babe05900269826dfc09061bf61a5228937301711fff389ecf26891612ca8404"
+    },
+    ["windows-x64-vc14.29.30133-a7682753fe174473a588e317bf5ea795"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-a7682753fe174473a588e317bf5ea795.7z",
+        sha256 = "e276ec0e4e2537c400edebe571d44d5b2dbecdbca6f2625c63734266e71f1856"
+    },
+    ["windows-x86-vc14.29.30133-86a9729470ef416d8b82aa25bafff6d8"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-86a9729470ef416d8b82aa25bafff6d8.7z",
+        sha256 = "3f0713e849def2843cfd46addd7a20493e97597a27bebc552e27decd8980ac18"
     },
     ["windows-x64-vc14.29.30133-72ca41a15fb44b3d87b2c869a0250137"] = {
-        sha256 = "045e3807806aab59ce619ed8a3ae1a2e31b57422964257145a867b1b2f39c9f9",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-72ca41a15fb44b3d87b2c869a0250137.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-72ca41a15fb44b3d87b2c869a0250137.7z",
+        sha256 = "045e3807806aab59ce619ed8a3ae1a2e31b57422964257145a867b1b2f39c9f9"
     },
-    ["windows-x64-vc14.40.33807-15df8e82af6543c79fb28cfe3c64c000"] = {
-        sha256 = "49a2ae8d0e77933c9e2abc699b3a3cf8487d91522279143cadce91b34f21a00e",
+    ["windows-x64-vc14.29.30133-b48211c2c4d5465e810ae2427111f8c5"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-b48211c2c4d5465e810ae2427111f8c5.7z",
+        sha256 = "bf480854c63a751e06857d09620f345b3b48144aa454f8aac6b193bcdf69a24f"
+    },
+    ["windows-x64-vc14.37.32822-72ca41a15fb44b3d87b2c869a0250137"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-72ca41a15fb44b3d87b2c869a0250137.7z",
+        sha256 = "2611ed22b17c595e6525c0247585000615a0de06338a7b12984e28baa4373df3"
+    },
+    ["windows-x64-vc14.37.32822-c0c8dec2c6f44ce183d2c3fc2b1f0688"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-c0c8dec2c6f44ce183d2c3fc2b1f0688.7z",
+        sha256 = "336e31775bc71fb4cbd00039146b5736cfd90e7246bbf157303488accc2990d6"
+    },
+    ["windows-x64-vc14.40.33807-20c0160b6a5145759e3f086a9c514061"] = {
         toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.40.33807-15df8e82af6543c79fb28cfe3c64c000.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.40.33807-20c0160b6a5145759e3f086a9c514061.7z",
+        sha256 = "787337b5da56eed964b71716e6aceca4025b08fe7a6e78c203cf90e64790fbdf"
     },
-    ["windows-x64-vc14.29.30133-46074858a18a4c65af5d5456d987b3c5"] = {
-        sha256 = "55ca3a0b24352b79bc7c56c85531a5c8bd025d84000ebc8242a49d6d35609d16",
+    ["windows-x86-vc14.41.34120-3fc93abd5aa945db93cd3422400b70ea"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-3fc93abd5aa945db93cd3422400b70ea.7z",
+        sha256 = "44d93a3215b2b163d264361faad0998d62bf751e9ef7766d854378c9da55a84c"
+    },
+    ["windows-x86-vc14.29.30133-7dde9c829902491ca15fcefee8027b4f"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-46074858a18a4c65af5d5456d987b3c5.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-7dde9c829902491ca15fcefee8027b4f.7z",
+        sha256 = "45bb045a22b69438ab56e1b54e2ccfe2c810584e6f23326f95a71e82641713a5"
     },
-    ["windows-x64-vc14.38.33130-7a19382b62ca4cea9d7fa0146558f6dd"] = {
-        sha256 = "3dc52b0e4342392df098e4a04561f45c703936df3c9b1c2b289e4ab8d634f806",
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-7a19382b62ca4cea9d7fa0146558f6dd.7z"
+    ["windows-x64-vc14.41.34120-20c0160b6a5145759e3f086a9c514061"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-20c0160b6a5145759e3f086a9c514061.7z",
+        sha256 = "e97f1e0311bb561d24f8963b07d7d1127f41c1e2e97872560fdb42fb54afc059"
     },
     ["windows-x64-vc14.38.33130-20c0160b6a5145759e3f086a9c514061"] = {
-        sha256 = "477bcd1ceca6bb824f7077a1f93c326fbf669e15ee32ef75ade9e0bfca02b498",
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-20c0160b6a5145759e3f086a9c514061.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-20c0160b6a5145759e3f086a9c514061.7z",
+        sha256 = "477bcd1ceca6bb824f7077a1f93c326fbf669e15ee32ef75ade9e0bfca02b498"
+    },
+    ["windows-x64-vc14.29.30133-20c0160b6a5145759e3f086a9c514061"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-20c0160b6a5145759e3f086a9c514061.7z",
+        sha256 = "c66966602ceb4c2ca2307a2b60528c3f285b50bc9d86dde3078a1d5679bf5214"
+    },
+    ["windows-x64-vc14.42.34433-46074858a18a4c65af5d5456d987b3c5"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.42.34433-46074858a18a4c65af5d5456d987b3c5.7z",
+        sha256 = "97edefc1b4dfdd9c963d6600eb7e18c8bf4660662753c7ba734f3a233d3d969c"
+    },
+    ["windows-x86-vc14.37.32822-4e499dfefe274bf785af501aa9d88a34"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-4e499dfefe274bf785af501aa9d88a34.7z",
+        sha256 = "f1987e8727432cc4ff2388692fe122c7f498c19f0120e4419bf3272e8aa5f167"
+    },
+    ["windows-x86-vc14.37.32822-7dde9c829902491ca15fcefee8027b4f"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-7dde9c829902491ca15fcefee8027b4f.7z",
+        sha256 = "dbe35f9ffa0d321c4caa90dc0c5147da6354c4d1aa4a7f245fa965d47c42920f"
+    },
+    ["windows-x64-vc14.42.34433-20c0160b6a5145759e3f086a9c514061"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.42.34433-20c0160b6a5145759e3f086a9c514061.7z",
+        sha256 = "3709bb011cc41ee7b09eb74bf059c156b3bf6c44f25cf3c9b5291297cdb9b496"
+    },
+    ["windows-x64-vc14.37.32822-a7682753fe174473a588e317bf5ea795"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-a7682753fe174473a588e317bf5ea795.7z",
+        sha256 = "348fcdfe9251ecb8910a84c17b24b91196929590e0a6af899e9fb5205564bf29"
+    },
+    ["windows-x86-vc14.29.30133-fbd735b8eb1f499eb99806fd289978d9"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-fbd735b8eb1f499eb99806fd289978d9.7z",
+        sha256 = "bbdec268a139eed68a8f95042ca595abda8b0b147f2c02fcdcf09b57cf437956"
+    },
+    ["windows-x64-vc14.29.30133-c0c8dec2c6f44ce183d2c3fc2b1f0688"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-c0c8dec2c6f44ce183d2c3fc2b1f0688.7z",
+        sha256 = "fc759de88cd7e0de3e84ddfd13b590cccaaac436af6a68ce263d582b4d944248"
+    },
+    ["windows-x86-vc14.42.34433-3fc93abd5aa945db93cd3422400b70ea"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.42.34433-3fc93abd5aa945db93cd3422400b70ea.7z",
+        sha256 = "c814084ca466711bf9bc58416f8b9799cb76bd5c2c31646a2a3bd86a11c13112"
+    },
+    ["windows-x86-vc14.42.34433-c2aaefe60f454f99bdae9a4230f8ba96"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.42.34433-c2aaefe60f454f99bdae9a4230f8ba96.7z",
+        sha256 = "fc68906e662bade1c4e4a01a136d22074c1563b0671186ea2fd4e5a9551631e5"
     },
     ["windows-x64-vc14.29.30133-15df8e82af6543c79fb28cfe3c64c000"] = {
-        sha256 = "df3c093d0541b352bae80ed0ac56f3bb887a5c6a2a70057b3d79bb7c8d8e1d5b",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-15df8e82af6543c79fb28cfe3c64c000.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-15df8e82af6543c79fb28cfe3c64c000.7z",
+        sha256 = "feaf6be88f58d8dff8f160d2270ce19a3661aedaa9aa07a2dadf7dbc50c21c7c"
     },
-    ["windows-x86-vc14.38.33130-3fc93abd5aa945db93cd3422400b70ea"] = {
-        sha256 = "c163a503646d0a3339fa68cb84de886ae3aa959411762dc73e8337c3823dcb03",
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-3fc93abd5aa945db93cd3422400b70ea.7z"
+    ["windows-x86-vc14.41.34120-c2aaefe60f454f99bdae9a4230f8ba96"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-c2aaefe60f454f99bdae9a4230f8ba96.7z",
+        sha256 = "be42af7cfe704d9a4dd196146f6bdbbd7c4c4348665dfe2557c9404329f7b13c"
     },
-    ["windows-x86-vc14.29.30133-8875295a2b3f48df88f6ae51d5066307"] = {
-        sha256 = "7756d634aa36042c47ffb08226946408c3206ffba112d5122defef4bc62f0614",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-8875295a2b3f48df88f6ae51d5066307.7z"
+    ["windows-x64-vc14.42.34433-7a19382b62ca4cea9d7fa0146558f6dd"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.42.34433-7a19382b62ca4cea9d7fa0146558f6dd.7z",
+        sha256 = "f52f0dcfd0f602dff4b6dabc99e6071b3256d62330cd1bba5df12304a8110a74"
     },
-    ["windows-x86-vc14.40.33807-b7e33ea93e184fa29e75f751ad61b000"] = {
-        sha256 = "7a6a410e08534abb92be1a226630d852684a466aa217c94c613e958fda632f3f",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.40.33807-b7e33ea93e184fa29e75f751ad61b000.7z"
+    ["windows-x86-vc14.41.34120-b7e33ea93e184fa29e75f751ad61b000"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-b7e33ea93e184fa29e75f751ad61b000.7z",
+        sha256 = "a3568ec32f4739b0ebdcbd335524ba0a8856e7b3a8a52853cbbd1edfcf24f1e1"
     },
     ["windows-x86-vc14.38.33130-fbd735b8eb1f499eb99806fd289978d9"] = {
-        sha256 = "8f81d749689d9716f8aab2137afb72a30e54aa8a4634447272d5abd00bad42ec",
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-fbd735b8eb1f499eb99806fd289978d9.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-fbd735b8eb1f499eb99806fd289978d9.7z",
+        sha256 = "8f81d749689d9716f8aab2137afb72a30e54aa8a4634447272d5abd00bad42ec"
+    },
+    ["windows-x64-vc14.29.30133-7a19382b62ca4cea9d7fa0146558f6dd"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-7a19382b62ca4cea9d7fa0146558f6dd.7z",
+        sha256 = "b52411bc70a809bc2593f8b288fef2ec971db8899ebfa94712ee6dd86491f073"
+    },
+    ["windows-x86-vc14.29.30133-c2aaefe60f454f99bdae9a4230f8ba96"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-c2aaefe60f454f99bdae9a4230f8ba96.7z",
+        sha256 = "8492ecebced070835927b81986b2bf5180e6ac2acd5d76d0c4bf1d42a404296c"
+    },
+    ["windows-x64-vc14.38.33130-46074858a18a4c65af5d5456d987b3c5"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-46074858a18a4c65af5d5456d987b3c5.7z",
+        sha256 = "dcd3e7a2629b7c91ffed8f3b916958199fc43ca5bc75065901fc07202061d382"
+    },
+    ["windows-x86-vc14.38.33130-b7e33ea93e184fa29e75f751ad61b000"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-b7e33ea93e184fa29e75f751ad61b000.7z",
+        sha256 = "40ae823e2d48c11e27828b9ae5660727713d515519bfe24d5b101d767e327b6b"
+    },
+    ["windows-x64-vc14.40.33807-15df8e82af6543c79fb28cfe3c64c000"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.40.33807-15df8e82af6543c79fb28cfe3c64c000.7z",
+        sha256 = "49a2ae8d0e77933c9e2abc699b3a3cf8487d91522279143cadce91b34f21a00e"
+    },
+    ["windows-x64-vc14.37.32822-b48211c2c4d5465e810ae2427111f8c5"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.37.32822-b48211c2c4d5465e810ae2427111f8c5.7z",
+        sha256 = "73bad3eafd62829244da2a4c2bd0b1b1d81ae672a8a500bc30cb1fd15c8a9c6f"
+    },
+    ["windows-x64-vc14.29.30133-46074858a18a4c65af5d5456d987b3c5"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.29.30133-46074858a18a4c65af5d5456d987b3c5.7z",
+        sha256 = "8a49ae7ebb59e6afe4d1542856cb2f31a5f26a957636c26dd1ca85e104c73c64"
+    },
+    ["windows-x86-vc14.29.30133-b7e33ea93e184fa29e75f751ad61b000"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.29.30133-b7e33ea93e184fa29e75f751ad61b000.7z",
+        sha256 = "517f39d9ec93bdbb878fceb19a320500a32489be8bdda61ef364563a4889dbb4"
+    },
+    ["windows-x86-vc14.38.33130-3fc93abd5aa945db93cd3422400b70ea"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.38.33130-3fc93abd5aa945db93cd3422400b70ea.7z",
+        sha256 = "c163a503646d0a3339fa68cb84de886ae3aa959411762dc73e8337c3823dcb03"
+    },
+    ["windows-x64-vc14.41.34120-7a19382b62ca4cea9d7fa0146558f6dd"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.41.34120-7a19382b62ca4cea9d7fa0146558f6dd.7z",
+        sha256 = "9a6713f8b177e3485c67497f0ae2558aae43c86ff0d26a1d3c8a372ad7a9838f"
+    },
+    ["windows-x86-vc14.42.34433-fbd735b8eb1f499eb99806fd289978d9"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.42.34433-fbd735b8eb1f499eb99806fd289978d9.7z",
+        sha256 = "5b95b87942d5d182d8cd62db37657fd784e9e0a8fe9390e1816c5710a77ac06a"
+    },
+    ["windows-x86-vc14.41.34120-fbd735b8eb1f499eb99806fd289978d9"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.41.34120-fbd735b8eb1f499eb99806fd289978d9.7z",
+        sha256 = "60a3dd1309b67ccc65c90ee8e6adf658d6b16fc56f8883dea3418ad06a5f68d6"
+    },
+    ["windows-x86-vc14.42.34433-b7e33ea93e184fa29e75f751ad61b000"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.42.34433-b7e33ea93e184fa29e75f751ad61b000.7z",
+        sha256 = "a4f5d55025988a2d2c3e7e9822ec05622d79b6e9872ebe29e5bbed648a631b03"
     },
     ["windows-x64-vc14.38.33130-15df8e82af6543c79fb28cfe3c64c000"] = {
-        sha256 = "21486d63464667439405bb1352ebfc0988b195c18672040072fc40ae3b7d4a81",
         toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-15df8e82af6543c79fb28cfe3c64c000.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-15df8e82af6543c79fb28cfe3c64c000.7z",
+        sha256 = "21486d63464667439405bb1352ebfc0988b195c18672040072fc40ae3b7d4a81"
+    },
+    ["windows-x64-vc14.38.33130-7a19382b62ca4cea9d7fa0146558f6dd"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.38.33130-7a19382b62ca4cea9d7fa0146558f6dd.7z",
+        sha256 = "3dc52b0e4342392df098e4a04561f45c703936df3c9b1c2b289e4ab8d634f806"
+    },
+    ["windows-x86-vc14.40.33807-b7e33ea93e184fa29e75f751ad61b000"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.40.33807-b7e33ea93e184fa29e75f751ad61b000.7z",
+        sha256 = "7a6a410e08534abb92be1a226630d852684a466aa217c94c613e958fda632f3f"
+    },
+    ["windows-x86-vc14.37.32822-8875295a2b3f48df88f6ae51d5066307"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x86-vc14.37.32822-8875295a2b3f48df88f6ae51d5066307.7z",
+        sha256 = "e9f44efe08e890596d1067349d8ee98be3fce671c297fd53ee6c122c24f4d1c4"
+    },
+    ["windows-x64-vc14.42.34433-15df8e82af6543c79fb28cfe3c64c000"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glib-2.78.1/windows-x64-vc14.42.34433-15df8e82af6543c79fb28cfe3c64c000.7z",
+        sha256 = "3e0b4288cc92a8ea7eb7eb3d94f1d5bb0b6058b66769ada155a322c77ff3a473"
     }
 }
