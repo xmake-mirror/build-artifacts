@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        sha256 = "02c3ec490332396a1f746d902d442ce71a5fd93226c43d6e0d30806c53602b7c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.42.34433-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        sha256 = "3dca74cf3022572f799e25073fbef870b3a951d892340648641ade6af9f73343",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
-        sha256 = "a58cb832122e2a15026e7e29bfd40983b684cec3d8cb8321397de9d5ec3c2b27",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.42.34433-3c332be551f6485e8d17e1830ee49789"] = {
-        sha256 = "661be851069b3443f6d4d012ec0dfd537c055232e808a7621ffb7af50480c0dd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.42.34433-b1caf5aecf3447d1bfaf66081135de32"] = {
-        sha256 = "76526a9ddb5a42673f11f39f4bd28b83d79d54d7b2d6dba6987121d55ca1b6e9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-b1caf5aecf3447d1bfaf66081135de32.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
-        sha256 = "a77bb3fd17b1404ee91e7c1a2befe695553641d26864dcbf278aaa8a9f04e26b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
-        sha256 = "8a47510ce1f6a42823b3971af05512667953c6c8e82cd2a9b96876a17d6bd896",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.42.34433-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        sha256 = "4ef6d4cad64428939b6173823018f690ad99b2fcadeb42f39c0ad7e2628c19ed",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.42.34433-af705bc0e66f4f108a3a47c7ee859189"] = {
-        sha256 = "f2edebf72c7042977ca8fb252ae8cb9e7db427c2fe3fd8fdd94f38a66e4c2d3d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-af705bc0e66f4f108a3a47c7ee859189.7z",
-        toolset = "14.42.34433"
-    },
     ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
-        sha256 = "abdfa74ef2012c11137b98ebfb77bb74edb844b9802c2b01521c0e123f3a4ad9",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        sha256 = "4c2b1741bcdf616b180920a9eeb2504b4dca703593bb7e538afbcd7f16dc8e74",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.29.30133"
+        sha256 = "abdfa74ef2012c11137b98ebfb77bb74edb844b9802c2b01521c0e123f3a4ad9"
     },
     ["windows-x64-vc14.42.34433-12a82e449dac4f8793535dd4c47b6404"] = {
-        sha256 = "720ec407be6c1fa95fa94bb2f21e926a9035aea0d53fd5b23762925c2bdebcef",
+        toolset = "14.42.34433",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-12a82e449dac4f8793535dd4c47b6404.7z",
-        toolset = "14.42.34433"
+        sha256 = "720ec407be6c1fa95fa94bb2f21e926a9035aea0d53fd5b23762925c2bdebcef"
     },
-    ["windows-x86-vc14.42.34433-a11dcc3a1c08476590461852f6d4257b"] = {
-        sha256 = "a4a99ec9a4043640c5baeae00a01853186ffceadf198804180d47d7fbf817373",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.42.34433"
+    ["windows-x86-vc14.42.34433-301d24e772d24d03965edd2ebac6b38c"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-301d24e772d24d03965edd2ebac6b38c.7z",
+        sha256 = "7dea0f64123b8656e19a9e4261f89079f2add06ad8a1109f0aff9a9ae718064d"
     },
-    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
-        sha256 = "f358774919c49f005eaa4ef5a4f5b5d2df9f5d4cd1d0dd04a643ec3143cd000d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        sha256 = "02c3ec490332396a1f746d902d442ce71a5fd93226c43d6e0d30806c53602b7c"
+    },
+    ["windows-x64-vc14.42.34433-4619150682d7404e81cc2d0535a8a47c"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-4619150682d7404e81cc2d0535a8a47c.7z",
+        sha256 = "50a2d24ac00217b0e26039b3b51e834a503f2d69feec27a70fdefcc7762acaa6"
+    },
+    ["windows-x86-vc14.29.30133-685eb287d63348bc8d1e4b236e592bcb"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-685eb287d63348bc8d1e4b236e592bcb.7z",
+        sha256 = "3796c070d6e70a6a1d2e9314cdf6e992109bbe7cb70b5c855807c6576dad94ce"
     },
     ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
-        sha256 = "c2cde310f4ac6bc2e14b98cce44db710c8d4274392e76c8ee5f89c90b19382db",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.29.30133"
+        sha256 = "c2cde310f4ac6bc2e14b98cce44db710c8d4274392e76c8ee5f89c90b19382db"
+    },
+    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
+        sha256 = "a58cb832122e2a15026e7e29bfd40983b684cec3d8cb8321397de9d5ec3c2b27"
+    },
+    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        sha256 = "4c2b1741bcdf616b180920a9eeb2504b4dca703593bb7e538afbcd7f16dc8e74"
+    },
+    ["windows-x86-vc14.42.34433-af705bc0e66f4f108a3a47c7ee859189"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-af705bc0e66f4f108a3a47c7ee859189.7z",
+        sha256 = "f2edebf72c7042977ca8fb252ae8cb9e7db427c2fe3fd8fdd94f38a66e4c2d3d"
     },
     ["windows-x86-vc14.42.34433-aeda7dc391cf4237b8f316df1955053b"] = {
-        sha256 = "cdac966c3bfc3c186f34b59a1366ad13aa2202bc9f7176dd3bd2e11f68535ea2",
+        toolset = "14.42.34433",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.42.34433"
+        sha256 = "cdac966c3bfc3c186f34b59a1366ad13aa2202bc9f7176dd3bd2e11f68535ea2"
+    },
+    ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
+        sha256 = "8a47510ce1f6a42823b3971af05512667953c6c8e82cd2a9b96876a17d6bd896"
+    },
+    ["windows-x64-vc14.42.34433-2eec723ee44e40baad20672b365c266a"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-2eec723ee44e40baad20672b365c266a.7z",
+        sha256 = "26916ae650a794f1a90828336655884fef6456f0f245ab6a1e385212c48a4bca"
+    },
+    ["windows-x86-vc14.29.30133-970dee1965f7489ea03f797df2a7d0e5"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-970dee1965f7489ea03f797df2a7d0e5.7z",
+        sha256 = "a246c95e04022ac67d39dc681d5afbb25f79db1169b8f72d61cbbc8b8a3ad77c"
+    },
+    ["windows-x64-vc14.42.34433-3c332be551f6485e8d17e1830ee49789"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-3c332be551f6485e8d17e1830ee49789.7z",
+        sha256 = "661be851069b3443f6d4d012ec0dfd537c055232e808a7621ffb7af50480c0dd"
+    },
+    ["windows-x64-vc14.42.34433-b1caf5aecf3447d1bfaf66081135de32"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-b1caf5aecf3447d1bfaf66081135de32.7z",
+        sha256 = "76526a9ddb5a42673f11f39f4bd28b83d79d54d7b2d6dba6987121d55ca1b6e9"
+    },
+    ["windows-x64-vc14.29.30133-6be87534eef04a118f9662c52f597b59"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-6be87534eef04a118f9662c52f597b59.7z",
+        sha256 = "e5fabb09fe5300f2d25d6dbc20cd33497e3eabccc03b9004e9676ee1cebed37c"
+    },
+    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
+        sha256 = "f358774919c49f005eaa4ef5a4f5b5d2df9f5d4cd1d0dd04a643ec3143cd000d"
+    },
+    ["windows-x64-vc14.42.34433-1fd317d7c1994878a1b87f6ccdbef555"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-1fd317d7c1994878a1b87f6ccdbef555.7z",
+        sha256 = "a32dbf0741c6f5c76b53c65343f5f8bffb0da5ea8dc69f7720880a9736e60688"
+    },
+    ["windows-x64-vc14.42.34433-6be87534eef04a118f9662c52f597b59"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-6be87534eef04a118f9662c52f597b59.7z",
+        sha256 = "72445c9018e23445d127d7eae557dfb0dac246ec55db71a1e350b7e447a377fc"
+    },
+    ["windows-x64-vc14.42.34433-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.42.34433-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        sha256 = "4ef6d4cad64428939b6173823018f690ad99b2fcadeb42f39c0ad7e2628c19ed"
+    },
+    ["windows-x64-vc14.29.30133-1fd317d7c1994878a1b87f6ccdbef555"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-1fd317d7c1994878a1b87f6ccdbef555.7z",
+        sha256 = "e9d772c6cec9022490ca426931af5cde17f48d31b2a0cfae8e3a4fc6ad18254c"
+    },
+    ["windows-x86-vc14.42.34433-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        sha256 = "3dca74cf3022572f799e25073fbef870b3a951d892340648641ade6af9f73343"
+    },
+    ["windows-x64-vc14.29.30133-4619150682d7404e81cc2d0535a8a47c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-4619150682d7404e81cc2d0535a8a47c.7z",
+        sha256 = "a23e2ecc104652f915b284a4d506103cd68dad324749712f992c252f2b706065"
+    },
+    ["windows-x64-vc14.29.30133-2eec723ee44e40baad20672b365c266a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-2eec723ee44e40baad20672b365c266a.7z",
+        sha256 = "8651d81d165b5e461e107728d35f1c06d0a696dd585bd9e8983711b330531aea"
+    },
+    ["windows-x86-vc14.42.34433-30c4f9a80fa14f03b16acd4a7a04b64f"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-30c4f9a80fa14f03b16acd4a7a04b64f.7z",
+        sha256 = "29ae36a6874ee3c002bb73be165a75c10e68d18dfe01d4f62c9d4f55e00122f1"
+    },
+    ["windows-x86-vc14.42.34433-970dee1965f7489ea03f797df2a7d0e5"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-970dee1965f7489ea03f797df2a7d0e5.7z",
+        sha256 = "ef2d909b617944e5d8292e9900ba9337b14b08824116ccbe6b54401b76a560da"
+    },
+    ["windows-x86-vc14.42.34433-a11dcc3a1c08476590461852f6d4257b"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-a11dcc3a1c08476590461852f6d4257b.7z",
+        sha256 = "a4a99ec9a4043640c5baeae00a01853186ffceadf198804180d47d7fbf817373"
+    },
+    ["windows-x86-vc14.29.30133-30c4f9a80fa14f03b16acd4a7a04b64f"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-30c4f9a80fa14f03b16acd4a7a04b64f.7z",
+        sha256 = "b42648c38b66cdc95a2aaf03ba0497cd1e8e7623b3eeee6409a1ac391552f44b"
+    },
+    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
+        sha256 = "a77bb3fd17b1404ee91e7c1a2befe695553641d26864dcbf278aaa8a9f04e26b"
+    },
+    ["windows-x86-vc14.42.34433-685eb287d63348bc8d1e4b236e592bcb"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.42.34433-685eb287d63348bc8d1e4b236e592bcb.7z",
+        sha256 = "4f860668f1c31b5fb105db15beac4b598518d6f9124aff788e0ac8c1f3b6c1a6"
+    },
+    ["windows-x86-vc14.29.30133-301d24e772d24d03965edd2ebac6b38c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/plutosvg-v0.0.6/windows-x86-vc14.29.30133-301d24e772d24d03965edd2ebac6b38c.7z",
+        sha256 = "dc35cff300e3ee47956405b349c0abea754c0d1758c526e62c87679eedc3efe9"
     }
 }
