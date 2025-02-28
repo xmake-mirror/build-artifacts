@@ -1,17 +1,57 @@
 {
-    ["windows-x64-vc14.29.30133-bc197d99519d4554866a1b66f4192b50"] = {
-        sha256 = "3c57a1e4b2c8646b85df832aa634416bdf9a3f3cbdf80f42c694127446340ee0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-bc197d99519d4554866a1b66f4192b50.7z",
+    ["windows-x86-vc14.29.30133-cc33c0f9c1b940879e65f2c1b0982f07"] = {
+        sha256 = "c8d08491207fe2c85886f0025409e43b8713a94dae991e10b70b95b96e314e51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-cc33c0f9c1b940879e65f2c1b0982f07.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-bbd5e6239fe84acb83c251e5c8a3f30d"] = {
-        sha256 = "893ca43a0b00e3f2ac9882d790c21773802383d56dc7b2e17b25c22b21d7381d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-bbd5e6239fe84acb83c251e5c8a3f30d.7z",
+    ["windows-x86-vc14.43.34808-cc33c0f9c1b940879e65f2c1b0982f07"] = {
+        sha256 = "a93e43e2d3b94db384e71c52ae6def099f8fc2a3df59645ebd8b543447c04b8b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.43.34808-cc33c0f9c1b940879e65f2c1b0982f07.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-59b5c7a7ff3c4946909490e63325ab43"] = {
+        sha256 = "b1e7a95f1c4e87ca51d64140c9f953db983aa7e818aba004071619276fba08aa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-59b5c7a7ff3c4946909490e63325ab43.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-45f8c3937c8e4a8aa65ff66cfc1c2592"] = {
-        sha256 = "d51e8f88f6e9e0b4d6db3ba49d5656eb67f397952f7b6f53ed3bb0eaa3f6ce2f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-45f8c3937c8e4a8aa65ff66cfc1c2592.7z",
+    ["windows-x86-vc14.41.34120-cc33c0f9c1b940879e65f2c1b0982f07"] = {
+        sha256 = "1433657cee8a2c185741b2b8d7f8937df714ae08c3f4c78d054af352d0967734",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-cc33c0f9c1b940879e65f2c1b0982f07.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.43.34808-45f8c3937c8e4a8aa65ff66cfc1c2592"] = {
+        sha256 = "1eb609b75a5a7317e24bff71b1cf09069187ac8977f37c267eba346efe9f5de0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.43.34808-45f8c3937c8e4a8aa65ff66cfc1c2592.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.41.34120-a86e338d11a34d8f8c94e327e0bbb08f"] = {
+        sha256 = "b161c00c7084cad9180ae8ef055ec7b80752a91a67de9502f12162843228c9a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.41.34120-a86e338d11a34d8f8c94e327e0bbb08f.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.43.34808-c0b0bb7473394c48924860ebb00e6d01"] = {
+        sha256 = "d1ec20dd485610e70c1774c9107a37b05f148c40202efdc715da087268205866",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.43.34808-c0b0bb7473394c48924860ebb00e6d01.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-c0b0bb7473394c48924860ebb00e6d01"] = {
+        sha256 = "f09d7de35b2037589424269b9f755e48ccdf9b9eef2f7768a7b58c2d698f158c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-c0b0bb7473394c48924860ebb00e6d01.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-bc197d99519d4554866a1b66f4192b50"] = {
+        sha256 = "219b03263f3dbe66e988a34ec093e017f95336f161b6a4a0cf649b99b584993f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.43.34808-bc197d99519d4554866a1b66f4192b50.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-c7e4ca18c14a4c3e864e7de9832b8b88"] = {
+        sha256 = "f2e686ba8f326d0cdb6fc3bc7940e7b0676656d3d2a65eecc1b96db87332c02c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.43.34808-c7e4ca18c14a4c3e864e7de9832b8b88.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-c7e4ca18c14a4c3e864e7de9832b8b88"] = {
+        sha256 = "08c34e4e8d2633a07b6b18f75c7415e9a8ce6b7482998046a7aa7b222fe11694",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-c7e4ca18c14a4c3e864e7de9832b8b88.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.41.34120-bc197d99519d4554866a1b66f4192b50"] = {
@@ -19,64 +59,64 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.41.34120-bc197d99519d4554866a1b66f4192b50.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.29.30133-c0b0bb7473394c48924860ebb00e6d01"] = {
-        sha256 = "4b2131abaf6bf9ca85e1f6415ca9c46b32dca2625f7a93f515db4efd7c666cce",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-c0b0bb7473394c48924860ebb00e6d01.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-a86e338d11a34d8f8c94e327e0bbb08f"] = {
-        sha256 = "b161c00c7084cad9180ae8ef055ec7b80752a91a67de9502f12162843228c9a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.41.34120-a86e338d11a34d8f8c94e327e0bbb08f.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-c0b0bb7473394c48924860ebb00e6d01"] = {
-        sha256 = "77baf3d5a20c6e9888437b0ba85bb62edcfccec1673cf5eba9d1a67303d7602b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.41.34120-c0b0bb7473394c48924860ebb00e6d01.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-45f8c3937c8e4a8aa65ff66cfc1c2592"] = {
-        sha256 = "62e32815c46008975f1982ec962c763dadda77d0fd67c98e1b0de92c6d5417c4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-45f8c3937c8e4a8aa65ff66cfc1c2592.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-cc33c0f9c1b940879e65f2c1b0982f07"] = {
-        sha256 = "1433657cee8a2c185741b2b8d7f8937df714ae08c3f4c78d054af352d0967734",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-cc33c0f9c1b940879e65f2c1b0982f07.7z",
-        toolset = "14.41.34120"
-    },
     ["windows-x64-vc14.41.34120-c7e4ca18c14a4c3e864e7de9832b8b88"] = {
         sha256 = "6b7d707104f17f363090f8ce2c817b11e0603036895712c5b9682037b5737897",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.41.34120-c7e4ca18c14a4c3e864e7de9832b8b88.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.29.30133-c7e4ca18c14a4c3e864e7de9832b8b88"] = {
-        sha256 = "d28bb303dfb739331c7bd2ff72c56816e916b651074f9cd81ca01c7edb35e158",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-c7e4ca18c14a4c3e864e7de9832b8b88.7z",
+    ["windows-x86-vc14.41.34120-59b5c7a7ff3c4946909490e63325ab43"] = {
+        sha256 = "dad1f0efb5c99a7f1143732a8f63f6fb53d4ac6f5e1c4da0d2b090a89e5826c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-59b5c7a7ff3c4946909490e63325ab43.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-a86e338d11a34d8f8c94e327e0bbb08f"] = {
+        sha256 = "629a86f959ba26aff659622840763a05e1b55fc8ca77917515c09645e0ccb255",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-a86e338d11a34d8f8c94e327e0bbb08f.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-a86e338d11a34d8f8c94e327e0bbb08f"] = {
+        sha256 = "a089a1a08d8b9e9c0dd694edf513181a8f3423dce95c6093043ae50bf8b8ef3d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.43.34808-a86e338d11a34d8f8c94e327e0bbb08f.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.41.34120-bbd5e6239fe84acb83c251e5c8a3f30d"] = {
         sha256 = "ed3886f0f575d5573d66b211bab8226159ff8acbe519d5ccd024cfc9530d4327",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-bbd5e6239fe84acb83c251e5c8a3f30d.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-59b5c7a7ff3c4946909490e63325ab43"] = {
-        sha256 = "ea98ef33a61732b8fda174a99d9d0394fc082c532d78cbdcf9ac83e1c648575c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-59b5c7a7ff3c4946909490e63325ab43.7z",
+    ["windows-x86-vc14.29.30133-bbd5e6239fe84acb83c251e5c8a3f30d"] = {
+        sha256 = "29d58406bc1406e11837d5b0ad6c2b76b7e337d08db2b868e5d6b7ea9a51c233",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-bbd5e6239fe84acb83c251e5c8a3f30d.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-a86e338d11a34d8f8c94e327e0bbb08f"] = {
-        sha256 = "0ff1f90348188f00664ba61d54145329163569dfc5b37c422b870ac29a26dc7d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-a86e338d11a34d8f8c94e327e0bbb08f.7z",
+    ["windows-x86-vc14.43.34808-bbd5e6239fe84acb83c251e5c8a3f30d"] = {
+        sha256 = "808ab89b81cb9a4d4691777bb1ed2743e0d873108bcb5121470b6434947926fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.43.34808-bbd5e6239fe84acb83c251e5c8a3f30d.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-bc197d99519d4554866a1b66f4192b50"] = {
+        sha256 = "11562eb983fa189fbfa8ab71576fee01b2a0faae465ae5c3a7980828eb54474b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.29.30133-bc197d99519d4554866a1b66f4192b50.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-cc33c0f9c1b940879e65f2c1b0982f07"] = {
-        sha256 = "2a897fa0b14880a12a431350412666e90bf8ff4a696f7867a301d3439399b2e7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-cc33c0f9c1b940879e65f2c1b0982f07.7z",
+    ["windows-x86-vc14.43.34808-59b5c7a7ff3c4946909490e63325ab43"] = {
+        sha256 = "b85bde852ce4a4dde3117c0b09d6ee4f12f2b4b9d9bac6dfd6afb248f962b360",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.43.34808-59b5c7a7ff3c4946909490e63325ab43.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.41.34120-45f8c3937c8e4a8aa65ff66cfc1c2592"] = {
+        sha256 = "62e32815c46008975f1982ec962c763dadda77d0fd67c98e1b0de92c6d5417c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-45f8c3937c8e4a8aa65ff66cfc1c2592.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-45f8c3937c8e4a8aa65ff66cfc1c2592"] = {
+        sha256 = "d15ade741839317b4ced1204bf5a1a2d1ee5a08f382808e0a765495476e520a9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.29.30133-45f8c3937c8e4a8aa65ff66cfc1c2592.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.41.34120-59b5c7a7ff3c4946909490e63325ab43"] = {
-        sha256 = "dad1f0efb5c99a7f1143732a8f63f6fb53d4ac6f5e1c4da0d2b090a89e5826c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x86-vc14.41.34120-59b5c7a7ff3c4946909490e63325ab43.7z",
+    ["windows-x64-vc14.41.34120-c0b0bb7473394c48924860ebb00e6d01"] = {
+        sha256 = "77baf3d5a20c6e9888437b0ba85bb62edcfccec1673cf5eba9d1a67303d7602b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libebur128-v1.2.6/windows-x64-vc14.41.34120-c0b0bb7473394c48924860ebb00e6d01.7z",
         toolset = "14.41.34120"
     }
 }
