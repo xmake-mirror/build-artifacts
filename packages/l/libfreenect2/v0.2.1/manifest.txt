@@ -1,202 +1,242 @@
 {
-    ["windows-x64-vc14.40.33807-ed0016e9ab4641709fe782665338f425"] = {
-        sha256 = "4b9a3a85c3f335cbb5b19a1e8c33e15f906af03e86d2acf40a8002763f045500",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-ed0016e9ab4641709fe782665338f425.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.37.32822-0b21ff25fb894412bbf8bad78ee8a367"] = {
-        sha256 = "44c96bd8c956c1f4467d09bfbeed1bea864264838210e29b1ba04c00d3036965",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-0b21ff25fb894412bbf8bad78ee8a367.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-10d1f17d41464a098e64d62f896afecf"] = {
-        sha256 = "57bbe864455d399f78281314ae7418129527df6a984cb16065ea4a95e085f3b5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-10d1f17d41464a098e64d62f896afecf.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-e748b0d68ae74800ac8890edcfab35cf"] = {
-        sha256 = "600dd77f2b478cf2d8546838a4c33dcfbbd61ae30419faddaf1516433f31c7e7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-e748b0d68ae74800ac8890edcfab35cf.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc14.40.33807-e53fbf2ab7c6490e9bcb70bebb9dd7b0"] = {
         sha256 = "cd63d3971397903e11dd03ba6f1cb5b67d4438d8df51efd0d98dcde4c4288509",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.37.32822-82b3546d797c4b76a39c0b94f8d13236"] = {
-        sha256 = "489f68a406b7ffddc36c5ce390e07270ffa27459d0a730537323ea72fe6ffb9e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-82b3546d797c4b76a39c0b94f8d13236.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-d911eec48b3348619f378991323a0eaf"] = {
-        sha256 = "08602f326d0e428efaa5cdb44b83d35634523ba79749a1a9ce6733b58ae5c81b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-d911eec48b3348619f378991323a0eaf.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-5b53f8a817124eb99e5f65e88d2f23f0"] = {
-        sha256 = "76584aa479db63b3d4f446a7d14747eacc06bdcf9e425f02fafef12b0c5787ac",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-5b53f8a817124eb99e5f65e88d2f23f0.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-7f4f8c5058024bcf8850dd494d2de3e1"] = {
-        sha256 = "b70c77f62ba553f2a525d307a5c47826edab149ac71230030f38d973e50e7361",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-7f4f8c5058024bcf8850dd494d2de3e1.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-ea25095cbc934d85879d04c10327357e"] = {
-        sha256 = "abaf5c098619d03a13bfe50d4a706839319961d6f8e6889c1621ee64925dde9c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-ea25095cbc934d85879d04c10327357e.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.37.32822-2312f4fe6e0f435fab12d123917d40dc"] = {
-        sha256 = "e3e02d617cad3a15aba8f54bada6b4bfce8fe9a9161a0288e77382da8fc16577",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-2312f4fe6e0f435fab12d123917d40dc.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-7f4f8c5058024bcf8850dd494d2de3e1"] = {
-        sha256 = "5d6fa13e062fa21af576e00d9d40e0d2e852e6c9230e08caf3cb9d687da777e0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-7f4f8c5058024bcf8850dd494d2de3e1.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.40.33807-808e62ae50d24d249fc6c8bd54675163"] = {
-        sha256 = "e7623e84284b26ec967b117b3e17b8940f0988e68435c30f6bfaa41f9b5f6645",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-808e62ae50d24d249fc6c8bd54675163.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.37.32822-59a05f0a629b471eb84ac7946dcd21db"] = {
-        sha256 = "42a31e512c024fccd3fc6196e5925ea1707d34f0fcbfb93b10ea02ba420d9de0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-59a05f0a629b471eb84ac7946dcd21db.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-e748b0d68ae74800ac8890edcfab35cf"] = {
-        sha256 = "eb26fd86680aa0ed8eeee19ace3b9772ce61ee50d3b9df6d72afa954762831f6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-e748b0d68ae74800ac8890edcfab35cf.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-e53fbf2ab7c6490e9bcb70bebb9dd7b0"] = {
-        sha256 = "7661471f6a9b48df25b0f455d9b3079eb03e5333f812568e7849cfcf81f5a1aa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.40.33807-5b53f8a817124eb99e5f65e88d2f23f0"] = {
-        sha256 = "0806f239bb7002d734d8a23fc26cbc33e2fd078591f2ddc8dfd2abb815bbc786",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-5b53f8a817124eb99e5f65e88d2f23f0.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-808e62ae50d24d249fc6c8bd54675163"] = {
-        sha256 = "5d57a92171346ca4a8ec48b7a64d2c4a3064b82f7f91fb3cf1faa0034af5f65b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-808e62ae50d24d249fc6c8bd54675163.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ed0016e9ab4641709fe782665338f425"] = {
-        sha256 = "3b6e1dc55edb42091cfb85280bbff9ba469a6d3a056c0039934e64b596cd00e2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-ed0016e9ab4641709fe782665338f425.7z",
-        toolset = "14.29.30133"
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z"
     },
     ["windows-x86-vc14.37.32822-354c197025e545b7b960638b0695fb23"] = {
         sha256 = "c4f9ee45a9a911c79732bb70b6fc637205ccacd4bda56ad6f2362fdacf73d05b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-354c197025e545b7b960638b0695fb23.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-00a1759cf2374922bd708b7e4c7a1466"] = {
-        sha256 = "4ec9d3c054d65bd06c61fe1f3a0efa497f75846bb26a49af4667e634ccaedf43",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-00a1759cf2374922bd708b7e4c7a1466.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.40.33807-8f0bc935e5c045998a006535983c79cf"] = {
-        sha256 = "91eea2884cd7545bd526cfc01689dad49699eed6d6e6dfd7bd1de194c9dacf2e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-8f0bc935e5c045998a006535983c79cf.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.37.32822-8f0bc935e5c045998a006535983c79cf"] = {
-        sha256 = "156bba7a1b05dca6944aa42590dc467341338cf12e42f47f355a7c3d56d0e82b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-8f0bc935e5c045998a006535983c79cf.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-59a05f0a629b471eb84ac7946dcd21db"] = {
-        sha256 = "ace8bb19b3781c4ea40f82bce0ec17b35108c91dda54f9f795eca1b2df008d73",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-59a05f0a629b471eb84ac7946dcd21db.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-354c197025e545b7b960638b0695fb23"] = {
-        sha256 = "576288fd474528b41193a07fd8d94d8c44b6244858d11a5304533dcaaf7b4287",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-354c197025e545b7b960638b0695fb23.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-354c197025e545b7b960638b0695fb23"] = {
-        sha256 = "ee7660e7c9e34731dd36514b4288e5153d9c9e23e96902ecaed0846fc1d0d554",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-354c197025e545b7b960638b0695fb23.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-5b53f8a817124eb99e5f65e88d2f23f0"] = {
-        sha256 = "3604c2d983f80b582c331081891407c334ab5dac5e3b784805d701b7bdd060be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-5b53f8a817124eb99e5f65e88d2f23f0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-e53fbf2ab7c6490e9bcb70bebb9dd7b0"] = {
-        sha256 = "0a8e3621390c0615cceebe21008d8b156de7c91916aaa1503067094cf2250986",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-d911eec48b3348619f378991323a0eaf"] = {
-        sha256 = "536c12f3d191cb5677508648b85f0aa5d03a3dd1fdd89db608ba59bf93f038a8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-d911eec48b3348619f378991323a0eaf.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-8f0bc935e5c045998a006535983c79cf"] = {
-        sha256 = "5d894f7c6266b4448fbc82d630f70f9ce7fc22f59d33c3e0c8da99018f912f11",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-8f0bc935e5c045998a006535983c79cf.7z",
-        toolset = "14.29.30133"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-354c197025e545b7b960638b0695fb23.7z"
     },
     ["windows-x86-vc14.37.32822-808e62ae50d24d249fc6c8bd54675163"] = {
         sha256 = "bf1843f2e194cc87947277d7ad16e75bd62f02c9a77388db8e03734f7f058390",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-808e62ae50d24d249fc6c8bd54675163.7z",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-808e62ae50d24d249fc6c8bd54675163.7z"
     },
-    ["windows-x64-vc14.37.32822-ea25095cbc934d85879d04c10327357e"] = {
-        sha256 = "313c833af2d212688fab9b1fe6fdb8c1c8e342b3af7657f34e38d0a573096017",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-ea25095cbc934d85879d04c10327357e.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.40.33807-8f0bc935e5c045998a006535983c79cf"] = {
+        sha256 = "91eea2884cd7545bd526cfc01689dad49699eed6d6e6dfd7bd1de194c9dacf2e",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-8f0bc935e5c045998a006535983c79cf.7z"
     },
-    ["windows-x64-vc14.37.32822-ed0016e9ab4641709fe782665338f425"] = {
-        sha256 = "7599755dc34008b2fc9638de86336d3b30051ce1d4932ae69da7e16c0e54213e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-ed0016e9ab4641709fe782665338f425.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-00a1759cf2374922bd708b7e4c7a1466"] = {
-        sha256 = "1106f964d19ae80fec45750129e8c2d8e69b8891237c36dca1ac3a18fa45c0bb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-00a1759cf2374922bd708b7e4c7a1466.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ea25095cbc934d85879d04c10327357e"] = {
-        sha256 = "7714087fa1452bf87ad32da02f3d53b5c5ef9aa0a3f2e3b54b6a61db9d4d5b3a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-ea25095cbc934d85879d04c10327357e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-7f4f8c5058024bcf8850dd494d2de3e1"] = {
-        sha256 = "37393738afabebe52a57ff93bc0dbf3c7ec70c63f6a24fcf951eb7cc2b53525c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-7f4f8c5058024bcf8850dd494d2de3e1.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-0b21ff25fb894412bbf8bad78ee8a367"] = {
-        sha256 = "608d8982e2fae3fdd48322c936e4e53613f0d853728d75888a915dfa66c07f7e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-0b21ff25fb894412bbf8bad78ee8a367.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.43.34808-ea25095cbc934d85879d04c10327357e"] = {
+        sha256 = "c7b7105c97fa141dabec16cc288e2fd9509e93d81e033f20584536257a84c8f7",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.43.34808-ea25095cbc934d85879d04c10327357e.7z"
     },
     ["windows-x86-vc14.29.30133-10d1f17d41464a098e64d62f896afecf"] = {
         sha256 = "eefefab8b10268418d7f14c4b2a7515390fae42b1ae08b7cbeeddc53ccd1223e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-10d1f17d41464a098e64d62f896afecf.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-10d1f17d41464a098e64d62f896afecf.7z"
     },
-    ["windows-x86-vc14.29.30133-82b3546d797c4b76a39c0b94f8d13236"] = {
-        sha256 = "9ed7e07163983bc0d79a319075bc70f639319d295ccf716dc267c921f6d2d26c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-82b3546d797c4b76a39c0b94f8d13236.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.43.34808-354c197025e545b7b960638b0695fb23"] = {
+        sha256 = "5502400e749739092ecc4e991c0bb49be6950282c20535c81def278e03deb41e",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.43.34808-354c197025e545b7b960638b0695fb23.7z"
+    },
+    ["windows-x86-vc14.29.30133-354c197025e545b7b960638b0695fb23"] = {
+        sha256 = "9410db5bab820791f3bb1a84693cd54455a6c200e867b915efef411105ee3487",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-354c197025e545b7b960638b0695fb23.7z"
+    },
+    ["windows-x64-vc14.37.32822-ed0016e9ab4641709fe782665338f425"] = {
+        sha256 = "7599755dc34008b2fc9638de86336d3b30051ce1d4932ae69da7e16c0e54213e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-ed0016e9ab4641709fe782665338f425.7z"
+    },
+    ["windows-x64-vc14.29.30133-8f0bc935e5c045998a006535983c79cf"] = {
+        sha256 = "83be7943d3b0adc6fc8f42ece68b22a1dcef4b0ffb9c4669168fc9189c9c398b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-8f0bc935e5c045998a006535983c79cf.7z"
+    },
+    ["windows-x86-vc14.40.33807-5b53f8a817124eb99e5f65e88d2f23f0"] = {
+        sha256 = "0806f239bb7002d734d8a23fc26cbc33e2fd078591f2ddc8dfd2abb815bbc786",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-5b53f8a817124eb99e5f65e88d2f23f0.7z"
+    },
+    ["windows-x86-vc14.37.32822-10d1f17d41464a098e64d62f896afecf"] = {
+        sha256 = "57bbe864455d399f78281314ae7418129527df6a984cb16065ea4a95e085f3b5",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-10d1f17d41464a098e64d62f896afecf.7z"
+    },
+    ["windows-x64-vc14.37.32822-0b21ff25fb894412bbf8bad78ee8a367"] = {
+        sha256 = "44c96bd8c956c1f4467d09bfbeed1bea864264838210e29b1ba04c00d3036965",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-0b21ff25fb894412bbf8bad78ee8a367.7z"
+    },
+    ["windows-x86-vc14.43.34808-5b53f8a817124eb99e5f65e88d2f23f0"] = {
+        sha256 = "dbad8f1758f8bfaa072cee8d09602a8bc79b87dce2971abbcf22f0ad7d4f843e",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.43.34808-5b53f8a817124eb99e5f65e88d2f23f0.7z"
+    },
+    ["windows-x86-vc14.40.33807-808e62ae50d24d249fc6c8bd54675163"] = {
+        sha256 = "e7623e84284b26ec967b117b3e17b8940f0988e68435c30f6bfaa41f9b5f6645",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-808e62ae50d24d249fc6c8bd54675163.7z"
+    },
+    ["windows-x86-vc14.29.30133-808e62ae50d24d249fc6c8bd54675163"] = {
+        sha256 = "550f4ebe6aeb5f8d9913e0058746b1e6e533c07441bb230c260403f464a9e07c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-808e62ae50d24d249fc6c8bd54675163.7z"
+    },
+    ["windows-x86-vc14.37.32822-82b3546d797c4b76a39c0b94f8d13236"] = {
+        sha256 = "489f68a406b7ffddc36c5ce390e07270ffa27459d0a730537323ea72fe6ffb9e",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-82b3546d797c4b76a39c0b94f8d13236.7z"
+    },
+    ["windows-x64-vc14.40.33807-ed0016e9ab4641709fe782665338f425"] = {
+        sha256 = "4b9a3a85c3f335cbb5b19a1e8c33e15f906af03e86d2acf40a8002763f045500",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-ed0016e9ab4641709fe782665338f425.7z"
+    },
+    ["windows-x86-vc14.37.32822-5b53f8a817124eb99e5f65e88d2f23f0"] = {
+        sha256 = "76584aa479db63b3d4f446a7d14747eacc06bdcf9e425f02fafef12b0c5787ac",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-5b53f8a817124eb99e5f65e88d2f23f0.7z"
+    },
+    ["windows-x64-vc14.37.32822-ea25095cbc934d85879d04c10327357e"] = {
+        sha256 = "313c833af2d212688fab9b1fe6fdb8c1c8e342b3af7657f34e38d0a573096017",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-ea25095cbc934d85879d04c10327357e.7z"
     },
     ["windows-x64-vc14.29.30133-2312f4fe6e0f435fab12d123917d40dc"] = {
         sha256 = "13cdb29ab50a695c8edbd1bcbcc8efd6f517cd4349d901ee8e1fbb61c85579a9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-2312f4fe6e0f435fab12d123917d40dc.7z",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-2312f4fe6e0f435fab12d123917d40dc.7z"
+    },
+    ["windows-x86-vc14.43.34808-808e62ae50d24d249fc6c8bd54675163"] = {
+        sha256 = "d76f248983f91769dce4f1254462835e7d6ade5367c5f4274e7efbab1004f443",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.43.34808-808e62ae50d24d249fc6c8bd54675163.7z"
+    },
+    ["windows-x64-vc14.29.30133-ea25095cbc934d85879d04c10327357e"] = {
+        sha256 = "451748c04faf4eb9042183a8b86382c1e0530c1406923de8a6d0158a879f5b79",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-ea25095cbc934d85879d04c10327357e.7z"
+    },
+    ["windows-x64-vc14.43.34808-e53fbf2ab7c6490e9bcb70bebb9dd7b0"] = {
+        sha256 = "084a5094976b3915123e9eed506fe413cd29d576b1d31068544faa8afe5ab309",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.43.34808-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z"
+    },
+    ["windows-x86-vc14.37.32822-7f4f8c5058024bcf8850dd494d2de3e1"] = {
+        sha256 = "5d6fa13e062fa21af576e00d9d40e0d2e852e6c9230e08caf3cb9d687da777e0",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-7f4f8c5058024bcf8850dd494d2de3e1.7z"
+    },
+    ["windows-x64-vc14.29.30133-ed0016e9ab4641709fe782665338f425"] = {
+        sha256 = "e09bede797bd7d8c84a7fcf05f7ff3f524b023e697612a251c973f867edec97e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-ed0016e9ab4641709fe782665338f425.7z"
+    },
+    ["windows-x64-vc14.43.34808-ed0016e9ab4641709fe782665338f425"] = {
+        sha256 = "0bc02513b0470861b676410454e0109781ff433086ec0d750d4027c6931e525a",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.43.34808-ed0016e9ab4641709fe782665338f425.7z"
+    },
+    ["windows-x86-vc14.37.32822-00a1759cf2374922bd708b7e4c7a1466"] = {
+        sha256 = "4ec9d3c054d65bd06c61fe1f3a0efa497f75846bb26a49af4667e634ccaedf43",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-00a1759cf2374922bd708b7e4c7a1466.7z"
+    },
+    ["windows-x64-vc14.29.30133-e748b0d68ae74800ac8890edcfab35cf"] = {
+        sha256 = "600dd77f2b478cf2d8546838a4c33dcfbbd61ae30419faddaf1516433f31c7e7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-e748b0d68ae74800ac8890edcfab35cf.7z"
+    },
+    ["windows-x86-vc14.29.30133-59a05f0a629b471eb84ac7946dcd21db"] = {
+        sha256 = "ace8bb19b3781c4ea40f82bce0ec17b35108c91dda54f9f795eca1b2df008d73",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-59a05f0a629b471eb84ac7946dcd21db.7z"
+    },
+    ["windows-x64-vc14.37.32822-e53fbf2ab7c6490e9bcb70bebb9dd7b0"] = {
+        sha256 = "7661471f6a9b48df25b0f455d9b3079eb03e5333f812568e7849cfcf81f5a1aa",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z"
+    },
+    ["windows-x86-vc14.37.32822-59a05f0a629b471eb84ac7946dcd21db"] = {
+        sha256 = "42a31e512c024fccd3fc6196e5925ea1707d34f0fcbfb93b10ea02ba420d9de0",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.37.32822-59a05f0a629b471eb84ac7946dcd21db.7z"
+    },
+    ["windows-x64-vc14.29.30133-d911eec48b3348619f378991323a0eaf"] = {
+        sha256 = "08602f326d0e428efaa5cdb44b83d35634523ba79749a1a9ce6733b58ae5c81b",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-d911eec48b3348619f378991323a0eaf.7z"
+    },
+    ["windows-x64-vc14.43.34808-8f0bc935e5c045998a006535983c79cf"] = {
+        sha256 = "73deab7c7868e249e185a5a897429b53332ff078303ae502b447a0aaf5ed56f0",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.43.34808-8f0bc935e5c045998a006535983c79cf.7z"
+    },
+    ["windows-x86-vc14.40.33807-354c197025e545b7b960638b0695fb23"] = {
+        sha256 = "ee7660e7c9e34731dd36514b4288e5153d9c9e23e96902ecaed0846fc1d0d554",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-354c197025e545b7b960638b0695fb23.7z"
+    },
+    ["windows-x86-vc14.29.30133-5b53f8a817124eb99e5f65e88d2f23f0"] = {
+        sha256 = "13d57ec13a4cf56a71a243eb366a0fe3e5bd363190fdcea27f5231508b5c90de",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-5b53f8a817124eb99e5f65e88d2f23f0.7z"
+    },
+    ["windows-x64-vc14.29.30133-0b21ff25fb894412bbf8bad78ee8a367"] = {
+        sha256 = "608d8982e2fae3fdd48322c936e4e53613f0d853728d75888a915dfa66c07f7e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-0b21ff25fb894412bbf8bad78ee8a367.7z"
+    },
+    ["windows-x64-vc14.37.32822-d911eec48b3348619f378991323a0eaf"] = {
+        sha256 = "536c12f3d191cb5677508648b85f0aa5d03a3dd1fdd89db608ba59bf93f038a8",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-d911eec48b3348619f378991323a0eaf.7z"
+    },
+    ["windows-x64-vc14.37.32822-8f0bc935e5c045998a006535983c79cf"] = {
+        sha256 = "156bba7a1b05dca6944aa42590dc467341338cf12e42f47f355a7c3d56d0e82b",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-8f0bc935e5c045998a006535983c79cf.7z"
+    },
+    ["windows-x64-vc14.37.32822-e748b0d68ae74800ac8890edcfab35cf"] = {
+        sha256 = "eb26fd86680aa0ed8eeee19ace3b9772ce61ee50d3b9df6d72afa954762831f6",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-e748b0d68ae74800ac8890edcfab35cf.7z"
+    },
+    ["windows-x86-vc14.29.30133-00a1759cf2374922bd708b7e4c7a1466"] = {
+        sha256 = "1106f964d19ae80fec45750129e8c2d8e69b8891237c36dca1ac3a18fa45c0bb",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-00a1759cf2374922bd708b7e4c7a1466.7z"
+    },
+    ["windows-x86-vc14.40.33807-7f4f8c5058024bcf8850dd494d2de3e1"] = {
+        sha256 = "37393738afabebe52a57ff93bc0dbf3c7ec70c63f6a24fcf951eb7cc2b53525c",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.40.33807-7f4f8c5058024bcf8850dd494d2de3e1.7z"
+    },
+    ["windows-x86-vc14.29.30133-82b3546d797c4b76a39c0b94f8d13236"] = {
+        sha256 = "9ed7e07163983bc0d79a319075bc70f639319d295ccf716dc267c921f6d2d26c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-82b3546d797c4b76a39c0b94f8d13236.7z"
+    },
+    ["windows-x64-vc14.29.30133-e53fbf2ab7c6490e9bcb70bebb9dd7b0"] = {
+        sha256 = "e4365aed2f28c2cd1be05e238266ea61bfe09ec5511206b7f62244d43d29ddb1",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.29.30133-e53fbf2ab7c6490e9bcb70bebb9dd7b0.7z"
+    },
+    ["windows-x86-vc14.29.30133-7f4f8c5058024bcf8850dd494d2de3e1"] = {
+        sha256 = "97e35a851762450c62c117e99f049e06ff633d819e16fa20d98f9edc7d19557f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.29.30133-7f4f8c5058024bcf8850dd494d2de3e1.7z"
+    },
+    ["windows-x64-vc14.40.33807-ea25095cbc934d85879d04c10327357e"] = {
+        sha256 = "abaf5c098619d03a13bfe50d4a706839319961d6f8e6889c1621ee64925dde9c",
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.40.33807-ea25095cbc934d85879d04c10327357e.7z"
+    },
+    ["windows-x86-vc14.43.34808-7f4f8c5058024bcf8850dd494d2de3e1"] = {
+        sha256 = "66c0ec208bcceaed7c5d9bb4e49fa7d931a999741dc68a24c000d6b96989a664",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x86-vc14.43.34808-7f4f8c5058024bcf8850dd494d2de3e1.7z"
+    },
+    ["windows-x64-vc14.37.32822-2312f4fe6e0f435fab12d123917d40dc"] = {
+        sha256 = "e3e02d617cad3a15aba8f54bada6b4bfce8fe9a9161a0288e77382da8fc16577",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libfreenect2-v0.2.1/windows-x64-vc14.37.32822-2312f4fe6e0f435fab12d123917d40dc.7z"
     }
 }
