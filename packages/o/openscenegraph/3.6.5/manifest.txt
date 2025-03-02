@@ -1,73 +1,88 @@
 {
-    ["windows-x64-vc14.29.30133-889942e190984c0897788606284d965e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-889942e190984c0897788606284d965e.7z",
-        toolset = "14.29.30133",
-        sha256 = "2b964f418bd5849a14a16708f50183794c05a1633f4679d166d3a56c840faaf1"
-    },
-    ["windows-x86-vc14.29.30133-40eb741680144887b4e25ebaf946243e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-40eb741680144887b4e25ebaf946243e.7z",
-        toolset = "14.29.30133",
-        sha256 = "307225c2db91ca6cac4fa32d6f9902acc8e66af751b460d91d22f80ae07b1be5"
-    },
-    ["windows-x64-vc14.29.30133-61f7a550c37a40cfa3b4038e7bee5570"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-61f7a550c37a40cfa3b4038e7bee5570.7z",
-        toolset = "14.29.30133",
-        sha256 = "5d9663a42466cf4c55a6f364c9a59dc36f0725f348a414a45342c69a3d3e5762"
-    },
-    ["windows-x64-vc14.42.34433-bd4b9adb9ec8431f99bf10533f0ea496"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-bd4b9adb9ec8431f99bf10533f0ea496.7z",
+    ["windows-x64-vc14.42.34433-e19cb8361c4d4b42864aaf3ba9a80f15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-e19cb8361c4d4b42864aaf3ba9a80f15.7z",
         toolset = "14.42.34433",
-        sha256 = "e9bedb5439dfbca94678c7a4a00cc54185b7412c117c2b1568feaaa14bd39187"
+        sha256 = "9d1eedcf48275ff84c91240c903e4c67ab79860cd35fb0ea2a70227796dab41a"
+    },
+    ["windows-x64-vc143-d1a8512dbfe6467c99c2d2699d678b3a"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-d1a8512dbfe6467c99c2d2699d678b3a.7z",
+        sha256 = "3b8e2930c04a636afbc5469a1091dec561a01a54c064bafa5641aef6abfe764b"
+    },
+    ["windows-x64-vc14.37.32822-d1a8512dbfe6467c99c2d2699d678b3a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-d1a8512dbfe6467c99c2d2699d678b3a.7z",
+        toolset = "14.37.32822",
+        sha256 = "3d0d3033f8d9a75ea3d86fe223981b8ec321b132ff09f5cd5575330fe2cfcf5c"
+    },
+    ["windows-x86-vc14.37.32822-ee1b7088813f428ba74d2d92968a962f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-ee1b7088813f428ba74d2d92968a962f.7z",
+        toolset = "14.37.32822",
+        sha256 = "3fae9c05dc6f1113bbc7e7b57e0e12d3f88979a8823c93e4238ea246cdec0872"
+    },
+    ["windows-x86-vc14.42.34433-31c7386e870a44d78d9d0dc3166fdf30"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-31c7386e870a44d78d9d0dc3166fdf30.7z",
+        toolset = "14.42.34433",
+        sha256 = "41717d0c6be215921d1b4d6a8c350eaea6a0dae4026b1e569979b47673714fa5"
+    },
+    ["windows-x64-vc14.37.32822-831e32c210f540379c48f21d124a096b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-831e32c210f540379c48f21d124a096b.7z",
+        toolset = "14.37.32822",
+        sha256 = "389755f0ee407e2e50cc91ae53a2bbde52caf41fedf28720ac8ea86cac93bcf9"
+    },
+    ["windows-x86-vc14.37.32822-bad03304a125429a97ac71190fd24aa5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-bad03304a125429a97ac71190fd24aa5.7z",
+        toolset = "14.37.32822",
+        sha256 = "7def164af44934760d0f73360685db0d20e6d8cb13b2f750454b514c4983ba61"
+    },
+    ["windows-x64-vc14.43.34808-7745042d415d461bb0dbc80a3d5bc575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.43.34808-7745042d415d461bb0dbc80a3d5bc575.7z",
+        toolset = "14.43.34808",
+        sha256 = "b34b80d7da5d3ef6b7b7a6a760d4535e6ea190f591b74515c36c6400765fdd1d"
+    },
+    ["windows-x86-vc14.37.32822-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-4aa2315d74404f61b0a0ea70ac2aaaa7.7z",
+        toolset = "14.37.32822",
+        sha256 = "a8d62bffe30e4ac8b3e53337db336332b98f367a3aa7228f8fcecf6f5e1cd280"
     },
     ["windows-x64-vc142-889942e190984c0897788606284d965e"] = {
-        sha256 = "1a550ab711d848662fc2892003471cc7bb1a8d8dbf3151943a9761be00e56343",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-889942e190984c0897788606284d965e.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-889942e190984c0897788606284d965e.7z",
+        sha256 = "1a550ab711d848662fc2892003471cc7bb1a8d8dbf3151943a9761be00e56343"
     },
-    ["windows-x86-vc14.29.30133-8dc1cf8b4d664eeab2f7fa891befbbb9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-8dc1cf8b4d664eeab2f7fa891befbbb9.7z",
+    ["windows-x86-vc14.29.30133-0e50796f273247d496caa856969391b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-0e50796f273247d496caa856969391b6.7z",
         toolset = "14.29.30133",
-        sha256 = "9e6864ef97272366505dc37a2674061f08567224ef5aedf8409a54cad7f18c58"
+        sha256 = "439cf0bf58615cf6ff9c545fd97572ada05cdbbbd2fda08a1da45e7aa9323041"
+    },
+    ["windows-x86-vc14.43.34808-9d95e982cc354051a4f202dcb0c9dded"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.43.34808-9d95e982cc354051a4f202dcb0c9dded.7z",
+        toolset = "14.43.34808",
+        sha256 = "6a5dedf5e1113b918b5c2ca545a28c35526d4fc0a7c302cc71524f877d6447bf"
     },
     ["windows-x86-vc142-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
-        sha256 = "e238f776860c19e278d281f558159ee76dfffd5faa130e3ee44f5b2e8543725d",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-4aa2315d74404f61b0a0ea70ac2aaaa7.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-4aa2315d74404f61b0a0ea70ac2aaaa7.7z",
+        sha256 = "e238f776860c19e278d281f558159ee76dfffd5faa130e3ee44f5b2e8543725d"
     },
-    ["windows-x64-vc142-831e32c210f540379c48f21d124a096b"] = {
-        sha256 = "86ec44c7d6639ee03793104346e16a2639e8d55d38e592c25d6b765c5a78c296",
+    ["windows-x64-vc14.37.32822-c647d689a33f4cc887253bb40dbda0f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-c647d689a33f4cc887253bb40dbda0f5.7z",
+        toolset = "14.37.32822",
+        sha256 = "c7ccdbf0ec1095f225b2f6e89f1f10e7336b4038c7c7e044621f187baef3e654"
+    },
+    ["windows-x64-vc14.43.34808-bd4b9adb9ec8431f99bf10533f0ea496"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.43.34808-bd4b9adb9ec8431f99bf10533f0ea496.7z",
+        toolset = "14.43.34808",
+        sha256 = "d9f88e3c43225da6bdb8434c8694b4e6eb0a23156797991b11dc2af06cec2f59"
+    },
+    ["windows-x64-vc14.37.32822-2f84216464cd4b248d68af4ef18c4c74"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-2f84216464cd4b248d68af4ef18c4c74.7z",
+        toolset = "14.37.32822",
+        sha256 = "315e48f4989ab2d86c7bac5da0199b8d434f0776943ef83036fa245a1acb0027"
+    },
+    ["windows-x64-vc14.29.30133-854d8cfa54e44edcad2d78300fdfe961"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-854d8cfa54e44edcad2d78300fdfe961.7z",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-831e32c210f540379c48f21d124a096b.7z"
-    },
-    ["windows-x86-vc14.29.30133-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-4aa2315d74404f61b0a0ea70ac2aaaa7.7z",
-        toolset = "14.29.30133",
-        sha256 = "1f1394678a6ec4bd61b3d41e64971fa2d51069197d7850ba091446790fce802e"
-    },
-    ["windows-x64-vc14.29.30133-bd4b9adb9ec8431f99bf10533f0ea496"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-bd4b9adb9ec8431f99bf10533f0ea496.7z",
-        toolset = "14.29.30133",
-        sha256 = "4522da36459069a417af190f5f54f17962ec8db03af1a10a79c1ea5e4c77f56f"
-    },
-    ["windows-x64-vc14.29.30133-7745042d415d461bb0dbc80a3d5bc575"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-7745042d415d461bb0dbc80a3d5bc575.7z",
-        toolset = "14.29.30133",
-        sha256 = "96df2e5cc8166b9c48e1333a0a68a45f1f6135e235567a72b3b4c54446b5cafa"
-    },
-    ["windows-x86-vc142-39cb395655b54a2fb5b5682c8e048aca"] = {
-        sha256 = "2c37033b8356c747398aab609342ace4dad650410e55301dec919180f5bcac19",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-39cb395655b54a2fb5b5682c8e048aca.7z"
-    },
-    ["windows-x64-vc143-2f84216464cd4b248d68af4ef18c4c74"] = {
-        sha256 = "ccf616c795eac47796f37b2d66d5f0062072a8a4f75bd44af3f3cd301c2d0451",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-2f84216464cd4b248d68af4ef18c4c74.7z"
-    },
-    ["windows-x64-vc14.29.30133-41c34a5a71a44704985b6b3e0322ffdd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-41c34a5a71a44704985b6b3e0322ffdd.7z",
-        toolset = "14.29.30133",
-        sha256 = "c040abf046881a1b69436f2d8cb08b7f09be0715a8ea6327e96a0210093b0a6d"
+        sha256 = "5df9eba2cdee14b013d228e4ccd9f23eb4ca6bee18f727d35cd10d2f92012a4c"
     },
     ["windows-x86-vc14.42.34433-9d95e982cc354051a4f202dcb0c9dded"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-9d95e982cc354051a4f202dcb0c9dded.7z",
@@ -79,284 +94,309 @@
         toolset = "14.37.32822",
         sha256 = "62f51660c387aad16d879d7500f7ec5522763ee980ca252eff1f9e7231570c0b"
     },
-    ["windows-x64-vc14.42.34433-61f7a550c37a40cfa3b4038e7bee5570"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-61f7a550c37a40cfa3b4038e7bee5570.7z",
-        toolset = "14.42.34433",
-        sha256 = "a3881250bdc7b9c2eb8ea652bc6cd5586b8345ebf5f6517dadd78dde3c1218ab"
-    },
-    ["windows-x64-vc14.29.30133-c647d689a33f4cc887253bb40dbda0f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-c647d689a33f4cc887253bb40dbda0f5.7z",
+    ["windows-x64-vc14.29.30133-61f7a550c37a40cfa3b4038e7bee5570"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-61f7a550c37a40cfa3b4038e7bee5570.7z",
         toolset = "14.29.30133",
-        sha256 = "00723205b1048fcd2fbe4b0708c7fab22b76872e2587abcf4b87f12b2ef7cdd1"
-    },
-    ["windows-x64-vc143-d1a8512dbfe6467c99c2d2699d678b3a"] = {
-        sha256 = "3b8e2930c04a636afbc5469a1091dec561a01a54c064bafa5641aef6abfe764b",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-d1a8512dbfe6467c99c2d2699d678b3a.7z"
-    },
-    ["windows-x64-vc143-831e32c210f540379c48f21d124a096b"] = {
-        sha256 = "e29627bc5128f0b79c5c3493df9b233cbcb26f9e6a111decfba60e8b3d9c7525",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-831e32c210f540379c48f21d124a096b.7z"
-    },
-    ["windows-x86-vc14.37.32822-0e50796f273247d496caa856969391b6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-0e50796f273247d496caa856969391b6.7z",
-        toolset = "14.37.32822",
-        sha256 = "b58791c3422aa6d759d6be61ff447a20e345d87d95d9922581620e2a9c6a7060"
-    },
-    ["windows-x64-vc14.42.34433-15dd8adec59f4961bba8b9713c15071c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-15dd8adec59f4961bba8b9713c15071c.7z",
-        toolset = "14.42.34433",
-        sha256 = "a0f1ea0aea0fa67b7ba82414ee9c9a8a6f7b2d7af0911e5e2237843c7028e872"
-    },
-    ["windows-x86-vc14.29.30133-9d95e982cc354051a4f202dcb0c9dded"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-9d95e982cc354051a4f202dcb0c9dded.7z",
-        toolset = "14.29.30133",
-        sha256 = "a9e02fb42848fdd36251063c7e7a4c78f4a6162ca97e0457e29a1a986c79d833"
-    },
-    ["windows-x86-vc14.42.34433-6264dad231b447dbbd54dc95e280d150"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-6264dad231b447dbbd54dc95e280d150.7z",
-        toolset = "14.42.34433",
-        sha256 = "2ebde2b31b54f3c0faac2c49158ead1d1ad1d35eca133773f3382a679edfc11c"
-    },
-    ["windows-x86-vc14.29.30133-bad03304a125429a97ac71190fd24aa5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-bad03304a125429a97ac71190fd24aa5.7z",
-        toolset = "14.29.30133",
-        sha256 = "d3626b084468873a58237ce61cc18bb8a6b360a5500b7cc37d3e0084bd805d7f"
+        sha256 = "4039003d447f860699e437bf9ecf716c81b60ddcf0f02b1e3ef43e5e9b88f305"
     },
     ["windows-x86-vc14.29.30133-fde74e9a7d094b88b801ce4de1040072"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-fde74e9a7d094b88b801ce4de1040072.7z",
         toolset = "14.29.30133",
         sha256 = "feb9e53d7b2fb460be6ff1ff741522f527cc3fc59e9df4347e8593da9a2918f7"
     },
-    ["windows-x64-vc14.42.34433-c647d689a33f4cc887253bb40dbda0f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-c647d689a33f4cc887253bb40dbda0f5.7z",
-        toolset = "14.42.34433",
-        sha256 = "06cbfa49e27960e54aba0cc3b900659a0042ce8f9c8e3d87c91ce414f13ea6c3"
-    },
-    ["windows-x86-vc14.29.30133-ee1b7088813f428ba74d2d92968a962f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-ee1b7088813f428ba74d2d92968a962f.7z",
-        toolset = "14.29.30133",
-        sha256 = "9ecd169d26ce53a5de4ae94c7ad9af03090a2536011f6fe5f56d3fa290a9a849"
-    },
-    ["windows-x64-vc14.37.32822-15dd8adec59f4961bba8b9713c15071c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-15dd8adec59f4961bba8b9713c15071c.7z",
-        toolset = "14.37.32822",
-        sha256 = "2077220e6573552c499f070566ad56558c42494c3cee93fad03c406af735a1a3"
-    },
-    ["windows-x86-vc14.37.32822-bad03304a125429a97ac71190fd24aa5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-bad03304a125429a97ac71190fd24aa5.7z",
-        toolset = "14.37.32822",
-        sha256 = "7def164af44934760d0f73360685db0d20e6d8cb13b2f750454b514c4983ba61"
-    },
-    ["windows-x64-vc14.37.32822-c647d689a33f4cc887253bb40dbda0f5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-c647d689a33f4cc887253bb40dbda0f5.7z",
-        toolset = "14.37.32822",
-        sha256 = "c7ccdbf0ec1095f225b2f6e89f1f10e7336b4038c7c7e044621f187baef3e654"
-    },
-    ["windows-x86-vc14.37.32822-39cb395655b54a2fb5b5682c8e048aca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-39cb395655b54a2fb5b5682c8e048aca.7z",
-        toolset = "14.37.32822",
-        sha256 = "f219a8ff25d6e6e62ad4532c5f1d437ef8f3c084d1fa33bf77779cdd27601995"
-    },
-    ["windows-x64-vc14.42.34433-854d8cfa54e44edcad2d78300fdfe961"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-854d8cfa54e44edcad2d78300fdfe961.7z",
-        toolset = "14.42.34433",
-        sha256 = "490d16dbcb7e21f682c09ecb6cdd7827461bea95ebf266c0f86bc71de0af1b89"
-    },
-    ["windows-x64-vc14.37.32822-d1a8512dbfe6467c99c2d2699d678b3a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-d1a8512dbfe6467c99c2d2699d678b3a.7z",
-        toolset = "14.37.32822",
-        sha256 = "3d0d3033f8d9a75ea3d86fe223981b8ec321b132ff09f5cd5575330fe2cfcf5c"
-    },
-    ["windows-x64-vc14.29.30133-2f84216464cd4b248d68af4ef18c4c74"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-2f84216464cd4b248d68af4ef18c4c74.7z",
-        toolset = "14.29.30133",
-        sha256 = "7ece8ffec6bf4aa7f0c44cc5663ce9d8d1c7e1e034614d215e16dc6c3d389b34"
-    },
-    ["windows-x64-vc14.42.34433-e19cb8361c4d4b42864aaf3ba9a80f15"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-e19cb8361c4d4b42864aaf3ba9a80f15.7z",
-        toolset = "14.42.34433",
-        sha256 = "9d1eedcf48275ff84c91240c903e4c67ab79860cd35fb0ea2a70227796dab41a"
-    },
-    ["windows-x64-vc14.29.30133-15dd8adec59f4961bba8b9713c15071c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-15dd8adec59f4961bba8b9713c15071c.7z",
-        toolset = "14.29.30133",
-        sha256 = "3627070bf433de2d85c6d519105f26ce6fa0036f0b1599ec7a2f6cf42b055c0b"
-    },
-    ["windows-x86-vc14.42.34433-b6a9f9711ba34d6b9ae2bfab09a6eca3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-b6a9f9711ba34d6b9ae2bfab09a6eca3.7z",
-        toolset = "14.42.34433",
-        sha256 = "9c8c130db145a467946e5fd9e81452aa22745f3244bc15b50f502992ceb064a5"
-    },
-    ["windows-x86-vc14.37.32822-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-4aa2315d74404f61b0a0ea70ac2aaaa7.7z",
-        toolset = "14.37.32822",
-        sha256 = "a8d62bffe30e4ac8b3e53337db336332b98f367a3aa7228f8fcecf6f5e1cd280"
+    ["windows-x64-vc143-889942e190984c0897788606284d965e"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-889942e190984c0897788606284d965e.7z",
+        sha256 = "a1d498bce51cb6d699f16ea1d3e360d866afbe53f28536c9f71fad6cf2021a45"
     },
     ["windows-x86-vc14.29.30133-39cb395655b54a2fb5b5682c8e048aca"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-39cb395655b54a2fb5b5682c8e048aca.7z",
         toolset = "14.29.30133",
         sha256 = "7c680bfc0d3e684916c2e8b953526c2c6cdd64aeb28672726e6e2bb41a57e269"
     },
-    ["windows-x86-vc14.29.30133-0e50796f273247d496caa856969391b6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-0e50796f273247d496caa856969391b6.7z",
-        toolset = "14.29.30133",
-        sha256 = "439cf0bf58615cf6ff9c545fd97572ada05cdbbbd2fda08a1da45e7aa9323041"
+    ["windows-x64-vc14.43.34808-61f7a550c37a40cfa3b4038e7bee5570"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.43.34808-61f7a550c37a40cfa3b4038e7bee5570.7z",
+        toolset = "14.43.34808",
+        sha256 = "c3b6c6fdbb386ead2a1e2b8521c05be5128e21dbcfb70e1fd386e9fc4ecd7d05"
     },
-    ["windows-x64-vc14.42.34433-41c34a5a71a44704985b6b3e0322ffdd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-41c34a5a71a44704985b6b3e0322ffdd.7z",
+    ["windows-x64-vc143-831e32c210f540379c48f21d124a096b"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-831e32c210f540379c48f21d124a096b.7z",
+        sha256 = "e29627bc5128f0b79c5c3493df9b233cbcb26f9e6a111decfba60e8b3d9c7525"
+    },
+    ["windows-x86-vc142-fde74e9a7d094b88b801ce4de1040072"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-fde74e9a7d094b88b801ce4de1040072.7z",
+        sha256 = "a7e4cfd2b33e75db15b69a250b24a2b97932bdb1c7c07cacfa6d5d0b4ec17204"
+    },
+    ["windows-x64-vc14.42.34433-c647d689a33f4cc887253bb40dbda0f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-c647d689a33f4cc887253bb40dbda0f5.7z",
         toolset = "14.42.34433",
-        sha256 = "c1dd192bbf204f20c2a9e17c1354866b54126bd513a19a2fd2ee55a458387f86"
+        sha256 = "06cbfa49e27960e54aba0cc3b900659a0042ce8f9c8e3d87c91ce414f13ea6c3"
     },
-    ["windows-x64-vc14.37.32822-e19cb8361c4d4b42864aaf3ba9a80f15"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-e19cb8361c4d4b42864aaf3ba9a80f15.7z",
-        toolset = "14.37.32822",
-        sha256 = "d38fcd50b192c3c15ad150ba7d3d3a777809d04d571646070ffc3adda0c257e5"
-    },
-    ["windows-x64-vc14.29.30133-854d8cfa54e44edcad2d78300fdfe961"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-854d8cfa54e44edcad2d78300fdfe961.7z",
+    ["windows-x86-vc142-bad03304a125429a97ac71190fd24aa5"] = {
         toolset = "14.29.30133",
-        sha256 = "4e3585bd2056897f1ebc45047f6db0bfedffb2bb403c88a7dfb22c77ebd6beac"
-    },
-    ["windows-x86-vc14.29.30133-b6a9f9711ba34d6b9ae2bfab09a6eca3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-b6a9f9711ba34d6b9ae2bfab09a6eca3.7z",
-        toolset = "14.29.30133",
-        sha256 = "92a87b04a353295dbfc4a10c0085be2ecedb05f1f6ecbd89369e35a573671ec8"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-bad03304a125429a97ac71190fd24aa5.7z",
+        sha256 = "3b95f701c02d356f547715cdbf8473ff15d2e88400b9c2e281b70869435c364f"
     },
     ["windows-x86-vc14.42.34433-40eb741680144887b4e25ebaf946243e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-40eb741680144887b4e25ebaf946243e.7z",
         toolset = "14.42.34433",
         sha256 = "5a2e6b99749552ffb9e84dda02ab4a7197ceb11cd50889cc59a5c8161090a9b0"
     },
-    ["windows-x86-vc14.37.32822-ee1b7088813f428ba74d2d92968a962f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-ee1b7088813f428ba74d2d92968a962f.7z",
-        toolset = "14.37.32822",
-        sha256 = "3fae9c05dc6f1113bbc7e7b57e0e12d3f88979a8823c93e4238ea246cdec0872"
-    },
-    ["windows-x64-vc14.29.30133-d1a8512dbfe6467c99c2d2699d678b3a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-d1a8512dbfe6467c99c2d2699d678b3a.7z",
-        toolset = "14.29.30133",
-        sha256 = "004f71c21dbe65e9833b502d6c0b511b720042cab36ab52c7feb179bc41c9a6e"
-    },
-    ["windows-x64-vc14.29.30133-831e32c210f540379c48f21d124a096b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-831e32c210f540379c48f21d124a096b.7z",
-        toolset = "14.29.30133",
-        sha256 = "061e91a0f0b6f6255c7beac94274bf8bafb477d25668796b42beef0fb00f4bec"
-    },
-    ["windows-x64-vc14.37.32822-831e32c210f540379c48f21d124a096b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-831e32c210f540379c48f21d124a096b.7z",
-        toolset = "14.37.32822",
-        sha256 = "389755f0ee407e2e50cc91ae53a2bbde52caf41fedf28720ac8ea86cac93bcf9"
-    },
-    ["windows-x64-vc14.37.32822-2f84216464cd4b248d68af4ef18c4c74"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-2f84216464cd4b248d68af4ef18c4c74.7z",
-        toolset = "14.37.32822",
-        sha256 = "315e48f4989ab2d86c7bac5da0199b8d434f0776943ef83036fa245a1acb0027"
-    },
-    ["windows-x86-vc142-bad03304a125429a97ac71190fd24aa5"] = {
-        sha256 = "3b95f701c02d356f547715cdbf8473ff15d2e88400b9c2e281b70869435c364f",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-bad03304a125429a97ac71190fd24aa5.7z"
-    },
-    ["windows-x86-vc143-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
-        sha256 = "183523146e46d5936b21127a01ea251c324b9e833b0e040b7475a17a308ad80a",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-4aa2315d74404f61b0a0ea70ac2aaaa7.7z"
-    },
-    ["windows-x64-vc142-2f84216464cd4b248d68af4ef18c4c74"] = {
-        sha256 = "4af9333e5172399b4f8610f9a5b81a5fa6b0dff7d0f612e3badfa88e97502daa",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-2f84216464cd4b248d68af4ef18c4c74.7z"
-    },
-    ["windows-x86-vc14.37.32822-fde74e9a7d094b88b801ce4de1040072"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-fde74e9a7d094b88b801ce4de1040072.7z",
-        toolset = "14.37.32822",
-        sha256 = "a6f07fb148ac2c6a3e65bd5ae639e5fcfabe5707170d70a6c142e862c274b25c"
-    },
-    ["windows-x86-vc14.42.34433-8dc1cf8b4d664eeab2f7fa891befbbb9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-8dc1cf8b4d664eeab2f7fa891befbbb9.7z",
+    ["windows-x64-vc14.42.34433-41c34a5a71a44704985b6b3e0322ffdd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-41c34a5a71a44704985b6b3e0322ffdd.7z",
         toolset = "14.42.34433",
-        sha256 = "412e5cdbfad463f317fd1c8c26b145286a9fc2e65907f40c1b8370546d069e5a"
+        sha256 = "c1dd192bbf204f20c2a9e17c1354866b54126bd513a19a2fd2ee55a458387f86"
     },
-    ["windows-x86-vc14.29.30133-6264dad231b447dbbd54dc95e280d150"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-6264dad231b447dbbd54dc95e280d150.7z",
+    ["windows-x64-vc14.43.34808-854d8cfa54e44edcad2d78300fdfe961"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.43.34808-854d8cfa54e44edcad2d78300fdfe961.7z",
+        toolset = "14.43.34808",
+        sha256 = "bc472c852f3b177a01fe789869e66009c0f5d36e237eef50280174f8e2faddb5"
+    },
+    ["windows-x64-vc14.29.30133-889942e190984c0897788606284d965e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-889942e190984c0897788606284d965e.7z",
         toolset = "14.29.30133",
-        sha256 = "81590ddd76d4fe5a0c0bbb984eeba89236aa68d35ba3eefa0e7e75fa88ef4c4b"
-    },
-    ["windows-x86-vc14.42.34433-31c7386e870a44d78d9d0dc3166fdf30"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-31c7386e870a44d78d9d0dc3166fdf30.7z",
-        toolset = "14.42.34433",
-        sha256 = "41717d0c6be215921d1b4d6a8c350eaea6a0dae4026b1e569979b47673714fa5"
-    },
-    ["windows-x86-vc143-39cb395655b54a2fb5b5682c8e048aca"] = {
-        sha256 = "62445f0635be995e96b765bf29c48b93be4bbc194a862a757924888bec9f7d9f",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-39cb395655b54a2fb5b5682c8e048aca.7z"
-    },
-    ["windows-x86-vc14.37.32822-31c7386e870a44d78d9d0dc3166fdf30"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-31c7386e870a44d78d9d0dc3166fdf30.7z",
-        toolset = "14.37.32822",
-        sha256 = "3675eea12d0ff2097522d08ba9eb276baaf828969b37280181791ab51319013d"
-    },
-    ["windows-x86-vc14.42.34433-ee1b7088813f428ba74d2d92968a962f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-ee1b7088813f428ba74d2d92968a962f.7z",
-        toolset = "14.42.34433",
-        sha256 = "8deb998665fe6250a70425809b9429ffb8d492e7bfbb28861b641bae4e021010"
-    },
-    ["windows-x86-vc142-fde74e9a7d094b88b801ce4de1040072"] = {
-        sha256 = "a7e4cfd2b33e75db15b69a250b24a2b97932bdb1c7c07cacfa6d5d0b4ec17204",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-fde74e9a7d094b88b801ce4de1040072.7z"
-    },
-    ["windows-x86-vc143-fde74e9a7d094b88b801ce4de1040072"] = {
-        sha256 = "4b1736b4534a83fa169cbcd7d790d9a18466d9c007ba05feeb0849d8a749c05b",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-fde74e9a7d094b88b801ce4de1040072.7z"
-    },
-    ["windows-x86-vc14.42.34433-0e50796f273247d496caa856969391b6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-0e50796f273247d496caa856969391b6.7z",
-        toolset = "14.42.34433",
-        sha256 = "115de4acec13d05de859ea3c5b8afb9b5ac881e1ed5fa0d2f369cc0d2e2209ab"
-    },
-    ["windows-x64-vc143-889942e190984c0897788606284d965e"] = {
-        sha256 = "a1d498bce51cb6d699f16ea1d3e360d866afbe53f28536c9f71fad6cf2021a45",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-889942e190984c0897788606284d965e.7z"
-    },
-    ["windows-x86-vc143-bad03304a125429a97ac71190fd24aa5"] = {
-        sha256 = "27b40c407f252bef8549940f9ed9e6ff8b386852a31939e0a0a782fc74f1283f",
-        toolset = "14.32.31326",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-bad03304a125429a97ac71190fd24aa5.7z"
-    },
-    ["windows-x64-vc14.29.30133-e19cb8361c4d4b42864aaf3ba9a80f15"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-e19cb8361c4d4b42864aaf3ba9a80f15.7z",
-        toolset = "14.29.30133",
-        sha256 = "49f33bde963c326b20d77bfdc6e86aa6c9ac91f4b8f95983fae2a260a0c2873c"
+        sha256 = "2b964f418bd5849a14a16708f50183794c05a1633f4679d166d3a56c840faaf1"
     },
     ["windows-x86-vc14.37.32822-6264dad231b447dbbd54dc95e280d150"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-6264dad231b447dbbd54dc95e280d150.7z",
         toolset = "14.37.32822",
         sha256 = "8748cc6d805a1e1de1ab4fd2f412701cc26ab7e2c2aef889688e99a59b3195b3"
     },
-    ["windows-x64-vc14.42.34433-7745042d415d461bb0dbc80a3d5bc575"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-7745042d415d461bb0dbc80a3d5bc575.7z",
-        toolset = "14.42.34433",
-        sha256 = "880e2ba0823403f233e95c0b48a93f694fa3ee546c89fe8497150d576a510921"
+    ["windows-x86-vc14.37.32822-0e50796f273247d496caa856969391b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-0e50796f273247d496caa856969391b6.7z",
+        toolset = "14.37.32822",
+        sha256 = "b58791c3422aa6d759d6be61ff447a20e345d87d95d9922581620e2a9c6a7060"
+    },
+    ["windows-x64-vc142-2f84216464cd4b248d68af4ef18c4c74"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-2f84216464cd4b248d68af4ef18c4c74.7z",
+        sha256 = "4af9333e5172399b4f8610f9a5b81a5fa6b0dff7d0f612e3badfa88e97502daa"
+    },
+    ["windows-x64-vc14.29.30133-831e32c210f540379c48f21d124a096b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-831e32c210f540379c48f21d124a096b.7z",
+        toolset = "14.29.30133",
+        sha256 = "061e91a0f0b6f6255c7beac94274bf8bafb477d25668796b42beef0fb00f4bec"
     },
     ["windows-x64-vc14.37.32822-889942e190984c0897788606284d965e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-889942e190984c0897788606284d965e.7z",
         toolset = "14.37.32822",
         sha256 = "b275c82345ecacea771c025d68ae7a7dad726d3ddc0bacdfbe9b3fdb9b761c4d"
     },
+    ["windows-x86-vc14.37.32822-31c7386e870a44d78d9d0dc3166fdf30"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-31c7386e870a44d78d9d0dc3166fdf30.7z",
+        toolset = "14.37.32822",
+        sha256 = "3675eea12d0ff2097522d08ba9eb276baaf828969b37280181791ab51319013d"
+    },
+    ["windows-x64-vc14.29.30133-15dd8adec59f4961bba8b9713c15071c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-15dd8adec59f4961bba8b9713c15071c.7z",
+        toolset = "14.29.30133",
+        sha256 = "3627070bf433de2d85c6d519105f26ce6fa0036f0b1599ec7a2f6cf42b055c0b"
+    },
+    ["windows-x86-vc143-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-4aa2315d74404f61b0a0ea70ac2aaaa7.7z",
+        sha256 = "183523146e46d5936b21127a01ea251c324b9e833b0e040b7475a17a308ad80a"
+    },
+    ["windows-x64-vc14.37.32822-e19cb8361c4d4b42864aaf3ba9a80f15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-e19cb8361c4d4b42864aaf3ba9a80f15.7z",
+        toolset = "14.37.32822",
+        sha256 = "d38fcd50b192c3c15ad150ba7d3d3a777809d04d571646070ffc3adda0c257e5"
+    },
+    ["windows-x64-vc142-831e32c210f540379c48f21d124a096b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-831e32c210f540379c48f21d124a096b.7z",
+        sha256 = "86ec44c7d6639ee03793104346e16a2639e8d55d38e592c25d6b765c5a78c296"
+    },
+    ["windows-x86-vc142-39cb395655b54a2fb5b5682c8e048aca"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc142-39cb395655b54a2fb5b5682c8e048aca.7z",
+        sha256 = "2c37033b8356c747398aab609342ace4dad650410e55301dec919180f5bcac19"
+    },
+    ["windows-x64-vc14.42.34433-bd4b9adb9ec8431f99bf10533f0ea496"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-bd4b9adb9ec8431f99bf10533f0ea496.7z",
+        toolset = "14.42.34433",
+        sha256 = "e9bedb5439dfbca94678c7a4a00cc54185b7412c117c2b1568feaaa14bd39187"
+    },
+    ["windows-x64-vc14.37.32822-15dd8adec59f4961bba8b9713c15071c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.37.32822-15dd8adec59f4961bba8b9713c15071c.7z",
+        toolset = "14.37.32822",
+        sha256 = "2077220e6573552c499f070566ad56558c42494c3cee93fad03c406af735a1a3"
+    },
+    ["windows-x64-vc14.29.30133-bd4b9adb9ec8431f99bf10533f0ea496"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-bd4b9adb9ec8431f99bf10533f0ea496.7z",
+        toolset = "14.29.30133",
+        sha256 = "4d62bc3d4d110067f86bec4c059c795b9c65f28c28cf258c9f6c453a3875c7c5"
+    },
     ["windows-x86-vc14.29.30133-31c7386e870a44d78d9d0dc3166fdf30"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-31c7386e870a44d78d9d0dc3166fdf30.7z",
         toolset = "14.29.30133",
         sha256 = "ca496e957857c5d933acf37bee8a943ecb4f1f973f640ce2214ba76bc04c21da"
     },
-    ["windows-x64-vc142-d1a8512dbfe6467c99c2d2699d678b3a"] = {
-        sha256 = "77a2fb59909debc21612c761297a5b07747def6c4ea96da7c2e4ef065b229d62",
+    ["windows-x86-vc14.42.34433-0e50796f273247d496caa856969391b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-0e50796f273247d496caa856969391b6.7z",
+        toolset = "14.42.34433",
+        sha256 = "115de4acec13d05de859ea3c5b8afb9b5ac881e1ed5fa0d2f369cc0d2e2209ab"
+    },
+    ["windows-x64-vc14.42.34433-15dd8adec59f4961bba8b9713c15071c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-15dd8adec59f4961bba8b9713c15071c.7z",
+        toolset = "14.42.34433",
+        sha256 = "a0f1ea0aea0fa67b7ba82414ee9c9a8a6f7b2d7af0911e5e2237843c7028e872"
+    },
+    ["windows-x86-vc14.42.34433-b6a9f9711ba34d6b9ae2bfab09a6eca3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-b6a9f9711ba34d6b9ae2bfab09a6eca3.7z",
+        toolset = "14.42.34433",
+        sha256 = "9c8c130db145a467946e5fd9e81452aa22745f3244bc15b50f502992ceb064a5"
+    },
+    ["windows-x86-vc14.29.30133-bad03304a125429a97ac71190fd24aa5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-bad03304a125429a97ac71190fd24aa5.7z",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-d1a8512dbfe6467c99c2d2699d678b3a.7z"
+        sha256 = "d3626b084468873a58237ce61cc18bb8a6b360a5500b7cc37d3e0084bd805d7f"
+    },
+    ["windows-x86-vc14.29.30133-9d95e982cc354051a4f202dcb0c9dded"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-9d95e982cc354051a4f202dcb0c9dded.7z",
+        toolset = "14.29.30133",
+        sha256 = "8527ac22833c4033c62589368d9a4ecbeccc849d168895c4a3405bb8d3f25851"
+    },
+    ["windows-x64-vc14.42.34433-61f7a550c37a40cfa3b4038e7bee5570"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-61f7a550c37a40cfa3b4038e7bee5570.7z",
+        toolset = "14.42.34433",
+        sha256 = "a3881250bdc7b9c2eb8ea652bc6cd5586b8345ebf5f6517dadd78dde3c1218ab"
+    },
+    ["windows-x86-vc14.42.34433-6264dad231b447dbbd54dc95e280d150"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-6264dad231b447dbbd54dc95e280d150.7z",
+        toolset = "14.42.34433",
+        sha256 = "2ebde2b31b54f3c0faac2c49158ead1d1ad1d35eca133773f3382a679edfc11c"
+    },
+    ["windows-x86-vc14.29.30133-8dc1cf8b4d664eeab2f7fa891befbbb9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-8dc1cf8b4d664eeab2f7fa891befbbb9.7z",
+        toolset = "14.29.30133",
+        sha256 = "45615c0fc6953fd33f7174d8bcfdfee8f35adcf759f6b54d7982fbbd369b4185"
+    },
+    ["windows-x86-vc14.43.34808-b6a9f9711ba34d6b9ae2bfab09a6eca3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.43.34808-b6a9f9711ba34d6b9ae2bfab09a6eca3.7z",
+        toolset = "14.43.34808",
+        sha256 = "c9bb669404fa853201f788d6e2341bf5d664f5e05313faf62bcc88b0693152a4"
+    },
+    ["windows-x86-vc14.43.34808-40eb741680144887b4e25ebaf946243e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.43.34808-40eb741680144887b4e25ebaf946243e.7z",
+        toolset = "14.43.34808",
+        sha256 = "9381627d353f523e5516c00ddb5dca91eafcd7439a1358cc2555f6c8260c2c25"
+    },
+    ["windows-x64-vc14.29.30133-2f84216464cd4b248d68af4ef18c4c74"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-2f84216464cd4b248d68af4ef18c4c74.7z",
+        toolset = "14.29.30133",
+        sha256 = "7ece8ffec6bf4aa7f0c44cc5663ce9d8d1c7e1e034614d215e16dc6c3d389b34"
+    },
+    ["windows-x86-vc14.42.34433-ee1b7088813f428ba74d2d92968a962f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-ee1b7088813f428ba74d2d92968a962f.7z",
+        toolset = "14.42.34433",
+        sha256 = "8deb998665fe6250a70425809b9429ffb8d492e7bfbb28861b641bae4e021010"
+    },
+    ["windows-x86-vc14.43.34808-8dc1cf8b4d664eeab2f7fa891befbbb9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.43.34808-8dc1cf8b4d664eeab2f7fa891befbbb9.7z",
+        toolset = "14.43.34808",
+        sha256 = "d8792265701f43986f6d8cdc44ce831f25f3145cf8f74227bbdc5238490195a4"
+    },
+    ["windows-x86-vc14.29.30133-b6a9f9711ba34d6b9ae2bfab09a6eca3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-b6a9f9711ba34d6b9ae2bfab09a6eca3.7z",
+        toolset = "14.29.30133",
+        sha256 = "903aaae984e0dbd4c6d35ada1d57998f962d871a1cb8d6dac64a8b4cecf4926c"
+    },
+    ["windows-x64-vc14.29.30133-d1a8512dbfe6467c99c2d2699d678b3a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-d1a8512dbfe6467c99c2d2699d678b3a.7z",
+        toolset = "14.29.30133",
+        sha256 = "004f71c21dbe65e9833b502d6c0b511b720042cab36ab52c7feb179bc41c9a6e"
+    },
+    ["windows-x86-vc14.42.34433-8dc1cf8b4d664eeab2f7fa891befbbb9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.42.34433-8dc1cf8b4d664eeab2f7fa891befbbb9.7z",
+        toolset = "14.42.34433",
+        sha256 = "412e5cdbfad463f317fd1c8c26b145286a9fc2e65907f40c1b8370546d069e5a"
+    },
+    ["windows-x86-vc14.29.30133-4aa2315d74404f61b0a0ea70ac2aaaa7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-4aa2315d74404f61b0a0ea70ac2aaaa7.7z",
+        toolset = "14.29.30133",
+        sha256 = "1f1394678a6ec4bd61b3d41e64971fa2d51069197d7850ba091446790fce802e"
+    },
+    ["windows-x64-vc14.29.30133-41c34a5a71a44704985b6b3e0322ffdd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-41c34a5a71a44704985b6b3e0322ffdd.7z",
+        toolset = "14.29.30133",
+        sha256 = "c040abf046881a1b69436f2d8cb08b7f09be0715a8ea6327e96a0210093b0a6d"
+    },
+    ["windows-x86-vc14.37.32822-39cb395655b54a2fb5b5682c8e048aca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-39cb395655b54a2fb5b5682c8e048aca.7z",
+        toolset = "14.37.32822",
+        sha256 = "f219a8ff25d6e6e62ad4532c5f1d437ef8f3c084d1fa33bf77779cdd27601995"
+    },
+    ["windows-x86-vc143-fde74e9a7d094b88b801ce4de1040072"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-fde74e9a7d094b88b801ce4de1040072.7z",
+        sha256 = "4b1736b4534a83fa169cbcd7d790d9a18466d9c007ba05feeb0849d8a749c05b"
+    },
+    ["windows-x64-vc14.29.30133-7745042d415d461bb0dbc80a3d5bc575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-7745042d415d461bb0dbc80a3d5bc575.7z",
+        toolset = "14.29.30133",
+        sha256 = "809b4db960a62e4af5e1d4889fb5d05879b17b2dc5ac840914babc2f84be2c6a"
+    },
+    ["windows-x86-vc14.37.32822-fde74e9a7d094b88b801ce4de1040072"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.37.32822-fde74e9a7d094b88b801ce4de1040072.7z",
+        toolset = "14.37.32822",
+        sha256 = "a6f07fb148ac2c6a3e65bd5ae639e5fcfabe5707170d70a6c142e862c274b25c"
+    },
+    ["windows-x64-vc14.29.30133-c647d689a33f4cc887253bb40dbda0f5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-c647d689a33f4cc887253bb40dbda0f5.7z",
+        toolset = "14.29.30133",
+        sha256 = "00723205b1048fcd2fbe4b0708c7fab22b76872e2587abcf4b87f12b2ef7cdd1"
+    },
+    ["windows-x64-vc143-2f84216464cd4b248d68af4ef18c4c74"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc143-2f84216464cd4b248d68af4ef18c4c74.7z",
+        sha256 = "ccf616c795eac47796f37b2d66d5f0062072a8a4f75bd44af3f3cd301c2d0451"
+    },
+    ["windows-x86-vc14.29.30133-6264dad231b447dbbd54dc95e280d150"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-6264dad231b447dbbd54dc95e280d150.7z",
+        toolset = "14.29.30133",
+        sha256 = "81590ddd76d4fe5a0c0bbb984eeba89236aa68d35ba3eefa0e7e75fa88ef4c4b"
+    },
+    ["windows-x86-vc14.29.30133-ee1b7088813f428ba74d2d92968a962f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-ee1b7088813f428ba74d2d92968a962f.7z",
+        toolset = "14.29.30133",
+        sha256 = "9ecd169d26ce53a5de4ae94c7ad9af03090a2536011f6fe5f56d3fa290a9a849"
+    },
+    ["windows-x64-vc142-d1a8512dbfe6467c99c2d2699d678b3a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc142-d1a8512dbfe6467c99c2d2699d678b3a.7z",
+        sha256 = "77a2fb59909debc21612c761297a5b07747def6c4ea96da7c2e4ef065b229d62"
+    },
+    ["windows-x64-vc14.42.34433-7745042d415d461bb0dbc80a3d5bc575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-7745042d415d461bb0dbc80a3d5bc575.7z",
+        toolset = "14.42.34433",
+        sha256 = "880e2ba0823403f233e95c0b48a93f694fa3ee546c89fe8497150d576a510921"
+    },
+    ["windows-x64-vc14.29.30133-e19cb8361c4d4b42864aaf3ba9a80f15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.29.30133-e19cb8361c4d4b42864aaf3ba9a80f15.7z",
+        toolset = "14.29.30133",
+        sha256 = "49f33bde963c326b20d77bfdc6e86aa6c9ac91f4b8f95983fae2a260a0c2873c"
+    },
+    ["windows-x86-vc143-bad03304a125429a97ac71190fd24aa5"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-bad03304a125429a97ac71190fd24aa5.7z",
+        sha256 = "27b40c407f252bef8549940f9ed9e6ff8b386852a31939e0a0a782fc74f1283f"
+    },
+    ["windows-x64-vc14.42.34433-854d8cfa54e44edcad2d78300fdfe961"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x64-vc14.42.34433-854d8cfa54e44edcad2d78300fdfe961.7z",
+        toolset = "14.42.34433",
+        sha256 = "490d16dbcb7e21f682c09ecb6cdd7827461bea95ebf266c0f86bc71de0af1b89"
+    },
+    ["windows-x86-vc14.29.30133-40eb741680144887b4e25ebaf946243e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc14.29.30133-40eb741680144887b4e25ebaf946243e.7z",
+        toolset = "14.29.30133",
+        sha256 = "0bbd200cb4856aa875623b343e0a1325bb792f39682e76418f687b1bfbc0610f"
+    },
+    ["windows-x86-vc143-39cb395655b54a2fb5b5682c8e048aca"] = {
+        toolset = "14.32.31326",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openscenegraph-3.6.5/windows-x86-vc143-39cb395655b54a2fb5b5682c8e048aca.7z",
+        sha256 = "62445f0635be995e96b765bf29c48b93be4bbc194a862a757924888bec9f7d9f"
     }
 }
