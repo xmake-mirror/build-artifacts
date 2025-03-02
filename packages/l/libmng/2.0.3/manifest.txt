@@ -1,242 +1,282 @@
 {
-    ["windows-x86-vc142-974aebe24937408da87c310f12e445a1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-974aebe24937408da87c310f12e445a1.7z",
-        sha256 = "de22c9a26c3991f0dff0f0a8795e755f4699a09d64280b5d1941253dd997c2f2"
-    },
-    ["windows-x64-vc142-c42754fb6bb64d53bd2cf476fe61235c"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-c42754fb6bb64d53bd2cf476fe61235c.7z",
-        sha256 = "51584227e0943b6ba88c3f3d3e5d5bd1f5620b5ffa915ebeaea72690e8df4c52"
-    },
-    ["windows-x86-vc142-de9ce2decef144e88275e07f92bc8984"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-de9ce2decef144e88275e07f92bc8984.7z",
-        sha256 = "75e744df9fbccf21971a42f9e5bbba0993e0f8b2dfbf726bdf0b4bfff5c07b56"
-    },
-    ["windows-x86-vc142-45bbbf87793a461487475c8475028aa9"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-45bbbf87793a461487475c8475028aa9.7z",
-        sha256 = "0ce45f7e9c33a1b0f5519647c270aac5d33de9eb2c3133a41a643984802f89a9"
-    },
-    ["windows-x86-vc14.29.30133-f2b805b6b6074c069cc919c2cdce1bc3"] = {
-        toolset = "14.29.30133",
-        sha256 = "110d69cb4e1c9a9b3ba355bf84990b35efbf48e43890e66525461a39e41d63cb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-f2b805b6b6074c069cc919c2cdce1bc3.7z"
-    },
-    ["windows-x64-vc14.37.32822-5ac041fdbf0746deaf5503e49d262d91"] = {
-        toolset = "14.37.32822",
-        sha256 = "037afb503aef82ed03f12c49ec41029e3015c903794d08dd1c64e05e74153594",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-5ac041fdbf0746deaf5503e49d262d91.7z"
-    },
-    ["windows-x86-vc141-de9ce2decef144e88275e07f92bc8984"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-de9ce2decef144e88275e07f92bc8984.7z",
-        sha256 = "8b7058397399d8acc41dd0ec5ef18b4d6f6fb24e693d2c92b14aef510c9259e6"
-    },
-    ["windows-x86-vc14.37.32822-640aa480b3be4b79874228724f89ae85"] = {
-        toolset = "14.37.32822",
-        sha256 = "c83ff31339aa087e23fdc65ab76909ce32ef3accbdbf8807147a80a9b42aab54",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-640aa480b3be4b79874228724f89ae85.7z"
-    },
-    ["windows-x64-vc141-5ac041fdbf0746deaf5503e49d262d91"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-5ac041fdbf0746deaf5503e49d262d91.7z",
-        sha256 = "594e775387fb34f2e29a890fb119173f91784301a23f2c6daccd0115506b91d1"
-    },
-    ["windows-x64-vc14.29.30133-7d26965780f247ecbdd89c40dd3800c7"] = {
-        toolset = "14.29.30133",
-        sha256 = "4a9742c794799c42941c57d850fa0500dba6e44b5013f205edd70cb409e3d90e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-7d26965780f247ecbdd89c40dd3800c7.7z"
-    },
-    ["windows-x86-vc14.29.30133-640aa480b3be4b79874228724f89ae85"] = {
-        toolset = "14.29.30133",
-        sha256 = "59c671501ad463d3153503abcdd1c2a75cc54f9534ea6790536084f1c970246e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-640aa480b3be4b79874228724f89ae85.7z"
-    },
-    ["windows-x64-vc142-d25fa42423144db29687ee4a008232e2"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-d25fa42423144db29687ee4a008232e2.7z",
-        sha256 = "bd4d48c28316632a766e3cdca36ba155ab16626c93a93f32a1c8df35d3a9df7e"
-    },
-    ["windows-x86-vc14.41.34120-7f485246478a4a8386cb8c1a582db0ec"] = {
-        toolset = "14.41.34120",
-        sha256 = "802c60b6a265a14f79cd4488261ce71f23c05db9b7e86c78327478e6dcab7ad6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-7f485246478a4a8386cb8c1a582db0ec.7z"
-    },
-    ["windows-x64-vc14.41.34120-c5b43b069e1d455494fde65720e03151"] = {
-        toolset = "14.41.34120",
-        sha256 = "e2598630d79ebe1fe62d98268397b22e1f3947b5137610ec89b27e8ff267d727",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-c5b43b069e1d455494fde65720e03151.7z"
-    },
-    ["windows-x86-vc14.41.34120-31258daa29f24095b7828fa3995120a1"] = {
-        toolset = "14.41.34120",
-        sha256 = "2a589a830581e2788a8b8ced5ffb9dbaa20a14cbddfdf4dadd7d53f4e053d6e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-31258daa29f24095b7828fa3995120a1.7z"
-    },
-    ["windows-x86-vc14.37.32822-45bbbf87793a461487475c8475028aa9"] = {
-        toolset = "14.37.32822",
-        sha256 = "bfadfa46d4f009e20ff1115c6d14944589403559621219a67c5c1cd6edf637e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-45bbbf87793a461487475c8475028aa9.7z"
-    },
-    ["windows-x86-vc14.29.30133-974aebe24937408da87c310f12e445a1"] = {
-        toolset = "14.29.30133",
-        sha256 = "1b16f597e6ee597d89630c7f1fbd662eac0e8eed535a2ab261f2b6afc2d16f0a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-974aebe24937408da87c310f12e445a1.7z"
-    },
-    ["windows-x86-vc14.29.30133-de9ce2decef144e88275e07f92bc8984"] = {
-        toolset = "14.29.30133",
-        sha256 = "654a006c978ffb5b8d23fe597523958e197babde403ef56e44f62e5ae91d37a8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-de9ce2decef144e88275e07f92bc8984.7z"
-    },
-    ["windows-x64-vc141-c42754fb6bb64d53bd2cf476fe61235c"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-c42754fb6bb64d53bd2cf476fe61235c.7z",
-        sha256 = "5c6cf20e73ba9b174c3049b0d602777d792cd21bdedaa40c4803933b37d7b8a7"
-    },
-    ["windows-x64-vc14.41.34120-c8d628574c784676b20c5cd9c5a3e521"] = {
-        toolset = "14.41.34120",
-        sha256 = "a07b316b5b8681fa3e8530121a3966b7d137da9d539a0e92d9b63bbc4204221f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-c8d628574c784676b20c5cd9c5a3e521.7z"
-    },
-    ["windows-x64-vc14.41.34120-ce66a11999b4486b9573b7d02f30ec72"] = {
-        toolset = "14.41.34120",
-        sha256 = "d2cd30d3984a5d956f8e346a0984db4d9a7575bbbfa73c6feeed19c2dabd07e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-ce66a11999b4486b9573b7d02f30ec72.7z"
-    },
-    ["windows-x64-vc141-3c440bd06f16437a96545e2e0e5e2853"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-3c440bd06f16437a96545e2e0e5e2853.7z",
-        sha256 = "e69fa76f5868f560564f355a94150a6b30e8e05c50b991328d2c89689ed4ce48"
-    },
-    ["windows-x86-vc141-640aa480b3be4b79874228724f89ae85"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-640aa480b3be4b79874228724f89ae85.7z",
-        sha256 = "5da9fe8e1d7a021f439d1ba9f9b4346d1f5f179841dcfaf2ca302ad86c4978a0"
-    },
-    ["windows-x86-vc14.29.30133-45bbbf87793a461487475c8475028aa9"] = {
-        toolset = "14.29.30133",
-        sha256 = "b20d24bf365b38ec2ce91df845fdf7107f05e8c9c89e315ca88e8fcd95b3677b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-45bbbf87793a461487475c8475028aa9.7z"
-    },
-    ["windows-x86-vc141-974aebe24937408da87c310f12e445a1"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-974aebe24937408da87c310f12e445a1.7z",
-        sha256 = "cd29a88aa8f8aff9e310431a5a9a3032926b784c9f1e97daac01753a2ea327b4"
-    },
-    ["windows-x64-vc14.29.30133-3c440bd06f16437a96545e2e0e5e2853"] = {
-        toolset = "14.29.30133",
-        sha256 = "4123aa88ef15d06267f0142e1c133bf095acce68f9b8f33157c85c5c840bd410",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-3c440bd06f16437a96545e2e0e5e2853.7z"
-    },
-    ["windows-x64-vc14.29.30133-c5b43b069e1d455494fde65720e03151"] = {
-        toolset = "14.29.30133",
-        sha256 = "1e9cad6ad1c55c421426b6ccbc179350bedc9f0d9d1c9713ed8422553a498045",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-c5b43b069e1d455494fde65720e03151.7z"
-    },
-    ["windows-x64-vc14.37.32822-d25fa42423144db29687ee4a008232e2"] = {
-        toolset = "14.37.32822",
-        sha256 = "5cf17ea2a9b544379928f1bc666d066da98f44bc01abc469a61d9c723a591ace",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-d25fa42423144db29687ee4a008232e2.7z"
-    },
-    ["windows-x86-vc14.29.30133-f5f5911c0c1c4245afd631ddc58dff42"] = {
-        toolset = "14.29.30133",
-        sha256 = "4e562a13b089a145bb1df23ced3ec6b003dfe56a80df308ecf048a6f4aef9c88",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-f5f5911c0c1c4245afd631ddc58dff42.7z"
-    },
-    ["windows-x64-vc14.29.30133-ce66a11999b4486b9573b7d02f30ec72"] = {
-        toolset = "14.29.30133",
-        sha256 = "8cfb0e05bac8e3ad4a7b910618526db6967aedc1d966463cf71e0d1c9acc6522",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-ce66a11999b4486b9573b7d02f30ec72.7z"
-    },
-    ["windows-x64-vc14.37.32822-c42754fb6bb64d53bd2cf476fe61235c"] = {
-        toolset = "14.37.32822",
-        sha256 = "d0257e31410a2548929c177dd55dcaf34619dec56cb8f27905bd7a0e490e22c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-c42754fb6bb64d53bd2cf476fe61235c.7z"
-    },
-    ["windows-x86-vc14.37.32822-de9ce2decef144e88275e07f92bc8984"] = {
-        toolset = "14.37.32822",
-        sha256 = "3726fc1fe3a9b1b9a0d71c0b627fa0ed03b8434af10ef888992bb4eddbc7199b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-de9ce2decef144e88275e07f92bc8984.7z"
-    },
-    ["windows-x64-vc141-d25fa42423144db29687ee4a008232e2"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-d25fa42423144db29687ee4a008232e2.7z",
-        sha256 = "14f23b2b70b26a0a441f3df5c8c2ec968e6ed99fd3b41969a718f26e76d597ba"
+    ["windows-x64-vc14.43.34808-7d26965780f247ecbdd89c40dd3800c7"] = {
+        sha256 = "e74622d3eef20e659d78c130a6d43472b86a7aed44d893a850847fe97622cf3b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.43.34808-7d26965780f247ecbdd89c40dd3800c7.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc142-3c440bd06f16437a96545e2e0e5e2853"] = {
+        sha256 = "3b0aa029cde236d58ef5b551ec7f307ab391ef1b6df13ab92049788df00b814d",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-3c440bd06f16437a96545e2e0e5e2853.7z",
-        sha256 = "3b0aa029cde236d58ef5b551ec7f307ab391ef1b6df13ab92049788df00b814d"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-3c440bd06f16437a96545e2e0e5e2853.7z"
     },
-    ["windows-x86-vc14.37.32822-974aebe24937408da87c310f12e445a1"] = {
-        toolset = "14.37.32822",
-        sha256 = "717d7360fe12d0b2140b9283f6979be1d304bd57db7521568955f3269d460330",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-974aebe24937408da87c310f12e445a1.7z"
+    ["windows-x86-vc14.43.34808-f2b805b6b6074c069cc919c2cdce1bc3"] = {
+        sha256 = "653806255c5d23e30a0a3e78f5dfc96e99e7d5fa71e125e45d30c2781ed7c06d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.43.34808-f2b805b6b6074c069cc919c2cdce1bc3.7z",
+        toolset = "14.43.34808"
     },
-    ["windows-x86-vc14.41.34120-f5f5911c0c1c4245afd631ddc58dff42"] = {
-        toolset = "14.41.34120",
-        sha256 = "f47e0307a229b12e664d0983220c88b2045da4dbab1beaeb7b1ac2533d06d0da",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-f5f5911c0c1c4245afd631ddc58dff42.7z"
+    ["windows-x86-vc14.29.30133-f5f5911c0c1c4245afd631ddc58dff42"] = {
+        sha256 = "4e3c35ab65f4a4dbe53ba39408025f6b45dbb356d8791bf60685e2e415450f48",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-f5f5911c0c1c4245afd631ddc58dff42.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-f2b805b6b6074c069cc919c2cdce1bc3"] = {
+        sha256 = "08f3649f7bda93e4731fa57dc016507461a4b1a5c072c326bb91cf13485ff072",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-f2b805b6b6074c069cc919c2cdce1bc3.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-5ac041fdbf0746deaf5503e49d262d91"] = {
-        toolset = "14.29.30133",
         sha256 = "e69845f00c66e91d22ab57b6982e7b61889f49f3d7e029c42fe26014b0b5aeec",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-5ac041fdbf0746deaf5503e49d262d91.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-5ac041fdbf0746deaf5503e49d262d91.7z",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-c8d628574c784676b20c5cd9c5a3e521"] = {
-        toolset = "14.29.30133",
-        sha256 = "78122ccab4ed424df4c974ccfe3b4fd031e02355a8be1300bb1c23d2e00944a3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-c8d628574c784676b20c5cd9c5a3e521.7z"
-    },
-    ["windows-x64-vc14.29.30133-d25fa42423144db29687ee4a008232e2"] = {
-        toolset = "14.29.30133",
-        sha256 = "d963c68bcfaf6cc95bc160372ee64cdc2f7079e0ae29327a4950f0530b955d06",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-d25fa42423144db29687ee4a008232e2.7z"
-    },
-    ["windows-x64-vc142-5ac041fdbf0746deaf5503e49d262d91"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-5ac041fdbf0746deaf5503e49d262d91.7z",
-        sha256 = "9c443cfd223478743f54918d50e3178494ae0698528690113749b32d9c7d97ab"
-    },
-    ["windows-x86-vc14.29.30133-7f485246478a4a8386cb8c1a582db0ec"] = {
-        toolset = "14.29.30133",
-        sha256 = "d3f284e6ecc83b8fa43875c7bbfb4e0cc350700f14fccfc9a58a37f506e9b688",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-7f485246478a4a8386cb8c1a582db0ec.7z"
-    },
-    ["windows-x86-vc14.29.30133-31258daa29f24095b7828fa3995120a1"] = {
-        toolset = "14.29.30133",
-        sha256 = "11fb334fb2e1475b6369628e3ad876e3b4bd6bc9386382ac3908a86250292597",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-31258daa29f24095b7828fa3995120a1.7z"
-    },
-    ["windows-x86-vc142-640aa480b3be4b79874228724f89ae85"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-640aa480b3be4b79874228724f89ae85.7z",
-        sha256 = "13db9bf1489c59d4d46f222a2ba7130319a8c03812124c70da28467d50e88b7c"
+    ["windows-x64-vc14.29.30133-7d26965780f247ecbdd89c40dd3800c7"] = {
+        sha256 = "c3d6a640fb96278d106e4abec52643fd9c30e878e6b340bec8bb8e22f54c2e52",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-7d26965780f247ecbdd89c40dd3800c7.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc141-45bbbf87793a461487475c8475028aa9"] = {
+        sha256 = "a9f3f47e55076508ed7e24ccfb91ed86517199c3b93add2b8a04cfd5c768f1ad",
         toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-45bbbf87793a461487475c8475028aa9.7z",
-        sha256 = "a9f3f47e55076508ed7e24ccfb91ed86517199c3b93add2b8a04cfd5c768f1ad"
-    },
-    ["windows-x64-vc14.29.30133-c42754fb6bb64d53bd2cf476fe61235c"] = {
-        toolset = "14.29.30133",
-        sha256 = "66566d308e70e97ce0f882922e0ebea0c440962d717ab05c9393c806826b0056",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-c42754fb6bb64d53bd2cf476fe61235c.7z"
-    },
-    ["windows-x64-vc14.41.34120-7d26965780f247ecbdd89c40dd3800c7"] = {
-        toolset = "14.41.34120",
-        sha256 = "c520635cdd39677776342a65e28d58e22999a56739cb070694e5ef1960b08c6d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-7d26965780f247ecbdd89c40dd3800c7.7z"
-    },
-    ["windows-x64-vc14.37.32822-3c440bd06f16437a96545e2e0e5e2853"] = {
-        toolset = "14.37.32822",
-        sha256 = "767e18686aa09b15360902bcc1cf9ef229d4632bab46ba291f70f84a3b4cc06a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-3c440bd06f16437a96545e2e0e5e2853.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-45bbbf87793a461487475c8475028aa9.7z"
     },
     ["windows-x86-vc14.41.34120-f2b805b6b6074c069cc919c2cdce1bc3"] = {
-        toolset = "14.41.34120",
         sha256 = "7b96f607e034072d8947bff4f9d839663991c10c4c33c5867a56b804fc589b5e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-f2b805b6b6074c069cc919c2cdce1bc3.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-f2b805b6b6074c069cc919c2cdce1bc3.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.43.34808-f5f5911c0c1c4245afd631ddc58dff42"] = {
+        sha256 = "d94491ebefa369b8cc7f7efc56b504a2d84bb466cf15b5a8c6476f6e31d7fcf1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.43.34808-f5f5911c0c1c4245afd631ddc58dff42.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-974aebe24937408da87c310f12e445a1"] = {
+        sha256 = "1b16f597e6ee597d89630c7f1fbd662eac0e8eed535a2ab261f2b6afc2d16f0a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-974aebe24937408da87c310f12e445a1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-5ac041fdbf0746deaf5503e49d262d91"] = {
+        sha256 = "037afb503aef82ed03f12c49ec41029e3015c903794d08dd1c64e05e74153594",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-5ac041fdbf0746deaf5503e49d262d91.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc142-974aebe24937408da87c310f12e445a1"] = {
+        sha256 = "de22c9a26c3991f0dff0f0a8795e755f4699a09d64280b5d1941253dd997c2f2",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-974aebe24937408da87c310f12e445a1.7z"
+    },
+    ["windows-x86-vc142-de9ce2decef144e88275e07f92bc8984"] = {
+        sha256 = "75e744df9fbccf21971a42f9e5bbba0993e0f8b2dfbf726bdf0b4bfff5c07b56",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-de9ce2decef144e88275e07f92bc8984.7z"
+    },
+    ["windows-x64-vc14.43.34808-c8d628574c784676b20c5cd9c5a3e521"] = {
+        sha256 = "032548e99a03a6ad90a1b02d41d2f7e3653df08cec288480a7c64426d6d2c367",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.43.34808-c8d628574c784676b20c5cd9c5a3e521.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-de9ce2decef144e88275e07f92bc8984"] = {
+        sha256 = "654a006c978ffb5b8d23fe597523958e197babde403ef56e44f62e5ae91d37a8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-de9ce2decef144e88275e07f92bc8984.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-d25fa42423144db29687ee4a008232e2"] = {
+        sha256 = "bd4d48c28316632a766e3cdca36ba155ab16626c93a93f32a1c8df35d3a9df7e",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-d25fa42423144db29687ee4a008232e2.7z"
+    },
+    ["windows-x86-vc14.41.34120-31258daa29f24095b7828fa3995120a1"] = {
+        sha256 = "2a589a830581e2788a8b8ced5ffb9dbaa20a14cbddfdf4dadd7d53f4e053d6e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-31258daa29f24095b7828fa3995120a1.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc141-640aa480b3be4b79874228724f89ae85"] = {
+        sha256 = "5da9fe8e1d7a021f439d1ba9f9b4346d1f5f179841dcfaf2ca302ad86c4978a0",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-640aa480b3be4b79874228724f89ae85.7z"
+    },
+    ["windows-x64-vc141-3c440bd06f16437a96545e2e0e5e2853"] = {
+        sha256 = "e69fa76f5868f560564f355a94150a6b30e8e05c50b991328d2c89689ed4ce48",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-3c440bd06f16437a96545e2e0e5e2853.7z"
+    },
+    ["windows-x64-vc142-c42754fb6bb64d53bd2cf476fe61235c"] = {
+        sha256 = "51584227e0943b6ba88c3f3d3e5d5bd1f5620b5ffa915ebeaea72690e8df4c52",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-c42754fb6bb64d53bd2cf476fe61235c.7z"
+    },
+    ["windows-x64-vc141-c42754fb6bb64d53bd2cf476fe61235c"] = {
+        sha256 = "5c6cf20e73ba9b174c3049b0d602777d792cd21bdedaa40c4803933b37d7b8a7",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-c42754fb6bb64d53bd2cf476fe61235c.7z"
+    },
+    ["windows-x64-vc141-5ac041fdbf0746deaf5503e49d262d91"] = {
+        sha256 = "594e775387fb34f2e29a890fb119173f91784301a23f2c6daccd0115506b91d1",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-5ac041fdbf0746deaf5503e49d262d91.7z"
+    },
+    ["windows-x86-vc141-de9ce2decef144e88275e07f92bc8984"] = {
+        sha256 = "8b7058397399d8acc41dd0ec5ef18b4d6f6fb24e693d2c92b14aef510c9259e6",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-de9ce2decef144e88275e07f92bc8984.7z"
+    },
+    ["windows-x64-vc14.43.34808-ce66a11999b4486b9573b7d02f30ec72"] = {
+        sha256 = "83031c2e3bedebdad48c51cc1bc006eb0354c1412e67fed35805e7a0f29cecdd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.43.34808-ce66a11999b4486b9573b7d02f30ec72.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.41.34120-c5b43b069e1d455494fde65720e03151"] = {
+        sha256 = "e2598630d79ebe1fe62d98268397b22e1f3947b5137610ec89b27e8ff267d727",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-c5b43b069e1d455494fde65720e03151.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.37.32822-974aebe24937408da87c310f12e445a1"] = {
+        sha256 = "717d7360fe12d0b2140b9283f6979be1d304bd57db7521568955f3269d460330",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-974aebe24937408da87c310f12e445a1.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc142-45bbbf87793a461487475c8475028aa9"] = {
+        sha256 = "0ce45f7e9c33a1b0f5519647c270aac5d33de9eb2c3133a41a643984802f89a9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-45bbbf87793a461487475c8475028aa9.7z"
+    },
+    ["windows-x64-vc14.29.30133-3c440bd06f16437a96545e2e0e5e2853"] = {
+        sha256 = "4123aa88ef15d06267f0142e1c133bf095acce68f9b8f33157c85c5c840bd410",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-3c440bd06f16437a96545e2e0e5e2853.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-f5f5911c0c1c4245afd631ddc58dff42"] = {
+        sha256 = "f47e0307a229b12e664d0983220c88b2045da4dbab1beaeb7b1ac2533d06d0da",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-f5f5911c0c1c4245afd631ddc58dff42.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.37.32822-c42754fb6bb64d53bd2cf476fe61235c"] = {
+        sha256 = "d0257e31410a2548929c177dd55dcaf34619dec56cb8f27905bd7a0e490e22c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-c42754fb6bb64d53bd2cf476fe61235c.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-640aa480b3be4b79874228724f89ae85"] = {
+        sha256 = "c83ff31339aa087e23fdc65ab76909ce32ef3accbdbf8807147a80a9b42aab54",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-640aa480b3be4b79874228724f89ae85.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.43.34808-31258daa29f24095b7828fa3995120a1"] = {
+        sha256 = "767d500fd10d42ec2f4e81f5ca86b5f18a70a9380b579625576c6e18cb943b31",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.43.34808-31258daa29f24095b7828fa3995120a1.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-c5b43b069e1d455494fde65720e03151"] = {
+        sha256 = "45b7ba0c41fdcdc7128085144023f5a860b5df18f3224483aed82ca76e11b185",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.43.34808-c5b43b069e1d455494fde65720e03151.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.41.34120-c8d628574c784676b20c5cd9c5a3e521"] = {
+        sha256 = "a07b316b5b8681fa3e8530121a3966b7d137da9d539a0e92d9b63bbc4204221f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-c8d628574c784676b20c5cd9c5a3e521.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-45bbbf87793a461487475c8475028aa9"] = {
+        sha256 = "b20d24bf365b38ec2ce91df845fdf7107f05e8c9c89e315ca88e8fcd95b3677b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-45bbbf87793a461487475c8475028aa9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-ce66a11999b4486b9573b7d02f30ec72"] = {
+        sha256 = "d2cd30d3984a5d956f8e346a0984db4d9a7575bbbfa73c6feeed19c2dabd07e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-ce66a11999b4486b9573b7d02f30ec72.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc141-974aebe24937408da87c310f12e445a1"] = {
+        sha256 = "cd29a88aa8f8aff9e310431a5a9a3032926b784c9f1e97daac01753a2ea327b4",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc141-974aebe24937408da87c310f12e445a1.7z"
+    },
+    ["windows-x64-vc14.29.30133-c42754fb6bb64d53bd2cf476fe61235c"] = {
+        sha256 = "66566d308e70e97ce0f882922e0ebea0c440962d717ab05c9393c806826b0056",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-c42754fb6bb64d53bd2cf476fe61235c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-640aa480b3be4b79874228724f89ae85"] = {
+        sha256 = "59c671501ad463d3153503abcdd1c2a75cc54f9534ea6790536084f1c970246e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-640aa480b3be4b79874228724f89ae85.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-ce66a11999b4486b9573b7d02f30ec72"] = {
+        sha256 = "7824865fbc4d76807129fecd65a2a40eba2ee39ce52ce085f7c2467d5f2c1f28",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-ce66a11999b4486b9573b7d02f30ec72.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-c5b43b069e1d455494fde65720e03151"] = {
+        sha256 = "65b4c0182506b3737c1574ab4e776d1fb06116a1e0ffddac5adcdbc0940e6be2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-c5b43b069e1d455494fde65720e03151.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-c8d628574c784676b20c5cd9c5a3e521"] = {
+        sha256 = "e854805af1de52c1a92f52d07974b771d2e85ce66a6aea1136b73b047a3647c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-c8d628574c784676b20c5cd9c5a3e521.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-d25fa42423144db29687ee4a008232e2"] = {
+        sha256 = "d963c68bcfaf6cc95bc160372ee64cdc2f7079e0ae29327a4950f0530b955d06",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.29.30133-d25fa42423144db29687ee4a008232e2.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-d25fa42423144db29687ee4a008232e2"] = {
+        sha256 = "5cf17ea2a9b544379928f1bc666d066da98f44bc01abc469a61d9c723a591ace",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-d25fa42423144db29687ee4a008232e2.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-d25fa42423144db29687ee4a008232e2"] = {
+        sha256 = "14f23b2b70b26a0a441f3df5c8c2ec968e6ed99fd3b41969a718f26e76d597ba",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc141-d25fa42423144db29687ee4a008232e2.7z"
+    },
+    ["windows-x64-vc142-5ac041fdbf0746deaf5503e49d262d91"] = {
+        sha256 = "9c443cfd223478743f54918d50e3178494ae0698528690113749b32d9c7d97ab",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc142-5ac041fdbf0746deaf5503e49d262d91.7z"
+    },
+    ["windows-x86-vc14.29.30133-31258daa29f24095b7828fa3995120a1"] = {
+        sha256 = "aa34a96792f076fd690a6a4a40ea690fc8a440f4c750695b2f38796aee081fcd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-31258daa29f24095b7828fa3995120a1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-de9ce2decef144e88275e07f92bc8984"] = {
+        sha256 = "3726fc1fe3a9b1b9a0d71c0b627fa0ed03b8434af10ef888992bb4eddbc7199b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-de9ce2decef144e88275e07f92bc8984.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-7f485246478a4a8386cb8c1a582db0ec"] = {
+        sha256 = "943d584b5626be05b6d04284c453ace82be701f25eb3a16ea715906d4809ddb4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.29.30133-7f485246478a4a8386cb8c1a582db0ec.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-7d26965780f247ecbdd89c40dd3800c7"] = {
+        sha256 = "c520635cdd39677776342a65e28d58e22999a56739cb070694e5ef1960b08c6d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.41.34120-7d26965780f247ecbdd89c40dd3800c7.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.37.32822-45bbbf87793a461487475c8475028aa9"] = {
+        sha256 = "bfadfa46d4f009e20ff1115c6d14944589403559621219a67c5c1cd6edf637e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.37.32822-45bbbf87793a461487475c8475028aa9.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-3c440bd06f16437a96545e2e0e5e2853"] = {
+        sha256 = "767e18686aa09b15360902bcc1cf9ef229d4632bab46ba291f70f84a3b4cc06a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x64-vc14.37.32822-3c440bd06f16437a96545e2e0e5e2853.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.41.34120-7f485246478a4a8386cb8c1a582db0ec"] = {
+        sha256 = "802c60b6a265a14f79cd4488261ce71f23c05db9b7e86c78327478e6dcab7ad6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.41.34120-7f485246478a4a8386cb8c1a582db0ec.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc142-640aa480b3be4b79874228724f89ae85"] = {
+        sha256 = "13db9bf1489c59d4d46f222a2ba7130319a8c03812124c70da28467d50e88b7c",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc142-640aa480b3be4b79874228724f89ae85.7z"
+    },
+    ["windows-x86-vc14.43.34808-7f485246478a4a8386cb8c1a582db0ec"] = {
+        sha256 = "f9b1b3a2c2a9a7eed71a246d03014c2a937bd09cd6396efb3c69ba92db51aac7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libmng-2.0.3/windows-x86-vc14.43.34808-7f485246478a4a8386cb8c1a582db0ec.7z",
+        toolset = "14.43.34808"
     }
 }
