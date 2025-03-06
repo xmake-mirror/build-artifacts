@@ -1,62 +1,82 @@
 {
-    ["windows-x64-vc14.40.33807-ec023419f7da4e608ca09fd28a594a49"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-ec023419f7da4e608ca09fd28a594a49.7z",
-        toolset = "14.40.33807",
-        sha256 = "7a9ded89600ba25857e4aaa175340ba57de6744cf11dc6a5439498c691aff2b8"
-    },
-    ["windows-x64-vc14.29.30133-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
-        toolset = "14.29.30133",
-        sha256 = "b606e533463b76bd08ade0318edd467e3c2950719722263f5c0f8db40736cb99"
+    ["windows-x64-vc14.40.33807-df311043f4ec478b8fdcae606acd18fd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-df311043f4ec478b8fdcae606acd18fd.7z",
+        sha256 = "af31597db4c2e263c34d252fb6f041439b46c4a738d2f8e0d70af1ae19c2a003",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.40.33807-df29eb1bb9e443dea8386d13cf82b0be"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-df29eb1bb9e443dea8386d13cf82b0be.7z",
-        toolset = "14.40.33807",
-        sha256 = "7094664b80b4c14a53f21f78467eb4fe2334c03144ad60ef8b429c4bce0faa9f"
-    },
-    ["windows-x64-vc14.41.34120-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.41.34120-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
-        toolset = "14.41.34120",
-        sha256 = "b4105401ca9bdfde5c62602827cccc1bbba1b24e4106ac7ddfa8f8133e8c3842"
+        sha256 = "7094664b80b4c14a53f21f78467eb4fe2334c03144ad60ef8b429c4bce0faa9f",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.29.30133-df29eb1bb9e443dea8386d13cf82b0be"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-df29eb1bb9e443dea8386d13cf82b0be.7z",
-        toolset = "14.29.30133",
-        sha256 = "57f4fca6221b96ec2f435226ef05dd7e239cd4f1d5120e8578075f659fade0c3"
+        sha256 = "da58bd5d7d322b8861eb3d4e4be4bc682ddfc8318cf6d7d372e94a68e0b98575",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.41.34120-df311043f4ec478b8fdcae606acd18fd"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.41.34120-df311043f4ec478b8fdcae606acd18fd.7z",
-        toolset = "14.41.34120",
-        sha256 = "befb48c9f5c1b43e64877676476729be9883f3b82edb4a1058d5af6de9bd0e70"
+        sha256 = "befb48c9f5c1b43e64877676476729be9883f3b82edb4a1058d5af6de9bd0e70",
+        toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.29.30133-df311043f4ec478b8fdcae606acd18fd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-df311043f4ec478b8fdcae606acd18fd.7z",
-        toolset = "14.29.30133",
-        sha256 = "2d2f70e1f5f9f33d0f2d4bc6763ea30b2fc0d5e36c7df39664b9483b049069ee"
-    },
-    ["windows-x64-vc14.40.33807-df311043f4ec478b8fdcae606acd18fd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-df311043f4ec478b8fdcae606acd18fd.7z",
-        toolset = "14.40.33807",
-        sha256 = "af31597db4c2e263c34d252fb6f041439b46c4a738d2f8e0d70af1ae19c2a003"
-    },
-    ["windows-x64-vc14.40.33807-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
-        toolset = "14.40.33807",
-        sha256 = "ed2dd9496b118da1cd74d3d2053b2fd57e362ef1611a92895b07525a26ef91e0"
-    },
-    ["windows-x64-vc14.29.30133-ec023419f7da4e608ca09fd28a594a49"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-ec023419f7da4e608ca09fd28a594a49.7z",
-        toolset = "14.29.30133",
-        sha256 = "7fc10a5dfe36b2b94db86c4e39ef611955d56db192c1d98f8282153b29488f55"
-    },
-    ["windows-x64-vc14.41.34120-df29eb1bb9e443dea8386d13cf82b0be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.41.34120-df29eb1bb9e443dea8386d13cf82b0be.7z",
-        toolset = "14.41.34120",
-        sha256 = "c9655866fbac487155cd492adbe1842d8d5562f9db1a2ac3baece54fdcba8198"
+    ["windows-x64-vc14.40.33807-ec023419f7da4e608ca09fd28a594a49"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-ec023419f7da4e608ca09fd28a594a49.7z",
+        sha256 = "7a9ded89600ba25857e4aaa175340ba57de6744cf11dc6a5439498c691aff2b8",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.41.34120-ec023419f7da4e608ca09fd28a594a49"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.41.34120-ec023419f7da4e608ca09fd28a594a49.7z",
-        toolset = "14.41.34120",
-        sha256 = "898a4204f0ec820ee5eba8e5a835dcc86258d343eefd3aa406354d1f3bd830de"
+        sha256 = "898a4204f0ec820ee5eba8e5a835dcc86258d343eefd3aa406354d1f3bd830de",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
+        sha256 = "b436412d9d82cce0857599ab97a735c5ce67822f5a6f44239545a8ab703ee92c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-ec023419f7da4e608ca09fd28a594a49"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.43.34808-ec023419f7da4e608ca09fd28a594a49.7z",
+        sha256 = "5d160e36be5a2434cc9e07ad9f782fdbf7c88e5b1e8c8df71a1c8f952a43c600",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-ec023419f7da4e608ca09fd28a594a49"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-ec023419f7da4e608ca09fd28a594a49.7z",
+        sha256 = "990124d55c290db897a28a6b14253122e13c582e20de277f88b17e2665e4cb3b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-df29eb1bb9e443dea8386d13cf82b0be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.41.34120-df29eb1bb9e443dea8386d13cf82b0be.7z",
+        sha256 = "c9655866fbac487155cd492adbe1842d8d5562f9db1a2ac3baece54fdcba8198",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-df311043f4ec478b8fdcae606acd18fd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.29.30133-df311043f4ec478b8fdcae606acd18fd.7z",
+        sha256 = "3f7dfd95b370648f0dc488130a3f8e92e2ee64cc1eff66ec01ff97ac26f5dda6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-df311043f4ec478b8fdcae606acd18fd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.43.34808-df311043f4ec478b8fdcae606acd18fd.7z",
+        sha256 = "c971a2f05c51bc4057d7ec820b09559f6cba692bfde6a2138d3fd65571820354",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.41.34120-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.41.34120-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
+        sha256 = "b4105401ca9bdfde5c62602827cccc1bbba1b24e4106ac7ddfa8f8133e8c3842",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.40.33807-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.40.33807-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
+        sha256 = "ed2dd9496b118da1cd74d3d2053b2fd57e362ef1611a92895b07525a26ef91e0",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.43.34808-c3ffbf9e37264af586cdf2bf39ff79cb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.43.34808-c3ffbf9e37264af586cdf2bf39ff79cb.7z",
+        sha256 = "1e9119e70cc94f545026baf0fe8abf0f5417a171d629de59c64fed281131b3ec",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-df29eb1bb9e443dea8386d13cf82b0be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fastgltf-v0.8.0/windows-x64-vc14.43.34808-df29eb1bb9e443dea8386d13cf82b0be.7z",
+        sha256 = "5c7546ac8e28404223a284a69b4f55d478d39f7bf3f68213e75603d6051dd8b9",
+        toolset = "14.43.34808"
     }
 }
