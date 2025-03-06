@@ -1,282 +1,322 @@
 {
-    ["windows-x64-vc143-25373a7a406f4d26b6964db23e5444db"] = {
-        sha256 = "c71b15ddd624eefb054f0a684de6f0af27fc89349a3cc5fb54c7cf906447674c",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-25373a7a406f4d26b6964db23e5444db.7z"
+    ["windows-x86-vc14.41.34120-62b70a11e27a4371a0ca2ba2c4bb3720"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-62b70a11e27a4371a0ca2ba2c4bb3720.7z",
+        sha256 = "28625153f7661de6f25e067ab71baea891171ac976e3df9d7ffa8704439d8536",
+        toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-2c1816a4af7444e29779e68a28871e50"] = {
-        sha256 = "b138e6be89789e82756fdbc17089ca4a7ed3eedcdd96555a6149a5a87f69b14a",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-2c1816a4af7444e29779e68a28871e50.7z"
+    ["windows-x86-vc14.29.30133-b7ff7cc4f7aa451eac2b7cf22225a0e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-b7ff7cc4f7aa451eac2b7cf22225a0e8.7z",
+        sha256 = "244e8978dc1cb7d17310fb4e49ed427b491a191e9997a1d9695b871860ace64a",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.29.30133-b918abab79c04749ba8b220ab08bfbb8"] = {
-        sha256 = "f085841998d96332b93df9ea51dc9edce033c67426e3134ebf9e1b7c29a29e3a",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-b918abab79c04749ba8b220ab08bfbb8.7z"
-    },
-    ["windows-x86-vc143-aca5ae5b334e45109dac91c1d1ad125e"] = {
-        sha256 = "9d6801c8a272b5efeb31c4a700e87e735c189e7a249c8837d9bc9d27ea2acbda",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-aca5ae5b334e45109dac91c1d1ad125e.7z"
-    },
-    ["windows-x86-vc14.40.33807-c8b7eafe07a14bc5a88ab4303336267f"] = {
-        sha256 = "cd183885089f45deeffaad1bc57c393e111dc1903a64ede734ce48a604cab73c",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-c8b7eafe07a14bc5a88ab4303336267f.7z"
-    },
-    ["windows-x64-vc142-12ee2ada1b004564a20924c0825767c8"] = {
-        sha256 = "1ab4816a4ebae877f5cade35eedb492abded4ee1fcb0cee8b1ecd395471c9477",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc142-12ee2ada1b004564a20924c0825767c8.7z"
-    },
-    ["windows-x64-vc14.29.30133-16e202c6b70a4c698c1f99a71504997c"] = {
-        sha256 = "d94327671f2031fe0c0ef11a9771b631cd11ba3fd3b29ea56f481320338d4246",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-16e202c6b70a4c698c1f99a71504997c.7z"
-    },
-    ["windows-x64-vc14.29.30133-138bc0c901074cf19f0ae8510a6597dc"] = {
-        sha256 = "46e051e051cc78430fb3ff9cd18b4e62adbe31aa64172105d2c22b06fc742b81",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-138bc0c901074cf19f0ae8510a6597dc.7z"
-    },
-    ["windows-x86-vc14.39.33519-d34a3a5ee236421388e4a39226c94bc0"] = {
-        sha256 = "d78e632ddb608bc42b6ba72e5d54dd1daea709599ca8dd589d85ed0749518748",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-d34a3a5ee236421388e4a39226c94bc0.7z"
-    },
-    ["windows-x86-vc14.40.33807-d34a3a5ee236421388e4a39226c94bc0"] = {
-        sha256 = "21e953781c9732b101cf685093308ab92784856e6cbfe64e8a76d89e0483589a",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-d34a3a5ee236421388e4a39226c94bc0.7z"
-    },
-    ["windows-x86-vc14.29.30133-7f9c34a3aa0c488e9e26b0f407591870"] = {
-        sha256 = "5940cc9e2f5c78869fdc323ace8e4aa3cd1fbdcaa1c57478ae23f201906e5c9f",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-7f9c34a3aa0c488e9e26b0f407591870.7z"
+    ["windows-x64-vc14.43.34808-ed548fd63c8445a19e259f702369b748"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.43.34808-ed548fd63c8445a19e259f702369b748.7z",
+        sha256 = "534dbc780403c30d0421ebac13de121155c37d213cb92972de8ed918b3811413",
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc142-25373a7a406f4d26b6964db23e5444db"] = {
         sha256 = "15f37cbad19c3afcd5ac16bb8018d9c82565f5a1d1dfcf4603b24a188e416927",
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc142-25373a7a406f4d26b6964db23e5444db.7z"
     },
-    ["windows-x64-vc14.39.33519-6f1b8e3045cc49a3adebbc7d3deb13ff"] = {
-        sha256 = "9875ffcbd4a2b7e1de370117ebf9e9ff7ca170fbf696046f1494f76caf756860",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-6f1b8e3045cc49a3adebbc7d3deb13ff.7z"
-    },
-    ["windows-x64-vc14.39.33519-16e202c6b70a4c698c1f99a71504997c"] = {
-        sha256 = "d1a3a83f344e7b56fcca293bd9e9106387f06d9a9cad79c5fd7ed805f27acc40",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-16e202c6b70a4c698c1f99a71504997c.7z"
-    },
-    ["windows-x64-vc14.40.33807-448ec8b4c5b148659e98e7e10af19db5"] = {
-        sha256 = "dfc49875caa6d072805f49a555d78cbdd86a9891b207ba807d45c7d4d6cc5d89",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-448ec8b4c5b148659e98e7e10af19db5.7z"
-    },
-    ["windows-x64-vc14.29.30133-6f1b8e3045cc49a3adebbc7d3deb13ff"] = {
-        sha256 = "852f2bd2c30849f4eff570c38ddced4c0bec30b65e606d8308f1f5239d8665d6",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-6f1b8e3045cc49a3adebbc7d3deb13ff.7z"
-    },
-    ["windows-x64-vc142-629edabb4424402687b62f4734a18beb"] = {
-        sha256 = "be5c7aba1412d0d614e64621ee7e2c4bb9f0ee8877178fb217f8582ba0779ac3",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc142-629edabb4424402687b62f4734a18beb.7z"
-    },
-    ["windows-x86-vc143-4007ade41c5e4602a1a27647462cc066"] = {
-        sha256 = "4e2fd8b5cd5977659aca90498e75243cd7963b97a4e2950d304a823d21c109a3",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-4007ade41c5e4602a1a27647462cc066.7z"
-    },
-    ["windows-x64-vc14.41.34120-ed548fd63c8445a19e259f702369b748"] = {
-        sha256 = "bc0b5871a6675262256846d79fa8ba96cce1ac021c421db5f2771b0a4e34de2c",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-ed548fd63c8445a19e259f702369b748.7z"
-    },
-    ["windows-x86-vc143-c8d3b2be115944b9ae264c8ea69bdccd"] = {
-        sha256 = "f3bb653d16ec756f4760d2fdeb8d5f3441ee9e5a61848e2163a709a4945c00f3",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-c8d3b2be115944b9ae264c8ea69bdccd.7z"
-    },
-    ["windows-x86-vc14.29.30133-c8b7eafe07a14bc5a88ab4303336267f"] = {
-        sha256 = "df059c7501c7a6c52ed38d716b469de13af635e89333c29a8d860608026f7485",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-c8b7eafe07a14bc5a88ab4303336267f.7z"
-    },
-    ["windows-x86-vc14.40.33807-ec7b2fb170f5409c8b28d98032339f12"] = {
-        sha256 = "3dc6a5acd46a57a06c78f667cebde9e842ad53cb3bc2966b1296659804e0ee95",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-ec7b2fb170f5409c8b28d98032339f12.7z"
-    },
-    ["windows-x86-vc14.41.34120-62b70a11e27a4371a0ca2ba2c4bb3720"] = {
-        sha256 = "28625153f7661de6f25e067ab71baea891171ac976e3df9d7ffa8704439d8536",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-62b70a11e27a4371a0ca2ba2c4bb3720.7z"
-    },
-    ["windows-x64-vc14.29.30133-448ec8b4c5b148659e98e7e10af19db5"] = {
-        sha256 = "dc3685c9fabbb329a61829c7069e03fac98df0215f2cf881808ebcf7e6c47934",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-448ec8b4c5b148659e98e7e10af19db5.7z"
-    },
-    ["windows-x86-vc142-aca5ae5b334e45109dac91c1d1ad125e"] = {
-        sha256 = "bff32d405f29689d26d2736a7ea821cbf8c9239a846689d628d59ac292c4ff7d",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-aca5ae5b334e45109dac91c1d1ad125e.7z"
-    },
-    ["windows-x86-vc14.29.30133-d34a3a5ee236421388e4a39226c94bc0"] = {
-        sha256 = "202a0051013d60282403e5e0fb96ce1d4835c0b29665c5596e04980b3f8914f4",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-d34a3a5ee236421388e4a39226c94bc0.7z"
-    },
-    ["windows-x64-vc14.40.33807-6f1b8e3045cc49a3adebbc7d3deb13ff"] = {
-        sha256 = "56fc9be2a25c48729b2962810e7f7587ac2905d4ae07ac25de23e3fc1800c2e9",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-6f1b8e3045cc49a3adebbc7d3deb13ff.7z"
-    },
-    ["windows-x64-vc143-629edabb4424402687b62f4734a18beb"] = {
-        sha256 = "ab84b848b53abab09e4d12ece3bffe3c2f84a8ef5e4159bb1529b0420d0b7f09",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-629edabb4424402687b62f4734a18beb.7z"
-    },
-    ["windows-x64-vc14.29.30133-d134e486d3894366b4b1f01a316e8523"] = {
-        sha256 = "45201801917f1a039f84568db159fee2306f49cc1c814e9f7905b433aa6aa916",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-d134e486d3894366b4b1f01a316e8523.7z"
-    },
-    ["windows-x86-vc14.39.33519-c8b7eafe07a14bc5a88ab4303336267f"] = {
-        sha256 = "15fa78d0caa9bfea08a64878732f1f51b2ff340279a9c888af41100f4cfa2672",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-c8b7eafe07a14bc5a88ab4303336267f.7z"
-    },
-    ["windows-x64-vc143-d58ee23747ff411aae74b40986460499"] = {
-        sha256 = "659dc26ffce0ed79f46b8124c5bb59cf92be6b3f717a83fd48481ec653a2fd6f",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-d58ee23747ff411aae74b40986460499.7z"
-    },
-    ["windows-x86-vc14.40.33807-2c1816a4af7444e29779e68a28871e50"] = {
-        sha256 = "45fd8ddb1600104c2fc6c18ad0d477fb05a6267ba9084ea96dd0a518a365a282",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-2c1816a4af7444e29779e68a28871e50.7z"
-    },
-    ["windows-x64-vc14.41.34120-b918abab79c04749ba8b220ab08bfbb8"] = {
-        sha256 = "24d0f641c9d33247e7849281cdc7eefa64eab8870b8ed4f65ab44db471f798c5",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-b918abab79c04749ba8b220ab08bfbb8.7z"
+    ["windows-x64-vc14.40.33807-d134e486d3894366b4b1f01a316e8523"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-d134e486d3894366b4b1f01a316e8523.7z",
+        sha256 = "9a55f6ce9fb31c022fd8e15d444764ac371897caa45a630491ae519a3110220d",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc142-d58ee23747ff411aae74b40986460499"] = {
         sha256 = "5a36241db61fe0b283b99b7ea3a0ce94e46e72463de16d12cf7d229c9389447e",
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc142-d58ee23747ff411aae74b40986460499.7z"
     },
-    ["windows-x64-vc14.41.34120-3ae31589c1074275ace8f29736af4d09"] = {
-        sha256 = "9f39541f31fdd31dff9d90c7155bbbb616d2940b00f3f5c9df06c4c7b23832e3",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-3ae31589c1074275ace8f29736af4d09.7z"
+    ["windows-x86-vc14.40.33807-c8b7eafe07a14bc5a88ab4303336267f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-c8b7eafe07a14bc5a88ab4303336267f.7z",
+        sha256 = "cd183885089f45deeffaad1bc57c393e111dc1903a64ede734ce48a604cab73c",
+        toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.29.30133-3ae31589c1074275ace8f29736af4d09"] = {
-        sha256 = "ecd4ecc10ccfcb218df65415db8abe5617b91c10d6d1ce2b0cc14c3b3f4113f2",
+    ["windows-x86-vc14.43.34808-b7ff7cc4f7aa451eac2b7cf22225a0e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.43.34808-b7ff7cc4f7aa451eac2b7cf22225a0e8.7z",
+        sha256 = "f1431e263d4d9b32d621000ada76092542b93ebd6b64d5f4458b440903afd908",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc142-12ee2ada1b004564a20924c0825767c8"] = {
+        sha256 = "1ab4816a4ebae877f5cade35eedb492abded4ee1fcb0cee8b1ecd395471c9477",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-3ae31589c1074275ace8f29736af4d09.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc142-12ee2ada1b004564a20924c0825767c8.7z"
     },
-    ["windows-x64-vc14.41.34120-138bc0c901074cf19f0ae8510a6597dc"] = {
-        sha256 = "9bcb6793a4ec2fb89ad9790e628d482913d66353233e9eb867f7e3d88f6e2c4b",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-138bc0c901074cf19f0ae8510a6597dc.7z"
-    },
-    ["windows-x64-vc14.40.33807-16e202c6b70a4c698c1f99a71504997c"] = {
-        sha256 = "bc5cab7fb807c3ad9bc61205fe350d2e6ad726443ed0f346c97921d74a51ac60",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-16e202c6b70a4c698c1f99a71504997c.7z"
-    },
-    ["windows-x86-vc14.39.33519-ec7b2fb170f5409c8b28d98032339f12"] = {
-        sha256 = "cf43a09c7f89e4f77533f049b9cd22c8f69ef3e49a6d067a957536a323e8831d",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-ec7b2fb170f5409c8b28d98032339f12.7z"
-    },
-    ["windows-x86-vc142-c8d3b2be115944b9ae264c8ea69bdccd"] = {
-        sha256 = "2fbf530fa6831aa1e11fb49c70c18ece447fad3e9c059a6926212cf646c570fa",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-c8d3b2be115944b9ae264c8ea69bdccd.7z"
-    },
-    ["windows-x86-vc142-4007ade41c5e4602a1a27647462cc066"] = {
-        sha256 = "efe37012af7213b4d274abab4da27c77b9ea67a5b34cd426d04489c9428cd0df",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-4007ade41c5e4602a1a27647462cc066.7z"
-    },
-    ["windows-x86-vc14.41.34120-b7ff7cc4f7aa451eac2b7cf22225a0e8"] = {
-        sha256 = "bd1b0bc1def8107e16e5df5220ee4b185a1fc6d464ca92cc88314a549c64f35f",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-b7ff7cc4f7aa451eac2b7cf22225a0e8.7z"
-    },
-    ["windows-x64-vc143-12ee2ada1b004564a20924c0825767c8"] = {
-        sha256 = "3f8fcd1b4c0ee8200f5214d62de9bdf0ed960027a4dc182e8808de6f900f18c5",
-        toolset = "14.33.31629",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-12ee2ada1b004564a20924c0825767c8.7z"
-    },
-    ["windows-x64-vc14.39.33519-448ec8b4c5b148659e98e7e10af19db5"] = {
-        sha256 = "95e9c275234a184bee882b6d8195e96f1f82b78deaeaa526e6b4e94df57626c8",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-448ec8b4c5b148659e98e7e10af19db5.7z"
-    },
-    ["windows-x64-vc14.39.33519-d134e486d3894366b4b1f01a316e8523"] = {
-        sha256 = "4fbf8ac1d6e8012e87414a0c83b44e461f0f6d43aade3b8f976fd6a4e77cfbf9",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-d134e486d3894366b4b1f01a316e8523.7z"
-    },
-    ["windows-x86-vc14.41.34120-4d787df6797040b69e75c7ec8c5ee680"] = {
-        sha256 = "452d9b6aa19e8b5072f3a26ec8061ce54a769fc66dedc225585739ba86b06bc5",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-4d787df6797040b69e75c7ec8c5ee680.7z"
-    },
-    ["windows-x86-vc14.39.33519-2c1816a4af7444e29779e68a28871e50"] = {
-        sha256 = "c941691a4937b39a451d530f7dbbd872e98e0e59b9facf378b14cbdc43187fa3",
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-2c1816a4af7444e29779e68a28871e50.7z"
-    },
-    ["windows-x86-vc14.29.30133-ec7b2fb170f5409c8b28d98032339f12"] = {
-        sha256 = "044f5aa38318d482f07769a04f600de6951daec488bc5a1bd46678f38e4620c3",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-ec7b2fb170f5409c8b28d98032339f12.7z"
-    },
-    ["windows-x86-vc142-4d07a257d6ec41b6afb6ee5ccd101bc9"] = {
-        sha256 = "bd88bded30b5d771bed7ab1ab999fcff14aedaece6041a9734afc7c07da4cfe5",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-4d07a257d6ec41b6afb6ee5ccd101bc9.7z"
-    },
-    ["windows-x64-vc14.40.33807-d134e486d3894366b4b1f01a316e8523"] = {
-        sha256 = "9a55f6ce9fb31c022fd8e15d444764ac371897caa45a630491ae519a3110220d",
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-d134e486d3894366b4b1f01a316e8523.7z"
-    },
-    ["windows-x86-vc14.29.30133-4d787df6797040b69e75c7ec8c5ee680"] = {
-        sha256 = "f5de1772815f3198931302b51b5229f5aa832f198f175e064eedc4befcc147bb",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-4d787df6797040b69e75c7ec8c5ee680.7z"
+    ["windows-x64-vc14.43.34808-b918abab79c04749ba8b220ab08bfbb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.43.34808-b918abab79c04749ba8b220ab08bfbb8.7z",
+        sha256 = "81f654dc39e041086372a3e9d3085730ef801b5f078a86dcbc0929f25ecc17aa",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc143-4d07a257d6ec41b6afb6ee5ccd101bc9"] = {
         sha256 = "de1492548637959bf0b64bb49bc6492dd611df81829f836c0d7f4fc65312ce59",
         toolset = "14.33.31629",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-4d07a257d6ec41b6afb6ee5ccd101bc9.7z"
     },
-    ["windows-x64-vc14.29.30133-ed548fd63c8445a19e259f702369b748"] = {
-        sha256 = "2e1d054e9840ed41a5e375416d85273454875e485a286061c5f28551b3bd0b56",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-ed548fd63c8445a19e259f702369b748.7z"
+    ["windows-x86-vc14.43.34808-62b70a11e27a4371a0ca2ba2c4bb3720"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.43.34808-62b70a11e27a4371a0ca2ba2c4bb3720.7z",
+        sha256 = "7d6d1aa7a1b7a26be9cf866f4a14b531d87c4214e9b99705ed46074cdf26e395",
+        toolset = "14.43.34808"
     },
-    ["windows-x86-vc14.29.30133-b7ff7cc4f7aa451eac2b7cf22225a0e8"] = {
-        sha256 = "2a2567a18e621136a4618182142693592aa82778f13cd08ca91b21fd2cad1c01",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-b7ff7cc4f7aa451eac2b7cf22225a0e8.7z"
+    ["windows-x86-vc143-c8d3b2be115944b9ae264c8ea69bdccd"] = {
+        sha256 = "f3bb653d16ec756f4760d2fdeb8d5f3441ee9e5a61848e2163a709a4945c00f3",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-c8d3b2be115944b9ae264c8ea69bdccd.7z"
     },
-    ["windows-x86-vc14.29.30133-62b70a11e27a4371a0ca2ba2c4bb3720"] = {
-        sha256 = "897a16a7372b1fb81c8f962b77b4888a40b88e6b8d9d37e25ac429884dc4de37",
+    ["windows-x86-vc143-4007ade41c5e4602a1a27647462cc066"] = {
+        sha256 = "4e2fd8b5cd5977659aca90498e75243cd7963b97a4e2950d304a823d21c109a3",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-4007ade41c5e4602a1a27647462cc066.7z"
+    },
+    ["windows-x86-vc142-aca5ae5b334e45109dac91c1d1ad125e"] = {
+        sha256 = "bff32d405f29689d26d2736a7ea821cbf8c9239a846689d628d59ac292c4ff7d",
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-62b70a11e27a4371a0ca2ba2c4bb3720.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-aca5ae5b334e45109dac91c1d1ad125e.7z"
+    },
+    ["windows-x64-vc14.41.34120-3ae31589c1074275ace8f29736af4d09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-3ae31589c1074275ace8f29736af4d09.7z",
+        sha256 = "9f39541f31fdd31dff9d90c7155bbbb616d2940b00f3f5c9df06c4c7b23832e3",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-4d787df6797040b69e75c7ec8c5ee680"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-4d787df6797040b69e75c7ec8c5ee680.7z",
+        sha256 = "452d9b6aa19e8b5072f3a26ec8061ce54a769fc66dedc225585739ba86b06bc5",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-d34a3a5ee236421388e4a39226c94bc0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-d34a3a5ee236421388e4a39226c94bc0.7z",
+        sha256 = "202a0051013d60282403e5e0fb96ce1d4835c0b29665c5596e04980b3f8914f4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-4007ade41c5e4602a1a27647462cc066"] = {
+        sha256 = "efe37012af7213b4d274abab4da27c77b9ea67a5b34cd426d04489c9428cd0df",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-4007ade41c5e4602a1a27647462cc066.7z"
+    },
+    ["windows-x64-vc14.29.30133-b918abab79c04749ba8b220ab08bfbb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-b918abab79c04749ba8b220ab08bfbb8.7z",
+        sha256 = "9a26de683fdaa719bd65516733ec12e421e84af6bb5984eb8d0605cbb04fc8d6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-448ec8b4c5b148659e98e7e10af19db5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-448ec8b4c5b148659e98e7e10af19db5.7z",
+        sha256 = "95e9c275234a184bee882b6d8195e96f1f82b78deaeaa526e6b4e94df57626c8",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.43.34808-4d787df6797040b69e75c7ec8c5ee680"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.43.34808-4d787df6797040b69e75c7ec8c5ee680.7z",
+        sha256 = "6e5463919a617ca0910295b4abacf4ca2a3fa6d7fb74f19357e34709a06e281a",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.41.34120-7f9c34a3aa0c488e9e26b0f407591870"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-7f9c34a3aa0c488e9e26b0f407591870.7z",
         sha256 = "2bc63a83c5afd542e441d1f552f317493a6c212b635648ea7ea81cfbdbf04aba",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-7f9c34a3aa0c488e9e26b0f407591870.7z"
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc142-629edabb4424402687b62f4734a18beb"] = {
+        sha256 = "be5c7aba1412d0d614e64621ee7e2c4bb9f0ee8877178fb217f8582ba0779ac3",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc142-629edabb4424402687b62f4734a18beb.7z"
+    },
+    ["windows-x86-vc14.40.33807-d34a3a5ee236421388e4a39226c94bc0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-d34a3a5ee236421388e4a39226c94bc0.7z",
+        sha256 = "21e953781c9732b101cf685093308ab92784856e6cbfe64e8a76d89e0483589a",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-2c1816a4af7444e29779e68a28871e50"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-2c1816a4af7444e29779e68a28871e50.7z",
+        sha256 = "45fd8ddb1600104c2fc6c18ad0d477fb05a6267ba9084ea96dd0a518a365a282",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-16e202c6b70a4c698c1f99a71504997c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-16e202c6b70a4c698c1f99a71504997c.7z",
+        sha256 = "bc5cab7fb807c3ad9bc61205fe350d2e6ad726443ed0f346c97921d74a51ac60",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.39.33519-c8b7eafe07a14bc5a88ab4303336267f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-c8b7eafe07a14bc5a88ab4303336267f.7z",
+        sha256 = "15fa78d0caa9bfea08a64878732f1f51b2ff340279a9c888af41100f4cfa2672",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-4d787df6797040b69e75c7ec8c5ee680"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-4d787df6797040b69e75c7ec8c5ee680.7z",
+        sha256 = "3bd59c5f1e155a438bfccd86c655d084d19155ff0bc1d71de722e9ed83f40751",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-6f1b8e3045cc49a3adebbc7d3deb13ff"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-6f1b8e3045cc49a3adebbc7d3deb13ff.7z",
+        sha256 = "9875ffcbd4a2b7e1de370117ebf9e9ff7ca170fbf696046f1494f76caf756860",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-6f1b8e3045cc49a3adebbc7d3deb13ff"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-6f1b8e3045cc49a3adebbc7d3deb13ff.7z",
+        sha256 = "852f2bd2c30849f4eff570c38ddced4c0bec30b65e606d8308f1f5239d8665d6",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-2c1816a4af7444e29779e68a28871e50"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-2c1816a4af7444e29779e68a28871e50.7z",
+        sha256 = "b138e6be89789e82756fdbc17089ca4a7ed3eedcdd96555a6149a5a87f69b14a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-3ae31589c1074275ace8f29736af4d09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.43.34808-3ae31589c1074275ace8f29736af4d09.7z",
+        sha256 = "687c1198024aa7cf537c02f1e7b037be5909507f85d3a565c3a5b20d0de2f98a",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-3ae31589c1074275ace8f29736af4d09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-3ae31589c1074275ace8f29736af4d09.7z",
+        sha256 = "37dc3bed719331eb68bcf863faeb4aa96a50c06cafb2418b0eea3afaf2b191e5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-ec7b2fb170f5409c8b28d98032339f12"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-ec7b2fb170f5409c8b28d98032339f12.7z",
+        sha256 = "044f5aa38318d482f07769a04f600de6951daec488bc5a1bd46678f38e4620c3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-b7ff7cc4f7aa451eac2b7cf22225a0e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.41.34120-b7ff7cc4f7aa451eac2b7cf22225a0e8.7z",
+        sha256 = "bd1b0bc1def8107e16e5df5220ee4b185a1fc6d464ca92cc88314a549c64f35f",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.39.33519-ec7b2fb170f5409c8b28d98032339f12"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-ec7b2fb170f5409c8b28d98032339f12.7z",
+        sha256 = "cf43a09c7f89e4f77533f049b9cd22c8f69ef3e49a6d067a957536a323e8831d",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc142-4d07a257d6ec41b6afb6ee5ccd101bc9"] = {
+        sha256 = "bd88bded30b5d771bed7ab1ab999fcff14aedaece6041a9734afc7c07da4cfe5",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-4d07a257d6ec41b6afb6ee5ccd101bc9.7z"
+    },
+    ["windows-x86-vc14.40.33807-ec7b2fb170f5409c8b28d98032339f12"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.40.33807-ec7b2fb170f5409c8b28d98032339f12.7z",
+        sha256 = "3dc6a5acd46a57a06c78f667cebde9e842ad53cb3bc2966b1296659804e0ee95",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.41.34120-b918abab79c04749ba8b220ab08bfbb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-b918abab79c04749ba8b220ab08bfbb8.7z",
+        sha256 = "24d0f641c9d33247e7849281cdc7eefa64eab8870b8ed4f65ab44db471f798c5",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-62b70a11e27a4371a0ca2ba2c4bb3720"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-62b70a11e27a4371a0ca2ba2c4bb3720.7z",
+        sha256 = "dc1360018cded0f256bf7602471e1804b2153e9151757ecf23f8a10600de8fbe",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-16e202c6b70a4c698c1f99a71504997c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-16e202c6b70a4c698c1f99a71504997c.7z",
+        sha256 = "d94327671f2031fe0c0ef11a9771b631cd11ba3fd3b29ea56f481320338d4246",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-448ec8b4c5b148659e98e7e10af19db5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-448ec8b4c5b148659e98e7e10af19db5.7z",
+        sha256 = "dc3685c9fabbb329a61829c7069e03fac98df0215f2cf881808ebcf7e6c47934",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-138bc0c901074cf19f0ae8510a6597dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-138bc0c901074cf19f0ae8510a6597dc.7z",
+        sha256 = "9bcb6793a4ec2fb89ad9790e628d482913d66353233e9eb867f7e3d88f6e2c4b",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.40.33807-6f1b8e3045cc49a3adebbc7d3deb13ff"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-6f1b8e3045cc49a3adebbc7d3deb13ff.7z",
+        sha256 = "56fc9be2a25c48729b2962810e7f7587ac2905d4ae07ac25de23e3fc1800c2e9",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-7f9c34a3aa0c488e9e26b0f407591870"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-7f9c34a3aa0c488e9e26b0f407591870.7z",
+        sha256 = "ec00becf2ea22a4c34b805bd15d42dc9709a63edbfd8d6644602362806bb8199",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-c8d3b2be115944b9ae264c8ea69bdccd"] = {
+        sha256 = "2fbf530fa6831aa1e11fb49c70c18ece447fad3e9c059a6926212cf646c570fa",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc142-c8d3b2be115944b9ae264c8ea69bdccd.7z"
+    },
+    ["windows-x64-vc14.39.33519-16e202c6b70a4c698c1f99a71504997c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-16e202c6b70a4c698c1f99a71504997c.7z",
+        sha256 = "d1a3a83f344e7b56fcca293bd9e9106387f06d9a9cad79c5fd7ed805f27acc40",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.29.30133-c8b7eafe07a14bc5a88ab4303336267f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.29.30133-c8b7eafe07a14bc5a88ab4303336267f.7z",
+        sha256 = "df059c7501c7a6c52ed38d716b469de13af635e89333c29a8d860608026f7485",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc143-12ee2ada1b004564a20924c0825767c8"] = {
+        sha256 = "3f8fcd1b4c0ee8200f5214d62de9bdf0ed960027a4dc182e8808de6f900f18c5",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-12ee2ada1b004564a20924c0825767c8.7z"
+    },
+    ["windows-x86-vc14.39.33519-d34a3a5ee236421388e4a39226c94bc0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-d34a3a5ee236421388e4a39226c94bc0.7z",
+        sha256 = "d78e632ddb608bc42b6ba72e5d54dd1daea709599ca8dd589d85ed0749518748",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-d134e486d3894366b4b1f01a316e8523"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-d134e486d3894366b4b1f01a316e8523.7z",
+        sha256 = "45201801917f1a039f84568db159fee2306f49cc1c814e9f7905b433aa6aa916",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-ed548fd63c8445a19e259f702369b748"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-ed548fd63c8445a19e259f702369b748.7z",
+        sha256 = "3b5385e3a04a611c02d11418bd8c28caad2633502eeb21447a23fced2f25c9ca",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc143-aca5ae5b334e45109dac91c1d1ad125e"] = {
+        sha256 = "9d6801c8a272b5efeb31c4a700e87e735c189e7a249c8837d9bc9d27ea2acbda",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc143-aca5ae5b334e45109dac91c1d1ad125e.7z"
+    },
+    ["windows-x86-vc14.39.33519-2c1816a4af7444e29779e68a28871e50"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.39.33519-2c1816a4af7444e29779e68a28871e50.7z",
+        sha256 = "c941691a4937b39a451d530f7dbbd872e98e0e59b9facf378b14cbdc43187fa3",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-138bc0c901074cf19f0ae8510a6597dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.29.30133-138bc0c901074cf19f0ae8510a6597dc.7z",
+        sha256 = "cecb0f1c5e82a98119fe6b24c491ca0fc05435f28a1c9b5b66a1415addede84e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-7f9c34a3aa0c488e9e26b0f407591870"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x86-vc14.43.34808-7f9c34a3aa0c488e9e26b0f407591870.7z",
+        sha256 = "f60ee7771b78124b197362469914140a4070d0743f99a880a0631bb739505b2b",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.39.33519-d134e486d3894366b4b1f01a316e8523"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.39.33519-d134e486d3894366b4b1f01a316e8523.7z",
+        sha256 = "4fbf8ac1d6e8012e87414a0c83b44e461f0f6d43aade3b8f976fd6a4e77cfbf9",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.40.33807-448ec8b4c5b148659e98e7e10af19db5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.40.33807-448ec8b4c5b148659e98e7e10af19db5.7z",
+        sha256 = "dfc49875caa6d072805f49a555d78cbdd86a9891b207ba807d45c7d4d6cc5d89",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc143-25373a7a406f4d26b6964db23e5444db"] = {
+        sha256 = "c71b15ddd624eefb054f0a684de6f0af27fc89349a3cc5fb54c7cf906447674c",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-25373a7a406f4d26b6964db23e5444db.7z"
+    },
+    ["windows-x64-vc143-629edabb4424402687b62f4734a18beb"] = {
+        sha256 = "ab84b848b53abab09e4d12ece3bffe3c2f84a8ef5e4159bb1529b0420d0b7f09",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-629edabb4424402687b62f4734a18beb.7z"
+    },
+    ["windows-x64-vc14.41.34120-ed548fd63c8445a19e259f702369b748"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.41.34120-ed548fd63c8445a19e259f702369b748.7z",
+        sha256 = "bc0b5871a6675262256846d79fa8ba96cce1ac021c421db5f2771b0a4e34de2c",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.43.34808-138bc0c901074cf19f0ae8510a6597dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc14.43.34808-138bc0c901074cf19f0ae8510a6597dc.7z",
+        sha256 = "8f5e87d8847f9404b97da457a08a7bbfd029c364a073a6b0a2bd3caf7276ceed",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc143-d58ee23747ff411aae74b40986460499"] = {
+        sha256 = "659dc26ffce0ed79f46b8124c5bb59cf92be6b3f717a83fd48481ec653a2fd6f",
+        toolset = "14.33.31629",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glad-v0.1.36/windows-x64-vc143-d58ee23747ff411aae74b40986460499.7z"
     }
 }
