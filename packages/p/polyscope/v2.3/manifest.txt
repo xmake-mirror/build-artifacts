@@ -1,6 +1,11 @@
 {
+    ["windows-x64-vc14.41.34120-31bba481bd5c4405827edb865f4b746d"] = {
+        sha256 = "309f95fab85815da0b2388a14279708a352a5871b625dc3cc4f6b9470950b6c1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.41.34120-31bba481bd5c4405827edb865f4b746d.7z",
+        toolset = "14.41.34120"
+    },
     ["windows-x64-vc14.29.30133-31bba481bd5c4405827edb865f4b746d"] = {
-        sha256 = "ef2912ab94ae488209acba24425e6e7391b8ac42d6fb91c8be48e94a0a8f1b9a",
+        sha256 = "f7de84a531bbba2916e2bc0504cfc824eba08850d90aff96d4c45eb3237a73f5",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.29.30133-31bba481bd5c4405827edb865f4b746d.7z",
         toolset = "14.29.30133"
     },
@@ -9,20 +14,25 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.41.34120-7be7234307274499b40befa471bc1384.7z",
         toolset = "14.41.34120"
     },
+    ["windows-x64-vc14.43.34808-31bba481bd5c4405827edb865f4b746d"] = {
+        sha256 = "a312c5b7f54c34b66f9493983c754fa98d10e226f8e1b5657aa1824448bbd970",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.43.34808-31bba481bd5c4405827edb865f4b746d.7z",
+        toolset = "14.43.34808"
+    },
     ["windows-x86-vc14.42.34433-f7fb668eb87b40448f37af2a8f959711"] = {
         sha256 = "e86327b92144171145b2dd98e3ae4fe261ce87647e2d71f184583e7b483304b7",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.42.34433-f7fb668eb87b40448f37af2a8f959711.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x64-vc14.41.34120-d656e077fa48412fae55c3a9230eb0b2"] = {
-        sha256 = "d64b2d3b10086fb1bae2662d906cb5c15ea17f9f6db02c8a8f5783a5078fd1b2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.41.34120-d656e077fa48412fae55c3a9230eb0b2.7z",
-        toolset = "14.41.34120"
+    ["windows-x86-vc14.29.30133-7be7234307274499b40befa471bc1384"] = {
+        sha256 = "2eca0b23c95a775deb9bd957142578df824adfaa05ab37f15cf5aa59a52d2682",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.29.30133-7be7234307274499b40befa471bc1384.7z",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.41.34120-31bba481bd5c4405827edb865f4b746d"] = {
-        sha256 = "309f95fab85815da0b2388a14279708a352a5871b625dc3cc4f6b9470950b6c1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.41.34120-31bba481bd5c4405827edb865f4b746d.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.29.30133-d656e077fa48412fae55c3a9230eb0b2"] = {
+        sha256 = "1ad22baf54162bb0e4918ff7c4be8a64ba6c818e7bc0fc786da67ff2d48428b6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.29.30133-d656e077fa48412fae55c3a9230eb0b2.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.42.34433-d656e077fa48412fae55c3a9230eb0b2"] = {
         sha256 = "4b94bff63f9e4c763df0cfd5bb05cb94b9cdcab43f89a518bc27196f208e4312",
@@ -34,29 +44,39 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.41.34120-f7fb668eb87b40448f37af2a8f959711.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-f7fb668eb87b40448f37af2a8f959711"] = {
-        sha256 = "bb745533390b132905c43bb42f47388c04c664b756b1dc6f2e577a5e4d6a4d34",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.29.30133-f7fb668eb87b40448f37af2a8f959711.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.43.34808-7be7234307274499b40befa471bc1384"] = {
+        sha256 = "25f3b431a77ef400e1821f70d07ad366dd364b2996247cbbd9978c2a3195eeb3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.43.34808-7be7234307274499b40befa471bc1384.7z",
+        toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.29.30133-d656e077fa48412fae55c3a9230eb0b2"] = {
-        sha256 = "7a7c7c12b671c20c2fb623c1cfff6e9b9b1c2ed35e7e605f9f5d3a773bc020ad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.29.30133-d656e077fa48412fae55c3a9230eb0b2.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.43.34808-f7fb668eb87b40448f37af2a8f959711"] = {
+        sha256 = "b74d4e0a517e540a56faf321cce7f28b7e337681603c185e0e09239eb263b4a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.43.34808-f7fb668eb87b40448f37af2a8f959711.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc14.42.34433-31bba481bd5c4405827edb865f4b746d"] = {
         sha256 = "ae642be706f67397bda6eb58e203d0e07090f5becec0eaf40ddb7429beca1d4d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.42.34433-31bba481bd5c4405827edb865f4b746d.7z",
         toolset = "14.42.34433"
     },
+    ["windows-x86-vc14.29.30133-f7fb668eb87b40448f37af2a8f959711"] = {
+        sha256 = "ec016433d1e8b6c75409e3a25490ce952fe765a2fc01196598fb6e35e55927ec",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.29.30133-f7fb668eb87b40448f37af2a8f959711.7z",
+        toolset = "14.29.30133"
+    },
     ["windows-x86-vc14.42.34433-7be7234307274499b40befa471bc1384"] = {
         sha256 = "163f9d9d458d9293ad9a0ca3cc6d6d0b5fa0105a0181485aeeccef6d11f20d69",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.42.34433-7be7234307274499b40befa471bc1384.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x86-vc14.29.30133-7be7234307274499b40befa471bc1384"] = {
-        sha256 = "6e7a1f1b2bb387a853bbcb9b37ac811458d9deeff50e4d42e287b0d19cbcd64a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x86-vc14.29.30133-7be7234307274499b40befa471bc1384.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.41.34120-d656e077fa48412fae55c3a9230eb0b2"] = {
+        sha256 = "d64b2d3b10086fb1bae2662d906cb5c15ea17f9f6db02c8a8f5783a5078fd1b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.41.34120-d656e077fa48412fae55c3a9230eb0b2.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.43.34808-d656e077fa48412fae55c3a9230eb0b2"] = {
+        sha256 = "25fd0f07832cd2b5476129d2d0f25846e59298ceb15b54942a80f8b41854b181",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/polyscope-v2.3/windows-x64-vc14.43.34808-d656e077fa48412fae55c3a9230eb0b2.7z",
+        toolset = "14.43.34808"
     }
 }
