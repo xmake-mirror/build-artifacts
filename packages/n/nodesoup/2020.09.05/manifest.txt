@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc142-fae28a33093248349b3ba73e8a6e97ad"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-fae28a33093248349b3ba73e8a6e97ad.7z",
-        sha256 = "28e3bb2369e8d8bc7b53968c5c7d5199ee3ba215f545347bc83dc2d065f5fa30",
-        toolset = "14.29.30037"
-    },
-    ["windows-x64-vc141-9f995c7984d34a24a4ab6d0b96ae443e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-9f995c7984d34a24a4ab6d0b96ae443e.7z",
-        sha256 = "05d3cfd5f36b5144029dbb10ec348d1d9821ca6cfe5e098c205b3e0c831c7c1b",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-0445e1923d9045c380f678d9e18f69c1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-0445e1923d9045c380f678d9e18f69c1.7z",
-        sha256 = "b92525c1220b1e3135b0325f3d04fea63908581edcb491a21306bef08fad13a3",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc142-0445e1923d9045c380f678d9e18f69c1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-0445e1923d9045c380f678d9e18f69c1.7z",
-        sha256 = "639b04ebd5d3dec06a4be7662be1b8b7343b8b6ee1aedc085a446c5f824bb147",
-        toolset = "14.29.30037"
-    },
-    ["windows-x64-vc141-912587fa97144b30a972f62319bd14bc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-912587fa97144b30a972f62319bd14bc.7z",
-        sha256 = "21be0a42f5ff13b4605f8dcd7b70010892c4366a21aaf5115ed6a0c97b62551d",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc141-fae28a33093248349b3ba73e8a6e97ad"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-fae28a33093248349b3ba73e8a6e97ad.7z",
-        sha256 = "eef68685dd5a512f2a6c0b099b675a74ac7434309e15f475940043bde4d962cf",
-        toolset = "14.16.27023"
+    ["windows-x86-vc14.29.30133-6772a969a9834fbe800732b0c4adad8a"] = {
+        sha256 = "4a7c0f3e238809f5efc45b10069a1cadfce13fbe53c883cd718da151605ff01b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.29.30133-6772a969a9834fbe800732b0c4adad8a.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc142-9f995c7984d34a24a4ab6d0b96ae443e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-9f995c7984d34a24a4ab6d0b96ae443e.7z",
         sha256 = "2c6b76ce5fa0e9cd5356c439af34d09b560511005028cbbb837f8dc72501bf8e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-9f995c7984d34a24a4ab6d0b96ae443e.7z",
         toolset = "14.29.30037"
     },
-    ["windows-x64-vc142-912587fa97144b30a972f62319bd14bc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-912587fa97144b30a972f62319bd14bc.7z",
-        sha256 = "a8690a1971d9742d26dc8dc256d9762c414e8286b2c441fadb36ba0094ff011f",
-        toolset = "14.29.30037"
-    },
-    ["windows-x86-vc141-4ba0f382b35b4ea0a275e1e80211326f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-4ba0f382b35b4ea0a275e1e80211326f.7z",
-        sha256 = "2262fcf5cff2ea0a5556e06f4f6265bad79108830458073d845685fa85dde7f5",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-4d2f12bb4ffb4ad6ad65a7790294d50a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-4d2f12bb4ffb4ad6ad65a7790294d50a.7z",
-        sha256 = "382c0a1b243a0615e91f95e0db2e3acb11ed4161c47d6571d02ea694a8ca1dc6",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc141-758f8495a9234065bd95a12fee6db927"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-758f8495a9234065bd95a12fee6db927.7z",
-        sha256 = "9f4432e65614a448a948c7775d9e82bff94df39d2085ee395ea47b0d5f225fd9",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-758f8495a9234065bd95a12fee6db927"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-758f8495a9234065bd95a12fee6db927.7z",
-        sha256 = "c55b8fcf1aa6d3e8aec2e27a2ab03f2202c7531da92ebeaaa9a2c9889322eceb",
+    ["windows-x64-vc142-fae28a33093248349b3ba73e8a6e97ad"] = {
+        sha256 = "28e3bb2369e8d8bc7b53968c5c7d5199ee3ba215f545347bc83dc2d065f5fa30",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-fae28a33093248349b3ba73e8a6e97ad.7z",
         toolset = "14.29.30037"
     },
     ["windows-x86-vc142-82274dbb8290486692c2ed8ccf7b799c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-82274dbb8290486692c2ed8ccf7b799c.7z",
         sha256 = "fc328229ada95b5971d327399b542c9cbb42d66345eb28aa7386bd40755fbc93",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-82274dbb8290486692c2ed8ccf7b799c.7z",
         toolset = "14.29.30037"
     },
-    ["windows-x86-vc142-4d2f12bb4ffb4ad6ad65a7790294d50a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-4d2f12bb4ffb4ad6ad65a7790294d50a.7z",
-        sha256 = "4c83adca2b32c46c58c355a0307a88af36856f70b3285dff6f5142ebaf088016",
-        toolset = "14.29.30037"
+    ["windows-x64-vc141-fae28a33093248349b3ba73e8a6e97ad"] = {
+        sha256 = "eef68685dd5a512f2a6c0b099b675a74ac7434309e15f475940043bde4d962cf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-fae28a33093248349b3ba73e8a6e97ad.7z",
+        toolset = "14.16.27023"
     },
-    ["windows-x86-vc142-4ba0f382b35b4ea0a275e1e80211326f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-4ba0f382b35b4ea0a275e1e80211326f.7z",
-        sha256 = "cce5120c573bd0858c8904f7305829c9c3ad2df6139b83b29aa83305544081eb",
-        toolset = "14.29.30037"
+    ["windows-x64-vc14.43.34808-50c29a2db8bc40c99f366995459262c5"] = {
+        sha256 = "cb4cdcf106fec910493aa938bf4ea01511a67114e3de573c07bba2df281c45d2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.43.34808-50c29a2db8bc40c99f366995459262c5.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc141-82274dbb8290486692c2ed8ccf7b799c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-82274dbb8290486692c2ed8ccf7b799c.7z",
         sha256 = "f7607d1bfc7174b8a198a7b5491517f868a2035892475fae9701445ed1f729ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-82274dbb8290486692c2ed8ccf7b799c.7z",
         toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.29.30133-50c29a2db8bc40c99f366995459262c5"] = {
+        sha256 = "2c4328cf5961b0eeb3c48dad970c7528401e9594ceeae0740cafd50aaa805942",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.29.30133-50c29a2db8bc40c99f366995459262c5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-376e8ee9ea234dc0b72a699304135033"] = {
+        sha256 = "f13c5e20c24881ce22ebd6986e96f147fb11ad0a59715515d8a3d8937d7f778b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.43.34808-376e8ee9ea234dc0b72a699304135033.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc141-4ba0f382b35b4ea0a275e1e80211326f"] = {
+        sha256 = "2262fcf5cff2ea0a5556e06f4f6265bad79108830458073d845685fa85dde7f5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-4ba0f382b35b4ea0a275e1e80211326f.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc14.43.34808-d2acc43b3069472e917ea9cd238e6d79"] = {
+        sha256 = "d55578b1cafde3ea8916da76f02288d99a305221ded23a8df986a6bdaa926eae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.43.34808-d2acc43b3069472e917ea9cd238e6d79.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-4268f4ed7f3d4bf9a538ede4e7174782"] = {
+        sha256 = "04ac16352d7c81e5fb2fb4ec7b4ea7376cacfe88cb3011a5238233d282a2bee2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.43.34808-4268f4ed7f3d4bf9a538ede4e7174782.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc141-4d2f12bb4ffb4ad6ad65a7790294d50a"] = {
+        sha256 = "382c0a1b243a0615e91f95e0db2e3acb11ed4161c47d6571d02ea694a8ca1dc6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-4d2f12bb4ffb4ad6ad65a7790294d50a.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-912587fa97144b30a972f62319bd14bc"] = {
+        sha256 = "21be0a42f5ff13b4605f8dcd7b70010892c4366a21aaf5115ed6a0c97b62551d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-912587fa97144b30a972f62319bd14bc.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-4d2f12bb4ffb4ad6ad65a7790294d50a"] = {
+        sha256 = "4c83adca2b32c46c58c355a0307a88af36856f70b3285dff6f5142ebaf088016",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-4d2f12bb4ffb4ad6ad65a7790294d50a.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x86-vc14.29.30133-376e8ee9ea234dc0b72a699304135033"] = {
+        sha256 = "17348b4cd4ed260210ee6a1fa80d100f92409fbcf8e11682aed4b6b3df7bef69",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.29.30133-376e8ee9ea234dc0b72a699304135033.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-a39eaa466de14414b9824fcbbc1476f2"] = {
+        sha256 = "0a157b4f74eb23473756fb1c2b92afbd111dc54791469a4acf44a28e81493cbb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.29.30133-a39eaa466de14414b9824fcbbc1476f2.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-a39eaa466de14414b9824fcbbc1476f2"] = {
+        sha256 = "ca3e910d79df35608c4ab684ea06b7bd041104897e401508db4a887de15b4a44",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.43.34808-a39eaa466de14414b9824fcbbc1476f2.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-bf893ffff9f8493aab6ae6c9f5296be5"] = {
+        sha256 = "7b08808654f07aa015d6911c5357caf75c3ef4de93152f3e65c01e592cbf100a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.43.34808-bf893ffff9f8493aab6ae6c9f5296be5.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc142-4ba0f382b35b4ea0a275e1e80211326f"] = {
+        sha256 = "cce5120c573bd0858c8904f7305829c9c3ad2df6139b83b29aa83305544081eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-4ba0f382b35b4ea0a275e1e80211326f.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x64-vc14.29.30133-4268f4ed7f3d4bf9a538ede4e7174782"] = {
+        sha256 = "5074b9ffbbaa9e5dd3983610ccc0604c41e1a04228deb69cac98de9ab73aaf90",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.29.30133-4268f4ed7f3d4bf9a538ede4e7174782.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-912587fa97144b30a972f62319bd14bc"] = {
+        sha256 = "a8690a1971d9742d26dc8dc256d9762c414e8286b2c441fadb36ba0094ff011f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-912587fa97144b30a972f62319bd14bc.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x64-vc14.29.30133-b4153ba2b0644484b1b304cb78191267"] = {
+        sha256 = "279b3450c50ebd6baedc23e7e877f5ef61e51a414399b5f0a1fcaad5b1936c24",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.29.30133-b4153ba2b0644484b1b304cb78191267.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-b4153ba2b0644484b1b304cb78191267"] = {
+        sha256 = "fbc8256c77c742006892dfa640f4957c49549bc49bbfa5c6ef68e129bb28cf3a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.43.34808-b4153ba2b0644484b1b304cb78191267.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-d2acc43b3069472e917ea9cd238e6d79"] = {
+        sha256 = "67015313829b2efb6bbef4779b77eca5fee3512dcdf38a33eca5bc52f64e236a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.29.30133-d2acc43b3069472e917ea9cd238e6d79.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-758f8495a9234065bd95a12fee6db927"] = {
+        sha256 = "c55b8fcf1aa6d3e8aec2e27a2ab03f2202c7531da92ebeaaa9a2c9889322eceb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc142-758f8495a9234065bd95a12fee6db927.7z",
+        toolset = "14.29.30037"
+    },
+    ["windows-x64-vc14.29.30133-bf893ffff9f8493aab6ae6c9f5296be5"] = {
+        sha256 = "4845c94c48656969ee53758e5f37169583c184826025df84c4f4926944376d54",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc14.29.30133-bf893ffff9f8493aab6ae6c9f5296be5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-0445e1923d9045c380f678d9e18f69c1"] = {
+        sha256 = "b92525c1220b1e3135b0325f3d04fea63908581edcb491a21306bef08fad13a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-0445e1923d9045c380f678d9e18f69c1.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc141-758f8495a9234065bd95a12fee6db927"] = {
+        sha256 = "9f4432e65614a448a948c7775d9e82bff94df39d2085ee395ea47b0d5f225fd9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc141-758f8495a9234065bd95a12fee6db927.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc14.43.34808-6772a969a9834fbe800732b0c4adad8a"] = {
+        sha256 = "f7ab46f54d4611385c873f78f13beb629a0e0d0826af2683d3dec9a5befe2591",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x86-vc14.43.34808-6772a969a9834fbe800732b0c4adad8a.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc141-9f995c7984d34a24a4ab6d0b96ae443e"] = {
+        sha256 = "05d3cfd5f36b5144029dbb10ec348d1d9821ca6cfe5e098c205b3e0c831c7c1b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc141-9f995c7984d34a24a4ab6d0b96ae443e.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-0445e1923d9045c380f678d9e18f69c1"] = {
+        sha256 = "639b04ebd5d3dec06a4be7662be1b8b7343b8b6ee1aedc085a446c5f824bb147",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nodesoup-2020.09.05/windows-x64-vc142-0445e1923d9045c380f678d9e18f69c1.7z",
+        toolset = "14.29.30037"
     }
 }
