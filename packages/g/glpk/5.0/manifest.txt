@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-c4966934009f4abeae4c0f4bd50977c6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.29.30133-c4966934009f4abeae4c0f4bd50977c6.7z",
-        sha256 = "b015049744da210f9eaa22c96300fbb3699a18b50cc63fcfb95bea09b28af73e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-0719895f94c1443faade5f1926f5596a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-0719895f94c1443faade5f1926f5596a.7z",
-        sha256 = "24bdd47cdae15089001972ce4648e71d18d14a50780872c4e4252b6cb10043d1",
-        toolset = "14.37.32822"
-    },
     ["windows-x64-vc14.37.32822-c9ec71a7b10c4f72828255d834d698d5"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-c9ec71a7b10c4f72828255d834d698d5.7z",
-        sha256 = "a8869122b38300da18ba19ed4c98b6a7b4d8779ff3fc22eb267ecd79c8efcd52",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-20185693bb7949d8b96aa4c1bca6e459"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-20185693bb7949d8b96aa4c1bca6e459.7z",
-        sha256 = "47f09c40d02ade787112cf0155dbba27749780742e25a1a1241e3baf9aedd522",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-6db41e0910ae429089cb67d3aac3d159"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.29.30133-6db41e0910ae429089cb67d3aac3d159.7z",
-        sha256 = "35abd7329fc34ec2744bbfe7edc44d3f31ac20f61c94683334d69b6075cc376c",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-99ad1d3a6a6b4e7e99bbc2959fcb275b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-99ad1d3a6a6b4e7e99bbc2959fcb275b.7z",
-        sha256 = "e2567d99a0b862c46623167800ae4d345a2866d8d58688b1e38a9c323b6e5733",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-0b8ae3bfe0f140a5a97b43dd53023ed3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-0b8ae3bfe0f140a5a97b43dd53023ed3.7z",
-        sha256 = "4f3f56454596d80e5d0e29f7e27ba3bc458b7ccee0af0a2235ebb50d39853a13",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-c4966934009f4abeae4c0f4bd50977c6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-c4966934009f4abeae4c0f4bd50977c6.7z",
-        sha256 = "bfe4372bd126d442769ea09a07efda3de1857043dd3a6f35f69cde63212113d2",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-99ad1d3a6a6b4e7e99bbc2959fcb275b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-99ad1d3a6a6b4e7e99bbc2959fcb275b.7z",
-        sha256 = "628b705f28861a99684ad8bab7069927cd0f8b209e1b636d4b6d1b7e3b08d02c",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        sha256 = "a8869122b38300da18ba19ed4c98b6a7b4d8779ff3fc22eb267ecd79c8efcd52"
     },
     ["windows-x64-vc14.29.30133-c9ec71a7b10c4f72828255d834d698d5"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.29.30133-c9ec71a7b10c4f72828255d834d698d5.7z",
-        sha256 = "7c87d9906e6191fb2ee22fb1a715ca6ad0036f6241c3fd2d4949ef5e70e626f2",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "e3b66720aa1f330a2c1b23e4655b4ccf6b70f29a44d740e3b981515bdfde7e4b"
     },
-    ["windows-x64-vc14.37.32822-6db41e0910ae429089cb67d3aac3d159"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-6db41e0910ae429089cb67d3aac3d159.7z",
-        sha256 = "3149a99f8c1c7bf7a5ab13f30e198d8d55177a2abf28b0b3239a2f0ae67dacb9",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.43.34808-0b8ae3bfe0f140a5a97b43dd53023ed3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.43.34808-0b8ae3bfe0f140a5a97b43dd53023ed3.7z",
+        toolset = "14.43.34808",
+        sha256 = "cde349992128a79e0ea0a0fdafcd85cdbe34d7f0fd8c4ac02ff9cedd089dd806"
     },
-    ["windows-x86-vc14.37.32822-20185693bb7949d8b96aa4c1bca6e459"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-20185693bb7949d8b96aa4c1bca6e459.7z",
-        sha256 = "8b3ab521e3f310245827bb18a8b6608ffc1bc8f069279588c3f382faf7975aca",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.43.34808-20185693bb7949d8b96aa4c1bca6e459"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.43.34808-20185693bb7949d8b96aa4c1bca6e459.7z",
+        toolset = "14.43.34808",
+        sha256 = "61e54aeef8d248b3c05c153e61dc9d27236a7c40615342f876c85dd0c0899350"
+    },
+    ["windows-x86-vc14.43.34808-9ead5713a123449d8ff67ef0dbb1bfaa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.43.34808-9ead5713a123449d8ff67ef0dbb1bfaa.7z",
+        toolset = "14.43.34808",
+        sha256 = "9d3701232df607079ac600538f1d6727c415fe47ff0d58c8933fc84ada0e7ab2"
     },
     ["windows-x86-vc14.29.30133-0719895f94c1443faade5f1926f5596a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-0719895f94c1443faade5f1926f5596a.7z",
-        sha256 = "c8dbf73fdcb593d455023bde4829fd4ece48ec37b478328219c9df09a14b3c0c",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "e4c4876f3a657712720fdb9c8ac1c788166ab81f2ce07a901a72437ec0578704"
     },
-    ["windows-x86-vc14.37.32822-9ead5713a123449d8ff67ef0dbb1bfaa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-9ead5713a123449d8ff67ef0dbb1bfaa.7z",
-        sha256 = "cf2717fe00ae2b5e240981a883ae5ce955e673a71318977c6d65f2b53a8874f9",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.43.34808-99ad1d3a6a6b4e7e99bbc2959fcb275b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.43.34808-99ad1d3a6a6b4e7e99bbc2959fcb275b.7z",
+        toolset = "14.43.34808",
+        sha256 = "d7fb19868d320e1a2fd59212ca790bf510d4e15178c5ab42f59fb5a93b8bd8e6"
     },
-    ["windows-x86-vc14.29.30133-9ead5713a123449d8ff67ef0dbb1bfaa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-9ead5713a123449d8ff67ef0dbb1bfaa.7z",
-        sha256 = "0f3c63fb51eb82e42a5015e78f416442495c3b89c1c5ac41832ab0602234eae4",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.37.32822-0b8ae3bfe0f140a5a97b43dd53023ed3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-0b8ae3bfe0f140a5a97b43dd53023ed3.7z",
+        toolset = "14.37.32822",
+        sha256 = "4f3f56454596d80e5d0e29f7e27ba3bc458b7ccee0af0a2235ebb50d39853a13"
+    },
+    ["windows-x64-vc14.37.32822-6db41e0910ae429089cb67d3aac3d159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-6db41e0910ae429089cb67d3aac3d159.7z",
+        toolset = "14.37.32822",
+        sha256 = "3149a99f8c1c7bf7a5ab13f30e198d8d55177a2abf28b0b3239a2f0ae67dacb9"
+    },
+    ["windows-x86-vc14.37.32822-20185693bb7949d8b96aa4c1bca6e459"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-20185693bb7949d8b96aa4c1bca6e459.7z",
+        toolset = "14.37.32822",
+        sha256 = "8b3ab521e3f310245827bb18a8b6608ffc1bc8f069279588c3f382faf7975aca"
+    },
+    ["windows-x64-vc14.29.30133-6db41e0910ae429089cb67d3aac3d159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.29.30133-6db41e0910ae429089cb67d3aac3d159.7z",
+        toolset = "14.29.30133",
+        sha256 = "e4768887c57ff376043b20aecda7b64ab23d105a0f4668208a9cd821a8227bb7"
     },
     ["windows-x64-vc14.29.30133-0b8ae3bfe0f140a5a97b43dd53023ed3"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.29.30133-0b8ae3bfe0f140a5a97b43dd53023ed3.7z",
-        sha256 = "e96a2bb39d43fa518034d44967a480752eef35891d1a4634f02a351aac5b4959",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "74dc00bdb4064739c67f5ad06705f6782983c8ea546496e2c4c36de027296eba"
+    },
+    ["windows-x64-vc14.29.30133-c4966934009f4abeae4c0f4bd50977c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.29.30133-c4966934009f4abeae4c0f4bd50977c6.7z",
+        toolset = "14.29.30133",
+        sha256 = "a1b9280ede52500ddf17bd1e0184e85e4be3c27c01e92bdb55ed50873e32549f"
+    },
+    ["windows-x86-vc14.29.30133-20185693bb7949d8b96aa4c1bca6e459"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-20185693bb7949d8b96aa4c1bca6e459.7z",
+        toolset = "14.29.30133",
+        sha256 = "dc35590bc68c333e958ca3871614b174bdfabbc8f32de381db6119f9ac74143f"
+    },
+    ["windows-x64-vc14.43.34808-c4966934009f4abeae4c0f4bd50977c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.43.34808-c4966934009f4abeae4c0f4bd50977c6.7z",
+        toolset = "14.43.34808",
+        sha256 = "2b90d3a8073fa9c8d4de2b04766f8c460dec546f2288ee5f8c914689bbcacaa3"
+    },
+    ["windows-x86-vc14.29.30133-99ad1d3a6a6b4e7e99bbc2959fcb275b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-99ad1d3a6a6b4e7e99bbc2959fcb275b.7z",
+        toolset = "14.29.30133",
+        sha256 = "a051773bbf658d0762e3ff7fbb39902dcea981fc2aa18ad956fb58b7e7a27f95"
+    },
+    ["windows-x64-vc14.37.32822-c4966934009f4abeae4c0f4bd50977c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.37.32822-c4966934009f4abeae4c0f4bd50977c6.7z",
+        toolset = "14.37.32822",
+        sha256 = "bfe4372bd126d442769ea09a07efda3de1857043dd3a6f35f69cde63212113d2"
+    },
+    ["windows-x86-vc14.29.30133-9ead5713a123449d8ff67ef0dbb1bfaa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.29.30133-9ead5713a123449d8ff67ef0dbb1bfaa.7z",
+        toolset = "14.29.30133",
+        sha256 = "7c445ca073838c3a917affc7e040e5ddec9caaa7b31c822d2de0feaaf740eb3a"
+    },
+    ["windows-x64-vc14.43.34808-6db41e0910ae429089cb67d3aac3d159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.43.34808-6db41e0910ae429089cb67d3aac3d159.7z",
+        toolset = "14.43.34808",
+        sha256 = "a52b0429ba380249854278717e5345cb91cf70647335514769e3d5f5bd1e2ca4"
+    },
+    ["windows-x86-vc14.37.32822-9ead5713a123449d8ff67ef0dbb1bfaa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-9ead5713a123449d8ff67ef0dbb1bfaa.7z",
+        toolset = "14.37.32822",
+        sha256 = "cf2717fe00ae2b5e240981a883ae5ce955e673a71318977c6d65f2b53a8874f9"
+    },
+    ["windows-x64-vc14.43.34808-c9ec71a7b10c4f72828255d834d698d5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x64-vc14.43.34808-c9ec71a7b10c4f72828255d834d698d5.7z",
+        toolset = "14.43.34808",
+        sha256 = "b4a093f451b31f20e6a38cbe5e4b2d4b72b6abcca8bd71777eb1962974deb645"
+    },
+    ["windows-x86-vc14.37.32822-99ad1d3a6a6b4e7e99bbc2959fcb275b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-99ad1d3a6a6b4e7e99bbc2959fcb275b.7z",
+        toolset = "14.37.32822",
+        sha256 = "628b705f28861a99684ad8bab7069927cd0f8b209e1b636d4b6d1b7e3b08d02c"
+    },
+    ["windows-x86-vc14.37.32822-0719895f94c1443faade5f1926f5596a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.37.32822-0719895f94c1443faade5f1926f5596a.7z",
+        toolset = "14.37.32822",
+        sha256 = "24bdd47cdae15089001972ce4648e71d18d14a50780872c4e4252b6cb10043d1"
+    },
+    ["windows-x86-vc14.43.34808-0719895f94c1443faade5f1926f5596a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glpk-5.0/windows-x86-vc14.43.34808-0719895f94c1443faade5f1926f5596a.7z",
+        toolset = "14.43.34808",
+        sha256 = "be9f8fc115ce0c2fd1710f1733db8d1a9f0382aeea9c15ca0f124c1d8deb265a"
     }
 }
