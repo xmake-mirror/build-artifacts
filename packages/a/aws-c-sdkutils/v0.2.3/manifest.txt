@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-60765f14a3384714897847c872e09a1f"] = {
-        toolset = "14.29.30133",
-        sha256 = "95f3932ffd0934eabc40df737ef8d28e7dd7fadba743d89b6d3633a10ee591d4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-60765f14a3384714897847c872e09a1f.7z"
-    },
-    ["windows-x86-vc14.42.34433-98dc477284f148479dfb6ce010c03d21"] = {
-        toolset = "14.42.34433",
-        sha256 = "9862e895e934b0b2fa5063ed1b52ee4b8db3023c056df7f4699489e1084b60fb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-98dc477284f148479dfb6ce010c03d21.7z"
-    },
-    ["windows-x86-vc14.42.34433-f316d94d2bcd40d682e9d22087e94d1f"] = {
-        toolset = "14.42.34433",
-        sha256 = "23706e941e68658e13ad6fc8cb4c3c4ba6b8dd923c1b608e0f709069d72814b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-f316d94d2bcd40d682e9d22087e94d1f.7z"
+    ["windows-x64-vc14.42.34433-4ca4c090852649ed8d5654fc84f1d8be"] = {
+        sha256 = "33881be566b364c442bd949a29098bfdd3b34ace7cc465c307418fbc4fd8d75c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-4ca4c090852649ed8d5654fc84f1d8be.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.42.34433-60765f14a3384714897847c872e09a1f"] = {
-        toolset = "14.42.34433",
         sha256 = "0c2356dd2f00d80539b9df583a5393c31791fd4c4c9fb279d09e2b329e700269",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-60765f14a3384714897847c872e09a1f.7z"
-    },
-    ["windows-x86-vc14.29.30133-f316d94d2bcd40d682e9d22087e94d1f"] = {
-        toolset = "14.29.30133",
-        sha256 = "67ee4e0ebb7158e80645b036f729fe3af4adec981609622074acd40d79e57421",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-f316d94d2bcd40d682e9d22087e94d1f.7z"
-    },
-    ["windows-x86-vc14.42.34433-84c84811a317421ea65646f8015c9148"] = {
-        toolset = "14.42.34433",
-        sha256 = "b6bcd4ee56bb5d861426fa36ac41ede316ebf989f3e07ca93d03e2c495cea777",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-84c84811a317421ea65646f8015c9148.7z"
-    },
-    ["windows-x64-vc14.42.34433-4ca4c090852649ed8d5654fc84f1d8be"] = {
-        toolset = "14.42.34433",
-        sha256 = "33881be566b364c442bd949a29098bfdd3b34ace7cc465c307418fbc4fd8d75c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-4ca4c090852649ed8d5654fc84f1d8be.7z"
-    },
-    ["windows-x86-vc14.29.30133-84c84811a317421ea65646f8015c9148"] = {
-        toolset = "14.29.30133",
-        sha256 = "e63336f154bd4c4257f6173d3d3ec7ec4d47a9955d4b27875709ce22b301b1f9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-84c84811a317421ea65646f8015c9148.7z"
-    },
-    ["windows-x64-vc14.42.34433-8c0bdb77849c4985a36bfb726ef9adb7"] = {
-        toolset = "14.42.34433",
-        sha256 = "9d65339a45b4d4e52fc6bcf176e81b921cfbf2e3e47121e9e04e07ad67d836b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-8c0bdb77849c4985a36bfb726ef9adb7.7z"
-    },
-    ["windows-x64-vc14.29.30133-8c0bdb77849c4985a36bfb726ef9adb7"] = {
-        toolset = "14.29.30133",
-        sha256 = "61072c7ed5c2cd8afa1d096f8e8067f7c2889d2f8750bed9b345e2a33b0903be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-8c0bdb77849c4985a36bfb726ef9adb7.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-60765f14a3384714897847c872e09a1f.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.29.30133-4ca4c090852649ed8d5654fc84f1d8be"] = {
-        toolset = "14.29.30133",
-        sha256 = "112e1aef1b0c070e8d56b2d097a25f6fdf526f9635571bb6ea5d891703beb34a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-4ca4c090852649ed8d5654fc84f1d8be.7z"
-    },
-    ["windows-x64-vc14.42.34433-9ed0e08a4c5f429c9228e4e099b3bd4d"] = {
-        toolset = "14.42.34433",
-        sha256 = "132b485c0a55d6fc55a3e63cf20d79a7c597f0faeb4d79c7da30d1a1e1425a02",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-9ed0e08a4c5f429c9228e4e099b3bd4d.7z"
-    },
-    ["windows-x86-vc14.29.30133-7f86cf21cbf14c9e957bfa9be341cfbc"] = {
-        toolset = "14.29.30133",
-        sha256 = "207b3ae7fc6d765577cd73437ea90762c3a1658a96340e4a8fb9e1943f5811c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-7f86cf21cbf14c9e957bfa9be341cfbc.7z"
-    },
-    ["windows-x86-vc14.29.30133-98dc477284f148479dfb6ce010c03d21"] = {
-        toolset = "14.29.30133",
-        sha256 = "570d1f1b022335402a1e63535b4ecb59f0caa6e4cba260f89e897f7d9dbe7dfa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-98dc477284f148479dfb6ce010c03d21.7z"
-    },
-    ["windows-x86-vc14.42.34433-7f86cf21cbf14c9e957bfa9be341cfbc"] = {
-        toolset = "14.42.34433",
-        sha256 = "07a2cdd7295e27c7542e5331d561fb25a241c42e71924af63f17e8411aa6afb7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-7f86cf21cbf14c9e957bfa9be341cfbc.7z"
+        sha256 = "f2d560171bcf7844ceb35ce9cce0e7532066ddc9ed413836f61c3ce511555932",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-4ca4c090852649ed8d5654fc84f1d8be.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-9ed0e08a4c5f429c9228e4e099b3bd4d"] = {
-        toolset = "14.29.30133",
-        sha256 = "0ec2c729d268bb243d67d9297201b91901b1a8c9b4fb05db2a0ca9b4bd7b63a6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-9ed0e08a4c5f429c9228e4e099b3bd4d.7z"
+        sha256 = "8ddb19f7479545f96626cf9fc12dc976deb5d195e147ef2f8b92b78d0ff8a80a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-9ed0e08a4c5f429c9228e4e099b3bd4d.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-84c84811a317421ea65646f8015c9148"] = {
+        sha256 = "7310dbce5642a64e3ead8e335a89594c6ba0807e70d1a1f1bf68151484fea903",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-84c84811a317421ea65646f8015c9148.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-98dc477284f148479dfb6ce010c03d21"] = {
+        sha256 = "9862e895e934b0b2fa5063ed1b52ee4b8db3023c056df7f4699489e1084b60fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-98dc477284f148479dfb6ce010c03d21.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.43.34808-f316d94d2bcd40d682e9d22087e94d1f"] = {
+        sha256 = "07fa81c8b2ad40f51a6aad6fd7c23b47221ad9a7edb9e4e5deb0a7d9da86da7d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.43.34808-f316d94d2bcd40d682e9d22087e94d1f.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.42.34433-9ed0e08a4c5f429c9228e4e099b3bd4d"] = {
+        sha256 = "132b485c0a55d6fc55a3e63cf20d79a7c597f0faeb4d79c7da30d1a1e1425a02",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-9ed0e08a4c5f429c9228e4e099b3bd4d.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.43.34808-98dc477284f148479dfb6ce010c03d21"] = {
+        sha256 = "120dd5bad17dec81282c8b88668e121b2dddc07c9d54b50661a19a21ea88f410",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.43.34808-98dc477284f148479dfb6ce010c03d21.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-60765f14a3384714897847c872e09a1f"] = {
+        sha256 = "07b7fc6083e11b06c080973bfb66c71d67404c824f5f51590f30a1c06a1c7a45",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-60765f14a3384714897847c872e09a1f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-98dc477284f148479dfb6ce010c03d21"] = {
+        sha256 = "4ee8a04d02ecc3f1866ac362af8ff6231af22db4ab63b34286607013cf04521e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-98dc477284f148479dfb6ce010c03d21.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-8c0bdb77849c4985a36bfb726ef9adb7"] = {
+        sha256 = "9d65339a45b4d4e52fc6bcf176e81b921cfbf2e3e47121e9e04e07ad67d836b0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.42.34433-8c0bdb77849c4985a36bfb726ef9adb7.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.43.34808-8c0bdb77849c4985a36bfb726ef9adb7"] = {
+        sha256 = "15127daceb47280f2349862ab4f79eab3d1fda9e2a7b208f952ef1989021de19",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.43.34808-8c0bdb77849c4985a36bfb726ef9adb7.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.42.34433-f316d94d2bcd40d682e9d22087e94d1f"] = {
+        sha256 = "23706e941e68658e13ad6fc8cb4c3c4ba6b8dd923c1b608e0f709069d72814b0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-f316d94d2bcd40d682e9d22087e94d1f.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-7f86cf21cbf14c9e957bfa9be341cfbc"] = {
+        sha256 = "07a2cdd7295e27c7542e5331d561fb25a241c42e71924af63f17e8411aa6afb7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-7f86cf21cbf14c9e957bfa9be341cfbc.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.43.34808-60765f14a3384714897847c872e09a1f"] = {
+        sha256 = "4dcb8612b60bb43c2e032d6d88507f831664fd5bfe167088e8c7dc7459c032af",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.43.34808-60765f14a3384714897847c872e09a1f.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.42.34433-84c84811a317421ea65646f8015c9148"] = {
+        sha256 = "b6bcd4ee56bb5d861426fa36ac41ede316ebf989f3e07ca93d03e2c495cea777",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.42.34433-84c84811a317421ea65646f8015c9148.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-8c0bdb77849c4985a36bfb726ef9adb7"] = {
+        sha256 = "79249ba711088aa676deb68be78ef6d85b4572a6dc723df6331beefc132f5c3f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.29.30133-8c0bdb77849c4985a36bfb726ef9adb7.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-f316d94d2bcd40d682e9d22087e94d1f"] = {
+        sha256 = "8d065deb645fa0cdd2c1e447600fb1350aa84b23f90428918f5285df75d226a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-f316d94d2bcd40d682e9d22087e94d1f.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-4ca4c090852649ed8d5654fc84f1d8be"] = {
+        sha256 = "eb44e6ebcf1b641b00e1f4ab6060aa06af39634bae497a7b1f51091a4197672c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.43.34808-4ca4c090852649ed8d5654fc84f1d8be.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-9ed0e08a4c5f429c9228e4e099b3bd4d"] = {
+        sha256 = "429bf7afff1fd38cd7fdc218bccc0070d1164ae14bb0dd2d22e39a975ffe49b7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x64-vc14.43.34808-9ed0e08a4c5f429c9228e4e099b3bd4d.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-7f86cf21cbf14c9e957bfa9be341cfbc"] = {
+        sha256 = "1f35f4e2be1e0c7a67838c798a8a2add93281f0e700d84527de9f1848cd32ad4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.43.34808-7f86cf21cbf14c9e957bfa9be341cfbc.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-84c84811a317421ea65646f8015c9148"] = {
+        sha256 = "280d8ea088de5cc0637492999d4af9b4d1e400187ecd655ed5cc4365574305b5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.43.34808-84c84811a317421ea65646f8015c9148.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-7f86cf21cbf14c9e957bfa9be341cfbc"] = {
+        sha256 = "0e35dd1fab70b2a035d3873ebee200118445b37e173609db53298efb747d136d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-sdkutils-v0.2.3/windows-x86-vc14.29.30133-7f86cf21cbf14c9e957bfa9be341cfbc.7z",
+        toolset = "14.29.30133"
     }
 }
