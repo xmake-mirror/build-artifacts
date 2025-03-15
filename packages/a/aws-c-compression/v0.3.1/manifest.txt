@@ -1,122 +1,202 @@
 {
-    ["windows-x86-vc14.42.34433-3bf994bc5c4e409783c96946217cb337"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-3bf994bc5c4e409783c96946217cb337.7z",
-        toolset = "14.42.34433",
-        sha256 = "aaa420ad180d08c2d177db3169a04303d226a4ced12c24bdfe92438924c6ed81"
-    },
-    ["windows-x64-vc14.29.30133-b21952d30acf495aad2d299e661ed3a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-b21952d30acf495aad2d299e661ed3a1.7z",
-        toolset = "14.29.30133",
-        sha256 = "5bed7f82637adeaac5736dab96c6d3c6a1353e2d764966d19ec61b0033aa0837"
-    },
-    ["windows-x64-vc14.42.34433-b21952d30acf495aad2d299e661ed3a1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-b21952d30acf495aad2d299e661ed3a1.7z",
-        toolset = "14.42.34433",
-        sha256 = "ec7ee2a2e4bb6e482bda15b3b9386f81bbabb7a12c7d319b0f2e4ba42b33a98a"
-    },
-    ["windows-x86-vc14.29.30133-1316da6d9e9a4df5b7c25b3740a05a61"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-1316da6d9e9a4df5b7c25b3740a05a61.7z",
-        toolset = "14.29.30133",
-        sha256 = "a4b0d08c1ad154ad46158ba426e99c5ba80a173c773c7333544692a28a9aa890"
-    },
-    ["windows-x64-vc14.42.34433-69f69f66f1874f4cb25e5cbb9900db64"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-69f69f66f1874f4cb25e5cbb9900db64.7z",
-        toolset = "14.42.34433",
-        sha256 = "060781e2311cb096121ef14426f8a8c8908b7d03a8a255a547d23a8c2f9d540d"
-    },
-    ["windows-x64-vc14.29.30133-33f232438eb04454afce4fad35929f07"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-33f232438eb04454afce4fad35929f07.7z",
-        toolset = "14.29.30133",
-        sha256 = "0385b0194c897239750bfb8163f8335f37a4f36fc666ec93b49642eda36368a0"
+    ["windows-x86-vc14.42.34433-1316da6d9e9a4df5b7c25b3740a05a61"] = {
+        sha256 = "63dc4ffd287514e34fccc934346ff5a6b130e9c8611fadda4d53cd99f016f368",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-1316da6d9e9a4df5b7c25b3740a05a61.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.29.30133-467906c663584d7eab3d28c309c1e8b8"] = {
+        sha256 = "58f4d21f860609da222ca990f0c74305e4c6d74f56c9e902d5465cfbbbda2b2b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-467906c663584d7eab3d28c309c1e8b8.7z",
-        toolset = "14.29.30133",
-        sha256 = "58f4d21f860609da222ca990f0c74305e4c6d74f56c9e902d5465cfbbbda2b2b"
-    },
-    ["windows-x86-vc14.42.34433-1316da6d9e9a4df5b7c25b3740a05a61"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-1316da6d9e9a4df5b7c25b3740a05a61.7z",
-        toolset = "14.42.34433",
-        sha256 = "63dc4ffd287514e34fccc934346ff5a6b130e9c8611fadda4d53cd99f016f368"
-    },
-    ["windows-x64-vc14.29.30133-69f69f66f1874f4cb25e5cbb9900db64"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-69f69f66f1874f4cb25e5cbb9900db64.7z",
-        toolset = "14.29.30133",
-        sha256 = "3ab0c417284f35d01c4c732e1929e8a0a5b44fe6d1ec7f6ebaa0482b79e84d66"
-    },
-    ["windows-x64-vc14.42.34433-33f232438eb04454afce4fad35929f07"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-33f232438eb04454afce4fad35929f07.7z",
-        toolset = "14.42.34433",
-        sha256 = "09b18eddf235fcb8e6de8bcbd8c2cb8b43e8d84beeacb23172e08b29871425f3"
-    },
-    ["windows-x86-vc14.42.34433-a2581efa4a204c81bbe15f15d50733d6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-a2581efa4a204c81bbe15f15d50733d6.7z",
-        toolset = "14.42.34433",
-        sha256 = "7a37e0266fd59ece085c7a706a1a52c9a842b7b8dc75b9a2eca527ab82243b69"
-    },
-    ["windows-x86-vc14.29.30133-a4e924d360674373804a25f0ff40dddf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-a4e924d360674373804a25f0ff40dddf.7z",
-        toolset = "14.29.30133",
-        sha256 = "01d580d2953371cc2eadd095b99102cdd8f2a8a621bf9b4e6561d874b9c55bb2"
-    },
-    ["windows-x86-vc14.42.34433-a4e924d360674373804a25f0ff40dddf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-a4e924d360674373804a25f0ff40dddf.7z",
-        toolset = "14.42.34433",
-        sha256 = "5958e41393c8174ba236ac779b029ef1e6a33cd773e83193e815ce658b9f3106"
-    },
-    ["windows-x86-vc14.43.34808-a4e924d360674373804a25f0ff40dddf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-a4e924d360674373804a25f0ff40dddf.7z",
-        toolset = "14.43.34808",
-        sha256 = "00cd375a3741dd32406357b36fe771fa76f8a44861c3bdf3570c43a95513dd89"
-    },
-    ["windows-x64-vc14.43.34808-33f232438eb04454afce4fad35929f07"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-33f232438eb04454afce4fad35929f07.7z",
-        toolset = "14.43.34808",
-        sha256 = "5261487e81b40a9c50b520c19ca018cae9a574df58d2101d0edfb0339c1f6388"
-    },
-    ["windows-x86-vc14.29.30133-3bf994bc5c4e409783c96946217cb337"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-3bf994bc5c4e409783c96946217cb337.7z",
-        toolset = "14.29.30133",
-        sha256 = "f17a9c051f313b4604c1cee424dc1de34760abe923ebd44948af2be45c8d2e7e"
-    },
-    ["windows-x64-vc14.43.34808-69f69f66f1874f4cb25e5cbb9900db64"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-69f69f66f1874f4cb25e5cbb9900db64.7z",
-        toolset = "14.43.34808",
-        sha256 = "97b55c7a340cf0a64b631a29ccfe5846d6c931b87ff7b02236a511d185c09b97"
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.43.34808-467906c663584d7eab3d28c309c1e8b8"] = {
+        sha256 = "fe2d987d96ec74a72d6ba5fde3a29892b5d092cfc7ae70a3548ffb72b99c606c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-467906c663584d7eab3d28c309c1e8b8.7z",
-        toolset = "14.43.34808",
-        sha256 = "fe2d987d96ec74a72d6ba5fde3a29892b5d092cfc7ae70a3548ffb72b99c606c"
-    },
-    ["windows-x86-vc14.29.30133-a2581efa4a204c81bbe15f15d50733d6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-a2581efa4a204c81bbe15f15d50733d6.7z",
-        toolset = "14.29.30133",
-        sha256 = "8b027bab67b1ded6a0933a1176f231f90803c676f39f6a07bc5e8bac423abee3"
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc14.42.34433-467906c663584d7eab3d28c309c1e8b8"] = {
+        sha256 = "a6bc9e0e34225fbaf91c7fd85f59f6dfbf13ed65755837b03ef6803dede34606",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-467906c663584d7eab3d28c309c1e8b8.7z",
-        toolset = "14.42.34433",
-        sha256 = "a6bc9e0e34225fbaf91c7fd85f59f6dfbf13ed65755837b03ef6803dede34606"
-    },
-    ["windows-x86-vc14.43.34808-a2581efa4a204c81bbe15f15d50733d6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-a2581efa4a204c81bbe15f15d50733d6.7z",
-        toolset = "14.43.34808",
-        sha256 = "d71d5cdba2ee50b50490e986ce71a524040c46f130475dfe581db43ea50d57f1"
-    },
-    ["windows-x86-vc14.43.34808-3bf994bc5c4e409783c96946217cb337"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-3bf994bc5c4e409783c96946217cb337.7z",
-        toolset = "14.43.34808",
-        sha256 = "581387f6e4fa813973790b44b610c14ad7bdbaf75ffe1655d8b8f9ceb7955455"
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.43.34808-b21952d30acf495aad2d299e661ed3a1"] = {
+        sha256 = "2d0514956cf175fe488f9ded519622d69575d9da70231bee8f26e9da72eddb20",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-b21952d30acf495aad2d299e661ed3a1.7z",
-        toolset = "14.43.34808",
-        sha256 = "2d0514956cf175fe488f9ded519622d69575d9da70231bee8f26e9da72eddb20"
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-14c47aa4b01443d3a5aec7f07ce449dd"] = {
+        sha256 = "bce4ebaebc4e1f1c207cd4f3862e1d26e5e51a38d0a3318f238d8e9dda76bf35",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-14c47aa4b01443d3a5aec7f07ce449dd.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.42.34433-3bf994bc5c4e409783c96946217cb337"] = {
+        sha256 = "aaa420ad180d08c2d177db3169a04303d226a4ced12c24bdfe92438924c6ed81",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-3bf994bc5c4e409783c96946217cb337.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.43.34808-a4e924d360674373804a25f0ff40dddf"] = {
+        sha256 = "00cd375a3741dd32406357b36fe771fa76f8a44861c3bdf3570c43a95513dd89",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-a4e924d360674373804a25f0ff40dddf.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-61f6ce3125094239a65d4fba76770a30"] = {
+        sha256 = "f20059f8d863719e4b8a110f3f6df4b180ea7a81f4bc8168f50e9f1b804119a5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-61f6ce3125094239a65d4fba76770a30.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-14c47aa4b01443d3a5aec7f07ce449dd"] = {
+        sha256 = "1e0f94c8778d020716559ad305ffa2d569bf707873d59b3499c4d0db5d7af125",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-14c47aa4b01443d3a5aec7f07ce449dd.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-f8247e99328647e581a52233b93e586e"] = {
+        sha256 = "1e4101c837951489295c2b9445f0af2c78aad61bc444b93f1daf40615ac93420",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-f8247e99328647e581a52233b93e586e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-d8eddf2eb78d497da2f3be2e8e68bb24"] = {
+        sha256 = "d3cd0e45472919b1cc1d7a203e6cda4f3e8a8cf770debfc4fb8537be1283170e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-d8eddf2eb78d497da2f3be2e8e68bb24.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-b21952d30acf495aad2d299e661ed3a1"] = {
+        sha256 = "5bed7f82637adeaac5736dab96c6d3c6a1353e2d764966d19ec61b0033aa0837",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-b21952d30acf495aad2d299e661ed3a1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-69f69f66f1874f4cb25e5cbb9900db64"] = {
+        sha256 = "97b55c7a340cf0a64b631a29ccfe5846d6c931b87ff7b02236a511d185c09b97",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-69f69f66f1874f4cb25e5cbb9900db64.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-a629d7330c974630a8518b1d043cb494"] = {
+        sha256 = "3aed3336e42f1c377e74dfdeec0fe58c036b2eb89b32776a535f4de793c751ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-a629d7330c974630a8518b1d043cb494.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-3bf994bc5c4e409783c96946217cb337"] = {
+        sha256 = "581387f6e4fa813973790b44b610c14ad7bdbaf75ffe1655d8b8f9ceb7955455",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-3bf994bc5c4e409783c96946217cb337.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.42.34433-b21952d30acf495aad2d299e661ed3a1"] = {
+        sha256 = "ec7ee2a2e4bb6e482bda15b3b9386f81bbabb7a12c7d319b0f2e4ba42b33a98a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-b21952d30acf495aad2d299e661ed3a1.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.43.34808-4e13f1d6fdae4123b781b2e5427a9721"] = {
+        sha256 = "aa866cf7f888dcd07527556b77f1cd5c5aba3274d2bd21cad3f18428131fb0fe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-4e13f1d6fdae4123b781b2e5427a9721.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-a2581efa4a204c81bbe15f15d50733d6"] = {
+        sha256 = "d71d5cdba2ee50b50490e986ce71a524040c46f130475dfe581db43ea50d57f1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-a2581efa4a204c81bbe15f15d50733d6.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-d8eddf2eb78d497da2f3be2e8e68bb24"] = {
+        sha256 = "0273310ed13883e10338c49afeb68b58cdadff66e19f065cc5c688125b1d1cca",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-d8eddf2eb78d497da2f3be2e8e68bb24.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-a4e924d360674373804a25f0ff40dddf"] = {
+        sha256 = "01d580d2953371cc2eadd095b99102cdd8f2a8a621bf9b4e6561d874b9c55bb2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-a4e924d360674373804a25f0ff40dddf.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-fed14d864b2c4f58a3ce43502163255d"] = {
+        sha256 = "25443b7015188e3c02078b79a1ddd54ded300d33fa7eaf841e52ff2ba80f5c12",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-fed14d864b2c4f58a3ce43502163255d.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-fed14d864b2c4f58a3ce43502163255d"] = {
+        sha256 = "0d8fd4521902460952f0fa09cadc9386847208af956699a9f830ae39c4993bf2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-fed14d864b2c4f58a3ce43502163255d.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.43.34808-1316da6d9e9a4df5b7c25b3740a05a61"] = {
+        sha256 = "16b7e99874c0e645eb28490d92122afecb663112b1613869a0169e7e1c904f70",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-1316da6d9e9a4df5b7c25b3740a05a61.7z",
-        toolset = "14.43.34808",
-        sha256 = "16b7e99874c0e645eb28490d92122afecb663112b1613869a0169e7e1c904f70"
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-73b431595ebe456a91cd66a44b2b677b"] = {
+        sha256 = "b3f7c88b56cc626813186b7bfe7a3be48b440a97d724487f3e19c5aae4c02468",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-73b431595ebe456a91cd66a44b2b677b.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-a2581efa4a204c81bbe15f15d50733d6"] = {
+        sha256 = "8b027bab67b1ded6a0933a1176f231f90803c676f39f6a07bc5e8bac423abee3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-a2581efa4a204c81bbe15f15d50733d6.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-61f6ce3125094239a65d4fba76770a30"] = {
+        sha256 = "922378d34ae5d3ff80369e0a0d1da6305eb10188d482e51c498e33dc73c039fc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-61f6ce3125094239a65d4fba76770a30.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.42.34433-69f69f66f1874f4cb25e5cbb9900db64"] = {
+        sha256 = "060781e2311cb096121ef14426f8a8c8908b7d03a8a255a547d23a8c2f9d540d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-69f69f66f1874f4cb25e5cbb9900db64.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-69f69f66f1874f4cb25e5cbb9900db64"] = {
+        sha256 = "3ab0c417284f35d01c4c732e1929e8a0a5b44fe6d1ec7f6ebaa0482b79e84d66",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-69f69f66f1874f4cb25e5cbb9900db64.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-f8247e99328647e581a52233b93e586e"] = {
+        sha256 = "213ec38e22f17c5d155d80e382a3a80831da308f324dbfa45046df7500fc6861",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.43.34808-f8247e99328647e581a52233b93e586e.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.42.34433-a2581efa4a204c81bbe15f15d50733d6"] = {
+        sha256 = "7a37e0266fd59ece085c7a706a1a52c9a842b7b8dc75b9a2eca527ab82243b69",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-a2581efa4a204c81bbe15f15d50733d6.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-33f232438eb04454afce4fad35929f07"] = {
+        sha256 = "0385b0194c897239750bfb8163f8335f37a4f36fc666ec93b49642eda36368a0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.29.30133-33f232438eb04454afce4fad35929f07.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-3bf994bc5c4e409783c96946217cb337"] = {
+        sha256 = "f17a9c051f313b4604c1cee424dc1de34760abe923ebd44948af2be45c8d2e7e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-3bf994bc5c4e409783c96946217cb337.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-a629d7330c974630a8518b1d043cb494"] = {
+        sha256 = "552678a38cc00d0cb96419ca365873c8c6808b138cb477cb76c1232ca4ad2df1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-a629d7330c974630a8518b1d043cb494.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.42.34433-33f232438eb04454afce4fad35929f07"] = {
+        sha256 = "09b18eddf235fcb8e6de8bcbd8c2cb8b43e8d84beeacb23172e08b29871425f3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.42.34433-33f232438eb04454afce4fad35929f07.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-1316da6d9e9a4df5b7c25b3740a05a61"] = {
+        sha256 = "a4b0d08c1ad154ad46158ba426e99c5ba80a173c773c7333544692a28a9aa890",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-1316da6d9e9a4df5b7c25b3740a05a61.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-4e13f1d6fdae4123b781b2e5427a9721"] = {
+        sha256 = "7124801d46492877b8025511a329eae4fcbeb339498d1a26276413ef818c2012",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-4e13f1d6fdae4123b781b2e5427a9721.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-73b431595ebe456a91cd66a44b2b677b"] = {
+        sha256 = "bfd02fcbaaf64759a7307ffa13344b8f2a98496dc6ef796a88b720fd206a703f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.29.30133-73b431595ebe456a91cd66a44b2b677b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-a4e924d360674373804a25f0ff40dddf"] = {
+        sha256 = "5958e41393c8174ba236ac779b029ef1e6a33cd773e83193e815ce658b9f3106",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x86-vc14.42.34433-a4e924d360674373804a25f0ff40dddf.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.43.34808-33f232438eb04454afce4fad35929f07"] = {
+        sha256 = "5261487e81b40a9c50b520c19ca018cae9a574df58d2101d0edfb0339c1f6388",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-compression-v0.3.1/windows-x64-vc14.43.34808-33f232438eb04454afce4fad35929f07.7z",
+        toolset = "14.43.34808"
     }
 }
