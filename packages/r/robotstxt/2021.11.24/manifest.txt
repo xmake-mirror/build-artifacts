@@ -34,10 +34,10 @@
         toolset = "14.38.33130",
         sha256 = "97e52b5b371278a26bd46fb37b5aad3a0f5ec934a8f43a726fa9218711b5c536"
     },
-    ["windows-x86-vc14.29.30133-74d8df00b28d458fa4ab6a77f0a80350"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.29.30133-74d8df00b28d458fa4ab6a77f0a80350.7z",
-        toolset = "14.29.30133",
-        sha256 = "bacecd6ee5f190f491c6d1c9da21113ba391ebf3de8883e2b4428756e7b90167"
+    ["windows-x64-vc14.38.33130-6c69da5acd4b48eabf1c55c5cc9efbe1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.38.33130-6c69da5acd4b48eabf1c55c5cc9efbe1.7z",
+        toolset = "14.38.33130",
+        sha256 = "95548b21790fcafbae609ccbb83cadaf9527d8684c2f10d8e29eaa7adc0695c2"
     },
     ["windows-x64-vc14.38.33130-d505cf974b8e4ae4b1b1b7b177ad875c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.38.33130-d505cf974b8e4ae4b1b1b7b177ad875c.7z",
@@ -59,30 +59,30 @@
         toolset = "14.43.34808",
         sha256 = "be02c76cc5552acfd57e5e016a2620356f037db432254c4340376307cc9b2863"
     },
-    ["windows-x86-vc14.29.30133-ad5bed10af4d487b9f63ded184402a70"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.29.30133-ad5bed10af4d487b9f63ded184402a70.7z",
-        toolset = "14.29.30133",
-        sha256 = "f6a292bf842075721f0c0f726ac4d24012088a8e9bec31a556850d57149f4d08"
+    ["windows-x64-vc14.43.34808-6defdf51854045aeabb5ddbb83fb7866"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.43.34808-6defdf51854045aeabb5ddbb83fb7866.7z",
+        toolset = "14.43.34808",
+        sha256 = "74074d62491a6a7c6edb63af43e16d65fe9eed0336874bf4cd684597b4d06fe7"
     },
-    ["windows-x64-vc141-8c0cb9b508b04788b859f689dc414eb1"] = {
-        sha256 = "589d696bfc70f05305b69b59f9aaf4c58c1f20d0e4a7230f892a8ba587850ea9",
+    ["windows-x86-vc14.43.34808-4364289d1fa44562a7ed380debb10350"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.43.34808-4364289d1fa44562a7ed380debb10350.7z",
+        toolset = "14.43.34808",
+        sha256 = "0f3968c530711e441a520bd47286bc00496e5a7c4fede391f8fc2adabbdb3997"
+    },
+    ["windows-x86-vc14.40.33807-ccac01a370eb4a0e8236f5b0f9259f03"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.40.33807-ccac01a370eb4a0e8236f5b0f9259f03.7z",
+        toolset = "14.40.33807",
+        sha256 = "e243ff722f08e3c17ec797ccfa585831e0251b5ad7c84015d174ae0e1889c216"
+    },
+    ["windows-x86-vc14.42.34433-ccac01a370eb4a0e8236f5b0f9259f03"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.42.34433-ccac01a370eb4a0e8236f5b0f9259f03.7z",
+        toolset = "14.42.34433",
+        sha256 = "cf7a5dc3fcad15301bb7a384584f005da1b5099cf72253f4fd117c1d53968a12"
+    },
+    ["windows-x86-vc141-a2f25c463f4b40448f1aa63ff1b9ef07"] = {
+        sha256 = "d3f2c9258ebdb422786ed73f20805e92cd81ca70d5f022beaf96c5f7f552b932",
         toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc141-8c0cb9b508b04788b859f689dc414eb1.7z"
-    },
-    ["windows-x64-vc14.29.30133-6defdf51854045aeabb5ddbb83fb7866"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-6defdf51854045aeabb5ddbb83fb7866.7z",
-        toolset = "14.29.30133",
-        sha256 = "9fd685cca6fd2aaaa273ea91b64f74795ca9bcdfbab94e1a7a1ae739380279a2"
-    },
-    ["windows-x64-vc14.38.33130-6defdf51854045aeabb5ddbb83fb7866"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.38.33130-6defdf51854045aeabb5ddbb83fb7866.7z",
-        toolset = "14.38.33130",
-        sha256 = "5e755d2f9265f282e556c5a0aaddb8f99617e10f633e3a2e9702bc24e0726387"
-    },
-    ["windows-x64-vc142-e908beb20cc14f62a79857b4d4f37a16"] = {
-        sha256 = "3447a4a7dccedc6a3b5d23055ac003d53293f3661d593adbbf8a2e511ad71f05",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc142-e908beb20cc14f62a79857b4d4f37a16.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc141-a2f25c463f4b40448f1aa63ff1b9ef07.7z"
     },
     ["windows-x64-vc14.40.33807-6c69da5acd4b48eabf1c55c5cc9efbe1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.40.33807-6c69da5acd4b48eabf1c55c5cc9efbe1.7z",
@@ -174,10 +174,10 @@
         toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc141-3c930159b5cb4f6182c7a404e1de76f2.7z"
     },
-    ["windows-x86-vc14.42.34433-4364289d1fa44562a7ed380debb10350"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.42.34433-4364289d1fa44562a7ed380debb10350.7z",
-        toolset = "14.42.34433",
-        sha256 = "d8afe0b11d4be2256dc1480ee1b5b557bf9c57beef29d55e776b1c55545b62b8"
+    ["windows-x86-vc14.43.34808-c75ca5d556544c758c1680d1614f5eb6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.43.34808-c75ca5d556544c758c1680d1614f5eb6.7z",
+        toolset = "14.43.34808",
+        sha256 = "b6c8e43d6e3f1c96e83a5d8ba68585bc8c8ad20c27959bbaa46d6bdfd04fe3b7"
     },
     ["windows-x86-vc14.40.33807-ad5bed10af4d487b9f63ded184402a70"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.40.33807-ad5bed10af4d487b9f63ded184402a70.7z",
@@ -189,20 +189,20 @@
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc142-8c0cb9b508b04788b859f689dc414eb1.7z"
     },
-    ["windows-x64-vc14.38.33130-6c69da5acd4b48eabf1c55c5cc9efbe1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.38.33130-6c69da5acd4b48eabf1c55c5cc9efbe1.7z",
-        toolset = "14.38.33130",
-        sha256 = "95548b21790fcafbae609ccbb83cadaf9527d8684c2f10d8e29eaa7adc0695c2"
+    ["windows-x86-vc14.29.30133-74d8df00b28d458fa4ab6a77f0a80350"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.29.30133-74d8df00b28d458fa4ab6a77f0a80350.7z",
+        toolset = "14.29.30133",
+        sha256 = "bacecd6ee5f190f491c6d1c9da21113ba391ebf3de8883e2b4428756e7b90167"
     },
     ["windows-x64-vc14.43.34808-6c69da5acd4b48eabf1c55c5cc9efbe1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.43.34808-6c69da5acd4b48eabf1c55c5cc9efbe1.7z",
         toolset = "14.43.34808",
         sha256 = "8a1617eb1c125d3a0bb1ea1f527bc3408f6ae4a05c56b76d2baea9dc2ff2505e"
     },
-    ["windows-x86-vc14.38.33130-4364289d1fa44562a7ed380debb10350"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.38.33130-4364289d1fa44562a7ed380debb10350.7z",
-        toolset = "14.38.33130",
-        sha256 = "04604201915def6eed37f1b522ea50abb1969b0e161fd769e5c2b97f4be148fb"
+    ["windows-x64-vc14.29.30133-ecd9cb2142af4e71afd2f67851ba6ace"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-ecd9cb2142af4e71afd2f67851ba6ace.7z",
+        toolset = "14.29.30133",
+        sha256 = "a0d21d9809a22c83910f8fbfed03557f52aeb68d2783fb92b865fec4d70d5cc3"
     },
     ["windows-x86-vc14.37.32822-a2f25c463f4b40448f1aa63ff1b9ef07"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.37.32822-a2f25c463f4b40448f1aa63ff1b9ef07.7z",
@@ -229,15 +229,15 @@
         toolset = "14.37.32822",
         sha256 = "6a6fd51087863368d47460d26d1d1cd23525a4375cc4c0ea9d04369f705062de"
     },
-    ["windows-x86-vc14.38.33130-ad5bed10af4d487b9f63ded184402a70"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.38.33130-ad5bed10af4d487b9f63ded184402a70.7z",
-        toolset = "14.38.33130",
-        sha256 = "520957644622791365dc77b5dbd02879fb9c5f9d7779ee0c5f4733598ce3a05a"
+    ["windows-x86-vc14.29.30133-ad5bed10af4d487b9f63ded184402a70"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.29.30133-ad5bed10af4d487b9f63ded184402a70.7z",
+        toolset = "14.29.30133",
+        sha256 = "f6a292bf842075721f0c0f726ac4d24012088a8e9bec31a556850d57149f4d08"
     },
-    ["windows-x64-vc14.43.34808-d505cf974b8e4ae4b1b1b7b177ad875c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.43.34808-d505cf974b8e4ae4b1b1b7b177ad875c.7z",
-        toolset = "14.43.34808",
-        sha256 = "80d9b369d6e1092d3cdbdf1d4fec9692f7ddef5ed397a04b7ab0bacd7c17d735"
+    ["windows-x64-vc14.29.30133-8c0cb9b508b04788b859f689dc414eb1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-8c0cb9b508b04788b859f689dc414eb1.7z",
+        toolset = "14.29.30133",
+        sha256 = "ad3b6211d2e7bc76aa31f1bbf1509c7c32512042d76472cfcf43f7c69514a600"
     },
     ["windows-x86-vc14.29.30133-ccac01a370eb4a0e8236f5b0f9259f03"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.29.30133-ccac01a370eb4a0e8236f5b0f9259f03.7z",
@@ -249,25 +249,25 @@
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc142-74d8df00b28d458fa4ab6a77f0a80350.7z"
     },
-    ["windows-x86-vc14.40.33807-ccac01a370eb4a0e8236f5b0f9259f03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.40.33807-ccac01a370eb4a0e8236f5b0f9259f03.7z",
-        toolset = "14.40.33807",
-        sha256 = "e243ff722f08e3c17ec797ccfa585831e0251b5ad7c84015d174ae0e1889c216"
+    ["windows-x64-vc14.29.30133-6defdf51854045aeabb5ddbb83fb7866"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-6defdf51854045aeabb5ddbb83fb7866.7z",
+        toolset = "14.29.30133",
+        sha256 = "9fd685cca6fd2aaaa273ea91b64f74795ca9bcdfbab94e1a7a1ae739380279a2"
     },
-    ["windows-x86-vc14.43.34808-4364289d1fa44562a7ed380debb10350"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.43.34808-4364289d1fa44562a7ed380debb10350.7z",
-        toolset = "14.43.34808",
-        sha256 = "0f3968c530711e441a520bd47286bc00496e5a7c4fede391f8fc2adabbdb3997"
+    ["windows-x86-vc14.38.33130-4364289d1fa44562a7ed380debb10350"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.38.33130-4364289d1fa44562a7ed380debb10350.7z",
+        toolset = "14.38.33130",
+        sha256 = "04604201915def6eed37f1b522ea50abb1969b0e161fd769e5c2b97f4be148fb"
     },
     ["windows-x64-vc14.37.32822-8c0cb9b508b04788b859f689dc414eb1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.37.32822-8c0cb9b508b04788b859f689dc414eb1.7z",
         toolset = "14.37.32822",
         sha256 = "12a903b62793f0719eeee5a60b92b67d0875b04e46de0627f4cd78da07cec579"
     },
-    ["windows-x86-vc14.43.34808-c75ca5d556544c758c1680d1614f5eb6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.43.34808-c75ca5d556544c758c1680d1614f5eb6.7z",
-        toolset = "14.43.34808",
-        sha256 = "b6c8e43d6e3f1c96e83a5d8ba68585bc8c8ad20c27959bbaa46d6bdfd04fe3b7"
+    ["windows-x64-vc14.29.30133-e908beb20cc14f62a79857b4d4f37a16"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-e908beb20cc14f62a79857b4d4f37a16.7z",
+        toolset = "14.29.30133",
+        sha256 = "1300b61ac2b22cd30d681e1297664f8287cbcfdc6dd190474f93f03d4cac7b62"
     },
     ["windows-x86-vc142-a43fad12e83d4401a3ad149217fa150d"] = {
         sha256 = "65cc281b6a2ac05de600b0b7ff6b28738ae6454e586f2aa6e5be6bc138b0d7bf",
@@ -289,55 +289,55 @@
         toolset = "14.16.27023",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc141-e908beb20cc14f62a79857b4d4f37a16.7z"
     },
-    ["windows-x64-vc14.43.34808-6defdf51854045aeabb5ddbb83fb7866"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.43.34808-6defdf51854045aeabb5ddbb83fb7866.7z",
-        toolset = "14.43.34808",
-        sha256 = "74074d62491a6a7c6edb63af43e16d65fe9eed0336874bf4cd684597b4d06fe7"
-    },
-    ["windows-x86-vc141-a2f25c463f4b40448f1aa63ff1b9ef07"] = {
-        sha256 = "d3f2c9258ebdb422786ed73f20805e92cd81ca70d5f022beaf96c5f7f552b932",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc141-a2f25c463f4b40448f1aa63ff1b9ef07.7z"
-    },
-    ["windows-x86-vc141-74d8df00b28d458fa4ab6a77f0a80350"] = {
-        sha256 = "e40b6c45512c51a093021fb6625ad8e9c163afbf9d0ce26de5c5bb4fb8e83272",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc141-74d8df00b28d458fa4ab6a77f0a80350.7z"
-    },
-    ["windows-x86-vc14.42.34433-ccac01a370eb4a0e8236f5b0f9259f03"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.42.34433-ccac01a370eb4a0e8236f5b0f9259f03.7z",
+    ["windows-x86-vc14.42.34433-4364289d1fa44562a7ed380debb10350"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.42.34433-4364289d1fa44562a7ed380debb10350.7z",
         toolset = "14.42.34433",
-        sha256 = "cf7a5dc3fcad15301bb7a384584f005da1b5099cf72253f4fd117c1d53968a12"
+        sha256 = "d8afe0b11d4be2256dc1480ee1b5b557bf9c57beef29d55e776b1c55545b62b8"
+    },
+    ["windows-x64-vc142-e908beb20cc14f62a79857b4d4f37a16"] = {
+        sha256 = "3447a4a7dccedc6a3b5d23055ac003d53293f3661d593adbbf8a2e511ad71f05",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc142-e908beb20cc14f62a79857b4d4f37a16.7z"
+    },
+    ["windows-x86-vc14.38.33130-ad5bed10af4d487b9f63ded184402a70"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.38.33130-ad5bed10af4d487b9f63ded184402a70.7z",
+        toolset = "14.38.33130",
+        sha256 = "520957644622791365dc77b5dbd02879fb9c5f9d7779ee0c5f4733598ce3a05a"
+    },
+    ["windows-x64-vc14.38.33130-6defdf51854045aeabb5ddbb83fb7866"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.38.33130-6defdf51854045aeabb5ddbb83fb7866.7z",
+        toolset = "14.38.33130",
+        sha256 = "5e755d2f9265f282e556c5a0aaddb8f99617e10f633e3a2e9702bc24e0726387"
     },
     ["windows-x86-vc142-a2f25c463f4b40448f1aa63ff1b9ef07"] = {
         sha256 = "df0e61ceea5112936916ebe2151b69677d1e8548d5541f92063efdb418d18439",
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc142-a2f25c463f4b40448f1aa63ff1b9ef07.7z"
     },
-    ["windows-x64-vc14.29.30133-8c0cb9b508b04788b859f689dc414eb1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-8c0cb9b508b04788b859f689dc414eb1.7z",
-        toolset = "14.29.30133",
-        sha256 = "ad3b6211d2e7bc76aa31f1bbf1509c7c32512042d76472cfcf43f7c69514a600"
+    ["windows-x64-vc14.43.34808-d505cf974b8e4ae4b1b1b7b177ad875c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.43.34808-d505cf974b8e4ae4b1b1b7b177ad875c.7z",
+        toolset = "14.43.34808",
+        sha256 = "80d9b369d6e1092d3cdbdf1d4fec9692f7ddef5ed397a04b7ab0bacd7c17d735"
+    },
+    ["windows-x64-vc141-8c0cb9b508b04788b859f689dc414eb1"] = {
+        sha256 = "589d696bfc70f05305b69b59f9aaf4c58c1f20d0e4a7230f892a8ba587850ea9",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc141-8c0cb9b508b04788b859f689dc414eb1.7z"
     },
     ["windows-x64-vc14.42.34433-6c69da5acd4b48eabf1c55c5cc9efbe1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.42.34433-6c69da5acd4b48eabf1c55c5cc9efbe1.7z",
         toolset = "14.42.34433",
         sha256 = "b295e0984539d962057ff91feaa5c7367df3dd1b11a61846a04049c9aa7e9b0f"
     },
-    ["windows-x64-vc14.42.34433-6defdf51854045aeabb5ddbb83fb7866"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.42.34433-6defdf51854045aeabb5ddbb83fb7866.7z",
-        toolset = "14.42.34433",
-        sha256 = "fa32264c9d109fe09c4992dd8a862de79329aa2cfe799b56fe915b631fe9ed88"
-    },
     ["windows-x86-vc14.42.34433-ad5bed10af4d487b9f63ded184402a70"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc14.42.34433-ad5bed10af4d487b9f63ded184402a70.7z",
         toolset = "14.42.34433",
         sha256 = "b85537e8766f06d2fa8fc88e6f2511782a96a4a938529dc5568ced801ac6028c"
     },
-    ["windows-x64-vc14.29.30133-e908beb20cc14f62a79857b4d4f37a16"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-e908beb20cc14f62a79857b4d4f37a16.7z",
-        toolset = "14.29.30133",
-        sha256 = "1300b61ac2b22cd30d681e1297664f8287cbcfdc6dd190474f93f03d4cac7b62"
+    ["windows-x86-vc141-74d8df00b28d458fa4ab6a77f0a80350"] = {
+        sha256 = "e40b6c45512c51a093021fb6625ad8e9c163afbf9d0ce26de5c5bb4fb8e83272",
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc141-74d8df00b28d458fa4ab6a77f0a80350.7z"
     },
     ["windows-x64-vc14.42.34433-1b1d3ed13fb246368397129851d75467"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.42.34433-1b1d3ed13fb246368397129851d75467.7z",
@@ -349,10 +349,10 @@
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x86-vc142-3c930159b5cb4f6182c7a404e1de76f2.7z"
     },
-    ["windows-x64-vc14.29.30133-ecd9cb2142af4e71afd2f67851ba6ace"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-ecd9cb2142af4e71afd2f67851ba6ace.7z",
-        toolset = "14.29.30133",
-        sha256 = "a0d21d9809a22c83910f8fbfed03557f52aeb68d2783fb92b865fec4d70d5cc3"
+    ["windows-x64-vc14.42.34433-6defdf51854045aeabb5ddbb83fb7866"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.42.34433-6defdf51854045aeabb5ddbb83fb7866.7z",
+        toolset = "14.42.34433",
+        sha256 = "fa32264c9d109fe09c4992dd8a862de79329aa2cfe799b56fe915b631fe9ed88"
     },
     ["windows-x64-vc14.29.30133-1b1d3ed13fb246368397129851d75467"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/robotstxt-2021.11.24/windows-x64-vc14.29.30133-1b1d3ed13fb246368397129851d75467.7z",
