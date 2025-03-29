@@ -1,122 +1,182 @@
 {
-    ["windows-x64-vc14.42.34433-13e7dedef230474194dc58a04e432f33"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-13e7dedef230474194dc58a04e432f33.7z",
-        sha256 = "ba4a9ce6cc5580c8c48f8158d71f6ff0dd84a36d491639415d6df8cfb383ce2b"
+    ["windows-x64-vc14.43.34808-3240e1909819462b839a313fb816e7df"] = {
+        toolset = "14.43.34808",
+        sha256 = "c4b3e705c8672137240f30d1f9ffc87d94f70fabec7ac5659b7cb62755e1cde9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.43.34808-3240e1909819462b839a313fb816e7df.7z"
     },
-    ["windows-x86-vc14.29.30133-19a5e87d36fa4c3fb024adfc6d9e16e7"] = {
+    ["windows-x64-vc14.29.30133-3240e1909819462b839a313fb816e7df"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-19a5e87d36fa4c3fb024adfc6d9e16e7.7z",
-        sha256 = "f8da9516c6ab7dc0237708f53a9d67d5b4d334b380998580bea3f4a310e63780"
+        sha256 = "ed54ef4d6c7d24f8e1435aa50c2eb3287fb85ef6598bfd840a43623a2c3bba2c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-3240e1909819462b839a313fb816e7df.7z"
     },
     ["windows-x86-vc14.42.34433-1ec5dda831b846d1a0da8ced4f9b0c46"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-1ec5dda831b846d1a0da8ced4f9b0c46.7z",
-        sha256 = "b1df33d85de526be6ab369d04ec6f9f3def68b7cc173ed9e926f2f9344e917b9"
-    },
-    ["windows-x64-vc14.38.33130-3af7dff2801848e086a84c209648164e"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-3af7dff2801848e086a84c209648164e.7z",
-        sha256 = "8b15ad7f7087358fa540e0d00b490c5a20919c726530288d43518c5cd2be1d26"
-    },
-    ["windows-x64-vc14.38.33130-c0111f8f0b2942a3b583333ad0d304f2"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-c0111f8f0b2942a3b583333ad0d304f2.7z",
-        sha256 = "be110a602b1947ad254b7bff6a0b2b43dc2a713a8a9ceb154fc9c051e01f3d87"
-    },
-    ["windows-x86-vc14.38.33130-2bccd75bed324c068ca233a791100923"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-2bccd75bed324c068ca233a791100923.7z",
-        sha256 = "a7421536786efc84e62aab6cd93a47b33e71609b48502be751ebe5172c59d676"
-    },
-    ["windows-x86-vc14.42.34433-2bccd75bed324c068ca233a791100923"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-2bccd75bed324c068ca233a791100923.7z",
-        sha256 = "64e79188b91f5c15693e0d0ab420e15c31f8809ac1706a4d998e31b6fc5d6ab9"
-    },
-    ["windows-x86-vc14.38.33130-1ec5dda831b846d1a0da8ced4f9b0c46"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-1ec5dda831b846d1a0da8ced4f9b0c46.7z",
-        sha256 = "9acbb369498577e050177e76b31445e85d3978ce080c4541c32d284fd3daf774"
-    },
-    ["windows-x86-vc14.29.30133-2bccd75bed324c068ca233a791100923"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-2bccd75bed324c068ca233a791100923.7z",
-        sha256 = "5f6dead7bc9930ca74e02d9445a0b7fbce5f21626b85facc8a38c476169d00c7"
-    },
-    ["windows-x64-vc14.38.33130-13e7dedef230474194dc58a04e432f33"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-13e7dedef230474194dc58a04e432f33.7z",
-        sha256 = "061c2559c1cb0013b352464114fa497ed5f95423b7467d07f6c7c81ca9c6cc16"
-    },
-    ["windows-x86-vc14.38.33130-4a702ad76a3046d180e45d900261744a"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-4a702ad76a3046d180e45d900261744a.7z",
-        sha256 = "0a3d56696473348bbef771799f76b65e63044836d173ac9255fe820562173fc1"
-    },
-    ["windows-x64-vc14.42.34433-e5b8ecbaa890487bb23308dc1533673f"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-e5b8ecbaa890487bb23308dc1533673f.7z",
-        sha256 = "391dc0a7377f2c53b2856e1334a122b8cb85d9611308c7fc4f3747efc5e6047c"
-    },
-    ["windows-x64-vc14.42.34433-3af7dff2801848e086a84c209648164e"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-3af7dff2801848e086a84c209648164e.7z",
-        sha256 = "c1b8cd9076e25ec56b369c232656f8333403e54cb92dd65cf9f29d234dee8fed"
+        sha256 = "b1df33d85de526be6ab369d04ec6f9f3def68b7cc173ed9e926f2f9344e917b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-1ec5dda831b846d1a0da8ced4f9b0c46.7z"
     },
     ["windows-x86-vc14.29.30133-4a702ad76a3046d180e45d900261744a"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-4a702ad76a3046d180e45d900261744a.7z",
-        sha256 = "509ab3115f1943d216a4dc77c5042f5048f002389ea321a97adb470638bf5e95"
+        sha256 = "509ab3115f1943d216a4dc77c5042f5048f002389ea321a97adb470638bf5e95",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-4a702ad76a3046d180e45d900261744a.7z"
     },
-    ["windows-x64-vc14.29.30133-13e7dedef230474194dc58a04e432f33"] = {
+    ["windows-x86-vc14.29.30133-2bccd75bed324c068ca233a791100923"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-13e7dedef230474194dc58a04e432f33.7z",
-        sha256 = "03dacfd01fbe67c55c5ec7bc69de6a3c89527b195a4f536d7417468f4f6306af"
-    },
-    ["windows-x86-vc14.29.30133-1ec5dda831b846d1a0da8ced4f9b0c46"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-1ec5dda831b846d1a0da8ced4f9b0c46.7z",
-        sha256 = "3f5deaa18a54aaa5e36c68f88627a4aba0b5c2d3b066892d9c5f5ea2264e5c66"
-    },
-    ["windows-x64-vc14.38.33130-e5b8ecbaa890487bb23308dc1533673f"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-e5b8ecbaa890487bb23308dc1533673f.7z",
-        sha256 = "217d488ce0224eaf024f3dae6161c85ca3dc610cd7f3b0b7199369262d494561"
-    },
-    ["windows-x86-vc14.42.34433-4a702ad76a3046d180e45d900261744a"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-4a702ad76a3046d180e45d900261744a.7z",
-        sha256 = "15475033545a6bbde1a19471769b1cde2a8fa5d51284d17a055fe13f185b61cd"
-    },
-    ["windows-x86-vc14.38.33130-19a5e87d36fa4c3fb024adfc6d9e16e7"] = {
-        toolset = "14.38.33130",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-19a5e87d36fa4c3fb024adfc6d9e16e7.7z",
-        sha256 = "a53580f0343bc82ad5a83b28f2ad5bbd76cf2b97f4041a593f0656b774a1c7ab"
-    },
-    ["windows-x64-vc14.29.30133-c0111f8f0b2942a3b583333ad0d304f2"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-c0111f8f0b2942a3b583333ad0d304f2.7z",
-        sha256 = "da621017571116a9075db711ed25c6965fbeb841a27550dc0d525328b2f3bcda"
+        sha256 = "5f6dead7bc9930ca74e02d9445a0b7fbce5f21626b85facc8a38c476169d00c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-2bccd75bed324c068ca233a791100923.7z"
     },
     ["windows-x64-vc14.29.30133-e5b8ecbaa890487bb23308dc1533673f"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-e5b8ecbaa890487bb23308dc1533673f.7z",
-        sha256 = "b6dab3fc3cd401548333f0419f916a86ec5a555032c19f09000fe9ad27f00f1c"
+        sha256 = "7cc719223f4aa8fddcf6425f961527390144e0bd9a33306666501822ee0a0bba",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-e5b8ecbaa890487bb23308dc1533673f.7z"
+    },
+    ["windows-x86-vc14.38.33130-19a5e87d36fa4c3fb024adfc6d9e16e7"] = {
+        toolset = "14.38.33130",
+        sha256 = "a53580f0343bc82ad5a83b28f2ad5bbd76cf2b97f4041a593f0656b774a1c7ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-19a5e87d36fa4c3fb024adfc6d9e16e7.7z"
+    },
+    ["windows-x64-vc14.43.34808-fd6164a486204e8b962ba8d0dbf2cc63"] = {
+        toolset = "14.43.34808",
+        sha256 = "a1b5a1e3a40f1638f24f8cf4291e94dfde3794900504b2276ef67632c643224c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.43.34808-fd6164a486204e8b962ba8d0dbf2cc63.7z"
+    },
+    ["windows-x64-vc14.29.30133-c0111f8f0b2942a3b583333ad0d304f2"] = {
+        toolset = "14.29.30133",
+        sha256 = "4fbb4b8352b2812f8e7cacc02b6f2f52458c84a5970159ea9537c9fc20b8e8b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-c0111f8f0b2942a3b583333ad0d304f2.7z"
+    },
+    ["windows-x86-vc14.29.30133-19a5e87d36fa4c3fb024adfc6d9e16e7"] = {
+        toolset = "14.29.30133",
+        sha256 = "b80522cfaf6fcac204a888bc44a125d8c3e01f24d5eec23c07c689ad8d27fa1c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-19a5e87d36fa4c3fb024adfc6d9e16e7.7z"
+    },
+    ["windows-x64-vc14.42.34433-3af7dff2801848e086a84c209648164e"] = {
+        toolset = "14.42.34433",
+        sha256 = "c1b8cd9076e25ec56b369c232656f8333403e54cb92dd65cf9f29d234dee8fed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-3af7dff2801848e086a84c209648164e.7z"
+    },
+    ["windows-x86-vc14.43.34808-2bdd1c61c39244bebcedc89b353ef179"] = {
+        toolset = "14.43.34808",
+        sha256 = "287ebd839388c453fc4c8994aadef8b62533c37d8f5b8157d852b71574dbd30e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.43.34808-2bdd1c61c39244bebcedc89b353ef179.7z"
+    },
+    ["windows-x64-vc14.42.34433-e5b8ecbaa890487bb23308dc1533673f"] = {
+        toolset = "14.42.34433",
+        sha256 = "391dc0a7377f2c53b2856e1334a122b8cb85d9611308c7fc4f3747efc5e6047c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-e5b8ecbaa890487bb23308dc1533673f.7z"
+    },
+    ["windows-x86-vc14.38.33130-2bccd75bed324c068ca233a791100923"] = {
+        toolset = "14.38.33130",
+        sha256 = "a7421536786efc84e62aab6cd93a47b33e71609b48502be751ebe5172c59d676",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-2bccd75bed324c068ca233a791100923.7z"
+    },
+    ["windows-x86-vc14.42.34433-2bccd75bed324c068ca233a791100923"] = {
+        toolset = "14.42.34433",
+        sha256 = "64e79188b91f5c15693e0d0ab420e15c31f8809ac1706a4d998e31b6fc5d6ab9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-2bccd75bed324c068ca233a791100923.7z"
+    },
+    ["windows-x86-vc14.43.34808-e62386d7afad4a8d9424cd707738563a"] = {
+        toolset = "14.43.34808",
+        sha256 = "388fceb712ad576178d5a5d836331235545e43dc5ecb78bfa1d6ac8e0400c1b8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.43.34808-e62386d7afad4a8d9424cd707738563a.7z"
+    },
+    ["windows-x86-vc14.38.33130-4a702ad76a3046d180e45d900261744a"] = {
+        toolset = "14.38.33130",
+        sha256 = "0a3d56696473348bbef771799f76b65e63044836d173ac9255fe820562173fc1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-4a702ad76a3046d180e45d900261744a.7z"
+    },
+    ["windows-x64-vc14.38.33130-13e7dedef230474194dc58a04e432f33"] = {
+        toolset = "14.38.33130",
+        sha256 = "061c2559c1cb0013b352464114fa497ed5f95423b7467d07f6c7c81ca9c6cc16",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-13e7dedef230474194dc58a04e432f33.7z"
+    },
+    ["windows-x86-vc14.29.30133-1ec5dda831b846d1a0da8ced4f9b0c46"] = {
+        toolset = "14.29.30133",
+        sha256 = "983f4e090e6a5fabdd0b795a9825ce2b476a6044de6a4c026632c796e65dd97e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-1ec5dda831b846d1a0da8ced4f9b0c46.7z"
+    },
+    ["windows-x64-vc14.42.34433-13e7dedef230474194dc58a04e432f33"] = {
+        toolset = "14.42.34433",
+        sha256 = "ba4a9ce6cc5580c8c48f8158d71f6ff0dd84a36d491639415d6df8cfb383ce2b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-13e7dedef230474194dc58a04e432f33.7z"
+    },
+    ["windows-x64-vc14.29.30133-13e7dedef230474194dc58a04e432f33"] = {
+        toolset = "14.29.30133",
+        sha256 = "03dacfd01fbe67c55c5ec7bc69de6a3c89527b195a4f536d7417468f4f6306af",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-13e7dedef230474194dc58a04e432f33.7z"
+    },
+    ["windows-x64-vc14.43.34808-63773e71a61b47fbb0fc934488591596"] = {
+        toolset = "14.43.34808",
+        sha256 = "22a40d03fadc39cc861d8569d6d8fd20055cb9a23838afa2948a9ed2424a8f98",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.43.34808-63773e71a61b47fbb0fc934488591596.7z"
+    },
+    ["windows-x64-vc14.38.33130-c0111f8f0b2942a3b583333ad0d304f2"] = {
+        toolset = "14.38.33130",
+        sha256 = "be110a602b1947ad254b7bff6a0b2b43dc2a713a8a9ceb154fc9c051e01f3d87",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-c0111f8f0b2942a3b583333ad0d304f2.7z"
+    },
+    ["windows-x86-vc14.29.30133-d52693bb331b4416980bb85ee834b9b5"] = {
+        toolset = "14.29.30133",
+        sha256 = "15f12d7b0a9a44c3e53c2b6efb6381828be7bf48eff2763f1772937042158d8b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-d52693bb331b4416980bb85ee834b9b5.7z"
+    },
+    ["windows-x86-vc14.38.33130-1ec5dda831b846d1a0da8ced4f9b0c46"] = {
+        toolset = "14.38.33130",
+        sha256 = "9acbb369498577e050177e76b31445e85d3978ce080c4541c32d284fd3daf774",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.38.33130-1ec5dda831b846d1a0da8ced4f9b0c46.7z"
     },
     ["windows-x64-vc14.42.34433-c0111f8f0b2942a3b583333ad0d304f2"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-c0111f8f0b2942a3b583333ad0d304f2.7z",
-        sha256 = "88f7b89238c987a0e70a7f70c7ef706d5eeb809143350880641e6cbc44cf8393"
+        sha256 = "88f7b89238c987a0e70a7f70c7ef706d5eeb809143350880641e6cbc44cf8393",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.42.34433-c0111f8f0b2942a3b583333ad0d304f2.7z"
+    },
+    ["windows-x86-vc14.42.34433-4a702ad76a3046d180e45d900261744a"] = {
+        toolset = "14.42.34433",
+        sha256 = "15475033545a6bbde1a19471769b1cde2a8fa5d51284d17a055fe13f185b61cd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-4a702ad76a3046d180e45d900261744a.7z"
     },
     ["windows-x64-vc14.29.30133-3af7dff2801848e086a84c209648164e"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-3af7dff2801848e086a84c209648164e.7z",
-        sha256 = "76b592d1a6e2059ff20e9eca8915e1a1bb9fa3030a715d29b1f4b494be5455e6"
+        sha256 = "76b592d1a6e2059ff20e9eca8915e1a1bb9fa3030a715d29b1f4b494be5455e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-3af7dff2801848e086a84c209648164e.7z"
+    },
+    ["windows-x64-vc14.38.33130-e5b8ecbaa890487bb23308dc1533673f"] = {
+        toolset = "14.38.33130",
+        sha256 = "217d488ce0224eaf024f3dae6161c85ca3dc610cd7f3b0b7199369262d494561",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-e5b8ecbaa890487bb23308dc1533673f.7z"
+    },
+    ["windows-x64-vc14.29.30133-63773e71a61b47fbb0fc934488591596"] = {
+        toolset = "14.29.30133",
+        sha256 = "d24ba5cbe72ec81acbb4d6468d2f35332dc5173ac7cd3fe03903eaa676814139",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.29.30133-63773e71a61b47fbb0fc934488591596.7z"
+    },
+    ["windows-x64-vc14.43.34808-1afefe6496e74e418792ececef015676"] = {
+        toolset = "14.43.34808",
+        sha256 = "934d606511e0f3b0368cde66c4b069d81e8c572e1e0918dfc5b8f5fe68dcc261",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.43.34808-1afefe6496e74e418792ececef015676.7z"
     },
     ["windows-x86-vc14.42.34433-19a5e87d36fa4c3fb024adfc6d9e16e7"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-19a5e87d36fa4c3fb024adfc6d9e16e7.7z",
-        sha256 = "24cd0c8ea3ca785047dc760f78283ee476395df8140f1aedea6db98bbe7add7c"
+        sha256 = "24cd0c8ea3ca785047dc760f78283ee476395df8140f1aedea6db98bbe7add7c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.42.34433-19a5e87d36fa4c3fb024adfc6d9e16e7.7z"
+    },
+    ["windows-x64-vc14.38.33130-3af7dff2801848e086a84c209648164e"] = {
+        toolset = "14.38.33130",
+        sha256 = "8b15ad7f7087358fa540e0d00b490c5a20919c726530288d43518c5cd2be1d26",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x64-vc14.38.33130-3af7dff2801848e086a84c209648164e.7z"
+    },
+    ["windows-x86-vc14.43.34808-f157981ef4c04f27b2073201125c8e34"] = {
+        toolset = "14.43.34808",
+        sha256 = "a977d4ddcc80572ff5cdbb2f7252987dab9ef059c8d3c3eaf654331d59b67ba3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.43.34808-f157981ef4c04f27b2073201125c8e34.7z"
+    },
+    ["windows-x86-vc14.29.30133-e62386d7afad4a8d9424cd707738563a"] = {
+        toolset = "14.29.30133",
+        sha256 = "5bf9e8ca829855edc7f61e2d3019d979d12da834f8ac5866d8286ce29a3e384f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.29.30133-e62386d7afad4a8d9424cd707738563a.7z"
+    },
+    ["windows-x86-vc14.43.34808-d52693bb331b4416980bb85ee834b9b5"] = {
+        toolset = "14.43.34808",
+        sha256 = "d25bf808a726fa3b8c7fdb7ba43f72582964943fa1c866131195c90cc7924792",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/webui-2.4.2/windows-x86-vc14.43.34808-d52693bb331b4416980bb85ee834b9b5.7z"
     }
 }
