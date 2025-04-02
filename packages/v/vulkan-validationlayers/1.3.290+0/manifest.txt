@@ -1,122 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
-        sha256 = "520a599cd70331be46811e73e49de9b7ee6a4a42309008877aa2b1cca8b5e201"
-    },
-    ["windows-x64-vc14.29.30133-6ae243da57aa420495666158f4e39a48"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-6ae243da57aa420495666158f4e39a48.7z",
-        sha256 = "d80fa7408bc922199bdece8953d2e143e5f64409c8a244c44fbd2e2cdfc5294c"
-    },
-    ["windows-x64-vc14.29.30133-c6082ed83d6549d28f9e22ec82d57e2e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-c6082ed83d6549d28f9e22ec82d57e2e.7z",
-        sha256 = "824c91c1be5d390141d29b90768096dfce3131c08be3806e53d16a4bcf0c6693"
-    },
-    ["windows-x64-vc14.41.34120-f6b7b4f5adbd4301b7baecf22660701c"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-f6b7b4f5adbd4301b7baecf22660701c.7z",
-        sha256 = "c2852013e812245e4b54de37061ddd1d519a9cecbeeb9a31b6160eb02aaa2716"
+    ["windows-x86-vc14.29.30133-cf295ea897ae4fe6be2e52b78ed4d149"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-cf295ea897ae4fe6be2e52b78ed4d149.7z",
+        sha256 = "810d82fee05e439d0c5f8481b8b5f9707d468f27e8bff523e9d698a534ed70f1",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.40.33807-cf295ea897ae4fe6be2e52b78ed4d149"] = {
-        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.40.33807-cf295ea897ae4fe6be2e52b78ed4d149.7z",
-        sha256 = "0160ec03581271986d1f9d840930483b2fab929d30a50034f944667009f0b352"
+        sha256 = "0160ec03581271986d1f9d840930483b2fab929d30a50034f944667009f0b352",
+        toolset = "14.40.33807"
     },
     ["windows-x86-vc14.41.34120-cf295ea897ae4fe6be2e52b78ed4d149"] = {
-        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-cf295ea897ae4fe6be2e52b78ed4d149.7z",
-        sha256 = "17809c2ea86d933d95d34a4260d64764264199d388150fc08ae142310b3afe6c"
+        sha256 = "17809c2ea86d933d95d34a4260d64764264199d388150fc08ae142310b3afe6c",
+        toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.41.34120-8ef117e939b141ed8086620901261555"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-8ef117e939b141ed8086620901261555.7z",
-        sha256 = "fd833336872d09ad4dd1828cd417c28ed3978d5d2ce42185ec4ab6aa5539b6ef"
-    },
-    ["windows-x64-vc14.40.33807-f6b7b4f5adbd4301b7baecf22660701c"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-f6b7b4f5adbd4301b7baecf22660701c.7z",
-        sha256 = "fdf9c653baee8817a1daf555ee4a68df40eaf2eafe6fa1f18298369d0eb1e274"
-    },
-    ["windows-x86-vc14.41.34120-ec8dd0fa74d142bea8ba1d174e936fce"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-ec8dd0fa74d142bea8ba1d174e936fce.7z",
-        sha256 = "8cfc76b28eb9372f3fb310ea4a8e267b44d7ad4f2208b42686847c1e30fa8c63"
-    },
-    ["windows-x86-vc14.40.33807-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.40.33807-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
-        sha256 = "0d59e93a74973d96d06d7437b0af593c6cb121c2a5a11bdd1013fc3d3eb42ee0"
-    },
-    ["windows-x64-vc14.29.30133-f6b7b4f5adbd4301b7baecf22660701c"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-f6b7b4f5adbd4301b7baecf22660701c.7z",
-        sha256 = "034866de625eb570f2f723588f58ce2852c85bd3f2a5e8b7a88ee46ddc9009cb"
-    },
-    ["windows-x86-vc14.41.34120-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
-        sha256 = "c82b2b4678b385dd0b94bb75807ca1d917bdfdd8a3a02a18793da8fcf600a814"
-    },
-    ["windows-x64-vc14.40.33807-8ef117e939b141ed8086620901261555"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-8ef117e939b141ed8086620901261555.7z",
-        sha256 = "9318e3fb1d0315af2cb9b01fc7c5ad821922b017c489ef99c1759817a14584b5"
-    },
-    ["windows-x64-vc14.40.33807-6ae243da57aa420495666158f4e39a48"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-6ae243da57aa420495666158f4e39a48.7z",
-        sha256 = "0a09c776476ab7e1f7adc39a5481eec7a74ae0e75136598af276d50defb427d7"
-    },
-    ["windows-x86-vc14.40.33807-ec8dd0fa74d142bea8ba1d174e936fce"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.40.33807-ec8dd0fa74d142bea8ba1d174e936fce.7z",
-        sha256 = "58763be9b2cf4a69623fddc5a63004e809d39fd9e41b602e21720beb33efadc2"
-    },
-    ["windows-x64-vc14.41.34120-c6082ed83d6549d28f9e22ec82d57e2e"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-c6082ed83d6549d28f9e22ec82d57e2e.7z",
-        sha256 = "abfa3d91ecf318098e666006ac63805f3a111d7a47e70c4019eceff4a58baa6d"
+    ["windows-x86-vc14.43.34808-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.43.34808-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
+        sha256 = "aa966c797dbacbab50dec53ca9db6e42af065be6641f882572145f0ea180ff6a",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.40.33807-e9776854720c4f95a462992873abe825"] = {
-        toolset = "14.40.33807",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.40.33807-e9776854720c4f95a462992873abe825.7z",
-        sha256 = "a9bc69401ae81f60c6cfcd34700eeceb54da753675cdef278d6da9c46061fb25"
+        sha256 = "a9bc69401ae81f60c6cfcd34700eeceb54da753675cdef278d6da9c46061fb25",
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.29.30133-e9776854720c4f95a462992873abe825"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-e9776854720c4f95a462992873abe825.7z",
-        sha256 = "3cf2b9cb5bdd68de59752eea09de40af18c84d71c5fdd749299414ed6f93b53d"
+    ["windows-x64-vc14.41.34120-8ef117e939b141ed8086620901261555"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-8ef117e939b141ed8086620901261555.7z",
+        sha256 = "fd833336872d09ad4dd1828cd417c28ed3978d5d2ce42185ec4ab6aa5539b6ef",
+        toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.41.34120-e9776854720c4f95a462992873abe825"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-e9776854720c4f95a462992873abe825.7z",
-        sha256 = "4b7e683f92d70986006cc4f2d073a7dba1f0114741e207dbec73b8f348910229"
+    ["windows-x86-vc14.43.34808-ec8dd0fa74d142bea8ba1d174e936fce"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.43.34808-ec8dd0fa74d142bea8ba1d174e936fce.7z",
+        sha256 = "285deed45869ce7e0d36c720117160353ae16371829e60f1c0a6c98e3e15eb7f",
+        toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.40.33807-c6082ed83d6549d28f9e22ec82d57e2e"] = {
-        toolset = "14.40.33807",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-c6082ed83d6549d28f9e22ec82d57e2e.7z",
-        sha256 = "e72aad52f90d0b5f81c4c3f51c725df27853a60d283457d370e2236b6870b297"
+    ["windows-x64-vc14.29.30133-c6082ed83d6549d28f9e22ec82d57e2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-c6082ed83d6549d28f9e22ec82d57e2e.7z",
+        sha256 = "455e8da7fc1467779484d8bcd337ae35ad26eb48b3759403d24fb6aa174f56ee",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-ec8dd0fa74d142bea8ba1d174e936fce"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.40.33807-ec8dd0fa74d142bea8ba1d174e936fce.7z",
+        sha256 = "58763be9b2cf4a69623fddc5a63004e809d39fd9e41b602e21720beb33efadc2",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.43.34808-8ef117e939b141ed8086620901261555"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.43.34808-8ef117e939b141ed8086620901261555.7z",
+        sha256 = "82869ce24b460d26b98dd5a48771ab0b2cd64a97c538ae69f198a7b464266f3f",
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc14.29.30133-8ef117e939b141ed8086620901261555"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-8ef117e939b141ed8086620901261555.7z",
-        sha256 = "6755ac10b58ef65c1d32311de5e89348c377a0f991331836c940dcf626651c38"
+        sha256 = "c4343618e18ebf4ce170ce3aaf76378e9c2b64f19fbcf264399f88cf57d58012",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-cf295ea897ae4fe6be2e52b78ed4d149"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.43.34808-cf295ea897ae4fe6be2e52b78ed4d149.7z",
+        sha256 = "361b31b0293e976dc224ddd04d0b4a25cc69dad75e466006b5558a833a5bb271",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-f6b7b4f5adbd4301b7baecf22660701c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-f6b7b4f5adbd4301b7baecf22660701c.7z",
+        sha256 = "14b6134d57ff9f8d85bb5b752d70378e350c9a299f84b97f6ef5909f7e89304a",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-6ae243da57aa420495666158f4e39a48"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.43.34808-6ae243da57aa420495666158f4e39a48.7z",
+        sha256 = "3f43532044085e4c7c9ee7f1947b500c93a7ca372369cfc08ad61754089936d3",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-6ae243da57aa420495666158f4e39a48"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.29.30133-6ae243da57aa420495666158f4e39a48.7z",
+        sha256 = "9a0ec39c2482fa3ca60029a5ea406701819cbcc2818b5b34459cc3861af32bb4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
+        sha256 = "1266adfbbf42d4a6f77703a40ff732966976e601ae39f6d099b37878833388f3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-8ef117e939b141ed8086620901261555"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-8ef117e939b141ed8086620901261555.7z",
+        sha256 = "9318e3fb1d0315af2cb9b01fc7c5ad821922b017c489ef99c1759817a14584b5",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.41.34120-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
+        sha256 = "c82b2b4678b385dd0b94bb75807ca1d917bdfdd8a3a02a18793da8fcf600a814",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.43.34808-c6082ed83d6549d28f9e22ec82d57e2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.43.34808-c6082ed83d6549d28f9e22ec82d57e2e.7z",
+        sha256 = "6163e1c4819dba59532cda98d571f6fc35c11f1c4f344583bc2ddb78e26bfb44",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.40.33807-8d1ce08e753a4ecc8e872ac260ef8e15"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.40.33807-8d1ce08e753a4ecc8e872ac260ef8e15.7z",
+        sha256 = "0d59e93a74973d96d06d7437b0af593c6cb121c2a5a11bdd1013fc3d3eb42ee0",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-e9776854720c4f95a462992873abe825"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-e9776854720c4f95a462992873abe825.7z",
+        sha256 = "530b93bc510332d5f7a21ebf2303075ba4a802f0c3264053bb85a3a03938b6ce",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-c6082ed83d6549d28f9e22ec82d57e2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-c6082ed83d6549d28f9e22ec82d57e2e.7z",
+        sha256 = "e72aad52f90d0b5f81c4c3f51c725df27853a60d283457d370e2236b6870b297",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.43.34808-e9776854720c4f95a462992873abe825"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.43.34808-e9776854720c4f95a462992873abe825.7z",
+        sha256 = "a0743301537df6275d2e10c6382e77528638e6035dc9c69c816de64bc3cfc3cc",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.41.34120-ec8dd0fa74d142bea8ba1d174e936fce"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-ec8dd0fa74d142bea8ba1d174e936fce.7z",
+        sha256 = "8cfc76b28eb9372f3fb310ea4a8e267b44d7ad4f2208b42686847c1e30fa8c63",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.43.34808-f6b7b4f5adbd4301b7baecf22660701c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.43.34808-f6b7b4f5adbd4301b7baecf22660701c.7z",
+        sha256 = "df7fe9a873adbd69a1c54e646da0a46bc8d08b80e011e79381a6ba40d2215d45",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.41.34120-c6082ed83d6549d28f9e22ec82d57e2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-c6082ed83d6549d28f9e22ec82d57e2e.7z",
+        sha256 = "abfa3d91ecf318098e666006ac63805f3a111d7a47e70c4019eceff4a58baa6d",
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.29.30133-ec8dd0fa74d142bea8ba1d174e936fce"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-ec8dd0fa74d142bea8ba1d174e936fce.7z",
-        sha256 = "b4ec46c3d9d2edaea1e4b4c0e46e98e0b3362699158885a3356a141353aaec2a"
+        sha256 = "b704efb93c95de27903ca81c08ddeae7a9d302358e0328f4ae79559751611b0c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-6ae243da57aa420495666158f4e39a48"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-6ae243da57aa420495666158f4e39a48.7z",
+        sha256 = "0a09c776476ab7e1f7adc39a5481eec7a74ae0e75136598af276d50defb427d7",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.41.34120-e9776854720c4f95a462992873abe825"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.41.34120-e9776854720c4f95a462992873abe825.7z",
+        sha256 = "4b7e683f92d70986006cc4f2d073a7dba1f0114741e207dbec73b8f348910229",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.40.33807-f6b7b4f5adbd4301b7baecf22660701c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.40.33807-f6b7b4f5adbd4301b7baecf22660701c.7z",
+        sha256 = "fdf9c653baee8817a1daf555ee4a68df40eaf2eafe6fa1f18298369d0eb1e274",
+        toolset = "14.40.33807"
     },
     ["windows-x64-vc14.41.34120-6ae243da57aa420495666158f4e39a48"] = {
-        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-6ae243da57aa420495666158f4e39a48.7z",
-        sha256 = "9d5e71b9446ef6b4f7657b7b6642ff182f814f48f460c537fc3abd2c30e6be1f"
+        sha256 = "9d5e71b9446ef6b4f7657b7b6642ff182f814f48f460c537fc3abd2c30e6be1f",
+        toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.29.30133-cf295ea897ae4fe6be2e52b78ed4d149"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x86-vc14.29.30133-cf295ea897ae4fe6be2e52b78ed4d149.7z",
-        sha256 = "f65d28f900cc47ad9a2d4b130c42bb70bf685c300af2adc7ac319660967f5b72"
+    ["windows-x64-vc14.41.34120-f6b7b4f5adbd4301b7baecf22660701c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-validationlayers-1.3.290%2B0/windows-x64-vc14.41.34120-f6b7b4f5adbd4301b7baecf22660701c.7z",
+        sha256 = "c2852013e812245e4b54de37061ddd1d519a9cecbeeb9a31b6160eb02aaa2716",
+        toolset = "14.41.34120"
     }
 }
