@@ -1,132 +1,7 @@
 {
-    ["windows-x64-vc14.29.30133-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
-        sha256 = "a95bcffb8ba2db0ad6b86ecc44545ca41470859b0f88fe67c11a432ae0765232",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-554d617796584293aed78eba7bb46b04"] = {
-        sha256 = "1bb23b165860a02b772068ef5019ed93759278b5d1976c82e0db78cc9a6f2cf6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-554d617796584293aed78eba7bb46b04.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-a20ab70613924930a6caf68e1c61c3ff"] = {
-        sha256 = "da3d53510376ba0b6484d341971c88b62135214be3b2b0dfbabf530adc790793",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-a20ab70613924930a6caf68e1c61c3ff.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-8ba68bacdddd41e89c762fb99e43c45d"] = {
-        sha256 = "c5fd230a31f0ffa709b58aab5b65c896c730f9c41183473d9658b012b63daaa9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-8ba68bacdddd41e89c762fb99e43c45d.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-2e907908571f4d11bdd7ac2a4bb076f0"] = {
-        sha256 = "04749dd6fa75f5f8d1d8f5ab9511b16d798325edcd1d57bec0f83ba5ee96f248",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-2e907908571f4d11bdd7ac2a4bb076f0.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-15e7e56b3c5947f28cb3a8e71ff3d714"] = {
-        sha256 = "7047020074012658552d579b33b1614a473326ea1b060ab03d40e3562f4f613f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-15e7e56b3c5947f28cb3a8e71ff3d714.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
-        sha256 = "76e8eec7ae8c72bec5f3af27a7bb2075afe2f9c05cd51e262ec5be4d3b76c1be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-fbab7950c39e448c953541500ba4bc0a"] = {
-        sha256 = "38efc9b2fd3ce6ca63b1a2132f92c79ef832ecf056f49030d45c063a21700992",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-fbab7950c39e448c953541500ba4bc0a.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.41.34120-227cb730e63d4ec4bb96ff922d33b785"] = {
-        sha256 = "45b4c51b504a4fd312f105e6f27f0993157acec99786f05c6d7f6ece0a95c1b1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-227cb730e63d4ec4bb96ff922d33b785.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-554d617796584293aed78eba7bb46b04"] = {
-        sha256 = "831ba0e2e59b3c0d88d00a93b3dae3753f93e208d778699d34b084ad5a40222d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-554d617796584293aed78eba7bb46b04.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.42.34433-554d617796584293aed78eba7bb46b04"] = {
-        sha256 = "c144d90e3cece5eeeb164cf1811481a9e990da6a2c29fe451e6608ef483f5420",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-554d617796584293aed78eba7bb46b04.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.37.32822-e85e6425c42e4b858549cd5266bb68c8"] = {
-        sha256 = "d38b6414b9eb09644e34c6f98d267d08838a1b860f258d9ebef2f41aa1bf9e6f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-e85e6425c42e4b858549cd5266bb68c8.7z",
-        toolset = "14.37.32822"
-    },
     ["windows-x86-vc14.29.30133-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
         sha256 = "64ca9c668fc1d8520e22a65cad3f5dd9a9e345b09e8b7646ca8517f3c0f9eef0",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-f7b6c438eb114628a6e3d4a74dde7ddc"] = {
-        sha256 = "ad11939ae1e1daabf480d544b1d30e93fa0d12573ad12c51ebc1d48f04545a5d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-f7b6c438eb114628a6e3d4a74dde7ddc.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-45aaf15a14df4a069ee857d96be089d1"] = {
-        sha256 = "977a9e830e368fe7e435ab8bb638f985dae32f8bc5da574151c293393b6ff3be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-45aaf15a14df4a069ee857d96be089d1.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.42.34433-e85e6425c42e4b858549cd5266bb68c8"] = {
-        sha256 = "27f46b0ca4419cf323948a0b6703a5c6db6757e746931d4b7d7bedd141af7949",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-e85e6425c42e4b858549cd5266bb68c8.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.42.34433-14f090a2977b4917bf4a7c85e822e423"] = {
-        sha256 = "2d8c4db45bb93f27c9e6570af79c62ff446ba065732f9a88017e206d4574c926",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-14f090a2977b4917bf4a7c85e822e423.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.37.32822-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
-        sha256 = "aa1606754d553d2d00f19127dbf54fb39825ff5cc6afbbcdf3886c71b90fe9c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-8932dd077b4a4af5b320ac498128b048"] = {
-        sha256 = "54ba073ff424c9732abe422cfc32dfe645bec8c36025f522dd1c5d4f7f6bb991",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-8932dd077b4a4af5b320ac498128b048.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-17375db635184c5a9d8fa0f5857630b4"] = {
-        sha256 = "2e870670bae136a2f202c6cc109120d99caf5b70f75282df4fedfd1a45055106",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-17375db635184c5a9d8fa0f5857630b4.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-14f090a2977b4917bf4a7c85e822e423"] = {
-        sha256 = "388853a64e23ef8fde17cdfde196a40e8b84542a74e269e1251d046de2cae0a8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-14f090a2977b4917bf4a7c85e822e423.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-73fc2afebeb944afbb094d5eaf2961f9"] = {
-        sha256 = "5d4e0b3cb361c6b73cdb44f95cec582ace12daa8f160bb66671e307e747be3ab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-73fc2afebeb944afbb094d5eaf2961f9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
-        sha256 = "88c7e5701a9669fc03e39fa47def245f0c25bf746e027c4d9e3592cec5861bc6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc142-73fc2afebeb944afbb094d5eaf2961f9"] = {
-        sha256 = "746e4605d22b49d0197274a4d54ad778ef685159d9525e7019662990cf76a951",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-73fc2afebeb944afbb094d5eaf2961f9.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.42.34433-a20ab70613924930a6caf68e1c61c3ff"] = {
-        sha256 = "207bdba4e7c2e09a5cb6bb0ac1c789c8fb34dad08ef1d94490fbb3b2bd5de7bc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-a20ab70613924930a6caf68e1c61c3ff.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc142-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
-        sha256 = "fc8c3f2500611e258a0cdda0211e24013fb40a39aac8cc9442a2225b495ae6a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc141-f7b6c438eb114628a6e3d4a74dde7ddc"] = {
@@ -134,34 +9,179 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-f7b6c438eb114628a6e3d4a74dde7ddc.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x86-vc14.42.34433-fbab7950c39e448c953541500ba4bc0a"] = {
-        sha256 = "36f433ad9efc216dd0954868e5010ffb0c3bca249a1cd368df12550553aaf03d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-fbab7950c39e448c953541500ba4bc0a.7z",
+    ["windows-x64-vc14.37.32822-45aaf15a14df4a069ee857d96be089d1"] = {
+        sha256 = "977a9e830e368fe7e435ab8bb638f985dae32f8bc5da574151c293393b6ff3be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-45aaf15a14df4a069ee857d96be089d1.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc141-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
+        sha256 = "1c5aa8c34bc0f84b92e6c537904bf1263970e772f4d7b4868cf3adbf67f843bd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.42.34433-a20ab70613924930a6caf68e1c61c3ff"] = {
+        sha256 = "207bdba4e7c2e09a5cb6bb0ac1c789c8fb34dad08ef1d94490fbb3b2bd5de7bc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-a20ab70613924930a6caf68e1c61c3ff.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x64-vc14.38.33130-14f090a2977b4917bf4a7c85e822e423"] = {
-        sha256 = "b7cf4024ca06791af5940e6c6fd3a4345674f98473a656863844f5c59ef6da70",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-14f090a2977b4917bf4a7c85e822e423.7z",
-        toolset = "14.38.33130"
+    ["windows-x64-vc14.29.30133-a20ab70613924930a6caf68e1c61c3ff"] = {
+        sha256 = "e1979f3a69f5b8c72a804da21dbaf561f749730559ae3e1051f1be167dd78a1c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-a20ab70613924930a6caf68e1c61c3ff.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-e85e6425c42e4b858549cd5266bb68c8"] = {
+        sha256 = "da56e9f75909cf2358ec4263278f130d9ded90f9cb554f826b59545eb7cab6b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.43.34808-e85e6425c42e4b858549cd5266bb68c8.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-554d617796584293aed78eba7bb46b04"] = {
+        sha256 = "61df8e5ab31b9829587a3a4c27c5f70619561ba2d264569de16626408d6b8c8d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-554d617796584293aed78eba7bb46b04.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.38.33130-2e907908571f4d11bdd7ac2a4bb076f0"] = {
         sha256 = "fcc9c25bf288eba908efb29cf40511099966e5b933b1d1edba76bbca19dfa0c4",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.38.33130-2e907908571f4d11bdd7ac2a4bb076f0.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc142-15e7e56b3c5947f28cb3a8e71ff3d714"] = {
-        sha256 = "5e0c69af4decd42033c1e6f073ec4a5ee02c06b9e22ef8cc6f19c9f45fdca04c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-15e7e56b3c5947f28cb3a8e71ff3d714.7z",
+    ["windows-x86-vc142-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
+        sha256 = "76e8eec7ae8c72bec5f3af27a7bb2075afe2f9c05cd51e262ec5be4d3b76c1be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.38.33130-45aaf15a14df4a069ee857d96be089d1"] = {
-        sha256 = "d6cb6763a1bea9658549f7daf4778f51f96cfdf558b74c3d254b3630aa783b77",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-45aaf15a14df4a069ee857d96be089d1.7z",
-        toolset = "14.38.33130"
+    ["windows-x64-vc142-73fc2afebeb944afbb094d5eaf2961f9"] = {
+        sha256 = "746e4605d22b49d0197274a4d54ad778ef685159d9525e7019662990cf76a951",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-73fc2afebeb944afbb094d5eaf2961f9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-554d617796584293aed78eba7bb46b04"] = {
+        sha256 = "4a6aeb7670cfe7c3275b7ff3d1544b59de3a0882cc65249b30dcb8cf5c20a727",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.43.34808-554d617796584293aed78eba7bb46b04.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-227cb730e63d4ec4bb96ff922d33b785"] = {
+        sha256 = "300a820273a9273b583f3f0209214c5e31282b51f11ec12914e560b031bc7c78",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-227cb730e63d4ec4bb96ff922d33b785.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-f7b6c438eb114628a6e3d4a74dde7ddc"] = {
+        sha256 = "ad11939ae1e1daabf480d544b1d30e93fa0d12573ad12c51ebc1d48f04545a5d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-f7b6c438eb114628a6e3d4a74dde7ddc.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x86-vc14.29.30133-8932dd077b4a4af5b320ac498128b048"] = {
         sha256 = "e9ff85f6717bf39d2c148142b83e1afceb0bd7d03b6ea913a51b1f74db2dbb0d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-8932dd077b4a4af5b320ac498128b048.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-554d617796584293aed78eba7bb46b04"] = {
+        sha256 = "c144d90e3cece5eeeb164cf1811481a9e990da6a2c29fe451e6608ef483f5420",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-554d617796584293aed78eba7bb46b04.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.37.32822-14f090a2977b4917bf4a7c85e822e423"] = {
+        sha256 = "388853a64e23ef8fde17cdfde196a40e8b84542a74e269e1251d046de2cae0a8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-14f090a2977b4917bf4a7c85e822e423.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc142-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
+        sha256 = "fc8c3f2500611e258a0cdda0211e24013fb40a39aac8cc9442a2225b495ae6a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-14f090a2977b4917bf4a7c85e822e423"] = {
+        sha256 = "8de9e4f0546d2b8dbf9666c293ea699c22d12fb270a7f094bdc68efe3a87aa5d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.43.34808-14f090a2977b4917bf4a7c85e822e423.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-2e907908571f4d11bdd7ac2a4bb076f0"] = {
+        sha256 = "63c368adb9b53d68f924f3be75b3fe56730fe58d062258cfd49b99c83e769bae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.43.34808-2e907908571f4d11bdd7ac2a4bb076f0.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc142-8932dd077b4a4af5b320ac498128b048"] = {
+        sha256 = "8efd3568806081d231ffd9625ac12818f885096c6a20b7adb8d0ee21d4dc8090",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-8932dd077b4a4af5b320ac498128b048.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.37.32822-fbab7950c39e448c953541500ba4bc0a"] = {
+        sha256 = "38efc9b2fd3ce6ca63b1a2132f92c79ef832ecf056f49030d45c063a21700992",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-fbab7950c39e448c953541500ba4bc0a.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.29.30133-fbab7950c39e448c953541500ba4bc0a"] = {
+        sha256 = "9621de7e117b57b8433db0ae0c623a45cd6d4d246ab84abef99bc7d3b1203acf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-fbab7950c39e448c953541500ba4bc0a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-73fc2afebeb944afbb094d5eaf2961f9"] = {
+        sha256 = "0b538af580222ff4eb31dc2855c7dc35d1d30500396b023dc7d998f78c2fa5ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-73fc2afebeb944afbb094d5eaf2961f9.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc142-17375db635184c5a9d8fa0f5857630b4"] = {
+        sha256 = "335924d484e6a4befd0dd2efd7587a296bb2c7a7df21debda6ff3cd5a807a427",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-17375db635184c5a9d8fa0f5857630b4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-14f090a2977b4917bf4a7c85e822e423"] = {
+        sha256 = "9d4062852a4b52efd6964627f903ff73e934988c894ead4ff8b0ebd64cd31264",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-14f090a2977b4917bf4a7c85e822e423.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.38.33130-e85e6425c42e4b858549cd5266bb68c8"] = {
+        sha256 = "0f787d53e87a797e5974fc24e85b78a24fb170c001a9ae0256eb914c86e2dfd4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-e85e6425c42e4b858549cd5266bb68c8.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.41.34120-554d617796584293aed78eba7bb46b04"] = {
+        sha256 = "e1e505a9554d742d59f48ff2dbb4e270355ada9286a2e0227ff3eb16eb91781c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-554d617796584293aed78eba7bb46b04.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc141-17375db635184c5a9d8fa0f5857630b4"] = {
+        sha256 = "64b60579c83ee4e2c66f047bf8ce0bbea0c52dac29857376deee6382d20ad90a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-17375db635184c5a9d8fa0f5857630b4.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.29.30133-73fc2afebeb944afbb094d5eaf2961f9"] = {
+        sha256 = "5d4e0b3cb361c6b73cdb44f95cec582ace12daa8f160bb66671e307e747be3ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-73fc2afebeb944afbb094d5eaf2961f9.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-8ba68bacdddd41e89c762fb99e43c45d"] = {
+        sha256 = "599b531c7dc815df8b828e5f20b19fcfee191e979181c1508bb2ee448422dca4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-8ba68bacdddd41e89c762fb99e43c45d.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.41.34120-a20ab70613924930a6caf68e1c61c3ff"] = {
+        sha256 = "b8b3a75d9495081cb2ad879ac2699182993875f03955a3b5a4e7daa3473dd775",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-a20ab70613924930a6caf68e1c61c3ff.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.37.32822-227cb730e63d4ec4bb96ff922d33b785"] = {
+        sha256 = "fe9a977f3cbe33286cdb8e60072853f82053f1951e6899ce8ec84fc2e09ef6d4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-227cb730e63d4ec4bb96ff922d33b785.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.37.32822-17375db635184c5a9d8fa0f5857630b4"] = {
+        sha256 = "a4c913bc33084ddbb96175eea26d6e04ab87996bd9a27d75e8de461ae6199533",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-17375db635184c5a9d8fa0f5857630b4.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-8932dd077b4a4af5b320ac498128b048"] = {
+        sha256 = "54ba073ff424c9732abe422cfc32dfe645bec8c36025f522dd1c5d4f7f6bb991",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-8932dd077b4a4af5b320ac498128b048.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-73fc2afebeb944afbb094d5eaf2961f9"] = {
+        sha256 = "2c04b8163613ca47c8b697ad5ed2903b6600fa339b73e5c749a4bc73b5006020",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-73fc2afebeb944afbb094d5eaf2961f9.7z",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc14.29.30133-2e907908571f4d11bdd7ac2a4bb076f0"] = {
+        sha256 = "aa71b319e3b0208b6e4f606f3fc6937d59dc433cdce30c61d3c7c52d7d5789c3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-2e907908571f4d11bdd7ac2a4bb076f0.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.38.33130-554d617796584293aed78eba7bb46b04"] = {
@@ -169,94 +189,64 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.38.33130-554d617796584293aed78eba7bb46b04.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc14.42.34433-45aaf15a14df4a069ee857d96be089d1"] = {
-        sha256 = "11603732db6137145216e7dbeb6cf14d181ec219d8f15910eca714e0b8b3e3b5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-45aaf15a14df4a069ee857d96be089d1.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.38.33130-fbab7950c39e448c953541500ba4bc0a"] = {
-        sha256 = "c1f12fe3d8e219fe7bb9b6d29768d01ab5f9705f9f341fa30a3baba558f720ed",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.38.33130-fbab7950c39e448c953541500ba4bc0a.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-e85e6425c42e4b858549cd5266bb68c8"] = {
-        sha256 = "16df78df008375f7c1f1017e63ad8bb600bcc293ddad67b4cbf53eb772d99eca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-e85e6425c42e4b858549cd5266bb68c8.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-14f090a2977b4917bf4a7c85e822e423"] = {
-        sha256 = "6be94deb566b6910a055b88718c70b8e24c973770c6d8038d85463f6609e9d2f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-14f090a2977b4917bf4a7c85e822e423.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-45aaf15a14df4a069ee857d96be089d1"] = {
-        sha256 = "8ebd515952bfeda1bc2eda5fa028bffe05467317fe4c05ab958d49a104c77f88",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-45aaf15a14df4a069ee857d96be089d1.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.42.34433-227cb730e63d4ec4bb96ff922d33b785"] = {
-        sha256 = "ee4007bca9f6f25c3ac04396591fc1209c8e5dcd3e92eac57bf002859175de61",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-227cb730e63d4ec4bb96ff922d33b785.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.42.34433-2e907908571f4d11bdd7ac2a4bb076f0"] = {
-        sha256 = "0bfc015924c62a9c45a20bcd860d98417eefcd4d07557cc7c9faa61d8d7fc7b2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-2e907908571f4d11bdd7ac2a4bb076f0.7z",
-        toolset = "14.42.34433"
+    ["windows-x86-vc14.37.32822-8ba68bacdddd41e89c762fb99e43c45d"] = {
+        sha256 = "c5fd230a31f0ffa709b58aab5b65c896c730f9c41183473d9658b012b63daaa9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-8ba68bacdddd41e89c762fb99e43c45d.7z",
+        toolset = "14.37.32822"
     },
     ["windows-x64-vc14.37.32822-15e7e56b3c5947f28cb3a8e71ff3d714"] = {
         sha256 = "2b6a9ee38c76246757c785ca3fa7ca4aa2ba467a91e8c56b89129c563fc7857b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-15e7e56b3c5947f28cb3a8e71ff3d714.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.37.32822-227cb730e63d4ec4bb96ff922d33b785"] = {
-        sha256 = "fe9a977f3cbe33286cdb8e60072853f82053f1951e6899ce8ec84fc2e09ef6d4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-227cb730e63d4ec4bb96ff922d33b785.7z",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.29.30133-45aaf15a14df4a069ee857d96be089d1"] = {
+        sha256 = "c6e5c61cf732a20c3d3c5b75be18c78d80e2f5b85bd32a76a49a6c5823c1d40e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-45aaf15a14df4a069ee857d96be089d1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-14f090a2977b4917bf4a7c85e822e423"] = {
+        sha256 = "528f6ad82d98469b3e1e6e3f8fa0ac6d3c1225baae8b0bed4c92d590c350617f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-14f090a2977b4917bf4a7c85e822e423.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-e85e6425c42e4b858549cd5266bb68c8"] = {
+        sha256 = "27f46b0ca4419cf323948a0b6703a5c6db6757e746931d4b7d7bedd141af7949",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-e85e6425c42e4b858549cd5266bb68c8.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.38.33130-a20ab70613924930a6caf68e1c61c3ff"] = {
         sha256 = "a963ef6b0857ddda236ef8af2a93e14ddcb1f4889358c422bd99a3f4c6a771ee",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-a20ab70613924930a6caf68e1c61c3ff.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x86-vc141-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
-        sha256 = "1c5aa8c34bc0f84b92e6c537904bf1263970e772f4d7b4868cf3adbf67f843bd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
+    ["windows-x64-vc14.29.30133-17375db635184c5a9d8fa0f5857630b4"] = {
+        sha256 = "2e870670bae136a2f202c6cc109120d99caf5b70f75282df4fedfd1a45055106",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-17375db635184c5a9d8fa0f5857630b4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-15e7e56b3c5947f28cb3a8e71ff3d714"] = {
+        sha256 = "5e0c69af4decd42033c1e6f073ec4a5ee02c06b9e22ef8cc6f19c9f45fdca04c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-15e7e56b3c5947f28cb3a8e71ff3d714.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-8932dd077b4a4af5b320ac498128b048"] = {
+        sha256 = "232768105ffa588584e06f5d73862f58be6b4edf471b4bdc728f50a3b1648c4c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-8932dd077b4a4af5b320ac498128b048.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x64-vc141-73fc2afebeb944afbb094d5eaf2961f9"] = {
-        sha256 = "2c04b8163613ca47c8b697ad5ed2903b6600fa339b73e5c749a4bc73b5006020",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-73fc2afebeb944afbb094d5eaf2961f9.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x64-vc14.38.33130-e85e6425c42e4b858549cd5266bb68c8"] = {
-        sha256 = "0f787d53e87a797e5974fc24e85b78a24fb170c001a9ae0256eb914c86e2dfd4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-e85e6425c42e4b858549cd5266bb68c8.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.41.34120-a20ab70613924930a6caf68e1c61c3ff"] = {
-        sha256 = "b8b3a75d9495081cb2ad879ac2699182993875f03955a3b5a4e7daa3473dd775",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-a20ab70613924930a6caf68e1c61c3ff.7z",
-        toolset = "14.41.34120"
+    ["windows-x86-vc14.42.34433-fbab7950c39e448c953541500ba4bc0a"] = {
+        sha256 = "36f433ad9efc216dd0954868e5010ffb0c3bca249a1cd368df12550553aaf03d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-fbab7950c39e448c953541500ba4bc0a.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x86-vc14.29.30133-f7b6c438eb114628a6e3d4a74dde7ddc"] = {
         sha256 = "5e5bef35ac8c92112621a373daf27e352e5d859b680ec9e28ce0fd6dd0a7edd9",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-f7b6c438eb114628a6e3d4a74dde7ddc.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc141-17375db635184c5a9d8fa0f5857630b4"] = {
-        sha256 = "64b60579c83ee4e2c66f047bf8ce0bbea0c52dac29857376deee6382d20ad90a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-17375db635184c5a9d8fa0f5857630b4.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-8ba68bacdddd41e89c762fb99e43c45d"] = {
-        sha256 = "9b3510c90fb5cfbdb9e7eea353346305615955356153bf8df37779d19492a0b3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-8ba68bacdddd41e89c762fb99e43c45d.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-fbab7950c39e448c953541500ba4bc0a"] = {
-        sha256 = "46d9d7cb1444a9794ce310a4cf25f8536ca9a154a5e4d5c3d8d40de1d257eb9c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-fbab7950c39e448c953541500ba4bc0a.7z",
+    ["windows-x64-vc14.29.30133-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
+        sha256 = "a95bcffb8ba2db0ad6b86ecc44545ca41470859b0f88fe67c11a432ae0765232",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.37.32822-2e907908571f4d11bdd7ac2a4bb076f0"] = {
@@ -264,99 +254,149 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-2e907908571f4d11bdd7ac2a4bb076f0.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc141-8ba68bacdddd41e89c762fb99e43c45d"] = {
-        sha256 = "599b531c7dc815df8b828e5f20b19fcfee191e979181c1508bb2ee448422dca4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-8ba68bacdddd41e89c762fb99e43c45d.7z",
-        toolset = "14.16.27023"
+    ["windows-x86-vc14.43.34808-227cb730e63d4ec4bb96ff922d33b785"] = {
+        sha256 = "0af281c3494be6e55833d6c4965deda4a0424a6db749d3fddae14a2cf023945e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.43.34808-227cb730e63d4ec4bb96ff922d33b785.7z",
+        toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.41.34120-e85e6425c42e4b858549cd5266bb68c8"] = {
-        sha256 = "d4a525d583ee00e852453997b86507886191387cade8e944e96c767168c51358",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-e85e6425c42e4b858549cd5266bb68c8.7z",
+    ["windows-x64-vc14.43.34808-45aaf15a14df4a069ee857d96be089d1"] = {
+        sha256 = "8934b9a4042c904b260617aa84b501fa712c1075e842a99317e33a87cf78a6ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.43.34808-45aaf15a14df4a069ee857d96be089d1.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.37.32822-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
+        sha256 = "88c7e5701a9669fc03e39fa47def245f0c25bf746e027c4d9e3592cec5861bc6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.37.32822-5f57c2d4b6634f38a7a4465a5c14d49a"] = {
+        sha256 = "aa1606754d553d2d00f19127dbf54fb39825ff5cc6afbbcdf3886c71b90fe9c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-5f57c2d4b6634f38a7a4465a5c14d49a.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc14.38.33130-45aaf15a14df4a069ee857d96be089d1"] = {
+        sha256 = "d6cb6763a1bea9658549f7daf4778f51f96cfdf558b74c3d254b3630aa783b77",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-45aaf15a14df4a069ee857d96be089d1.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-e85e6425c42e4b858549cd5266bb68c8"] = {
+        sha256 = "82b9f2e360e81664ff80e578086a762b1f8e8ced736cf616973d1403f0d9626e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-e85e6425c42e4b858549cd5266bb68c8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-14f090a2977b4917bf4a7c85e822e423"] = {
+        sha256 = "2d8c4db45bb93f27c9e6570af79c62ff446ba065732f9a88017e206d4574c926",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-14f090a2977b4917bf4a7c85e822e423.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.41.34120-45aaf15a14df4a069ee857d96be089d1"] = {
+        sha256 = "8ebd515952bfeda1bc2eda5fa028bffe05467317fe4c05ab958d49a104c77f88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-45aaf15a14df4a069ee857d96be089d1.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x64-vc141-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
-        sha256 = "715cf35c2bc32f7f670784e20ea218dc50430f6f6b0f9cb001bc87df0102be7f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
+    ["windows-x64-vc14.42.34433-45aaf15a14df4a069ee857d96be089d1"] = {
+        sha256 = "11603732db6137145216e7dbeb6cf14d181ec219d8f15910eca714e0b8b3e3b5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.42.34433-45aaf15a14df4a069ee857d96be089d1.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-2e907908571f4d11bdd7ac2a4bb076f0"] = {
+        sha256 = "0bfc015924c62a9c45a20bcd860d98417eefcd4d07557cc7c9faa61d8d7fc7b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-2e907908571f4d11bdd7ac2a4bb076f0.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc141-15e7e56b3c5947f28cb3a8e71ff3d714"] = {
+        sha256 = "7047020074012658552d579b33b1614a473326ea1b060ab03d40e3562f4f613f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-15e7e56b3c5947f28cb3a8e71ff3d714.7z",
         toolset = "14.16.27023"
     },
-    ["windows-x86-vc14.41.34120-fbab7950c39e448c953541500ba4bc0a"] = {
-        sha256 = "f4d6687f6173e0dce953a4e67a58c66f55a433bd11edf095d7fe5dcbe9451167",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-fbab7950c39e448c953541500ba4bc0a.7z",
-        toolset = "14.41.34120"
+    ["windows-x86-vc14.42.34433-227cb730e63d4ec4bb96ff922d33b785"] = {
+        sha256 = "ee4007bca9f6f25c3ac04396591fc1209c8e5dcd3e92eac57bf002859175de61",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.42.34433-227cb730e63d4ec4bb96ff922d33b785.7z",
+        toolset = "14.42.34433"
     },
     ["windows-x86-vc14.41.34120-2e907908571f4d11bdd7ac2a4bb076f0"] = {
         sha256 = "5ff9e38821d5e18eb412288118c74b6aa9cdeb83aeac4b8e8cd70db2f3768058",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-2e907908571f4d11bdd7ac2a4bb076f0.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x86-vc14.38.33130-227cb730e63d4ec4bb96ff922d33b785"] = {
-        sha256 = "d2d970a992de7256d912f0f69047c3048869e1f3fda1a04684165a78d82e8ebe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.38.33130-227cb730e63d4ec4bb96ff922d33b785.7z",
+    ["windows-x64-vc14.38.33130-14f090a2977b4917bf4a7c85e822e423"] = {
+        sha256 = "b7cf4024ca06791af5940e6c6fd3a4345674f98473a656863844f5c59ef6da70",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.38.33130-14f090a2977b4917bf4a7c85e822e423.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc14.37.32822-73fc2afebeb944afbb094d5eaf2961f9"] = {
-        sha256 = "0b538af580222ff4eb31dc2855c7dc35d1d30500396b023dc7d998f78c2fa5ee",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-73fc2afebeb944afbb094d5eaf2961f9.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc142-8ba68bacdddd41e89c762fb99e43c45d"] = {
+        sha256 = "9b3510c90fb5cfbdb9e7eea353346305615955356153bf8df37779d19492a0b3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-8ba68bacdddd41e89c762fb99e43c45d.7z",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.41.34120-14f090a2977b4917bf4a7c85e822e423"] = {
-        sha256 = "9d4062852a4b52efd6964627f903ff73e934988c894ead4ff8b0ebd64cd31264",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-14f090a2977b4917bf4a7c85e822e423.7z",
+    ["windows-x64-vc14.41.34120-e85e6425c42e4b858549cd5266bb68c8"] = {
+        sha256 = "d4a525d583ee00e852453997b86507886191387cade8e944e96c767168c51358",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.41.34120-e85e6425c42e4b858549cd5266bb68c8.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.29.30133-45aaf15a14df4a069ee857d96be089d1"] = {
-        sha256 = "6ed796d09acfda59c708d11bd89a2cebcf589ef68ebc7815d3e7fbdf2c8ff6aa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-45aaf15a14df4a069ee857d96be089d1.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-f7b6c438eb114628a6e3d4a74dde7ddc"] = {
-        sha256 = "0e78b2c804bc97b4b19a503aee079e01dae62c085d4c0f013eea38512b0d09fe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-f7b6c438eb114628a6e3d4a74dde7ddc.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-227cb730e63d4ec4bb96ff922d33b785"] = {
-        sha256 = "416fc18ba4d3f65520c077d6176310a232c669794afeaca081625315666ce3c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-227cb730e63d4ec4bb96ff922d33b785.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-a20ab70613924930a6caf68e1c61c3ff"] = {
-        sha256 = "e45e7f7d09d3263e2b1823b010b264fc372e7a187906fc9ebb83ad01a6d15eef",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-a20ab70613924930a6caf68e1c61c3ff.7z",
+    ["windows-x64-vc14.37.32822-e85e6425c42e4b858549cd5266bb68c8"] = {
+        sha256 = "d38b6414b9eb09644e34c6f98d267d08838a1b860f258d9ebef2f41aa1bf9e6f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-e85e6425c42e4b858549cd5266bb68c8.7z",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc141-8932dd077b4a4af5b320ac498128b048"] = {
-        sha256 = "232768105ffa588584e06f5d73862f58be6b4edf471b4bdc728f50a3b1648c4c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc141-8932dd077b4a4af5b320ac498128b048.7z",
-        toolset = "14.16.27023"
-    },
-    ["windows-x86-vc142-8932dd077b4a4af5b320ac498128b048"] = {
-        sha256 = "8efd3568806081d231ffd9625ac12818f885096c6a20b7adb8d0ee21d4dc8090",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-8932dd077b4a4af5b320ac498128b048.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.41.34120-fbab7950c39e448c953541500ba4bc0a"] = {
+        sha256 = "f4d6687f6173e0dce953a4e67a58c66f55a433bd11edf095d7fe5dcbe9451167",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-fbab7950c39e448c953541500ba4bc0a.7z",
+        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.29.30133-15e7e56b3c5947f28cb3a8e71ff3d714"] = {
         sha256 = "0e642e8d74f87265f5ee589cf63974756108aa14190e212342aee3c8af055f45",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.29.30133-15e7e56b3c5947f28cb3a8e71ff3d714.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-17375db635184c5a9d8fa0f5857630b4"] = {
-        sha256 = "335924d484e6a4befd0dd2efd7587a296bb2c7a7df21debda6ff3cd5a807a427",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc142-17375db635184c5a9d8fa0f5857630b4.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-554d617796584293aed78eba7bb46b04"] = {
+        sha256 = "1bb23b165860a02b772068ef5019ed93759278b5d1976c82e0db78cc9a6f2cf6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.37.32822-554d617796584293aed78eba7bb46b04.7z",
+        toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.41.34120-554d617796584293aed78eba7bb46b04"] = {
-        sha256 = "e1e505a9554d742d59f48ff2dbb4e270355ada9286a2e0227ff3eb16eb91781c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-554d617796584293aed78eba7bb46b04.7z",
+    ["windows-x64-vc14.37.32822-a20ab70613924930a6caf68e1c61c3ff"] = {
+        sha256 = "e45e7f7d09d3263e2b1823b010b264fc372e7a187906fc9ebb83ad01a6d15eef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-a20ab70613924930a6caf68e1c61c3ff.7z",
+        toolset = "14.37.32822"
+    },
+    ["windows-x86-vc14.43.34808-fbab7950c39e448c953541500ba4bc0a"] = {
+        sha256 = "155fb08d8b55def6e06ac4a2dc5db23fbb4e4c0e7c9ba208ff886c216bd67b9b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.43.34808-fbab7950c39e448c953541500ba4bc0a.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.41.34120-227cb730e63d4ec4bb96ff922d33b785"] = {
+        sha256 = "45b4c51b504a4fd312f105e6f27f0993157acec99786f05c6d7f6ece0a95c1b1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.41.34120-227cb730e63d4ec4bb96ff922d33b785.7z",
         toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.38.33130-fbab7950c39e448c953541500ba4bc0a"] = {
+        sha256 = "c1f12fe3d8e219fe7bb9b6d29768d01ab5f9705f9f341fa30a3baba558f720ed",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.38.33130-fbab7950c39e448c953541500ba4bc0a.7z",
+        toolset = "14.38.33130"
     },
     ["windows-x86-vc14.29.30133-8ba68bacdddd41e89c762fb99e43c45d"] = {
         sha256 = "75df31d7f894512f9d7e70062ed3dd7ca384d17c3509883f885128645f2e5ffb",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.29.30133-8ba68bacdddd41e89c762fb99e43c45d.7z",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-17375db635184c5a9d8fa0f5857630b4"] = {
-        sha256 = "a4c913bc33084ddbb96175eea26d6e04ab87996bd9a27d75e8de461ae6199533",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.37.32822-17375db635184c5a9d8fa0f5857630b4.7z",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.38.33130-227cb730e63d4ec4bb96ff922d33b785"] = {
+        sha256 = "d2d970a992de7256d912f0f69047c3048869e1f3fda1a04684165a78d82e8ebe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc14.38.33130-227cb730e63d4ec4bb96ff922d33b785.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc142-f7b6c438eb114628a6e3d4a74dde7ddc"] = {
+        sha256 = "0e78b2c804bc97b4b19a503aee079e01dae62c085d4c0f013eea38512b0d09fe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x86-vc142-f7b6c438eb114628a6e3d4a74dde7ddc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-a20ab70613924930a6caf68e1c61c3ff"] = {
+        sha256 = "ffd718a13967ddfa249e41f66cd843a32a28f2c07336896ff37ea24561d16598",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc14.43.34808-a20ab70613924930a6caf68e1c61c3ff.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc141-ba42a5e5561f48cfa3b9d9c49b0698bc"] = {
+        sha256 = "715cf35c2bc32f7f670784e20ea218dc50430f6f6b0f9cb001bc87df0102be7f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/guetzli-v1.0.1/windows-x64-vc141-ba42a5e5561f48cfa3b9d9c49b0698bc.7z",
+        toolset = "14.16.27023"
     }
 }
