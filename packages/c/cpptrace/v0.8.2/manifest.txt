@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        sha256 = "a3da0838e4d2da8b1da6c366383c87ceeff2845969272267f0fc1feb6cffe51d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
+        sha256 = "d5d89a3e796831fa8a6ace104e5867bbab8903ef9b3f5becfb7e8e8964a49c1c"
     },
-    ["windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b"] = {
-        sha256 = "19c76172127d5bb629878db3cdc7e21934c7c12aaac007a722671d96505ab4b3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        sha256 = "3b6ce899e6919dcf04b00104dd8841c399bc8fb9ea491e2f0e7ffad834a9d43c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
-        sha256 = "d51c20d26f11dec92f1ce23fda485053eac3083601bdd42a3a3ef4d521ebe783",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        sha256 = "4bce3bd68b6f0609f6d4e966ea53b7ff8df32b163d3a9725b13d62f93c4dedf3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789"] = {
-        sha256 = "a321c531a65d0bd33aec09f2cd7ccef6907c373709dad38c34f2a8b6500a71ca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
-        sha256 = "3d15b6edb42a63e112ae6fb4bad8e3b29bc2aefea756fea04a1173695fb6d6df",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
-        sha256 = "894336458aba956b859aa32663909546f8438789f209f79a74dc0c3b0a27404e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189"] = {
-        sha256 = "1c9651c805863106e64113c6b032e397fb4bfe7c1d6e46255044191690483e9f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404"] = {
-        sha256 = "12aa5903dc26e3352f2ed206169cba76f93ec73e8a364dde89d2b489bef04af5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
-        sha256 = "6bdf073f9f0ad65312bd5d53298602a1c21e15c970077487ab6814945577ce00",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.43.34808-94ace06997e344de876aad1e196144ce"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-94ace06997e344de876aad1e196144ce.7z",
+        sha256 = "edc93d8046bb3143729529f572df3464a5b17e265e89fe28a1337e1d7260ba5a"
     },
     ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        sha256 = "54625bdc6c12832a0790a4668d1496a327d641a44c46a74e8afbfdb6acef95e9",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b"] = {
-        sha256 = "583a25f141b160b013b631458ea89e2f97724b66d1a8fa8226b08fc4267c194e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32"] = {
-        sha256 = "ed3657fc25a383735e7f050c07a09a45e1dd3259c1c76ec11a00f81f9bb4bc45",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
-        sha256 = "d5d89a3e796831fa8a6ace104e5867bbab8903ef9b3f5becfb7e8e8964a49c1c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.29.30133"
+        sha256 = "54625bdc6c12832a0790a4668d1496a327d641a44c46a74e8afbfdb6acef95e9"
     },
     ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
-        sha256 = "a339be36538968248f3c4c231335f23e39f09394ccdc4bc5f0f1b2cd0d617e94",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
-        toolset = "14.29.30133"
+        sha256 = "a339be36538968248f3c4c231335f23e39f09394ccdc4bc5f0f1b2cd0d617e94"
+    },
+    ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
+        sha256 = "d51c20d26f11dec92f1ce23fda485053eac3083601bdd42a3a3ef4d521ebe783"
+    },
+    ["windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        sha256 = "3b6ce899e6919dcf04b00104dd8841c399bc8fb9ea491e2f0e7ffad834a9d43c"
+    },
+    ["windows-x86-vc14.43.34808-3c7b87bed9174f3aa778de6911b1070e"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-3c7b87bed9174f3aa778de6911b1070e.7z",
+        sha256 = "3c6dc7d8af6bf38ec27768face8b108d35380a6c05a4a07b4a35b03ac47d1a5b"
+    },
+    ["windows-x64-vc14.29.30133-94ace06997e344de876aad1e196144ce"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-94ace06997e344de876aad1e196144ce.7z",
+        sha256 = "a6962016c5752df12b01eb54dda09709cbe5dc5a8614798f277fcd147eb95f38"
+    },
+    ["windows-x86-vc14.29.30133-f50f002899fd422e9d613e694d64fff4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-f50f002899fd422e9d613e694d64fff4.7z",
+        sha256 = "247c571c0be0710c4fe929edd07f195235350610a876a571523c2554828dec55"
+    },
+    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
+        sha256 = "894336458aba956b859aa32663909546f8438789f209f79a74dc0c3b0a27404e"
+    },
+    ["windows-x64-vc14.29.30133-592e0807470545f18a291a5cb32be15d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-592e0807470545f18a291a5cb32be15d.7z",
+        sha256 = "2ab9ff62a0e63c58efb80018c6c742017f4e461fd9e53c18a80ff40e4ea82814"
+    },
+    ["windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404.7z",
+        sha256 = "12aa5903dc26e3352f2ed206169cba76f93ec73e8a364dde89d2b489bef04af5"
+    },
+    ["windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789.7z",
+        sha256 = "a321c531a65d0bd33aec09f2cd7ccef6907c373709dad38c34f2a8b6500a71ca"
+    },
+    ["windows-x86-vc14.29.30133-c695414b79d84204a2a1342333d0ea0d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-c695414b79d84204a2a1342333d0ea0d.7z",
+        sha256 = "09bcc59baf9a1196af6b322d5d5a69a980905525cbaea2f71cf1666e2536b350"
+    },
+    ["windows-x86-vc14.43.34808-c695414b79d84204a2a1342333d0ea0d"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-c695414b79d84204a2a1342333d0ea0d.7z",
+        sha256 = "cc8ad7c2dd7593adbd0cf1d11f60e7ae02a49b7a51dc87702d8ca86e98d49b46"
+    },
+    ["windows-x86-vc14.29.30133-3c7b87bed9174f3aa778de6911b1070e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-3c7b87bed9174f3aa778de6911b1070e.7z",
+        sha256 = "0b1dcd046c7eddbda28fb9173a7a08e237b1b8a5c3e36f6d4f0d1f1b4aa9e623"
+    },
+    ["windows-x64-vc14.43.34808-592e0807470545f18a291a5cb32be15d"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-592e0807470545f18a291a5cb32be15d.7z",
+        sha256 = "437c53763471edeed49adff004b8450d174b54f0cb711d80fa6ad36684e66ab0"
+    },
+    ["windows-x64-vc14.29.30133-ec159963bb894579980babcfac822aeb"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-ec159963bb894579980babcfac822aeb.7z",
+        sha256 = "d5d73e514a12b616772f62462949251293bae7f4a61674dc916b3181bfd2cb0e"
+    },
+    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        sha256 = "a3da0838e4d2da8b1da6c366383c87ceeff2845969272267f0fc1feb6cffe51d"
+    },
+    ["windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b.7z",
+        sha256 = "19c76172127d5bb629878db3cdc7e21934c7c12aaac007a722671d96505ab4b3"
+    },
+    ["windows-x64-vc14.43.34808-ec159963bb894579980babcfac822aeb"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-ec159963bb894579980babcfac822aeb.7z",
+        sha256 = "2e04cf7a61b567d0bd26808c6cc49c8684418115753d2e540c271e287e07f81f"
+    },
+    ["windows-x86-vc14.43.34808-f50f002899fd422e9d613e694d64fff4"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-f50f002899fd422e9d613e694d64fff4.7z",
+        sha256 = "779943bc80375e198aa9c4d91b3f26b13af57fba7295f797481d7b76be5c73c6"
+    },
+    ["windows-x64-vc14.43.34808-4ca4009551d4453dbf2f1d4c904df623"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-4ca4009551d4453dbf2f1d4c904df623.7z",
+        sha256 = "a5fd25262fd81a2c565003a61573c58ae6e226e4a90b9f785af3a664b78f01a0"
+    },
+    ["windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        sha256 = "4bce3bd68b6f0609f6d4e966ea53b7ff8df32b163d3a9725b13d62f93c4dedf3"
+    },
+    ["windows-x86-vc14.29.30133-68116252cd6c4cf68d6169b1f3e5bd0c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-68116252cd6c4cf68d6169b1f3e5bd0c.7z",
+        sha256 = "e05f3e284334b25dd88e83fde9153c70a434034093fc696988e6f6ff1b8014ac"
+    },
+    ["windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b.7z",
+        sha256 = "583a25f141b160b013b631458ea89e2f97724b66d1a8fa8226b08fc4267c194e"
+    },
+    ["windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32.7z",
+        sha256 = "ed3657fc25a383735e7f050c07a09a45e1dd3259c1c76ec11a00f81f9bb4bc45"
+    },
+    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
+        sha256 = "3d15b6edb42a63e112ae6fb4bad8e3b29bc2aefea756fea04a1173695fb6d6df"
+    },
+    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
+        sha256 = "6bdf073f9f0ad65312bd5d53298602a1c21e15c970077487ab6814945577ce00"
+    },
+    ["windows-x86-vc14.43.34808-68116252cd6c4cf68d6169b1f3e5bd0c"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-68116252cd6c4cf68d6169b1f3e5bd0c.7z",
+        sha256 = "2de4199a8391a34b94ccf8b32d86536663a7fe6b455cc53b389033d0af91b2f4"
+    },
+    ["windows-x64-vc14.29.30133-4ca4009551d4453dbf2f1d4c904df623"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x64-vc14.29.30133-4ca4009551d4453dbf2f1d4c904df623.7z",
+        sha256 = "f683217f3fc2989bd18b164f9a5225c0873bc0330876519b90203317fdbf2659"
+    },
+    ["windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpptrace-v0.8.2/windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189.7z",
+        sha256 = "1c9651c805863106e64113c6b032e397fb4bfe7c1d6e46255044191690483e9f"
     }
 }
