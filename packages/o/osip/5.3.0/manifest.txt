@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.43.34808-05563055abae4d6ea8f3a30af2c37b27"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-05563055abae4d6ea8f3a30af2c37b27.7z",
-        toolset = "14.43.34808",
-        sha256 = "97e570a8a862d558e6c201e8f067d924e15082638a66bbf29fe7456ec93db298"
+    ["windows-x64-vc14.29.30133-225da91be095484a9d677ea4188bb88b"] = {
+        toolset = "14.29.30133",
+        sha256 = "7473c974b6302de9332d9b89026cd1c06d38543cb0670230678781aeb42dc2b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-225da91be095484a9d677ea4188bb88b.7z"
     },
-    ["windows-x64-vc14.43.34808-b4c41f767f7a4224b5c5ec1ba1d5d8f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-b4c41f767f7a4224b5c5ec1ba1d5d8f7.7z",
+    ["windows-x86-vc14.43.34808-ef79e34ed0b047098ac34d44cbeb92ac"] = {
         toolset = "14.43.34808",
-        sha256 = "aaa8986d48709c691283cb9ff70aa242c060fd6b0b56fd4fcdc0bd5048da6741"
+        sha256 = "cc3d783dc72b2e97572b4e20b96841864e6070fd95fc0961f1c67efac144472a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-ef79e34ed0b047098ac34d44cbeb92ac.7z"
     },
     ["windows-x64-vc14.29.30133-6d7c2e7e895944c389f918b7a5784000"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-6d7c2e7e895944c389f918b7a5784000.7z",
         toolset = "14.29.30133",
-        sha256 = "292401f20f2091ee88c96c9deb96a714ec7a7c1341a5734579e3e9ae1426dc49"
-    },
-    ["windows-x86-vc14.29.30133-323a2e7d81b44a608379d0c144799603"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-323a2e7d81b44a608379d0c144799603.7z",
-        toolset = "14.29.30133",
-        sha256 = "41689a9cf6f52fcde46b1e0633d3f11149c88e5630078b837658f4a479b31061"
-    },
-    ["windows-x64-vc14.43.34808-a1ea510404fd4746a8482d4bbb121dc0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-a1ea510404fd4746a8482d4bbb121dc0.7z",
-        toolset = "14.43.34808",
-        sha256 = "41555731153f0f034c61479b7706cc712143ee759eb93ce51eb96da8a9424550"
-    },
-    ["windows-x64-vc14.29.30133-b4c41f767f7a4224b5c5ec1ba1d5d8f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-b4c41f767f7a4224b5c5ec1ba1d5d8f7.7z",
-        toolset = "14.29.30133",
-        sha256 = "e6658e9a5a584e8a701afe54184d38eeb0caf4d723f88381ddab29f399cf3935"
-    },
-    ["windows-x64-vc14.43.34808-6d7c2e7e895944c389f918b7a5784000"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-6d7c2e7e895944c389f918b7a5784000.7z",
-        toolset = "14.43.34808",
-        sha256 = "b5e71ae0c4752b108faec7df19e7aded44ba96f61cc7aae81699868c55387f7a"
-    },
-    ["windows-x64-vc14.43.34808-2b67f1eeb2d3497baa41b33433f6d39a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-2b67f1eeb2d3497baa41b33433f6d39a.7z",
-        toolset = "14.43.34808",
-        sha256 = "366b83425fa7c922a02d4ebe2a0ce7102afb50421f9883a9dd9276eba255bc49"
-    },
-    ["windows-x86-vc14.29.30133-05563055abae4d6ea8f3a30af2c37b27"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-05563055abae4d6ea8f3a30af2c37b27.7z",
-        toolset = "14.29.30133",
-        sha256 = "512f5ce5217ab3168c18df4d5dd038dbea619ebdb6cc101a2bfdc0b86f10a78a"
-    },
-    ["windows-x86-vc14.29.30133-11c7b526f4f74ddd9b6e1b907955aee4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-11c7b526f4f74ddd9b6e1b907955aee4.7z",
-        toolset = "14.29.30133",
-        sha256 = "264f9a58a5fc25bfa0a12dfb82ff29824cf25e993b8f8238719ba1d8c7cd2a1b"
-    },
-    ["windows-x86-vc14.43.34808-11c7b526f4f74ddd9b6e1b907955aee4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-11c7b526f4f74ddd9b6e1b907955aee4.7z",
-        toolset = "14.43.34808",
-        sha256 = "cfb5df97ad9ae67611caf29e0c4542142269e1d5dc37a1a89d4d95455e137a9c"
-    },
-    ["windows-x86-vc14.29.30133-9593ee4a8d6843aeb109b9ec4a072f81"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-9593ee4a8d6843aeb109b9ec4a072f81.7z",
-        toolset = "14.29.30133",
-        sha256 = "4f4baeeef54a0d230af20d5e14e2d768c31282a29055444f459ee3dad953bd95"
-    },
-    ["windows-x64-vc14.29.30133-2b67f1eeb2d3497baa41b33433f6d39a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-2b67f1eeb2d3497baa41b33433f6d39a.7z",
-        toolset = "14.29.30133",
-        sha256 = "4a0b60b89d7b5f65ac6944aaacd6f0baa6afee02aa9c4b456fbe26cfe1653a58"
-    },
-    ["windows-x86-vc14.43.34808-9593ee4a8d6843aeb109b9ec4a072f81"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-9593ee4a8d6843aeb109b9ec4a072f81.7z",
-        toolset = "14.43.34808",
-        sha256 = "a6476e4d03449b1dbf5fd432c927cf407fbaa6de03e32f9579d54e7d57c013d9"
+        sha256 = "292401f20f2091ee88c96c9deb96a714ec7a7c1341a5734579e3e9ae1426dc49",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-6d7c2e7e895944c389f918b7a5784000.7z"
     },
     ["windows-x86-vc14.43.34808-323a2e7d81b44a608379d0c144799603"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-323a2e7d81b44a608379d0c144799603.7z",
         toolset = "14.43.34808",
-        sha256 = "8472717208315e8421013580171f213c01c36a902a9b1e6c8c5f62bf22ffd258"
+        sha256 = "8472717208315e8421013580171f213c01c36a902a9b1e6c8c5f62bf22ffd258",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-323a2e7d81b44a608379d0c144799603.7z"
+    },
+    ["windows-x64-vc14.43.34808-a1ea510404fd4746a8482d4bbb121dc0"] = {
+        toolset = "14.43.34808",
+        sha256 = "41555731153f0f034c61479b7706cc712143ee759eb93ce51eb96da8a9424550",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-a1ea510404fd4746a8482d4bbb121dc0.7z"
+    },
+    ["windows-x64-vc14.29.30133-94c713a7e247443880cb02c017a8c385"] = {
+        toolset = "14.29.30133",
+        sha256 = "3d4171a416808d4163f2e087625eb6d3170139b5be8a8438d5c6f852b0ec4ba4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-94c713a7e247443880cb02c017a8c385.7z"
+    },
+    ["windows-x64-vc14.43.34808-e68fe10a8a034d1aa680aaececbaae5b"] = {
+        toolset = "14.43.34808",
+        sha256 = "149e940cc8054c255cbe4ad643782c2f03db8552ed76fc380ee0d94431808bc2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-e68fe10a8a034d1aa680aaececbaae5b.7z"
+    },
+    ["windows-x86-vc14.43.34808-784fba69a9fd425eb7362543c60d867e"] = {
+        toolset = "14.43.34808",
+        sha256 = "3fd73b37122c5e2af31fee12befcd139bcd95f6793a9ef1551de47da9a7eefb9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-784fba69a9fd425eb7362543c60d867e.7z"
+    },
+    ["windows-x86-vc14.43.34808-05563055abae4d6ea8f3a30af2c37b27"] = {
+        toolset = "14.43.34808",
+        sha256 = "97e570a8a862d558e6c201e8f067d924e15082638a66bbf29fe7456ec93db298",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-05563055abae4d6ea8f3a30af2c37b27.7z"
+    },
+    ["windows-x86-vc14.29.30133-11c7b526f4f74ddd9b6e1b907955aee4"] = {
+        toolset = "14.29.30133",
+        sha256 = "264f9a58a5fc25bfa0a12dfb82ff29824cf25e993b8f8238719ba1d8c7cd2a1b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-11c7b526f4f74ddd9b6e1b907955aee4.7z"
+    },
+    ["windows-x64-vc14.43.34808-94c713a7e247443880cb02c017a8c385"] = {
+        toolset = "14.43.34808",
+        sha256 = "495037584a47eafca275d975d3f580efd33045faa97f9a5e0bce4967111a133f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-94c713a7e247443880cb02c017a8c385.7z"
+    },
+    ["windows-x86-vc14.29.30133-323a2e7d81b44a608379d0c144799603"] = {
+        toolset = "14.29.30133",
+        sha256 = "41689a9cf6f52fcde46b1e0633d3f11149c88e5630078b837658f4a479b31061",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-323a2e7d81b44a608379d0c144799603.7z"
+    },
+    ["windows-x64-vc14.29.30133-e68fe10a8a034d1aa680aaececbaae5b"] = {
+        toolset = "14.29.30133",
+        sha256 = "483bebef765cec5e4e6028dab0530438a39f89367054996dcdadfceb5cf88ac4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-e68fe10a8a034d1aa680aaececbaae5b.7z"
+    },
+    ["windows-x64-vc14.29.30133-b4c41f767f7a4224b5c5ec1ba1d5d8f7"] = {
+        toolset = "14.29.30133",
+        sha256 = "e6658e9a5a584e8a701afe54184d38eeb0caf4d723f88381ddab29f399cf3935",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-b4c41f767f7a4224b5c5ec1ba1d5d8f7.7z"
+    },
+    ["windows-x64-vc14.43.34808-2b67f1eeb2d3497baa41b33433f6d39a"] = {
+        toolset = "14.43.34808",
+        sha256 = "366b83425fa7c922a02d4ebe2a0ce7102afb50421f9883a9dd9276eba255bc49",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-2b67f1eeb2d3497baa41b33433f6d39a.7z"
+    },
+    ["windows-x86-vc14.29.30133-ef79e34ed0b047098ac34d44cbeb92ac"] = {
+        toolset = "14.29.30133",
+        sha256 = "2183889d57541918a3caeeaba785a6fdf703d6484db1be791116a86a6b8d1994",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-ef79e34ed0b047098ac34d44cbeb92ac.7z"
+    },
+    ["windows-x64-vc14.43.34808-6d7c2e7e895944c389f918b7a5784000"] = {
+        toolset = "14.43.34808",
+        sha256 = "b5e71ae0c4752b108faec7df19e7aded44ba96f61cc7aae81699868c55387f7a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-6d7c2e7e895944c389f918b7a5784000.7z"
+    },
+    ["windows-x86-vc14.29.30133-784fba69a9fd425eb7362543c60d867e"] = {
+        toolset = "14.29.30133",
+        sha256 = "5ffcf8cc1b1d6a5ed9572fdbad8f622ac50acc026d946d631cbe225834c4aecc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-784fba69a9fd425eb7362543c60d867e.7z"
+    },
+    ["windows-x86-vc14.29.30133-9593ee4a8d6843aeb109b9ec4a072f81"] = {
+        toolset = "14.29.30133",
+        sha256 = "4f4baeeef54a0d230af20d5e14e2d768c31282a29055444f459ee3dad953bd95",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-9593ee4a8d6843aeb109b9ec4a072f81.7z"
+    },
+    ["windows-x86-vc14.29.30133-05563055abae4d6ea8f3a30af2c37b27"] = {
+        toolset = "14.29.30133",
+        sha256 = "512f5ce5217ab3168c18df4d5dd038dbea619ebdb6cc101a2bfdc0b86f10a78a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-05563055abae4d6ea8f3a30af2c37b27.7z"
+    },
+    ["windows-x86-vc14.43.34808-4e45fb6fc6364001921e15429fa3b7dd"] = {
+        toolset = "14.43.34808",
+        sha256 = "379952bdee76d9777c6af287bd4776885887eb3e8deab461819e0260dbd79f5c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-4e45fb6fc6364001921e15429fa3b7dd.7z"
+    },
+    ["windows-x86-vc14.29.30133-4e45fb6fc6364001921e15429fa3b7dd"] = {
+        toolset = "14.29.30133",
+        sha256 = "95fbd86ed08864d546a7fdbbab02387a2434d463f8f23e00a805030bdf0b0932",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-4e45fb6fc6364001921e15429fa3b7dd.7z"
+    },
+    ["windows-x86-vc14.29.30133-c763d521715146328ceb1d6bb475006e"] = {
+        toolset = "14.29.30133",
+        sha256 = "5a8a289edebdf7d1f0c23b0e75ae7f6a91e6a9327973d71e38a5f89731a69e4e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.29.30133-c763d521715146328ceb1d6bb475006e.7z"
     },
     ["windows-x64-vc14.29.30133-a1ea510404fd4746a8482d4bbb121dc0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-a1ea510404fd4746a8482d4bbb121dc0.7z",
         toolset = "14.29.30133",
-        sha256 = "98380ce01d9dfcd91be1023eb8b6a693e575225cac89a9a1241717cec826d59b"
+        sha256 = "98380ce01d9dfcd91be1023eb8b6a693e575225cac89a9a1241717cec826d59b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-a1ea510404fd4746a8482d4bbb121dc0.7z"
+    },
+    ["windows-x64-vc14.43.34808-225da91be095484a9d677ea4188bb88b"] = {
+        toolset = "14.43.34808",
+        sha256 = "6b7f63c580b29bce9f8a589a9a21d00232343bfb7531ddbeadde9537200f789d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-225da91be095484a9d677ea4188bb88b.7z"
+    },
+    ["windows-x86-vc14.43.34808-9593ee4a8d6843aeb109b9ec4a072f81"] = {
+        toolset = "14.43.34808",
+        sha256 = "a6476e4d03449b1dbf5fd432c927cf407fbaa6de03e32f9579d54e7d57c013d9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-9593ee4a8d6843aeb109b9ec4a072f81.7z"
+    },
+    ["windows-x64-vc14.29.30133-2b67f1eeb2d3497baa41b33433f6d39a"] = {
+        toolset = "14.29.30133",
+        sha256 = "4a0b60b89d7b5f65ac6944aaacd6f0baa6afee02aa9c4b456fbe26cfe1653a58",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-2b67f1eeb2d3497baa41b33433f6d39a.7z"
+    },
+    ["windows-x64-vc14.29.30133-b04bb9e65ce249309e917fe84f9f2a1d"] = {
+        toolset = "14.29.30133",
+        sha256 = "717238084f7c25e4eff76c64a07d5162530ae15a92e9adef58158cfa02c0dba7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.29.30133-b04bb9e65ce249309e917fe84f9f2a1d.7z"
+    },
+    ["windows-x86-vc14.43.34808-11c7b526f4f74ddd9b6e1b907955aee4"] = {
+        toolset = "14.43.34808",
+        sha256 = "cfb5df97ad9ae67611caf29e0c4542142269e1d5dc37a1a89d4d95455e137a9c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-11c7b526f4f74ddd9b6e1b907955aee4.7z"
+    },
+    ["windows-x64-vc14.43.34808-b04bb9e65ce249309e917fe84f9f2a1d"] = {
+        toolset = "14.43.34808",
+        sha256 = "397fe6c9d94f6ccee2f1bb506b210a84cc5a4b7727876522cc2f4b4fce9999f3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-b04bb9e65ce249309e917fe84f9f2a1d.7z"
+    },
+    ["windows-x86-vc14.43.34808-c763d521715146328ceb1d6bb475006e"] = {
+        toolset = "14.43.34808",
+        sha256 = "64fd82ee7ee6ae4bb6dd895a385c5bc8a618a56d32cebc36f2f539e11d43568e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x86-vc14.43.34808-c763d521715146328ceb1d6bb475006e.7z"
+    },
+    ["windows-x64-vc14.43.34808-b4c41f767f7a4224b5c5ec1ba1d5d8f7"] = {
+        toolset = "14.43.34808",
+        sha256 = "aaa8986d48709c691283cb9ff70aa242c060fd6b0b56fd4fcdc0bd5048da6741",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/osip-5.3.0/windows-x64-vc14.43.34808-b4c41f767f7a4224b5c5ec1ba1d5d8f7.7z"
     }
 }
