@@ -1,122 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-ce8292f212694b7eb1b63a3f8ea2ecde"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-ce8292f212694b7eb1b63a3f8ea2ecde.7z",
-        sha256 = "7f70bdc85ecd78028c867e41bac3f58c2fa66e9e74af8485b69ea9c6bd87ca1b",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-d4c29faa71524202a7b55554c681f035"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-d4c29faa71524202a7b55554c681f035.7z",
-        sha256 = "7a559460cb2f66fafc732daac3cd08c1b2f07cae6db54ccef75cec23ea25b5bf",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-1334ee1fb6274d38bcdafc49a31437ce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-1334ee1fb6274d38bcdafc49a31437ce.7z",
-        sha256 = "38cb77b6af273036b38e7ed77898180eb620ea251ecb1b0f4c63d28d665f2658",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.42.34433-ce8292f212694b7eb1b63a3f8ea2ecde"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-ce8292f212694b7eb1b63a3f8ea2ecde.7z",
-        sha256 = "b3e275212d8f41354547e8136b0ec68f1503055380317da0a03f71d19d3f2673",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.29.30133-09a84963c5c34b239d052f41e75ccbbb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-09a84963c5c34b239d052f41e75ccbbb.7z",
-        sha256 = "fc5abf917fdab527640e0be32d2633d6906cd984150850804a6340ac04d5b6fb",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.42.34433-bb0a22aa8d3a442583607de3f358dd62"] = {
+        toolset = "14.42.34433",
+        sha256 = "65d36207b2f7e9b65870eacf029a389528c3ab13325d416b03f7af644dab4a87",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-bb0a22aa8d3a442583607de3f358dd62.7z"
     },
     ["windows-x64-vc14.40.33807-015f7ef763ea40ca84317ce14184c2a6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.40.33807-015f7ef763ea40ca84317ce14184c2a6.7z",
+        toolset = "14.40.33807",
         sha256 = "8eddc613b167ea55a9901d4ca1ff6636ece043529bfaacf6efb5c9aaf3764b3b",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.42.34433-bb0a22aa8d3a442583607de3f358dd62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-bb0a22aa8d3a442583607de3f358dd62.7z",
-        sha256 = "65d36207b2f7e9b65870eacf029a389528c3ab13325d416b03f7af644dab4a87",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.41.34120-1334ee1fb6274d38bcdafc49a31437ce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.41.34120-1334ee1fb6274d38bcdafc49a31437ce.7z",
-        sha256 = "7f3b60999dd9fb17e13747216e01bbcf27e3a52a9f925e9b459dd8cb2c54c31f",
-        toolset = "14.41.34120"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.40.33807-015f7ef763ea40ca84317ce14184c2a6.7z"
     },
     ["windows-x64-vc14.29.30133-85fee1973406487592541d3c2a4ba890"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-85fee1973406487592541d3c2a4ba890.7z",
-        sha256 = "43b079f7e648594b5063e23395a3fab8dd39a398bc38394a4932b33ed4c3ba07",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "73e6635766f188b4a3ab68b97c3738a52c94d3a23f8bfaab0f277cf40a394c72",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-85fee1973406487592541d3c2a4ba890.7z"
     },
-    ["windows-x64-vc14.40.33807-d4c29faa71524202a7b55554c681f035"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.40.33807-d4c29faa71524202a7b55554c681f035.7z",
-        sha256 = "8a31bfb12b4f731f5884feb8ac87eb29a3e3f688f322f3a0bad9c6fa8e8bc2d0",
-        toolset = "14.40.33807"
+    ["windows-x86-vc14.43.34808-bb0a22aa8d3a442583607de3f358dd62"] = {
+        toolset = "14.43.34808",
+        sha256 = "6d659e3a6187293f040e40b45a20498047658bc9af4dd4e2239d46e985609917",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.43.34808-bb0a22aa8d3a442583607de3f358dd62.7z"
+    },
+    ["windows-x64-vc14.41.34120-1334ee1fb6274d38bcdafc49a31437ce"] = {
+        toolset = "14.41.34120",
+        sha256 = "7f3b60999dd9fb17e13747216e01bbcf27e3a52a9f925e9b459dd8cb2c54c31f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.41.34120-1334ee1fb6274d38bcdafc49a31437ce.7z"
     },
     ["windows-x86-vc14.40.33807-ce8292f212694b7eb1b63a3f8ea2ecde"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.40.33807-ce8292f212694b7eb1b63a3f8ea2ecde.7z",
+        toolset = "14.40.33807",
         sha256 = "93ad4418b731617e28d35d48aecf9be613d8bbee6fcf65f7494026679fbf0d7f",
-        toolset = "14.40.33807"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.40.33807-ce8292f212694b7eb1b63a3f8ea2ecde.7z"
     },
-    ["windows-x64-vc14.29.30133-015f7ef763ea40ca84317ce14184c2a6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-015f7ef763ea40ca84317ce14184c2a6.7z",
-        sha256 = "520ce5787f498d57e01c61e1996059f3f04475e3b8804ce030962fa588587c69",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.42.34433-ce8292f212694b7eb1b63a3f8ea2ecde"] = {
+        toolset = "14.42.34433",
+        sha256 = "b3e275212d8f41354547e8136b0ec68f1503055380317da0a03f71d19d3f2673",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-ce8292f212694b7eb1b63a3f8ea2ecde.7z"
     },
-    ["windows-x64-vc14.40.33807-85fee1973406487592541d3c2a4ba890"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.40.33807-85fee1973406487592541d3c2a4ba890.7z",
-        sha256 = "fa8866e9aaa65545b7409d7e8c6f780b1e98c589245cf80a55afc7cda917363f",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.42.34433-1334ee1fb6274d38bcdafc49a31437ce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-1334ee1fb6274d38bcdafc49a31437ce.7z",
-        sha256 = "75eef6612ff7580fbefee64b191f72208af6206ecd66be567f15c9abc082921f",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.29.30133-8268613f6e984152b43ea667705cf741"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-8268613f6e984152b43ea667705cf741.7z",
-        sha256 = "0522d376865a7cf3a0aa1d8592f844a1eb1652f4b3a0c1bc952a0d1fb4029c93",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-bb0a22aa8d3a442583607de3f358dd62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.40.33807-bb0a22aa8d3a442583607de3f358dd62.7z",
-        sha256 = "d2fe9a90e56ffbb0e7fdda202488bac36220f23bb310bab8ad41ce88e17ff9b3",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.41.34120-09a84963c5c34b239d052f41e75ccbbb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.41.34120-09a84963c5c34b239d052f41e75ccbbb.7z",
-        sha256 = "82d4a68e6d32515258ad84bbf0d4d8b5e0770d04168f71fdc9739ed1f69718c4",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.42.34433-85fee1973406487592541d3c2a4ba890"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-85fee1973406487592541d3c2a4ba890.7z",
-        sha256 = "bae6212fe929bdd876f8bb73eb37ab22d3fb629ebeb499be0d6028605f412714",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.42.34433-8268613f6e984152b43ea667705cf741"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-8268613f6e984152b43ea667705cf741.7z",
-        sha256 = "8efd619ba721a8948b055483528029dd1bb350f6bff760de3e343a26b34818c9",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.42.34433-d4c29faa71524202a7b55554c681f035"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-d4c29faa71524202a7b55554c681f035.7z",
-        sha256 = "3c37933fe09e928e5503fbc0e99e1a20f3b0f6ab91c1e378507126ed312ad437",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.29.30133-bb0a22aa8d3a442583607de3f358dd62"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-bb0a22aa8d3a442583607de3f358dd62.7z",
-        sha256 = "305b7e5eead5dba9c8b2374a16d55cdb714ba94b1620956c18dc92a2cbd81620",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.43.34808-85fee1973406487592541d3c2a4ba890"] = {
+        toolset = "14.43.34808",
+        sha256 = "d1cfaaf3ae796a5fc62f9c3d56a7674c6224d053c34db7945d64696115fd3c1d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.43.34808-85fee1973406487592541d3c2a4ba890.7z"
     },
     ["windows-x86-vc14.40.33807-8268613f6e984152b43ea667705cf741"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.40.33807-8268613f6e984152b43ea667705cf741.7z",
+        toolset = "14.40.33807",
         sha256 = "42031adac9d86d610e56eeb2c6d9b28989b0cdc20471e94b1a0134664d7c58ed",
-        toolset = "14.40.33807"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.40.33807-8268613f6e984152b43ea667705cf741.7z"
+    },
+    ["windows-x64-vc14.29.30133-015f7ef763ea40ca84317ce14184c2a6"] = {
+        toolset = "14.29.30133",
+        sha256 = "dfce5d47b60148a59b6688e0c927c5e2fb2dd5ebe96da2c134d0bbbea667581b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-015f7ef763ea40ca84317ce14184c2a6.7z"
+    },
+    ["windows-x86-vc14.41.34120-09a84963c5c34b239d052f41e75ccbbb"] = {
+        toolset = "14.41.34120",
+        sha256 = "82d4a68e6d32515258ad84bbf0d4d8b5e0770d04168f71fdc9739ed1f69718c4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.41.34120-09a84963c5c34b239d052f41e75ccbbb.7z"
+    },
+    ["windows-x64-vc14.29.30133-1334ee1fb6274d38bcdafc49a31437ce"] = {
+        toolset = "14.29.30133",
+        sha256 = "6fe6f2c37b102f2c28e5351c7c3f85d615687df97599a20d7eeedde61c054cf7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-1334ee1fb6274d38bcdafc49a31437ce.7z"
+    },
+    ["windows-x86-vc14.42.34433-8268613f6e984152b43ea667705cf741"] = {
+        toolset = "14.42.34433",
+        sha256 = "8efd619ba721a8948b055483528029dd1bb350f6bff760de3e343a26b34818c9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-8268613f6e984152b43ea667705cf741.7z"
+    },
+    ["windows-x64-vc14.42.34433-85fee1973406487592541d3c2a4ba890"] = {
+        toolset = "14.42.34433",
+        sha256 = "bae6212fe929bdd876f8bb73eb37ab22d3fb629ebeb499be0d6028605f412714",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-85fee1973406487592541d3c2a4ba890.7z"
+    },
+    ["windows-x86-vc14.29.30133-09a84963c5c34b239d052f41e75ccbbb"] = {
+        toolset = "14.29.30133",
+        sha256 = "b5a084981c47877f97523fd0663bf9b6b491a50de64cd09e90f0885b859daee6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-09a84963c5c34b239d052f41e75ccbbb.7z"
+    },
+    ["windows-x64-vc14.43.34808-015f7ef763ea40ca84317ce14184c2a6"] = {
+        toolset = "14.43.34808",
+        sha256 = "f2fb962d41e10aaa2d924b5e4be757fa0e458452537931543f70ac7c894f04d6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.43.34808-015f7ef763ea40ca84317ce14184c2a6.7z"
+    },
+    ["windows-x64-vc14.40.33807-85fee1973406487592541d3c2a4ba890"] = {
+        toolset = "14.40.33807",
+        sha256 = "fa8866e9aaa65545b7409d7e8c6f780b1e98c589245cf80a55afc7cda917363f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.40.33807-85fee1973406487592541d3c2a4ba890.7z"
+    },
+    ["windows-x64-vc14.42.34433-1334ee1fb6274d38bcdafc49a31437ce"] = {
+        toolset = "14.42.34433",
+        sha256 = "75eef6612ff7580fbefee64b191f72208af6206ecd66be567f15c9abc082921f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-1334ee1fb6274d38bcdafc49a31437ce.7z"
     },
     ["windows-x64-vc14.42.34433-015f7ef763ea40ca84317ce14184c2a6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-015f7ef763ea40ca84317ce14184c2a6.7z",
+        toolset = "14.42.34433",
         sha256 = "2080c93aa0cf567ab1d1b9f531fd8bc7c2d849a3d37df0697117c40a8ed2fbf2",
-        toolset = "14.42.34433"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-015f7ef763ea40ca84317ce14184c2a6.7z"
+    },
+    ["windows-x86-vc14.29.30133-ce8292f212694b7eb1b63a3f8ea2ecde"] = {
+        toolset = "14.29.30133",
+        sha256 = "afdfd9ef72fa861af9951914b4b3d0c33af8752468d9240d756049abb70bbdf9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-ce8292f212694b7eb1b63a3f8ea2ecde.7z"
+    },
+    ["windows-x86-vc14.29.30133-bb0a22aa8d3a442583607de3f358dd62"] = {
+        toolset = "14.29.30133",
+        sha256 = "64d846890318d178fdff58a7158f79ada56eaab74e7e88e060f8e1717b1e608d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-bb0a22aa8d3a442583607de3f358dd62.7z"
+    },
+    ["windows-x86-vc14.43.34808-09a84963c5c34b239d052f41e75ccbbb"] = {
+        toolset = "14.43.34808",
+        sha256 = "75e44c1fb4efe0bd8bff6a325e5cc2f013995198eb52115c01b933f1ae729027",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.43.34808-09a84963c5c34b239d052f41e75ccbbb.7z"
+    },
+    ["windows-x64-vc14.43.34808-d4c29faa71524202a7b55554c681f035"] = {
+        toolset = "14.43.34808",
+        sha256 = "0d706f1bc88a0251d41395f44d93ee6865d0b428f25bcd99f48e137ad7649438",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.43.34808-d4c29faa71524202a7b55554c681f035.7z"
+    },
+    ["windows-x86-vc14.43.34808-ce8292f212694b7eb1b63a3f8ea2ecde"] = {
+        toolset = "14.43.34808",
+        sha256 = "3728c6165427cb2c559cc15bb94ff2a4b44f533796a356cd342ae20b3f5d096e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.43.34808-ce8292f212694b7eb1b63a3f8ea2ecde.7z"
+    },
+    ["windows-x86-vc14.29.30133-8268613f6e984152b43ea667705cf741"] = {
+        toolset = "14.29.30133",
+        sha256 = "33bcf32a8541e4ebee2e330440c4508784f8093206b60f471592e70c3ddbe6db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.29.30133-8268613f6e984152b43ea667705cf741.7z"
+    },
+    ["windows-x64-vc14.29.30133-d4c29faa71524202a7b55554c681f035"] = {
+        toolset = "14.29.30133",
+        sha256 = "4187d167217508227c4d5bf090410d3bd409ddb8b66dd79b77dcf256dba64f88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.29.30133-d4c29faa71524202a7b55554c681f035.7z"
+    },
+    ["windows-x64-vc14.40.33807-d4c29faa71524202a7b55554c681f035"] = {
+        toolset = "14.40.33807",
+        sha256 = "8a31bfb12b4f731f5884feb8ac87eb29a3e3f688f322f3a0bad9c6fa8e8bc2d0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.40.33807-d4c29faa71524202a7b55554c681f035.7z"
+    },
+    ["windows-x64-vc14.43.34808-1334ee1fb6274d38bcdafc49a31437ce"] = {
+        toolset = "14.43.34808",
+        sha256 = "3b7de05cf6348f5655c8e9643303ca2dc7f61593eb799aa86965bfb6bf60a134",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.43.34808-1334ee1fb6274d38bcdafc49a31437ce.7z"
+    },
+    ["windows-x86-vc14.43.34808-8268613f6e984152b43ea667705cf741"] = {
+        toolset = "14.43.34808",
+        sha256 = "24718eb51addcd87056c16241af40d729089ce7ffb5c451f68ff9fb3f64d386b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.43.34808-8268613f6e984152b43ea667705cf741.7z"
+    },
+    ["windows-x86-vc14.40.33807-bb0a22aa8d3a442583607de3f358dd62"] = {
+        toolset = "14.40.33807",
+        sha256 = "d2fe9a90e56ffbb0e7fdda202488bac36220f23bb310bab8ad41ce88e17ff9b3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.40.33807-bb0a22aa8d3a442583607de3f358dd62.7z"
+    },
+    ["windows-x64-vc14.42.34433-d4c29faa71524202a7b55554c681f035"] = {
+        toolset = "14.42.34433",
+        sha256 = "3c37933fe09e928e5503fbc0e99e1a20f3b0f6ab91c1e378507126ed312ad437",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x64-vc14.42.34433-d4c29faa71524202a7b55554c681f035.7z"
     },
     ["windows-x86-vc14.42.34433-09a84963c5c34b239d052f41e75ccbbb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-09a84963c5c34b239d052f41e75ccbbb.7z",
+        toolset = "14.42.34433",
         sha256 = "3b006ddbba3bb6fd887b53ed882c369e2864dd32f3a0fa2b30e17e8fcc08b17b",
-        toolset = "14.42.34433"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libudis86-2014.12.25/windows-x86-vc14.42.34433-09a84963c5c34b239d052f41e75ccbbb.7z"
     }
 }
