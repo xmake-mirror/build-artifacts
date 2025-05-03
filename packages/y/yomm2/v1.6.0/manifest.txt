@@ -1,82 +1,117 @@
 {
-    ["windows-x64-vc14.29.30133-b806701bf99c46af8c33a8c7b0ad219e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-b806701bf99c46af8c33a8c7b0ad219e.7z",
-        toolset = "14.29.30133",
-        sha256 = "fdc821522ab39b262535aa53400e2e8804a91483216ec8a4e2771734f404107b"
-    },
-    ["windows-x86-vc14.29.30133-2272870e0a8b4a1c857479c4d3639531"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-2272870e0a8b4a1c857479c4d3639531.7z",
-        toolset = "14.29.30133",
-        sha256 = "e4835b9f57a03d992208152a24ab9e5c9fa804f5e9001adbda1dce32845a6e16"
-    },
-    ["windows-x86-vc14.29.30133-a3af7b7589924300abc18567cef1243d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-a3af7b7589924300abc18567cef1243d.7z",
-        toolset = "14.29.30133",
-        sha256 = "8ac7326f2e1179a84024108bb862b9453ab8c866e4cfae35b61e2677525792ca"
-    },
-    ["windows-x86-vc14.29.30133-43e2a0eacccb4c5f9ee64c50db238350"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-43e2a0eacccb4c5f9ee64c50db238350.7z",
-        toolset = "14.29.30133",
-        sha256 = "63e606a13f3e0cfb503d0094ff845917f3de9a08e6ca0a8a2f37dd11aa81fbe1"
-    },
-    ["windows-x64-vc14.42.34433-4463bfd87c814169a120d4a98f84e838"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-4463bfd87c814169a120d4a98f84e838.7z",
-        toolset = "14.42.34433",
-        sha256 = "b156676adbeadbef45389038d98d4baae0160c28661962f05c3d57e2592c9b7b"
-    },
-    ["windows-x64-vc14.29.30133-4463bfd87c814169a120d4a98f84e838"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-4463bfd87c814169a120d4a98f84e838.7z",
-        toolset = "14.29.30133",
-        sha256 = "fd8a42443e0c5bffbc04a742a2f0d11cd0b90626b694e51852b21c86510d7878"
-    },
-    ["windows-x64-vc14.42.34433-0b50692b61c24d818c4b327c5629fcf0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-0b50692b61c24d818c4b327c5629fcf0.7z",
-        toolset = "14.42.34433",
-        sha256 = "589b732815ab9bee02edfceb694c326b907dbc836e4a522cedb6b9d84a736af5"
-    },
     ["windows-x86-vc14.29.30133-27774b18638c41438fa9081469693f65"] = {
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-27774b18638c41438fa9081469693f65.7z",
-        toolset = "14.29.30133",
-        sha256 = "8010e3f6e26152fc750db2fb4d72b924ec7114b795c01f264d1eee8e0f8db759"
-    },
-    ["windows-x64-vc14.29.30133-9c2e060426e243209a9bd188a5193dc7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-9c2e060426e243209a9bd188a5193dc7.7z",
-        toolset = "14.29.30133",
-        sha256 = "d44820c87a243ad5cf0806a7fbf09954bca55f586eab0cccffa64dbb6a24832b"
-    },
-    ["windows-x86-vc14.42.34433-2272870e0a8b4a1c857479c4d3639531"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-2272870e0a8b4a1c857479c4d3639531.7z",
-        toolset = "14.42.34433",
-        sha256 = "d022c526b671f5fe13db3d8097c5c2b155a739db7db082ef227daf9c5ed89a5f"
-    },
-    ["windows-x86-vc14.42.34433-43e2a0eacccb4c5f9ee64c50db238350"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-43e2a0eacccb4c5f9ee64c50db238350.7z",
-        toolset = "14.42.34433",
-        sha256 = "3b5c61ecd8345902f274d279d2fd9af52335aff676152d9d06b080e374c7cdfc"
-    },
-    ["windows-x86-vc14.42.34433-27774b18638c41438fa9081469693f65"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-27774b18638c41438fa9081469693f65.7z",
-        toolset = "14.42.34433",
-        sha256 = "e5fb313ff55530c722609576c0354a310945786d9e37b16adcb2bcdbf5aff6fb"
-    },
-    ["windows-x86-vc14.42.34433-a3af7b7589924300abc18567cef1243d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-a3af7b7589924300abc18567cef1243d.7z",
-        toolset = "14.42.34433",
-        sha256 = "d91468ed186926049ec1ceb0494dd3fcdc41725d89ca2e0e1689001e80b7cef5"
-    },
-    ["windows-x64-vc14.42.34433-9c2e060426e243209a9bd188a5193dc7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-9c2e060426e243209a9bd188a5193dc7.7z",
-        toolset = "14.42.34433",
-        sha256 = "691efee6c9529f7a6e5446a713725a5777157b68ac3b53d12b3fac5f797ca2f6"
+        sha256 = "1f3cb85cc0e6b1cf9485f11920fe81662a129cbe8b1b4223c051bb21a2b96959"
     },
     ["windows-x64-vc14.42.34433-b806701bf99c46af8c33a8c7b0ad219e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-b806701bf99c46af8c33a8c7b0ad219e.7z",
         toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-b806701bf99c46af8c33a8c7b0ad219e.7z",
         sha256 = "298bdd399dce71ff110ca46a16ce3b35c5991449129925092e90ebe4afcf9e62"
     },
-    ["windows-x64-vc14.29.30133-0b50692b61c24d818c4b327c5629fcf0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-0b50692b61c24d818c4b327c5629fcf0.7z",
+    ["windows-x86-vc14.29.30133-43e2a0eacccb4c5f9ee64c50db238350"] = {
         toolset = "14.29.30133",
-        sha256 = "4c22d9090a9a944d5c89062a617fffb512a7617d6c446c1036b9660f89352bcb"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-43e2a0eacccb4c5f9ee64c50db238350.7z",
+        sha256 = "3c51621dd50b0cb5ecc16c3b83a169ec77763df107252ad82e9b283684ab6a7a"
+    },
+    ["windows-x64-vc14.42.34433-9c2e060426e243209a9bd188a5193dc7"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-9c2e060426e243209a9bd188a5193dc7.7z",
+        sha256 = "691efee6c9529f7a6e5446a713725a5777157b68ac3b53d12b3fac5f797ca2f6"
+    },
+    ["windows-x86-vc14.43.34808-43e2a0eacccb4c5f9ee64c50db238350"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.43.34808-43e2a0eacccb4c5f9ee64c50db238350.7z",
+        sha256 = "9b0f30865516cfd96883f5a84383b753a5162cf27f17105a81434c61c43d384a"
+    },
+    ["windows-x64-vc14.43.34808-4463bfd87c814169a120d4a98f84e838"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.43.34808-4463bfd87c814169a120d4a98f84e838.7z",
+        sha256 = "b65570b23823d4125fa94992414f02cc27dabe05882661ea5fa354f18e0d4be4"
+    },
+    ["windows-x86-vc14.43.34808-27774b18638c41438fa9081469693f65"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.43.34808-27774b18638c41438fa9081469693f65.7z",
+        sha256 = "9adf72d3735c42d85152e091bd2d6dbda477c6937b85ba21c81da0176ed5e9d6"
+    },
+    ["windows-x64-vc14.29.30133-b806701bf99c46af8c33a8c7b0ad219e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-b806701bf99c46af8c33a8c7b0ad219e.7z",
+        sha256 = "fdc821522ab39b262535aa53400e2e8804a91483216ec8a4e2771734f404107b"
+    },
+    ["windows-x86-vc14.42.34433-43e2a0eacccb4c5f9ee64c50db238350"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-43e2a0eacccb4c5f9ee64c50db238350.7z",
+        sha256 = "3b5c61ecd8345902f274d279d2fd9af52335aff676152d9d06b080e374c7cdfc"
+    },
+    ["windows-x86-vc14.42.34433-2272870e0a8b4a1c857479c4d3639531"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-2272870e0a8b4a1c857479c4d3639531.7z",
+        sha256 = "d022c526b671f5fe13db3d8097c5c2b155a739db7db082ef227daf9c5ed89a5f"
+    },
+    ["windows-x86-vc14.42.34433-a3af7b7589924300abc18567cef1243d"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-a3af7b7589924300abc18567cef1243d.7z",
+        sha256 = "d91468ed186926049ec1ceb0494dd3fcdc41725d89ca2e0e1689001e80b7cef5"
+    },
+    ["windows-x86-vc14.29.30133-a3af7b7589924300abc18567cef1243d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-a3af7b7589924300abc18567cef1243d.7z",
+        sha256 = "53a061eb9c2a32b4ba6d5d9413eef5915d77af9bb7b71dddd1568edf8fcab3ac"
+    },
+    ["windows-x86-vc14.43.34808-2272870e0a8b4a1c857479c4d3639531"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.43.34808-2272870e0a8b4a1c857479c4d3639531.7z",
+        sha256 = "7e2f27fcddb75aabda4d0af232c184c962574811d61f90b389ade9bdc6a878f7"
+    },
+    ["windows-x64-vc14.29.30133-9c2e060426e243209a9bd188a5193dc7"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-9c2e060426e243209a9bd188a5193dc7.7z",
+        sha256 = "3324738f7df034a2b3be14c17cef2dbb8e574d3a88353f71f2b58a1b84fbd4b5"
+    },
+    ["windows-x64-vc14.29.30133-4463bfd87c814169a120d4a98f84e838"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-4463bfd87c814169a120d4a98f84e838.7z",
+        sha256 = "bb461465657f9606c1e11a3fc32fd27d8a56411e750e8af872c5d94cb7b4b8cf"
+    },
+    ["windows-x64-vc14.42.34433-4463bfd87c814169a120d4a98f84e838"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-4463bfd87c814169a120d4a98f84e838.7z",
+        sha256 = "b156676adbeadbef45389038d98d4baae0160c28661962f05c3d57e2592c9b7b"
+    },
+    ["windows-x64-vc14.43.34808-b806701bf99c46af8c33a8c7b0ad219e"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.43.34808-b806701bf99c46af8c33a8c7b0ad219e.7z",
+        sha256 = "2c9448f9704d0f725ef511823e9bd2cf9031ac8ac0ca60486bf1a33a54089114"
+    },
+    ["windows-x64-vc14.43.34808-0b50692b61c24d818c4b327c5629fcf0"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.43.34808-0b50692b61c24d818c4b327c5629fcf0.7z",
+        sha256 = "6f98158288095877c929d13f2e386be6d3c61539617fc367389dbd404f840e93"
+    },
+    ["windows-x64-vc14.43.34808-9c2e060426e243209a9bd188a5193dc7"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.43.34808-9c2e060426e243209a9bd188a5193dc7.7z",
+        sha256 = "8e15aa099c7fb888d6101738ef02149cfae2432e9633aedbede522e71c4cc7b4"
+    },
+    ["windows-x86-vc14.29.30133-2272870e0a8b4a1c857479c4d3639531"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.29.30133-2272870e0a8b4a1c857479c4d3639531.7z",
+        sha256 = "1b165437aba2db2f9632caeaeebacf507f53453ac265197a370176646cc80d98"
+    },
+    ["windows-x86-vc14.42.34433-27774b18638c41438fa9081469693f65"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x86-vc14.42.34433-27774b18638c41438fa9081469693f65.7z",
+        sha256 = "e5fb313ff55530c722609576c0354a310945786d9e37b16adcb2bcdbf5aff6fb"
+    },
+    ["windows-x64-vc14.42.34433-0b50692b61c24d818c4b327c5629fcf0"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.42.34433-0b50692b61c24d818c4b327c5629fcf0.7z",
+        sha256 = "589b732815ab9bee02edfceb694c326b907dbc836e4a522cedb6b9d84a736af5"
+    },
+    ["windows-x64-vc14.29.30133-0b50692b61c24d818c4b327c5629fcf0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/yomm2-v1.6.0/windows-x64-vc14.29.30133-0b50692b61c24d818c4b327c5629fcf0.7z",
+        sha256 = "217bb6a9d6662bd5e72b89dfc7bc21b7d16a98916abc4db9163c7ae29272af5e"
     }
 }
