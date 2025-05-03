@@ -1,22 +1,62 @@
 {
+    ["windows-x64-vc14.29.30133-1f5ee561c67d4b6eb7ec73f0d9178af5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.29.30133-1f5ee561c67d4b6eb7ec73f0d9178af5.7z",
+        sha256 = "c9bd4fa9353aade1f3712364a01f9076931fe2e1d2b7d853398129ba2b667d32",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-8c3fbbeb4c444f1999de05c8c95a52a1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.29.30133-8c3fbbeb4c444f1999de05c8c95a52a1.7z",
+        sha256 = "5fd3ee977ca21103c9c48769f2bdab2b1747f11d235dee6c8eb3ae483435e634",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-3e840f6c937e4d529caf5fe6dc0e9793"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.29.30133-3e840f6c937e4d529caf5fe6dc0e9793.7z",
+        sha256 = "23ed51a0457ac2ef769b59f55f952fbf36c9aa720d37e1b734f61960a86654f0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-de365a41dabf49eab0063f1099c88de1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x86-vc14.43.34808-de365a41dabf49eab0063f1099c88de1.7z",
+        sha256 = "7cfe5a01be51a02e48d7a7dd3b4636a4c2b2e2b2a318c8ebd710c4fbcd0ddf36",
+        toolset = "14.43.34808"
+    },
     ["windows-x86-vc14.43.34808-6f68104b02f04a8f9f38c3d674010d3a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x86-vc14.43.34808-6f68104b02f04a8f9f38c3d674010d3a.7z",
-        sha256 = "4ce13acea214e4754d8d4971e10f8b8bfeacb9a74056df937083b37914e6cd44",
+        sha256 = "60cdc216ca404a49cb20ab7095782c5c6bb13f1a5f400c523f4d678fd3311239",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-6faae9af9f22402ab07797869df2de6e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.43.34808-6faae9af9f22402ab07797869df2de6e.7z",
+        sha256 = "bdcad750c78056c7dbe26e5eab16561c2c74a80776e140485855b3827fa92804",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-3e840f6c937e4d529caf5fe6dc0e9793"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.43.34808-3e840f6c937e4d529caf5fe6dc0e9793.7z",
+        sha256 = "d75b7c21a32728197c93d119ce0f32223f770d3f40cb76789b008ed3b269d96f",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-8c3fbbeb4c444f1999de05c8c95a52a1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.43.34808-8c3fbbeb4c444f1999de05c8c95a52a1.7z",
+        sha256 = "644cd73b9357b202508a6bb739e56beacc5af69ffdbf0d0ed936f8291dbf63a1",
         toolset = "14.43.34808"
     },
     ["windows-x86-vc14.29.30133-6f68104b02f04a8f9f38c3d674010d3a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x86-vc14.29.30133-6f68104b02f04a8f9f38c3d674010d3a.7z",
-        sha256 = "e0409fc8815392d935582244b8025443b2931f01775f29ed808f6ad2c4b8edfc",
+        sha256 = "836a973281d9458996622eec3b333fd738af058e7109c89637641e4bb9a7be7d",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.43.34808-3e840f6c937e4d529caf5fe6dc0e9793"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.43.34808-3e840f6c937e4d529caf5fe6dc0e9793.7z",
-        sha256 = "c2afa5f40ded7daa7e11fc6c7dcb4510e9e68d3be0781d0242ec60c8baa4f0ea",
-        toolset = "14.43.34808"
+    ["windows-x86-vc14.29.30133-de365a41dabf49eab0063f1099c88de1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x86-vc14.29.30133-de365a41dabf49eab0063f1099c88de1.7z",
+        sha256 = "d726fd7974802b1943d4374c09b2e7394b4db03129c1634345d8641eece72c85",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.43.34808-de365a41dabf49eab0063f1099c88de1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x86-vc14.43.34808-de365a41dabf49eab0063f1099c88de1.7z",
-        sha256 = "1408eccc8a24ade9c992ed5618972705e9118befc8358bea5b3a3733f51a2100",
+    ["windows-x64-vc14.29.30133-6faae9af9f22402ab07797869df2de6e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.29.30133-6faae9af9f22402ab07797869df2de6e.7z",
+        sha256 = "3e09031d441fd272238771246e6257c6ae64ce5af75638be838c571a65172f94",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-1f5ee561c67d4b6eb7ec73f0d9178af5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/python-3.13.2/windows-x64-vc14.43.34808-1f5ee561c67d4b6eb7ec73f0d9178af5.7z",
+        sha256 = "fd3cbdc850d0b00b9a5f51ba54510023fc8c832077b95a0d75cd39e4c6eaa182",
         toolset = "14.43.34808"
     }
 }
