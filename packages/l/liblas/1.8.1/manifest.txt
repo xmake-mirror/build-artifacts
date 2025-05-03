@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.42.34433-9a2281cd29cd45fabb7ba6a001c20039"] = {
-        sha256 = "dcee2d8c826a1844bdbf3815871174e7e3550da217c9c86d4d0eeb4a01760fe9",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-9a2281cd29cd45fabb7ba6a001c20039.7z"
-    },
     ["windows-x86-vc14.42.34433-70d565d56d0840049b8e9249ba85d590"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-70d565d56d0840049b8e9249ba85d590.7z",
         sha256 = "b94df379033b88bc496ebfa985cda983ba95cb07a27c1c21d7e29642ad083f20",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-70d565d56d0840049b8e9249ba85d590.7z"
-    },
-    ["windows-x86-vc14.29.30133-0974b54f338440e7a9386230bcb100b6"] = {
-        sha256 = "ac87fa19d6e246744aa6cdfa6f98dd78964a685f42b208b192e790eb8386d273",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-0974b54f338440e7a9386230bcb100b6.7z"
-    },
-    ["windows-x86-vc14.29.30133-220b00249b53439b810d848b3bce0d41"] = {
-        sha256 = "a7668b4f9eaeab5967be55bab1b6aea4f6956b7880ae65d2a00839719f249f35",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-220b00249b53439b810d848b3bce0d41.7z"
-    },
-    ["windows-x64-vc14.42.34433-6757da2544c24651b2597c68e47f3e02"] = {
-        sha256 = "aef63b0c1fac078d8f097bd876ecbfc1ca33d3932d6007da7197d560f9ab9ff5",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-6757da2544c24651b2597c68e47f3e02.7z"
-    },
-    ["windows-x86-vc14.29.30133-241a782e212e40958d497dad4aac509f"] = {
-        sha256 = "0d9acd78122d005dbc97c6515a1d13f8c9590ec4c11f0da5a770b78e9b1ca7e7",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-241a782e212e40958d497dad4aac509f.7z"
-    },
-    ["windows-x64-vc14.29.30133-4b9cc21fb71246cba16cab72ee86d09c"] = {
-        sha256 = "453cf9a5cdee227c719a6cf85a3ba676bbce354c7a5aacfecb83c131453b723c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-4b9cc21fb71246cba16cab72ee86d09c.7z"
-    },
-    ["windows-x64-vc14.42.34433-84677c04eedb49f2b87e3b6d06930abc"] = {
-        sha256 = "cb81819af8dee01b480cb02e94c6acc2ca40a46945add39534ce5391f2f6f621",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-84677c04eedb49f2b87e3b6d06930abc.7z"
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.29.30133-6757da2544c24651b2597c68e47f3e02"] = {
-        sha256 = "c2226f9a057f3f55d2b4d1356e1a3bfd144645d6026787d8052c61093514b15c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-6757da2544c24651b2597c68e47f3e02.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-6757da2544c24651b2597c68e47f3e02.7z",
+        sha256 = "021e6e7fb54fad4096bc270b39057b4e4f91f927aed4736dc86ae6d44b81fbe4",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.29.30133-84677c04eedb49f2b87e3b6d06930abc"] = {
-        sha256 = "141f3103b2739355050ef05f92ac8c6d383483d94cf84055e08f111761ba46ed",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-84677c04eedb49f2b87e3b6d06930abc.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-84677c04eedb49f2b87e3b6d06930abc.7z",
+        sha256 = "3cd666c3f6abff464ff5430d4f570aa1be37a4145970da0e3ce4b3c8e5216269",
+        toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.42.34433-4b9cc21fb71246cba16cab72ee86d09c"] = {
-        sha256 = "32c0c533c8e7a9ff492cff705c154aaae7c6f2ef38a7092f177afc944b83c5ef",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-4b9cc21fb71246cba16cab72ee86d09c.7z"
+    ["windows-x64-vc14.29.30133-4b9cc21fb71246cba16cab72ee86d09c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-4b9cc21fb71246cba16cab72ee86d09c.7z",
+        sha256 = "47b852607942e2122558de985c0d0ba229c29159d3c20251306d16af6485c614",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.42.34433-0974b54f338440e7a9386230bcb100b6"] = {
-        sha256 = "d627d4e6781692865cf6df577a6108128ae6fb8e5990d9898719452f87db832f",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-0974b54f338440e7a9386230bcb100b6.7z"
+    ["windows-x64-vc14.43.34808-9a2281cd29cd45fabb7ba6a001c20039"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.43.34808-9a2281cd29cd45fabb7ba6a001c20039.7z",
+        sha256 = "713fb22dccf96166e902d847038973f37d2167d76cdfc2f5c8561258f3cfa312",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-0974b54f338440e7a9386230bcb100b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-0974b54f338440e7a9386230bcb100b6.7z",
+        sha256 = "4f45d992f27f987e897dc3ab7105d70e42d29a8cd99031b9aae46dd4d0057ee0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-0974b54f338440e7a9386230bcb100b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.43.34808-0974b54f338440e7a9386230bcb100b6.7z",
+        sha256 = "f2db20791e55489836463c43b577bb409ed2b8a2f7e8d4dc682a158c4ce45005",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-6757da2544c24651b2597c68e47f3e02"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.43.34808-6757da2544c24651b2597c68e47f3e02.7z",
+        sha256 = "ab9c8b3b12d91da38b3ac8759b524b72ed26cf1f001dc271e5b78134176ef6b9",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.42.34433-9a2281cd29cd45fabb7ba6a001c20039"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-9a2281cd29cd45fabb7ba6a001c20039.7z",
+        sha256 = "dcee2d8c826a1844bdbf3815871174e7e3550da217c9c86d4d0eeb4a01760fe9",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-6757da2544c24651b2597c68e47f3e02"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-6757da2544c24651b2597c68e47f3e02.7z",
+        sha256 = "aef63b0c1fac078d8f097bd876ecbfc1ca33d3932d6007da7197d560f9ab9ff5",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.29.30133-9a2281cd29cd45fabb7ba6a001c20039"] = {
-        sha256 = "5e84c476da7ceac0c22430e4d1cc524f8a213e47c6ee5aeff280bafa944bf437",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-9a2281cd29cd45fabb7ba6a001c20039.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.29.30133-9a2281cd29cd45fabb7ba6a001c20039.7z",
+        sha256 = "7fab0d624242a5c80f1bd2798f366a2c33baf712e7bd9742e666094b49e8e458",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-241a782e212e40958d497dad4aac509f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.43.34808-241a782e212e40958d497dad4aac509f.7z",
+        sha256 = "cc77cb2e2ec1fb4409a4cd2fb89d0ca621e9603fe59e0ff286ba5d43544ead89",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-220b00249b53439b810d848b3bce0d41"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.43.34808-220b00249b53439b810d848b3bce0d41.7z",
+        sha256 = "2f2267a74b46cc7dc5c690d7d6907e8ab232c409699563c78df69c7ae0811ce8",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.42.34433-0974b54f338440e7a9386230bcb100b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-0974b54f338440e7a9386230bcb100b6.7z",
+        sha256 = "d627d4e6781692865cf6df577a6108128ae6fb8e5990d9898719452f87db832f",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-220b00249b53439b810d848b3bce0d41"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-220b00249b53439b810d848b3bce0d41.7z",
+        sha256 = "92f3f4644ad642f16f01c5043abfcaae419c56789a47e0703fed2118031491a1",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-70d565d56d0840049b8e9249ba85d590"] = {
-        sha256 = "e55eb55c5f44e50aaf3e94d3d2aa06e827024816582af5c31b5fb5f9e0a6418c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-70d565d56d0840049b8e9249ba85d590.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-70d565d56d0840049b8e9249ba85d590.7z",
+        sha256 = "136dbf30de366215aafa53fd053dc76bed721e5992ec99c7beb7fdd68dd4c475",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-84677c04eedb49f2b87e3b6d06930abc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-84677c04eedb49f2b87e3b6d06930abc.7z",
+        sha256 = "cb81819af8dee01b480cb02e94c6acc2ca40a46945add39534ce5391f2f6f621",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-4b9cc21fb71246cba16cab72ee86d09c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.42.34433-4b9cc21fb71246cba16cab72ee86d09c.7z",
+        sha256 = "32c0c533c8e7a9ff492cff705c154aaae7c6f2ef38a7092f177afc944b83c5ef",
+        toolset = "14.42.34433"
     },
     ["windows-x86-vc14.42.34433-241a782e212e40958d497dad4aac509f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-241a782e212e40958d497dad4aac509f.7z",
         sha256 = "52fed0c704332bdb93630fffc480a7847d871937923c1923a8116d0451160918",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-241a782e212e40958d497dad4aac509f.7z"
+        toolset = "14.42.34433"
     },
     ["windows-x86-vc14.42.34433-220b00249b53439b810d848b3bce0d41"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-220b00249b53439b810d848b3bce0d41.7z",
         sha256 = "6e9ee3e367e3ec571f790cd86dd585f655f424bb6f9c7721f79eaf9e90505391",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.42.34433-220b00249b53439b810d848b3bce0d41.7z"
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.43.34808-84677c04eedb49f2b87e3b6d06930abc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.43.34808-84677c04eedb49f2b87e3b6d06930abc.7z",
+        sha256 = "a7e283634876f82d3e0fb05685db1e54f1b737ed623c4953af947eb7e1fa24cc",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-241a782e212e40958d497dad4aac509f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.29.30133-241a782e212e40958d497dad4aac509f.7z",
+        sha256 = "b5638c108c7fb82862ba17c5c06342a7e70234012c235001682f8fba9f4310d3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-4b9cc21fb71246cba16cab72ee86d09c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x64-vc14.43.34808-4b9cc21fb71246cba16cab72ee86d09c.7z",
+        sha256 = "60213371ca1f10cebffa39ea1aeec8cc3e6554c65e03e5321ec8fa2dc796a0bf",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-70d565d56d0840049b8e9249ba85d590"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/liblas-1.8.1/windows-x86-vc14.43.34808-70d565d56d0840049b8e9249ba85d590.7z",
+        sha256 = "a2842eced7a15ee5267fe6904403c2c302f2b53fc8b0717b5ad8742b52602771",
+        toolset = "14.43.34808"
     }
 }
