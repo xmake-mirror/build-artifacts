@@ -1,18 +1,18 @@
 {
-    ["windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.41.34120",
-        sha256 = "cb13f0e8176015efc5af3ecad6ed2eaf6ace2f09473852a276fd8d58bf6cc98e"
-    },
-    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.29.30133",
-        sha256 = "7697ee2b97192fe6c9015932b967dcad4726155057c2ce8879f632e6f5be06fb"
-    },
     ["windows-x86-vc14.41.34120-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.41.34120-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
         toolset = "14.41.34120",
         sha256 = "be9be2ec358e08159228a47d317d3965000341cee8d065b4c0a7229265a0083a"
+    },
+    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
+        toolset = "14.29.30133",
+        sha256 = "d5890743345006159e2794c900c2b9d7a93c99f195334b7bc3896afd1d4fd8b0"
+    },
+    ["windows-x86-vc14.29.30133-2a5a803d3d9e4ba88af5e98491786077"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-2a5a803d3d9e4ba88af5e98491786077.7z",
+        toolset = "14.29.30133",
+        sha256 = "d051e219350a483b74e2826179efe447028e1d2fed4cd66d30f57478805bd8d4"
     },
     ["windows-x86-vc14.41.34120-af705bc0e66f4f108a3a47c7ee859189"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.41.34120-af705bc0e66f4f108a3a47c7ee859189.7z",
@@ -24,59 +24,139 @@
         toolset = "14.29.30133",
         sha256 = "1db39b72f6d7d93bb045d0fac093a50da5808122100944d8550160cb6276fd4f"
     },
-    ["windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789.7z",
-        toolset = "14.41.34120",
-        sha256 = "2ed819c83793732a417e5b73a56e3531defd0555d832f91409bcf81d1393ee40"
-    },
-    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
+    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
         toolset = "14.29.30133",
-        sha256 = "bd27e57791aeed5b03bc03023d7d484c7fcce01915f2942bcff6c320f035f23a"
-    },
-    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
-        toolset = "14.29.30133",
-        sha256 = "d5890743345006159e2794c900c2b9d7a93c99f195334b7bc3896afd1d4fd8b0"
-    },
-    ["windows-x64-vc14.41.34120-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.41.34120-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.41.34120",
-        sha256 = "dd03149971719732dfeb36c9479b52db78228a7ebcd17340cf7b3a303b9d64cf"
-    },
-    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        toolset = "14.29.30133",
-        sha256 = "8a54a4f1691cdb2725e061db22683b7572cd0233238f65fcd2f7b13effb47672"
+        sha256 = "7697ee2b97192fe6c9015932b967dcad4726155057c2ce8879f632e6f5be06fb"
     },
     ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
         toolset = "14.29.30133",
         sha256 = "2f3575478cb3435d37dc1b911d66814eab77ea6cf4f2e29d0213e3a49d884264"
     },
-    ["windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b.7z",
-        toolset = "14.41.34120",
-        sha256 = "d57ce7704161095783b37a781b1a9fa124bfb91fabb309d52f0aa906c83f6d22"
+    ["windows-x86-vc14.43.34808-33cd0a98630c4bd6a7effcce7172701b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.43.34808-33cd0a98630c4bd6a7effcce7172701b.7z",
+        toolset = "14.43.34808",
+        sha256 = "65f4ac92843d5c1cc0d093665eb269db07be46c65e5a8c3383c4ee9376098303"
     },
     ["windows-x64-vc14.41.34120-12a82e449dac4f8793535dd4c47b6404"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.41.34120-12a82e449dac4f8793535dd4c47b6404.7z",
         toolset = "14.41.34120",
         sha256 = "72b75d0e33180700f62ffcfd22da7e318e19f1db1bf9ec08a3698d11661dcaba"
     },
+    ["windows-x64-vc14.43.34808-ed7691e1fa1743ff97e56f8c369f2748"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.43.34808-ed7691e1fa1743ff97e56f8c369f2748.7z",
+        toolset = "14.43.34808",
+        sha256 = "685ec53f0471dae9500797b2f9518ef59f26d94d5d368172557131aaf4d131ed"
+    },
+    ["windows-x64-vc14.41.34120-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.41.34120-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        toolset = "14.41.34120",
+        sha256 = "dd03149971719732dfeb36c9479b52db78228a7ebcd17340cf7b3a303b9d64cf"
+    },
     ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
         toolset = "14.29.30133",
         sha256 = "c5d59f830103aed93280e660c8ac0059af552dd16a4b1593424e17cacba9a835"
+    },
+    ["windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.41.34120-3c332be551f6485e8d17e1830ee49789.7z",
+        toolset = "14.41.34120",
+        sha256 = "2ed819c83793732a417e5b73a56e3531defd0555d832f91409bcf81d1393ee40"
+    },
+    ["windows-x64-vc14.29.30133-8374fdb18f51476d9b2bf62f0b405985"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-8374fdb18f51476d9b2bf62f0b405985.7z",
+        toolset = "14.29.30133",
+        sha256 = "1340e1cbeb72fed059488467e9386baf384370c2149eb3a5f4534f747516bf24"
+    },
+    ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
+        toolset = "14.29.30133",
+        sha256 = "bd27e57791aeed5b03bc03023d7d484c7fcce01915f2942bcff6c320f035f23a"
+    },
+    ["windows-x86-vc14.43.34808-2a5a803d3d9e4ba88af5e98491786077"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.43.34808-2a5a803d3d9e4ba88af5e98491786077.7z",
+        toolset = "14.43.34808",
+        sha256 = "7540bbd62e18944e1737eed2cf5dd2d211c77be96aee64c48984172764b7cbf5"
+    },
+    ["windows-x64-vc14.29.30133-ed7691e1fa1743ff97e56f8c369f2748"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-ed7691e1fa1743ff97e56f8c369f2748.7z",
+        toolset = "14.29.30133",
+        sha256 = "72f6f87dc5cd9804a58321ce9f91efa24f9f1aab3d0ab292eeda549d8211c217"
+    },
+    ["windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.41.34120-aeda7dc391cf4237b8f316df1955053b.7z",
+        toolset = "14.41.34120",
+        sha256 = "cb13f0e8176015efc5af3ecad6ed2eaf6ace2f09473852a276fd8d58bf6cc98e"
     },
     ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
         toolset = "14.29.30133",
         sha256 = "e6e569f73b50be7b831af40642eefd05a119269fc59707eb37b18293e4fd5226"
     },
+    ["windows-x86-vc14.29.30133-53c925539645401f9aec5448a2edc896"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-53c925539645401f9aec5448a2edc896.7z",
+        toolset = "14.29.30133",
+        sha256 = "b7489611ae173e82bb136e4fc77e86008b59fe6a07c9cbc2cfaf783c139ae0fa"
+    },
     ["windows-x64-vc14.41.34120-b1caf5aecf3447d1bfaf66081135de32"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.41.34120-b1caf5aecf3447d1bfaf66081135de32.7z",
         toolset = "14.41.34120",
         sha256 = "bd9891f1de252919f2d6eeccd454b4d6d4af697ef87a9d8a404e26d8a49d38d7"
+    },
+    ["windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.41.34120-a11dcc3a1c08476590461852f6d4257b.7z",
+        toolset = "14.41.34120",
+        sha256 = "d57ce7704161095783b37a781b1a9fa124bfb91fabb309d52f0aa906c83f6d22"
+    },
+    ["windows-x64-vc14.29.30133-1535167a4ee5406ebede20c62fa852b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-1535167a4ee5406ebede20c62fa852b2.7z",
+        toolset = "14.29.30133",
+        sha256 = "a464aa10daa266aca764ad048675e63f4403c5609096880649229f35e4638826"
+    },
+    ["windows-x64-vc14.43.34808-b98b231dfe1140098fa477fec653c5f1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.43.34808-b98b231dfe1140098fa477fec653c5f1.7z",
+        toolset = "14.43.34808",
+        sha256 = "5a774cae6c7a12e45b67764bc58925004140c72f09a9ee52ef5ccc9c68deba72"
+    },
+    ["windows-x64-vc14.43.34808-8374fdb18f51476d9b2bf62f0b405985"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.43.34808-8374fdb18f51476d9b2bf62f0b405985.7z",
+        toolset = "14.43.34808",
+        sha256 = "9aa7feb364fbfc5cc7d02ec7256b05b9f68971cbca0ee6783ae0097d9b38e203"
+    },
+    ["windows-x86-vc14.43.34808-601c697f2e8d402ead8c3b20001aa3d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.43.34808-601c697f2e8d402ead8c3b20001aa3d7.7z",
+        toolset = "14.43.34808",
+        sha256 = "d3235fca789693e4bbc112cd6aac94ee50ad32c4a1b3b1d07f0f7a1049b86b01"
+    },
+    ["windows-x86-vc14.43.34808-53c925539645401f9aec5448a2edc896"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.43.34808-53c925539645401f9aec5448a2edc896.7z",
+        toolset = "14.43.34808",
+        sha256 = "739b44d4a5038b57436662d568403368389223194a0acb5327dc3ac50b08fac5"
+    },
+    ["windows-x86-vc14.29.30133-33cd0a98630c4bd6a7effcce7172701b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-33cd0a98630c4bd6a7effcce7172701b.7z",
+        toolset = "14.29.30133",
+        sha256 = "2e4f9dcda8ef1d90e338c6d5e0b2db6ddd0705292e8078dd43b643cf9ed2894c"
+    },
+    ["windows-x64-vc14.43.34808-1535167a4ee5406ebede20c62fa852b2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.43.34808-1535167a4ee5406ebede20c62fa852b2.7z",
+        toolset = "14.43.34808",
+        sha256 = "4b5ca6e351522f5f05e7d55bc2c4e9dc24c49316af2c04c5273a27077c66b527"
+    },
+    ["windows-x86-vc14.29.30133-601c697f2e8d402ead8c3b20001aa3d7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x86-vc14.29.30133-601c697f2e8d402ead8c3b20001aa3d7.7z",
+        toolset = "14.29.30133",
+        sha256 = "19daccced2295ef186cf027fc3d91a4131bbc5839ee40dd06eb03513f44fa568"
+    },
+    ["windows-x64-vc14.29.30133-b98b231dfe1140098fa477fec653c5f1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-b98b231dfe1140098fa477fec653c5f1.7z",
+        toolset = "14.29.30133",
+        sha256 = "1d0c9e011deaf43e9c3615d382a66c5cc880607331068ee0f0d23e45dd1dd07d"
+    },
+    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mbedtls-v3.6.1/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        toolset = "14.29.30133",
+        sha256 = "8a54a4f1691cdb2725e061db22683b7572cd0233238f65fcd2f7b13effb47672"
     }
 }
