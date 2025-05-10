@@ -14,6 +14,21 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x64-vc14.29.30133-fcdaf9987c834e06bf32c9e839f8fe28.7z",
         sha256 = "4bb701af573257335c0ee78ce6c049afe4c3a10833f70ef8e6bc537989f2464a"
     },
+    ["windows-x64-vc14.43.34808-fcdaf9987c834e06bf32c9e839f8fe28"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x64-vc14.43.34808-fcdaf9987c834e06bf32c9e839f8fe28.7z",
+        sha256 = "add720d885d5ed23072c418cf61b3ef14ebe32376701a7da8dd829129014ea13"
+    },
+    ["windows-x86-vc14.29.30133-e67bfaf66ed44721b89476af22bc0445"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x86-vc14.29.30133-e67bfaf66ed44721b89476af22bc0445.7z",
+        sha256 = "025f3199db165289f00fb98e671b337816c4a8ef22a5b61de358f08b391c613c"
+    },
+    ["windows-x86-vc14.29.30133-7428cb77ba914ad4b0e964acec1bd019"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x86-vc14.29.30133-7428cb77ba914ad4b0e964acec1bd019.7z",
+        sha256 = "54a634828bdd5cec4010d76f398b19b8b52e85aa3f9cccb40b799b88df5e8e97"
+    },
     ["windows-x86-vc14.43.34808-442ecc6124184c40951ead79bae30e0d"] = {
         toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x86-vc14.43.34808-442ecc6124184c40951ead79bae30e0d.7z",
@@ -23,21 +38,6 @@
         toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x64-vc14.29.30133-e26e528d06ee47b48603d9a1a3c53ee6.7z",
         sha256 = "60f244009029b3e51529e41a6db13e1766e5662199d772b31f53ecbef906adc1"
-    },
-    ["windows-x86-vc14.29.30133-7428cb77ba914ad4b0e964acec1bd019"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x86-vc14.29.30133-7428cb77ba914ad4b0e964acec1bd019.7z",
-        sha256 = "54a634828bdd5cec4010d76f398b19b8b52e85aa3f9cccb40b799b88df5e8e97"
-    },
-    ["windows-x86-vc14.29.30133-e67bfaf66ed44721b89476af22bc0445"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x86-vc14.29.30133-e67bfaf66ed44721b89476af22bc0445.7z",
-        sha256 = "025f3199db165289f00fb98e671b337816c4a8ef22a5b61de358f08b391c613c"
-    },
-    ["windows-x64-vc14.43.34808-fcdaf9987c834e06bf32c9e839f8fe28"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-io-v0.18.1/windows-x64-vc14.43.34808-fcdaf9987c834e06bf32c9e839f8fe28.7z",
-        sha256 = "add720d885d5ed23072c418cf61b3ef14ebe32376701a7da8dd829129014ea13"
     },
     ["windows-x64-vc14.29.30133-a3b400453984424296b227116842d591"] = {
         toolset = "14.29.30133",
