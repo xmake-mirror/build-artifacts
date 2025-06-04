@@ -1,242 +1,242 @@
 {
-    ["windows-x86-vc143-6d118b432d61423faacdf7c9ac89626b"] = {
-        toolset = "14.34.31933",
-        sha256 = "d03ae1d0c89f7c6e55861bdb101cd70eedeb106b9f57b629ef0053033805b1ab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-6d118b432d61423faacdf7c9ac89626b.7z"
-    },
-    ["windows-x64-vc14.38.33130-4f10cd5862d041449b9cc20557aa3212"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-4f10cd5862d041449b9cc20557aa3212.7z",
-        sha256 = "455acbd7b827531eab30642cda0e1def193b6feb79c02f93eb8c0767476b085d",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.38.33130-a6f8ee84fbc74864bb862af19b12ee09"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-a6f8ee84fbc74864bb862af19b12ee09.7z",
-        sha256 = "a076797c74c00ca2248e0b8ebe80d3278d38e222da65d51cdaf7ebb03556225a",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.40.33807-814ba34e92cc4c56b05bcf5eef73f154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-814ba34e92cc4c56b05bcf5eef73f154.7z",
-        sha256 = "d54af7a094a6435c413ad8c495e40654f081c759bd0149697732760795ef28df",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc142-bab0bf63b2594c129840bdf03992653e"] = {
+    ["windows-x86-vc14.29.30133-a6f8ee84fbc74864bb862af19b12ee09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-a6f8ee84fbc74864bb862af19b12ee09.7z",
         toolset = "14.29.30133",
-        sha256 = "43e30325605724fab1b0f3e33898ea1714b20c4415641c4711c1ded2c8fde322",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-bab0bf63b2594c129840bdf03992653e.7z"
-    },
-    ["windows-x86-vc14.43.34808-814ba34e92cc4c56b05bcf5eef73f154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-814ba34e92cc4c56b05bcf5eef73f154.7z",
-        sha256 = "10315940286ffc055447eb3bb6ea08b49ffe5a6bf6150f93fd63a2823996b8a0",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.38.33130-d0cf9abde51f403ab87938729d3755fb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-d0cf9abde51f403ab87938729d3755fb.7z",
-        sha256 = "f07df2473dfdf22c437c65162f9c3985b4b82190dc92684b88b31d48d766360c",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.29.30133-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
-        sha256 = "d6aff4f8a87880a69a08f1c6b9b43635fb6204d60d72db2876bcbc786d768792",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-bab0bf63b2594c129840bdf03992653e"] = {
-        toolset = "14.34.31933",
-        sha256 = "5ef3eee6e6024a9d612327510ab9a1b0891404f622c921f385e9ca78890650e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-bab0bf63b2594c129840bdf03992653e.7z"
-    },
-    ["windows-x64-vc14.43.34808-d0cf9abde51f403ab87938729d3755fb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-d0cf9abde51f403ab87938729d3755fb.7z",
-        sha256 = "3c0cd3d51ce64760a8b55d553867ae768475021b0cf65fffaeec681788fb571b",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-cf638b94b9a74958aa087413be41f845"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-cf638b94b9a74958aa087413be41f845.7z",
-        sha256 = "9eb776a6df71b47fc0d0c44a3ebfb3864b8d9aa0f88cfd5b046735e66b92ecb3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-a6f8ee84fbc74864bb862af19b12ee09"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-a6f8ee84fbc74864bb862af19b12ee09.7z",
-        sha256 = "ed033b067ee7153015e6d9974fe117b50ebdb8a30981d632af93bd55b9eabfa2",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.38.33130-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
-        sha256 = "d20a1be6cd6c6a839c613075516135d18309963a136e6202619f1f35b48673e1",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.40.33807-4f10cd5862d041449b9cc20557aa3212"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-4f10cd5862d041449b9cc20557aa3212.7z",
-        sha256 = "59f543ab8eac534f9f5e9435a1cea5b6c9fc3f2ea828c259d3a9baacf2877553",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-d0cf9abde51f403ab87938729d3755fb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-d0cf9abde51f403ab87938729d3755fb.7z",
-        sha256 = "9ce48c820ca8b0647cfab5dc2f7a7e49af3bcfd34aae17f77b76526c59342d26",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.40.33807-80a04809fd7b4331b379c458b7eb5575"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-80a04809fd7b4331b379c458b7eb5575.7z",
-        sha256 = "df70579b3dd7881ef8d47d2ae95e1f4b82730e7ea76c0335abde0139e7c9e96f",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc142-91ac7096d3524be0a36ae601b8015698"] = {
-        toolset = "14.29.30133",
-        sha256 = "595bcaf03de1f2adbbef2e818d83cf37add47e2b633f5544cd5f17d8effdb103",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-91ac7096d3524be0a36ae601b8015698.7z"
+        sha256 = "c21eaf8410a0c392ac27e3d211610e03714ac49952eb4b401d3ac59a893e27e5"
     },
     ["windows-x64-vc14.29.30133-d0cf9abde51f403ab87938729d3755fb"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.29.30133-d0cf9abde51f403ab87938729d3755fb.7z",
-        sha256 = "a7ebe5a6e3c9c37eae485231460403ec8d63fff7f58f04b9c631d342d71c8673",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-2644f6d32b754b069b2c0152e15f895d"] = {
         toolset = "14.29.30133",
-        sha256 = "be429eaf3bc30385ac91d7389d587a69a07ed393aef0d85bbb7ee8858f176d61",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-2644f6d32b754b069b2c0152e15f895d.7z"
+        sha256 = "a7ebe5a6e3c9c37eae485231460403ec8d63fff7f58f04b9c631d342d71c8673"
     },
-    ["windows-x86-vc14.43.34808-cf638b94b9a74958aa087413be41f845"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-cf638b94b9a74958aa087413be41f845.7z",
-        sha256 = "f5549132565309cba56edb956cfcb5a7c69b1683239c26cf03485d76024b22e6",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.40.33807-b09924fb51a04f3ea0efba91d35132f4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-b09924fb51a04f3ea0efba91d35132f4.7z",
-        sha256 = "55e17b312067e6a6d5dee0305e28209466ef8534a8ae53c1984e1331516650a1",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.38.33130-cf638b94b9a74958aa087413be41f845"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-cf638b94b9a74958aa087413be41f845.7z",
-        sha256 = "397ee16b6a18fe0e0abc889079a0f5f86905de13cbb43614eb5b743dda7fb554",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.38.33130-814ba34e92cc4c56b05bcf5eef73f154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-814ba34e92cc4c56b05bcf5eef73f154.7z",
-        sha256 = "283c12e41573de5a779202ae9f64b26250bc47cd09b2a49933b6dac33eed1a10",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.40.33807-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
-        sha256 = "49e2d3ee029858a2a2ed5216542bf5c78cdb03315d02f5a01bde69ed0429da44",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.29.30133-814ba34e92cc4c56b05bcf5eef73f154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-814ba34e92cc4c56b05bcf5eef73f154.7z",
-        sha256 = "2671fa6cbabfa768dd1eb8033b37bcf19e31c87c857df703d7de7eb8f1c26d6e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-a6f8ee84fbc74864bb862af19b12ee09"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-a6f8ee84fbc74864bb862af19b12ee09.7z",
-        sha256 = "6ad4e30eda092bbf3afb63d927ae06e5eb7c9d97a2fa024500bd84fe1f22b9c1",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
-        sha256 = "a38b5f18a145bfb6078174ed707af89bdff8df14e6f1d9d065f38c46900ba213",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-a6f8ee84fbc74864bb862af19b12ee09"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-a6f8ee84fbc74864bb862af19b12ee09.7z",
-        sha256 = "c21eaf8410a0c392ac27e3d211610e03714ac49952eb4b401d3ac59a893e27e5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-b09924fb51a04f3ea0efba91d35132f4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-b09924fb51a04f3ea0efba91d35132f4.7z",
-        sha256 = "f392d6d5572af9168bfa35304ee957784d985071a3da3e09dfff4b5a408f46c5",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-4f10cd5862d041449b9cc20557aa3212"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-4f10cd5862d041449b9cc20557aa3212.7z",
-        sha256 = "81412d3ed21d6217cddf5572afbaa8bc11f4c5f1f061053e0874e0f3277d4a7a",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-4f10cd5862d041449b9cc20557aa3212"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.29.30133-4f10cd5862d041449b9cc20557aa3212.7z",
-        sha256 = "9d3a350a2833180d348518211fd8643b118ec145e8562ae6935815db9c7b80e0",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-4e3e8d9fed8f44e099a71774786f251e"] = {
-        toolset = "14.29.30133",
-        sha256 = "6bd09b2bc3f086b449049150255cc578c1464a74b1316c198ab60e72a4570e2f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-4e3e8d9fed8f44e099a71774786f251e.7z"
-    },
-    ["windows-x64-vc142-c5338f50a9a54660ba22c6b25f3a2f05"] = {
-        toolset = "14.29.30133",
-        sha256 = "7150b4ded5e6eccc2bb5f18be77f0c2cf0ef11480c758a813ccb8c4ad57e0266",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-c5338f50a9a54660ba22c6b25f3a2f05.7z"
-    },
-    ["windows-x86-vc14.38.33130-b09924fb51a04f3ea0efba91d35132f4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-b09924fb51a04f3ea0efba91d35132f4.7z",
-        sha256 = "0df9765a7d96b2d36c35b69a9619bb86b23bbec0cda48d1f262afa8c695c623f",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc143-2644f6d32b754b069b2c0152e15f895d"] = {
-        toolset = "14.34.31933",
-        sha256 = "477b271db37e53fadec7354616c94aafb3b6cf6891eaa2491765640d47f21e52",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-2644f6d32b754b069b2c0152e15f895d.7z"
-    },
-    ["windows-x86-vc142-6d118b432d61423faacdf7c9ac89626b"] = {
-        toolset = "14.29.30133",
-        sha256 = "c84406d1026c529d8143aa465104f0628f770d8e20727a4e875fd4ec5a41d7a7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-6d118b432d61423faacdf7c9ac89626b.7z"
-    },
-    ["windows-x64-vc14.43.34808-80a04809fd7b4331b379c458b7eb5575"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-80a04809fd7b4331b379c458b7eb5575.7z",
-        sha256 = "e9b6fa5e4997550d8f84ffea358a4ef6c7b984006d63ee56426674a8e21b7fa5",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc143-c5338f50a9a54660ba22c6b25f3a2f05"] = {
-        toolset = "14.34.31933",
-        sha256 = "9a043ccf4c57da767dd4617873ce949dfbfd4816588ee86964b3a19151e7bf65",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-c5338f50a9a54660ba22c6b25f3a2f05.7z"
+    ["windows-x64-vc14.38.33130-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
+        toolset = "14.38.33130",
+        sha256 = "d20a1be6cd6c6a839c613075516135d18309963a136e6202619f1f35b48673e1"
     },
     ["windows-x86-vc142-5adf6c7314d247f28ec068c40b473673"] = {
-        toolset = "14.29.30133",
         sha256 = "903099276c469c097c065eb3c0ff3089da5558e0f890679cfc4ad0dedf62b718",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-5adf6c7314d247f28ec068c40b473673.7z"
-    },
-    ["windows-x86-vc14.29.30133-b09924fb51a04f3ea0efba91d35132f4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-b09924fb51a04f3ea0efba91d35132f4.7z",
-        sha256 = "fb373f26d587d5420925e365ae3621450a4e935198881b82089d54fb160006a1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-80a04809fd7b4331b379c458b7eb5575"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-80a04809fd7b4331b379c458b7eb5575.7z",
-        sha256 = "aad6a4cce577db09b9055a406945abba9ab2ce7404479eb642dd84dc2426c1a6",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc143-91ac7096d3524be0a36ae601b8015698"] = {
-        toolset = "14.34.31933",
-        sha256 = "fc1d44fc20e3011f79e7108ff859202d549967e96af287e0ef90bc82740fdd52",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-91ac7096d3524be0a36ae601b8015698.7z"
     },
     ["windows-x64-vc14.29.30133-80a04809fd7b4331b379c458b7eb5575"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.29.30133-80a04809fd7b4331b379c458b7eb5575.7z",
-        sha256 = "fc30b8ddd5452ee94880458966fe7850a2a1a797cd6507db8bf06b4f63204332",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        sha256 = "fc30b8ddd5452ee94880458966fe7850a2a1a797cd6507db8bf06b4f63204332"
+    },
+    ["windows-x86-vc14.40.33807-a6f8ee84fbc74864bb862af19b12ee09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-a6f8ee84fbc74864bb862af19b12ee09.7z",
+        toolset = "14.40.33807",
+        sha256 = "ed033b067ee7153015e6d9974fe117b50ebdb8a30981d632af93bd55b9eabfa2"
+    },
+    ["windows-x86-vc14.43.34808-b09924fb51a04f3ea0efba91d35132f4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-b09924fb51a04f3ea0efba91d35132f4.7z",
+        toolset = "14.43.34808",
+        sha256 = "e537d121f176883afd48e64540e0b9220f94fb5a1271c1be5d5d5ae52a6f06ba"
+    },
+    ["windows-x86-vc14.40.33807-814ba34e92cc4c56b05bcf5eef73f154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-814ba34e92cc4c56b05bcf5eef73f154.7z",
+        toolset = "14.40.33807",
+        sha256 = "d54af7a094a6435c413ad8c495e40654f081c759bd0149697732760795ef28df"
+    },
+    ["windows-x86-vc142-bab0bf63b2594c129840bdf03992653e"] = {
+        sha256 = "43e30325605724fab1b0f3e33898ea1714b20c4415641c4711c1ded2c8fde322",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-bab0bf63b2594c129840bdf03992653e.7z"
+    },
+    ["windows-x86-vc14.38.33130-a6f8ee84fbc74864bb862af19b12ee09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-a6f8ee84fbc74864bb862af19b12ee09.7z",
+        toolset = "14.38.33130",
+        sha256 = "a076797c74c00ca2248e0b8ebe80d3278d38e222da65d51cdaf7ebb03556225a"
+    },
+    ["windows-x86-vc14.38.33130-814ba34e92cc4c56b05bcf5eef73f154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-814ba34e92cc4c56b05bcf5eef73f154.7z",
+        toolset = "14.38.33130",
+        sha256 = "283c12e41573de5a779202ae9f64b26250bc47cd09b2a49933b6dac33eed1a10"
+    },
+    ["windows-x86-vc14.43.34808-a6f8ee84fbc74864bb862af19b12ee09"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-a6f8ee84fbc74864bb862af19b12ee09.7z",
+        toolset = "14.43.34808",
+        sha256 = "1f08e19fcd58c8d416c0266978049b0d4acb9673ea9b598a5a789f4aae414e83"
+    },
+    ["windows-x86-vc143-5adf6c7314d247f28ec068c40b473673"] = {
+        sha256 = "10c9e212426cded1dc8416a8eae8e4473d4f086359e28df0fd58a15dd7df9274",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-5adf6c7314d247f28ec068c40b473673.7z"
+    },
+    ["windows-x86-vc14.38.33130-cf638b94b9a74958aa087413be41f845"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-cf638b94b9a74958aa087413be41f845.7z",
+        toolset = "14.38.33130",
+        sha256 = "397ee16b6a18fe0e0abc889079a0f5f86905de13cbb43614eb5b743dda7fb554"
+    },
+    ["windows-x64-vc143-c5338f50a9a54660ba22c6b25f3a2f05"] = {
+        sha256 = "9a043ccf4c57da767dd4617873ce949dfbfd4816588ee86964b3a19151e7bf65",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-c5338f50a9a54660ba22c6b25f3a2f05.7z"
+    },
+    ["windows-x64-vc14.43.34808-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
+        toolset = "14.43.34808",
+        sha256 = "6589690efb1cfdffd055cb111fe0731dde8770535c662a4f613fa6337d09bd02"
+    },
+    ["windows-x86-vc14.43.34808-cf638b94b9a74958aa087413be41f845"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-cf638b94b9a74958aa087413be41f845.7z",
+        toolset = "14.43.34808",
+        sha256 = "9c167ffc1c1fe89e7440dcd00dbd6ba2c008229da34e553f3a9a834e51cf5ab1"
+    },
+    ["windows-x64-vc14.43.34808-80a04809fd7b4331b379c458b7eb5575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-80a04809fd7b4331b379c458b7eb5575.7z",
+        toolset = "14.43.34808",
+        sha256 = "1dcd08a1feb23ff713e28443ab0dfc1401ee5035148bc8a9c33986a24b021a8b"
+    },
+    ["windows-x64-vc14.29.30133-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.29.30133-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
+        toolset = "14.29.30133",
+        sha256 = "d6aff4f8a87880a69a08f1c6b9b43635fb6204d60d72db2876bcbc786d768792"
+    },
+    ["windows-x64-vc14.43.34808-4f10cd5862d041449b9cc20557aa3212"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-4f10cd5862d041449b9cc20557aa3212.7z",
+        toolset = "14.43.34808",
+        sha256 = "b43d3a060479c7942088eb8ef33f38baa8ac2cf00701e493ed156559337b4d77"
+    },
+    ["windows-x86-vc143-bab0bf63b2594c129840bdf03992653e"] = {
+        sha256 = "5ef3eee6e6024a9d612327510ab9a1b0891404f622c921f385e9ca78890650e6",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-bab0bf63b2594c129840bdf03992653e.7z"
+    },
+    ["windows-x86-vc14.43.34808-814ba34e92cc4c56b05bcf5eef73f154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.43.34808-814ba34e92cc4c56b05bcf5eef73f154.7z",
+        toolset = "14.43.34808",
+        sha256 = "f7696c7d3f5398592ba4d3db22ebd027cd12154168c41bbcff75fc8d8c5a015f"
+    },
+    ["windows-x64-vc142-4e3e8d9fed8f44e099a71774786f251e"] = {
+        sha256 = "6bd09b2bc3f086b449049150255cc578c1464a74b1316c198ab60e72a4570e2f",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-4e3e8d9fed8f44e099a71774786f251e.7z"
+    },
+    ["windows-x86-vc143-6d118b432d61423faacdf7c9ac89626b"] = {
+        sha256 = "d03ae1d0c89f7c6e55861bdb101cd70eedeb106b9f57b629ef0053033805b1ab",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-6d118b432d61423faacdf7c9ac89626b.7z"
+    },
+    ["windows-x64-vc143-2644f6d32b754b069b2c0152e15f895d"] = {
+        sha256 = "477b271db37e53fadec7354616c94aafb3b6cf6891eaa2491765640d47f21e52",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-2644f6d32b754b069b2c0152e15f895d.7z"
+    },
+    ["windows-x86-vc14.29.30133-cf638b94b9a74958aa087413be41f845"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-cf638b94b9a74958aa087413be41f845.7z",
+        toolset = "14.29.30133",
+        sha256 = "9eb776a6df71b47fc0d0c44a3ebfb3864b8d9aa0f88cfd5b046735e66b92ecb3"
+    },
+    ["windows-x64-vc14.29.30133-4f10cd5862d041449b9cc20557aa3212"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.29.30133-4f10cd5862d041449b9cc20557aa3212.7z",
+        toolset = "14.29.30133",
+        sha256 = "9d3a350a2833180d348518211fd8643b118ec145e8562ae6935815db9c7b80e0"
+    },
+    ["windows-x64-vc14.43.34808-d0cf9abde51f403ab87938729d3755fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.43.34808-d0cf9abde51f403ab87938729d3755fb.7z",
+        toolset = "14.43.34808",
+        sha256 = "81e3b159c01ff0f8b266673553b86e5c047421737c2fda451d7d77fb2ae8fabe"
+    },
+    ["windows-x64-vc14.38.33130-4f10cd5862d041449b9cc20557aa3212"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-4f10cd5862d041449b9cc20557aa3212.7z",
+        toolset = "14.38.33130",
+        sha256 = "455acbd7b827531eab30642cda0e1def193b6feb79c02f93eb8c0767476b085d"
+    },
+    ["windows-x64-vc142-2644f6d32b754b069b2c0152e15f895d"] = {
+        sha256 = "be429eaf3bc30385ac91d7389d587a69a07ed393aef0d85bbb7ee8858f176d61",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-2644f6d32b754b069b2c0152e15f895d.7z"
+    },
+    ["windows-x64-vc143-ea6583e272c84e3d8464856bff025e32"] = {
+        sha256 = "051d8072e178a9ef44254c12ad224deb061403360313ad27ceb81cbfaa7f3e8d",
+        toolset = "14.34.31933",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-ea6583e272c84e3d8464856bff025e32.7z"
+    },
+    ["windows-x64-vc14.40.33807-4f10cd5862d041449b9cc20557aa3212"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-4f10cd5862d041449b9cc20557aa3212.7z",
+        toolset = "14.40.33807",
+        sha256 = "59f543ab8eac534f9f5e9435a1cea5b6c9fc3f2ea828c259d3a9baacf2877553"
+    },
+    ["windows-x64-vc14.40.33807-81ce8abb1bb94b7db9b98c6867bf78e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-81ce8abb1bb94b7db9b98c6867bf78e5.7z",
+        toolset = "14.40.33807",
+        sha256 = "49e2d3ee029858a2a2ed5216542bf5c78cdb03315d02f5a01bde69ed0429da44"
+    },
+    ["windows-x64-vc14.38.33130-80a04809fd7b4331b379c458b7eb5575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-80a04809fd7b4331b379c458b7eb5575.7z",
+        toolset = "14.38.33130",
+        sha256 = "aad6a4cce577db09b9055a406945abba9ab2ce7404479eb642dd84dc2426c1a6"
+    },
+    ["windows-x64-vc142-c5338f50a9a54660ba22c6b25f3a2f05"] = {
+        sha256 = "7150b4ded5e6eccc2bb5f18be77f0c2cf0ef11480c758a813ccb8c4ad57e0266",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-c5338f50a9a54660ba22c6b25f3a2f05.7z"
+    },
+    ["windows-x86-vc14.29.30133-814ba34e92cc4c56b05bcf5eef73f154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-814ba34e92cc4c56b05bcf5eef73f154.7z",
+        toolset = "14.29.30133",
+        sha256 = "2671fa6cbabfa768dd1eb8033b37bcf19e31c87c857df703d7de7eb8f1c26d6e"
+    },
+    ["windows-x86-vc142-91ac7096d3524be0a36ae601b8015698"] = {
+        sha256 = "595bcaf03de1f2adbbef2e818d83cf37add47e2b633f5544cd5f17d8effdb103",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-91ac7096d3524be0a36ae601b8015698.7z"
+    },
+    ["windows-x64-vc14.40.33807-80a04809fd7b4331b379c458b7eb5575"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-80a04809fd7b4331b379c458b7eb5575.7z",
+        toolset = "14.40.33807",
+        sha256 = "df70579b3dd7881ef8d47d2ae95e1f4b82730e7ea76c0335abde0139e7c9e96f"
+    },
+    ["windows-x64-vc14.38.33130-d0cf9abde51f403ab87938729d3755fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.38.33130-d0cf9abde51f403ab87938729d3755fb.7z",
+        toolset = "14.38.33130",
+        sha256 = "f07df2473dfdf22c437c65162f9c3985b4b82190dc92684b88b31d48d766360c"
     },
     ["windows-x86-vc14.40.33807-cf638b94b9a74958aa087413be41f845"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-cf638b94b9a74958aa087413be41f845.7z",
-        sha256 = "7075b70c7beeb7c345f21b2526f6f21258229b3bed3a8f704ce97da25e935bc5",
-        toolset = "14.40.33807"
+        toolset = "14.40.33807",
+        sha256 = "7075b70c7beeb7c345f21b2526f6f21258229b3bed3a8f704ce97da25e935bc5"
     },
-    ["windows-x64-vc143-ea6583e272c84e3d8464856bff025e32"] = {
-        toolset = "14.34.31933",
-        sha256 = "051d8072e178a9ef44254c12ad224deb061403360313ad27ceb81cbfaa7f3e8d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-ea6583e272c84e3d8464856bff025e32.7z"
+    ["windows-x86-vc142-6d118b432d61423faacdf7c9ac89626b"] = {
+        sha256 = "c84406d1026c529d8143aa465104f0628f770d8e20727a4e875fd4ec5a41d7a7",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc142-6d118b432d61423faacdf7c9ac89626b.7z"
+    },
+    ["windows-x86-vc14.29.30133-b09924fb51a04f3ea0efba91d35132f4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.29.30133-b09924fb51a04f3ea0efba91d35132f4.7z",
+        toolset = "14.29.30133",
+        sha256 = "fb373f26d587d5420925e365ae3621450a4e935198881b82089d54fb160006a1"
     },
     ["windows-x64-vc142-ea6583e272c84e3d8464856bff025e32"] = {
-        toolset = "14.29.30133",
         sha256 = "7c99dab09143c58eca0ce43849b08ad6cc077448695eb4db7980caecb5b3e88e",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc142-ea6583e272c84e3d8464856bff025e32.7z"
     },
+    ["windows-x64-vc14.40.33807-d0cf9abde51f403ab87938729d3755fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc14.40.33807-d0cf9abde51f403ab87938729d3755fb.7z",
+        toolset = "14.40.33807",
+        sha256 = "9ce48c820ca8b0647cfab5dc2f7a7e49af3bcfd34aae17f77b76526c59342d26"
+    },
+    ["windows-x86-vc14.40.33807-b09924fb51a04f3ea0efba91d35132f4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.40.33807-b09924fb51a04f3ea0efba91d35132f4.7z",
+        toolset = "14.40.33807",
+        sha256 = "55e17b312067e6a6d5dee0305e28209466ef8534a8ae53c1984e1331516650a1"
+    },
+    ["windows-x86-vc14.38.33130-b09924fb51a04f3ea0efba91d35132f4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc14.38.33130-b09924fb51a04f3ea0efba91d35132f4.7z",
+        toolset = "14.38.33130",
+        sha256 = "0df9765a7d96b2d36c35b69a9619bb86b23bbec0cda48d1f262afa8c695c623f"
+    },
     ["windows-x64-vc143-4e3e8d9fed8f44e099a71774786f251e"] = {
-        toolset = "14.34.31933",
         sha256 = "f85a5a0935441528dd4027170a00da7c5944ba0c39a9d9db6442ca90bd7ecd69",
+        toolset = "14.34.31933",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x64-vc143-4e3e8d9fed8f44e099a71774786f251e.7z"
     },
-    ["windows-x86-vc143-5adf6c7314d247f28ec068c40b473673"] = {
+    ["windows-x86-vc143-91ac7096d3524be0a36ae601b8015698"] = {
+        sha256 = "fc1d44fc20e3011f79e7108ff859202d549967e96af287e0ef90bc82740fdd52",
         toolset = "14.34.31933",
-        sha256 = "10c9e212426cded1dc8416a8eae8e4473d4f086359e28df0fd58a15dd7df9274",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-5adf6c7314d247f28ec068c40b473673.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/nngpp-v2020.10.30/windows-x86-vc143-91ac7096d3524be0a36ae601b8015698.7z"
     }
 }
