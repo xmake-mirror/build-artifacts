@@ -1,77 +1,92 @@
 {
-    ["windows-x64-vc14.43.34808-fcce0521478348deb7b79e906d331935"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-fcce0521478348deb7b79e906d331935.7z",
-        sha256 = "0f12546abd649aad8a0d4d6852597516bad61179982cdb08e890ceb1c4059bbc"
-    },
-    ["windows-x64-vc14.43.34808-80c01bf419dd4342b1d786b722aa4d1e"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-80c01bf419dd4342b1d786b722aa4d1e.7z",
-        sha256 = "7c769cde89f0650519f0a8ddc9c500fdeae40691927ceba480d55ea21e7e9e03"
-    },
-    ["windows-x86-vc14.29.30133-721a0a98836e4b5780576ae474afc31e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.29.30133-721a0a98836e4b5780576ae474afc31e.7z",
-        sha256 = "734cf719289f584102549059a99e32e5f934f2e4465cac928aba229a6aa13d5e"
-    },
     ["windows-x86-vc14.29.30133-0d98a80d971140e3af0e6921d15315e2"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.29.30133-0d98a80d971140e3af0e6921d15315e2.7z",
+        toolset = "14.29.30133",
         sha256 = "5cb3137c2868a20ad33969cb21d4aa95e208ea90f5c4eebf4b73aa8651aaad64"
     },
-    ["windows-x64-vc14.29.30133-af8b6fd263cf44d29eb43b820cb0e39e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.29.30133-af8b6fd263cf44d29eb43b820cb0e39e.7z",
-        sha256 = "108ebf5bc4350f56c98509a4fce39ae2321c036ad60463af816ee9e3d43d696a"
-    },
-    ["windows-x86-vc14.43.34808-0d98a80d971140e3af0e6921d15315e2"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.43.34808-0d98a80d971140e3af0e6921d15315e2.7z",
-        sha256 = "8779295881aa00de86d018058eb213ad12eded22eae6cf6e9ab52afab842d317"
-    },
-    ["windows-x64-vc14.29.30133-80c01bf419dd4342b1d786b722aa4d1e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.29.30133-80c01bf419dd4342b1d786b722aa4d1e.7z",
-        sha256 = "610fec25f316be6d85e98fd12c3ce68fd50343c9c666a704f1121cadeead7523"
-    },
-    ["windows-x86-vc14.29.30133-e80a84d5d7a64f2ba662bd55f6cfb7b0"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.29.30133-e80a84d5d7a64f2ba662bd55f6cfb7b0.7z",
-        sha256 = "06ea993607e1d074fbebc5a9428e2d2e37e22cdff2e6ad6b17106f1a2e6b7370"
-    },
-    ["windows-x64-vc14.29.30133-fcce0521478348deb7b79e906d331935"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.29.30133-fcce0521478348deb7b79e906d331935.7z",
-        sha256 = "adb7f558b071134eaa042468022fefb988029f1af20f6f3f944e76dfeb398fe6"
-    },
-    ["windows-x64-vc14.43.34808-675b1517675b4fa9942d0053776bb241"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-675b1517675b4fa9942d0053776bb241.7z",
-        sha256 = "eb4318069e7cfa417e4fef8aa59727c25a2d1e13f6ee7ba3a5161563d6da050a"
-    },
-    ["windows-x64-vc14.43.34808-af8b6fd263cf44d29eb43b820cb0e39e"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-af8b6fd263cf44d29eb43b820cb0e39e.7z",
-        sha256 = "52a73834005c96b64c62148ebefd9524c414a0fbd2126798a5dc8dfc836cd271"
+    ["windows-x86-vc14.44.35207-721a0a98836e4b5780576ae474afc31e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.44.35207-721a0a98836e4b5780576ae474afc31e.7z",
+        toolset = "14.44.35207",
+        sha256 = "be80911077ce84f40a2c4aa1b467ce367dc07da50c1dd2ec4c96ec5508e06264"
     },
     ["windows-x86-vc14.43.34808-e80a84d5d7a64f2ba662bd55f6cfb7b0"] = {
-        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.43.34808-e80a84d5d7a64f2ba662bd55f6cfb7b0.7z",
-        sha256 = "a6dfef5bd9a090c730b500ee5963a42a31e51c8615e41f06f3d61e4bc466ddbd"
+        toolset = "14.43.34808",
+        sha256 = "d6b5f95e37653b9e608a4bbb24cd8ab6b9eb31cc193f15a73b782edd6b047797"
+    },
+    ["windows-x64-vc14.43.34808-80c01bf419dd4342b1d786b722aa4d1e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-80c01bf419dd4342b1d786b722aa4d1e.7z",
+        toolset = "14.43.34808",
+        sha256 = "9e3d78e91b1d12848f672e4af89805a6de5caec4dc259855576f7ece6d50365b"
+    },
+    ["windows-x64-vc14.29.30133-af8b6fd263cf44d29eb43b820cb0e39e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.29.30133-af8b6fd263cf44d29eb43b820cb0e39e.7z",
+        toolset = "14.29.30133",
+        sha256 = "108ebf5bc4350f56c98509a4fce39ae2321c036ad60463af816ee9e3d43d696a"
+    },
+    ["windows-x86-vc14.29.30133-e80a84d5d7a64f2ba662bd55f6cfb7b0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.29.30133-e80a84d5d7a64f2ba662bd55f6cfb7b0.7z",
+        toolset = "14.29.30133",
+        sha256 = "06ea993607e1d074fbebc5a9428e2d2e37e22cdff2e6ad6b17106f1a2e6b7370"
     },
     ["windows-x86-vc14.43.34808-28d86cdf67ea4789a75ec7e8723c49cf"] = {
-        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.43.34808-28d86cdf67ea4789a75ec7e8723c49cf.7z",
-        sha256 = "ebb819384ebe87df8da66d978b57092a914828263c6d752831d1ba03ee22e950"
+        toolset = "14.43.34808",
+        sha256 = "97327b6ead27f348268a628c5a5c335a9e4ad4d1cd9d6bc37253affdffbddbe8"
+    },
+    ["windows-x86-vc14.44.35207-28d86cdf67ea4789a75ec7e8723c49cf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.44.35207-28d86cdf67ea4789a75ec7e8723c49cf.7z",
+        toolset = "14.44.35207",
+        sha256 = "189150109eb18c32493ffa89ee217345331ee2b0150ce001815cb80088d85bc9"
+    },
+    ["windows-x86-vc14.43.34808-0d98a80d971140e3af0e6921d15315e2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.43.34808-0d98a80d971140e3af0e6921d15315e2.7z",
+        toolset = "14.43.34808",
+        sha256 = "c148360e526f7e8d6252498d29afd6e27182c0f9926fc0c8d16855c14ec407ab"
+    },
+    ["windows-x64-vc14.29.30133-80c01bf419dd4342b1d786b722aa4d1e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.29.30133-80c01bf419dd4342b1d786b722aa4d1e.7z",
+        toolset = "14.29.30133",
+        sha256 = "610fec25f316be6d85e98fd12c3ce68fd50343c9c666a704f1121cadeead7523"
     },
     ["windows-x86-vc14.43.34808-721a0a98836e4b5780576ae474afc31e"] = {
-        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.43.34808-721a0a98836e4b5780576ae474afc31e.7z",
-        sha256 = "22f16ac7559128c550501766adec54b7aecac0e5211c171d3bc8092eee7fac97"
+        toolset = "14.43.34808",
+        sha256 = "e2cae08e40b5890772a273daacb39e919fd7e1b66c535123541ace203f022926"
+    },
+    ["windows-x64-vc14.29.30133-fcce0521478348deb7b79e906d331935"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.29.30133-fcce0521478348deb7b79e906d331935.7z",
+        toolset = "14.29.30133",
+        sha256 = "adb7f558b071134eaa042468022fefb988029f1af20f6f3f944e76dfeb398fe6"
     },
     ["windows-x86-vc14.29.30133-28d86cdf67ea4789a75ec7e8723c49cf"] = {
-        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.29.30133-28d86cdf67ea4789a75ec7e8723c49cf.7z",
+        toolset = "14.29.30133",
         sha256 = "33ab9a333730a92469b1062e18e913fd973930b04ffdcbb2656567c6207a6675"
+    },
+    ["windows-x86-vc14.44.35207-e80a84d5d7a64f2ba662bd55f6cfb7b0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.44.35207-e80a84d5d7a64f2ba662bd55f6cfb7b0.7z",
+        toolset = "14.44.35207",
+        sha256 = "acb655f8f7be36382e6ffbba52843b62d964217621a5e81e6014e2800b4f97ca"
+    },
+    ["windows-x64-vc14.43.34808-675b1517675b4fa9942d0053776bb241"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-675b1517675b4fa9942d0053776bb241.7z",
+        toolset = "14.43.34808",
+        sha256 = "49aff184854ffcdd0881786c97ce7246aeec09038dd6dd5e35ef731474623d8b"
+    },
+    ["windows-x64-vc14.43.34808-af8b6fd263cf44d29eb43b820cb0e39e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-af8b6fd263cf44d29eb43b820cb0e39e.7z",
+        toolset = "14.43.34808",
+        sha256 = "3d5098a80f9e1d615f9faaa230bfed812d0aacaedb95fbed50c4ca796340c399"
+    },
+    ["windows-x64-vc14.43.34808-fcce0521478348deb7b79e906d331935"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x64-vc14.43.34808-fcce0521478348deb7b79e906d331935.7z",
+        toolset = "14.43.34808",
+        sha256 = "edb8d8e06d905c827b032dc04cfb8af1503b706b8b1815688583d77559bb766c"
+    },
+    ["windows-x86-vc14.29.30133-721a0a98836e4b5780576ae474afc31e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glfw3webgpu-v1.3.0-alpha/windows-x86-vc14.29.30133-721a0a98836e4b5780576ae474afc31e.7z",
+        toolset = "14.29.30133",
+        sha256 = "734cf719289f584102549059a99e32e5f934f2e4465cac928aba229a6aa13d5e"
     }
 }
