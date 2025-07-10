@@ -1,122 +1,162 @@
 {
-    ["windows-x86-vc14.42.34433-f12873a1a18d4264a5b57d9ff08adac6"] = {
-        sha256 = "3a536377083ef9fc3d42311f944e3b916488ccec4c69f28c28d8b6ed110e40b2",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-f12873a1a18d4264a5b57d9ff08adac6.7z"
-    },
-    ["windows-x86-vc14.29.30133-9ff93fff8eb7423d9dd4ca8bb016a3fa"] = {
-        sha256 = "00246f5558a71e775ac2bcd6448881f1146d5728cdfc631e6439904571d3ad57",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z"
-    },
-    ["windows-x86-vc14.41.34120-932ece30bee247b39591f5571e569756"] = {
-        sha256 = "62c543027f9786fbad96f4a14a117b5405c0faa88284c1eb7e98f5f8b22471ee",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-932ece30bee247b39591f5571e569756.7z"
+    ["windows-x64-vc14.29.30133-ba94423851f54f0fa6fd65e71f9955f9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-ba94423851f54f0fa6fd65e71f9955f9.7z",
+        sha256 = "dfd7b9877ba119b1be2742931ff15f292e7370675a5accaff68b91109d3398d1",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-2ff1d44105a048cca61f28c1b0be5215"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-2ff1d44105a048cca61f28c1b0be5215.7z",
         sha256 = "fe5440e5d693975e6d789f77f571f8908c910c6f61d36a1b34c431ea008a0e6e",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-2ff1d44105a048cca61f28c1b0be5215.7z"
-    },
-    ["windows-x64-vc14.29.30133-5aa564eed57440aebe06f7a6aaf68540"] = {
-        sha256 = "6b25be66e0f22aae9efd336249ae4e3bab8a686be106cc9e6e777b8bd2ae0523",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-5aa564eed57440aebe06f7a6aaf68540.7z"
-    },
-    ["windows-x64-vc14.42.34433-ba94423851f54f0fa6fd65e71f9955f9"] = {
-        sha256 = "8877b02584ce8767ddcd348054525d3b89f0f0d6a0635cb6bd12385403364e2b",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-ba94423851f54f0fa6fd65e71f9955f9.7z"
-    },
-    ["windows-x86-vc14.42.34433-9ff93fff8eb7423d9dd4ca8bb016a3fa"] = {
-        sha256 = "41e2862e1c4f1751644e307c93c94e087c43ce092593b8aa179b6452da6cd9ce",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z"
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-9ff93fff8eb7423d9dd4ca8bb016a3fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z",
         sha256 = "dcd5abe73afd226181d6bca0cfcbe9d3aed89652d9ee5ef43d2e11cad86f5837",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z"
-    },
-    ["windows-x64-vc14.41.34120-76dfce8b7a3e42d6a4593437061caea0"] = {
-        sha256 = "1b63c454f82d5b9f29adc1146d905b977a58f3c7df40c3e3bea86ade53d83cf9",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-76dfce8b7a3e42d6a4593437061caea0.7z"
-    },
-    ["windows-x86-vc14.29.30133-932ece30bee247b39591f5571e569756"] = {
-        sha256 = "f5a4d8df4cd53732259c52c93c7fd4454a0948fad38c8aace608a0d3537c651e",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-932ece30bee247b39591f5571e569756.7z"
-    },
-    ["windows-x86-vc14.42.34433-932ece30bee247b39591f5571e569756"] = {
-        sha256 = "3e20d0ef5b7973c8f30ab3277f0b6263734258d5adb47f8a1599540805ce55bf",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-932ece30bee247b39591f5571e569756.7z"
+        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.41.34120-ba94423851f54f0fa6fd65e71f9955f9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-ba94423851f54f0fa6fd65e71f9955f9.7z",
         sha256 = "ad1d039e56e2eb25ba30f6978dd029b73fd8a9d1ae9186a587868cb37f34d767",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-ba94423851f54f0fa6fd65e71f9955f9.7z"
+        toolset = "14.41.34120"
     },
-    ["windows-x64-vc14.42.34433-aae226dc929a4f35961e5b3c04813c11"] = {
-        sha256 = "9bef72d3cf4853972ff760717c5fad18001d9c1a129b1b80271556825c9bb67d",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-aae226dc929a4f35961e5b3c04813c11.7z"
+    ["windows-x86-vc14.44.35207-932ece30bee247b39591f5571e569756"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.44.35207-932ece30bee247b39591f5571e569756.7z",
+        sha256 = "a7b952dec2e65dfd37b3391d6a1c193fa54ff6d5833252e67465d62c17b6b85f",
+        toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.42.34433-5aa564eed57440aebe06f7a6aaf68540"] = {
-        sha256 = "69658cc8e43772d6a86b2858bd557de65e0ab27e59da50ca60d7be94896a36f8",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-5aa564eed57440aebe06f7a6aaf68540.7z"
-    },
-    ["windows-x64-vc14.29.30133-76dfce8b7a3e42d6a4593437061caea0"] = {
-        sha256 = "2891f78cc7d4e4454194879d9b45cea7525cc5199e50e0c550aaaedd9d3a88b0",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-76dfce8b7a3e42d6a4593437061caea0.7z"
-    },
-    ["windows-x64-vc14.29.30133-ba94423851f54f0fa6fd65e71f9955f9"] = {
-        sha256 = "dfd7b9877ba119b1be2742931ff15f292e7370675a5accaff68b91109d3398d1",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-ba94423851f54f0fa6fd65e71f9955f9.7z"
-    },
-    ["windows-x64-vc14.41.34120-5aa564eed57440aebe06f7a6aaf68540"] = {
-        sha256 = "d4ad43c75eaae801c8f75c0cbc9dd260acfed0eb01569f90e1a9a82364c4dca5",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-5aa564eed57440aebe06f7a6aaf68540.7z"
-    },
-    ["windows-x64-vc14.29.30133-aae226dc929a4f35961e5b3c04813c11"] = {
-        sha256 = "5bee0c40d9a359d9f0fa3ad97dcff709314f18972119b28f0918a9c0d3387f74",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-aae226dc929a4f35961e5b3c04813c11.7z"
-    },
-    ["windows-x64-vc14.42.34433-76dfce8b7a3e42d6a4593437061caea0"] = {
-        sha256 = "19d4a320a6e363751acba0d7d6c551dd46923a8cc661473b9f7631eb103eb3c8",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-76dfce8b7a3e42d6a4593437061caea0.7z"
-    },
-    ["windows-x64-vc14.41.34120-aae226dc929a4f35961e5b3c04813c11"] = {
-        sha256 = "c8db5127f2115fc30c591a9791a1e471a27a99b6805040fd7bce595d8be8ac53",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-aae226dc929a4f35961e5b3c04813c11.7z"
+    ["windows-x64-vc14.29.30133-5aa564eed57440aebe06f7a6aaf68540"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-5aa564eed57440aebe06f7a6aaf68540.7z",
+        sha256 = "6b25be66e0f22aae9efd336249ae4e3bab8a686be106cc9e6e777b8bd2ae0523",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-2ff1d44105a048cca61f28c1b0be5215"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-2ff1d44105a048cca61f28c1b0be5215.7z",
         sha256 = "02026e1ba3dcc6599da35a4134fe4e4df39647cd5a1d44d5a8476d2000a180ad",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-2ff1d44105a048cca61f28c1b0be5215.7z"
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.44.35207-5aa564eed57440aebe06f7a6aaf68540"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.44.35207-5aa564eed57440aebe06f7a6aaf68540.7z",
+        sha256 = "6d0141bc75d4bca3f04158d083f7324dc46d03ccb757415fbd9df0bfe58b35ad",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.42.34433-76dfce8b7a3e42d6a4593437061caea0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-76dfce8b7a3e42d6a4593437061caea0.7z",
+        sha256 = "19d4a320a6e363751acba0d7d6c551dd46923a8cc661473b9f7631eb103eb3c8",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.41.34120-932ece30bee247b39591f5571e569756"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-932ece30bee247b39591f5571e569756.7z",
+        sha256 = "62c543027f9786fbad96f4a14a117b5405c0faa88284c1eb7e98f5f8b22471ee",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.42.34433-f12873a1a18d4264a5b57d9ff08adac6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-f12873a1a18d4264a5b57d9ff08adac6.7z",
+        sha256 = "3a536377083ef9fc3d42311f944e3b916488ccec4c69f28c28d8b6ed110e40b2",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.41.34120-5aa564eed57440aebe06f7a6aaf68540"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-5aa564eed57440aebe06f7a6aaf68540.7z",
+        sha256 = "d4ad43c75eaae801c8f75c0cbc9dd260acfed0eb01569f90e1a9a82364c4dca5",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-5aa564eed57440aebe06f7a6aaf68540"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-5aa564eed57440aebe06f7a6aaf68540.7z",
+        sha256 = "69658cc8e43772d6a86b2858bd557de65e0ab27e59da50ca60d7be94896a36f8",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.44.35207-aae226dc929a4f35961e5b3c04813c11"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.44.35207-aae226dc929a4f35961e5b3c04813c11.7z",
+        sha256 = "7ce12d33694de65b7b76874167dea2c7ef6b37f8d50d99895c06ec58a923a2d5",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-f12873a1a18d4264a5b57d9ff08adac6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.44.35207-f12873a1a18d4264a5b57d9ff08adac6.7z",
+        sha256 = "f746c5d4c1c8ed29fe09ffb47ae6afff647bdbffa4f5385d261d97b5472a2b4f",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.42.34433-9ff93fff8eb7423d9dd4ca8bb016a3fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z",
+        sha256 = "41e2862e1c4f1751644e307c93c94e087c43ce092593b8aa179b6452da6cd9ce",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.44.35207-9ff93fff8eb7423d9dd4ca8bb016a3fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.44.35207-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z",
+        sha256 = "702a8ae9efc1ae05b68822201f999090838119044a182c6342dd736ee9a2fed8",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-ba94423851f54f0fa6fd65e71f9955f9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.44.35207-ba94423851f54f0fa6fd65e71f9955f9.7z",
+        sha256 = "0d7bd9b2cea3e5f1e7cf1a7e6a08555a250253ffcca33f684ddfeeea4c8e1b4d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.41.34120-aae226dc929a4f35961e5b3c04813c11"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-aae226dc929a4f35961e5b3c04813c11.7z",
+        sha256 = "c8db5127f2115fc30c591a9791a1e471a27a99b6805040fd7bce595d8be8ac53",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-aae226dc929a4f35961e5b3c04813c11"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-aae226dc929a4f35961e5b3c04813c11.7z",
+        sha256 = "5bee0c40d9a359d9f0fa3ad97dcff709314f18972119b28f0918a9c0d3387f74",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-f12873a1a18d4264a5b57d9ff08adac6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-f12873a1a18d4264a5b57d9ff08adac6.7z",
         sha256 = "2f125504e2938f4a50e77089f405e4712c7272aefd0b2d2998cdf49a2cd73746",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.41.34120-f12873a1a18d4264a5b57d9ff08adac6.7z"
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.29.30133-f12873a1a18d4264a5b57d9ff08adac6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-f12873a1a18d4264a5b57d9ff08adac6.7z",
         sha256 = "b6ee8ae571b73f1933f803692536ffd134dd8aa988edc902f47383b93b944bd2",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-f12873a1a18d4264a5b57d9ff08adac6.7z"
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-2ff1d44105a048cca61f28c1b0be5215"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.44.35207-2ff1d44105a048cca61f28c1b0be5215.7z",
+        sha256 = "f697e44664ebf6c89da85480bbc2e957b58344998aa16ffbaf7956800d9730d3",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.41.34120-76dfce8b7a3e42d6a4593437061caea0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.41.34120-76dfce8b7a3e42d6a4593437061caea0.7z",
+        sha256 = "1b63c454f82d5b9f29adc1146d905b977a58f3c7df40c3e3bea86ade53d83cf9",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-aae226dc929a4f35961e5b3c04813c11"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-aae226dc929a4f35961e5b3c04813c11.7z",
+        sha256 = "9bef72d3cf4853972ff760717c5fad18001d9c1a129b1b80271556825c9bb67d",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.29.30133-76dfce8b7a3e42d6a4593437061caea0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.29.30133-76dfce8b7a3e42d6a4593437061caea0.7z",
+        sha256 = "2891f78cc7d4e4454194879d9b45cea7525cc5199e50e0c550aaaedd9d3a88b0",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.42.34433-ba94423851f54f0fa6fd65e71f9955f9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.42.34433-ba94423851f54f0fa6fd65e71f9955f9.7z",
+        sha256 = "8877b02584ce8767ddcd348054525d3b89f0f0d6a0635cb6bd12385403364e2b",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-932ece30bee247b39591f5571e569756"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-932ece30bee247b39591f5571e569756.7z",
+        sha256 = "f5a4d8df4cd53732259c52c93c7fd4454a0948fad38c8aace608a0d3537c651e",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.42.34433-2ff1d44105a048cca61f28c1b0be5215"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-2ff1d44105a048cca61f28c1b0be5215.7z",
         sha256 = "5eb4c889632e47bf97e985bce993f9566b9bbc57163d4e3856f1673c786986d0",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-2ff1d44105a048cca61f28c1b0be5215.7z"
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-9ff93fff8eb7423d9dd4ca8bb016a3fa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.29.30133-9ff93fff8eb7423d9dd4ca8bb016a3fa.7z",
+        sha256 = "00246f5558a71e775ac2bcd6448881f1146d5728cdfc631e6439904571d3ad57",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-932ece30bee247b39591f5571e569756"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x86-vc14.42.34433-932ece30bee247b39591f5571e569756.7z",
+        sha256 = "3e20d0ef5b7973c8f30ab3277f0b6263734258d5adb47f8a1599540805ce55bf",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.44.35207-76dfce8b7a3e42d6a4593437061caea0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imguizmo-1.91.3%2Bwip/windows-x64-vc14.44.35207-76dfce8b7a3e42d6a4593437061caea0.7z",
+        sha256 = "1b010eb20cc1cfcbe525a46a0db7e0d0e430008fa22d86ce25f6f59a7b680ebc",
+        toolset = "14.44.35207"
     }
 }
