@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.43.34808-00b1c3b5f8434591b3f88d5fdadda7d9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-00b1c3b5f8434591b3f88d5fdadda7d9.7z",
-        toolset = "14.43.34808",
-        sha256 = "421f5901dbfa86003d6ab7366be609784b0681b947325495df7ca517de5b061c"
-    },
-    ["windows-x86-vc14.29.30133-77943cfaaee04f9fa25f4aed9a9acf14"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-77943cfaaee04f9fa25f4aed9a9acf14.7z",
-        toolset = "14.29.30133",
-        sha256 = "de57d52a9e1e5a8ae1a4510fb62646b9025c41c97b01296f5e5c9d0c70a4d69d"
-    },
-    ["windows-x64-vc14.43.34808-58019dfec4a04a91981470a26143bdf1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-58019dfec4a04a91981470a26143bdf1.7z",
-        toolset = "14.43.34808",
-        sha256 = "abbdc3eca2f1df78c59af520aaf7f0c29140b0c1339e71ba40b4dfed7a7fdacc"
-    },
     ["windows-x64-vc14.29.30133-aba21b75cafe437ba6afcaf4d42fc531"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.29.30133-aba21b75cafe437ba6afcaf4d42fc531.7z",
-        toolset = "14.29.30133",
-        sha256 = "937343398d0c911c8706faac1666ad10e4ed32765bbc1c55c889d289b4f4f21d"
+        sha256 = "937343398d0c911c8706faac1666ad10e4ed32765bbc1c55c889d289b4f4f21d",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.43.34808-4dbf49a588fd48b6a9f52e4b88c0bff5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-4dbf49a588fd48b6a9f52e4b88c0bff5.7z",
-        toolset = "14.43.34808",
-        sha256 = "b7eb9322c78fa77a2666c74baac3ce8ad4661985e09fb6245c9eaefc905b651a"
-    },
-    ["windows-x64-vc14.29.30133-a9627742a8f24ecfaf818c4bc231cc80"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.29.30133-a9627742a8f24ecfaf818c4bc231cc80.7z",
-        toolset = "14.29.30133",
-        sha256 = "5b7d53f61b9fa35ceb059056c16338650d8e1677e6b267b2245684a48ed532ef"
-    },
-    ["windows-x86-vc14.43.34808-8193a090de284a558ed7d138d3ca55fb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-8193a090de284a558ed7d138d3ca55fb.7z",
-        toolset = "14.43.34808",
-        sha256 = "de71d39311f5fb19d1786c474b5038d807107fe0816dda1c33dc10016866aa4e"
-    },
-    ["windows-x64-vc14.43.34808-a9627742a8f24ecfaf818c4bc231cc80"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-a9627742a8f24ecfaf818c4bc231cc80.7z",
-        toolset = "14.43.34808",
-        sha256 = "5ac5e6b5f98ca11e370fdfa8aa8849dd97bb824b2b56832ee84fc35c8d9f43b4"
-    },
-    ["windows-x86-vc14.29.30133-8193a090de284a558ed7d138d3ca55fb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-8193a090de284a558ed7d138d3ca55fb.7z",
-        toolset = "14.29.30133",
-        sha256 = "1e1f8a4dddea5b6e88277cae437da59ec9a0f15aa82e638f3d378c00fd8b4d68"
-    },
-    ["windows-x86-vc14.29.30133-4dbf49a588fd48b6a9f52e4b88c0bff5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-4dbf49a588fd48b6a9f52e4b88c0bff5.7z",
-        toolset = "14.29.30133",
-        sha256 = "b3021d0b4318fb6f24cbb9af79af7d6bd9baf4dd8ccbe499284acccd6f18ed9d"
-    },
-    ["windows-x64-vc14.29.30133-58019dfec4a04a91981470a26143bdf1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.29.30133-58019dfec4a04a91981470a26143bdf1.7z",
-        toolset = "14.29.30133",
-        sha256 = "12ff629e829046e62b3070e78bbdcec5821f7ea53c33fddaec536149110506cd"
-    },
-    ["windows-x86-vc14.43.34808-f57d796daa794005ba9ba7ab10d6b087"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-f57d796daa794005ba9ba7ab10d6b087.7z",
-        toolset = "14.43.34808",
-        sha256 = "06ebbc31951bd36b289e9bc1e6ffbfec93573d6fa07f9dbdc14178028cd1cd42"
-    },
-    ["windows-x86-vc14.43.34808-77943cfaaee04f9fa25f4aed9a9acf14"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-77943cfaaee04f9fa25f4aed9a9acf14.7z",
-        toolset = "14.43.34808",
-        sha256 = "62ab01a98baeb4f95606376ee6269a090313d33b24a2d432396d0c9e99d847f4"
-    },
-    ["windows-x86-vc14.29.30133-f57d796daa794005ba9ba7ab10d6b087"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-f57d796daa794005ba9ba7ab10d6b087.7z",
-        toolset = "14.29.30133",
-        sha256 = "9cd6b9ad32b11d57d62b552bc3c015f71630a81ff0f78f90e0bf461fcbb85c38"
-    },
-    ["windows-x64-vc14.43.34808-aba21b75cafe437ba6afcaf4d42fc531"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-aba21b75cafe437ba6afcaf4d42fc531.7z",
-        toolset = "14.43.34808",
-        sha256 = "973e36b54647a4252d34dd35026bfb59c72d8b4ee469f66435359674b77da92a"
+    ["windows-x86-vc14.44.35207-8193a090de284a558ed7d138d3ca55fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.44.35207-8193a090de284a558ed7d138d3ca55fb.7z",
+        sha256 = "558b1fcaf02ea640ec1325b3cd299b5c1fbce39fc5b5f61114bcf58ccefacfde",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-00b1c3b5f8434591b3f88d5fdadda7d9"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.29.30133-00b1c3b5f8434591b3f88d5fdadda7d9.7z",
-        toolset = "14.29.30133",
-        sha256 = "961ce78240b80b07840b9e3bf2e798b29dcff6619406a12d21d6998f44ed62fa"
+        sha256 = "961ce78240b80b07840b9e3bf2e798b29dcff6619406a12d21d6998f44ed62fa",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-77943cfaaee04f9fa25f4aed9a9acf14"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.44.35207-77943cfaaee04f9fa25f4aed9a9acf14.7z",
+        sha256 = "f8b4672c1128bbfe3ae4be41a9bd836ce50c23a26954d560763d0a1c3d78fea6",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-f57d796daa794005ba9ba7ab10d6b087"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-f57d796daa794005ba9ba7ab10d6b087.7z",
+        sha256 = "9cd6b9ad32b11d57d62b552bc3c015f71630a81ff0f78f90e0bf461fcbb85c38",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-00b1c3b5f8434591b3f88d5fdadda7d9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-00b1c3b5f8434591b3f88d5fdadda7d9.7z",
+        sha256 = "421f5901dbfa86003d6ab7366be609784b0681b947325495df7ca517de5b061c",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-77943cfaaee04f9fa25f4aed9a9acf14"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-77943cfaaee04f9fa25f4aed9a9acf14.7z",
+        sha256 = "de57d52a9e1e5a8ae1a4510fb62646b9025c41c97b01296f5e5c9d0c70a4d69d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-aba21b75cafe437ba6afcaf4d42fc531"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-aba21b75cafe437ba6afcaf4d42fc531.7z",
+        sha256 = "973e36b54647a4252d34dd35026bfb59c72d8b4ee469f66435359674b77da92a",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-58019dfec4a04a91981470a26143bdf1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.44.35207-58019dfec4a04a91981470a26143bdf1.7z",
+        sha256 = "8e6cde9e56c3bbd5bddfe79e0be0e2c389ac638eca4ad1c4e04b27d3c6c8420d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-4dbf49a588fd48b6a9f52e4b88c0bff5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-4dbf49a588fd48b6a9f52e4b88c0bff5.7z",
+        sha256 = "b7eb9322c78fa77a2666c74baac3ce8ad4661985e09fb6245c9eaefc905b651a",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-00b1c3b5f8434591b3f88d5fdadda7d9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.44.35207-00b1c3b5f8434591b3f88d5fdadda7d9.7z",
+        sha256 = "f4c6e6a3a662ca422624f451143e769a970e48d273a543ee0120790b05674e85",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-aba21b75cafe437ba6afcaf4d42fc531"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.44.35207-aba21b75cafe437ba6afcaf4d42fc531.7z",
+        sha256 = "77f878e90949421dc9abcbe3c74de6c354254714c18947a7e2ca359fa98604da",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-8193a090de284a558ed7d138d3ca55fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-8193a090de284a558ed7d138d3ca55fb.7z",
+        sha256 = "de71d39311f5fb19d1786c474b5038d807107fe0816dda1c33dc10016866aa4e",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-77943cfaaee04f9fa25f4aed9a9acf14"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-77943cfaaee04f9fa25f4aed9a9acf14.7z",
+        sha256 = "62ab01a98baeb4f95606376ee6269a090313d33b24a2d432396d0c9e99d847f4",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-a9627742a8f24ecfaf818c4bc231cc80"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-a9627742a8f24ecfaf818c4bc231cc80.7z",
+        sha256 = "5ac5e6b5f98ca11e370fdfa8aa8849dd97bb824b2b56832ee84fc35c8d9f43b4",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-4dbf49a588fd48b6a9f52e4b88c0bff5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-4dbf49a588fd48b6a9f52e4b88c0bff5.7z",
+        sha256 = "b3021d0b4318fb6f24cbb9af79af7d6bd9baf4dd8ccbe499284acccd6f18ed9d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-58019dfec4a04a91981470a26143bdf1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.43.34808-58019dfec4a04a91981470a26143bdf1.7z",
+        sha256 = "abbdc3eca2f1df78c59af520aaf7f0c29140b0c1339e71ba40b4dfed7a7fdacc",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-58019dfec4a04a91981470a26143bdf1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.29.30133-58019dfec4a04a91981470a26143bdf1.7z",
+        sha256 = "12ff629e829046e62b3070e78bbdcec5821f7ea53c33fddaec536149110506cd",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-4dbf49a588fd48b6a9f52e4b88c0bff5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.44.35207-4dbf49a588fd48b6a9f52e4b88c0bff5.7z",
+        sha256 = "c101603043d4348f32388c64100fd3f971f4c1b3e3d9cb60ae1322e44fcb3b17",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-a9627742a8f24ecfaf818c4bc231cc80"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.44.35207-a9627742a8f24ecfaf818c4bc231cc80.7z",
+        sha256 = "dabdcfd4a4d8f9f2f9e44017a0922b33e5fd935faa5fe0eb626e34f36c474d3d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-8193a090de284a558ed7d138d3ca55fb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.29.30133-8193a090de284a558ed7d138d3ca55fb.7z",
+        sha256 = "1e1f8a4dddea5b6e88277cae437da59ec9a0f15aa82e638f3d378c00fd8b4d68",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-f57d796daa794005ba9ba7ab10d6b087"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.44.35207-f57d796daa794005ba9ba7ab10d6b087.7z",
+        sha256 = "633654fe574a655e15af45d5131b51a009921fbe3dd72c875262f64d46416b39",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-f57d796daa794005ba9ba7ab10d6b087"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x86-vc14.43.34808-f57d796daa794005ba9ba7ab10d6b087.7z",
+        sha256 = "06ebbc31951bd36b289e9bc1e6ffbfec93573d6fa07f9dbdc14178028cd1cd42",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-a9627742a8f24ecfaf818c4bc231cc80"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/trantor-v1.5.23/windows-x64-vc14.29.30133-a9627742a8f24ecfaf818c4bc231cc80.7z",
+        sha256 = "5b7d53f61b9fa35ceb059056c16338650d8e1677e6b267b2245684a48ed532ef",
+        toolset = "14.29.30133"
     }
 }
