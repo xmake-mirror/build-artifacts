@@ -1,42 +1,62 @@
 {
-    ["windows-x64-vc14.43.34808-df9a0c20ac8e464cae0f954cb601065e"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-df9a0c20ac8e464cae0f954cb601065e.7z",
-        sha256 = "ffdf7d9b180b54fd18d53a64270f0cb8079e90a095c263f0113fdea1d50a8d1a"
-    },
-    ["windows-x86-vc14.43.34808-2ae836a6cebc4d1a9f9efe5571536cde"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-2ae836a6cebc4d1a9f9efe5571536cde.7z",
-        sha256 = "5f892c0f93e4ae43ccb1e06adf24f88e2213e9bb2e796e9dee5e0a371057b123"
-    },
-    ["windows-x86-vc14.43.34808-03bffbf7fe9b412a8f5fb81d2bc9fb92"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-03bffbf7fe9b412a8f5fb81d2bc9fb92.7z",
-        sha256 = "b9306f9c8b0f8cdca68f0ec0bde19be70d38c59427fb20da9275c68935c83e8f"
-    },
-    ["windows-x64-vc14.43.34808-e2262365542c4e668a9b4916755123e9"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-e2262365542c4e668a9b4916755123e9.7z",
-        sha256 = "17d9a1c203bc12c3806e71c7edffc8bedfd530e5b4d6591569ca47dc4e14a1c6"
-    },
-    ["windows-x86-vc14.43.34808-36363cda04fa4e25a9a6f38be1781850"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-36363cda04fa4e25a9a6f38be1781850.7z",
-        sha256 = "8c549a376cef6a7ca1726f08b9af857f2c017048ca972bf92fb9de6f6323538f"
-    },
-    ["windows-x64-vc14.43.34808-a043890ab4654cb8b09a1197e8693525"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-a043890ab4654cb8b09a1197e8693525.7z",
-        sha256 = "0cd0ecda57ef313d19beb8ffd7d5cd8c090af1467c7191d4ba2adec99837ab4f"
+    ["windows-x86-vc14.44.35207-461d30f912c340b6a09477ba7a9a63f4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.44.35207-461d30f912c340b6a09477ba7a9a63f4.7z",
+        sha256 = "ea99bbc4cf59fa653c6311a4e1cffdb6c432536bf311a0b31b5042445ff214fc",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.43.34808-2a21a8ded96a479c86599a77e6685bdc"] = {
-        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-2a21a8ded96a479c86599a77e6685bdc.7z",
-        sha256 = "53fa863d3726922895a00395c92aa529263ef598a12b29d7c71d359ae548ca86"
+        sha256 = "53fa863d3726922895a00395c92aa529263ef598a12b29d7c71d359ae548ca86",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-e2262365542c4e668a9b4916755123e9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-e2262365542c4e668a9b4916755123e9.7z",
+        sha256 = "17d9a1c203bc12c3806e71c7edffc8bedfd530e5b4d6591569ca47dc4e14a1c6",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-a043890ab4654cb8b09a1197e8693525"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-a043890ab4654cb8b09a1197e8693525.7z",
+        sha256 = "0cd0ecda57ef313d19beb8ffd7d5cd8c090af1467c7191d4ba2adec99837ab4f",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-36363cda04fa4e25a9a6f38be1781850"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-36363cda04fa4e25a9a6f38be1781850.7z",
+        sha256 = "8c549a376cef6a7ca1726f08b9af857f2c017048ca972bf92fb9de6f6323538f",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-df9a0c20ac8e464cae0f954cb601065e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.44.35207-df9a0c20ac8e464cae0f954cb601065e.7z",
+        sha256 = "501031ada9fe81521f8b001d6dfd52894cc64c8277cb280edd4ed9eee8c49b72",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-df9a0c20ac8e464cae0f954cb601065e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.43.34808-df9a0c20ac8e464cae0f954cb601065e.7z",
+        sha256 = "ffdf7d9b180b54fd18d53a64270f0cb8079e90a095c263f0113fdea1d50a8d1a",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-2ae836a6cebc4d1a9f9efe5571536cde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-2ae836a6cebc4d1a9f9efe5571536cde.7z",
+        sha256 = "5f892c0f93e4ae43ccb1e06adf24f88e2213e9bb2e796e9dee5e0a371057b123",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-03bffbf7fe9b412a8f5fb81d2bc9fb92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-03bffbf7fe9b412a8f5fb81d2bc9fb92.7z",
+        sha256 = "b9306f9c8b0f8cdca68f0ec0bde19be70d38c59427fb20da9275c68935c83e8f",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.43.34808-461d30f912c340b6a09477ba7a9a63f4"] = {
-        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.43.34808-461d30f912c340b6a09477ba7a9a63f4.7z",
-        sha256 = "1e8950ae43f3cdd3b36d15c412df8f08be46002bed6f991f5c49d43eac7a1945"
+        sha256 = "1e8950ae43f3cdd3b36d15c412df8f08be46002bed6f991f5c49d43eac7a1945",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-36363cda04fa4e25a9a6f38be1781850"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x86-vc14.44.35207-36363cda04fa4e25a9a6f38be1781850.7z",
+        sha256 = "fe5e9db6b53e9475d6321fb3e0f9b508ef026235d8eecf5c6f88dd4a26aa70cb",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-e2262365542c4e668a9b4916755123e9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/onnxruntime-1.19.2/windows-x64-vc14.44.35207-e2262365542c4e668a9b4916755123e9.7z",
+        sha256 = "24730ca68407d77305affc3aaa480fabda2b2a3ad64c5a9268335b7e25f0dac0",
+        toolset = "14.44.35207"
     }
 }
