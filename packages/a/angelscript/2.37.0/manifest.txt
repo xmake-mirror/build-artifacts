@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.29.30133-fb185184c0f1479cbea00abe8275c859"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-fb185184c0f1479cbea00abe8275c859.7z",
-        sha256 = "9a7db31683caf3a56a4379df9c61feb1ece1561d37e1734b2a6fb784256c65b1"
-    },
-    ["windows-x64-vc14.42.34433-8790404430d0404b97519c930f30f4e2"] = {
+    ["windows-x64-vc14.42.34433-03cb0cda5cee4d8380a7ae04ef146a51"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-8790404430d0404b97519c930f30f4e2.7z",
-        sha256 = "0c481f9d851f02d29139fafd980ad9f8da57300c9500c5f8a2f25668e45c5820"
+        sha256 = "766168b72c32cecf7092e03d088d1cb2b1d7c04148ddffa71409074e6c886e1a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-03cb0cda5cee4d8380a7ae04ef146a51.7z"
     },
-    ["windows-x86-vc14.29.30133-b81e79ab905a4080aa487cc443b748ca"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-b81e79ab905a4080aa487cc443b748ca.7z",
-        sha256 = "e4cceb80745a758a07f1e30dd56de9c52661257af89cd1603a7be54138bacc40"
+    ["windows-x86-vc14.44.35207-a4ba2daf68754bab9a375447d8719d48"] = {
+        toolset = "14.44.35207",
+        sha256 = "48b8fdea847908a0aab4c9949bb821ee8af5e7c2d240423342a870e4fcd16f21",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.44.35207-a4ba2daf68754bab9a375447d8719d48.7z"
     },
-    ["windows-x64-vc14.42.34433-43905753f1704e36b8b70a4b7a5e9abf"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-43905753f1704e36b8b70a4b7a5e9abf.7z",
-        sha256 = "a73a2e6279dc7d21ea921265e8aaeb961ce08df6b01dfda1c88b06db9a470f60"
-    },
-    ["windows-x64-vc14.29.30133-43905753f1704e36b8b70a4b7a5e9abf"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-43905753f1704e36b8b70a4b7a5e9abf.7z",
-        sha256 = "ada5efb184cc7cf384d7012f4796e7db355c864fe46bcf19d8e5dbebc670ecd5"
-    },
-    ["windows-x86-vc14.42.34433-fb185184c0f1479cbea00abe8275c859"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-fb185184c0f1479cbea00abe8275c859.7z",
-        sha256 = "270c276cf58473eae8870e0946a952c93d59809a48d0c2bc34b820a03cb80624"
+    ["windows-x64-vc14.44.35207-c0e620e79c614a6bb85d28c791b83dda"] = {
+        toolset = "14.44.35207",
+        sha256 = "878cd5b6b5e60b33ee4ae9689b938778243f0b2869c9b147c2811a010cad989a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.44.35207-c0e620e79c614a6bb85d28c791b83dda.7z"
     },
     ["windows-x64-vc14.42.34433-67481e8e96e143c2975214b5cfa22bf6"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-67481e8e96e143c2975214b5cfa22bf6.7z",
-        sha256 = "b4aa16e10c36167fce7988d41cced38e988b12ac8073aa1167b515ea6ad9e4cc"
+        sha256 = "b4aa16e10c36167fce7988d41cced38e988b12ac8073aa1167b515ea6ad9e4cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-67481e8e96e143c2975214b5cfa22bf6.7z"
     },
-    ["windows-x64-vc14.29.30133-67481e8e96e143c2975214b5cfa22bf6"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-67481e8e96e143c2975214b5cfa22bf6.7z",
-        sha256 = "f44a878f4471fb42c69fed5aa39a1ac4fa7de12882887df1320ac9d49ba08cae"
-    },
-    ["windows-x86-vc14.29.30133-76843cf50f53463ea5d00f0b377bd01b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-76843cf50f53463ea5d00f0b377bd01b.7z",
-        sha256 = "20cc1606c317739d623ee4aef5326bb5f602f2057dd2022ee1e7b1542925d144"
-    },
-    ["windows-x64-vc14.42.34433-03cb0cda5cee4d8380a7ae04ef146a51"] = {
+    ["windows-x86-vc14.42.34433-fb185184c0f1479cbea00abe8275c859"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-03cb0cda5cee4d8380a7ae04ef146a51.7z",
-        sha256 = "766168b72c32cecf7092e03d088d1cb2b1d7c04148ddffa71409074e6c886e1a"
+        sha256 = "270c276cf58473eae8870e0946a952c93d59809a48d0c2bc34b820a03cb80624",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-fb185184c0f1479cbea00abe8275c859.7z"
     },
-    ["windows-x86-vc14.29.30133-fa45fb1ce3c342bf86184df402fa8805"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-fa45fb1ce3c342bf86184df402fa8805.7z",
-        sha256 = "874ba97272d46e18e2daeb2a3681d0b86e8890f2e2eec8d4f06af745ddeba6f9"
+    ["windows-x86-vc14.44.35207-0faeed58901a4ee897b861e32deca0c7"] = {
+        toolset = "14.44.35207",
+        sha256 = "da7bb2f12b8add3350a142f0babd95f9158b5eb81ae3daa26d4460800fa140b6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.44.35207-0faeed58901a4ee897b861e32deca0c7.7z"
     },
-    ["windows-x64-vc14.29.30133-8790404430d0404b97519c930f30f4e2"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-8790404430d0404b97519c930f30f4e2.7z",
-        sha256 = "99a5084726b5d61f926786ea2b97a8a9caddd36d59c2a08695126d8d7e734b96"
-    },
-    ["windows-x86-vc14.42.34433-fa45fb1ce3c342bf86184df402fa8805"] = {
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-fa45fb1ce3c342bf86184df402fa8805.7z",
-        sha256 = "da3731712441a40167dd7a3c022e4da2e13a2468fc06be241da84a7918ee51be"
+    ["windows-x64-vc14.44.35207-dc0f56d1de2b4d1ebc9f4785e2cc52dd"] = {
+        toolset = "14.44.35207",
+        sha256 = "73edc7ff1ed1b148474741c1dee89c38461d9d8394ad6331cc48503d3a1480e3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.44.35207-dc0f56d1de2b4d1ebc9f4785e2cc52dd.7z"
     },
     ["windows-x64-vc14.29.30133-03cb0cda5cee4d8380a7ae04ef146a51"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-03cb0cda5cee4d8380a7ae04ef146a51.7z",
-        sha256 = "76fa4b80647588e85a930dd1d741685de638143238cec0badfe028a75cac62a7"
+        sha256 = "76fa4b80647588e85a930dd1d741685de638143238cec0badfe028a75cac62a7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-03cb0cda5cee4d8380a7ae04ef146a51.7z"
+    },
+    ["windows-x86-vc14.29.30133-fb185184c0f1479cbea00abe8275c859"] = {
+        toolset = "14.29.30133",
+        sha256 = "9a7db31683caf3a56a4379df9c61feb1ece1561d37e1734b2a6fb784256c65b1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-fb185184c0f1479cbea00abe8275c859.7z"
+    },
+    ["windows-x86-vc14.29.30133-76843cf50f53463ea5d00f0b377bd01b"] = {
+        toolset = "14.29.30133",
+        sha256 = "20cc1606c317739d623ee4aef5326bb5f602f2057dd2022ee1e7b1542925d144",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-76843cf50f53463ea5d00f0b377bd01b.7z"
+    },
+    ["windows-x64-vc14.29.30133-43905753f1704e36b8b70a4b7a5e9abf"] = {
+        toolset = "14.29.30133",
+        sha256 = "ada5efb184cc7cf384d7012f4796e7db355c864fe46bcf19d8e5dbebc670ecd5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-43905753f1704e36b8b70a4b7a5e9abf.7z"
     },
     ["windows-x86-vc14.42.34433-76843cf50f53463ea5d00f0b377bd01b"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-76843cf50f53463ea5d00f0b377bd01b.7z",
-        sha256 = "4696ab225374720ba497932c0adf9dea79ebc444e6b254acbc0fd9dd9bd9f2be"
+        sha256 = "4696ab225374720ba497932c0adf9dea79ebc444e6b254acbc0fd9dd9bd9f2be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-76843cf50f53463ea5d00f0b377bd01b.7z"
+    },
+    ["windows-x86-vc14.42.34433-fa45fb1ce3c342bf86184df402fa8805"] = {
+        toolset = "14.42.34433",
+        sha256 = "da3731712441a40167dd7a3c022e4da2e13a2468fc06be241da84a7918ee51be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-fa45fb1ce3c342bf86184df402fa8805.7z"
+    },
+    ["windows-x64-vc14.29.30133-67481e8e96e143c2975214b5cfa22bf6"] = {
+        toolset = "14.29.30133",
+        sha256 = "f44a878f4471fb42c69fed5aa39a1ac4fa7de12882887df1320ac9d49ba08cae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-67481e8e96e143c2975214b5cfa22bf6.7z"
+    },
+    ["windows-x64-vc14.44.35207-5d227efa659e48b39e70227bcb01d250"] = {
+        toolset = "14.44.35207",
+        sha256 = "bf6a08e63df243754138fd3e2bac1bebe650abbf285f261671c0308eab18b270",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.44.35207-5d227efa659e48b39e70227bcb01d250.7z"
+    },
+    ["windows-x86-vc14.44.35207-d9d7ae62caa4457ebecca17279beca94"] = {
+        toolset = "14.44.35207",
+        sha256 = "125bf9a614c30813687a576cc306cf7d7b887dab8f5b440560ea7fc57e6c2dcd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.44.35207-d9d7ae62caa4457ebecca17279beca94.7z"
+    },
+    ["windows-x64-vc14.42.34433-43905753f1704e36b8b70a4b7a5e9abf"] = {
+        toolset = "14.42.34433",
+        sha256 = "a73a2e6279dc7d21ea921265e8aaeb961ce08df6b01dfda1c88b06db9a470f60",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-43905753f1704e36b8b70a4b7a5e9abf.7z"
+    },
+    ["windows-x86-vc14.44.35207-4c74c5851ea643cf97c401581be2c0c9"] = {
+        toolset = "14.44.35207",
+        sha256 = "8f65b59a62c1b41c9864beefbc4484e7ac2bab7156b10867e491e6ff7f8b6448",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.44.35207-4c74c5851ea643cf97c401581be2c0c9.7z"
+    },
+    ["windows-x64-vc14.42.34433-8790404430d0404b97519c930f30f4e2"] = {
+        toolset = "14.42.34433",
+        sha256 = "0c481f9d851f02d29139fafd980ad9f8da57300c9500c5f8a2f25668e45c5820",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.42.34433-8790404430d0404b97519c930f30f4e2.7z"
     },
     ["windows-x86-vc14.42.34433-b81e79ab905a4080aa487cc443b748ca"] = {
         toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-b81e79ab905a4080aa487cc443b748ca.7z",
-        sha256 = "846ca21bf5b247f5cb616dd7bad40f78d5a5793c3468a9fbf5275293384a7f4a"
+        sha256 = "846ca21bf5b247f5cb616dd7bad40f78d5a5793c3468a9fbf5275293384a7f4a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.42.34433-b81e79ab905a4080aa487cc443b748ca.7z"
+    },
+    ["windows-x64-vc14.44.35207-9d8fa4ee8b6e409eb4fa2cf7ab73fb73"] = {
+        toolset = "14.44.35207",
+        sha256 = "a660bce00056ffe19c867567f4fafd56ead40ebf8fd6320fa426463944f2a8d8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.44.35207-9d8fa4ee8b6e409eb4fa2cf7ab73fb73.7z"
+    },
+    ["windows-x64-vc14.29.30133-8790404430d0404b97519c930f30f4e2"] = {
+        toolset = "14.29.30133",
+        sha256 = "99a5084726b5d61f926786ea2b97a8a9caddd36d59c2a08695126d8d7e734b96",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x64-vc14.29.30133-8790404430d0404b97519c930f30f4e2.7z"
+    },
+    ["windows-x86-vc14.29.30133-fa45fb1ce3c342bf86184df402fa8805"] = {
+        toolset = "14.29.30133",
+        sha256 = "874ba97272d46e18e2daeb2a3681d0b86e8890f2e2eec8d4f06af745ddeba6f9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-fa45fb1ce3c342bf86184df402fa8805.7z"
+    },
+    ["windows-x86-vc14.29.30133-b81e79ab905a4080aa487cc443b748ca"] = {
+        toolset = "14.29.30133",
+        sha256 = "e4cceb80745a758a07f1e30dd56de9c52661257af89cd1603a7be54138bacc40",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/angelscript-2.37.0/windows-x86-vc14.29.30133-b81e79ab905a4080aa487cc443b748ca.7z"
     }
 }
