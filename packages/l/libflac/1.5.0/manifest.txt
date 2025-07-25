@@ -1,8 +1,8 @@
 {
-    ["windows-x86-vc14.29.30133-c118dfe53354490899e3355f2c49138e"] = {
-        sha256 = "b96c51ae9c0911f6c7fee05576837c89484931087bd1e65a64c8205742325a91",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-c118dfe53354490899e3355f2c49138e.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.44.35207-08243cc347f74f4da4ead68da9bb76de"] = {
+        sha256 = "f8b0ce2667e4d8bc01c01f286473900c2b4ce35c41ebeece723098ba2d5ddd1e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.44.35207-08243cc347f74f4da4ead68da9bb76de.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-9307b0658fa047d799d8f238ff491ed2"] = {
         sha256 = "2feeb6e2da05f5c092744a527a4062ab74d298ed65099464d0b2730aa7c2f9b1",
@@ -14,59 +14,44 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.43.34808-80a8476af51b40ce9d47b976b56c88d0.7z",
         toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.43.34808-96b3cdc9f5834a3c9ac2a033627c794b"] = {
-        sha256 = "aa1f0b8c7e27694a6e39ef60dc42ccf091c83bb1ce6ecf30e22baf2eab8b2d08",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-96b3cdc9f5834a3c9ac2a033627c794b.7z",
-        toolset = "14.43.34808"
+    ["windows-x64-vc14.44.35207-d0775a891a0a46fa8ada53fbed842e09"] = {
+        sha256 = "3e53226acd91fc6602c534e6e1521b013361385c81751f0de4acd2d75d4a360b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.44.35207-d0775a891a0a46fa8ada53fbed842e09.7z",
+        toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.29.30133-96b3cdc9f5834a3c9ac2a033627c794b"] = {
-        sha256 = "a15d9e49192586e1a4ecd40a2ce4cd07a66ba3757fa94c6fdbe96895683873ee",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.29.30133-96b3cdc9f5834a3c9ac2a033627c794b.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-08243cc347f74f4da4ead68da9bb76de"] = {
-        sha256 = "5162af105257426fb1d16b22b0603ffc51e3a2f7d81174c8ec9bce9dfe15ae46",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-08243cc347f74f4da4ead68da9bb76de.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-b9fe8bb941884689b046b82ade34aa0c"] = {
-        sha256 = "d1a2aa07b0a1589b14a1d481752b23d615b60bb35de1af4e605180630d9eebc8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.43.34808-b9fe8bb941884689b046b82ade34aa0c.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-a5e16d20bdd447e8a00d8738a3780d91"] = {
-        sha256 = "c0e99ef7e6dda9fd1febd00d6aeb8d038d71cf1cdecf6111bfc7ba8f66e9ef01",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.29.30133-a5e16d20bdd447e8a00d8738a3780d91.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.43.34808-d0775a891a0a46fa8ada53fbed842e09"] = {
-        sha256 = "642d1bce2bf5ab4a278cb8f027801763be2c9bea76cb71503648d6079b6cb1c3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-d0775a891a0a46fa8ada53fbed842e09.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-b9fe8bb941884689b046b82ade34aa0c"] = {
-        sha256 = "a813c491892c186414d68f086967960114d9909edce38d1f47b7a6803be21945",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-b9fe8bb941884689b046b82ade34aa0c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-c118dfe53354490899e3355f2c49138e"] = {
-        sha256 = "ea32008d00ae012b5cf210abf62289b2344073aac34db940d56d522c7c90ed0e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.43.34808-c118dfe53354490899e3355f2c49138e.7z",
-        toolset = "14.43.34808"
+    ["windows-x64-vc14.44.35207-9307b0658fa047d799d8f238ff491ed2"] = {
+        sha256 = "8398307fb73dc3f52b9bede27e79df12083a389d7d5153d71a1c8191d24349b8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.44.35207-9307b0658fa047d799d8f238ff491ed2.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.43.34808-08243cc347f74f4da4ead68da9bb76de"] = {
         sha256 = "6d25316e496972af01567a304575f3b87b7ca04ca7ab505a70b8e5ab4bd5b82d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.43.34808-08243cc347f74f4da4ead68da9bb76de.7z",
         toolset = "14.43.34808"
     },
+    ["windows-x86-vc14.44.35207-b9fe8bb941884689b046b82ade34aa0c"] = {
+        sha256 = "392e3e4127e11d70f4b295eb6bcc4e28cba9af2372e18c04047ea1de66ccb88b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.44.35207-b9fe8bb941884689b046b82ade34aa0c.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-c118dfe53354490899e3355f2c49138e"] = {
+        sha256 = "b96c51ae9c0911f6c7fee05576837c89484931087bd1e65a64c8205742325a91",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-c118dfe53354490899e3355f2c49138e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-96b3cdc9f5834a3c9ac2a033627c794b"] = {
+        sha256 = "390d1a6635b0d7b83f1503980aff41444fb80dce34761b9b189fcc7c9d793d96",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.44.35207-96b3cdc9f5834a3c9ac2a033627c794b.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-c118dfe53354490899e3355f2c49138e"] = {
+        sha256 = "8fed62685a24783a069dd361898ca3ad8a28afb75b96ccd8db7d339373c57a27",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.44.35207-c118dfe53354490899e3355f2c49138e.7z",
+        toolset = "14.44.35207"
+    },
     ["windows-x64-vc14.43.34808-9307b0658fa047d799d8f238ff491ed2"] = {
         sha256 = "7c8b1e60873d9beea711b237802a3001f4f32820d9cbfd2986312882cad284f7",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-9307b0658fa047d799d8f238ff491ed2.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-a5e16d20bdd447e8a00d8738a3780d91"] = {
-        sha256 = "cc436232a1cdf732419bcc794bfd64b99b632764993fdc38fd272a2098626a93",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-a5e16d20bdd447e8a00d8738a3780d91.7z",
         toolset = "14.43.34808"
     },
     ["windows-x86-vc14.29.30133-80a8476af51b40ce9d47b976b56c88d0"] = {
@@ -74,9 +59,64 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-80a8476af51b40ce9d47b976b56c88d0.7z",
         toolset = "14.29.30133"
     },
+    ["windows-x64-vc14.43.34808-d0775a891a0a46fa8ada53fbed842e09"] = {
+        sha256 = "642d1bce2bf5ab4a278cb8f027801763be2c9bea76cb71503648d6079b6cb1c3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-d0775a891a0a46fa8ada53fbed842e09.7z",
+        toolset = "14.43.34808"
+    },
     ["windows-x64-vc14.29.30133-d0775a891a0a46fa8ada53fbed842e09"] = {
         sha256 = "5bae65ae83d007b90f7f67b68bd56dcf1c9b34f00db64e079393cace70a2c2a9",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.29.30133-d0775a891a0a46fa8ada53fbed842e09.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-c118dfe53354490899e3355f2c49138e"] = {
+        sha256 = "ea32008d00ae012b5cf210abf62289b2344073aac34db940d56d522c7c90ed0e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.43.34808-c118dfe53354490899e3355f2c49138e.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-b9fe8bb941884689b046b82ade34aa0c"] = {
+        sha256 = "d1a2aa07b0a1589b14a1d481752b23d615b60bb35de1af4e605180630d9eebc8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.43.34808-b9fe8bb941884689b046b82ade34aa0c.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-08243cc347f74f4da4ead68da9bb76de"] = {
+        sha256 = "5162af105257426fb1d16b22b0603ffc51e3a2f7d81174c8ec9bce9dfe15ae46",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-08243cc347f74f4da4ead68da9bb76de.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-b9fe8bb941884689b046b82ade34aa0c"] = {
+        sha256 = "a813c491892c186414d68f086967960114d9909edce38d1f47b7a6803be21945",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.29.30133-b9fe8bb941884689b046b82ade34aa0c.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-a5e16d20bdd447e8a00d8738a3780d91"] = {
+        sha256 = "cc436232a1cdf732419bcc794bfd64b99b632764993fdc38fd272a2098626a93",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-a5e16d20bdd447e8a00d8738a3780d91.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-96b3cdc9f5834a3c9ac2a033627c794b"] = {
+        sha256 = "a15d9e49192586e1a4ecd40a2ce4cd07a66ba3757fa94c6fdbe96895683873ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.29.30133-96b3cdc9f5834a3c9ac2a033627c794b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-a5e16d20bdd447e8a00d8738a3780d91"] = {
+        sha256 = "c0e99ef7e6dda9fd1febd00d6aeb8d038d71cf1cdecf6111bfc7ba8f66e9ef01",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.29.30133-a5e16d20bdd447e8a00d8738a3780d91.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-a5e16d20bdd447e8a00d8738a3780d91"] = {
+        sha256 = "2a50d00c3fcf01cedc10b059d95f97cd6ee37b42ec0de22b56d6cb35cbd27974",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.44.35207-a5e16d20bdd447e8a00d8738a3780d91.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-80a8476af51b40ce9d47b976b56c88d0"] = {
+        sha256 = "23a45374a0ebc42fccdc29603db5f40f3070e21724acf903e181659864e248ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x86-vc14.44.35207-80a8476af51b40ce9d47b976b56c88d0.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-96b3cdc9f5834a3c9ac2a033627c794b"] = {
+        sha256 = "aa1f0b8c7e27694a6e39ef60dc42ccf091c83bb1ce6ecf30e22baf2eab8b2d08",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libflac-1.5.0/windows-x64-vc14.43.34808-96b3cdc9f5834a3c9ac2a033627c794b.7z",
+        toolset = "14.43.34808"
     }
 }
