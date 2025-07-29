@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        sha256 = "4a578adb6cf5d54c7ec80c2eb4834e46d606cf29975ac2db0e905fa30e0710a4",
+    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
+        sha256 = "3d58a899cd74b01e385f58fbe90dfab478e41424578688263110e5a82d74a796",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-8ecf5cd4a3614d49a5a9df6216176d41"] = {
+        sha256 = "07c6d3b7121d50cdcac384beed0ba88580e2fddb70941772013a182bfa6cd827",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.44.35207-8ecf5cd4a3614d49a5a9df6216176d41.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
+        sha256 = "0e1fa4894018117a0933f6b16b24385ce08f26e337205d07de4baa8e9292b8f4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-1fd16c0b35ce4517b535008c078aaec6"] = {
+        sha256 = "53784860905c3a88d17931f4c2149cbd35ea2e9d59e534d5ce71e0d9f4b779a7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.44.35207-1fd16c0b35ce4517b535008c078aaec6.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-ca3c716f04bc4d1da9dc51e2461a0796"] = {
+        sha256 = "089b3ec1486fbb02d3483fe5a65dd1fa32facc8cbf1d3819426ab9ae50227e11",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.44.35207-ca3c716f04bc4d1da9dc51e2461a0796.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-50f317306ac948e3b97624db6240404c"] = {
+        sha256 = "c288ea6a14f6575d2a95a653b86a305ff317f85e431c18fd2851f5a529662aa6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.44.35207-50f317306ac948e3b97624db6240404c.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
         sha256 = "981ca197e8e56f10b799d5ca94dc49b584a71afcd4203b66cd31811d18d1d3cd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-12a82e449dac4f8793535dd4c47b6404.7z",
         toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b"] = {
+        sha256 = "5ec4e652fc769cc8ac0e1d525ad667981bd0ebfa0a7d14f5f0cdbe8c505ecbef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32.7z",
         sha256 = "34b67d324d5591cba615acd213d952e94cd2f645f8537a9c55b6f45c506be912",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789.7z",
-        sha256 = "ad4658da5c89bc60f798d4d006df536ee9d057d3e6303cb49c963d3ab11037ae",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
-        sha256 = "a5b78632bd477d5b576b597c7fe348064432d06ff13327a3c65af83c3d35c7c1",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189.7z",
-        sha256 = "cc64ae32fa2d190296b37fe9dceaeeab5514ef8a7f41562b2473dd36d3e73de0",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
-        sha256 = "8693a0110236953d778b17e5ac27a15f7f77d6a3f58d83f484c5a8702788f527",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
-        sha256 = "a67b6c7ccc25bd358e065d7d3cf67f2f789808f8bbe2b9432aaa30c1089c55be",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b.7z",
-        sha256 = "ed4fcf536c325b237dfbc918f740fcea2d5aef75b1b9263fe1c42830455ffb65",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-b1caf5aecf3447d1bfaf66081135de32.7z",
         toolset = "14.43.34808"
     },
     ["windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404.7z",
         sha256 = "3619ab23e2c871dbc8bf2ca5948839284021829dbb556a6f4b692184461ddd3e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-12a82e449dac4f8793535dd4c47b6404.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789"] = {
+        sha256 = "ad4658da5c89bc60f798d4d006df536ee9d057d3e6303cb49c963d3ab11037ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-3c332be551f6485e8d17e1830ee49789.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
+        sha256 = "901508d0e758c7b30429fe1181a73274fe7b5d4c2a50b722d7ce34397284c655",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-69d99a112f0840418409f37755f58722"] = {
+        sha256 = "4e457718cde88e4c89a58cd092d3c6246cee0319f2a3dea793238d01676f9746",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.44.35207-69d99a112f0840418409f37755f58722.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-9c84771066964a2da41794aea095f795"] = {
+        sha256 = "f3a48c5adf80e0f3042bf3683efc44ce42268bb2c2d99e1bc79e1f05a00ba943",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.44.35207-9c84771066964a2da41794aea095f795.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b"] = {
+        sha256 = "ed4fcf536c325b237dfbc918f740fcea2d5aef75b1b9263fe1c42830455ffb65",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-aeda7dc391cf4237b8f316df1955053b.7z",
         toolset = "14.43.34808"
     },
     ["windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
         sha256 = "003192a1040cf45cc847a9483b56081b758ab65b1feb9850c64dab7b839e43bf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
         toolset = "14.43.34808"
     },
-    ["windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-a11dcc3a1c08476590461852f6d4257b.7z",
-        sha256 = "5ec4e652fc769cc8ac0e1d525ad667981bd0ebfa0a7d14f5f0cdbe8c505ecbef",
+    ["windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189"] = {
+        sha256 = "cc64ae32fa2d190296b37fe9dceaeeab5514ef8a7f41562b2473dd36d3e73de0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.43.34808-af705bc0e66f4f108a3a47c7ee859189.7z",
         toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        sha256 = "a5b78632bd477d5b576b597c7fe348064432d06ff13327a3c65af83c3d35c7c1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.43.34808-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-64b2863698e844b3950bb24f0e20cc8b"] = {
+        sha256 = "a0b694baf1c6b76c7f28ff549e7c98060d059f09224bcf9ea32663dda78e778e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.44.35207-64b2863698e844b3950bb24f0e20cc8b.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-12557044b19b4bcf813477b2f62d67a3"] = {
+        sha256 = "426af70446fb52fdb8626565f58ce077049bc5cb18542fbfe3eb7219922bfccd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.44.35207-12557044b19b4bcf813477b2f62d67a3.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e"] = {
+        sha256 = "a67b6c7ccc25bd358e065d7d3cf67f2f789808f8bbe2b9432aaa30c1089c55be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-8a9be58b2b5c4b2c86ffea3ab9ae275e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789"] = {
+        sha256 = "8693a0110236953d778b17e5ac27a15f7f77d6a3f58d83f484c5a8702788f527",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-3c332be551f6485e8d17e1830ee49789.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e"] = {
+        sha256 = "4a578adb6cf5d54c7ec80c2eb4834e46d606cf29975ac2db0e905fa30e0710a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-b40ce8b80f0449248b45b9fbf1bcfe6e.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
         sha256 = "c3b3570805914600daa8899cd4d8f41f314bbdc5718b65e7704d7a00fb61a5b3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-a11dcc3a1c08476590461852f6d4257b.7z",
-        sha256 = "0e1fa4894018117a0933f6b16b24385ce08f26e337205d07de4baa8e9292b8f4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-aeda7dc391cf4237b8f316df1955053b.7z",
-        sha256 = "3d58a899cd74b01e385f58fbe90dfab478e41424578688263110e5a82d74a796",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x64-vc14.29.30133-b1caf5aecf3447d1bfaf66081135de32.7z",
-        sha256 = "901508d0e758c7b30429fe1181a73274fe7b5d4c2a50b722d7ce34397284c655",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-ipc-v1.3.0/windows-x86-vc14.29.30133-af705bc0e66f4f108a3a47c7ee859189.7z",
         toolset = "14.29.30133"
     }
 }
