@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.43.34808-723952103a33481eaec6ef561e7a33c4"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-723952103a33481eaec6ef561e7a33c4.7z",
-        sha256 = "f9186fcd84104cae4564e3d82cc339f28438c3f8af920dba9c2771333f4f540d"
-    },
-    ["windows-x86-vc14.29.30133-b246e953182a4386bb85490935a59b00"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-b246e953182a4386bb85490935a59b00.7z",
-        sha256 = "cc423df2286adcd038bdda10e9132115c215a51d4d2eba452d52f4b21a627a9a"
+    ["windows-x64-vc14.43.34808-ed65404c95bb441982e557d1fda777e4"] = {
+        sha256 = "5609340eb783dd55f1859a0f6d719c5744ac717d3c15ff763c9b3438019a4996",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-ed65404c95bb441982e557d1fda777e4.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x64-vc14.29.30133-ed65404c95bb441982e557d1fda777e4"] = {
-        toolset = "14.29.30133",
+        sha256 = "2fcb90401b4c9fa7666dda801dddde3583bd88cef22d0e5f9c382b22af1e4d74",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-ed65404c95bb441982e557d1fda777e4.7z",
-        sha256 = "2fcb90401b4c9fa7666dda801dddde3583bd88cef22d0e5f9c382b22af1e4d74"
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-ac9831ef62ee44f9b825183c6517e9f3"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-ac9831ef62ee44f9b825183c6517e9f3.7z",
-        sha256 = "da79220cfcf4f672a32906c123b3c0a1c7ae56ffaa47b292674df7bf1101743d"
+    ["windows-x86-vc14.44.35207-b246e953182a4386bb85490935a59b00"] = {
+        sha256 = "2f72e07a867daba090c33c59112b60bc2ef6e2f47ab075964edc3ab6ae21596e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.44.35207-b246e953182a4386bb85490935a59b00.7z",
+        toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.29.30133-723952103a33481eaec6ef561e7a33c4"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-723952103a33481eaec6ef561e7a33c4.7z",
-        sha256 = "b8a2346d83133127ea5bab7c5e8bdfa28b565c7af60dedef8443753a446baa3a"
-    },
-    ["windows-x86-vc14.29.30133-d31470860f7043ffa10847a60710c9d0"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-d31470860f7043ffa10847a60710c9d0.7z",
-        sha256 = "2f452c8339b5c9c8e5f3475903f1df19a2ef089477b349afee781da4782c94e0"
-    },
-    ["windows-x64-vc14.29.30133-ff5efb6e3fdf42c18f221924b199b0f4"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-ff5efb6e3fdf42c18f221924b199b0f4.7z",
-        sha256 = "a8040914d3c479664f785ef6a26bf0dfeac0bc51f1c396dd1e73d253bf6218c5"
-    },
-    ["windows-x64-vc14.43.34808-ed65404c95bb441982e557d1fda777e4"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-ed65404c95bb441982e557d1fda777e4.7z",
-        sha256 = "5609340eb783dd55f1859a0f6d719c5744ac717d3c15ff763c9b3438019a4996"
-    },
-    ["windows-x64-vc14.29.30133-9f3431477f5e4cc285d4748839efe2ad"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-9f3431477f5e4cc285d4748839efe2ad.7z",
-        sha256 = "fbbf62a844c3bfcd9ab346b10a07c657194e643157bb6eeb7be137c9ef57be15"
-    },
-    ["windows-x86-vc14.43.34808-ac9831ef62ee44f9b825183c6517e9f3"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.43.34808-ac9831ef62ee44f9b825183c6517e9f3.7z",
-        sha256 = "21c245794edfe08b95a8706298bd8d50c2228446fa3c5c599a067ca1db2c18ad"
+    ["windows-x64-vc14.44.35207-9f3431477f5e4cc285d4748839efe2ad"] = {
+        sha256 = "180e748dcdb944ac27dbf0b0cd7367ba21186d7ff1c9fc713acfbc64385ab91c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.44.35207-9f3431477f5e4cc285d4748839efe2ad.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.29.30133-1f71f5430e484d74a4179fe0ce80b679"] = {
-        toolset = "14.29.30133",
+        sha256 = "826f36a30629905bc3e31a1bfc5f72fa043001e6563fcb2e640e5da86e65ca40",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-1f71f5430e484d74a4179fe0ce80b679.7z",
-        sha256 = "826f36a30629905bc3e31a1bfc5f72fa043001e6563fcb2e640e5da86e65ca40"
-    },
-    ["windows-x64-vc14.43.34808-ff5efb6e3fdf42c18f221924b199b0f4"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-ff5efb6e3fdf42c18f221924b199b0f4.7z",
-        sha256 = "a64bee8353a2a6592da70211b453a04e69b293d04fd99859daf821439ea1337e"
-    },
-    ["windows-x86-vc14.43.34808-b246e953182a4386bb85490935a59b00"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.43.34808-b246e953182a4386bb85490935a59b00.7z",
-        sha256 = "a8953c129f06875094547c1b777b47c293ee460eae92c70315cb6136d2683cc7"
-    },
-    ["windows-x64-vc14.43.34808-9f3431477f5e4cc285d4748839efe2ad"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-9f3431477f5e4cc285d4748839efe2ad.7z",
-        sha256 = "52e6a44b7cad2f8ee1b19929c36b756178be9b591c9753671b3c08b138b50902"
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.43.34808-d31470860f7043ffa10847a60710c9d0"] = {
-        toolset = "14.43.34808",
+        sha256 = "a49f4d95436db813d6cfa1a51757b3c4cdcf69fa95615fd557ade53855effbbc",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.43.34808-d31470860f7043ffa10847a60710c9d0.7z",
-        sha256 = "a49f4d95436db813d6cfa1a51757b3c4cdcf69fa95615fd557ade53855effbbc"
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-1f71f5430e484d74a4179fe0ce80b679"] = {
+        sha256 = "4e8edd6c0718b2bc24e4b9a9f229bcb78136e19bb250cfb3f2ed0eb2d192b3a8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.44.35207-1f71f5430e484d74a4179fe0ce80b679.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-ff5efb6e3fdf42c18f221924b199b0f4"] = {
+        sha256 = "a64bee8353a2a6592da70211b453a04e69b293d04fd99859daf821439ea1337e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-ff5efb6e3fdf42c18f221924b199b0f4.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-ff5efb6e3fdf42c18f221924b199b0f4"] = {
+        sha256 = "a8040914d3c479664f785ef6a26bf0dfeac0bc51f1c396dd1e73d253bf6218c5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-ff5efb6e3fdf42c18f221924b199b0f4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-ff5efb6e3fdf42c18f221924b199b0f4"] = {
+        sha256 = "4c5f867d0510e87992483c5226cacc7f4a6ab03247065b1ea76e1d988805ecdf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.44.35207-ff5efb6e3fdf42c18f221924b199b0f4.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-d31470860f7043ffa10847a60710c9d0"] = {
+        sha256 = "2f452c8339b5c9c8e5f3475903f1df19a2ef089477b349afee781da4782c94e0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-d31470860f7043ffa10847a60710c9d0.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-b246e953182a4386bb85490935a59b00"] = {
+        sha256 = "cc423df2286adcd038bdda10e9132115c215a51d4d2eba452d52f4b21a627a9a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-b246e953182a4386bb85490935a59b00.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-723952103a33481eaec6ef561e7a33c4"] = {
+        sha256 = "f9186fcd84104cae4564e3d82cc339f28438c3f8af920dba9c2771333f4f540d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-723952103a33481eaec6ef561e7a33c4.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-723952103a33481eaec6ef561e7a33c4"] = {
+        sha256 = "b8a2346d83133127ea5bab7c5e8bdfa28b565c7af60dedef8443753a446baa3a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-723952103a33481eaec6ef561e7a33c4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-723952103a33481eaec6ef561e7a33c4"] = {
+        sha256 = "e30e50ba52d403b20c796467368034955b615dcdbc8369e711375742ccecfb8e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.44.35207-723952103a33481eaec6ef561e7a33c4.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-b246e953182a4386bb85490935a59b00"] = {
+        sha256 = "a8953c129f06875094547c1b777b47c293ee460eae92c70315cb6136d2683cc7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.43.34808-b246e953182a4386bb85490935a59b00.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-d31470860f7043ffa10847a60710c9d0"] = {
+        sha256 = "96b58b2b54853c86525b7bd47af560eb271bc0de765df61ba8c713ce72bec192",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.44.35207-d31470860f7043ffa10847a60710c9d0.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-ac9831ef62ee44f9b825183c6517e9f3"] = {
+        sha256 = "da79220cfcf4f672a32906c123b3c0a1c7ae56ffaa47b292674df7bf1101743d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.29.30133-ac9831ef62ee44f9b825183c6517e9f3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-ac9831ef62ee44f9b825183c6517e9f3"] = {
+        sha256 = "5bda15e0a8f3aa4365336fbcd43c9d2d04cf7d3fe96051c22f1a9161db4179af",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.44.35207-ac9831ef62ee44f9b825183c6517e9f3.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-ac9831ef62ee44f9b825183c6517e9f3"] = {
+        sha256 = "21c245794edfe08b95a8706298bd8d50c2228446fa3c5c599a067ca1db2c18ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.43.34808-ac9831ef62ee44f9b825183c6517e9f3.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-9f3431477f5e4cc285d4748839efe2ad"] = {
+        sha256 = "fbbf62a844c3bfcd9ab346b10a07c657194e643157bb6eeb7be137c9ef57be15",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.29.30133-9f3431477f5e4cc285d4748839efe2ad.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-ed65404c95bb441982e557d1fda777e4"] = {
+        sha256 = "254b8c7f2e80494c1927befe504ead0ba6ddcbbe80f08cc867d3298ffc21387d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.44.35207-ed65404c95bb441982e557d1fda777e4.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.43.34808-1f71f5430e484d74a4179fe0ce80b679"] = {
-        toolset = "14.43.34808",
+        sha256 = "5c59efd4c9a143def537677bbe90606abb8eeb8f1b167f8a1f9021a20d3c7de6",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x86-vc14.43.34808-1f71f5430e484d74a4179fe0ce80b679.7z",
-        sha256 = "5c59efd4c9a143def537677bbe90606abb8eeb8f1b167f8a1f9021a20d3c7de6"
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-9f3431477f5e4cc285d4748839efe2ad"] = {
+        sha256 = "52e6a44b7cad2f8ee1b19929c36b756178be9b591c9753671b3c08b138b50902",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/hdf5-1.14.6/windows-x64-vc14.43.34808-9f3431477f5e4cc285d4748839efe2ad.7z",
+        toolset = "14.43.34808"
     }
 }
