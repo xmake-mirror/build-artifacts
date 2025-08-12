@@ -1,93 +1,143 @@
 {
-    ["windows-x86-vc14.29.30133-7eb09bb46efa4637821df4529e7b8389"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-7eb09bb46efa4637821df4529e7b8389.7z",
-        sha256 = "da6deb0c9f47d2af7a483d58db070f222c64799b9c4710f2f2a0fcd2095a73a2",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc143-c601ae461f7942958a6f2d1fe5dda467"] = {
+    ["windows-x64-vc143-145802138c1840f2957350a0c24bf296"] = {
         toolset = "14.32.31326",
-        sha256 = "5f444edcf4164c3b883d1f554ebc4ad0161b28a8db58776180d72999d749674a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-c601ae461f7942958a6f2d1fe5dda467.7z"
-    },
-    ["windows-x86-vc14.44.35207-d32736f258844e23beaf25229895a958"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-d32736f258844e23beaf25229895a958.7z",
-        sha256 = "8925de23a97842d396e8aca9aa48708503d3749c8fbb7b13d3c68e19d20d0a02",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.43.34808-2f5987f11e3a48bd8699f738dc7a4506"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-2f5987f11e3a48bd8699f738dc7a4506.7z",
-        sha256 = "3a4f058436bc0d878d1301897f6c476dc7b1306d246823aa911ae8c62313cf18",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-4d11e322635244399ef97c52e018ac8c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-4d11e322635244399ef97c52e018ac8c.7z",
-        sha256 = "dcdadd1f46fe1fa47e38cf1201da017041cf28d8469df2d2deeb583b692914b5",
-        toolset = "14.29.30133"
+        sha256 = "82260b8d5368db3b9a8bb966559f98fbeb5f383d75c6429b9182b4b439d60a69",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-145802138c1840f2957350a0c24bf296.7z"
     },
     ["windows-x86-vc14.43.34808-4d11e322635244399ef97c52e018ac8c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-4d11e322635244399ef97c52e018ac8c.7z",
         sha256 = "dcba20cf4c4a16c1fcbeeac4bf346c2a2b5b2b4eaba85fdf89f870842ce6c29c",
         toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.43.34808-0da4005d4a7f4f49a7ecdd88f72e9226"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.43.34808-0da4005d4a7f4f49a7ecdd88f72e9226.7z",
-        sha256 = "32786c2d333f8a73296a1bd92ce8d8a87380e4bdf70118427c1b47ac4b494ebf",
-        toolset = "14.43.34808"
+    ["windows-x64-vc142-c601ae461f7942958a6f2d1fe5dda467"] = {
+        toolset = "14.29.30133",
+        sha256 = "39500bb9d64838f1e291f8df1428765014947a935cd21bbef327f57b2a935194",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-c601ae461f7942958a6f2d1fe5dda467.7z"
+    },
+    ["windows-x64-vc14.44.35207-0da4005d4a7f4f49a7ecdd88f72e9226"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-0da4005d4a7f4f49a7ecdd88f72e9226.7z",
+        sha256 = "56b0ff1156cddc8380300906d19e61df72475f36c4c42f98dc56d8f232f97155",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-2f5987f11e3a48bd8699f738dc7a4506"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-2f5987f11e3a48bd8699f738dc7a4506.7z",
+        sha256 = "0290fb628388ff0371621ebec42f6add4459add74dbf30ee1d09af791dd17edf",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-2f5987f11e3a48bd8699f738dc7a4506"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-2f5987f11e3a48bd8699f738dc7a4506.7z",
+        sha256 = "50be321096834f0ad5b53f3441aeeb44d0578fd724f27966951d57a7551ccfd5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-95d99527b47942c9812b453eac4de9b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.29.30133-95d99527b47942c9812b453eac4de9b6.7z",
+        sha256 = "c7fb8f959832f9fd5bb1dbd70da5a76457173feb8d2a33bbe6d91728790d10e4",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc142-988e8f96aa4a4426a83aa9cc5b73b86f"] = {
+        toolset = "14.29.30133",
+        sha256 = "a0fa8bd4602f042cbcaf38f3517dfa56497dda7fca4a5723095723446469d4ee",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc142-988e8f96aa4a4426a83aa9cc5b73b86f.7z"
+    },
+    ["windows-x86-vc14.29.30133-4d11e322635244399ef97c52e018ac8c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-4d11e322635244399ef97c52e018ac8c.7z",
+        sha256 = "dcdadd1f46fe1fa47e38cf1201da017041cf28d8469df2d2deeb583b692914b5",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-d32736f258844e23beaf25229895a958"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-d32736f258844e23beaf25229895a958.7z",
+        sha256 = "a03f03be4b286215e67644e58046df6593090300281c5c7e06d4d467aa73ed0f",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc142-8c02e8c97e1c45efa14007dd7f9114be"] = {
         toolset = "14.29.30133",
         sha256 = "5606dd57c6dd8844675b4ffaac73a995da916e6fbc445b43a1de035e1907ffe8",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-8c02e8c97e1c45efa14007dd7f9114be.7z"
     },
-    ["windows-x86-vc14.43.34808-d32736f258844e23beaf25229895a958"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-d32736f258844e23beaf25229895a958.7z",
-        sha256 = "1808edda7d3cb1b947ee577d4e99d5a50a029178c9bf1b7956341bddb344657d",
+    ["windows-x86-vc14.43.34808-7eb09bb46efa4637821df4529e7b8389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-7eb09bb46efa4637821df4529e7b8389.7z",
+        sha256 = "00945ec91f680fe74d8d35ba37e8429a21ccc5bb93e7b55b213b60a8da80deb9",
         toolset = "14.43.34808"
     },
-    ["windows-x64-vc142-145802138c1840f2957350a0c24bf296"] = {
-        toolset = "14.29.30133",
-        sha256 = "2f99569b333c473ab3abf05d9f995f32ca4b382d8320d89fede837aa6208ba69",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-145802138c1840f2957350a0c24bf296.7z"
+    ["windows-x86-vc143-cceb973682c446979ba07e155b08c60b"] = {
+        toolset = "14.32.31326",
+        sha256 = "9ac87e19b8520f6b31753a0b95a1dd57c76757577c476a5a13b80570e477e8e1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-cceb973682c446979ba07e155b08c60b.7z"
     },
     ["windows-x64-vc14.29.30133-0da4005d4a7f4f49a7ecdd88f72e9226"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.29.30133-0da4005d4a7f4f49a7ecdd88f72e9226.7z",
         sha256 = "730e690c5beea0508e211ec1a88c88746e27d401b38266d9ee51cf996661384c",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc142-a480f8aff10e4244af8f5f04c39b656a"] = {
-        toolset = "14.29.30133",
-        sha256 = "ccad9f25ea0e77f0a297e4a365fef3d0c556f540c624df314c6f08e84e3d8440",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-a480f8aff10e4244af8f5f04c39b656a.7z"
-    },
-    ["windows-x86-vc14.43.34808-7eb09bb46efa4637821df4529e7b8389"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-7eb09bb46efa4637821df4529e7b8389.7z",
-        sha256 = "00945ec91f680fe74d8d35ba37e8429a21ccc5bb93e7b55b213b60a8da80deb9",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.44.35207-2f5987f11e3a48bd8699f738dc7a4506"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-2f5987f11e3a48bd8699f738dc7a4506.7z",
-        sha256 = "f7c40401da47630a1c53746527a523198bb9472e79d8130444337ddc4f3c6278",
+    ["windows-x64-vc14.44.35207-80efa894273e4d24a864e4578b4328be"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-80efa894273e4d24a864e4578b4328be.7z",
+        sha256 = "259ad645c10d421d9f772233aa78aba3717a9cee92d3b41f61b0d9105de2bf59",
         toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.43.34808-408d34ae40464f02910118d69e707a29"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.43.34808-408d34ae40464f02910118d69e707a29.7z",
-        sha256 = "09a116608dddfe873fd5d35c1eb3ad24eb3dd8fdd5a035ccaad8eeebcb0e2874",
-        toolset = "14.43.34808"
+    ["windows-x86-vc143-b59de5b88478402694dfbd2360670085"] = {
+        toolset = "14.32.31326",
+        sha256 = "06d013aacf1c24c315b33dc7428eba2275b21b8c2912e1247ee807dd718e1555",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-b59de5b88478402694dfbd2360670085.7z"
     },
-    ["windows-x86-vc142-cceb973682c446979ba07e155b08c60b"] = {
-        toolset = "14.29.30133",
-        sha256 = "122c2067309a0edd695e6bf2a079074462c1ac598e168f85b0003bc65fb42cd4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc142-cceb973682c446979ba07e155b08c60b.7z"
+    ["windows-x86-vc14.29.30133-7eb09bb46efa4637821df4529e7b8389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-7eb09bb46efa4637821df4529e7b8389.7z",
+        sha256 = "da6deb0c9f47d2af7a483d58db070f222c64799b9c4710f2f2a0fcd2095a73a2",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.43.34808-80efa894273e4d24a864e4578b4328be"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.43.34808-80efa894273e4d24a864e4578b4328be.7z",
         sha256 = "b6cf733eecb996e15c91534c646d579fdfe29e52c128819ed785d7cdd29ae0ec",
         toolset = "14.43.34808"
     },
+    ["windows-x64-vc143-c601ae461f7942958a6f2d1fe5dda467"] = {
+        toolset = "14.32.31326",
+        sha256 = "5f444edcf4164c3b883d1f554ebc4ad0161b28a8db58776180d72999d749674a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-c601ae461f7942958a6f2d1fe5dda467.7z"
+    },
+    ["windows-x64-vc14.44.35207-408d34ae40464f02910118d69e707a29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-408d34ae40464f02910118d69e707a29.7z",
+        sha256 = "44ca7a51a945524d6a0cdf5cda911e926a3c66c45824238c0b7af1011c5c0a22",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc143-a480f8aff10e4244af8f5f04c39b656a"] = {
+        toolset = "14.32.31326",
+        sha256 = "7c130b29e2762431f3ba3961dfc6738dc22d0d382e73309375b49539042469c8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-a480f8aff10e4244af8f5f04c39b656a.7z"
+    },
     ["windows-x86-vc14.44.35207-7eb09bb46efa4637821df4529e7b8389"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-7eb09bb46efa4637821df4529e7b8389.7z",
-        sha256 = "29ab1800dee5a682b70bec55d2367c2f0bb0895446155708bb34bbad2107c5fd",
+        sha256 = "bcfeabfe3f6db3f9b39be79fa9ac9fe9268c9bc3421359ed1746ea8a99ca66c7",
         toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-4d11e322635244399ef97c52e018ac8c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-4d11e322635244399ef97c52e018ac8c.7z",
+        sha256 = "861e40eb0c9e4f95cdfd24e402e9fa428d18609530ec568f6e300cdb5092934b",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-d32736f258844e23beaf25229895a958"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-d32736f258844e23beaf25229895a958.7z",
+        sha256 = "4e9d020ba838a6a06198af61f0120663775f8f8b32f0360d33f91216509a05cb",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-95d99527b47942c9812b453eac4de9b6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-95d99527b47942c9812b453eac4de9b6.7z",
+        sha256 = "44f922170fa1bd48d55c5c14b41d8d73a5f64a23f5321150494de6a729abe19c",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc142-cceb973682c446979ba07e155b08c60b"] = {
+        toolset = "14.29.30133",
+        sha256 = "122c2067309a0edd695e6bf2a079074462c1ac598e168f85b0003bc65fb42cd4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc142-cceb973682c446979ba07e155b08c60b.7z"
+    },
+    ["windows-x64-vc14.43.34808-408d34ae40464f02910118d69e707a29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.43.34808-408d34ae40464f02910118d69e707a29.7z",
+        sha256 = "09a116608dddfe873fd5d35c1eb3ad24eb3dd8fdd5a035ccaad8eeebcb0e2874",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc143-0599eadad09644078039a28b03bf3201"] = {
+        toolset = "14.32.31326",
+        sha256 = "17dade9ea3c251d888d5348ef848446fae1fc98e3a04b53465127c41af7b0717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-0599eadad09644078039a28b03bf3201.7z"
     },
     ["windows-x86-vc142-b59de5b88478402694dfbd2360670085"] = {
         toolset = "14.29.30133",
@@ -99,104 +149,54 @@
         sha256 = "b8cea1a07fe5f7251e556c6c386d9122c55ed76e4a37d8e55d5f7e95bacc4a72",
         toolset = "14.29.30133"
     },
-    ["windows-x86-vc143-cceb973682c446979ba07e155b08c60b"] = {
-        toolset = "14.32.31326",
-        sha256 = "9ac87e19b8520f6b31753a0b95a1dd57c76757577c476a5a13b80570e477e8e1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-cceb973682c446979ba07e155b08c60b.7z"
+    ["windows-x64-vc142-145802138c1840f2957350a0c24bf296"] = {
+        toolset = "14.29.30133",
+        sha256 = "2f99569b333c473ab3abf05d9f995f32ca4b382d8320d89fede837aa6208ba69",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-145802138c1840f2957350a0c24bf296.7z"
     },
     ["windows-x64-vc143-8c02e8c97e1c45efa14007dd7f9114be"] = {
         toolset = "14.32.31326",
         sha256 = "6385df1a781f31448250c79581fc50613787c6ea4eaa3db435a3ae3332d20230",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-8c02e8c97e1c45efa14007dd7f9114be.7z"
     },
-    ["windows-x86-vc143-988e8f96aa4a4426a83aa9cc5b73b86f"] = {
-        toolset = "14.32.31326",
-        sha256 = "d22e1da5b08e99c8bf499a0f41635e6fdc65d39828d2d5ab90e2ef4ad7d173f0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-988e8f96aa4a4426a83aa9cc5b73b86f.7z"
-    },
-    ["windows-x64-vc143-a480f8aff10e4244af8f5f04c39b656a"] = {
-        toolset = "14.32.31326",
-        sha256 = "7c130b29e2762431f3ba3961dfc6738dc22d0d382e73309375b49539042469c8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-a480f8aff10e4244af8f5f04c39b656a.7z"
-    },
-    ["windows-x64-vc14.29.30133-408d34ae40464f02910118d69e707a29"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.29.30133-408d34ae40464f02910118d69e707a29.7z",
-        sha256 = "93a500617470288bd3e218eda04b1f1682b45d340bd905df273ec1b2a4f71b02",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-c601ae461f7942958a6f2d1fe5dda467"] = {
-        toolset = "14.29.30133",
-        sha256 = "39500bb9d64838f1e291f8df1428765014947a935cd21bbef327f57b2a935194",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-c601ae461f7942958a6f2d1fe5dda467.7z"
-    },
     ["windows-x86-vc142-0599eadad09644078039a28b03bf3201"] = {
         toolset = "14.29.30133",
         sha256 = "4f72f5cbdd48cc00ccb4cab6e382c04a74ea4bd2c63b631504bdf51e143ace28",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc142-0599eadad09644078039a28b03bf3201.7z"
     },
-    ["windows-x64-vc14.44.35207-0da4005d4a7f4f49a7ecdd88f72e9226"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-0da4005d4a7f4f49a7ecdd88f72e9226.7z",
-        sha256 = "034462bb4a81d368abf9509f8243f613b6441e5019c7ff65f10e36d5992a8378",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.29.30133-95d99527b47942c9812b453eac4de9b6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.29.30133-95d99527b47942c9812b453eac4de9b6.7z",
-        sha256 = "c7fb8f959832f9fd5bb1dbd70da5a76457173feb8d2a33bbe6d91728790d10e4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc143-b59de5b88478402694dfbd2360670085"] = {
+    ["windows-x86-vc143-988e8f96aa4a4426a83aa9cc5b73b86f"] = {
         toolset = "14.32.31326",
-        sha256 = "06d013aacf1c24c315b33dc7428eba2275b21b8c2912e1247ee807dd718e1555",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-b59de5b88478402694dfbd2360670085.7z"
+        sha256 = "d22e1da5b08e99c8bf499a0f41635e6fdc65d39828d2d5ab90e2ef4ad7d173f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-988e8f96aa4a4426a83aa9cc5b73b86f.7z"
     },
-    ["windows-x86-vc14.44.35207-4d11e322635244399ef97c52e018ac8c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.44.35207-4d11e322635244399ef97c52e018ac8c.7z",
-        sha256 = "c39c99f22b73be58b4485d884d14efa421560265c7d5dafc4e3365907d00bb58",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.43.34808-d32736f258844e23beaf25229895a958"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-d32736f258844e23beaf25229895a958.7z",
+        sha256 = "1808edda7d3cb1b947ee577d4e99d5a50a029178c9bf1b7956341bddb344657d",
+        toolset = "14.43.34808"
     },
-    ["windows-x86-vc142-988e8f96aa4a4426a83aa9cc5b73b86f"] = {
+    ["windows-x64-vc14.43.34808-0da4005d4a7f4f49a7ecdd88f72e9226"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.43.34808-0da4005d4a7f4f49a7ecdd88f72e9226.7z",
+        sha256 = "32786c2d333f8a73296a1bd92ce8d8a87380e4bdf70118427c1b47ac4b494ebf",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc142-a480f8aff10e4244af8f5f04c39b656a"] = {
         toolset = "14.29.30133",
-        sha256 = "a0fa8bd4602f042cbcaf38f3517dfa56497dda7fca4a5723095723446469d4ee",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc142-988e8f96aa4a4426a83aa9cc5b73b86f.7z"
+        sha256 = "ccad9f25ea0e77f0a297e4a365fef3d0c556f540c624df314c6f08e84e3d8440",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc142-a480f8aff10e4244af8f5f04c39b656a.7z"
     },
     ["windows-x64-vc14.43.34808-95d99527b47942c9812b453eac4de9b6"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.43.34808-95d99527b47942c9812b453eac4de9b6.7z",
         sha256 = "a9bbefb52c02bd4c804a3b294a88af394bed89632029df55d0a2156c1327353c",
         toolset = "14.43.34808"
     },
-    ["windows-x86-vc143-0599eadad09644078039a28b03bf3201"] = {
-        toolset = "14.32.31326",
-        sha256 = "17dade9ea3c251d888d5348ef848446fae1fc98e3a04b53465127c41af7b0717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc143-0599eadad09644078039a28b03bf3201.7z"
+    ["windows-x86-vc14.43.34808-2f5987f11e3a48bd8699f738dc7a4506"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.43.34808-2f5987f11e3a48bd8699f738dc7a4506.7z",
+        sha256 = "3a4f058436bc0d878d1301897f6c476dc7b1306d246823aa911ae8c62313cf18",
+        toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.44.35207-80efa894273e4d24a864e4578b4328be"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-80efa894273e4d24a864e4578b4328be.7z",
-        sha256 = "6f2c776fa70dc16fe95f3bcbc03421c798f985536907360391e591eb5072115f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc143-145802138c1840f2957350a0c24bf296"] = {
-        toolset = "14.32.31326",
-        sha256 = "82260b8d5368db3b9a8bb966559f98fbeb5f383d75c6429b9182b4b439d60a69",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc143-145802138c1840f2957350a0c24bf296.7z"
-    },
-    ["windows-x86-vc14.29.30133-2f5987f11e3a48bd8699f738dc7a4506"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-2f5987f11e3a48bd8699f738dc7a4506.7z",
-        sha256 = "50be321096834f0ad5b53f3441aeeb44d0578fd724f27966951d57a7551ccfd5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.44.35207-408d34ae40464f02910118d69e707a29"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-408d34ae40464f02910118d69e707a29.7z",
-        sha256 = "8beb9617828232f2951b327f49490a587a3059f80de6848e75c6429aa4d493b1",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-95d99527b47942c9812b453eac4de9b6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.44.35207-95d99527b47942c9812b453eac4de9b6.7z",
-        sha256 = "5ade08855b4b06ac4ff8aeec8d1381aefe2b8c43460ea0399ed1c0cecca0273a",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.29.30133-d32736f258844e23beaf25229895a958"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x86-vc14.29.30133-d32736f258844e23beaf25229895a958.7z",
-        sha256 = "4e9d020ba838a6a06198af61f0120663775f8f8b32f0360d33f91216509a05cb",
+    ["windows-x64-vc14.29.30133-408d34ae40464f02910118d69e707a29"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libgeotiff-1.7.1/windows-x64-vc14.29.30133-408d34ae40464f02910118d69e707a29.7z",
+        sha256 = "93a500617470288bd3e218eda04b1f1682b45d340bd905df273ec1b2a4f71b02",
         toolset = "14.29.30133"
     }
 }
