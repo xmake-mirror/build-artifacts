@@ -1,77 +1,117 @@
 {
-    ["windows-x64-vc14.43.34808-061a8f1c3e264338ad98b0fe79ba21ee"] = {
-        sha256 = "fbd6f4f6fa19ef127ed29e99fa11e6fa520196d800d2911774b8288cf437e31d",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-061a8f1c3e264338ad98b0fe79ba21ee.7z"
+    ["windows-x86-vc14.44.35207-3be379d42ce44590bcbb148f781b9ae2"] = {
+        sha256 = "f4d5fa665a1136cb70a33cbeb7796187a326431912afd8dda873e41a4e1c3dc0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.44.35207-3be379d42ce44590bcbb148f781b9ae2.7z",
+        toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.43.34808-3be379d42ce44590bcbb148f781b9ae2"] = {
-        sha256 = "a662b686955f67d091a1cb07ab578ec28e2c9e83f5408589d613fb768b4ed2be",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-3be379d42ce44590bcbb148f781b9ae2.7z"
-    },
-    ["windows-x86-vc14.29.30133-2fb8e67720244fd092fc4d1f9a9fa85a"] = {
-        sha256 = "a18693136a1a8e3c1ef701b75c7141c26088c3c9cd2dec080734c29f40224296",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-2fb8e67720244fd092fc4d1f9a9fa85a.7z"
-    },
-    ["windows-x86-vc14.43.34808-2fb8e67720244fd092fc4d1f9a9fa85a"] = {
-        sha256 = "5cf9452b73b4f12aad6db02f4cfa158d17fe0cefc487e77f54896bfa00cb56e4",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-2fb8e67720244fd092fc4d1f9a9fa85a.7z"
+    ["windows-x64-vc14.44.35207-6b55b381f5744d30aded7ad87885783a"] = {
+        sha256 = "31fe546292a020d44a6941ce709f4ca9e298f15424c7254b6e5da0999f020673",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.44.35207-6b55b381f5744d30aded7ad87885783a.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.43.34808-58bf68d692fe41ff9376c5bc1d2b0b58"] = {
         sha256 = "936e63011cc1d06d7729695712a013bc75fed592595ae6d0006734da8ea5a2a1",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-58bf68d692fe41ff9376c5bc1d2b0b58.7z"
-    },
-    ["windows-x64-vc14.29.30133-33360173c1984136812779a461370885"] = {
-        sha256 = "0be54ba17b1e7f184f136fa8a736130b774ed3e3bf9c656bc832489aa33fbc6a",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.29.30133-33360173c1984136812779a461370885.7z"
-    },
-    ["windows-x64-vc14.43.34808-c7600f8ebe3d44ab93ec34b7895e0b8b"] = {
-        sha256 = "7e9e1a6b46967c919b1198ca6c29829b012b2ad30ae80a3c44575cbe0f933250",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-c7600f8ebe3d44ab93ec34b7895e0b8b.7z"
-    },
-    ["windows-x86-vc14.43.34808-d72065ae253d4f248251fac183d8e3dc"] = {
-        sha256 = "cb716a35836dedd3bcec468c9794faecfd8ae1a509b0f0a2cf76fcc778ec5753",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-d72065ae253d4f248251fac183d8e3dc.7z"
-    },
-    ["windows-x64-vc14.43.34808-33360173c1984136812779a461370885"] = {
-        sha256 = "5e76096807a8de0efb5c2d446936f5e5165fc2c97fe9b0eda0e00868acad46fb",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-33360173c1984136812779a461370885.7z"
-    },
-    ["windows-x86-vc14.29.30133-3be379d42ce44590bcbb148f781b9ae2"] = {
-        sha256 = "530a1afe41715a28b28a2a1271dcc314d1a9f480430a318c23f2142677aad081",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-3be379d42ce44590bcbb148f781b9ae2.7z"
-    },
-    ["windows-x86-vc14.29.30133-58bf68d692fe41ff9376c5bc1d2b0b58"] = {
-        sha256 = "6a945d7e1985746b53349d83c434de66a4c3bb254721130ce1f4e96d89c91c32",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-58bf68d692fe41ff9376c5bc1d2b0b58.7z"
-    },
-    ["windows-x64-vc14.29.30133-c7600f8ebe3d44ab93ec34b7895e0b8b"] = {
-        sha256 = "b0aca08fd385de45e3f102b459e23742701a1c378e5c995b7a6be4678b92b8e9",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.29.30133-c7600f8ebe3d44ab93ec34b7895e0b8b.7z"
-    },
-    ["windows-x64-vc14.29.30133-061a8f1c3e264338ad98b0fe79ba21ee"] = {
-        sha256 = "040888dd6f821064be7bbaf2424e926beac11a511f44622e755959e7a4166481",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.29.30133-061a8f1c3e264338ad98b0fe79ba21ee.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-58bf68d692fe41ff9376c5bc1d2b0b58.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.29.30133-d72065ae253d4f248251fac183d8e3dc"] = {
         sha256 = "6447f9b123f58c395780815b2d5efdad9cecd8af6c7f2b1d3b3fea5a9ce31357",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-d72065ae253d4f248251fac183d8e3dc.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-d72065ae253d4f248251fac183d8e3dc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-3be379d42ce44590bcbb148f781b9ae2"] = {
+        sha256 = "530a1afe41715a28b28a2a1271dcc314d1a9f480430a318c23f2142677aad081",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-3be379d42ce44590bcbb148f781b9ae2.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-d72065ae253d4f248251fac183d8e3dc"] = {
+        sha256 = "cb716a35836dedd3bcec468c9794faecfd8ae1a509b0f0a2cf76fcc778ec5753",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-d72065ae253d4f248251fac183d8e3dc.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-061a8f1c3e264338ad98b0fe79ba21ee"] = {
+        sha256 = "040888dd6f821064be7bbaf2424e926beac11a511f44622e755959e7a4166481",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.29.30133-061a8f1c3e264338ad98b0fe79ba21ee.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-c7600f8ebe3d44ab93ec34b7895e0b8b"] = {
+        sha256 = "7e9e1a6b46967c919b1198ca6c29829b012b2ad30ae80a3c44575cbe0f933250",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-c7600f8ebe3d44ab93ec34b7895e0b8b.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-061a8f1c3e264338ad98b0fe79ba21ee"] = {
+        sha256 = "fbd6f4f6fa19ef127ed29e99fa11e6fa520196d800d2911774b8288cf437e31d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-061a8f1c3e264338ad98b0fe79ba21ee.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-33360173c1984136812779a461370885"] = {
+        sha256 = "0be54ba17b1e7f184f136fa8a736130b774ed3e3bf9c656bc832489aa33fbc6a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.29.30133-33360173c1984136812779a461370885.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-58bf68d692fe41ff9376c5bc1d2b0b58"] = {
+        sha256 = "567d20307a4822c33f42969ee85fcc17c91d79fda3fdfa96fad681ed1d8fc1b6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.44.35207-58bf68d692fe41ff9376c5bc1d2b0b58.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-58bf68d692fe41ff9376c5bc1d2b0b58"] = {
+        sha256 = "6a945d7e1985746b53349d83c434de66a4c3bb254721130ce1f4e96d89c91c32",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-58bf68d692fe41ff9376c5bc1d2b0b58.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-c7600f8ebe3d44ab93ec34b7895e0b8b"] = {
+        sha256 = "b0aca08fd385de45e3f102b459e23742701a1c378e5c995b7a6be4678b92b8e9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.29.30133-c7600f8ebe3d44ab93ec34b7895e0b8b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-2fb8e67720244fd092fc4d1f9a9fa85a"] = {
+        sha256 = "5cf9452b73b4f12aad6db02f4cfa158d17fe0cefc487e77f54896bfa00cb56e4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-2fb8e67720244fd092fc4d1f9a9fa85a.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-2fb8e67720244fd092fc4d1f9a9fa85a"] = {
+        sha256 = "a18693136a1a8e3c1ef701b75c7141c26088c3c9cd2dec080734c29f40224296",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.29.30133-2fb8e67720244fd092fc4d1f9a9fa85a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-2fb8e67720244fd092fc4d1f9a9fa85a"] = {
+        sha256 = "0164c15f84b514965184a846708d3633d39382a20f3790e93e056c73996fefe8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.44.35207-2fb8e67720244fd092fc4d1f9a9fa85a.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-d72065ae253d4f248251fac183d8e3dc"] = {
+        sha256 = "43d7072327a87c280c47cea518e5dee93c143c3961fd178db9811b45ac45985b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.44.35207-d72065ae253d4f248251fac183d8e3dc.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-061a8f1c3e264338ad98b0fe79ba21ee"] = {
+        sha256 = "7a05d1f8db0aeda54ddd0d023962010886c74a94f6721e4740ca88393da73763",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.44.35207-061a8f1c3e264338ad98b0fe79ba21ee.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-33360173c1984136812779a461370885"] = {
+        sha256 = "5e76096807a8de0efb5c2d446936f5e5165fc2c97fe9b0eda0e00868acad46fb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-33360173c1984136812779a461370885.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-33360173c1984136812779a461370885"] = {
+        sha256 = "00f1bd19e452ccee87645cd297ca112964d5e5ca208bc91701145ae27aee5fb3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.44.35207-33360173c1984136812779a461370885.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-3be379d42ce44590bcbb148f781b9ae2"] = {
+        sha256 = "a662b686955f67d091a1cb07ab578ec28e2c9e83f5408589d613fb768b4ed2be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x86-vc14.43.34808-3be379d42ce44590bcbb148f781b9ae2.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-c7600f8ebe3d44ab93ec34b7895e0b8b"] = {
+        sha256 = "c5925c513a4cdcf9f0c259e5c6e8dacd58758845573c1d2687fef7ea773aa763",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.44.35207-c7600f8ebe3d44ab93ec34b7895e0b8b.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.43.34808-6b55b381f5744d30aded7ad87885783a"] = {
         sha256 = "403fc7fc3c8a2568e757bad3fe700b870461a4600b636eca0f5b434a6c2629a7",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-6b55b381f5744d30aded7ad87885783a.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cpp-rotor-v0.34/windows-x64-vc14.43.34808-6b55b381f5744d30aded7ad87885783a.7z",
+        toolset = "14.43.34808"
     }
 }
