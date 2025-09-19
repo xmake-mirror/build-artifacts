@@ -1,122 +1,162 @@
 {
-    ["windows-x64-vc14.41.34120-0bcfae9440ee4f57bf4d87925d03b166"] = {
-        sha256 = "65b2be26590904deed2e9f0cc070c52bdf6d3025cac3f18f6790596c7da24a35",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-0bcfae9440ee4f57bf4d87925d03b166.7z"
-    },
-    ["windows-x64-vc14.41.34120-24cb63464abb467b8e5120e0aade806d"] = {
-        sha256 = "f1f6d9cb4bf437dabb9f2188e996d9f1fb6f0691ec3e2ff280d1d0c936e58c1f",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-24cb63464abb467b8e5120e0aade806d.7z"
-    },
-    ["windows-x86-vc14.29.30133-6c6c54d50a544490a011844cb06a2e5e"] = {
-        sha256 = "c31f52f4d187c630392125e39ba49a7f59e815ec0ea5c85c1bcf9c46e1be56a2",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-6c6c54d50a544490a011844cb06a2e5e.7z"
-    },
-    ["windows-x86-vc14.42.34433-b2e5c22767194e598dfbfcd91df1493e"] = {
-        sha256 = "9cf3e86829c4a4f3032aa6ca4436fc64ca6a7e68f0811abd28fc7cc3d789399d",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-b2e5c22767194e598dfbfcd91df1493e.7z"
-    },
-    ["windows-x86-vc14.29.30133-b2e5c22767194e598dfbfcd91df1493e"] = {
-        sha256 = "5e27ec6b781a8e144dabe2e96cac1045fedb31096f00c3cd8d443ca948dfa34d",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-b2e5c22767194e598dfbfcd91df1493e.7z"
-    },
-    ["windows-x64-vc14.29.30133-24cb63464abb467b8e5120e0aade806d"] = {
-        sha256 = "be59d84e6d0d2091661f9eb69aec0d5dcaed1b4c9f63df88fc54f4873aeed4ac",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-24cb63464abb467b8e5120e0aade806d.7z"
-    },
-    ["windows-x86-vc14.29.30133-8e698eac2972412d88146e468f21a08a"] = {
-        sha256 = "484b050ad623ebb0c7601dc4e13449952c1a2fbaa88065a80abd11f451a2beb7",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-8e698eac2972412d88146e468f21a08a.7z"
-    },
-    ["windows-x86-vc14.42.34433-6c6c54d50a544490a011844cb06a2e5e"] = {
-        sha256 = "0d4505fba85eb4e050c6e2a89f278c34e5dfc672164a84c3a820d5ed638b2f41",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-6c6c54d50a544490a011844cb06a2e5e.7z"
+    ["windows-x86-vc14.44.35207-6c6c54d50a544490a011844cb06a2e5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.44.35207-6c6c54d50a544490a011844cb06a2e5e.7z",
+        sha256 = "74667ed8b14343051b5659b8c62862b30b2f03c4873b25b66b231eb1b45e125b",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.41.34120-b2e5c22767194e598dfbfcd91df1493e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-b2e5c22767194e598dfbfcd91df1493e.7z",
         sha256 = "fc1e8952a74958bd86f83bcd4e407a95982329ac7cd80910fc5eb9a66b534b21",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-b2e5c22767194e598dfbfcd91df1493e.7z"
-    },
-    ["windows-x64-vc14.29.30133-b2cc1566ebff4230a0d227394ebe7c8b"] = {
-        sha256 = "bdc4a86ba0ffddf731dc339016a7b50a5e6e77140ea609c876dd9a73ba923947",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-b2cc1566ebff4230a0d227394ebe7c8b.7z"
-    },
-    ["windows-x86-vc14.42.34433-8e698eac2972412d88146e468f21a08a"] = {
-        sha256 = "74fe0c09771d9b10f0697d042d7e03180ca276bdcd085884b8e64ba4b47882b0",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-8e698eac2972412d88146e468f21a08a.7z"
-    },
-    ["windows-x86-vc14.41.34120-8e698eac2972412d88146e468f21a08a"] = {
-        sha256 = "600b97732da00cf8fdc5af62c84e5166d27962f5935acfa2b257d6989114e601",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-8e698eac2972412d88146e468f21a08a.7z"
-    },
-    ["windows-x64-vc14.42.34433-b2cc1566ebff4230a0d227394ebe7c8b"] = {
-        sha256 = "9ce49c3e597766e4de65ffb96c544d789814321fc2a3a0fe82a098b55e13f3e1",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-b2cc1566ebff4230a0d227394ebe7c8b.7z"
+        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.42.34433-0bcfae9440ee4f57bf4d87925d03b166"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-0bcfae9440ee4f57bf4d87925d03b166.7z",
         sha256 = "b74a6fe89a4ed35a7f19511aa7fb03d0482dd79dfcc8ca81d20ebb4c9058de30",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-0bcfae9440ee4f57bf4d87925d03b166.7z"
+        toolset = "14.42.34433"
     },
-    ["windows-x64-vc14.29.30133-0bcfae9440ee4f57bf4d87925d03b166"] = {
-        sha256 = "a64e593ae188cfb49bc6fc09dbde040dafa1ae9e9a1c8f6797447b16d168dad2",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-0bcfae9440ee4f57bf4d87925d03b166.7z"
+    ["windows-x64-vc14.44.35207-2e0f35c989d9497cb5deb47700eb3634"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.44.35207-2e0f35c989d9497cb5deb47700eb3634.7z",
+        sha256 = "4b5be5a25d85b9f425eb540a14ecb465fb147c1d44c0a677f84423f20e2df8c5",
+        toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.29.30133-2e0f35c989d9497cb5deb47700eb3634"] = {
-        sha256 = "71f691d41ddbb05e438b516137e8ea323b070897cd8834b0480f8917687862bd",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-2e0f35c989d9497cb5deb47700eb3634.7z"
+    ["windows-x86-vc14.44.35207-b2e5c22767194e598dfbfcd91df1493e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.44.35207-b2e5c22767194e598dfbfcd91df1493e.7z",
+        sha256 = "e08c0476fbf0527fc1459adf8d3d6ad7faca132110289c536e255ae1eb88119f",
+        toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.42.34433-44df23a547d14039a3240d808a4e0a8b"] = {
-        sha256 = "1482ad8b147fa9229b2a9e4e549c6bd9ac43b01b3ad9c53b8c53dfe9cc7043ed",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-44df23a547d14039a3240d808a4e0a8b.7z"
+    ["windows-x64-vc14.41.34120-24cb63464abb467b8e5120e0aade806d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-24cb63464abb467b8e5120e0aade806d.7z",
+        sha256 = "f1f6d9cb4bf437dabb9f2188e996d9f1fb6f0691ec3e2ff280d1d0c936e58c1f",
+        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.42.34433-2e0f35c989d9497cb5deb47700eb3634"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-2e0f35c989d9497cb5deb47700eb3634.7z",
         sha256 = "2671be67817a4f05873c466a9187e5a744947a2d3006b117368c9e087663b05b",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-2e0f35c989d9497cb5deb47700eb3634.7z"
+        toolset = "14.42.34433"
     },
-    ["windows-x86-vc14.41.34120-44df23a547d14039a3240d808a4e0a8b"] = {
-        sha256 = "875b880defcc899f5dde2dcb0d37ee55a9df9eff4d77f4837de735a08d56721a",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-44df23a547d14039a3240d808a4e0a8b.7z"
+    ["windows-x64-vc14.42.34433-b2cc1566ebff4230a0d227394ebe7c8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-b2cc1566ebff4230a0d227394ebe7c8b.7z",
+        sha256 = "9ce49c3e597766e4de65ffb96c544d789814321fc2a3a0fe82a098b55e13f3e1",
+        toolset = "14.42.34433"
     },
-    ["windows-x64-vc14.42.34433-24cb63464abb467b8e5120e0aade806d"] = {
-        sha256 = "d50a91aa513e135465a06be93fbfb436caa81921d0405bd6570d10495a269d16",
-        toolset = "14.42.34433",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-24cb63464abb467b8e5120e0aade806d.7z"
+    ["windows-x86-vc14.42.34433-44df23a547d14039a3240d808a4e0a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-44df23a547d14039a3240d808a4e0a8b.7z",
+        sha256 = "1482ad8b147fa9229b2a9e4e549c6bd9ac43b01b3ad9c53b8c53dfe9cc7043ed",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.44.35207-44df23a547d14039a3240d808a4e0a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.44.35207-44df23a547d14039a3240d808a4e0a8b.7z",
+        sha256 = "f0fe01deb6e267d342465e143d835b789fa5895e2232bed8b2677cd1de35c389",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-0bcfae9440ee4f57bf4d87925d03b166"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-0bcfae9440ee4f57bf4d87925d03b166.7z",
+        sha256 = "a64e593ae188cfb49bc6fc09dbde040dafa1ae9e9a1c8f6797447b16d168dad2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-24cb63464abb467b8e5120e0aade806d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.44.35207-24cb63464abb467b8e5120e0aade806d.7z",
+        sha256 = "bbb69d04c785b6b1fdc0298a8d89b492d182ed12c5b0f5152a38bd30ced8331f",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-b2cc1566ebff4230a0d227394ebe7c8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.44.35207-b2cc1566ebff4230a0d227394ebe7c8b.7z",
+        sha256 = "71473fce7516ee4d3be037bca67328458361a4f6f97f8c7b1ffc43c6f90b5f4d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-6c6c54d50a544490a011844cb06a2e5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-6c6c54d50a544490a011844cb06a2e5e.7z",
+        sha256 = "c31f52f4d187c630392125e39ba49a7f59e815ec0ea5c85c1bcf9c46e1be56a2",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-0bcfae9440ee4f57bf4d87925d03b166"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.44.35207-0bcfae9440ee4f57bf4d87925d03b166.7z",
+        sha256 = "85d597b5162f803639c16896357846d845001b7129cff89444b4b212fa6edadd",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-b2e5c22767194e598dfbfcd91df1493e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-b2e5c22767194e598dfbfcd91df1493e.7z",
+        sha256 = "5e27ec6b781a8e144dabe2e96cac1045fedb31096f00c3cd8d443ca948dfa34d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-2e0f35c989d9497cb5deb47700eb3634"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-2e0f35c989d9497cb5deb47700eb3634.7z",
+        sha256 = "71f691d41ddbb05e438b516137e8ea323b070897cd8834b0480f8917687862bd",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-24cb63464abb467b8e5120e0aade806d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-24cb63464abb467b8e5120e0aade806d.7z",
+        sha256 = "be59d84e6d0d2091661f9eb69aec0d5dcaed1b4c9f63df88fc54f4873aeed4ac",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-8e698eac2972412d88146e468f21a08a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-8e698eac2972412d88146e468f21a08a.7z",
+        sha256 = "484b050ad623ebb0c7601dc4e13449952c1a2fbaa88065a80abd11f451a2beb7",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-6c6c54d50a544490a011844cb06a2e5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-6c6c54d50a544490a011844cb06a2e5e.7z",
         sha256 = "c562fae38563e3829171857c470683fb0441660f254dcf44370ace8459db59e7",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-6c6c54d50a544490a011844cb06a2e5e.7z"
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-0bcfae9440ee4f57bf4d87925d03b166"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-0bcfae9440ee4f57bf4d87925d03b166.7z",
+        sha256 = "65b2be26590904deed2e9f0cc070c52bdf6d3025cac3f18f6790596c7da24a35",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.42.34433-b2e5c22767194e598dfbfcd91df1493e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-b2e5c22767194e598dfbfcd91df1493e.7z",
+        sha256 = "9cf3e86829c4a4f3032aa6ca4436fc64ca6a7e68f0811abd28fc7cc3d789399d",
+        toolset = "14.42.34433"
     },
     ["windows-x64-vc14.41.34120-b2cc1566ebff4230a0d227394ebe7c8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-b2cc1566ebff4230a0d227394ebe7c8b.7z",
         sha256 = "1955cb740db8c620295233028750c2c1bf0c38911b48f22887471463413740f8",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-b2cc1566ebff4230a0d227394ebe7c8b.7z"
-    },
-    ["windows-x86-vc14.29.30133-44df23a547d14039a3240d808a4e0a8b"] = {
-        sha256 = "1550f4e937f68c3987b87d79bf3de71159bea4d756d5a11cb538036c603cad25",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-44df23a547d14039a3240d808a4e0a8b.7z"
+        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.41.34120-2e0f35c989d9497cb5deb47700eb3634"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-2e0f35c989d9497cb5deb47700eb3634.7z",
         sha256 = "1c849c313af67d86d687dc7035b257f7c5fae6ec5723ccfe1b301c0b193e195e",
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.41.34120-2e0f35c989d9497cb5deb47700eb3634.7z"
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-24cb63464abb467b8e5120e0aade806d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.42.34433-24cb63464abb467b8e5120e0aade806d.7z",
+        sha256 = "d50a91aa513e135465a06be93fbfb436caa81921d0405bd6570d10495a269d16",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.42.34433-6c6c54d50a544490a011844cb06a2e5e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-6c6c54d50a544490a011844cb06a2e5e.7z",
+        sha256 = "0d4505fba85eb4e050c6e2a89f278c34e5dfc672164a84c3a820d5ed638b2f41",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.29.30133-44df23a547d14039a3240d808a4e0a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.29.30133-44df23a547d14039a3240d808a4e0a8b.7z",
+        sha256 = "1550f4e937f68c3987b87d79bf3de71159bea4d756d5a11cb538036c603cad25",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-b2cc1566ebff4230a0d227394ebe7c8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x64-vc14.29.30133-b2cc1566ebff4230a0d227394ebe7c8b.7z",
+        sha256 = "bdc4a86ba0ffddf731dc339016a7b50a5e6e77140ea609c876dd9a73ba923947",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-8e698eac2972412d88146e468f21a08a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.42.34433-8e698eac2972412d88146e468f21a08a.7z",
+        sha256 = "74fe0c09771d9b10f0697d042d7e03180ca276bdcd085884b8e64ba4b47882b0",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.44.35207-8e698eac2972412d88146e468f21a08a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.44.35207-8e698eac2972412d88146e468f21a08a.7z",
+        sha256 = "c27b8d319b52d77f01391553b2135cc8736ce1cf333b6ebd54cdc1aa0397ea1e",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.41.34120-44df23a547d14039a3240d808a4e0a8b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-44df23a547d14039a3240d808a4e0a8b.7z",
+        sha256 = "875b880defcc899f5dde2dcb0d37ee55a9df9eff4d77f4837de735a08d56721a",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-8e698eac2972412d88146e468f21a08a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/freeglut-3.6.0/windows-x86-vc14.41.34120-8e698eac2972412d88146e468f21a08a.7z",
+        sha256 = "600b97732da00cf8fdc5af62c84e5166d27962f5935acfa2b257d6989114e601",
+        toolset = "14.41.34120"
     }
 }
