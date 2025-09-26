@@ -1,23 +1,43 @@
 {
-    ["windows-x64-vc142-19dcfdb32b784f02bf7f9adb2d1c221e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc142-19dcfdb32b784f02bf7f9adb2d1c221e.7z",
-        toolset = "14.29.30133",
-        sha256 = "524321e2e27294b629310c26e383a7057f78519253ea691387332eaaa4b09d8d"
-    },
-    ["windows-x64-vc143-71920d0308af4cdf8ce3f8834983d82e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-71920d0308af4cdf8ce3f8834983d82e.7z",
-        toolset = "14.30.30705",
-        sha256 = "4286588249450e587f42832a279d02f5fdc1c2c06d49a2dc74814330a9e292af"
-    },
-    ["windows-x64-vc14.44.35207-72c1c4595ff344c1be33fc2d5a049667"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-72c1c4595ff344c1be33fc2d5a049667.7z",
-        sha256 = "e8704d9c18faf9c157dbb3a37424c33fe941a0bfdfc20e7be49a292b684dc72f",
+    ["windows-x86-vc14.44.35207-fb7ade5cc95f496d8992dfb9733330ba"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-fb7ade5cc95f496d8992dfb9733330ba.7z",
+        sha256 = "d84318ff97948fc951a5d795c6925cec6f232351a8cb91ebfd3685dcc0ffeb6b",
         toolset = "14.44.35207"
     },
-    ["windows-x64-vc142-ac83416de6304f4cb2426bed82fb4260"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc142-ac83416de6304f4cb2426bed82fb4260.7z",
+    ["windows-x86-vc143-6cc3713fd19c44d391be46d90829016b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc143-6cc3713fd19c44d391be46d90829016b.7z",
+        toolset = "14.30.30705",
+        sha256 = "2053b949d9c030e4c3c9ed29ca670c34b958bf3a46cc226b838ea019a9acfc6b"
+    },
+    ["windows-x86-vc142-b14e2ab2a354400ca2a9d07e6b636aa7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc142-b14e2ab2a354400ca2a9d07e6b636aa7.7z",
         toolset = "14.29.30133",
-        sha256 = "bf8e3a647f8bafcb7de61e6217b741a00921968f14e904c4ab47cb0f51a9b2bf"
+        sha256 = "9d4bd8bfec767af1237328cb1d9ea7c5cd0e628b70d384523170ee606085df07"
+    },
+    ["windows-x86-vc143-b14e2ab2a354400ca2a9d07e6b636aa7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc143-b14e2ab2a354400ca2a9d07e6b636aa7.7z",
+        toolset = "14.30.30705",
+        sha256 = "576a7f594552ec7c29184c548c1599ae8c2513a03e863a5d8cb684e35b84565f"
+    },
+    ["windows-x86-vc14.44.35207-c72d1c80bc1b4cce9d3a2af16fdaa7c6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-c72d1c80bc1b4cce9d3a2af16fdaa7c6.7z",
+        sha256 = "5977c74f0a0a581f66de83f33ceb68d78693f9f4a21eb5be031fc60974264dd2",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-179062939dcf4de6b32dd523d1090421"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-179062939dcf4de6b32dd523d1090421.7z",
+        sha256 = "1762d90fd2a2bca6975045e91a42e64b7af76a15ae59534d53f3cb5ef4510475",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc143-efd7dab822b446baaa1bb5320ae5d18c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc143-efd7dab822b446baaa1bb5320ae5d18c.7z",
+        toolset = "14.30.30705",
+        sha256 = "0c916061352763346b01e65e01523af8424a4363527d81947f926c9daf858a71"
+    },
+    ["windows-x64-vc143-ac83416de6304f4cb2426bed82fb4260"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-ac83416de6304f4cb2426bed82fb4260.7z",
+        toolset = "14.30.30705",
+        sha256 = "bafc95ef880491fe290d26a5391d5eb443642fcb4a3e1c0fa893c85c4987a2fc"
     },
     ["windows-x64-vc142-71920d0308af4cdf8ce3f8834983d82e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc142-71920d0308af4cdf8ce3f8834983d82e.7z",
@@ -29,10 +49,50 @@
         toolset = "14.30.30705",
         sha256 = "f7cca6762c13d965364585eb489c22e0a2e385bb74da53587c7cb2f0ce8929fa"
     },
+    ["windows-x64-vc143-71920d0308af4cdf8ce3f8834983d82e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-71920d0308af4cdf8ce3f8834983d82e.7z",
+        toolset = "14.30.30705",
+        sha256 = "4286588249450e587f42832a279d02f5fdc1c2c06d49a2dc74814330a9e292af"
+    },
+    ["windows-x64-vc14.44.35207-dfd203cc817c4b01a99d7ea80eda1355"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-dfd203cc817c4b01a99d7ea80eda1355.7z",
+        sha256 = "f9ac6052f51fab165cb579521cac7dfca4de3ad17b8c63f8c49a866084f72a7e",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-72c1c4595ff344c1be33fc2d5a049667"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-72c1c4595ff344c1be33fc2d5a049667.7z",
+        sha256 = "5210ebf39907162eeb85fa07cc3f45909d61bdc82f69e6c6ca617615a56691d8",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-5a935e34c44443b1b5fcb200a6e6f7ff"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-5a935e34c44443b1b5fcb200a6e6f7ff.7z",
+        sha256 = "dd1f72e225f8f4b294f4b0ad97b4b38d0ae81fde0273d93de31b97f994691a25",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc143-19dcfdb32b784f02bf7f9adb2d1c221e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-19dcfdb32b784f02bf7f9adb2d1c221e.7z",
+        toolset = "14.30.30705",
+        sha256 = "a381678528b33e5f0bc91318d01d9d8a68626f247818a06e8d30aff600336d3b"
+    },
+    ["windows-x86-vc14.44.35207-df2d5ada7bbe4ad9a47400553b4de446"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-df2d5ada7bbe4ad9a47400553b4de446.7z",
+        sha256 = "5d3b0d9a07bd541eed0698a49014241b37d9ea201d1c000c24db0acf585fc0b2",
+        toolset = "14.44.35207"
+    },
     ["windows-x86-vc142-6cc3713fd19c44d391be46d90829016b"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc142-6cc3713fd19c44d391be46d90829016b.7z",
         toolset = "14.29.30133",
         sha256 = "30c243a7f98aecf9f1b9b1b85707fd8cceabfdd35119f478de0e82a09ad5cd03"
+    },
+    ["windows-x64-vc142-19dcfdb32b784f02bf7f9adb2d1c221e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc142-19dcfdb32b784f02bf7f9adb2d1c221e.7z",
+        toolset = "14.29.30133",
+        sha256 = "524321e2e27294b629310c26e383a7057f78519253ea691387332eaaa4b09d8d"
+    },
+    ["windows-x86-vc142-efd7dab822b446baaa1bb5320ae5d18c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc142-efd7dab822b446baaa1bb5320ae5d18c.7z",
+        toolset = "14.29.30133",
+        sha256 = "148dd48fc8d155354156360523d760735bee5b4a32e0451d68720967cf490d9b"
     },
     ["windows-x64-vc143-d19cbfbd542d42c597f5f3217c2e34a4"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-d19cbfbd542d42c597f5f3217c2e34a4.7z",
@@ -41,7 +101,7 @@
     },
     ["windows-x64-vc14.44.35207-9d49b2e181fe46a3a84c6de0570f5303"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-9d49b2e181fe46a3a84c6de0570f5303.7z",
-        sha256 = "42d212631c491049d6566fbcbe45812f8798a573abacfdae0912c9783b4c536e",
+        sha256 = "32f3745d73ba469f6d590d998b96722b59fc121c43ffec26253771e05cc792d0",
         toolset = "14.44.35207"
     },
     ["windows-x64-vc142-d19cbfbd542d42c597f5f3217c2e34a4"] = {
@@ -49,74 +109,14 @@
         toolset = "14.29.30133",
         sha256 = "b00e4dc486689d825f62f31f54c6078851fff0d1d474756b1109e051b51838d2"
     },
-    ["windows-x86-vc14.44.35207-179062939dcf4de6b32dd523d1090421"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-179062939dcf4de6b32dd523d1090421.7z",
-        sha256 = "e5786b563c302d05be137d319f256e18e8a51dd00295af27077fa3ad978cb229",
-        toolset = "14.44.35207"
-    },
     ["windows-x86-vc142-118775bfefd44b9e93e149069ad67e10"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc142-118775bfefd44b9e93e149069ad67e10.7z",
         toolset = "14.29.30133",
         sha256 = "f6ef4aed7d5ad0218e08d9b1d13c825d2dd6441e07b5bb79493786f3c2d997f8"
     },
-    ["windows-x64-vc143-ac83416de6304f4cb2426bed82fb4260"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-ac83416de6304f4cb2426bed82fb4260.7z",
-        toolset = "14.30.30705",
-        sha256 = "bafc95ef880491fe290d26a5391d5eb443642fcb4a3e1c0fa893c85c4987a2fc"
-    },
-    ["windows-x86-vc142-b14e2ab2a354400ca2a9d07e6b636aa7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc142-b14e2ab2a354400ca2a9d07e6b636aa7.7z",
+    ["windows-x64-vc142-ac83416de6304f4cb2426bed82fb4260"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc142-ac83416de6304f4cb2426bed82fb4260.7z",
         toolset = "14.29.30133",
-        sha256 = "9d4bd8bfec767af1237328cb1d9ea7c5cd0e628b70d384523170ee606085df07"
-    },
-    ["windows-x64-vc143-19dcfdb32b784f02bf7f9adb2d1c221e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc143-19dcfdb32b784f02bf7f9adb2d1c221e.7z",
-        toolset = "14.30.30705",
-        sha256 = "a381678528b33e5f0bc91318d01d9d8a68626f247818a06e8d30aff600336d3b"
-    },
-    ["windows-x86-vc142-efd7dab822b446baaa1bb5320ae5d18c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc142-efd7dab822b446baaa1bb5320ae5d18c.7z",
-        toolset = "14.29.30133",
-        sha256 = "148dd48fc8d155354156360523d760735bee5b4a32e0451d68720967cf490d9b"
-    },
-    ["windows-x86-vc143-b14e2ab2a354400ca2a9d07e6b636aa7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc143-b14e2ab2a354400ca2a9d07e6b636aa7.7z",
-        toolset = "14.30.30705",
-        sha256 = "576a7f594552ec7c29184c548c1599ae8c2513a03e863a5d8cb684e35b84565f"
-    },
-    ["windows-x86-vc143-6cc3713fd19c44d391be46d90829016b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc143-6cc3713fd19c44d391be46d90829016b.7z",
-        toolset = "14.30.30705",
-        sha256 = "2053b949d9c030e4c3c9ed29ca670c34b958bf3a46cc226b838ea019a9acfc6b"
-    },
-    ["windows-x86-vc14.44.35207-c72d1c80bc1b4cce9d3a2af16fdaa7c6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-c72d1c80bc1b4cce9d3a2af16fdaa7c6.7z",
-        sha256 = "81b516eff796909f74540f98f19f08f76aaad8f4afad4347bae0f3f50ece584f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-df2d5ada7bbe4ad9a47400553b4de446"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-df2d5ada7bbe4ad9a47400553b4de446.7z",
-        sha256 = "3480c9515b11823b4992e3e0c8fa142ca43e5179b28a2f9799dc8aee0acc0cab",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc143-efd7dab822b446baaa1bb5320ae5d18c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc143-efd7dab822b446baaa1bb5320ae5d18c.7z",
-        toolset = "14.30.30705",
-        sha256 = "0c916061352763346b01e65e01523af8424a4363527d81947f926c9daf858a71"
-    },
-    ["windows-x64-vc14.44.35207-dfd203cc817c4b01a99d7ea80eda1355"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-dfd203cc817c4b01a99d7ea80eda1355.7z",
-        sha256 = "285e866bd91084e4a539870507b8850a225608f67bb4111fa340128c1bf2396f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-5a935e34c44443b1b5fcb200a6e6f7ff"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x64-vc14.44.35207-5a935e34c44443b1b5fcb200a6e6f7ff.7z",
-        sha256 = "b954ea3f343c1b5c50b761ca2fe99d30b983a69a29525fad00a4371fb219d6a6",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-fb7ade5cc95f496d8992dfb9733330ba"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gflags-v2.2.2/windows-x86-vc14.44.35207-fb7ade5cc95f496d8992dfb9733330ba.7z",
-        sha256 = "aa6cc1bf19072602103244aea81a1d09e558485697dbb177c646297fd1024c08",
-        toolset = "14.44.35207"
+        sha256 = "bf8e3a647f8bafcb7de61e6217b741a00921968f14e904c4ab47cb0f51a9b2bf"
     }
 }
