@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.29.30133-ed3d4ea6f52c4e6bad563954a51fe325"] = {
-        sha256 = "e2444372c23e8878cab368ab6a7fbd6b7bd3e2d98c26986482a0a5a0fda7a143",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-ed3d4ea6f52c4e6bad563954a51fe325.7z"
-    },
-    ["windows-x64-vc14.43.34808-8eb2c0b5da2740f5b0e6e3fd75d04d35"] = {
-        sha256 = "6249a63687f12c8533dafcf24306a1c8ea5dc1368118460f626ab1474a081e44",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-8eb2c0b5da2740f5b0e6e3fd75d04d35.7z"
-    },
-    ["windows-x86-vc14.43.34808-b752389f662440b3ba348d4dacfbf50e"] = {
-        sha256 = "bf00f8c9b28ca8901bd67797211561930c62d12e57738c13d653cce1b4d00ba1",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-b752389f662440b3ba348d4dacfbf50e.7z"
-    },
-    ["windows-x86-vc14.43.34808-7c4f57ca712e468287b85adff0c99d78"] = {
-        sha256 = "8d4cb05749a5c99d355954427fee6db5676ffc18f85335cb4c83aa423755c8eb",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-7c4f57ca712e468287b85adff0c99d78.7z"
-    },
-    ["windows-x86-vc14.29.30133-5d1dd13b48d3449eb6ca7166c295c18e"] = {
-        sha256 = "aea7346eb265c577545550e71cf5af63aef406941a0affee4ecaa19a7bc33aa7",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-5d1dd13b48d3449eb6ca7166c295c18e.7z"
-    },
-    ["windows-x86-vc14.29.30133-7c4f57ca712e468287b85adff0c99d78"] = {
-        sha256 = "0bc2805d0c32e83da4c11d3da03021312651648bf9f178203a74afefc259f9a7",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-7c4f57ca712e468287b85adff0c99d78.7z"
-    },
-    ["windows-x64-vc14.29.30133-8eb2c0b5da2740f5b0e6e3fd75d04d35"] = {
-        sha256 = "815f2306c7cd060ba28d47786836ba08772bf946c88ab4ee2eda5f6b9306e539",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-8eb2c0b5da2740f5b0e6e3fd75d04d35.7z"
-    },
-    ["windows-x64-vc14.43.34808-098dae1ad83f4cd2ba5a90fecb580f85"] = {
-        sha256 = "03d6f11b28343e6f97c294176f5dc78a34afd8a7b8e59bb77b096622b29ca333",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-098dae1ad83f4cd2ba5a90fecb580f85.7z"
-    },
-    ["windows-x86-vc14.29.30133-60f8d506fac340378c4fae3b6deb0fb8"] = {
-        sha256 = "d1426c5a9cb49c7993f6f918c320d43a7d6fd08f196a74fd42c14178f19d23c8",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-60f8d506fac340378c4fae3b6deb0fb8.7z"
-    },
-    ["windows-x86-vc14.29.30133-b752389f662440b3ba348d4dacfbf50e"] = {
-        sha256 = "e6064d1fffb49c7000316a93988204c5018a5cd200e3ac348fdc479055df3c94",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-b752389f662440b3ba348d4dacfbf50e.7z"
-    },
-    ["windows-x64-vc14.29.30133-098dae1ad83f4cd2ba5a90fecb580f85"] = {
-        sha256 = "e568a4318aafc0bf9068e2d983394f0f8b45407f74d9ec47b012b4503c31c203",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-098dae1ad83f4cd2ba5a90fecb580f85.7z"
-    },
-    ["windows-x64-vc14.43.34808-ab397d14cffd4d9c9bd45b02526d84e8"] = {
-        sha256 = "b8d8030752ae2f28c227a07100a08cf3571d2434ee4a5b3d69dba77b4c420f7f",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-ab397d14cffd4d9c9bd45b02526d84e8.7z"
-    },
-    ["windows-x86-vc14.43.34808-5d1dd13b48d3449eb6ca7166c295c18e"] = {
-        sha256 = "e40a6fb58fe030273c1456eba45afb76f62ae31fbb9d4e1e938183ef0f2120ff",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-5d1dd13b48d3449eb6ca7166c295c18e.7z"
-    },
     ["windows-x86-vc14.43.34808-60f8d506fac340378c4fae3b6deb0fb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-60f8d506fac340378c4fae3b6deb0fb8.7z",
         sha256 = "f9b86421b5bcbdea0188feb3a047d1ec868474cefa5f4260eadbec738629aced",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-60f8d506fac340378c4fae3b6deb0fb8.7z"
+        toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.43.34808-ed3d4ea6f52c4e6bad563954a51fe325"] = {
-        sha256 = "ea12da8efd4ab8617680aed82a6eb27d4e36f8af31c4e2cff5d1dcd87e553584",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-ed3d4ea6f52c4e6bad563954a51fe325.7z"
+    ["windows-x64-vc14.44.35207-ab397d14cffd4d9c9bd45b02526d84e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.44.35207-ab397d14cffd4d9c9bd45b02526d84e8.7z",
+        sha256 = "e147e4dd794a12635c7b4ebd6fa55f44bffe63915f56e14d8aabd574c6336188",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-ed3d4ea6f52c4e6bad563954a51fe325"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-ed3d4ea6f52c4e6bad563954a51fe325.7z",
+        sha256 = "e2444372c23e8878cab368ab6a7fbd6b7bd3e2d98c26986482a0a5a0fda7a143",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-ed3d4ea6f52c4e6bad563954a51fe325"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.44.35207-ed3d4ea6f52c4e6bad563954a51fe325.7z",
+        sha256 = "eada1dab106d5a70ee7a525cedd36f25cf66e4d6566ea7660de9137d4eb30e97",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-ab397d14cffd4d9c9bd45b02526d84e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-ab397d14cffd4d9c9bd45b02526d84e8.7z",
         sha256 = "6af651e8c3fdbb875b44d269cad7260dcf02524a53bb67d5415b0bfd2c3432ed",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-ab397d14cffd4d9c9bd45b02526d84e8.7z"
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-5d1dd13b48d3449eb6ca7166c295c18e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-5d1dd13b48d3449eb6ca7166c295c18e.7z",
+        sha256 = "e40a6fb58fe030273c1456eba45afb76f62ae31fbb9d4e1e938183ef0f2120ff",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-8eb2c0b5da2740f5b0e6e3fd75d04d35"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-8eb2c0b5da2740f5b0e6e3fd75d04d35.7z",
+        sha256 = "6249a63687f12c8533dafcf24306a1c8ea5dc1368118460f626ab1474a081e44",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-ab397d14cffd4d9c9bd45b02526d84e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-ab397d14cffd4d9c9bd45b02526d84e8.7z",
+        sha256 = "b8d8030752ae2f28c227a07100a08cf3571d2434ee4a5b3d69dba77b4c420f7f",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-b752389f662440b3ba348d4dacfbf50e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-b752389f662440b3ba348d4dacfbf50e.7z",
+        sha256 = "e6064d1fffb49c7000316a93988204c5018a5cd200e3ac348fdc479055df3c94",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-098dae1ad83f4cd2ba5a90fecb580f85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-098dae1ad83f4cd2ba5a90fecb580f85.7z",
+        sha256 = "03d6f11b28343e6f97c294176f5dc78a34afd8a7b8e59bb77b096622b29ca333",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-8eb2c0b5da2740f5b0e6e3fd75d04d35"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-8eb2c0b5da2740f5b0e6e3fd75d04d35.7z",
+        sha256 = "815f2306c7cd060ba28d47786836ba08772bf946c88ab4ee2eda5f6b9306e539",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-60f8d506fac340378c4fae3b6deb0fb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-60f8d506fac340378c4fae3b6deb0fb8.7z",
+        sha256 = "d1426c5a9cb49c7993f6f918c320d43a7d6fd08f196a74fd42c14178f19d23c8",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-5d1dd13b48d3449eb6ca7166c295c18e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-5d1dd13b48d3449eb6ca7166c295c18e.7z",
+        sha256 = "aea7346eb265c577545550e71cf5af63aef406941a0affee4ecaa19a7bc33aa7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-098dae1ad83f4cd2ba5a90fecb580f85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.44.35207-098dae1ad83f4cd2ba5a90fecb580f85.7z",
+        sha256 = "f07fe4644e0a83355a02e104f8f0774d3b1d4f140a4e1cac6794be9b15d0739c",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-7c4f57ca712e468287b85adff0c99d78"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-7c4f57ca712e468287b85adff0c99d78.7z",
+        sha256 = "8d4cb05749a5c99d355954427fee6db5676ffc18f85335cb4c83aa423755c8eb",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-ed3d4ea6f52c4e6bad563954a51fe325"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.43.34808-ed3d4ea6f52c4e6bad563954a51fe325.7z",
+        sha256 = "ea12da8efd4ab8617680aed82a6eb27d4e36f8af31c4e2cff5d1dcd87e553584",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-7c4f57ca712e468287b85adff0c99d78"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.44.35207-7c4f57ca712e468287b85adff0c99d78.7z",
+        sha256 = "38dfb556040251f9a3a14df2cc434ba6eab8d144e515c5ea3d2f7edbf34adacb",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-8eb2c0b5da2740f5b0e6e3fd75d04d35"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.44.35207-8eb2c0b5da2740f5b0e6e3fd75d04d35.7z",
+        sha256 = "3728ff146eccc64a3dc5c3293fb8907820f59001121609119bd89ba814035ca8",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-7c4f57ca712e468287b85adff0c99d78"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.29.30133-7c4f57ca712e468287b85adff0c99d78.7z",
+        sha256 = "0bc2805d0c32e83da4c11d3da03021312651648bf9f178203a74afefc259f9a7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-5d1dd13b48d3449eb6ca7166c295c18e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.44.35207-5d1dd13b48d3449eb6ca7166c295c18e.7z",
+        sha256 = "184902e641d5f0fc1cf6d19b39eee7049c5a5a586856a714152d2c7548b104cf",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-b752389f662440b3ba348d4dacfbf50e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.44.35207-b752389f662440b3ba348d4dacfbf50e.7z",
+        sha256 = "bc730fd58a01472ab0e89eb2ce27b23e1113ad0ff0217c8a85c5a915edcfba61",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-b752389f662440b3ba348d4dacfbf50e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.43.34808-b752389f662440b3ba348d4dacfbf50e.7z",
+        sha256 = "bf00f8c9b28ca8901bd67797211561930c62d12e57738c13d653cce1b4d00ba1",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-098dae1ad83f4cd2ba5a90fecb580f85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x64-vc14.29.30133-098dae1ad83f4cd2ba5a90fecb580f85.7z",
+        sha256 = "e568a4318aafc0bf9068e2d983394f0f8b45407f74d9ec47b012b4503c31c203",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-60f8d506fac340378c4fae3b6deb0fb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/diligentcore-v2.5.6/windows-x86-vc14.44.35207-60f8d506fac340378c4fae3b6deb0fb8.7z",
+        sha256 = "02f7c252bdf950a4fa5ef742efe169594b2dfdf02b5c41c193bde95cb0c98754",
+        toolset = "14.44.35207"
     }
 }
