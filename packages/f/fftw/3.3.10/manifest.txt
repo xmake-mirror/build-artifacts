@@ -1,147 +1,12 @@
 {
-    ["windows-x64-vc141-c3201e6f97c246da8bc6b2d0fd3fa86f"] = {
-        sha256 = "a5c4dbf8ab37c31fbb9012605e5ce7710b768b8f05d37fdc54bc6e95b46940a5",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-c3201e6f97c246da8bc6b2d0fd3fa86f.7z"
-    },
-    ["windows-x64-vc141-e75a8831b7c1492b9acf11fc4641e087"] = {
-        sha256 = "b33e178e616addf1eb0bf02f8cf0d25910c51ef1cb461312a8bd98cd61607898",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-e75a8831b7c1492b9acf11fc4641e087.7z"
-    },
-    ["windows-x86-vc14.41.34120-df88e37d30184bd49aaa1f40dcffa870"] = {
-        sha256 = "210a701dcbf473e13c48f0662200159e1ac30ef449692149a1ffcfa88cae3010",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-df88e37d30184bd49aaa1f40dcffa870.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-3c78b6ee5f57476d89cfde5b3ede3e29"] = {
-        sha256 = "5ee931d81e0437144a08b6ef1bce8e72fe62a7229807e370fc02f471c4b56f4e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-3c78b6ee5f57476d89cfde5b3ede3e29.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-d474c7e8aca34a768f7b44413b7df7bc"] = {
-        sha256 = "9345c556ac6de9240fec7afec69de9ffb1a9c41f08a4fa5201b346af17a6a39c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.29.30133-d474c7e8aca34a768f7b44413b7df7bc.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-c9ca454718f949aaa273061056694316"] = {
-        sha256 = "5e9e574df859b36a2b4b1893596300af9b3020169ab067f6679376e6268c6d49",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-c9ca454718f949aaa273061056694316.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-9d445f6b2d794f02b6efea07594b9411"] = {
-        sha256 = "d52d9802b378833016709ee2dfc6e7d147db229b7f1813c86959c4198ffddcb5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-9d445f6b2d794f02b6efea07594b9411.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc142-c695589ed4f54fc891eb1f7fd62ef988"] = {
-        sha256 = "4fcc024e654d62f369ad6d364a635e2b90e29d2ae02659f66fe4546373724c93",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-c695589ed4f54fc891eb1f7fd62ef988.7z"
-    },
-    ["windows-x86-vc142-a55a36c6d5604a22857efc532ab6c5c7"] = {
-        sha256 = "bc2dcfbe47755069868b4b3baf360b70d864ed7fe9d5635f4469b5add3c8a9cc",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-a55a36c6d5604a22857efc532ab6c5c7.7z"
-    },
-    ["windows-x64-vc14.41.34120-3c78b6ee5f57476d89cfde5b3ede3e29"] = {
-        sha256 = "6bc04ba5f633b29a75153e28ead77de8a3398255c5467b30dfd6e2fe5dc9b1df",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-3c78b6ee5f57476d89cfde5b3ede3e29.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-0fd198fba0a04b8093b576c0da86fcc4"] = {
-        sha256 = "b7795f358f28b099f55a41d57cbaf3e30f065aa084a8b921abe23feb8884c93d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-0fd198fba0a04b8093b576c0da86fcc4.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc142-c1cd881a18964f40b516f73f6e31048c"] = {
-        sha256 = "5395aee355947262167fa6ad69055e880cc51daabfd662057ef9a9d98d419431",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-c1cd881a18964f40b516f73f6e31048c.7z"
-    },
-    ["windows-x86-vc141-a55a36c6d5604a22857efc532ab6c5c7"] = {
-        sha256 = "0db2be7d9a681d9847e527b6e68c162feac86545d1c37bdafd20d0a20ab1e674",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-a55a36c6d5604a22857efc532ab6c5c7.7z"
-    },
-    ["windows-x64-vc14.41.34120-10ce32f247f74afdb797ef53f373e792"] = {
-        sha256 = "704bd01a6d36b68abcaef73769e3daa18dceb76c7ed76d1f067bbe81707cf35d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-10ce32f247f74afdb797ef53f373e792.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc141-c1cd881a18964f40b516f73f6e31048c"] = {
-        sha256 = "87d8aacd9ff4f570fadc979549803179060831474edf765d3afa182ed8166a27",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-c1cd881a18964f40b516f73f6e31048c.7z"
-    },
-    ["windows-x64-vc142-e75a8831b7c1492b9acf11fc4641e087"] = {
-        sha256 = "3cdd669486bf2fd9acc09a4fce00cd195420e846f923d84897966e2f9289bce1",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-e75a8831b7c1492b9acf11fc4641e087.7z"
-    },
-    ["windows-x64-vc142-1923ff898649451eb24cb668e8277975"] = {
-        sha256 = "c3aaeed701829343dcda2b47afa0e20cd6bffba9c93583ffb50af8a77d5ad051",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-1923ff898649451eb24cb668e8277975.7z"
-    },
-    ["windows-x86-vc141-b5cb8bf0baf5415b877db604adbc3434"] = {
-        sha256 = "a69f0db9f60284b779d399bd6ba3bce2221e932cd3b471b567d9ec243e00da44",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-b5cb8bf0baf5415b877db604adbc3434.7z"
-    },
     ["windows-x64-vc14.41.34120-c9ca454718f949aaa273061056694316"] = {
         sha256 = "4f31bd35c22047d3a221d4a6cfec79d62a0ff219fc99aa39295b3347d6a44480",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-c9ca454718f949aaa273061056694316.7z",
         toolset = "14.41.34120"
     },
-    ["windows-x64-vc141-1923ff898649451eb24cb668e8277975"] = {
-        sha256 = "9f50dd59ccfd9f07a2c4a96c3d56ba78b6a73478aba4b192a7b57852f925a994",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-1923ff898649451eb24cb668e8277975.7z"
-    },
-    ["windows-x86-vc142-b5cb8bf0baf5415b877db604adbc3434"] = {
-        sha256 = "d3fcdc3bab27177834ad1bae98f2e22ef826b1199f373b6fb74744b21c3c90df",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-b5cb8bf0baf5415b877db604adbc3434.7z"
-    },
-    ["windows-x86-vc14.29.30133-e802aefe846e446f8bc2de7dc9ac65e3"] = {
-        sha256 = "b9fb79c55871b588e245c7a3cf0dfd9697dd0a3048f6f07c4e79893e16cf41d3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.29.30133-e802aefe846e446f8bc2de7dc9ac65e3.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-6fe7b6e897a449e49967ebb5cd360286"] = {
-        sha256 = "b6527be2b21a69bbdd7549194c010cae67f6ec91253804d7bb14a3863659f071",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-6fe7b6e897a449e49967ebb5cd360286.7z"
-    },
-    ["windows-x64-vc141-c695589ed4f54fc891eb1f7fd62ef988"] = {
-        sha256 = "3546c2e97e608ee7b40a661787b0c497002b7847eb8dc062dcabbc273d2b0a78",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-c695589ed4f54fc891eb1f7fd62ef988.7z"
-    },
-    ["windows-x64-vc142-c3201e6f97c246da8bc6b2d0fd3fa86f"] = {
-        sha256 = "fb45255d789b1b6e94d7aa31ef05f535f113c0c4b3557c9a61f6f27d0d8b69b3",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-c3201e6f97c246da8bc6b2d0fd3fa86f.7z"
-    },
-    ["windows-x64-vc14.29.30133-9d445f6b2d794f02b6efea07594b9411"] = {
-        sha256 = "0b86cdb211040b6d08505d40304c0084382ccbf568fead972904df038447e529",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-9d445f6b2d794f02b6efea07594b9411.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-0fd198fba0a04b8093b576c0da86fcc4"] = {
-        sha256 = "2a210dcef1fd3c971236baf47792bcb86413cebc5d2751538f49b5aeea18bcce",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.29.30133-0fd198fba0a04b8093b576c0da86fcc4.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-e802aefe846e446f8bc2de7dc9ac65e3"] = {
-        sha256 = "a5ca6d89a786b126c6ad58519a38ada0aa4ce823672896138c4257bd403ed06e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-e802aefe846e446f8bc2de7dc9ac65e3.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-10ce32f247f74afdb797ef53f373e792"] = {
-        sha256 = "7a4cdecc2f054ac235f4d1f0f09bfe69e40950b04510e06cd4816174021bbaaa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-10ce32f247f74afdb797ef53f373e792.7z",
+    ["windows-x86-vc14.29.30133-d474c7e8aca34a768f7b44413b7df7bc"] = {
+        sha256 = "9345c556ac6de9240fec7afec69de9ffb1a9c41f08a4fa5201b346af17a6a39c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.29.30133-d474c7e8aca34a768f7b44413b7df7bc.7z",
         toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-df88e37d30184bd49aaa1f40dcffa870"] = {
@@ -150,13 +15,188 @@
         toolset = "14.29.30133"
     },
     ["windows-x86-vc141-6fe7b6e897a449e49967ebb5cd360286"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-6fe7b6e897a449e49967ebb5cd360286.7z",
         sha256 = "07137a94724f5b9cfa9e984a5609856578dcde25071420ddbb074e650527685a",
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-6fe7b6e897a449e49967ebb5cd360286.7z"
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-c1cd881a18964f40b516f73f6e31048c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-c1cd881a18964f40b516f73f6e31048c.7z",
+        sha256 = "5395aee355947262167fa6ad69055e880cc51daabfd662057ef9a9d98d419431",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-3c78b6ee5f57476d89cfde5b3ede3e29"] = {
+        sha256 = "6bc04ba5f633b29a75153e28ead77de8a3398255c5467b30dfd6e2fe5dc9b1df",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-3c78b6ee5f57476d89cfde5b3ede3e29.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc141-a55a36c6d5604a22857efc532ab6c5c7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-a55a36c6d5604a22857efc532ab6c5c7.7z",
+        sha256 = "0db2be7d9a681d9847e527b6e68c162feac86545d1c37bdafd20d0a20ab1e674",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.44.35207-a564cc249540454a865c2ccbf53a9688"] = {
+        sha256 = "472df14e3dbff6f95cffece3c2f7efbbe7858df21961e65f99abaed92067bf76",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.44.35207-a564cc249540454a865c2ccbf53a9688.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-c9ca454718f949aaa273061056694316"] = {
+        sha256 = "5e9e574df859b36a2b4b1893596300af9b3020169ab067f6679376e6268c6d49",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-c9ca454718f949aaa273061056694316.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-1923ff898649451eb24cb668e8277975"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-1923ff898649451eb24cb668e8277975.7z",
+        sha256 = "c3aaeed701829343dcda2b47afa0e20cd6bffba9c93583ffb50af8a77d5ad051",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-10ce32f247f74afdb797ef53f373e792"] = {
+        sha256 = "7a4cdecc2f054ac235f4d1f0f09bfe69e40950b04510e06cd4816174021bbaaa",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-10ce32f247f74afdb797ef53f373e792.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-0fd198fba0a04b8093b576c0da86fcc4"] = {
+        sha256 = "2a210dcef1fd3c971236baf47792bcb86413cebc5d2751538f49b5aeea18bcce",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.29.30133-0fd198fba0a04b8093b576c0da86fcc4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-9d445f6b2d794f02b6efea07594b9411"] = {
+        sha256 = "0b86cdb211040b6d08505d40304c0084382ccbf568fead972904df038447e529",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-9d445f6b2d794f02b6efea07594b9411.7z",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.41.34120-d474c7e8aca34a768f7b44413b7df7bc"] = {
         sha256 = "4a0dd4cd9332204503743b3ff21a3b5f2280325587bcfba04f5318a0d1f38e8d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-d474c7e8aca34a768f7b44413b7df7bc.7z",
         toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.44.35207-00ac4e00ab6e48a68340559d7e8ebc1f"] = {
+        sha256 = "0523cd55362e2f3cda7e999cc4157a3979c04c5edaf432faf1b07ef504f0d996",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.44.35207-00ac4e00ab6e48a68340559d7e8ebc1f.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-1c161e78bd3346fd803b6d1713ba7810"] = {
+        sha256 = "031f14ccbaa4b209c0b42c92822da1bb662a913e0d202f5d11647964fb470654",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.44.35207-1c161e78bd3346fd803b6d1713ba7810.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-603bd9f55dc34c4c8ff974b6262d8b1d"] = {
+        sha256 = "a89edad870ea6e45f6ee2467ff120d0229efb3f3d940c0e96da4bf6c0a853a03",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.44.35207-603bd9f55dc34c4c8ff974b6262d8b1d.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-ce37b39432e9430fbca34fe8e331eec8"] = {
+        sha256 = "a103cce634bc5a40c3628cac5249fdc496767fa6d31b4df30250fe4a1655755f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.44.35207-ce37b39432e9430fbca34fe8e331eec8.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.41.34120-df88e37d30184bd49aaa1f40dcffa870"] = {
+        sha256 = "210a701dcbf473e13c48f0662200159e1ac30ef449692149a1ffcfa88cae3010",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-df88e37d30184bd49aaa1f40dcffa870.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc142-a55a36c6d5604a22857efc532ab6c5c7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-a55a36c6d5604a22857efc532ab6c5c7.7z",
+        sha256 = "bc2dcfbe47755069868b4b3baf360b70d864ed7fe9d5635f4469b5add3c8a9cc",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-e75a8831b7c1492b9acf11fc4641e087"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-e75a8831b7c1492b9acf11fc4641e087.7z",
+        sha256 = "3cdd669486bf2fd9acc09a4fce00cd195420e846f923d84897966e2f9289bce1",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-4694d536eedc4d13974160fb26bcf9a7"] = {
+        sha256 = "4654ead6766d1c1a0e5a0735409b7b92da2127c6bafd7be4e8be9376c96162cd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.44.35207-4694d536eedc4d13974160fb26bcf9a7.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc141-e75a8831b7c1492b9acf11fc4641e087"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-e75a8831b7c1492b9acf11fc4641e087.7z",
+        sha256 = "b33e178e616addf1eb0bf02f8cf0d25910c51ef1cb461312a8bd98cd61607898",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc14.41.34120-9d445f6b2d794f02b6efea07594b9411"] = {
+        sha256 = "d52d9802b378833016709ee2dfc6e7d147db229b7f1813c86959c4198ffddcb5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-9d445f6b2d794f02b6efea07594b9411.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.44.35207-9607dc7cea564fed8b557735b8ee588b"] = {
+        sha256 = "73ea827e9b00301b8757fcbf89edd2c9a42d0d766098411bc123ad7e8803d6fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.44.35207-9607dc7cea564fed8b557735b8ee588b.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc141-b5cb8bf0baf5415b877db604adbc3434"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-b5cb8bf0baf5415b877db604adbc3434.7z",
+        sha256 = "a69f0db9f60284b779d399bd6ba3bce2221e932cd3b471b567d9ec243e00da44",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc141-c695589ed4f54fc891eb1f7fd62ef988"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-c695589ed4f54fc891eb1f7fd62ef988.7z",
+        sha256 = "3546c2e97e608ee7b40a661787b0c497002b7847eb8dc062dcabbc273d2b0a78",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc142-6fe7b6e897a449e49967ebb5cd360286"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-6fe7b6e897a449e49967ebb5cd360286.7z",
+        sha256 = "b6527be2b21a69bbdd7549194c010cae67f6ec91253804d7bb14a3863659f071",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-c3201e6f97c246da8bc6b2d0fd3fa86f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-c3201e6f97c246da8bc6b2d0fd3fa86f.7z",
+        sha256 = "a5c4dbf8ab37c31fbb9012605e5ce7710b768b8f05d37fdc54bc6e95b46940a5",
+        toolset = "14.16.27023"
+    },
+    ["windows-x86-vc14.41.34120-e802aefe846e446f8bc2de7dc9ac65e3"] = {
+        sha256 = "a5ca6d89a786b126c6ad58519a38ada0aa4ce823672896138c4257bd403ed06e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-e802aefe846e446f8bc2de7dc9ac65e3.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-10ce32f247f74afdb797ef53f373e792"] = {
+        sha256 = "704bd01a6d36b68abcaef73769e3daa18dceb76c7ed76d1f067bbe81707cf35d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.41.34120-10ce32f247f74afdb797ef53f373e792.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-e802aefe846e446f8bc2de7dc9ac65e3"] = {
+        sha256 = "b9fb79c55871b588e245c7a3cf0dfd9697dd0a3048f6f07c4e79893e16cf41d3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.29.30133-e802aefe846e446f8bc2de7dc9ac65e3.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc141-1923ff898649451eb24cb668e8277975"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc141-1923ff898649451eb24cb668e8277975.7z",
+        sha256 = "9f50dd59ccfd9f07a2c4a96c3d56ba78b6a73478aba4b192a7b57852f925a994",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-c3201e6f97c246da8bc6b2d0fd3fa86f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-c3201e6f97c246da8bc6b2d0fd3fa86f.7z",
+        sha256 = "fb45255d789b1b6e94d7aa31ef05f535f113c0c4b3557c9a61f6f27d0d8b69b3",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc141-c1cd881a18964f40b516f73f6e31048c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc141-c1cd881a18964f40b516f73f6e31048c.7z",
+        sha256 = "87d8aacd9ff4f570fadc979549803179060831474edf765d3afa182ed8166a27",
+        toolset = "14.16.27023"
+    },
+    ["windows-x64-vc142-c695589ed4f54fc891eb1f7fd62ef988"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc142-c695589ed4f54fc891eb1f7fd62ef988.7z",
+        sha256 = "4fcc024e654d62f369ad6d364a635e2b90e29d2ae02659f66fe4546373724c93",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-004a471b97be48f387f1cf7fd4428dd3"] = {
+        sha256 = "98dbe92e630cd8d35ce2ce2d2515a6fb2e7d5becf260d5b53880a32a8fe70990",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.44.35207-004a471b97be48f387f1cf7fd4428dd3.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc142-b5cb8bf0baf5415b877db604adbc3434"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc142-b5cb8bf0baf5415b877db604adbc3434.7z",
+        sha256 = "d3fcdc3bab27177834ad1bae98f2e22ef826b1199f373b6fb74744b21c3c90df",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-0fd198fba0a04b8093b576c0da86fcc4"] = {
+        sha256 = "b7795f358f28b099f55a41d57cbaf3e30f065aa084a8b921abe23feb8884c93d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x86-vc14.41.34120-0fd198fba0a04b8093b576c0da86fcc4.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-3c78b6ee5f57476d89cfde5b3ede3e29"] = {
+        sha256 = "5ee931d81e0437144a08b6ef1bce8e72fe62a7229807e370fc02f471c4b56f4e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/fftw-3.3.10/windows-x64-vc14.29.30133-3c78b6ee5f57476d89cfde5b3ede3e29.7z",
+        toolset = "14.29.30133"
     }
 }
