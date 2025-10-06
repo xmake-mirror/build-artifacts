@@ -1,172 +1,27 @@
 {
-    ["windows-x64-vc14.41.34120-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "b3653e370c7ba74d04eff03ff004ae366bbf1410159a70e027e42f2c75f0b60b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-195ed04bdfdf4c139e41bb995a15558e.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.38.33130-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "60f346f575d25d5217e40296a4e7be6cd7b579567e941e7fde21b3a63bf63ad0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.39.33519-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "549055d7d21ea460642dc084e83423c526c980d613e296056fae80ad823328c1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "c66c12a383ced534d9c027d072c1508efe3466d88150319cb23da0105f0e46b4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.29.30133-195ed04bdfdf4c139e41bb995a15558e.7z",
+    ["windows-x86-vc14.29.30133-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "9c556a422cb3a7c4efc4d6a2820b5b141f23b79cae5c4a7107535e3f2428fa81",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-d753f0557a6d4451804c0303a8e1ba9a.7z",
         toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.42.34433-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "2c8ed8cac1eb25f5c60c4319957d38ba187a4d99ddfd0b1542e2712a974ddd7a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-5168080815b44e98961e2853496c2545.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.40.33807-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "bfb038fc69c95b0c0a08abbb192c0827dcd807c41e0e8de988b3c127290b68d1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.38.33130-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "83a24d6ce52a8d84b51ab2ccbb1ffd45cd2a0597e0ce587ecff3adf91376ddac",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-1e34e06f601146859989c90fc398a9a8.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.40.33807-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "510028fb7bb456ba963496da5ad23f6c2c4e32a85bb9e439a5d4713ee910bbd6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-17973491a18f45ef906887ef539fad37.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.44.35207-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "c56ed3d174ceb460c908dbf2d409b772152015a10dacdc085f26b32d2f478dbb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-1e34e06f601146859989c90fc398a9a8.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "8ab341f56034cc0d1cda1a92bcdc7830e992370cd8685ea0c20341abac14e5d0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-5168080815b44e98961e2853496c2545.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.42.34433-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "38d3ebe8f2c88f56ba1b1af944177783cf0172aff587d7dca4e1b87eed4d45a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.41.34120-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "85dc470516ccc51ceb7e2eb86ef2749f1e9028136fc1c900352ed9c8c19aaa31",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-17973491a18f45ef906887ef539fad37.7z",
-        toolset = "14.41.34120"
     },
     ["windows-x64-vc14.40.33807-195ed04bdfdf4c139e41bb995a15558e"] = {
         sha256 = "3427ee02db20b9820af669421922dd9aa6825bfca2a2899a5f61f140efbea656",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-195ed04bdfdf4c139e41bb995a15558e.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.39.33519-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "7fd4204730c96612dc46d95be904a8a032fe90f77ebcd71f09ff5691b8111acd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-d753f0557a6d4451804c0303a8e1ba9a.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.43.34808-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "9b8695ce4858468d0ec357a9079b5c613aec9fde32d7000e3d78dbe73cbdd721",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-d3eb01087c5e4d7eab9c78f930cdf370.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.44.35207-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "5ed2db5baad1dfbcfacfe5c32cfe81160f51f97c30bda0fef4af0b91c5e619da",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-17973491a18f45ef906887ef539fad37.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.43.34808-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "54456f49e1193c3380c96dd02f140afeae9ec96762c9752deac50f08d9ea6ef0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-d753f0557a6d4451804c0303a8e1ba9a.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "7cf2af1289feed35e905841ed4856ba2ed26bee726c085874b80988db0761ca1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.29.30133-1e34e06f601146859989c90fc398a9a8.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.38.33130-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "96c60e602f53bfc18adc3d3f9a844fda93957e32a0593560a1910559d4dd60be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-d753f0557a6d4451804c0303a8e1ba9a.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.41.34120-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "a6016205d9efd665f5c6f0b38a7d9aee07ef4eb710915ea21e65f3e16f4a2121",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "9c556a422cb3a7c4efc4d6a2820b5b141f23b79cae5c4a7107535e3f2428fa81",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-d753f0557a6d4451804c0303a8e1ba9a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "4962589b8bbd43f8b1f0c70672823ba5922325551de372183f5bb1bafb5cc588",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.39.33519-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "a512c1abcfea77cef45aeb4bc35a76b84c5677b6d6c0e7eae9ba67d412013f17",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.39.33519-195ed04bdfdf4c139e41bb995a15558e.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.43.34808-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "df01ef7c5c7105ee6ce16964987f5e435d0c16362404b06b8cc757fd21288190",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-17973491a18f45ef906887ef539fad37.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.44.35207-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "c869bdc8f3e94738c46016039384f0e5b3aa0459ce7a770513644fa1d7917feb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-d3eb01087c5e4d7eab9c78f930cdf370.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.42.34433-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "9b50bfb99f23f7c08b2432c0dd14d0e448cb70a5c6654ff6c3f196d5b38251ab",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-d753f0557a6d4451804c0303a8e1ba9a.7z",
+    ["windows-x64-vc14.42.34433-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "72cbe64b9b823e4fd91f3780ec49313e3d8b64916e0de34628e59071422cd61a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-5dc423ca72aa4c59944349441d02e5c3.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x86-vc14.29.30133-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "6a4d441ad400aaccc6736eb13c1393989415328a8e57e6f76f019205148549fe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.44.35207-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "8e358b8dee4fea3b34d0c724d9b3c932d8b37d788ac2f9947a9ed20956b5732d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-1e34e06f601146859989c90fc398a9a8.7z",
+        toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.40.33807-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "59676ac0fb3bb6ab50fa9345b342617ae9aae6a2d88748e864f931cde4c3cae0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-d3eb01087c5e4d7eab9c78f930cdf370.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.38.33130-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "f1387120b85ce4bb1583e004eb3efedde0f97bad8504e0bb1c16b5626621ad1e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-195ed04bdfdf4c139e41bb995a15558e.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.38.33130-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "03c24c0db09bba38bcda68da5f0ffd8e6598e6876c1265f0917e8410ee35e234",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-17973491a18f45ef906887ef539fad37.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.43.34808-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "65e5e12e1b699333e28c6b2b35b2146e8948e43c355f7d5e9714ddfcea2ec9bb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-195ed04bdfdf4c139e41bb995a15558e.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "2702ed2924448a57bbfeeb0614d8dfced0df21a3e52de26c8a38d52946a4be8b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.42.34433-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "28f5de676f9162e3b22c9d837d17f92c10f395e3cceb0225754a6af8bf8ce52e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-195ed04bdfdf4c139e41bb995a15558e.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.29.30133-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "b2a71efad7523266e1601b599aa16db414dc51dad751d1e368c70ca93038c6b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-17973491a18f45ef906887ef539fad37.7z",
+    ["windows-x64-vc14.29.30133-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "a03651270178588f688bfdc64353e590d1d8004c8be3e39ba84d9797b81fcaf0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.29.30133-5168080815b44e98961e2853496c2545.7z",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc14.39.33519-5168080815b44e98961e2853496c2545"] = {
@@ -174,60 +29,25 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.39.33519-5168080815b44e98961e2853496c2545.7z",
         toolset = "14.39.33519"
     },
-    ["windows-x86-vc14.38.33130-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "0e5f1ea9dd76a0edb7a6d8fdd70975d5baf9893df2172396f91c94b5de0ebe2a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.41.34120-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "fb54fd1452ad464e820a34e5ecec059e6e23eb917b163ecb08ed4141c107ff8c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-1e34e06f601146859989c90fc398a9a8.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.44.35207-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "a61cf5d21a658acfbe3e42b16ea930e88c1a3cbd1bcd859f0298b7576487aefe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.43.34808-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "f09793ec6c8c1e58ca3aa30a35ad0e9eddcdc3d0fbc055f387c3ea09e641c2c2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-5168080815b44e98961e2853496c2545.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.44.35207-5da51f988d3949cf8d73d43f1343c8dc"] = {
-        sha256 = "3ec357a9a3c582d926da58884b1b06b32900c531527f4af33075ef122640a83b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-5da51f988d3949cf8d73d43f1343c8dc.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.42.34433-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "9a609800b31dc17e0e752be28dfc40dbc0a5f90dc9f50c4d0c48e1c5999a8596",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-d3eb01087c5e4d7eab9c78f930cdf370.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.41.34120-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "a026c7117a39e3f0917a1c01e8a764d3e72a60eb9d5396a1d6cbf705b10fa8af",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.44.35207-195ed04bdfdf4c139e41bb995a15558e"] = {
-        sha256 = "422d2f46feff920dadffb21839f7bfd559593ac1f30e318d6d944b2127d2865a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-195ed04bdfdf4c139e41bb995a15558e.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.43.34808-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "9d7dbdddf7a182920cbca09027f7768ca80f8437a03c95bbc0bab60ce82674f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-1e34e06f601146859989c90fc398a9a8.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.40.33807-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "9686102fb1c8e4bb6106430d09b199caa7b7b4233ae8c1a5c55e7fefe81d78fc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-1e34e06f601146859989c90fc398a9a8.7z",
+    ["windows-x86-vc14.40.33807-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "510028fb7bb456ba963496da5ad23f6c2c4e32a85bb9e439a5d4713ee910bbd6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-17973491a18f45ef906887ef539fad37.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.41.34120-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "1132ecf3f752481ee5298f2dbfb66adb1956258d25c667dd04fd65adb497c47b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-d753f0557a6d4451804c0303a8e1ba9a.7z",
+    ["windows-x86-vc14.43.34808-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "54456f49e1193c3380c96dd02f140afeae9ec96762c9752deac50f08d9ea6ef0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-d753f0557a6d4451804c0303a8e1ba9a.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.41.34120-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "a6016205d9efd665f5c6f0b38a7d9aee07ef4eb710915ea21e65f3e16f4a2121",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-5da51f988d3949cf8d73d43f1343c8dc.7z",
         toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.39.33519-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "ff6bb98e40f0b0c462c528843091a59c6cd270b7bca45d7e521bf5267b76d6a0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+        toolset = "14.39.33519"
     },
     ["windows-x64-vc14.29.30133-5dc423ca72aa4c59944349441d02e5c3"] = {
         sha256 = "c66d682a9f047123fbe81f9f39fb935b0f18099c283f97c6abe237333463fe3f",
@@ -239,59 +59,74 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-17973491a18f45ef906887ef539fad37.7z",
         toolset = "14.39.33519"
     },
-    ["windows-x86-vc14.42.34433-17973491a18f45ef906887ef539fad37"] = {
-        sha256 = "8c22b0932ae3903a66b97bf24be28e803323c1ff8b7a6af6a07ab542533528e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-17973491a18f45ef906887ef539fad37.7z",
+    ["windows-x86-vc14.42.34433-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "9a609800b31dc17e0e752be28dfc40dbc0a5f90dc9f50c4d0c48e1c5999a8596",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-d3eb01087c5e4d7eab9c78f930cdf370.7z",
         toolset = "14.42.34433"
     },
-    ["windows-x86-vc14.29.30133-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "bd0a8ba31eb0517a115690c878148f4fed290e21caec905eccef3c0cc979e767",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-d3eb01087c5e4d7eab9c78f930cdf370.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "0bb78ee6113223e2d15a6de6a3d4a71620ad384fa25780df056ba491e556e186",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-5168080815b44e98961e2853496c2545.7z",
+    ["windows-x86-vc14.40.33807-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "59676ac0fb3bb6ab50fa9345b342617ae9aae6a2d88748e864f931cde4c3cae0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-d3eb01087c5e4d7eab9c78f930cdf370.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.42.34433-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "72cbe64b9b823e4fd91f3780ec49313e3d8b64916e0de34628e59071422cd61a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.38.33130-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "2e13cce8b7c577f9ec213632fa2d36b696e1260ec43d008db4fe398b5c1e2cb5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+    ["windows-x64-vc14.38.33130-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "83a24d6ce52a8d84b51ab2ccbb1ffd45cd2a0597e0ce587ecff3adf91376ddac",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-1e34e06f601146859989c90fc398a9a8.7z",
         toolset = "14.38.33130"
     },
-    ["windows-x64-vc14.41.34120-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "ce8ddc1ce7d4cc5123a0793c9def840218d9b60ce0782f46ca7a38c753b0bb7e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-5168080815b44e98961e2853496c2545.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.39.33519-d3eb01087c5e4d7eab9c78f930cdf370"] = {
-        sha256 = "ff6bb98e40f0b0c462c528843091a59c6cd270b7bca45d7e521bf5267b76d6a0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+    ["windows-x86-vc14.39.33519-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "549055d7d21ea460642dc084e83423c526c980d613e296056fae80ad823328c1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-5da51f988d3949cf8d73d43f1343c8dc.7z",
         toolset = "14.39.33519"
     },
-    ["windows-x64-vc14.29.30133-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "a03651270178588f688bfdc64353e590d1d8004c8be3e39ba84d9797b81fcaf0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.29.30133-5168080815b44e98961e2853496c2545.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-5dc423ca72aa4c59944349441d02e5c3"] = {
-        sha256 = "fbb8aa036afa3d278cc40b13ad7614a5ef0cc5faab380857d28b9cf72b6f768b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.39.33519-5dc423ca72aa4c59944349441d02e5c3.7z",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.44.35207-d753f0557a6d4451804c0303a8e1ba9a"] = {
-        sha256 = "402a9a00fc45d9aff524994705fc26ae78ff8f7ee58208b273eafe84890d4d70",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-d753f0557a6d4451804c0303a8e1ba9a.7z",
+    ["windows-x86-vc14.44.35207-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "dce247aaa7524dcaef43a3fdf197350eea87b546223f22abe367fd8185a0cf26",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-5da51f988d3949cf8d73d43f1343c8dc.7z",
         toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "9b8695ce4858468d0ec357a9079b5c613aec9fde32d7000e3d78dbe73cbdd721",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.41.34120-d3eb01087c5e4d7eab9c78f930cdf370"] = {
         sha256 = "b626b975107c4ad935f37588b96123666d791599fca210fa1c1b869f14ad7a30",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.42.34433-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "28f5de676f9162e3b22c9d837d17f92c10f395e3cceb0225754a6af8bf8ce52e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-195ed04bdfdf4c139e41bb995a15558e.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.43.34808-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "2702ed2924448a57bbfeeb0614d8dfced0df21a3e52de26c8a38d52946a4be8b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-5dc423ca72aa4c59944349441d02e5c3.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "bd31fd9eca729f2d4c95f2dc5b0c16341d53cb270990d540573524c18ac28a21",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-5dc423ca72aa4c59944349441d02e5c3.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "f8b9e64094ef236fbfd94785f6572c3d90a7a679b07cb1ebf8fe1921c520ac37",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.38.33130-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "f61d444d38966251d08daa74971332e5359a58dbf574eccfc8eab92f6ad9bb22",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-5168080815b44e98961e2853496c2545.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.44.35207-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "e0c6f0b15df1c42f6fb5c9c3a4291c913121cdc4de93bc08e4b2adccc0be4f1b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-195ed04bdfdf4c139e41bb995a15558e.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.41.34120-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "fb54fd1452ad464e820a34e5ecec059e6e23eb917b163ecb08ed4141c107ff8c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-1e34e06f601146859989c90fc398a9a8.7z",
         toolset = "14.41.34120"
     },
     ["windows-x86-vc14.43.34808-5da51f988d3949cf8d73d43f1343c8dc"] = {
@@ -299,24 +134,189 @@
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-5da51f988d3949cf8d73d43f1343c8dc.7z",
         toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.42.34433-1e34e06f601146859989c90fc398a9a8"] = {
-        sha256 = "04eade23ec4f899db3023fb3a390a737b4f1fad2661d52b6e89773c5e16198b8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-1e34e06f601146859989c90fc398a9a8.7z",
-        toolset = "14.42.34433"
+    ["windows-x86-vc14.44.35207-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "5040b230a8d26cd83484f6f00eef18097d0342d4a949c60afb29a0d315137a5f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-17973491a18f45ef906887ef539fad37.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.39.33519-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "a512c1abcfea77cef45aeb4bc35a76b84c5677b6d6c0e7eae9ba67d412013f17",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.39.33519-195ed04bdfdf4c139e41bb995a15558e.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.38.33130-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "96c60e602f53bfc18adc3d3f9a844fda93957e32a0593560a1910559d4dd60be",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-d753f0557a6d4451804c0303a8e1ba9a.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.39.33519-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "7fd4204730c96612dc46d95be904a8a032fe90f77ebcd71f09ff5691b8111acd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.39.33519-d753f0557a6d4451804c0303a8e1ba9a.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.41.34120-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "b3653e370c7ba74d04eff03ff004ae366bbf1410159a70e027e42f2c75f0b60b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-195ed04bdfdf4c139e41bb995a15558e.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.41.34120-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "ce8ddc1ce7d4cc5123a0793c9def840218d9b60ce0782f46ca7a38c753b0bb7e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-5168080815b44e98961e2853496c2545.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.41.34120-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "85dc470516ccc51ceb7e2eb86ef2749f1e9028136fc1c900352ed9c8c19aaa31",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-17973491a18f45ef906887ef539fad37.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.29.30133-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "6a4d441ad400aaccc6736eb13c1393989415328a8e57e6f76f019205148549fe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-5da51f988d3949cf8d73d43f1343c8dc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.38.33130-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "03c24c0db09bba38bcda68da5f0ffd8e6598e6876c1265f0917e8410ee35e234",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-17973491a18f45ef906887ef539fad37.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.41.34120-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "1132ecf3f752481ee5298f2dbfb66adb1956258d25c667dd04fd65adb497c47b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.41.34120-d753f0557a6d4451804c0303a8e1ba9a.7z",
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.40.33807-d753f0557a6d4451804c0303a8e1ba9a"] = {
         sha256 = "1660077bd310ff3b6edc616e860bd69e1e26237a047398e6e4de58fe08b53de7",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-d753f0557a6d4451804c0303a8e1ba9a.7z",
         toolset = "14.40.33807"
     },
-    ["windows-x64-vc14.38.33130-5168080815b44e98961e2853496c2545"] = {
-        sha256 = "f61d444d38966251d08daa74971332e5359a58dbf574eccfc8eab92f6ad9bb22",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-5168080815b44e98961e2853496c2545.7z",
+    ["windows-x64-vc14.42.34433-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "2c8ed8cac1eb25f5c60c4319957d38ba187a4d99ddfd0b1542e2712a974ddd7a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-5168080815b44e98961e2853496c2545.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.42.34433-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "04eade23ec4f899db3023fb3a390a737b4f1fad2661d52b6e89773c5e16198b8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.42.34433-1e34e06f601146859989c90fc398a9a8.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.43.34808-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "f09793ec6c8c1e58ca3aa30a35ad0e9eddcdc3d0fbc055f387c3ea09e641c2c2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-5168080815b44e98961e2853496c2545.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.38.33130-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "f1387120b85ce4bb1583e004eb3efedde0f97bad8504e0bb1c16b5626621ad1e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-195ed04bdfdf4c139e41bb995a15558e.7z",
         toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.29.30133-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "7cf2af1289feed35e905841ed4856ba2ed26bee726c085874b80988db0761ca1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.29.30133-1e34e06f601146859989c90fc398a9a8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "de85d4de718f64bff31b2f7562fab0837b0e9715a1cdc39222d864bc8ce4728f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.44.35207-d753f0557a6d4451804c0303a8e1ba9a.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.42.34433-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "8c22b0932ae3903a66b97bf24be28e803323c1ff8b7a6af6a07ab542533528e6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-17973491a18f45ef906887ef539fad37.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x64-vc14.40.33807-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "9686102fb1c8e4bb6106430d09b199caa7b7b4233ae8c1a5c55e7fefe81d78fc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-1e34e06f601146859989c90fc398a9a8.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.29.30133-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "bd0a8ba31eb0517a115690c878148f4fed290e21caec905eccef3c0cc979e767",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "65e5e12e1b699333e28c6b2b35b2146e8948e43c355f7d5e9714ddfcea2ec9bb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-195ed04bdfdf4c139e41bb995a15558e.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "c401010e4bf325027e47f948cf7b9ad21870f00a6cdca3ef7c670e96ce37a9f6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.44.35207-5168080815b44e98961e2853496c2545.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.39.33519-1e34e06f601146859989c90fc398a9a8"] = {
         sha256 = "d9e385103202bd3836c8863978f7249fb12176fdf346c06f8da694f47b73170b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.39.33519-1e34e06f601146859989c90fc398a9a8.7z",
         toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.29.30133-195ed04bdfdf4c139e41bb995a15558e"] = {
+        sha256 = "c66c12a383ced534d9c027d072c1508efe3466d88150319cb23da0105f0e46b4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.29.30133-195ed04bdfdf4c139e41bb995a15558e.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.42.34433-d753f0557a6d4451804c0303a8e1ba9a"] = {
+        sha256 = "9b50bfb99f23f7c08b2432c0dd14d0e448cb70a5c6654ff6c3f196d5b38251ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-d753f0557a6d4451804c0303a8e1ba9a.7z",
+        toolset = "14.42.34433"
+    },
+    ["windows-x86-vc14.43.34808-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "df01ef7c5c7105ee6ce16964987f5e435d0c16362404b06b8cc757fd21288190",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.43.34808-17973491a18f45ef906887ef539fad37.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-1e34e06f601146859989c90fc398a9a8"] = {
+        sha256 = "9d7dbdddf7a182920cbca09027f7768ca80f8437a03c95bbc0bab60ce82674f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.43.34808-1e34e06f601146859989c90fc398a9a8.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.39.33519-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "fbb8aa036afa3d278cc40b13ad7614a5ef0cc5faab380857d28b9cf72b6f768b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.39.33519-5dc423ca72aa4c59944349441d02e5c3.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.38.33130-d3eb01087c5e4d7eab9c78f930cdf370"] = {
+        sha256 = "2e13cce8b7c577f9ec213632fa2d36b696e1260ec43d008db4fe398b5c1e2cb5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-d3eb01087c5e4d7eab9c78f930cdf370.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.29.30133-17973491a18f45ef906887ef539fad37"] = {
+        sha256 = "b2a71efad7523266e1601b599aa16db414dc51dad751d1e368c70ca93038c6b0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.29.30133-17973491a18f45ef906887ef539fad37.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.40.33807-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "bfb038fc69c95b0c0a08abbb192c0827dcd807c41e0e8de988b3c127290b68d1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-5dc423ca72aa4c59944349441d02e5c3.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-5168080815b44e98961e2853496c2545"] = {
+        sha256 = "0bb78ee6113223e2d15a6de6a3d4a71620ad384fa25780df056ba491e556e186",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.40.33807-5168080815b44e98961e2853496c2545.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "4962589b8bbd43f8b1f0c70672823ba5922325551de372183f5bb1bafb5cc588",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.40.33807-5da51f988d3949cf8d73d43f1343c8dc.7z",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.38.33130-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "0e5f1ea9dd76a0edb7a6d8fdd70975d5baf9893df2172396f91c94b5de0ebe2a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.38.33130-5da51f988d3949cf8d73d43f1343c8dc.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "60f346f575d25d5217e40296a4e7be6cd7b579567e941e7fde21b3a63bf63ad0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.38.33130-5dc423ca72aa4c59944349441d02e5c3.7z",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.41.34120-5dc423ca72aa4c59944349441d02e5c3"] = {
+        sha256 = "a026c7117a39e3f0917a1c01e8a764d3e72a60eb9d5396a1d6cbf705b10fa8af",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x64-vc14.41.34120-5dc423ca72aa4c59944349441d02e5c3.7z",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc14.42.34433-5da51f988d3949cf8d73d43f1343c8dc"] = {
+        sha256 = "38d3ebe8f2c88f56ba1b1af944177783cf0172aff587d7dca4e1b87eed4d45a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/imgui-file-dialog-v0.6.7/windows-x86-vc14.42.34433-5da51f988d3949cf8d73d43f1343c8dc.7z",
+        toolset = "14.42.34433"
     }
 }
