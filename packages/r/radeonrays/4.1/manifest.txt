@@ -1,122 +1,122 @@
 {
-    ["windows-x64-vc14.44.35207-4510d2a8c2304d4cb827d8c34264c33d"] = {
-        sha256 = "4f05f7fe4b1f0ebba84bbc6f7ef293375292655a69113250442b779a75d18b88",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-4510d2a8c2304d4cb827d8c34264c33d.7z"
-    },
-    ["windows-x64-vc14.44.35207-6e49b5cf41ab4930b52d348269f0cc9f"] = {
-        sha256 = "dc48424d063c48992799c8534937cecdc519d6e15d1b909f27837daa91721234",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-6e49b5cf41ab4930b52d348269f0cc9f.7z"
+    ["windows-x86-vc14.43.34808-2b1c8e16899b4d04a046c5843c7988bb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-2b1c8e16899b4d04a046c5843c7988bb.7z",
+        sha256 = "5680007ec4d9374d38dee3f8f20b1300d2d82172398dcc1d820c656b7e4c5fbd",
+        toolset = "14.43.34808"
     },
     ["windows-x86-vc14.44.35207-2b1c8e16899b4d04a046c5843c7988bb"] = {
-        sha256 = "7f833fa63423db4eccbe97b07de5377fd908328c13e4bbde6d2101c1fd373a79",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-2b1c8e16899b4d04a046c5843c7988bb.7z"
-    },
-    ["windows-x64-vc14.44.35207-b0334309e9384e3ab20860f98652f5d2"] = {
-        sha256 = "e229b860c65bb18b657a0ef78cf4f472bd20d2bf975b81ce286d6bfcfde11012",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-b0334309e9384e3ab20860f98652f5d2.7z"
-    },
-    ["windows-x64-vc14.43.34808-6e49b5cf41ab4930b52d348269f0cc9f"] = {
-        sha256 = "c66e5fc5d9ea3f1caaab0fd2159b3973821c03c77b12b0d8b67ac6cb47b0c912",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-6e49b5cf41ab4930b52d348269f0cc9f.7z"
-    },
-    ["windows-x86-vc14.43.34808-2b1c8e16899b4d04a046c5843c7988bb"] = {
-        sha256 = "5680007ec4d9374d38dee3f8f20b1300d2d82172398dcc1d820c656b7e4c5fbd",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-2b1c8e16899b4d04a046c5843c7988bb.7z"
-    },
-    ["windows-x64-vc14.43.34808-5d6bcb4a38394ad898dfd5837e964680"] = {
-        sha256 = "041c28b4ebf6e07ee8d303613b07c1a06bb86358db4b59fe3cc6d789d152d6ed",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-5d6bcb4a38394ad898dfd5837e964680.7z"
-    },
-    ["windows-x64-vc14.29.30133-b0334309e9384e3ab20860f98652f5d2"] = {
-        sha256 = "f20878bf328005d0292d8b6a57e7f33d39baafa9d1b832f880a82595bd99ef0b",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-b0334309e9384e3ab20860f98652f5d2.7z"
-    },
-    ["windows-x86-vc14.44.35207-2b4aab94f1ae42e3b470d5053cf93703"] = {
-        sha256 = "6258e6b6d1f503d9d51c414646d5a77f98dfa15aa77afab638c9a9f2c6110328",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-2b4aab94f1ae42e3b470d5053cf93703.7z"
-    },
-    ["windows-x64-vc14.29.30133-6e49b5cf41ab4930b52d348269f0cc9f"] = {
-        sha256 = "2f118c9da1a93091b516b8fffcee8a163690796367faf5f552ecc5c655d5012c",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-6e49b5cf41ab4930b52d348269f0cc9f.7z"
-    },
-    ["windows-x64-vc14.43.34808-b0334309e9384e3ab20860f98652f5d2"] = {
-        sha256 = "940e36ad1e1a3f7d5e99eccae4c8c260ea588d0e38d71235c8047aeff7a3e609",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-b0334309e9384e3ab20860f98652f5d2.7z"
-    },
-    ["windows-x64-vc14.43.34808-4510d2a8c2304d4cb827d8c34264c33d"] = {
-        sha256 = "1c4121f24eed205612330bebd70f562a83573f9ca2293fd3b348875e55a2b429",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-4510d2a8c2304d4cb827d8c34264c33d.7z"
-    },
-    ["windows-x86-vc14.29.30133-2b4aab94f1ae42e3b470d5053cf93703"] = {
-        sha256 = "9f9c77d015beccf0b693f985040e33b61d9067079fb996375484a34ca3df086d",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-2b4aab94f1ae42e3b470d5053cf93703.7z"
-    },
-    ["windows-x86-vc14.44.35207-8139399626084a4b804bdbd1f6ff3b7a"] = {
-        sha256 = "f2e747f06da6ab36481a0a70b34fd34cfe984594c3cd3a6d88c806647e597857",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-8139399626084a4b804bdbd1f6ff3b7a.7z"
-    },
-    ["windows-x86-vc14.43.34808-2b4aab94f1ae42e3b470d5053cf93703"] = {
-        sha256 = "d57e9e42eccd74609fef83bd23268e56a2cb2b251d6d6a3434b2eb18b73d36ff",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-2b4aab94f1ae42e3b470d5053cf93703.7z"
-    },
-    ["windows-x64-vc14.29.30133-5d6bcb4a38394ad898dfd5837e964680"] = {
-        sha256 = "1e273e18dfa820013c2385220ef32e5f795e606ac048e7903d8e042c6117a651",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-5d6bcb4a38394ad898dfd5837e964680.7z"
-    },
-    ["windows-x86-vc14.29.30133-8139399626084a4b804bdbd1f6ff3b7a"] = {
-        sha256 = "0f7046e783cc8c7809c23c053257172d2e4ec88d753a3868dfc76bda28968b5e",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-8139399626084a4b804bdbd1f6ff3b7a.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-2b1c8e16899b4d04a046c5843c7988bb.7z",
+        sha256 = "3674cbd2915b5caa790f09b339c0c8064ecd92991dec3080003f5334d9419827",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.29.30133-2388fbfcf8714cec94cb7e988ba0ffdb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-2388fbfcf8714cec94cb7e988ba0ffdb.7z",
         sha256 = "dac0326decb5cba0a7c09ee88f4f41ecfee2231a2e7b91de07dbbfbd8ec1a2cf",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-2388fbfcf8714cec94cb7e988ba0ffdb.7z"
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.43.34808-8139399626084a4b804bdbd1f6ff3b7a"] = {
-        sha256 = "ed8fef1ca6ca45000da6bbf998f5c0c9b3823619597df3ba80a11b12f574492d",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-8139399626084a4b804bdbd1f6ff3b7a.7z"
+    ["windows-x64-vc14.43.34808-4510d2a8c2304d4cb827d8c34264c33d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-4510d2a8c2304d4cb827d8c34264c33d.7z",
+        sha256 = "1c4121f24eed205612330bebd70f562a83573f9ca2293fd3b348875e55a2b429",
+        toolset = "14.43.34808"
     },
-    ["windows-x86-vc14.43.34808-2388fbfcf8714cec94cb7e988ba0ffdb"] = {
-        sha256 = "a28f6e36382266956811b115fb52075cf4c7b381c859b860cbf91f0165d76028",
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-2388fbfcf8714cec94cb7e988ba0ffdb.7z"
-    },
-    ["windows-x86-vc14.44.35207-2388fbfcf8714cec94cb7e988ba0ffdb"] = {
-        sha256 = "0c53995ee61e5fdce8660be3307029e5cbde6e146ac252db599e9413569bf06b",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-2388fbfcf8714cec94cb7e988ba0ffdb.7z"
-    },
-    ["windows-x64-vc14.44.35207-5d6bcb4a38394ad898dfd5837e964680"] = {
-        sha256 = "b9b209d2896a8f349b6ccb4f803a581c4d495e7154ef3aba0f7a8b2bba786a17",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-5d6bcb4a38394ad898dfd5837e964680.7z"
+    ["windows-x86-vc14.44.35207-8139399626084a4b804bdbd1f6ff3b7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-8139399626084a4b804bdbd1f6ff3b7a.7z",
+        sha256 = "778695077e040246df5415861a09f21476a47c6e007fc03c325fca6bb11c5c01",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-4510d2a8c2304d4cb827d8c34264c33d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-4510d2a8c2304d4cb827d8c34264c33d.7z",
         sha256 = "e33d9910f71378b548378ed9e6f1ff22ce55dc90d11992214fe390f834ba2446",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-4510d2a8c2304d4cb827d8c34264c33d.7z"
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-6e49b5cf41ab4930b52d348269f0cc9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-6e49b5cf41ab4930b52d348269f0cc9f.7z",
+        sha256 = "daa75c16485af1e732e6a725383ff04c26db4463e3b10c4ce82c6c655ed9b75d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-8139399626084a4b804bdbd1f6ff3b7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-8139399626084a4b804bdbd1f6ff3b7a.7z",
+        sha256 = "0f7046e783cc8c7809c23c053257172d2e4ec88d753a3868dfc76bda28968b5e",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-5d6bcb4a38394ad898dfd5837e964680"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-5d6bcb4a38394ad898dfd5837e964680.7z",
+        sha256 = "1e273e18dfa820013c2385220ef32e5f795e606ac048e7903d8e042c6117a651",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-6e49b5cf41ab4930b52d348269f0cc9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-6e49b5cf41ab4930b52d348269f0cc9f.7z",
+        sha256 = "2f118c9da1a93091b516b8fffcee8a163690796367faf5f552ecc5c655d5012c",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-b0334309e9384e3ab20860f98652f5d2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-b0334309e9384e3ab20860f98652f5d2.7z",
+        sha256 = "940e36ad1e1a3f7d5e99eccae4c8c260ea588d0e38d71235c8047aeff7a3e609",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-2b4aab94f1ae42e3b470d5053cf93703"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-2b4aab94f1ae42e3b470d5053cf93703.7z",
+        sha256 = "9f9c77d015beccf0b693f985040e33b61d9067079fb996375484a34ca3df086d",
+        toolset = "14.29.30133"
     },
     ["windows-x86-vc14.29.30133-2b1c8e16899b4d04a046c5843c7988bb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-2b1c8e16899b4d04a046c5843c7988bb.7z",
         sha256 = "45bd6b823c10f0e788a5be930578e37fd0b6cff63758d90a3314914b755eaf4b",
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.29.30133-2b1c8e16899b4d04a046c5843c7988bb.7z"
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-5d6bcb4a38394ad898dfd5837e964680"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-5d6bcb4a38394ad898dfd5837e964680.7z",
+        sha256 = "041c28b4ebf6e07ee8d303613b07c1a06bb86358db4b59fe3cc6d789d152d6ed",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-2b4aab94f1ae42e3b470d5053cf93703"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-2b4aab94f1ae42e3b470d5053cf93703.7z",
+        sha256 = "faae6577e23d1a337925174770afe3c094a841760b03f13f66ce6d6d424fcceb",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-b0334309e9384e3ab20860f98652f5d2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-b0334309e9384e3ab20860f98652f5d2.7z",
+        sha256 = "4ae0b6e72d6f5a6cf42385a852411760e41064bfaacc035d3c7f9205d9b5c158",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-b0334309e9384e3ab20860f98652f5d2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.29.30133-b0334309e9384e3ab20860f98652f5d2.7z",
+        sha256 = "f20878bf328005d0292d8b6a57e7f33d39baafa9d1b832f880a82595bd99ef0b",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-8139399626084a4b804bdbd1f6ff3b7a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-8139399626084a4b804bdbd1f6ff3b7a.7z",
+        sha256 = "ed8fef1ca6ca45000da6bbf998f5c0c9b3823619597df3ba80a11b12f574492d",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-2388fbfcf8714cec94cb7e988ba0ffdb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-2388fbfcf8714cec94cb7e988ba0ffdb.7z",
+        sha256 = "a28f6e36382266956811b115fb52075cf4c7b381c859b860cbf91f0165d76028",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-6e49b5cf41ab4930b52d348269f0cc9f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.43.34808-6e49b5cf41ab4930b52d348269f0cc9f.7z",
+        sha256 = "c66e5fc5d9ea3f1caaab0fd2159b3973821c03c77b12b0d8b67ac6cb47b0c912",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-2388fbfcf8714cec94cb7e988ba0ffdb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.44.35207-2388fbfcf8714cec94cb7e988ba0ffdb.7z",
+        sha256 = "7ad759810cf87c89bde0cc0aa6680e7a953b2c154f3dba8e129c5cb6301c474c",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-4510d2a8c2304d4cb827d8c34264c33d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-4510d2a8c2304d4cb827d8c34264c33d.7z",
+        sha256 = "c1c9e8a6d8b202e420f9eb563a2bde31fa5d1f5e654abb5a5a27b2b4457fc967",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-5d6bcb4a38394ad898dfd5837e964680"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x64-vc14.44.35207-5d6bcb4a38394ad898dfd5837e964680.7z",
+        sha256 = "88353b7f84e92b9158a285de92afe5687182375bfbbbe1a7914b6ba67c873174",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-2b4aab94f1ae42e3b470d5053cf93703"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/radeonrays-4.1/windows-x86-vc14.43.34808-2b4aab94f1ae42e3b470d5053cf93703.7z",
+        sha256 = "d57e9e42eccd74609fef83bd23268e56a2cb2b251d6d6a3434b2eb18b73d36ff",
+        toolset = "14.43.34808"
     }
 }
