@@ -1,37 +1,57 @@
 {
     ["windows-x64-vc14.29.30133-bc42bb51f5f14d09b56b828164023705"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.29.30133-bc42bb51f5f14d09b56b828164023705.7z",
         sha256 = "9dd0f003eeb0957f6f509ab9f79b49c0ebbfbfe01806a8d8d21465b0e1ec8486",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.29.30133-bc42bb51f5f14d09b56b828164023705.7z"
     },
-    ["windows-x64-vc14.29.30133-6aba4ab7c3f34f2baf3ffddec10f9e87"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.29.30133-6aba4ab7c3f34f2baf3ffddec10f9e87.7z",
-        sha256 = "34fd2f11358c27ef555429604d4b9e0cd643c4c317d9e251c5b3819f71104adf",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.43.34808-bc42bb51f5f14d09b56b828164023705"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.43.34808-bc42bb51f5f14d09b56b828164023705.7z",
-        sha256 = "f1d30e696d38fe2f55cef3cccc660214bf591032e2e5539c4a2f73590f768338",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.43.34808-b99364314e9f4c8da613a11e1766778e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.43.34808-b99364314e9f4c8da613a11e1766778e.7z",
-        sha256 = "b3da9d39fa062e01a09b58c61be4a3794b3ee7472e15bc2a07b17565afaee34e",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-b99364314e9f4c8da613a11e1766778e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.29.30133-b99364314e9f4c8da613a11e1766778e.7z",
-        sha256 = "d277971e52756c6ddde87824c54cb2d7812caf1d13ae77a2c0e103915c6c3428",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.43.34808-6aba4ab7c3f34f2baf3ffddec10f9e87"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.43.34808-6aba4ab7c3f34f2baf3ffddec10f9e87.7z",
-        sha256 = "b70a1d4bc86f35b04912bd9fdc6b134ed1aa93398a5961d279033422e9728e4e",
-        toolset = "14.43.34808"
+    ["windows-x86-vc14.44.35207-bc21df4f807d4babbf5bf2c58ec4d238"] = {
+        sha256 = "58870b4557b68ba19b4c2333c81915b4946f20a82b32e916e18d4981d28529cc",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.44.35207-bc21df4f807d4babbf5bf2c58ec4d238.7z"
     },
     ["windows-x86-vc14.29.30133-bc21df4f807d4babbf5bf2c58ec4d238"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.29.30133-bc21df4f807d4babbf5bf2c58ec4d238.7z",
         sha256 = "1f8ebefdf2211389a8f670fefd1aedd30c863f7b41259d20673886926147d0e4",
-        toolset = "14.29.30133"
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.29.30133-bc21df4f807d4babbf5bf2c58ec4d238.7z"
+    },
+    ["windows-x86-vc14.44.35207-b99364314e9f4c8da613a11e1766778e"] = {
+        sha256 = "7871df120a1c563a21bb5b7318f43e8742e19f4a4f3171c7bcda58f36591ce37",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.44.35207-b99364314e9f4c8da613a11e1766778e.7z"
+    },
+    ["windows-x64-vc14.44.35207-6aba4ab7c3f34f2baf3ffddec10f9e87"] = {
+        sha256 = "2fec8ac8fb17fa35f3166e4c25e2f2b42be71cfeca026428233925b6cdcb4263",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.44.35207-6aba4ab7c3f34f2baf3ffddec10f9e87.7z"
+    },
+    ["windows-x64-vc14.43.34808-bc42bb51f5f14d09b56b828164023705"] = {
+        sha256 = "f1d30e696d38fe2f55cef3cccc660214bf591032e2e5539c4a2f73590f768338",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.43.34808-bc42bb51f5f14d09b56b828164023705.7z"
+    },
+    ["windows-x86-vc14.29.30133-b99364314e9f4c8da613a11e1766778e"] = {
+        sha256 = "d277971e52756c6ddde87824c54cb2d7812caf1d13ae77a2c0e103915c6c3428",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.29.30133-b99364314e9f4c8da613a11e1766778e.7z"
+    },
+    ["windows-x64-vc14.43.34808-6aba4ab7c3f34f2baf3ffddec10f9e87"] = {
+        sha256 = "b70a1d4bc86f35b04912bd9fdc6b134ed1aa93398a5961d279033422e9728e4e",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.43.34808-6aba4ab7c3f34f2baf3ffddec10f9e87.7z"
+    },
+    ["windows-x64-vc14.29.30133-6aba4ab7c3f34f2baf3ffddec10f9e87"] = {
+        sha256 = "34fd2f11358c27ef555429604d4b9e0cd643c4c317d9e251c5b3819f71104adf",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.29.30133-6aba4ab7c3f34f2baf3ffddec10f9e87.7z"
+    },
+    ["windows-x86-vc14.43.34808-b99364314e9f4c8da613a11e1766778e"] = {
+        sha256 = "b3da9d39fa062e01a09b58c61be4a3794b3ee7472e15bc2a07b17565afaee34e",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x86-vc14.43.34808-b99364314e9f4c8da613a11e1766778e.7z"
+    },
+    ["windows-x64-vc14.44.35207-bc42bb51f5f14d09b56b828164023705"] = {
+        sha256 = "72523bc1289346a52b1c3be42de56caa60021ab7c306ecd65de17833e9356f09",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zasm-2025.03.02/windows-x64-vc14.44.35207-bc42bb51f5f14d09b56b828164023705.7z"
     }
 }
