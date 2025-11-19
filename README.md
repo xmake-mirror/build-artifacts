@@ -6,8 +6,8 @@
   <h1>build-artifacts</h1>
 
   <div>
-    <a href="https://github.com/xmake-mirror/build-artifacts/actions?query=workflow%3AWindows">
-      <img src="https://img.shields.io/github/actions/workflow/status/xmake-mirror/build-artifacts/Windows.yml?style=flat-square&logo=windows" alt="github-ci" />
+    <a href="https://github.com/xmake-mirror/build-artifacts/actions?query=workflow%3Abuild">
+      <img src="https://img.shields.io/github/actions/workflow/status/xmake-mirror/build-artifacts/build.yml?style=flat-square&logo=windows" alt="github-ci" />
     </a>
     <a href="https://github.com/xmake-mirror/build-artifacts/releases">
       <img src="https://img.shields.io/github/release/xmake-mirror/build-artifacts.svg?style=flat-square" alt="Github All Releases" />
