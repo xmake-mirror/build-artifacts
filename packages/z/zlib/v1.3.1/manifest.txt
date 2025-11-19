@@ -1,162 +1,202 @@
 {
-    ["windows-x86-vc14.29.30133-6ceccee257334739a30fd0694d705b7b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-6ceccee257334739a30fd0694d705b7b.7z",
-        sha256 = "d151897c4e3be4287f7bff98dcf64e77d5184feaee7954675bf3e4ea146dca0d",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.38.33130-95786712bac941e795afa187a68143a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-95786712bac941e795afa187a68143a4.7z",
-        sha256 = "7e388280a39e9645dfd495075a9049416701ff70dbe3f812f5e8c105ffa732a8",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.39.33519-55fd28c48bc34b35b89c569e2dd7bcce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-55fd28c48bc34b35b89c569e2dd7bcce.7z",
-        sha256 = "3cfc635c7c567ff06f6dbf84ab1940c80f3437bd170d26d3e6a9af144592cfc0",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.29.30133-d676b73b676c41cdae37b37fbf6c9cbd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-d676b73b676c41cdae37b37fbf6c9cbd.7z",
-        sha256 = "5cbc8f59dc8a1783410ca0aaf69a43568841c81ebd230254ae4ebf24c8e22c81",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-fdaeb710132544f88b434d4e5b01717a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-fdaeb710132544f88b434d4e5b01717a.7z",
-        sha256 = "cfc47acbe2d2671aa025ddb94616a2e3057b462c1b7d684d92d92bff26743533",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-acb584e99eab442fbfba8fea009361ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-acb584e99eab442fbfba8fea009361ed.7z",
-        sha256 = "63fd5c34451b9e28210a4f4a0fa3bbe95e77449726fd8619f47ff75dbb7b6d2a",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.39.33519-6ceccee257334739a30fd0694d705b7b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-6ceccee257334739a30fd0694d705b7b.7z",
-        sha256 = "c88ae15676807a973cf7bd810a00f05cb36360e0acd4a3471171b0aa031f08b8",
-        toolset = "14.39.33519"
+    ["windows-x86-vc14.29.30133-acb584e99eab442fbfba8fea009361ed"] = {
+        sha256 = "316683b9c6a8d435ee9926e69d4df21a28b0e591f0c720cfa10ad7d7e88947a8",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-acb584e99eab442fbfba8fea009361ed.7z"
     },
     ["windows-x64-vc14.39.33519-d676b73b676c41cdae37b37fbf6c9cbd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-d676b73b676c41cdae37b37fbf6c9cbd.7z",
         sha256 = "93ff025c2bbbf7c475d398dd24d123fcb5dde80a1894695d12156681979e3667",
-        toolset = "14.39.33519"
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-d676b73b676c41cdae37b37fbf6c9cbd.7z"
     },
-    ["windows-x64-vc14.39.33519-2a4a1cfe0779415080bbbb08da5b1a94"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-2a4a1cfe0779415080bbbb08da5b1a94.7z",
-        sha256 = "c92dc86ca3a4bff22bca3b2cc41d217fdb71cf2839a693867b635c657f0b4f35",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.38.33130-55fd28c48bc34b35b89c569e2dd7bcce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-55fd28c48bc34b35b89c569e2dd7bcce.7z",
-        sha256 = "40f68a8021c148cbd03feab0c5e2e6cb5d9af68175b6e4b7e13efe1c9a88847a",
-        toolset = "14.38.33130"
+    ["windows-x86-vc14.39.33519-6ceccee257334739a30fd0694d705b7b"] = {
+        sha256 = "c88ae15676807a973cf7bd810a00f05cb36360e0acd4a3471171b0aa031f08b8",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-6ceccee257334739a30fd0694d705b7b.7z"
     },
     ["windows-x64-vc14.41.34120-fdaeb710132544f88b434d4e5b01717a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-fdaeb710132544f88b434d4e5b01717a.7z",
         sha256 = "0aa5f489f5c0f964ea40f869da81cd06a5816d8cec9702ca2dfd750f2205eebf",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.38.33130-acb584e99eab442fbfba8fea009361ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-acb584e99eab442fbfba8fea009361ed.7z",
-        sha256 = "08391f32b5830d16c7ad6a51ac1211d656e281f75e8a0845d0776b2ea934d08a",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-95786712bac941e795afa187a68143a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-95786712bac941e795afa187a68143a4.7z",
-        sha256 = "a8fe259212586601610929703e39423671d003d8b8e54db551451820879fb3b3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-acb584e99eab442fbfba8fea009361ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-acb584e99eab442fbfba8fea009361ed.7z",
-        sha256 = "316683b9c6a8d435ee9926e69d4df21a28b0e591f0c720cfa10ad7d7e88947a8",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-2a4a1cfe0779415080bbbb08da5b1a94"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-2a4a1cfe0779415080bbbb08da5b1a94.7z",
-        sha256 = "43f8376b5e4d3124bbee36cceb90b225ab23b45499fc627e2a0021f269d08303",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.38.33130-d676b73b676c41cdae37b37fbf6c9cbd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-d676b73b676c41cdae37b37fbf6c9cbd.7z",
-        sha256 = "f66651d472ea4ea2972643e06c69af3ad63437fbefcbefef18efcfd98d747651",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.39.33519-fdaeb710132544f88b434d4e5b01717a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-fdaeb710132544f88b434d4e5b01717a.7z",
-        sha256 = "920ad5bcfb333919dab7a975e08c954593345d73af58d0e696efb90dd73bb2c4",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.38.33130-4b00c30756f24b77ab67e04f31eaef1e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-4b00c30756f24b77ab67e04f31eaef1e.7z",
-        sha256 = "240d08a724c13ec8b9b7c10e15c3719a64d0b0e620e274a171646db36ca30d82",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.39.33519-4b00c30756f24b77ab67e04f31eaef1e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-4b00c30756f24b77ab67e04f31eaef1e.7z",
-        sha256 = "ca9ac7e6e3b2c63f790c61b2cb139ad201311b2d04c022552a98725620037836",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.39.33519-acb584e99eab442fbfba8fea009361ed"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-acb584e99eab442fbfba8fea009361ed.7z",
-        sha256 = "483b98947d8e1c422dab74e8c68b63e1c96f43675ae5572ba47d0ae371afd1a3",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.41.34120-95786712bac941e795afa187a68143a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-95786712bac941e795afa187a68143a4.7z",
-        sha256 = "bfd8c9e7071285630d177a6ec47241671ed63f0c914b63f426a1cf6a0165f802",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-2a4a1cfe0779415080bbbb08da5b1a94"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-2a4a1cfe0779415080bbbb08da5b1a94.7z",
-        sha256 = "b83d744058fac6aec00b7aac7b2765b1885b9e8fb33e92d06f7971be936b3d2d",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-d676b73b676c41cdae37b37fbf6c9cbd"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-d676b73b676c41cdae37b37fbf6c9cbd.7z",
-        sha256 = "7813cb26074214d499f0a31ef917e2d390b19e3137e055730d2b78439e699027",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.38.33130-2a4a1cfe0779415080bbbb08da5b1a94"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-2a4a1cfe0779415080bbbb08da5b1a94.7z",
-        sha256 = "28d3a1ec145efab489798994d129af3e5e4fe733b55fa57a585322ce198a682a",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.38.33130-fdaeb710132544f88b434d4e5b01717a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-fdaeb710132544f88b434d4e5b01717a.7z",
-        sha256 = "7e08098708ead8d84d65107d0c78750e64017f43a466f233f5f29955c6bbac21",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-55fd28c48bc34b35b89c569e2dd7bcce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-55fd28c48bc34b35b89c569e2dd7bcce.7z",
-        sha256 = "2e179f0a221a0b0a30254ec5580150ea606a086e38842533bf26508ab1520fc4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.39.33519-95786712bac941e795afa187a68143a4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-95786712bac941e795afa187a68143a4.7z",
-        sha256 = "fcf7cd2d695a4e6168e14cfb8d411524759f4ff2be092d0c95bc34acbd344eef",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.41.34120-55fd28c48bc34b35b89c569e2dd7bcce"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-55fd28c48bc34b35b89c569e2dd7bcce.7z",
-        sha256 = "2b8f797a186420a23a74283fd07b2df03867e78e5f721b826c6cdb28ea27156c",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-4b00c30756f24b77ab67e04f31eaef1e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-4b00c30756f24b77ab67e04f31eaef1e.7z",
-        sha256 = "b5b200669f6a681bfbdd97e2bb46c8af1075a806111c44cca2277a3f454461be",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-4b00c30756f24b77ab67e04f31eaef1e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-4b00c30756f24b77ab67e04f31eaef1e.7z",
-        sha256 = "c394d8eaae1acc4c65c53ff72e6dc79eaed2a020bff84bba136ba0d9d4e6761f",
-        toolset = "14.41.34120"
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-fdaeb710132544f88b434d4e5b01717a.7z"
     },
     ["windows-x86-vc14.41.34120-6ceccee257334739a30fd0694d705b7b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-6ceccee257334739a30fd0694d705b7b.7z",
         sha256 = "2a39ced1cfacdb16c52afb8166f67bcdb0c824910d6b4205040432448f6395c1",
-        toolset = "14.41.34120"
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-6ceccee257334739a30fd0694d705b7b.7z"
+    },
+    ["windows-x86-vc14.44.35207-6ceccee257334739a30fd0694d705b7b"] = {
+        sha256 = "891dd83e381a4336e6d6eb10a195ad5d9789bd535641ea1acc7e7b7ce415e0f8",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.44.35207-6ceccee257334739a30fd0694d705b7b.7z"
+    },
+    ["windows-x86-vc14.41.34120-55fd28c48bc34b35b89c569e2dd7bcce"] = {
+        sha256 = "2b8f797a186420a23a74283fd07b2df03867e78e5f721b826c6cdb28ea27156c",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-55fd28c48bc34b35b89c569e2dd7bcce.7z"
+    },
+    ["windows-x86-vc14.39.33519-4b00c30756f24b77ab67e04f31eaef1e"] = {
+        sha256 = "ca9ac7e6e3b2c63f790c61b2cb139ad201311b2d04c022552a98725620037836",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-4b00c30756f24b77ab67e04f31eaef1e.7z"
+    },
+    ["windows-x64-vc14.39.33519-2a4a1cfe0779415080bbbb08da5b1a94"] = {
+        sha256 = "c92dc86ca3a4bff22bca3b2cc41d217fdb71cf2839a693867b635c657f0b4f35",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-2a4a1cfe0779415080bbbb08da5b1a94.7z"
+    },
+    ["windows-x86-vc14.44.35207-55fd28c48bc34b35b89c569e2dd7bcce"] = {
+        sha256 = "b216834d18189a0bdc617a8cff43e9833631d2025e1000b32d4f5e091217d347",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.44.35207-55fd28c48bc34b35b89c569e2dd7bcce.7z"
+    },
+    ["windows-x64-vc14.44.35207-95786712bac941e795afa187a68143a4"] = {
+        sha256 = "5271cbc20d1131a2656bb688a329117113f9cb69609bb21a174bf078f78cc498",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.44.35207-95786712bac941e795afa187a68143a4.7z"
+    },
+    ["windows-x64-vc14.39.33519-95786712bac941e795afa187a68143a4"] = {
+        sha256 = "fcf7cd2d695a4e6168e14cfb8d411524759f4ff2be092d0c95bc34acbd344eef",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-95786712bac941e795afa187a68143a4.7z"
+    },
+    ["windows-x64-vc14.44.35207-d676b73b676c41cdae37b37fbf6c9cbd"] = {
+        sha256 = "04b6f8d8b5c025dbed25a5ec00d879642072e521fdff6b44b05ed2a2ecd4843b",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.44.35207-d676b73b676c41cdae37b37fbf6c9cbd.7z"
+    },
+    ["windows-x64-vc14.29.30133-fdaeb710132544f88b434d4e5b01717a"] = {
+        sha256 = "cfc47acbe2d2671aa025ddb94616a2e3057b462c1b7d684d92d92bff26743533",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-fdaeb710132544f88b434d4e5b01717a.7z"
+    },
+    ["windows-x86-vc14.38.33130-acb584e99eab442fbfba8fea009361ed"] = {
+        sha256 = "08391f32b5830d16c7ad6a51ac1211d656e281f75e8a0845d0776b2ea934d08a",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-acb584e99eab442fbfba8fea009361ed.7z"
+    },
+    ["windows-x64-vc14.41.34120-2a4a1cfe0779415080bbbb08da5b1a94"] = {
+        sha256 = "43f8376b5e4d3124bbee36cceb90b225ab23b45499fc627e2a0021f269d08303",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-2a4a1cfe0779415080bbbb08da5b1a94.7z"
+    },
+    ["windows-x64-vc14.29.30133-95786712bac941e795afa187a68143a4"] = {
+        sha256 = "a8fe259212586601610929703e39423671d003d8b8e54db551451820879fb3b3",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-95786712bac941e795afa187a68143a4.7z"
+    },
+    ["windows-x64-vc14.44.35207-2a4a1cfe0779415080bbbb08da5b1a94"] = {
+        sha256 = "92830d9daa2a1837f3f33743e3ac95ef4d026c964c65ea898b4341522db5e880",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.44.35207-2a4a1cfe0779415080bbbb08da5b1a94.7z"
+    },
+    ["windows-x64-vc14.41.34120-d676b73b676c41cdae37b37fbf6c9cbd"] = {
+        sha256 = "7813cb26074214d499f0a31ef917e2d390b19e3137e055730d2b78439e699027",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-d676b73b676c41cdae37b37fbf6c9cbd.7z"
+    },
+    ["windows-x86-vc14.39.33519-acb584e99eab442fbfba8fea009361ed"] = {
+        sha256 = "483b98947d8e1c422dab74e8c68b63e1c96f43675ae5572ba47d0ae371afd1a3",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-acb584e99eab442fbfba8fea009361ed.7z"
+    },
+    ["windows-x64-vc14.29.30133-2a4a1cfe0779415080bbbb08da5b1a94"] = {
+        sha256 = "b83d744058fac6aec00b7aac7b2765b1885b9e8fb33e92d06f7971be936b3d2d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-2a4a1cfe0779415080bbbb08da5b1a94.7z"
+    },
+    ["windows-x86-vc14.38.33130-4b00c30756f24b77ab67e04f31eaef1e"] = {
+        sha256 = "240d08a724c13ec8b9b7c10e15c3719a64d0b0e620e274a171646db36ca30d82",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-4b00c30756f24b77ab67e04f31eaef1e.7z"
+    },
+    ["windows-x86-vc14.38.33130-55fd28c48bc34b35b89c569e2dd7bcce"] = {
+        sha256 = "40f68a8021c148cbd03feab0c5e2e6cb5d9af68175b6e4b7e13efe1c9a88847a",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-55fd28c48bc34b35b89c569e2dd7bcce.7z"
     },
     ["windows-x86-vc14.38.33130-6ceccee257334739a30fd0694d705b7b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-6ceccee257334739a30fd0694d705b7b.7z",
         sha256 = "20bd4e7464cdd250c965871bb8bb246839cc8012b0d368a8dc457f33ddd3cdc9",
-        toolset = "14.38.33130"
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.38.33130-6ceccee257334739a30fd0694d705b7b.7z"
+    },
+    ["windows-x64-vc14.44.35207-fdaeb710132544f88b434d4e5b01717a"] = {
+        sha256 = "291dd9a913a90890aacdb7bdcbaf22a33e0724ead1356f79ce01b931aa011605",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.44.35207-fdaeb710132544f88b434d4e5b01717a.7z"
+    },
+    ["windows-x64-vc14.38.33130-95786712bac941e795afa187a68143a4"] = {
+        sha256 = "7e388280a39e9645dfd495075a9049416701ff70dbe3f812f5e8c105ffa732a8",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-95786712bac941e795afa187a68143a4.7z"
+    },
+    ["windows-x86-vc14.44.35207-4b00c30756f24b77ab67e04f31eaef1e"] = {
+        sha256 = "6484445ccd6b3888fd213196b47de6d6ab650bb797a20f3ab7cb1162bab1d274",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.44.35207-4b00c30756f24b77ab67e04f31eaef1e.7z"
+    },
+    ["windows-x64-vc14.38.33130-fdaeb710132544f88b434d4e5b01717a"] = {
+        sha256 = "7e08098708ead8d84d65107d0c78750e64017f43a466f233f5f29955c6bbac21",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-fdaeb710132544f88b434d4e5b01717a.7z"
+    },
+    ["windows-x86-vc14.29.30133-6ceccee257334739a30fd0694d705b7b"] = {
+        sha256 = "d151897c4e3be4287f7bff98dcf64e77d5184feaee7954675bf3e4ea146dca0d",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-6ceccee257334739a30fd0694d705b7b.7z"
+    },
+    ["windows-x86-vc14.41.34120-4b00c30756f24b77ab67e04f31eaef1e"] = {
+        sha256 = "c394d8eaae1acc4c65c53ff72e6dc79eaed2a020bff84bba136ba0d9d4e6761f",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-4b00c30756f24b77ab67e04f31eaef1e.7z"
+    },
+    ["windows-x64-vc14.39.33519-fdaeb710132544f88b434d4e5b01717a"] = {
+        sha256 = "920ad5bcfb333919dab7a975e08c954593345d73af58d0e696efb90dd73bb2c4",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.39.33519-fdaeb710132544f88b434d4e5b01717a.7z"
+    },
+    ["windows-x86-vc14.41.34120-acb584e99eab442fbfba8fea009361ed"] = {
+        sha256 = "63fd5c34451b9e28210a4f4a0fa3bbe95e77449726fd8619f47ff75dbb7b6d2a",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.41.34120-acb584e99eab442fbfba8fea009361ed.7z"
+    },
+    ["windows-x64-vc14.41.34120-95786712bac941e795afa187a68143a4"] = {
+        sha256 = "bfd8c9e7071285630d177a6ec47241671ed63f0c914b63f426a1cf6a0165f802",
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.41.34120-95786712bac941e795afa187a68143a4.7z"
+    },
+    ["windows-x86-vc14.39.33519-55fd28c48bc34b35b89c569e2dd7bcce"] = {
+        sha256 = "3cfc635c7c567ff06f6dbf84ab1940c80f3437bd170d26d3e6a9af144592cfc0",
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.39.33519-55fd28c48bc34b35b89c569e2dd7bcce.7z"
+    },
+    ["windows-x86-vc14.29.30133-55fd28c48bc34b35b89c569e2dd7bcce"] = {
+        sha256 = "2e179f0a221a0b0a30254ec5580150ea606a086e38842533bf26508ab1520fc4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-55fd28c48bc34b35b89c569e2dd7bcce.7z"
+    },
+    ["windows-x86-vc14.44.35207-acb584e99eab442fbfba8fea009361ed"] = {
+        sha256 = "78b1aff5f6b767f07c22bb931ee9495c111cdf5e38ccfaa964339cf9e4aa54f9",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.44.35207-acb584e99eab442fbfba8fea009361ed.7z"
+    },
+    ["windows-x86-vc14.29.30133-4b00c30756f24b77ab67e04f31eaef1e"] = {
+        sha256 = "b5b200669f6a681bfbdd97e2bb46c8af1075a806111c44cca2277a3f454461be",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x86-vc14.29.30133-4b00c30756f24b77ab67e04f31eaef1e.7z"
+    },
+    ["windows-x64-vc14.29.30133-d676b73b676c41cdae37b37fbf6c9cbd"] = {
+        sha256 = "5cbc8f59dc8a1783410ca0aaf69a43568841c81ebd230254ae4ebf24c8e22c81",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.29.30133-d676b73b676c41cdae37b37fbf6c9cbd.7z"
+    },
+    ["windows-x64-vc14.38.33130-2a4a1cfe0779415080bbbb08da5b1a94"] = {
+        sha256 = "28d3a1ec145efab489798994d129af3e5e4fe733b55fa57a585322ce198a682a",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-2a4a1cfe0779415080bbbb08da5b1a94.7z"
+    },
+    ["windows-x64-vc14.38.33130-d676b73b676c41cdae37b37fbf6c9cbd"] = {
+        sha256 = "f66651d472ea4ea2972643e06c69af3ad63437fbefcbefef18efcfd98d747651",
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/zlib-v1.3.1/windows-x64-vc14.38.33130-d676b73b676c41cdae37b37fbf6c9cbd.7z"
     }
 }
