@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.41.34120-ddbbd3bad0824b71a172f605962f949e"] = {
-        sha256 = "e0e29a89ed5bae91e597b6d6f277cac8a6e18946f2a9b4a2facde2bdd8362352",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-ddbbd3bad0824b71a172f605962f949e.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-7ce3c2e4ec6247989baac83963b65909"] = {
-        sha256 = "ff1c38fb03d616de45a01901c00ea371f84f41e149b2f7e4c69aabe42110a955",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-7ce3c2e4ec6247989baac83963b65909.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-40057b2176e246f896c51ebdc0e8e07e"] = {
-        sha256 = "c631486d4529dfd6a4ac483a6901385a55e5a1d356241ca2cbb511221d697d72",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-40057b2176e246f896c51ebdc0e8e07e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-bd4f43a8b411400e9891039de1265355"] = {
-        sha256 = "782eaead2baed79f8ab9e6f2227f505903b94d1014469d22f7cd6d94919bc4c3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-bd4f43a8b411400e9891039de1265355.7z",
-        toolset = "14.29.30133"
-    },
     ["windows-x64-vc14.41.34120-ff8b788ac21847799c9fbdadee8ab434"] = {
-        sha256 = "39fdb2395a837f548b0aa2ca2296021ae4ae81589fcdb0f76a6da685eda23ed1",
+        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-ff8b788ac21847799c9fbdadee8ab434.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-cc56b37e6a8a4d0b9dd2d906d74be966"] = {
-        sha256 = "c2be574ad821ec16255c72da40578a9f7f6deb5b3c16f4cebb5bafad4d30261e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-cc56b37e6a8a4d0b9dd2d906d74be966.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-ddbbd3bad0824b71a172f605962f949e"] = {
-        sha256 = "c6353a71986adb9cbb410f63e6d191065419861daab154bd14548b2c389cb50d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-ddbbd3bad0824b71a172f605962f949e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-ff8b788ac21847799c9fbdadee8ab434"] = {
-        sha256 = "f39e16f44870ed88d7fb4b97b776264f190d17d32ff6070b1bcacbdfcbe3a249",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-ff8b788ac21847799c9fbdadee8ab434.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-7ce3c2e4ec6247989baac83963b65909"] = {
-        sha256 = "d7dda1fa7d6319f139829d9c663b27b54cd4ae40d305b4e8ea13ec8af7f33d70",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-7ce3c2e4ec6247989baac83963b65909.7z",
-        toolset = "14.41.34120"
+        sha256 = "39fdb2395a837f548b0aa2ca2296021ae4ae81589fcdb0f76a6da685eda23ed1"
     },
     ["windows-x86-vc14.41.34120-40057b2176e246f896c51ebdc0e8e07e"] = {
-        sha256 = "652bc2715587473dd11fc0b2fa0df29982eecbb0779adcf33039b8415fb45680",
+        toolset = "14.41.34120",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-40057b2176e246f896c51ebdc0e8e07e.7z",
-        toolset = "14.41.34120"
+        sha256 = "652bc2715587473dd11fc0b2fa0df29982eecbb0779adcf33039b8415fb45680"
     },
-    ["windows-x86-vc14.41.34120-4ddcf2d7890c458f8303fa13e5141e3c"] = {
-        sha256 = "0e8b3e66669f6e71058197beef85e475cb43f93fa30bca4b6bf8c0f4762bb7bf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-4ddcf2d7890c458f8303fa13e5141e3c.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.29.30133-cc56b37e6a8a4d0b9dd2d906d74be966"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-cc56b37e6a8a4d0b9dd2d906d74be966.7z",
+        sha256 = "c2be574ad821ec16255c72da40578a9f7f6deb5b3c16f4cebb5bafad4d30261e"
     },
-    ["windows-x64-vc14.41.34120-cc56b37e6a8a4d0b9dd2d906d74be966"] = {
-        sha256 = "0cc44c134cc47e677f1e5720d4a25feb84dfca904822bd2197151a1a42314a5b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-cc56b37e6a8a4d0b9dd2d906d74be966.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.29.30133-7ce3c2e4ec6247989baac83963b65909"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-7ce3c2e4ec6247989baac83963b65909.7z",
+        sha256 = "ff1c38fb03d616de45a01901c00ea371f84f41e149b2f7e4c69aabe42110a955"
     },
-    ["windows-x64-vc14.41.34120-116175dfba9045f69d8a568908100cac"] = {
-        sha256 = "2bead72bf33fc3e2571640866518934bf20ec05338707bbadc32eb731d8ddb9d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-116175dfba9045f69d8a568908100cac.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.44.35207-cc56b37e6a8a4d0b9dd2d906d74be966"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.44.35207-cc56b37e6a8a4d0b9dd2d906d74be966.7z",
+        sha256 = "3a94ff2e60906b7f554be2a69d3b77dd1d70ffd9ea4824861fa1d39d12dbd14c"
     },
-    ["windows-x86-vc14.41.34120-bd4f43a8b411400e9891039de1265355"] = {
-        sha256 = "9f90aae92fe4b7990c3b236657379ac2a44f2c966825c415b4f7c0f348e2d111",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-bd4f43a8b411400e9891039de1265355.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.29.30133-ff8b788ac21847799c9fbdadee8ab434"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-ff8b788ac21847799c9fbdadee8ab434.7z",
+        sha256 = "f39e16f44870ed88d7fb4b97b776264f190d17d32ff6070b1bcacbdfcbe3a249"
+    },
+    ["windows-x64-vc14.44.35207-116175dfba9045f69d8a568908100cac"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.44.35207-116175dfba9045f69d8a568908100cac.7z",
+        sha256 = "17e9f9d3c17349451b66c024c0be3f8ea8f59a489461e03f720fe8e1fd392d2b"
     },
     ["windows-x64-vc14.29.30133-116175dfba9045f69d8a568908100cac"] = {
-        sha256 = "cc972ab8358e0ecbf296823fa2e8ce15c2001821614dd2b122d64c69b17e9748",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.29.30133-116175dfba9045f69d8a568908100cac.7z",
-        toolset = "14.29.30133"
+        sha256 = "cc972ab8358e0ecbf296823fa2e8ce15c2001821614dd2b122d64c69b17e9748"
+    },
+    ["windows-x86-vc14.44.35207-4ddcf2d7890c458f8303fa13e5141e3c"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.44.35207-4ddcf2d7890c458f8303fa13e5141e3c.7z",
+        sha256 = "48c6abd4c6be1a36c1e2a286b71b4850888cf17b2471e6988777ce9ecb89273c"
+    },
+    ["windows-x64-vc14.41.34120-116175dfba9045f69d8a568908100cac"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-116175dfba9045f69d8a568908100cac.7z",
+        sha256 = "2bead72bf33fc3e2571640866518934bf20ec05338707bbadc32eb731d8ddb9d"
+    },
+    ["windows-x86-vc14.29.30133-bd4f43a8b411400e9891039de1265355"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-bd4f43a8b411400e9891039de1265355.7z",
+        sha256 = "782eaead2baed79f8ab9e6f2227f505903b94d1014469d22f7cd6d94919bc4c3"
+    },
+    ["windows-x86-vc14.44.35207-bd4f43a8b411400e9891039de1265355"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.44.35207-bd4f43a8b411400e9891039de1265355.7z",
+        sha256 = "0541fe8e1eda49b2db196912406c43711379b4912a66e43364e3b81891a7115e"
+    },
+    ["windows-x86-vc14.41.34120-ddbbd3bad0824b71a172f605962f949e"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-ddbbd3bad0824b71a172f605962f949e.7z",
+        sha256 = "e0e29a89ed5bae91e597b6d6f277cac8a6e18946f2a9b4a2facde2bdd8362352"
     },
     ["windows-x86-vc14.29.30133-4ddcf2d7890c458f8303fa13e5141e3c"] = {
-        sha256 = "8bb510e80c4d2423c6e734076b0e43d67e8342fdd3cd6f68208759a305be0ddc",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-4ddcf2d7890c458f8303fa13e5141e3c.7z",
-        toolset = "14.29.30133"
+        sha256 = "8bb510e80c4d2423c6e734076b0e43d67e8342fdd3cd6f68208759a305be0ddc"
+    },
+    ["windows-x86-vc14.44.35207-ddbbd3bad0824b71a172f605962f949e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.44.35207-ddbbd3bad0824b71a172f605962f949e.7z",
+        sha256 = "68ac778e9c85713e4c95141922eb34e32377d4236555e8e4280a4098fd9e425f"
+    },
+    ["windows-x86-vc14.29.30133-40057b2176e246f896c51ebdc0e8e07e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-40057b2176e246f896c51ebdc0e8e07e.7z",
+        sha256 = "c631486d4529dfd6a4ac483a6901385a55e5a1d356241ca2cbb511221d697d72"
+    },
+    ["windows-x86-vc14.41.34120-4ddcf2d7890c458f8303fa13e5141e3c"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-4ddcf2d7890c458f8303fa13e5141e3c.7z",
+        sha256 = "0e8b3e66669f6e71058197beef85e475cb43f93fa30bca4b6bf8c0f4762bb7bf"
+    },
+    ["windows-x64-vc14.41.34120-7ce3c2e4ec6247989baac83963b65909"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-7ce3c2e4ec6247989baac83963b65909.7z",
+        sha256 = "d7dda1fa7d6319f139829d9c663b27b54cd4ae40d305b4e8ea13ec8af7f33d70"
+    },
+    ["windows-x86-vc14.44.35207-40057b2176e246f896c51ebdc0e8e07e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.44.35207-40057b2176e246f896c51ebdc0e8e07e.7z",
+        sha256 = "f550c529d6440ab6f48f093aeb47735df413edd6fe38e9dc495f231c84c5e297"
+    },
+    ["windows-x64-vc14.44.35207-ff8b788ac21847799c9fbdadee8ab434"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.44.35207-ff8b788ac21847799c9fbdadee8ab434.7z",
+        sha256 = "57b4a37a1385777a4fd1a3bbabef161ba68f7dc35f954cf78520094ec7a1bda5"
+    },
+    ["windows-x64-vc14.44.35207-7ce3c2e4ec6247989baac83963b65909"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.44.35207-7ce3c2e4ec6247989baac83963b65909.7z",
+        sha256 = "493b1a2f0cd70e44d4f5c7c491841eb292330b6e954083df54696edefe4ed28c"
+    },
+    ["windows-x64-vc14.41.34120-cc56b37e6a8a4d0b9dd2d906d74be966"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x64-vc14.41.34120-cc56b37e6a8a4d0b9dd2d906d74be966.7z",
+        sha256 = "0cc44c134cc47e677f1e5720d4a25feb84dfca904822bd2197151a1a42314a5b"
+    },
+    ["windows-x86-vc14.29.30133-ddbbd3bad0824b71a172f605962f949e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.29.30133-ddbbd3bad0824b71a172f605962f949e.7z",
+        sha256 = "c6353a71986adb9cbb410f63e6d191065419861daab154bd14548b2c389cb50d"
+    },
+    ["windows-x86-vc14.41.34120-bd4f43a8b411400e9891039de1265355"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/opencv-mobile-4.10.0/windows-x86-vc14.41.34120-bd4f43a8b411400e9891039de1265355.7z",
+        sha256 = "9f90aae92fe4b7990c3b236657379ac2a44f2c966825c415b4f7c0f348e2d111"
     }
 }
