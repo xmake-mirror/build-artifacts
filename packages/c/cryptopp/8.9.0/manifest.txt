@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.29.30133-af95b30abe6845d383d14843fe521def"] = {
-        toolset = "14.29.30133",
-        sha256 = "b3eb8a153bd62f9feb1040a827839c97ff63aa45babea8a847123d34bca848ad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-af95b30abe6845d383d14843fe521def.7z"
-    },
     ["windows-x86-vc14.43.34808-c11f5a0fd3dd48ff9a0c47af6eb0d568"] = {
-        toolset = "14.43.34808",
         sha256 = "38b8bc97cb6fcdccf973a97659252b77af296fc62a4918fa8da8caf221764949",
+        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.43.34808-c11f5a0fd3dd48ff9a0c47af6eb0d568.7z"
     },
-    ["windows-x86-vc14.37.32822-af95b30abe6845d383d14843fe521def"] = {
-        toolset = "14.37.32822",
-        sha256 = "214a34e6fd4e41eb924a3ed046a7072e15fb987deecad4cb786ded8aec92e6be",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.37.32822-af95b30abe6845d383d14843fe521def.7z"
-    },
-    ["windows-x86-vc14.29.30133-a13bbb6b4ff646b583eaa1b47d21340a"] = {
-        toolset = "14.29.30133",
-        sha256 = "c4f90e9fb928a31030862231e0cff9afc6aa9fea1e36edc7fb2a6984e91f1fad",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-a13bbb6b4ff646b583eaa1b47d21340a.7z"
-    },
-    ["windows-x86-vc14.43.34808-b999dd1b8ffb46f48f8fd90710493099"] = {
-        toolset = "14.43.34808",
-        sha256 = "82fe96db4cc2ed62c88444b3c6116ba8ec594e6efa4a641f5792d1abaf008012",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.43.34808-b999dd1b8ffb46f48f8fd90710493099.7z"
-    },
-    ["windows-x86-vc14.37.32822-a13bbb6b4ff646b583eaa1b47d21340a"] = {
-        toolset = "14.37.32822",
-        sha256 = "65a79c761cd799a23fb4bfc15acd88ca2a06fc5d1c06e1a42b21485deb1f00cd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.37.32822-a13bbb6b4ff646b583eaa1b47d21340a.7z"
-    },
-    ["windows-x64-vc14.37.32822-ed297bdebdda4e16b00b6d10d2c05d8b"] = {
-        toolset = "14.37.32822",
-        sha256 = "f441bbd1530f5a020627c9edef4a915aaa3023b500140fb149a042f316d92011",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.37.32822-ed297bdebdda4e16b00b6d10d2c05d8b.7z"
-    },
-    ["windows-x64-vc14.43.34808-bbcea340cdea492c90b1699a210e1ff3"] = {
-        toolset = "14.43.34808",
-        sha256 = "5a800da46c8aa7eef008f7f7ee658998342a7828c2e0397004d7445399ea121d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.43.34808-bbcea340cdea492c90b1699a210e1ff3.7z"
-    },
-    ["windows-x64-vc14.43.34808-cbf564dd5dae4f9196812457e8559fa5"] = {
-        toolset = "14.43.34808",
-        sha256 = "9e3600723f8703e9a830e2a26becd3177833b58447a4fc8e21e3f5e77cd194fc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.43.34808-cbf564dd5dae4f9196812457e8559fa5.7z"
-    },
-    ["windows-x64-vc14.29.30133-cbf564dd5dae4f9196812457e8559fa5"] = {
-        toolset = "14.29.30133",
-        sha256 = "d00f5c62984037fe0dca67ed0e37937919bd3451ea7c7086df2716e8722fdd07",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-cbf564dd5dae4f9196812457e8559fa5.7z"
-    },
-    ["windows-x64-vc14.29.30133-ed297bdebdda4e16b00b6d10d2c05d8b"] = {
-        toolset = "14.29.30133",
-        sha256 = "91a3bcd517ef11e3382c1cb3f0d110884584a331c1e18a98b06337459f7e8736",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-ed297bdebdda4e16b00b6d10d2c05d8b.7z"
-    },
-    ["windows-x86-vc14.29.30133-b999dd1b8ffb46f48f8fd90710493099"] = {
-        toolset = "14.29.30133",
-        sha256 = "5e55b882c308a2884264de69c836966d321e66c8fb92f9902e5ada678549c7b6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-b999dd1b8ffb46f48f8fd90710493099.7z"
-    },
-    ["windows-x64-vc14.37.32822-f2fc59a1ee5e4b2cac9e799b99bd6c48"] = {
-        toolset = "14.37.32822",
-        sha256 = "49936572266bf4343b9432076e7139869d20ef5151ae1d2061b1b986d776b950",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.37.32822-f2fc59a1ee5e4b2cac9e799b99bd6c48.7z"
+    ["windows-x86-vc14.44.35207-47bfc5fc5c7e4017b14aa842d7d4c5de"] = {
+        sha256 = "ab5a8cdcd125bb90bd66c7bfc941763c0cac2b8ad6395a3f5225ffeaf5dc077b",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.44.35207-47bfc5fc5c7e4017b14aa842d7d4c5de.7z"
     },
     ["windows-x86-vc14.29.30133-c11f5a0fd3dd48ff9a0c47af6eb0d568"] = {
-        toolset = "14.29.30133",
         sha256 = "3d6ec15d3c7d5995738e18d1f79dc0b008de9557c84118a57d792ef33b4dc0a8",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-c11f5a0fd3dd48ff9a0c47af6eb0d568.7z"
     },
-    ["windows-x64-vc14.29.30133-bbcea340cdea492c90b1699a210e1ff3"] = {
+    ["windows-x64-vc14.29.30133-ed297bdebdda4e16b00b6d10d2c05d8b"] = {
+        sha256 = "91a3bcd517ef11e3382c1cb3f0d110884584a331c1e18a98b06337459f7e8736",
         toolset = "14.29.30133",
-        sha256 = "b23f292f02ad4a880a6e19d198c954ec089e32acd2b8d5b360b90cfd3c55fde9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-bbcea340cdea492c90b1699a210e1ff3.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-ed297bdebdda4e16b00b6d10d2c05d8b.7z"
+    },
+    ["windows-x86-vc14.44.35207-c11f5a0fd3dd48ff9a0c47af6eb0d568"] = {
+        sha256 = "43421eb64ff15938ea8a8f6b4218db61af509423d9639f862df4a35243c68ffe",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.44.35207-c11f5a0fd3dd48ff9a0c47af6eb0d568.7z"
+    },
+    ["windows-x64-vc14.43.34808-bbcea340cdea492c90b1699a210e1ff3"] = {
+        sha256 = "5a800da46c8aa7eef008f7f7ee658998342a7828c2e0397004d7445399ea121d",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.43.34808-bbcea340cdea492c90b1699a210e1ff3.7z"
     },
     ["windows-x64-vc14.29.30133-f2fc59a1ee5e4b2cac9e799b99bd6c48"] = {
-        toolset = "14.29.30133",
         sha256 = "a2b53eef4939f62f99b0b94f56c185730d1e57e20b7c769b88b38812a547d680",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-f2fc59a1ee5e4b2cac9e799b99bd6c48.7z"
+    },
+    ["windows-x64-vc14.37.32822-f2fc59a1ee5e4b2cac9e799b99bd6c48"] = {
+        sha256 = "49936572266bf4343b9432076e7139869d20ef5151ae1d2061b1b986d776b950",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.37.32822-f2fc59a1ee5e4b2cac9e799b99bd6c48.7z"
+    },
+    ["windows-x86-vc14.43.34808-b999dd1b8ffb46f48f8fd90710493099"] = {
+        sha256 = "82fe96db4cc2ed62c88444b3c6116ba8ec594e6efa4a641f5792d1abaf008012",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.43.34808-b999dd1b8ffb46f48f8fd90710493099.7z"
+    },
+    ["windows-x64-vc14.29.30133-cbf564dd5dae4f9196812457e8559fa5"] = {
+        sha256 = "d00f5c62984037fe0dca67ed0e37937919bd3451ea7c7086df2716e8722fdd07",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-cbf564dd5dae4f9196812457e8559fa5.7z"
+    },
+    ["windows-x86-vc14.37.32822-a13bbb6b4ff646b583eaa1b47d21340a"] = {
+        sha256 = "65a79c761cd799a23fb4bfc15acd88ca2a06fc5d1c06e1a42b21485deb1f00cd",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.37.32822-a13bbb6b4ff646b583eaa1b47d21340a.7z"
+    },
+    ["windows-x86-vc14.29.30133-b999dd1b8ffb46f48f8fd90710493099"] = {
+        sha256 = "5e55b882c308a2884264de69c836966d321e66c8fb92f9902e5ada678549c7b6",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-b999dd1b8ffb46f48f8fd90710493099.7z"
+    },
+    ["windows-x64-vc14.44.35207-bbcea340cdea492c90b1699a210e1ff3"] = {
+        sha256 = "10d987764031c404a08deb88b492e74c27788ebfcb740bb2a6fd94edcf2f3265",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.44.35207-bbcea340cdea492c90b1699a210e1ff3.7z"
+    },
+    ["windows-x86-vc14.44.35207-f73e94fe295949508c49ce8854d1b91c"] = {
+        sha256 = "d94023b01a77674e52614a71891d7a870324375949dd29ef1073bb8e777437f2",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.44.35207-f73e94fe295949508c49ce8854d1b91c.7z"
+    },
+    ["windows-x86-vc14.29.30133-af95b30abe6845d383d14843fe521def"] = {
+        sha256 = "b3eb8a153bd62f9feb1040a827839c97ff63aa45babea8a847123d34bca848ad",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-af95b30abe6845d383d14843fe521def.7z"
+    },
+    ["windows-x64-vc14.44.35207-56a9184950d14e04bacf7654d3b5bf68"] = {
+        sha256 = "ae8e530e163845bee10cfbf0a07bde6bbdc19648beef51911a79eb6956f0d9dc",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.44.35207-56a9184950d14e04bacf7654d3b5bf68.7z"
+    },
+    ["windows-x64-vc14.29.30133-bbcea340cdea492c90b1699a210e1ff3"] = {
+        sha256 = "b23f292f02ad4a880a6e19d198c954ec089e32acd2b8d5b360b90cfd3c55fde9",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.29.30133-bbcea340cdea492c90b1699a210e1ff3.7z"
+    },
+    ["windows-x64-vc14.44.35207-cbf564dd5dae4f9196812457e8559fa5"] = {
+        sha256 = "045fe0a997eef8260af78b5d48dd66e8125dc18258381e296359f6dd9740da6f",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.44.35207-cbf564dd5dae4f9196812457e8559fa5.7z"
+    },
+    ["windows-x64-vc14.43.34808-cbf564dd5dae4f9196812457e8559fa5"] = {
+        sha256 = "9e3600723f8703e9a830e2a26becd3177833b58447a4fc8e21e3f5e77cd194fc",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.43.34808-cbf564dd5dae4f9196812457e8559fa5.7z"
+    },
+    ["windows-x86-vc14.37.32822-af95b30abe6845d383d14843fe521def"] = {
+        sha256 = "214a34e6fd4e41eb924a3ed046a7072e15fb987deecad4cb786ded8aec92e6be",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.37.32822-af95b30abe6845d383d14843fe521def.7z"
+    },
+    ["windows-x64-vc14.44.35207-3f41a1cbaea44b8bbdcb69869b712e65"] = {
+        sha256 = "214835397f3cbe3bf7426bbd27296d1ef1b6bc81528385876ef93abc9942f792",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.44.35207-3f41a1cbaea44b8bbdcb69869b712e65.7z"
+    },
+    ["windows-x86-vc14.44.35207-b999dd1b8ffb46f48f8fd90710493099"] = {
+        sha256 = "0163b5dd5816ceec614d35f1124fcb31224fbd031fd314254b46a9bceb57dc56",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.44.35207-b999dd1b8ffb46f48f8fd90710493099.7z"
+    },
+    ["windows-x86-vc14.29.30133-a13bbb6b4ff646b583eaa1b47d21340a"] = {
+        sha256 = "c4f90e9fb928a31030862231e0cff9afc6aa9fea1e36edc7fb2a6984e91f1fad",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x86-vc14.29.30133-a13bbb6b4ff646b583eaa1b47d21340a.7z"
+    },
+    ["windows-x64-vc14.37.32822-ed297bdebdda4e16b00b6d10d2c05d8b"] = {
+        sha256 = "f441bbd1530f5a020627c9edef4a915aaa3023b500140fb149a042f316d92011",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cryptopp-8.9.0/windows-x64-vc14.37.32822-ed297bdebdda4e16b00b6d10d2c05d8b.7z"
     }
 }
