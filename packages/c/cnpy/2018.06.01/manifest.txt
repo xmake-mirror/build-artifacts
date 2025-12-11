@@ -1,102 +1,122 @@
 {
-    ["windows-x86-vc14.29.30133-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
-        sha256 = "9791b95773008d2bdde83a8bb53b759bdea5dccb5da8400c469ffe99723d5c16",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-dbfc96a685cd4de6a1aa96c98003a8d2"] = {
-        sha256 = "2c281665d23927110e91e0304e9cc45ed70db409130f1579abaefdfa45620c88",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.37.32822-dbfc96a685cd4de6a1aa96c98003a8d2.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-a4c7e359a61c4d888599c9877118388e"] = {
-        sha256 = "5cd54d63412747befdf4112177d84044557b89f2273b126bfc478edc10144f74",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-a4c7e359a61c4d888599c9877118388e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-a4c7e359a61c4d888599c9877118388e"] = {
-        sha256 = "0b5e5dffa02aa892d7a6432acb8483809851de2e2c5cde42c6213d396d4f76ef",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.37.32822-a4c7e359a61c4d888599c9877118388e.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-5eed1e429ef84fd5be31044845a7da70"] = {
-        sha256 = "8fcd1218420dae07fa3c711de1eacc2fb85ec9e7663c954787f5414bf053b750",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-5eed1e429ef84fd5be31044845a7da70.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-5eed1e429ef84fd5be31044845a7da70"] = {
-        sha256 = "266a5a8c9d42af5ef64e27e711b9e1fb66ca1759b234f7a1741aa9b3845b1902",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.41.34120-5eed1e429ef84fd5be31044845a7da70.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
-        sha256 = "e8b6ff3173ab166a2bd62852661a447834f0507a3fadbe03ad61dbb99e6ca8e0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.41.34120-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.38.33130-e4cca077059e43689127bddf26ee2e91"] = {
-        sha256 = "ffc78e3d79277108b9c11efffa0df0335596e97241e7c7dedb1e159a5b4a21bf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.38.33130-e4cca077059e43689127bddf26ee2e91.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-fc187f6c187f4e95b197de0695a6e4ba"] = {
-        sha256 = "43c25a59e17acc0d82a4ff64cb3058ba6d010bc6b8d928fd74267717a0503e41",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-fc187f6c187f4e95b197de0695a6e4ba.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.41.34120-e4cca077059e43689127bddf26ee2e91"] = {
-        sha256 = "789a3ea69e814c395179aece9a875ae78a830e35c1b48aaedf88a56e17923408",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.41.34120-e4cca077059e43689127bddf26ee2e91.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-e4cca077059e43689127bddf26ee2e91"] = {
-        sha256 = "530fa8d30635b0b984b6b8133d69479e39dd0dea26f6593e7caa75ccde7ebd04",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-e4cca077059e43689127bddf26ee2e91.7z",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.44.35207-5eed1e429ef84fd5be31044845a7da70"] = {
+        toolset = "14.44.35207",
+        sha256 = "c0f4c7f05421fab4cf4952e0e1c224116707a4979b3e3ec4ee3dcc5fa3bcaae5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.44.35207-5eed1e429ef84fd5be31044845a7da70.7z"
     },
     ["windows-x86-vc14.29.30133-80c6f10d231b4d56a15502ca41bbb34f"] = {
+        toolset = "14.29.30133",
         sha256 = "476e19a11804a261e261e8c5c9acdbd20522354bef8e8e64058df1b6f2182622",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-80c6f10d231b4d56a15502ca41bbb34f.7z",
-        toolset = "14.29.30133"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-80c6f10d231b4d56a15502ca41bbb34f.7z"
+    },
+    ["windows-x64-vc14.29.30133-e4cca077059e43689127bddf26ee2e91"] = {
+        toolset = "14.29.30133",
+        sha256 = "530fa8d30635b0b984b6b8133d69479e39dd0dea26f6593e7caa75ccde7ebd04",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-e4cca077059e43689127bddf26ee2e91.7z"
     },
     ["windows-x86-vc14.37.32822-fc187f6c187f4e95b197de0695a6e4ba"] = {
+        toolset = "14.37.32822",
         sha256 = "28f15b7d1e99b4d93070eac55d15a806d7bd29fdac6a53ff47bb08e753556f41",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.37.32822-fc187f6c187f4e95b197de0695a6e4ba.7z",
-        toolset = "14.37.32822"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.37.32822-fc187f6c187f4e95b197de0695a6e4ba.7z"
     },
-    ["windows-x86-vc14.38.33130-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
-        sha256 = "a15bb41edcb07d07e1b146eec36e4a6ee22dd021847d2c6286f68cdbf85b4cbd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.38.33130-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z",
-        toolset = "14.38.33130"
+    ["windows-x64-vc14.29.30133-5eed1e429ef84fd5be31044845a7da70"] = {
+        toolset = "14.29.30133",
+        sha256 = "8fcd1218420dae07fa3c711de1eacc2fb85ec9e7663c954787f5414bf053b750",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-5eed1e429ef84fd5be31044845a7da70.7z"
+    },
+    ["windows-x86-vc14.29.30133-fc187f6c187f4e95b197de0695a6e4ba"] = {
+        toolset = "14.29.30133",
+        sha256 = "43c25a59e17acc0d82a4ff64cb3058ba6d010bc6b8d928fd74267717a0503e41",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-fc187f6c187f4e95b197de0695a6e4ba.7z"
+    },
+    ["windows-x64-vc14.41.34120-5eed1e429ef84fd5be31044845a7da70"] = {
+        toolset = "14.41.34120",
+        sha256 = "266a5a8c9d42af5ef64e27e711b9e1fb66ca1759b234f7a1741aa9b3845b1902",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.41.34120-5eed1e429ef84fd5be31044845a7da70.7z"
+    },
+    ["windows-x64-vc14.37.32822-dbfc96a685cd4de6a1aa96c98003a8d2"] = {
+        toolset = "14.37.32822",
+        sha256 = "2c281665d23927110e91e0304e9cc45ed70db409130f1579abaefdfa45620c88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.37.32822-dbfc96a685cd4de6a1aa96c98003a8d2.7z"
+    },
+    ["windows-x64-vc14.38.33130-e4cca077059e43689127bddf26ee2e91"] = {
+        toolset = "14.38.33130",
+        sha256 = "ffc78e3d79277108b9c11efffa0df0335596e97241e7c7dedb1e159a5b4a21bf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.38.33130-e4cca077059e43689127bddf26ee2e91.7z"
+    },
+    ["windows-x86-vc14.44.35207-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
+        toolset = "14.44.35207",
+        sha256 = "afb218a3521a30cd763516558e355308cd7dbf45d35eecaff1c56e99cd0edd60",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.44.35207-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z"
+    },
+    ["windows-x86-vc14.44.35207-80c6f10d231b4d56a15502ca41bbb34f"] = {
+        toolset = "14.44.35207",
+        sha256 = "eda0d1357bb3d77d1c47d5825d7514887e12bcd8c82f8e6edffb1548ec4d9efc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.44.35207-80c6f10d231b4d56a15502ca41bbb34f.7z"
+    },
+    ["windows-x86-vc14.41.34120-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
+        toolset = "14.41.34120",
+        sha256 = "e8b6ff3173ab166a2bd62852661a447834f0507a3fadbe03ad61dbb99e6ca8e0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.41.34120-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z"
     },
     ["windows-x64-vc14.38.33130-5eed1e429ef84fd5be31044845a7da70"] = {
+        toolset = "14.38.33130",
         sha256 = "4ebbc66db9d74e6e92ea04292368e566bba6f48be031e9ae190559dacd7c00f3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.38.33130-5eed1e429ef84fd5be31044845a7da70.7z",
-        toolset = "14.38.33130"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.38.33130-5eed1e429ef84fd5be31044845a7da70.7z"
     },
     ["windows-x64-vc14.37.32822-f342b262d8b94c598ca214da3b91f88e"] = {
+        toolset = "14.37.32822",
         sha256 = "ecd0ca281069da9e071197f7f0c97f89c020aca3fb16eb4a865f6125b5db173a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.37.32822-f342b262d8b94c598ca214da3b91f88e.7z",
-        toolset = "14.37.32822"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.37.32822-f342b262d8b94c598ca214da3b91f88e.7z"
+    },
+    ["windows-x86-vc14.38.33130-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
+        toolset = "14.38.33130",
+        sha256 = "a15bb41edcb07d07e1b146eec36e4a6ee22dd021847d2c6286f68cdbf85b4cbd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.38.33130-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z"
+    },
+    ["windows-x86-vc14.29.30133-a4c7e359a61c4d888599c9877118388e"] = {
+        toolset = "14.29.30133",
+        sha256 = "5cd54d63412747befdf4112177d84044557b89f2273b126bfc478edc10144f74",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-a4c7e359a61c4d888599c9877118388e.7z"
     },
     ["windows-x64-vc14.29.30133-f342b262d8b94c598ca214da3b91f88e"] = {
+        toolset = "14.29.30133",
         sha256 = "061ebf5cf2bacca893fdc8d28892dd3d1bd07b4e864d8ae5df0d5d42c1bfdf10",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-f342b262d8b94c598ca214da3b91f88e.7z",
-        toolset = "14.29.30133"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-f342b262d8b94c598ca214da3b91f88e.7z"
+    },
+    ["windows-x64-vc14.44.35207-e4cca077059e43689127bddf26ee2e91"] = {
+        toolset = "14.44.35207",
+        sha256 = "c3cce7e50f3f31d9d8689466abd45d45655e904cd23bcbce975b8a6aa41d8a54",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.44.35207-e4cca077059e43689127bddf26ee2e91.7z"
     },
     ["windows-x86-vc14.41.34120-80c6f10d231b4d56a15502ca41bbb34f"] = {
+        toolset = "14.41.34120",
         sha256 = "e1a43f00e45e3a642b74fa3fff158baed2ba569d6bbfce2b59a715321cf242d2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.41.34120-80c6f10d231b4d56a15502ca41bbb34f.7z",
-        toolset = "14.41.34120"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.41.34120-80c6f10d231b4d56a15502ca41bbb34f.7z"
+    },
+    ["windows-x64-vc14.41.34120-e4cca077059e43689127bddf26ee2e91"] = {
+        toolset = "14.41.34120",
+        sha256 = "789a3ea69e814c395179aece9a875ae78a830e35c1b48aaedf88a56e17923408",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.41.34120-e4cca077059e43689127bddf26ee2e91.7z"
     },
     ["windows-x86-vc14.38.33130-80c6f10d231b4d56a15502ca41bbb34f"] = {
+        toolset = "14.38.33130",
         sha256 = "303772aa74a90883ee07398f486020d07a63c13f95194c237a4219b64ac7d982",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.38.33130-80c6f10d231b4d56a15502ca41bbb34f.7z",
-        toolset = "14.38.33130"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.38.33130-80c6f10d231b4d56a15502ca41bbb34f.7z"
+    },
+    ["windows-x86-vc14.29.30133-34f7b6c9c6ce4a6ca7ab7a801f85fb47"] = {
+        toolset = "14.29.30133",
+        sha256 = "9791b95773008d2bdde83a8bb53b759bdea5dccb5da8400c469ffe99723d5c16",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.29.30133-34f7b6c9c6ce4a6ca7ab7a801f85fb47.7z"
     },
     ["windows-x64-vc14.29.30133-dbfc96a685cd4de6a1aa96c98003a8d2"] = {
+        toolset = "14.29.30133",
         sha256 = "3e3bbd57bed9ce4ce8953d7358e876047ecd025cd9b173c1b9a76c8da0f460c5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-dbfc96a685cd4de6a1aa96c98003a8d2.7z",
-        toolset = "14.29.30133"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x64-vc14.29.30133-dbfc96a685cd4de6a1aa96c98003a8d2.7z"
+    },
+    ["windows-x86-vc14.37.32822-a4c7e359a61c4d888599c9877118388e"] = {
+        toolset = "14.37.32822",
+        sha256 = "0b5e5dffa02aa892d7a6432acb8483809851de2e2c5cde42c6213d396d4f76ef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cnpy-2018.06.01/windows-x86-vc14.37.32822-a4c7e359a61c4d888599c9877118388e.7z"
     }
 }
