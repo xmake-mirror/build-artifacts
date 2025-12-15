@@ -1,42 +1,62 @@
 {
-    ["windows-x86-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b"] = {
-        toolset = "14.29.30133",
-        sha256 = "f879a6424b26ee634801bbb66e1477aeba8107d9706a67baeb6282e4f282b600",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b.7z"
-    },
-    ["windows-x64-vc14.29.30133-200fda8144e347288495f951d1f7607b"] = {
-        toolset = "14.29.30133",
-        sha256 = "8deff483963f72e76d565cbf8273e1ece0bbeecc91f4e7539f4171da6302b3a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.29.30133-200fda8144e347288495f951d1f7607b.7z"
+    ["windows-x64-vc14.44.35207-200fda8144e347288495f951d1f7607b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.44.35207-200fda8144e347288495f951d1f7607b.7z",
+        toolset = "14.44.35207",
+        sha256 = "1cb1a9d2dc1b23af91ddebba4c5bd215fe06b8b3f3bdfb25048c97401b00188b"
     },
     ["windows-x64-vc14.43.34808-200fda8144e347288495f951d1f7607b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.43.34808-200fda8144e347288495f951d1f7607b.7z",
         toolset = "14.43.34808",
-        sha256 = "a822e2212a8353a762489a0400530cd29e2f2b43e9b04e0c6deaa244a31c3cf7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.43.34808-200fda8144e347288495f951d1f7607b.7z"
+        sha256 = "a822e2212a8353a762489a0400530cd29e2f2b43e9b04e0c6deaa244a31c3cf7"
     },
-    ["windows-x86-vc14.29.30133-200fda8144e347288495f951d1f7607b"] = {
-        toolset = "14.29.30133",
-        sha256 = "3988f77c0e5136cbf0ca420a1ccb02017a5e73c2d8b656127208b97780968092",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.29.30133-200fda8144e347288495f951d1f7607b.7z"
+    ["windows-x86-vc14.44.35207-200fda8144e347288495f951d1f7607b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.44.35207-200fda8144e347288495f951d1f7607b.7z",
+        toolset = "14.44.35207",
+        sha256 = "213659130ef6220109fb56dc4bc7319b73717dd9af8328bc394ff56ab7d0f7c9"
     },
     ["windows-x64-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b.7z",
         toolset = "14.29.30133",
-        sha256 = "06f4ad2a425987110d64d126fbe736e8f42bebc314093cbec05b22ea52d5cbff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b.7z"
-    },
-    ["windows-x86-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b"] = {
-        toolset = "14.43.34808",
-        sha256 = "9e04ac73f542f3b60b27536e0095d46d2ea0d9ad4deb28d9a4c2603565e72b70",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b.7z"
-    },
-    ["windows-x64-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b"] = {
-        toolset = "14.43.34808",
-        sha256 = "35e9cbee68242687939e20d6f4f2ff079c3df85080682e42d0b8358abf85c85e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b.7z"
+        sha256 = "06f4ad2a425987110d64d126fbe736e8f42bebc314093cbec05b22ea52d5cbff"
     },
     ["windows-x86-vc14.43.34808-200fda8144e347288495f951d1f7607b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.43.34808-200fda8144e347288495f951d1f7607b.7z",
         toolset = "14.43.34808",
-        sha256 = "f6d321fe60a66abab1d90f75b30ec727d884a87d7e3329f492c1da49ad970936",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.43.34808-200fda8144e347288495f951d1f7607b.7z"
+        sha256 = "f6d321fe60a66abab1d90f75b30ec727d884a87d7e3329f492c1da49ad970936"
+    },
+    ["windows-x64-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b.7z",
+        toolset = "14.43.34808",
+        sha256 = "35e9cbee68242687939e20d6f4f2ff079c3df85080682e42d0b8358abf85c85e"
+    },
+    ["windows-x86-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.43.34808-0fe758d049f84613ba07ac180372cd0b.7z",
+        toolset = "14.43.34808",
+        sha256 = "9e04ac73f542f3b60b27536e0095d46d2ea0d9ad4deb28d9a4c2603565e72b70"
+    },
+    ["windows-x64-vc14.29.30133-200fda8144e347288495f951d1f7607b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.29.30133-200fda8144e347288495f951d1f7607b.7z",
+        toolset = "14.29.30133",
+        sha256 = "8deff483963f72e76d565cbf8273e1ece0bbeecc91f4e7539f4171da6302b3a1"
+    },
+    ["windows-x86-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.29.30133-0fe758d049f84613ba07ac180372cd0b.7z",
+        toolset = "14.29.30133",
+        sha256 = "f879a6424b26ee634801bbb66e1477aeba8107d9706a67baeb6282e4f282b600"
+    },
+    ["windows-x86-vc14.29.30133-200fda8144e347288495f951d1f7607b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.29.30133-200fda8144e347288495f951d1f7607b.7z",
+        toolset = "14.29.30133",
+        sha256 = "3988f77c0e5136cbf0ca420a1ccb02017a5e73c2d8b656127208b97780968092"
+    },
+    ["windows-x86-vc14.44.35207-0fe758d049f84613ba07ac180372cd0b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x86-vc14.44.35207-0fe758d049f84613ba07ac180372cd0b.7z",
+        toolset = "14.44.35207",
+        sha256 = "c8dfd188111e763a6f03378f93b2d4eaa2a078fac0a04e8ff8561a7c80c939f2"
+    },
+    ["windows-x64-vc14.44.35207-0fe758d049f84613ba07ac180372cd0b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/vulkan-tools-1.4.309%2B0/windows-x64-vc14.44.35207-0fe758d049f84613ba07ac180372cd0b.7z",
+        toolset = "14.44.35207",
+        sha256 = "878169b3beb43fb1204e6f3a8163296a417bca6572b8298adac6004979b5077c"
     }
 }
