@@ -1,47 +1,82 @@
 {
-    ["windows-x64-vc14.44.35207-008628e8f2194850826663e320fcb147"] = {
-        sha256 = "ddfca998ed7d8910998a5a538229409fc9160793776d27f86a7f5bc836bb5a1a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-008628e8f2194850826663e320fcb147.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-96ce6d1642c344808a7fbe9eaa851bcd"] = {
-        sha256 = "ed5045a23d9da5cedeac6c9ecab07510039d276c0e94337f449152e60de3920c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-96ce6d1642c344808a7fbe9eaa851bcd.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-d2acfb199d3e4a9fa9580ddace51f020"] = {
-        sha256 = "9f7964b03aca1fc9d7ee21998170e8b3606ff6314f769ba7960dc4f2dc99a5f0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-d2acfb199d3e4a9fa9580ddace51f020.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-c212ece21eca49ca8622d04adbbf1c03"] = {
-        sha256 = "e19f47171204af2540d8b7f4b5810d05d0b687e6b72c874ebc67af0930420518",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-c212ece21eca49ca8622d04adbbf1c03.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-8c49be01c11b4d7bb31b790fcbde73a3"] = {
-        sha256 = "350e80486790ee9edeee8b9d1852effe99e5ee784024e1c17a515045158e3a0e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-8c49be01c11b4d7bb31b790fcbde73a3.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-a6cc432d1977453b9a1ce4172563387e"] = {
-        sha256 = "843ad85cbadbb18ae03784cf0a4ec42ab93fd5f8da2d0576361e122795243004",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-a6cc432d1977453b9a1ce4172563387e.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.44.35207-eb37919df2124fc794f6f34cf1693068"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-eb37919df2124fc794f6f34cf1693068.7z",
+        toolset = "14.44.35207",
+        sha256 = "f221b3453e85e05e7ed175025e52279425fd62ac094c7312a9e3402e91ea1317"
     },
     ["windows-x86-vc14.44.35207-856af41432234eb1b7582928ccdcbb45"] = {
-        sha256 = "1a34cd5ef8a3840a8db88118a1422d10247c6f47d335b166167ff0bef9c6b50b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-856af41432234eb1b7582928ccdcbb45.7z",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "1a34cd5ef8a3840a8db88118a1422d10247c6f47d335b166167ff0bef9c6b50b"
+    },
+    ["windows-x64-vc14.44.35207-0e84756493f141de97317990cb797fe1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-0e84756493f141de97317990cb797fe1.7z",
+        toolset = "14.44.35207",
+        sha256 = "368554398ebbdf8715d890a378492e822261ab385574e3b91b4ce778f8f7b768"
+    },
+    ["windows-x86-vc14.44.35207-a6cc432d1977453b9a1ce4172563387e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-a6cc432d1977453b9a1ce4172563387e.7z",
+        toolset = "14.44.35207",
+        sha256 = "843ad85cbadbb18ae03784cf0a4ec42ab93fd5f8da2d0576361e122795243004"
+    },
+    ["windows-x86-vc14.44.35207-8c49be01c11b4d7bb31b790fcbde73a3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-8c49be01c11b4d7bb31b790fcbde73a3.7z",
+        toolset = "14.44.35207",
+        sha256 = "350e80486790ee9edeee8b9d1852effe99e5ee784024e1c17a515045158e3a0e"
+    },
+    ["windows-x64-vc14.44.35207-0420f597c5a743c0ae327ab120edf5c8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-0420f597c5a743c0ae327ab120edf5c8.7z",
+        toolset = "14.44.35207",
+        sha256 = "8905a2523a2a59a2bc6316e395efd81557f22236ae6e5ac01a5c78d37e65ee8b"
+    },
+    ["windows-x86-vc14.44.35207-ca889fc3deb140d798bcf12f7375bcf2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-ca889fc3deb140d798bcf12f7375bcf2.7z",
+        toolset = "14.44.35207",
+        sha256 = "5eb3ba287cfb67e6527bad3776e35a1f361639faddbf7a0e2e21d99617f4c0a6"
     },
     ["windows-x64-vc14.44.35207-a40987b1dc654b8da86fa7a5b01de709"] = {
-        sha256 = "188a4eb69dbd7eb3cfce4ad994dde6323c92bc4857bd8a37d197063ff9b4cc7c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-a40987b1dc654b8da86fa7a5b01de709.7z",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "188a4eb69dbd7eb3cfce4ad994dde6323c92bc4857bd8a37d197063ff9b4cc7c"
     },
-    ["windows-x64-vc14.44.35207-eb37919df2124fc794f6f34cf1693068"] = {
-        sha256 = "f221b3453e85e05e7ed175025e52279425fd62ac094c7312a9e3402e91ea1317",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-eb37919df2124fc794f6f34cf1693068.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.44.35207-d2acfb199d3e4a9fa9580ddace51f020"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-d2acfb199d3e4a9fa9580ddace51f020.7z",
+        toolset = "14.44.35207",
+        sha256 = "9f7964b03aca1fc9d7ee21998170e8b3606ff6314f769ba7960dc4f2dc99a5f0"
+    },
+    ["windows-x64-vc14.44.35207-008628e8f2194850826663e320fcb147"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-008628e8f2194850826663e320fcb147.7z",
+        toolset = "14.44.35207",
+        sha256 = "ddfca998ed7d8910998a5a538229409fc9160793776d27f86a7f5bc836bb5a1a"
+    },
+    ["windows-x86-vc14.44.35207-c212ece21eca49ca8622d04adbbf1c03"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-c212ece21eca49ca8622d04adbbf1c03.7z",
+        toolset = "14.44.35207",
+        sha256 = "a057b62dd24c97936d7e17feb8c68c2a1eb623da7ab0c2c4abff3816b78d4f94"
+    },
+    ["windows-x86-vc14.44.35207-870c55bc10234f75a587b0873ffee031"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-870c55bc10234f75a587b0873ffee031.7z",
+        toolset = "14.44.35207",
+        sha256 = "fe043b8b05c07b849167d950858c44e7af50495eb8d6b6e9fcca7c78e562f27d"
+    },
+    ["windows-x86-vc14.44.35207-6b2632fc045e406c838ec8ec4d2e4f8f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-6b2632fc045e406c838ec8ec4d2e4f8f.7z",
+        toolset = "14.44.35207",
+        sha256 = "8651bbde06383787ccf72e00e44018566541af0d53cf06f7e0f7bdb948e24d63"
+    },
+    ["windows-x86-vc14.44.35207-96ce6d1642c344808a7fbe9eaa851bcd"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x86-vc14.44.35207-96ce6d1642c344808a7fbe9eaa851bcd.7z",
+        toolset = "14.44.35207",
+        sha256 = "ed5045a23d9da5cedeac6c9ecab07510039d276c0e94337f449152e60de3920c"
+    },
+    ["windows-x64-vc14.44.35207-d457957e89294c19b81cdffb61ff1187"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-d457957e89294c19b81cdffb61ff1187.7z",
+        toolset = "14.44.35207",
+        sha256 = "38c4c601cab647b0d44b3b13894d06d54d975a7a44d5a27409482c78f328bb1f"
+    },
+    ["windows-x64-vc14.44.35207-ec684c237a114d17b25a8f9a977e1e9d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/spdlog-v1.16.0/windows-x64-vc14.44.35207-ec684c237a114d17b25a8f9a977e1e9d.7z",
+        toolset = "14.44.35207",
+        sha256 = "0ede8ea89710273d233735cb68e4724c3a4e9cd3f605e3af2c12eee0b4193ab6"
     }
 }
