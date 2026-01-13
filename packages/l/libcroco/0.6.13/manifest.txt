@@ -1,182 +1,202 @@
 {
-    ["windows-x86-vc14.37.32822-6d7e0aecee3041fda9c9d1ef68cda018"] = {
-        sha256 = "40f0ebef99e54f473e5ce388291acbc0d2966fe3cc5e27b192a607c2b9f2c799",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.37.32822-6d7e0aecee3041fda9c9d1ef68cda018.7z",
+    ["windows-x64-vc14.37.32822-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.37.32822-0e57145dfc9e4da58b5ff1fcacb1eb85.7z",
+        sha256 = "1399361cb4a0a7e488be6a656e0b9b8d2765573ff4d081318e5959d8ee2801f7",
         toolset = "14.37.32822"
     },
-    ["windows-x64-vc14.38.33130-fd69b25145f24ddd927c0cf7ea98f965"] = {
-        sha256 = "5005741e7af4ab3677705d796bfe924faeab859b26f394edc9cbded5f0caa2dc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.38.33130-fd69b25145f24ddd927c0cf7ea98f965.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.37.32822-3686b099b82948509ac1be5c64f561e5"] = {
-        sha256 = "4fa069998d44b7da5a91d9f51564091efb6f93b648794200252b8da8109e2cf5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.37.32822-3686b099b82948509ac1be5c64f561e5.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
-        sha256 = "bf955dd16ab5b1a877d262c7680b8c7588f2d516465db4d367067245ac30ef9f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-0e57145dfc9e4da58b5ff1fcacb1eb85.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-3686b099b82948509ac1be5c64f561e5"] = {
-        sha256 = "687876125b8bb569af3d38a2d905153d4cd454e2d25fda9ca9c08f492c2b93e3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.29.30133-3686b099b82948509ac1be5c64f561e5.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc142-6d7e0aecee3041fda9c9d1ef68cda018"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc142-6d7e0aecee3041fda9c9d1ef68cda018.7z",
-        sha256 = "4646d3bbbad28f08385a314635691a7aacf6a88f113caae8b7928a1ad03a1414"
-    },
-    ["windows-x86-vc142-3686b099b82948509ac1be5c64f561e5"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc142-3686b099b82948509ac1be5c64f561e5.7z",
-        sha256 = "13bdbc0c4e93ffc0127f44aa869fa7b111c7f420336b9d7af1b2a54e2a978319"
-    },
-    ["windows-x86-vc141-3686b099b82948509ac1be5c64f561e5"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc141-3686b099b82948509ac1be5c64f561e5.7z",
-        sha256 = "4004243bd69e4011861ed5c908b488075e0413c54996fdd6426f7184e84ae9a8"
-    },
-    ["windows-x64-vc14.38.33130-a4889abb835a4362a4adedf097b0ff55"] = {
-        sha256 = "0bf77e97fc6f7659ef3fc6a5075a201380820a760f7f6f696b668d619dcba466",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.38.33130-a4889abb835a4362a4adedf097b0ff55.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc141-2fe96a9861fb43c0a771c708b7b52c1e"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc141-2fe96a9861fb43c0a771c708b7b52c1e.7z",
-        sha256 = "861c984b834e5163846f5e5366f7c94fa0dd5bef00467020d89394ad65fd9dae"
-    },
-    ["windows-x64-vc14.29.30133-2fe96a9861fb43c0a771c708b7b52c1e"] = {
-        sha256 = "46f0a5bb43a46eb18dacd49ba0e3103a60ded8d85d7cd50d0f7ba16ac5821d02",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-2fe96a9861fb43c0a771c708b7b52c1e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-fd69b25145f24ddd927c0cf7ea98f965"] = {
-        sha256 = "780967fcad17b3363e7c5b9aa4e8244bcb6fc008ef3e87e91131ebdaa2177577",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-fd69b25145f24ddd927c0cf7ea98f965.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-97de180db5a141a3aa8f82508765b09a"] = {
-        sha256 = "b6cff98a4e37b57604c20f1e8050da8411ec736929c2a1ddbac81ceb6eee07bd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.40.33807-97de180db5a141a3aa8f82508765b09a.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.43.34808-a4889abb835a4362a4adedf097b0ff55"] = {
-        sha256 = "1c1667249fd92f40fa00eff6a4950d46012776dc51509a03a9dcf020253f2286",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.43.34808-a4889abb835a4362a4adedf097b0ff55.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.41.34120-a4889abb835a4362a4adedf097b0ff55"] = {
-        sha256 = "dea3b0c27afe6f9bcd96901dc07637758c67c8a82f6958482a2f7bca5f51fe54",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.41.34120-a4889abb835a4362a4adedf097b0ff55.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.40.33807-fd69b25145f24ddd927c0cf7ea98f965"] = {
-        sha256 = "40ef14e7e32230f1f8355cd96d56306488063c2ac103f3553bb49225f13b131b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.40.33807-fd69b25145f24ddd927c0cf7ea98f965.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc142-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc142-0e57145dfc9e4da58b5ff1fcacb1eb85.7z",
-        sha256 = "a3435331beecfadbefa55a4435b1da7664be3e377d7969129610bfede6aeda26"
-    },
-    ["windows-x64-vc14.43.34808-fd69b25145f24ddd927c0cf7ea98f965"] = {
-        sha256 = "5e48ac0f40a8e4a346401436680d7def5048d56a8e0e8462b3a99f1b2aec4947",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.43.34808-fd69b25145f24ddd927c0cf7ea98f965.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc141-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc141-0e57145dfc9e4da58b5ff1fcacb1eb85.7z",
-        sha256 = "12356404a32c33ec9d66fc58e8212ef8f6962d42afaa7ae54c86747dd1781163"
-    },
-    ["windows-x86-vc14.29.30133-388dcb967b3a484590bd3844a02b3d2e"] = {
-        sha256 = "a4a0d9c5ec5e2e1d8f23dc1826850949f009732272c0d56d06374fff5de33510",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.29.30133-388dcb967b3a484590bd3844a02b3d2e.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.38.33130-97de180db5a141a3aa8f82508765b09a"] = {
-        sha256 = "6fcc74e79848c34d198a6138723ae5a89936a12425812c8d5ee78cef7f1858a2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.38.33130-97de180db5a141a3aa8f82508765b09a.7z",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.41.34120-388dcb967b3a484590bd3844a02b3d2e"] = {
-        sha256 = "b02957a365ad582441fb9eb7e36a8a6abb2ecd781dfad896540affef808ced63",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.41.34120-388dcb967b3a484590bd3844a02b3d2e.7z",
-        toolset = "14.41.34120"
+    ["windows-x64-vc14.44.35207-fd69b25145f24ddd927c0cf7ea98f965"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.44.35207-fd69b25145f24ddd927c0cf7ea98f965.7z",
+        sha256 = "fab63f5a28603b8d8120cd9744ffeb3e5af69c67bfc0bad2ab7e8f1c26620046",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.40.33807-a4889abb835a4362a4adedf097b0ff55"] = {
-        sha256 = "10a440b70c9115ca4b50ec7d9d6b2b957edc51499e852610da741bcc2ddfc778",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.40.33807-a4889abb835a4362a4adedf097b0ff55.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc141-6d7e0aecee3041fda9c9d1ef68cda018"] = {
-        toolset = "14.16.27023",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc141-6d7e0aecee3041fda9c9d1ef68cda018.7z",
-        sha256 = "069c29a89f663ca3b6d29e66b9b45416c6c0b65d33866b93fa85b1243318d411"
-    },
-    ["windows-x86-vc14.41.34120-97de180db5a141a3aa8f82508765b09a"] = {
-        sha256 = "029d1653a3aca480820dcb59d831a83369fdf302be0fef0f1635939fbd425cb7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.41.34120-97de180db5a141a3aa8f82508765b09a.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.37.32822-2fe96a9861fb43c0a771c708b7b52c1e"] = {
-        sha256 = "e6b24b9d38f1ee1862ec91d5d989bfe280085c1a27ddded2422013fca4cb4e88",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.37.32822-2fe96a9861fb43c0a771c708b7b52c1e.7z",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.43.34808-388dcb967b3a484590bd3844a02b3d2e"] = {
-        sha256 = "7dcac4c91da2e688f1e0eea2f46f4dea7be239e3b1289a9c5531a1152ed9d829",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.43.34808-388dcb967b3a484590bd3844a02b3d2e.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.41.34120-fd69b25145f24ddd927c0cf7ea98f965"] = {
-        sha256 = "fa5e4f2ce93d11471d12a65792b2d8d617c1f33aa13b1f5af874e0fe49ab6d03",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.41.34120-fd69b25145f24ddd927c0cf7ea98f965.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.40.33807-388dcb967b3a484590bd3844a02b3d2e"] = {
-        sha256 = "efc14b4ca53848e930daa1d6cfb0b9fbf9264359e141ea325d3beb6cf5c2560e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.40.33807-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "10a440b70c9115ca4b50ec7d9d6b2b957edc51499e852610da741bcc2ddfc778",
         toolset = "14.40.33807"
     },
     ["windows-x86-vc14.29.30133-6d7e0aecee3041fda9c9d1ef68cda018"] = {
-        sha256 = "ca3877e2cadcfacec13c4ded3e13b3ad825eeb9f49f4d3dcfae578fe26007d4e",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.29.30133-6d7e0aecee3041fda9c9d1ef68cda018.7z",
+        sha256 = "ca3877e2cadcfacec13c4ded3e13b3ad825eeb9f49f4d3dcfae578fe26007d4e",
         toolset = "14.29.30133"
+    },
+    ["windows-x64-vc142-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
+        toolset = "14.29.30133",
+        sha256 = "a3435331beecfadbefa55a4435b1da7664be3e377d7969129610bfede6aeda26",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc142-0e57145dfc9e4da58b5ff1fcacb1eb85.7z"
+    },
+    ["windows-x86-vc14.41.34120-97de180db5a141a3aa8f82508765b09a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.41.34120-97de180db5a141a3aa8f82508765b09a.7z",
+        sha256 = "029d1653a3aca480820dcb59d831a83369fdf302be0fef0f1635939fbd425cb7",
+        toolset = "14.41.34120"
     },
     ["windows-x86-vc14.29.30133-97de180db5a141a3aa8f82508765b09a"] = {
-        sha256 = "367b52bc732d8672132b22433f3faff50d44b19d91fc46cce26e9be696e6c6d9",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.29.30133-97de180db5a141a3aa8f82508765b09a.7z",
+        sha256 = "367b52bc732d8672132b22433f3faff50d44b19d91fc46cce26e9be696e6c6d9",
         toolset = "14.29.30133"
     },
-    ["windows-x64-vc14.37.32822-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
-        sha256 = "1399361cb4a0a7e488be6a656e0b9b8d2765573ff4d081318e5959d8ee2801f7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.37.32822-0e57145dfc9e4da58b5ff1fcacb1eb85.7z",
+    ["windows-x86-vc14.37.32822-6d7e0aecee3041fda9c9d1ef68cda018"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.37.32822-6d7e0aecee3041fda9c9d1ef68cda018.7z",
+        sha256 = "40f0ebef99e54f473e5ce388291acbc0d2966fe3cc5e27b192a607c2b9f2c799",
         toolset = "14.37.32822"
     },
-    ["windows-x86-vc14.38.33130-388dcb967b3a484590bd3844a02b3d2e"] = {
-        sha256 = "c7815f19f7f9c7dc564737f80534ef69737930345cc2db5b86e8aaf8ab428163",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.38.33130-388dcb967b3a484590bd3844a02b3d2e.7z",
-        toolset = "14.38.33130"
+    ["windows-x64-vc141-2fe96a9861fb43c0a771c708b7b52c1e"] = {
+        toolset = "14.16.27023",
+        sha256 = "861c984b834e5163846f5e5366f7c94fa0dd5bef00467020d89394ad65fd9dae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc141-2fe96a9861fb43c0a771c708b7b52c1e.7z"
     },
-    ["windows-x86-vc14.43.34808-97de180db5a141a3aa8f82508765b09a"] = {
-        sha256 = "adca501662234b889b75da6fa51ca0e9427ad564e68da72615f5d1082a8cbd7d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.43.34808-97de180db5a141a3aa8f82508765b09a.7z",
-        toolset = "14.43.34808"
+    ["windows-x86-vc142-3686b099b82948509ac1be5c64f561e5"] = {
+        toolset = "14.29.30133",
+        sha256 = "13bdbc0c4e93ffc0127f44aa869fa7b111c7f420336b9d7af1b2a54e2a978319",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc142-3686b099b82948509ac1be5c64f561e5.7z"
     },
-    ["windows-x64-vc14.29.30133-a4889abb835a4362a4adedf097b0ff55"] = {
-        sha256 = "03ec378270c1100e960ce52311a550b3e87dfc2c901800f41257ba4061feb2b7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-a4889abb835a4362a4adedf097b0ff55.7z",
+    ["windows-x86-vc141-6d7e0aecee3041fda9c9d1ef68cda018"] = {
+        toolset = "14.16.27023",
+        sha256 = "069c29a89f663ca3b6d29e66b9b45416c6c0b65d33866b93fa85b1243318d411",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc141-6d7e0aecee3041fda9c9d1ef68cda018.7z"
+    },
+    ["windows-x86-vc14.29.30133-3686b099b82948509ac1be5c64f561e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.29.30133-3686b099b82948509ac1be5c64f561e5.7z",
+        sha256 = "687876125b8bb569af3d38a2d905153d4cd454e2d25fda9ca9c08f492c2b93e3",
         toolset = "14.29.30133"
     },
     ["windows-x64-vc142-2fe96a9861fb43c0a771c708b7b52c1e"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc142-2fe96a9861fb43c0a771c708b7b52c1e.7z",
-        sha256 = "d81537bbd18e61b0552102cd0624a710b75b555f79327f5625ee5ab914358af3"
+        sha256 = "d81537bbd18e61b0552102cd0624a710b75b555f79327f5625ee5ab914358af3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc142-2fe96a9861fb43c0a771c708b7b52c1e.7z"
+    },
+    ["windows-x86-vc14.44.35207-388dcb967b3a484590bd3844a02b3d2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.44.35207-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "ca3f4b7e193c2055b2068f4b19eff78033d27816174258637c8697e26d5005aa",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-fd69b25145f24ddd927c0cf7ea98f965"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.43.34808-fd69b25145f24ddd927c0cf7ea98f965.7z",
+        sha256 = "5e48ac0f40a8e4a346401436680d7def5048d56a8e0e8462b3a99f1b2aec4947",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-97de180db5a141a3aa8f82508765b09a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.43.34808-97de180db5a141a3aa8f82508765b09a.7z",
+        sha256 = "adca501662234b889b75da6fa51ca0e9427ad564e68da72615f5d1082a8cbd7d",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-a4889abb835a4362a4adedf097b0ff55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.43.34808-a4889abb835a4362a4adedf097b0ff55.7z",
+        sha256 = "1c1667249fd92f40fa00eff6a4950d46012776dc51509a03a9dcf020253f2286",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.38.33130-97de180db5a141a3aa8f82508765b09a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.38.33130-97de180db5a141a3aa8f82508765b09a.7z",
+        sha256 = "6fcc74e79848c34d198a6138723ae5a89936a12425812c8d5ee78cef7f1858a2",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.44.35207-a4889abb835a4362a4adedf097b0ff55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.44.35207-a4889abb835a4362a4adedf097b0ff55.7z",
+        sha256 = "3f20434e942ddc8bbfa27e35d67d330dacac0dceb5efe0399edeab9f8339e2a6",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-0e57145dfc9e4da58b5ff1fcacb1eb85.7z",
+        sha256 = "bf955dd16ab5b1a877d262c7680b8c7588f2d516465db4d367067245ac30ef9f",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.41.34120-388dcb967b3a484590bd3844a02b3d2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.41.34120-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "b02957a365ad582441fb9eb7e36a8a6abb2ecd781dfad896540affef808ced63",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.29.30133-2fe96a9861fb43c0a771c708b7b52c1e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-2fe96a9861fb43c0a771c708b7b52c1e.7z",
+        sha256 = "46f0a5bb43a46eb18dacd49ba0e3103a60ded8d85d7cd50d0f7ba16ac5821d02",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-388dcb967b3a484590bd3844a02b3d2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.29.30133-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "a4a0d9c5ec5e2e1d8f23dc1826850949f009732272c0d56d06374fff5de33510",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.41.34120-a4889abb835a4362a4adedf097b0ff55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.41.34120-a4889abb835a4362a4adedf097b0ff55.7z",
+        sha256 = "dea3b0c27afe6f9bcd96901dc07637758c67c8a82f6958482a2f7bca5f51fe54",
+        toolset = "14.41.34120"
+    },
+    ["windows-x64-vc14.40.33807-fd69b25145f24ddd927c0cf7ea98f965"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.40.33807-fd69b25145f24ddd927c0cf7ea98f965.7z",
+        sha256 = "40ef14e7e32230f1f8355cd96d56306488063c2ac103f3553bb49225f13b131b",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.41.34120-fd69b25145f24ddd927c0cf7ea98f965"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.41.34120-fd69b25145f24ddd927c0cf7ea98f965.7z",
+        sha256 = "fa5e4f2ce93d11471d12a65792b2d8d617c1f33aa13b1f5af874e0fe49ab6d03",
+        toolset = "14.41.34120"
+    },
+    ["windows-x86-vc142-6d7e0aecee3041fda9c9d1ef68cda018"] = {
+        toolset = "14.29.30133",
+        sha256 = "4646d3bbbad28f08385a314635691a7aacf6a88f113caae8b7928a1ad03a1414",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc142-6d7e0aecee3041fda9c9d1ef68cda018.7z"
+    },
+    ["windows-x86-vc14.44.35207-97de180db5a141a3aa8f82508765b09a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.44.35207-97de180db5a141a3aa8f82508765b09a.7z",
+        sha256 = "571a7ed876db41630ce22da3f5fbb11363c20ed41305f4b8289204b9faf1d652",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.38.33130-388dcb967b3a484590bd3844a02b3d2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.38.33130-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "c7815f19f7f9c7dc564737f80534ef69737930345cc2db5b86e8aaf8ab428163",
+        toolset = "14.38.33130"
+    },
+    ["windows-x64-vc14.38.33130-fd69b25145f24ddd927c0cf7ea98f965"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.38.33130-fd69b25145f24ddd927c0cf7ea98f965.7z",
+        sha256 = "5005741e7af4ab3677705d796bfe924faeab859b26f394edc9cbded5f0caa2dc",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc14.43.34808-388dcb967b3a484590bd3844a02b3d2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.43.34808-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "7dcac4c91da2e688f1e0eea2f46f4dea7be239e3b1289a9c5531a1152ed9d829",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.38.33130-a4889abb835a4362a4adedf097b0ff55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.38.33130-a4889abb835a4362a4adedf097b0ff55.7z",
+        sha256 = "0bf77e97fc6f7659ef3fc6a5075a201380820a760f7f6f696b668d619dcba466",
+        toolset = "14.38.33130"
+    },
+    ["windows-x86-vc141-3686b099b82948509ac1be5c64f561e5"] = {
+        toolset = "14.16.27023",
+        sha256 = "4004243bd69e4011861ed5c908b488075e0413c54996fdd6426f7184e84ae9a8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc141-3686b099b82948509ac1be5c64f561e5.7z"
+    },
+    ["windows-x86-vc14.40.33807-97de180db5a141a3aa8f82508765b09a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.40.33807-97de180db5a141a3aa8f82508765b09a.7z",
+        sha256 = "b6cff98a4e37b57604c20f1e8050da8411ec736929c2a1ddbac81ceb6eee07bd",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-388dcb967b3a484590bd3844a02b3d2e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.40.33807-388dcb967b3a484590bd3844a02b3d2e.7z",
+        sha256 = "efc14b4ca53848e930daa1d6cfb0b9fbf9264359e141ea325d3beb6cf5c2560e",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-fd69b25145f24ddd927c0cf7ea98f965"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-fd69b25145f24ddd927c0cf7ea98f965.7z",
+        sha256 = "780967fcad17b3363e7c5b9aa4e8244bcb6fc008ef3e87e91131ebdaa2177577",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-a4889abb835a4362a4adedf097b0ff55"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.29.30133-a4889abb835a4362a4adedf097b0ff55.7z",
+        sha256 = "03ec378270c1100e960ce52311a550b3e87dfc2c901800f41257ba4061feb2b7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.37.32822-2fe96a9861fb43c0a771c708b7b52c1e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc14.37.32822-2fe96a9861fb43c0a771c708b7b52c1e.7z",
+        sha256 = "e6b24b9d38f1ee1862ec91d5d989bfe280085c1a27ddded2422013fca4cb4e88",
+        toolset = "14.37.32822"
+    },
+    ["windows-x64-vc141-0e57145dfc9e4da58b5ff1fcacb1eb85"] = {
+        toolset = "14.16.27023",
+        sha256 = "12356404a32c33ec9d66fc58e8212ef8f6962d42afaa7ae54c86747dd1781163",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x64-vc141-0e57145dfc9e4da58b5ff1fcacb1eb85.7z"
+    },
+    ["windows-x86-vc14.37.32822-3686b099b82948509ac1be5c64f561e5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libcroco-0.6.13/windows-x86-vc14.37.32822-3686b099b82948509ac1be5c64f561e5.7z",
+        sha256 = "4fa069998d44b7da5a91d9f51564091efb6f93b648794200252b8da8109e2cf5",
+        toolset = "14.37.32822"
     }
 }
