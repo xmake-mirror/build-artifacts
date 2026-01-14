@@ -1,242 +1,282 @@
 {
-    ["windows-x86-vc14.44.35207-690861b5208047008cf6fe443e824f05"] = {
-        sha256 = "3b661f9584550619174614aea8757135ecdda68d023a76b89bf94bda2c7de5a4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-690861b5208047008cf6fe443e824f05.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.40.33807-6d993ef23c944b719642f79710d7b1ed"] = {
-        sha256 = "3e131f9ed49b544effd4dffbbfc828b359911cea96ec7e9febbe023a874902c6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-6d993ef23c944b719642f79710d7b1ed.7z",
-        toolset = "14.40.33807"
+    ["windows-x64-vc14.43.34808-01b3d6395b97485b967f4759f07e4cbb"] = {
+        toolset = "14.43.34808",
+        sha256 = "f89e874c5c872ab9605bfe2a1975fae4365ae66834f722b96facfd359f297e7e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-01b3d6395b97485b967f4759f07e4cbb.7z"
     },
     ["windows-x86-vc14.40.33807-29546b77e3aa487fb80f8395b8dc0839"] = {
+        toolset = "14.40.33807",
         sha256 = "0907c44f196e2c7153821b2c9334e040540aacc51c763a98ff39177fce9e019a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-29546b77e3aa487fb80f8395b8dc0839.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.43.34808-b36d64ce59014e34bea4eaee0da329b7"] = {
-        sha256 = "835747b0b89d48f9dfe647e7b3c9b436f7287e951dd05d48e03daa47ef20533b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-b36d64ce59014e34bea4eaee0da329b7.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-01b3d6395b97485b967f4759f07e4cbb"] = {
-        sha256 = "e20f98e23a7c56ffbd1f56fec826df87b5ef99be54df6f4e5990dcdda523d865",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-01b3d6395b97485b967f4759f07e4cbb.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.44.35207-6d993ef23c944b719642f79710d7b1ed"] = {
-        sha256 = "3b2b789e090a5d8d63a55801abdb04d349d8d776db77c901cd1f7e671af09cc0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-6d993ef23c944b719642f79710d7b1ed.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.40.33807-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
-        sha256 = "930a991a6118203b09416a3a804cd5689118f490ae84b11beeb41c12d97558a4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.42.34433-29546b77e3aa487fb80f8395b8dc0839"] = {
-        sha256 = "f5fa517ef68eb4409a8f27a45fce793175520443f58b75b5fd3f9f231d7afa0c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-29546b77e3aa487fb80f8395b8dc0839.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.43.34808-6d993ef23c944b719642f79710d7b1ed"] = {
-        sha256 = "ed0427f9e7b7db1c1a770d371af6f45597fd3d634a18aedcc3693740ffc16f4f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-6d993ef23c944b719642f79710d7b1ed.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.41.34120-1474c87cc68d41f0b3e33d9fedf0072c"] = {
-        sha256 = "ca489b97068204d938b95d6feffc4a0feb2519cb478e9ba7f250045144cdcb6b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-1474c87cc68d41f0b3e33d9fedf0072c.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.43.34808-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
-        sha256 = "78e84dab434e3eaf7a124876fcb5f60357361ebf59760038cdb3d7d78bf55ef8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
-        sha256 = "d87dba6311becc20aa9359d48ae023ee5b1832a20e746987f739a01cd89a7929",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-12d3d2c6ada4475cb87b30ddd4427fdf.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
-        sha256 = "62d826e13eddb7b09428239598347d4ac7f0dc8176cba366e49757a78eea40b0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-690861b5208047008cf6fe443e824f05"] = {
-        sha256 = "0f8562be916b8d4b038410b23a4f5ed4b6242dbd6784b351d0fd46946973bfc4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-690861b5208047008cf6fe443e824f05.7z",
-        toolset = "14.43.34808"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-29546b77e3aa487fb80f8395b8dc0839.7z"
     },
     ["windows-x64-vc14.44.35207-b36d64ce59014e34bea4eaee0da329b7"] = {
+        toolset = "14.44.35207",
         sha256 = "3c1c6e17884f51d096e78406327a2e0337fc3e5ffbaef2bd17e01f0a6b101403",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-b36d64ce59014e34bea4eaee0da329b7.7z",
-        toolset = "14.44.35207"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-b36d64ce59014e34bea4eaee0da329b7.7z"
     },
-    ["windows-x64-vc14.40.33807-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
-        sha256 = "54f9cbd52585e117c586a995bc1cb03ab407ad1b2ee9bf144e80f8e7760bf226",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-12d3d2c6ada4475cb87b30ddd4427fdf.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.44.35207-01b3d6395b97485b967f4759f07e4cbb"] = {
-        sha256 = "b4237dbe6243a8583d47d38b02849e12e65b6b2dc10a0eeffc97d5716b1e7871",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-01b3d6395b97485b967f4759f07e4cbb.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.41.34120-29546b77e3aa487fb80f8395b8dc0839"] = {
-        sha256 = "6f5b046af12a7fa41c9a4bc46e1a9d42626267d063c12a53d29e7c723b132469",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-29546b77e3aa487fb80f8395b8dc0839.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.41.34120-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
-        sha256 = "8ef03959067d7f80c20650e2ceb1f861652b265594162bd5ced2155c08f6293a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.41.34120-b36d64ce59014e34bea4eaee0da329b7"] = {
-        sha256 = "82ca42390979f508e8f3a8c30abeae515fa92e455beaa1d5a3850eef8203a780",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-b36d64ce59014e34bea4eaee0da329b7.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-690861b5208047008cf6fe443e824f05"] = {
-        sha256 = "aefd05e344b88927c46d0be0e9ccc6292976c2ce13dc2b75c1be1b8ddde186e3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-690861b5208047008cf6fe443e824f05.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-29546b77e3aa487fb80f8395b8dc0839"] = {
-        sha256 = "01cc6534353c63fe3cad05674e2d8596246966575b62b24edaa6ad6e3530c1c0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-29546b77e3aa487fb80f8395b8dc0839.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-690861b5208047008cf6fe443e824f05"] = {
-        sha256 = "45653c9f4585eae17277d91a0f9f844e374800d21bbfa81dcaffc9b87907341a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-690861b5208047008cf6fe443e824f05.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.42.34433-b36d64ce59014e34bea4eaee0da329b7"] = {
-        sha256 = "fd5e952f2691eacbaa300049255da1b1950b2280fc01b9fbedc096b4a4ee1e42",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-b36d64ce59014e34bea4eaee0da329b7.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.44.35207-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
-        sha256 = "c739f9b58436c957f325f7615111a68f224f93b8c4c0dc57d4762bf04b57c16a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.43.34808-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
-        sha256 = "bfb4393cf7eefffab59046177e3bf9f792f807b6dee2c7e9e04558cfb1f8c3de",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-12d3d2c6ada4475cb87b30ddd4427fdf.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.40.33807-01b3d6395b97485b967f4759f07e4cbb"] = {
-        sha256 = "efc013f0cd2bd315577e0bf331cc05779684dd02cc775b804c9457eaafd3f318",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-01b3d6395b97485b967f4759f07e4cbb.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.42.34433-01b3d6395b97485b967f4759f07e4cbb"] = {
-        sha256 = "db624af544906bec6208ef6d8e9b6f129b996209c5674946acc209de50c4b65c",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-01b3d6395b97485b967f4759f07e4cbb.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.42.34433-6d993ef23c944b719642f79710d7b1ed"] = {
-        sha256 = "d55102e069284e28dea8567cd37b442000d9d588e401a7ccdc7232fe3aa22e36",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-6d993ef23c944b719642f79710d7b1ed.7z",
-        toolset = "14.42.34433"
+    ["windows-x86-vc14.44.35207-6d993ef23c944b719642f79710d7b1ed"] = {
+        toolset = "14.44.35207",
+        sha256 = "3b2b789e090a5d8d63a55801abdb04d349d8d776db77c901cd1f7e671af09cc0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-6d993ef23c944b719642f79710d7b1ed.7z"
     },
     ["windows-x64-vc14.42.34433-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
+        toolset = "14.42.34433",
         sha256 = "50c489da353c35f662e834552483b4a100d65d7337b2cf69d35679f09e869f46",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-12d3d2c6ada4475cb87b30ddd4427fdf.7z",
-        toolset = "14.42.34433"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-12d3d2c6ada4475cb87b30ddd4427fdf.7z"
     },
-    ["windows-x64-vc14.40.33807-1474c87cc68d41f0b3e33d9fedf0072c"] = {
-        sha256 = "eff9cafcc4a78409a0e0d73c1f9d83636f67f2aa2ec47766b09dbd7f076dc5bc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-1474c87cc68d41f0b3e33d9fedf0072c.7z",
-        toolset = "14.40.33807"
+    ["windows-x86-vc14.42.34433-29546b77e3aa487fb80f8395b8dc0839"] = {
+        toolset = "14.42.34433",
+        sha256 = "f5fa517ef68eb4409a8f27a45fce793175520443f58b75b5fd3f9f231d7afa0c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-29546b77e3aa487fb80f8395b8dc0839.7z"
     },
-    ["windows-x64-vc14.44.35207-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
-        sha256 = "2f229ae98c3b47cd0866903c3356e7fabd4c5cee8ab24b34a47617a386c90dcf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-12d3d2c6ada4475cb87b30ddd4427fdf.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.43.34808-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
+        toolset = "14.43.34808",
+        sha256 = "bfb4393cf7eefffab59046177e3bf9f792f807b6dee2c7e9e04558cfb1f8c3de",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-12d3d2c6ada4475cb87b30ddd4427fdf.7z"
     },
-    ["windows-x64-vc14.43.34808-1474c87cc68d41f0b3e33d9fedf0072c"] = {
-        sha256 = "6ab094a0cd186859b3419265038a222f88f17851faae7cad8baacc375c16bd4b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-1474c87cc68d41f0b3e33d9fedf0072c.7z",
-        toolset = "14.43.34808"
+    ["windows-x64-vc14.40.33807-01b3d6395b97485b967f4759f07e4cbb"] = {
+        toolset = "14.40.33807",
+        sha256 = "efc013f0cd2bd315577e0bf331cc05779684dd02cc775b804c9457eaafd3f318",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-01b3d6395b97485b967f4759f07e4cbb.7z"
     },
-    ["windows-x64-vc14.43.34808-01b3d6395b97485b967f4759f07e4cbb"] = {
-        sha256 = "f89e874c5c872ab9605bfe2a1975fae4365ae66834f722b96facfd359f297e7e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-01b3d6395b97485b967f4759f07e4cbb.7z",
-        toolset = "14.43.34808"
+    ["windows-x64-vc14.29.30133-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
+        toolset = "14.29.30133",
+        sha256 = "d87dba6311becc20aa9359d48ae023ee5b1832a20e746987f739a01cd89a7929",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-12d3d2c6ada4475cb87b30ddd4427fdf.7z"
     },
-    ["windows-x64-vc14.44.35207-1474c87cc68d41f0b3e33d9fedf0072c"] = {
-        sha256 = "51cf9ae70c14977e8660ee010f20557baed2fd01cba0803ead3dcb19c5a06a56",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-1474c87cc68d41f0b3e33d9fedf0072c.7z",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.43.34808-690861b5208047008cf6fe443e824f05"] = {
+        toolset = "14.43.34808",
+        sha256 = "0f8562be916b8d4b038410b23a4f5ed4b6242dbd6784b351d0fd46946973bfc4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-690861b5208047008cf6fe443e824f05.7z"
     },
-    ["windows-x64-vc14.42.34433-1474c87cc68d41f0b3e33d9fedf0072c"] = {
-        sha256 = "5fa4469ddad0821efdd362a79b9edfa0484cf2b5ca1ca2a9e023432e8e0ed3e5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-1474c87cc68d41f0b3e33d9fedf0072c.7z",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.41.34120-6d993ef23c944b719642f79710d7b1ed"] = {
-        sha256 = "fdb7441a6fe630cfb2959920da85e239048a1fd23b0f31d708702524edca8fa4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-6d993ef23c944b719642f79710d7b1ed.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-b36d64ce59014e34bea4eaee0da329b7"] = {
-        sha256 = "4406d31e3f002581c731b01703c95ac3d8f56f657ba08c977f668c52dd534f19",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-b36d64ce59014e34bea4eaee0da329b7.7z",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.41.34120-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
+        toolset = "14.41.34120",
+        sha256 = "8ef03959067d7f80c20650e2ceb1f861652b265594162bd5ced2155c08f6293a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z"
     },
     ["windows-x64-vc14.41.34120-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
+        toolset = "14.41.34120",
         sha256 = "83127b76724e89747ff993a83bbc19ebf814177159ec1a682d466a280a5ad0a7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-12d3d2c6ada4475cb87b30ddd4427fdf.7z",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.44.35207-29546b77e3aa487fb80f8395b8dc0839"] = {
-        sha256 = "c6b19acd16f981af6d0833f76e2bf7c0af94ef4dac3ad63223798b68f61748db",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-29546b77e3aa487fb80f8395b8dc0839.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.43.34808-29546b77e3aa487fb80f8395b8dc0839"] = {
-        sha256 = "943e2b06c34c931d4b7559ff4f16be8b9faec96eda140d6772b4c38c015164f2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-29546b77e3aa487fb80f8395b8dc0839.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-6d993ef23c944b719642f79710d7b1ed"] = {
-        sha256 = "300329d69d362f2e848d3d73b4f29f2b82e2e4dbfeed83e22788db98f9b5eb28",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-6d993ef23c944b719642f79710d7b1ed.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.40.33807-690861b5208047008cf6fe443e824f05"] = {
-        sha256 = "689c9ddf70f4bbe75ddda0eb428040b9fc4f6f6f49c760cb2e69a4ca60e7e0b2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-690861b5208047008cf6fe443e824f05.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.29.30133-1474c87cc68d41f0b3e33d9fedf0072c"] = {
-        sha256 = "2905171f2550beb7afdee9eb69cd0cf23c207060007f6fd6f65d25f2a46b8119",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-1474c87cc68d41f0b3e33d9fedf0072c.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-b36d64ce59014e34bea4eaee0da329b7"] = {
-        sha256 = "ead956a7c44c0980e8b8ceac778a764d9d2b505a0972cf98ae3d32cde445812b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-b36d64ce59014e34bea4eaee0da329b7.7z",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.41.34120-01b3d6395b97485b967f4759f07e4cbb"] = {
-        sha256 = "179c519b880df10288b767480717a2c97478af9df3fe4a532d40794cad7781f1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-01b3d6395b97485b967f4759f07e4cbb.7z",
-        toolset = "14.41.34120"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-12d3d2c6ada4475cb87b30ddd4427fdf.7z"
     },
     ["windows-x86-vc14.42.34433-690861b5208047008cf6fe443e824f05"] = {
+        toolset = "14.42.34433",
         sha256 = "493094d811390cfcdb0fd8c1dfdea331c904018590d542c60960f7192d1e7ed6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-690861b5208047008cf6fe443e824f05.7z",
-        toolset = "14.42.34433"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-690861b5208047008cf6fe443e824f05.7z"
+    },
+    ["windows-x64-vc14.40.33807-1474c87cc68d41f0b3e33d9fedf0072c"] = {
+        toolset = "14.40.33807",
+        sha256 = "eff9cafcc4a78409a0e0d73c1f9d83636f67f2aa2ec47766b09dbd7f076dc5bc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-1474c87cc68d41f0b3e33d9fedf0072c.7z"
     },
     ["windows-x86-vc14.42.34433-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
+        toolset = "14.42.34433",
         sha256 = "01c2dbedbb784050f39980769c5855d95f58941aaec4fbb8c7e3c147539256aa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z",
-        toolset = "14.42.34433"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z"
+    },
+    ["windows-x64-vc14.44.35207-9191630d359f4084a3674ae5f42a6b2a"] = {
+        toolset = "14.44.35207",
+        sha256 = "2491361dae822d6b0cb190b27be21bf4d9f784ed38fabcf6076476ae8f242f88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-9191630d359f4084a3674ae5f42a6b2a.7z"
+    },
+    ["windows-x64-vc14.43.34808-b36d64ce59014e34bea4eaee0da329b7"] = {
+        toolset = "14.43.34808",
+        sha256 = "835747b0b89d48f9dfe647e7b3c9b436f7287e951dd05d48e03daa47ef20533b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-b36d64ce59014e34bea4eaee0da329b7.7z"
+    },
+    ["windows-x64-vc14.29.30133-1474c87cc68d41f0b3e33d9fedf0072c"] = {
+        toolset = "14.29.30133",
+        sha256 = "2905171f2550beb7afdee9eb69cd0cf23c207060007f6fd6f65d25f2a46b8119",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-1474c87cc68d41f0b3e33d9fedf0072c.7z"
+    },
+    ["windows-x86-vc14.40.33807-6d993ef23c944b719642f79710d7b1ed"] = {
+        toolset = "14.40.33807",
+        sha256 = "3e131f9ed49b544effd4dffbbfc828b359911cea96ec7e9febbe023a874902c6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-6d993ef23c944b719642f79710d7b1ed.7z"
+    },
+    ["windows-x64-vc14.41.34120-b36d64ce59014e34bea4eaee0da329b7"] = {
+        toolset = "14.41.34120",
+        sha256 = "82ca42390979f508e8f3a8c30abeae515fa92e455beaa1d5a3850eef8203a780",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-b36d64ce59014e34bea4eaee0da329b7.7z"
+    },
+    ["windows-x86-vc14.29.30133-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
+        toolset = "14.29.30133",
+        sha256 = "62d826e13eddb7b09428239598347d4ac7f0dc8176cba366e49757a78eea40b0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z"
+    },
+    ["windows-x64-vc14.42.34433-b36d64ce59014e34bea4eaee0da329b7"] = {
+        toolset = "14.42.34433",
+        sha256 = "fd5e952f2691eacbaa300049255da1b1950b2280fc01b9fbedc096b4a4ee1e42",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-b36d64ce59014e34bea4eaee0da329b7.7z"
+    },
+    ["windows-x64-vc14.41.34120-1474c87cc68d41f0b3e33d9fedf0072c"] = {
+        toolset = "14.41.34120",
+        sha256 = "ca489b97068204d938b95d6feffc4a0feb2519cb478e9ba7f250045144cdcb6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-1474c87cc68d41f0b3e33d9fedf0072c.7z"
+    },
+    ["windows-x64-vc14.44.35207-01b3d6395b97485b967f4759f07e4cbb"] = {
+        toolset = "14.44.35207",
+        sha256 = "b4237dbe6243a8583d47d38b02849e12e65b6b2dc10a0eeffc97d5716b1e7871",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-01b3d6395b97485b967f4759f07e4cbb.7z"
+    },
+    ["windows-x86-vc14.41.34120-29546b77e3aa487fb80f8395b8dc0839"] = {
+        toolset = "14.41.34120",
+        sha256 = "6f5b046af12a7fa41c9a4bc46e1a9d42626267d063c12a53d29e7c723b132469",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-29546b77e3aa487fb80f8395b8dc0839.7z"
+    },
+    ["windows-x64-vc14.42.34433-01b3d6395b97485b967f4759f07e4cbb"] = {
+        toolset = "14.42.34433",
+        sha256 = "db624af544906bec6208ef6d8e9b6f129b996209c5674946acc209de50c4b65c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-01b3d6395b97485b967f4759f07e4cbb.7z"
+    },
+    ["windows-x86-vc14.40.33807-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
+        toolset = "14.40.33807",
+        sha256 = "930a991a6118203b09416a3a804cd5689118f490ae84b11beeb41c12d97558a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z"
+    },
+    ["windows-x86-vc14.44.35207-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
+        toolset = "14.44.35207",
+        sha256 = "c739f9b58436c957f325f7615111a68f224f93b8c4c0dc57d4762bf04b57c16a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z"
+    },
+    ["windows-x86-vc14.29.30133-29546b77e3aa487fb80f8395b8dc0839"] = {
+        toolset = "14.29.30133",
+        sha256 = "01cc6534353c63fe3cad05674e2d8596246966575b62b24edaa6ad6e3530c1c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-29546b77e3aa487fb80f8395b8dc0839.7z"
+    },
+    ["windows-x86-vc14.29.30133-6d993ef23c944b719642f79710d7b1ed"] = {
+        toolset = "14.29.30133",
+        sha256 = "300329d69d362f2e848d3d73b4f29f2b82e2e4dbfeed83e22788db98f9b5eb28",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-6d993ef23c944b719642f79710d7b1ed.7z"
+    },
+    ["windows-x86-vc14.42.34433-6d993ef23c944b719642f79710d7b1ed"] = {
+        toolset = "14.42.34433",
+        sha256 = "d55102e069284e28dea8567cd37b442000d9d588e401a7ccdc7232fe3aa22e36",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.42.34433-6d993ef23c944b719642f79710d7b1ed.7z"
+    },
+    ["windows-x64-vc14.42.34433-1474c87cc68d41f0b3e33d9fedf0072c"] = {
+        toolset = "14.42.34433",
+        sha256 = "5fa4469ddad0821efdd362a79b9edfa0484cf2b5ca1ca2a9e023432e8e0ed3e5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.42.34433-1474c87cc68d41f0b3e33d9fedf0072c.7z"
+    },
+    ["windows-x64-vc14.40.33807-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
+        toolset = "14.40.33807",
+        sha256 = "54f9cbd52585e117c586a995bc1cb03ab407ad1b2ee9bf144e80f8e7760bf226",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-12d3d2c6ada4475cb87b30ddd4427fdf.7z"
+    },
+    ["windows-x86-vc14.41.34120-690861b5208047008cf6fe443e824f05"] = {
+        toolset = "14.41.34120",
+        sha256 = "45653c9f4585eae17277d91a0f9f844e374800d21bbfa81dcaffc9b87907341a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-690861b5208047008cf6fe443e824f05.7z"
+    },
+    ["windows-x86-vc14.44.35207-7c820b40714f4fdbab9176a2799b3637"] = {
+        toolset = "14.44.35207",
+        sha256 = "fe23c36e6e38c6fbef62aa9c8baa90f96bd06c589c6e6af132b4c80dea2b1cc6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-7c820b40714f4fdbab9176a2799b3637.7z"
+    },
+    ["windows-x86-vc14.29.30133-690861b5208047008cf6fe443e824f05"] = {
+        toolset = "14.29.30133",
+        sha256 = "aefd05e344b88927c46d0be0e9ccc6292976c2ce13dc2b75c1be1b8ddde186e3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.29.30133-690861b5208047008cf6fe443e824f05.7z"
+    },
+    ["windows-x64-vc14.29.30133-01b3d6395b97485b967f4759f07e4cbb"] = {
+        toolset = "14.29.30133",
+        sha256 = "e20f98e23a7c56ffbd1f56fec826df87b5ef99be54df6f4e5990dcdda523d865",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-01b3d6395b97485b967f4759f07e4cbb.7z"
+    },
+    ["windows-x64-vc14.44.35207-f2e03593f49b4df0bc8f5e90e6af4014"] = {
+        toolset = "14.44.35207",
+        sha256 = "4becc61ba5798571ef243c99a41fdf4f42d83de2a4a41e30dcf1c72bca25afef",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-f2e03593f49b4df0bc8f5e90e6af4014.7z"
+    },
+    ["windows-x64-vc14.44.35207-12d3d2c6ada4475cb87b30ddd4427fdf"] = {
+        toolset = "14.44.35207",
+        sha256 = "2f229ae98c3b47cd0866903c3356e7fabd4c5cee8ab24b34a47617a386c90dcf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-12d3d2c6ada4475cb87b30ddd4427fdf.7z"
+    },
+    ["windows-x64-vc14.44.35207-fb78b12a855e4efa8907916c8e691936"] = {
+        toolset = "14.44.35207",
+        sha256 = "f7d2ac2808ef8754587839abb469a0be65ba4fdc29588027d939f4a0cf266d9b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-fb78b12a855e4efa8907916c8e691936.7z"
+    },
+    ["windows-x86-vc14.44.35207-6a8a71a1b42f40b6a26c3e4fe770df3f"] = {
+        toolset = "14.44.35207",
+        sha256 = "f511162fba37d016fec061a263552c4c289d0eaec92f32c0e25a3300ddc89e65",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-6a8a71a1b42f40b6a26c3e4fe770df3f.7z"
+    },
+    ["windows-x86-vc14.43.34808-c98ca2b6b1c04a09a4ed0c2766ef7e77"] = {
+        toolset = "14.43.34808",
+        sha256 = "78e84dab434e3eaf7a124876fcb5f60357361ebf59760038cdb3d7d78bf55ef8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-c98ca2b6b1c04a09a4ed0c2766ef7e77.7z"
+    },
+    ["windows-x86-vc14.43.34808-29546b77e3aa487fb80f8395b8dc0839"] = {
+        toolset = "14.43.34808",
+        sha256 = "943e2b06c34c931d4b7559ff4f16be8b9faec96eda140d6772b4c38c015164f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-29546b77e3aa487fb80f8395b8dc0839.7z"
+    },
+    ["windows-x86-vc14.40.33807-690861b5208047008cf6fe443e824f05"] = {
+        toolset = "14.40.33807",
+        sha256 = "689c9ddf70f4bbe75ddda0eb428040b9fc4f6f6f49c760cb2e69a4ca60e7e0b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.40.33807-690861b5208047008cf6fe443e824f05.7z"
+    },
+    ["windows-x64-vc14.29.30133-b36d64ce59014e34bea4eaee0da329b7"] = {
+        toolset = "14.29.30133",
+        sha256 = "4406d31e3f002581c731b01703c95ac3d8f56f657ba08c977f668c52dd534f19",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.29.30133-b36d64ce59014e34bea4eaee0da329b7.7z"
+    },
+    ["windows-x64-vc14.44.35207-1474c87cc68d41f0b3e33d9fedf0072c"] = {
+        toolset = "14.44.35207",
+        sha256 = "51cf9ae70c14977e8660ee010f20557baed2fd01cba0803ead3dcb19c5a06a56",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-1474c87cc68d41f0b3e33d9fedf0072c.7z"
+    },
+    ["windows-x64-vc14.40.33807-b36d64ce59014e34bea4eaee0da329b7"] = {
+        toolset = "14.40.33807",
+        sha256 = "ead956a7c44c0980e8b8ceac778a764d9d2b505a0972cf98ae3d32cde445812b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.40.33807-b36d64ce59014e34bea4eaee0da329b7.7z"
+    },
+    ["windows-x86-vc14.44.35207-80aa416a6b384451a3738a15924b4ce8"] = {
+        toolset = "14.44.35207",
+        sha256 = "bb7054a7cccc0354da4ec400045dedc96e730811274b4077b89daeb80a186844",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-80aa416a6b384451a3738a15924b4ce8.7z"
+    },
+    ["windows-x86-vc14.44.35207-29546b77e3aa487fb80f8395b8dc0839"] = {
+        toolset = "14.44.35207",
+        sha256 = "c6b19acd16f981af6d0833f76e2bf7c0af94ef4dac3ad63223798b68f61748db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-29546b77e3aa487fb80f8395b8dc0839.7z"
+    },
+    ["windows-x86-vc14.44.35207-690861b5208047008cf6fe443e824f05"] = {
+        toolset = "14.44.35207",
+        sha256 = "3b661f9584550619174614aea8757135ecdda68d023a76b89bf94bda2c7de5a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-690861b5208047008cf6fe443e824f05.7z"
+    },
+    ["windows-x64-vc14.41.34120-01b3d6395b97485b967f4759f07e4cbb"] = {
+        toolset = "14.41.34120",
+        sha256 = "179c519b880df10288b767480717a2c97478af9df3fe4a532d40794cad7781f1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.41.34120-01b3d6395b97485b967f4759f07e4cbb.7z"
+    },
+    ["windows-x64-vc14.43.34808-1474c87cc68d41f0b3e33d9fedf0072c"] = {
+        toolset = "14.43.34808",
+        sha256 = "6ab094a0cd186859b3419265038a222f88f17851faae7cad8baacc375c16bd4b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.43.34808-1474c87cc68d41f0b3e33d9fedf0072c.7z"
+    },
+    ["windows-x86-vc14.44.35207-218e6f6ebe944a618a74f48c05cf34e6"] = {
+        toolset = "14.44.35207",
+        sha256 = "3b9e7559fedef912cced617a5e8b0487c7c4941ae48341080578e5ec1828e11e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.44.35207-218e6f6ebe944a618a74f48c05cf34e6.7z"
+    },
+    ["windows-x86-vc14.43.34808-6d993ef23c944b719642f79710d7b1ed"] = {
+        toolset = "14.43.34808",
+        sha256 = "ed0427f9e7b7db1c1a770d371af6f45597fd3d634a18aedcc3693740ffc16f4f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.43.34808-6d993ef23c944b719642f79710d7b1ed.7z"
+    },
+    ["windows-x64-vc14.44.35207-96545bef1809435489d9b8997cf1e32b"] = {
+        toolset = "14.44.35207",
+        sha256 = "67453fb6589073ad009c46a5491096af5f7ff1c20a2fff9d10c621d4edb8bcb4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x64-vc14.44.35207-96545bef1809435489d9b8997cf1e32b.7z"
+    },
+    ["windows-x86-vc14.41.34120-6d993ef23c944b719642f79710d7b1ed"] = {
+        toolset = "14.41.34120",
+        sha256 = "fdb7441a6fe630cfb2959920da85e239048a1fd23b0f31d708702524edca8fa4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cairo-1.18.0/windows-x86-vc14.41.34120-6d993ef23c944b719642f79710d7b1ed.7z"
     }
 }
