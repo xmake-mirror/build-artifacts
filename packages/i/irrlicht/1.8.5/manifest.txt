@@ -1,602 +1,602 @@
 {
-    ["windows-x86-vc14.29.30133-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "be606d0e589fee69f034a114f4d7b94849e8013432ba560e91421ec4f6ca9fff",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.40.33807-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "7d5b42d98671bd3561737d0f55d6d67d94ff7c19f8abd4b0539f023991f1a2e1",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc142-61dba86db07149248bc1c98ba36367ab"] = {
+    ["windows-x86-vc142-77afebbc49ab4578896303402704bee4"] = {
         toolset = "14.29.30133",
-        sha256 = "cd430f17ef83daca4dbb970a6781dbef6569baf93ea3212bb16d5dbe85dbd742",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-61dba86db07149248bc1c98ba36367ab.7z"
-    },
-    ["windows-x86-vc14.40.33807-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "3375abbf832d88d5ae68c6b072ddf80536e1aeb29e9f552b064b751b0ecaf43e",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc14.42.34433-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "30c1ba3bcf8e44e66406ad721c2d2a32e17671dbb569a144e2d284ebfbcba366",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.44.35207-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "156c1b5ac9dec41de1b58008b62f6c1e14de50e9de8926bcb664119193737821",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.38.33130-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "46bdff7446b02afb2556d43fb829933d1dc68343276e054e77eb4e4c17538f3b",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.40.33807-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "2ac1bc2991825e5772da7c1f961f7f6b60fd23d90099e6db11f8158d9ca0de3b",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc141-61dba86db07149248bc1c98ba36367ab"] = {
-        toolset = "14.16.27023",
-        sha256 = "f07afe15966a2bcf87f813426675049d37908e3752e04fac76ddd8e03c7a5df8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-61dba86db07149248bc1c98ba36367ab.7z"
-    },
-    ["windows-x64-vc14.38.33130-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "d38ce249f31cd2887d3b672b0d5af82ca010abf387ef9614ca4b949400da6712",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.41.34120-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "8aa5defac7dfdaa4f752c5894c2d1bfcf1c406fe08268193671416afe93b4bb6",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.29.30133-07622a3a76b04b4f8a969e800e21cbbc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-07622a3a76b04b4f8a969e800e21cbbc.7z",
-        sha256 = "9e0432980e838ec0fa5ab35ddfa8e68247c6f2383882ca8cfa7af9a8df380503",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-07622a3a76b04b4f8a969e800e21cbbc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-07622a3a76b04b4f8a969e800e21cbbc.7z",
-        sha256 = "85f1b4ae1f4637e38e49fe5664a759794fb730b7e57733dad3f74927dd14fd92",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc141-7cd2e4ed98444061a19ae1450702c1e9"] = {
-        toolset = "14.16.27023",
-        sha256 = "bb8a57cefdc84129fc8bff512c4e3f3e660d36ec7ddc6a67e14eaf15819f0ded",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-7cd2e4ed98444061a19ae1450702c1e9.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-77afebbc49ab4578896303402704bee4.7z",
+        sha256 = "96db92d01a4aa83f0fcb98b5155deef3857e4983614bcb757185db7fe15a56e9"
     },
     ["windows-x86-vc141-2f9bd5129eba4eae9ffedf228f9063bc"] = {
         toolset = "14.16.27023",
-        sha256 = "2239b930093d1ec376ac41999dc82df52baf5af5c33ca0b50eaed1bae686a2d5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-2f9bd5129eba4eae9ffedf228f9063bc.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-2f9bd5129eba4eae9ffedf228f9063bc.7z",
+        sha256 = "2239b930093d1ec376ac41999dc82df52baf5af5c33ca0b50eaed1bae686a2d5"
     },
-    ["windows-x86-vc14.38.33130-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "fcb04a7fb3a047e4740c68d754f15c009c337be85c35d2f7b2e3c2ea5ad4741e",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.43.34808-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "6b97c777fe252d8ed73bc21de82ff5942a5e9f5b91d60173eb224e69ebe8f41a",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.38.33130-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "ef3708eac3e208d2f6010aa72ff70ac05e0d745356acb371fd9c64aeee43ba4c",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.40.33807-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "28760a70c82f973d74f75f191c0b380ac23775e1c7f7832471a0c38a47635ad7",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.43.34808-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "96e5dc114e9fab44617826428b4fc76aa8e852e39e488937a50b7440b6f660fe",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.39.33519-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "d98298467a27bbd870447f29850741218f67fda59bd7fbb32e1408a7b76d4be8",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.40.33807-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "f1288ed1c431c65073a6965caf187521b16482db89495d340d134e4728b93aad",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.42.34433-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "0707b427ac83d9be019a7a8dd02270d98b665384dfd180744cfc31231140f386",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.39.33519-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "d0cff4a948c2863575d6182e28e66c67eeaed57136f904c4805a984df5a9aae5",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.37.32822-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "c7fd74eeaa1435476a043eb69cbcce8ed60eb700c76113a8b22b42e5373b31fa",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.41.34120-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "f88a56f9c70aaaf0bae6c3cfa37511237ad6046f754311a500a2776f8e397489",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc142-7cd2e4ed98444061a19ae1450702c1e9"] = {
-        toolset = "14.29.30133",
-        sha256 = "4432be7e73808b36a4217987462d61ec6a5165dd1268aa8ae60fc215989a43a0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-7cd2e4ed98444061a19ae1450702c1e9.7z"
-    },
-    ["windows-x86-vc14.43.34808-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "c79037e1fdd8f9c6599aa2d2171c15f6cccf30eb6bee853d2b957df3a0ebf91d",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc142-dc4d7dad85384e7696f0297928f9c50e"] = {
-        toolset = "14.29.30133",
-        sha256 = "996a726cec93f58ea1cb2e6d5e33f9a776bc297ccdfb2bfd624cc0786020d78d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-dc4d7dad85384e7696f0297928f9c50e.7z"
-    },
-    ["windows-x64-vc14.42.34433-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "da3a97e5d5122f4e0a52f76aaf6a8c0ee651f49755062ef25fe677b7ca87fd3d",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.29.30133-a2c88749bcf846199e76a985715a8837"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-a2c88749bcf846199e76a985715a8837.7z",
-        sha256 = "d5044d7977f049aaa5a7f8102ec7bfc8c2b4fe98f8c464f8572cd9cd29165d6a",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "13fc950d8acfd88f11910e5bee4bca2a2ebfc52c9db070e227f9ad4aaa9e9ae9"
     },
     ["windows-x64-vc14.44.35207-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "993434ad30e6b046f6fd6de8a52f5b36e068144669a11fa3005d2aa5b4d3163c",
-        toolset = "14.44.35207"
+        sha256 = "ce3be7b714198df31f26a54fc4528756ea6ad00ce15789bc30417aa553eb9739"
     },
-    ["windows-x64-vc141-defb8db0f5624386b80226eac7952de5"] = {
-        toolset = "14.16.27023",
-        sha256 = "1f8ea7df7300c0c740aec458b3b9b356b0ce22d46393dfc0b9ceab9a8a8d0221",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-defb8db0f5624386b80226eac7952de5.7z"
-    },
-    ["windows-x64-vc14.39.33519-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "90ea4d429a3f937de7ad705302e7449dc7ce4c5e9b34079b09b76ff54df394a7",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.44.35207-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "ecfaa6ac19abb2b7d2d09769fd3de16c51cc8b00eef45db4dce13f824262b3c9",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.40.33807-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "30f1cf5f60158bfdd209bbfe3a93f25aa5d3c193be808705a4931f969c86237f",
-        toolset = "14.40.33807"
-    },
-    ["windows-x64-vc141-a2c88749bcf846199e76a985715a8837"] = {
-        toolset = "14.16.27023",
-        sha256 = "ab7bc7758b592e2df5d35db67ac06ad126c611192830064c92f5c67fadd1d1bf",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-a2c88749bcf846199e76a985715a8837.7z"
-    },
-    ["windows-x86-vc14.41.34120-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "fd74883235a2c525f62c355c513538cbf21bca731b29a0aa17fd72a070b28dd7",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.37.32822-c8dc099f3a0743f4b0f89e71093583f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-c8dc099f3a0743f4b0f89e71093583f6.7z",
-        sha256 = "b291d82f63226084d852c3f2eb1fd6a75b68386a2c0e6c34c4810a09f3a5b36b",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "db56a4f1e5f59d819c6f36a0d146b376068fde0a634c8540310b4af02b59e65e",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.42.34433-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "6792b34b212c492fa165ec9382462cf9810a28aa3029964865048cb3fc6c909f",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc14.41.34120-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "7f0b7c0f2037d47c92da1f33fb42f7455cf285f20b00c9a211d63ae17140e216",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.40.33807-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "8ac84e4fcaff3ad58a4c948f98a584b00441a091884b4ceebf7df5983a0a9082",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc142-0719ad1d6eb145e3bf6fd343a1d46a98"] = {
+    ["windows-x86-vc14.29.30133-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
         toolset = "14.29.30133",
-        sha256 = "30dad21d43a49ac47939d859cfa99aeaca69f12b163b2c2043de2cfb34bab48d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-0719ad1d6eb145e3bf6fd343a1d46a98.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "be606d0e589fee69f034a114f4d7b94849e8013432ba560e91421ec4f6ca9fff"
     },
     ["windows-x86-vc14.43.34808-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "72b9b62661a58749defbda9ea16a4204901a57250217d4c5f22931775e56abff",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.37.32822-84fe3808d5c44eafa98c3268df3b9da0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-84fe3808d5c44eafa98c3268df3b9da0.7z",
-        sha256 = "fb152fc102570daf003bf8c6ea496789a72dd0b75d546f383cc17d717a9f4e00",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-19ffffbdfc2c4bbd8a22e060a69177c1.7z",
-        sha256 = "ff2ff52ae4864765b0caded2943a2b51098a8b473bda750dc2adc763ed3686b1",
-        toolset = "14.37.32822"
+        sha256 = "72b9b62661a58749defbda9ea16a4204901a57250217d4c5f22931775e56abff"
     },
     ["windows-x64-vc142-07622a3a76b04b4f8a969e800e21cbbc"] = {
         toolset = "14.29.30133",
-        sha256 = "b1ed614b85e54ec79389a53a4d6aac7894a7bb32940baea0a9af5cf7d65c969b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-07622a3a76b04b4f8a969e800e21cbbc.7z"
-    },
-    ["windows-x64-vc14.29.30133-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "1bfcd3a87e1518d462f8c2e61d848b42944134a03d547ce9f63ea965e0b91465",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc142-9efd1c95581e4180ab1dce8eae72c07d"] = {
-        toolset = "14.29.30133",
-        sha256 = "1c6a5fb1c27fd4167d9f3668812440557f7c7bb9d83ef4fdf78275abad4ffd50",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-9efd1c95581e4180ab1dce8eae72c07d.7z"
-    },
-    ["windows-x86-vc14.43.34808-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "a6b6c999cf048c6037f262eeb21ae1636cb0008087e6a4cee5a2597f31f5014a",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.41.34120-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "2d682bb4f7574000b79cc6b4b9208b783eed0394fe6b8037115a4c50e24c8166",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc142-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
-        toolset = "14.29.30133",
-        sha256 = "4be3b712d391980e039ce682fc4ceccef3424ba367704927deaa13454de2f6c8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-19ffffbdfc2c4bbd8a22e060a69177c1.7z"
-    },
-    ["windows-x86-vc142-77afebbc49ab4578896303402704bee4"] = {
-        toolset = "14.29.30133",
-        sha256 = "96db92d01a4aa83f0fcb98b5155deef3857e4983614bcb757185db7fe15a56e9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-77afebbc49ab4578896303402704bee4.7z"
-    },
-    ["windows-x64-vc141-1d90c33105e640a784487f24b00c2764"] = {
-        toolset = "14.16.27023",
-        sha256 = "1a45285b309b8b2d4ef0175888b5879d5125aa33b33e3e58751b94883eeb74aa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-1d90c33105e640a784487f24b00c2764.7z"
-    },
-    ["windows-x64-vc14.43.34808-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "357f803e028ff5e822cf262bc9b94d8723cfb3fe8faf5f55c28c76eeffee1cf2",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.37.32822-7cd2e4ed98444061a19ae1450702c1e9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-7cd2e4ed98444061a19ae1450702c1e9.7z",
-        sha256 = "605bdfa34b289344724bba468757dd1c42ce5c67f598575f67828a613d440d21",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.41.34120-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "f00b87b1c488d9d77df7945623cbb254ef99e625421852994b4249341514bae5",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.37.32822-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "13fc950d8acfd88f11910e5bee4bca2a2ebfc52c9db070e227f9ad4aaa9e9ae9",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc141-9efd1c95581e4180ab1dce8eae72c07d"] = {
-        toolset = "14.16.27023",
-        sha256 = "4618a72fbe8f3ed4aa1dc16e123c94160c54176a0155e7478c7e8ce1d4b30409",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-9efd1c95581e4180ab1dce8eae72c07d.7z"
-    },
-    ["windows-x64-vc14.41.34120-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "23a3a14d1bafb6f31bd137409d30bb2b7e42d11f09dbfd8b2daac3f220903518",
-        toolset = "14.41.34120"
-    },
-    ["windows-x86-vc14.29.30133-7cd2e4ed98444061a19ae1450702c1e9"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-7cd2e4ed98444061a19ae1450702c1e9.7z",
-        sha256 = "73b4530256fab2e29e9c431810309333f95c95de5adc1544f2b0d34d2e3136b1",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "0980815e6c5790fdd0d377e422e2fde25307a596731f35b0156d6549005cd8f3",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc141-0719ad1d6eb145e3bf6fd343a1d46a98"] = {
-        toolset = "14.16.27023",
-        sha256 = "c8eaf3fffda16fd80580a4fecb795c525d906667c4de52a77e0071d2d4f7a090",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-0719ad1d6eb145e3bf6fd343a1d46a98.7z"
-    },
-    ["windows-x86-vc142-a411be064df04da2bb8f2c326782d84c"] = {
-        toolset = "14.29.30133",
-        sha256 = "1e140bfc09c543e5f5afd30eeb5cd89670cce7ec351efdfc2c02d7911b77b84f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-a411be064df04da2bb8f2c326782d84c.7z"
-    },
-    ["windows-x64-vc14.44.35207-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "3db082b58dcaceb468dc3184c6381e277076792703e80d50ca40270fd69b2eb9",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.38.33130-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "1f621fa78deaa326c3967c11d300ede6c2e7792c201cf30671fb198a3a784ed3",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc14.29.30133-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "e17fc9d2240f51a8a0631da8879e52ac02291c4bc38c9ebc0a78e85a1af7b4e5",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.43.34808-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "86de1a2a44f4fc21fffc5fe8afa1e594c9df9d42108f55533b058817da5d4dfc",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.39.33519-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "88a996dec9eb8f7d7317927daa0a7781c3cdd70c8e4f4dc4d26602314557c595",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc142-a2c88749bcf846199e76a985715a8837"] = {
-        toolset = "14.29.30133",
-        sha256 = "c3374a6392856c6624b39f5a8fd0d168ef56f9fdec22b798b5b2cd316974e754",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-a2c88749bcf846199e76a985715a8837.7z"
-    },
-    ["windows-x64-vc14.37.32822-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "2a463adbb53523d4de43716132b73863ae98664fe2121ff959b3c42bfd5b2055",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "6f8a3f893ee4cdb5c69ecf618ff191168cf82dd8e406f5506328d7b3e290492f",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.44.35207-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "ea227e0c967dcbd2c82ae229c0a602ced7c3b44b195236dfeac35129f43b44fc",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.29.30133-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "01fd5f41adc4f2f88522cb9fa314e3e6cb3c772326914e85578262c44b3d7c79",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-84fe3808d5c44eafa98c3268df3b9da0"] = {
-        toolset = "14.16.27023",
-        sha256 = "b5b772e6ec725ee8ce4f653e39799bb7ed4273996643ae43192e48644c2376fe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-84fe3808d5c44eafa98c3268df3b9da0.7z"
-    },
-    ["windows-x86-vc14.37.32822-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "e7b98079236b4ce7548c2d0badd77141d92b3ec7a275e982c513a92acf84a537",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.42.34433-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "78ac4e0ffc868d2fdd414cc163e3bcf91304b53213aa66c1201c3b01ab35c04e",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.42.34433-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "879aaa2db731db8b4009960bf2f1e6041c17e1d17fde3600970941c38876bddf",
-        toolset = "14.42.34433"
-    },
-    ["windows-x86-vc141-a411be064df04da2bb8f2c326782d84c"] = {
-        toolset = "14.16.27023",
-        sha256 = "5ca6ce71b1c8ca7cca41d19795a77c040fa42c00f8cb128041831e192a777a1e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-a411be064df04da2bb8f2c326782d84c.7z"
-    },
-    ["windows-x64-vc14.38.33130-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "993700d0f509767b52c9fbd58c4d73b3dd1ef7390d7bc2fa37c036cdf8801092",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc142-c8dc099f3a0743f4b0f89e71093583f6"] = {
-        toolset = "14.29.30133",
-        sha256 = "11fe2132b506745e215483e3ecd0242642e9dbf87f84d53afac7c0bff8ba4b8e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-c8dc099f3a0743f4b0f89e71093583f6.7z"
-    },
-    ["windows-x86-vc14.37.32822-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "b25e72608b281293c1fa3dbe1ff28f119ff10cd3a0440f2607b514c9365782b6",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.39.33519-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "70254cbd16e847095128b17094afb442ec26a8ffa440c87703667585f7d9345d",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.39.33519-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "68d846a8f0d621e2d9bb690f58d1a103af9a39dc439495773487b87b7ed0b29f",
-        toolset = "14.39.33519"
-    },
-    ["windows-x64-vc14.38.33130-6e1f8a1be4574957b7dd007ae407eb46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-6e1f8a1be4574957b7dd007ae407eb46.7z",
-        sha256 = "e770b635fafc8e3adf721e31a86d019272f9b62ea2658ccffaa10152f9bc4d2a",
-        toolset = "14.38.33130"
-    },
-    ["windows-x64-vc141-c8dc099f3a0743f4b0f89e71093583f6"] = {
-        toolset = "14.16.27023",
-        sha256 = "7da183a5e0375b88ce2ff7216b11d63fdcc7a5051f5cfb035233497692c66365",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-c8dc099f3a0743f4b0f89e71093583f6.7z"
-    },
-    ["windows-x64-vc141-07622a3a76b04b4f8a969e800e21cbbc"] = {
-        toolset = "14.16.27023",
-        sha256 = "aa8ecfca895c691925a475efd1b55dc12dc4a78a2f21f4f60aadbd489800ccfc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-07622a3a76b04b4f8a969e800e21cbbc.7z"
-    },
-    ["windows-x86-vc141-77afebbc49ab4578896303402704bee4"] = {
-        toolset = "14.16.27023",
-        sha256 = "eddb940a34c0eab184b948347c0495c23b2e0a67f5dac47daf3ad816c6385cfe",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-77afebbc49ab4578896303402704bee4.7z"
-    },
-    ["windows-x64-vc14.38.33130-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "232b9c7006092040650f4fc63a655f2bd05777552cf8b0c4187f0ff4a2374728",
-        toolset = "14.38.33130"
-    },
-    ["windows-x86-vc14.29.30133-2f9bd5129eba4eae9ffedf228f9063bc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-2f9bd5129eba4eae9ffedf228f9063bc.7z",
-        sha256 = "42fe4f8a49496f13968dc87d5f15200db40bfbda6e72b3cd894a368bc498b825",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-19ffffbdfc2c4bbd8a22e060a69177c1.7z",
-        sha256 = "44a813f00741b7a7fa4b2a762226e0a94fdc560d98c909c78972910fe596202c",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.37.32822-269a1fa8627e4d2dae9050fa04c80c73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-269a1fa8627e4d2dae9050fa04c80c73.7z",
-        sha256 = "55eacdcbd3b35ad8e7044ddb73345ae7dace8139f6b39d9e26b8a06220cea700",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.29.30133-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "ab72879d8968d2f0eb9cf47e0b753d36b7718e2713ffd6c144b7352bd9866b23",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.39.33519-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "9145c634caec37b05dde4ff2a06ed0e77d2734af8aa42c3ec76c872c7f304669",
-        toolset = "14.39.33519"
-    },
-    ["windows-x86-vc14.42.34433-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "3c70845523fbcbcc025f2d5d18b99d8b295b2b474796e679837b918ffd425df3",
-        toolset = "14.42.34433"
-    },
-    ["windows-x64-vc14.40.33807-97b79d91a9c0400ca763e49dc586eff1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "ac13e33dd739338837c8e26a9b9bc70ab0b47985b8443d42c47cec1fcc0ba4fe",
-        toolset = "14.40.33807"
-    },
-    ["windows-x86-vc14.37.32822-2f9bd5129eba4eae9ffedf228f9063bc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-2f9bd5129eba4eae9ffedf228f9063bc.7z",
-        sha256 = "4d0750c95641c5449a4c082e21ae417446063c327da11a22e73d44eacca2f5fc",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc141-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
-        toolset = "14.16.27023",
-        sha256 = "019e9bd11e8dae30286c4fc653e9cbabd7dee2693531f2a7498f72054fa07409",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-19ffffbdfc2c4bbd8a22e060a69177c1.7z"
-    },
-    ["windows-x64-vc14.44.35207-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "3efdbfdca091a55d3ed512725d6ba77d9aac9040f9b750665720bcab33dd6f3d",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.29.30133-ff43d2712eaf4869ba0860cf49f2708e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-ff43d2712eaf4869ba0860cf49f2708e.7z",
-        sha256 = "2803f3badea3ced86756494a989565ece1fd164557e6f556598bc4186d084371",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc141-dc4d7dad85384e7696f0297928f9c50e"] = {
-        toolset = "14.16.27023",
-        sha256 = "a5ec9ea75d59a75ea6ffbbca71a38007256ccbf3cbaa23e352e73adbae29b379",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-dc4d7dad85384e7696f0297928f9c50e.7z"
-    },
-    ["windows-x64-vc14.37.32822-a2c88749bcf846199e76a985715a8837"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-a2c88749bcf846199e76a985715a8837.7z",
-        sha256 = "bd608bc2519b1e19e03787441f8e5867fb74de409a86bc760b1dc723b4ee9724",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.29.30133-84fe3808d5c44eafa98c3268df3b9da0"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-84fe3808d5c44eafa98c3268df3b9da0.7z",
-        sha256 = "30264d02bc9c459b8b6fab9bd492456d32c3b0ea01588fd049a156fcb47c8c54",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-c8dc099f3a0743f4b0f89e71093583f6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-c8dc099f3a0743f4b0f89e71093583f6.7z",
-        sha256 = "55d3bc4538d03f308623fb22c9f1498c0e166f3b3cdcf2f5b59d32873c4cd15c",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.41.34120-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "f55646872dd0529dd80ae253527be6cc3fd273248c828ee6719bc3930f0540d9",
-        toolset = "14.41.34120"
-    },
-    ["windows-x64-vc14.43.34808-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "b48919fccfea16db702b5ff940914a639de7d559cdc886f6f87c4bf62177a70f",
-        toolset = "14.43.34808"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-07622a3a76b04b4f8a969e800e21cbbc.7z",
+        sha256 = "b1ed614b85e54ec79389a53a4d6aac7894a7bb32940baea0a9af5cf7d65c969b"
     },
     ["windows-x64-vc14.37.32822-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.37.32822",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-97b79d91a9c0400ca763e49dc586eff1.7z",
-        sha256 = "7bba186f94db0e0d882783586e0ae33f4722eb521cd859ca370e0689aaf8fbb4",
-        toolset = "14.37.32822"
+        sha256 = "7bba186f94db0e0d882783586e0ae33f4722eb521cd859ca370e0689aaf8fbb4"
+    },
+    ["windows-x64-vc14.42.34433-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "30c1ba3bcf8e44e66406ad721c2d2a32e17671dbb569a144e2d284ebfbcba366"
+    },
+    ["windows-x86-vc14.40.33807-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "28760a70c82f973d74f75f191c0b380ac23775e1c7f7832471a0c38a47635ad7"
+    },
+    ["windows-x86-vc14.37.32822-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "6f8a3f893ee4cdb5c69ecf618ff191168cf82dd8e406f5506328d7b3e290492f"
+    },
+    ["windows-x64-vc14.42.34433-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "6792b34b212c492fa165ec9382462cf9810a28aa3029964865048cb3fc6c909f"
+    },
+    ["windows-x64-vc14.41.34120-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "f88a56f9c70aaaf0bae6c3cfa37511237ad6046f754311a500a2776f8e397489"
+    },
+    ["windows-x86-vc141-61dba86db07149248bc1c98ba36367ab"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-61dba86db07149248bc1c98ba36367ab.7z",
+        sha256 = "f07afe15966a2bcf87f813426675049d37908e3752e04fac76ddd8e03c7a5df8"
+    },
+    ["windows-x64-vc14.29.30133-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "e17fc9d2240f51a8a0631da8879e52ac02291c4bc38c9ebc0a78e85a1af7b4e5"
+    },
+    ["windows-x64-vc14.41.34120-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "8aa5defac7dfdaa4f752c5894c2d1bfcf1c406fe08268193671416afe93b4bb6"
+    },
+    ["windows-x64-vc14.29.30133-a2c88749bcf846199e76a985715a8837"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-a2c88749bcf846199e76a985715a8837.7z",
+        sha256 = "d5044d7977f049aaa5a7f8102ec7bfc8c2b4fe98f8c464f8572cd9cd29165d6a"
+    },
+    ["windows-x64-vc141-defb8db0f5624386b80226eac7952de5"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-defb8db0f5624386b80226eac7952de5.7z",
+        sha256 = "1f8ea7df7300c0c740aec458b3b9b356b0ce22d46393dfc0b9ceab9a8a8d0221"
     },
     ["windows-x86-vc142-2f9bd5129eba4eae9ffedf228f9063bc"] = {
         toolset = "14.29.30133",
-        sha256 = "1e3923b67fc9d39557810bfdca2c93b5292add918eb302619d906af71c550208",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-2f9bd5129eba4eae9ffedf228f9063bc.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-2f9bd5129eba4eae9ffedf228f9063bc.7z",
+        sha256 = "1e3923b67fc9d39557810bfdca2c93b5292add918eb302619d906af71c550208"
     },
-    ["windows-x64-vc142-1d90c33105e640a784487f24b00c2764"] = {
+    ["windows-x64-vc14.43.34808-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "6b97c777fe252d8ed73bc21de82ff5942a5e9f5b91d60173eb224e69ebe8f41a"
+    },
+    ["windows-x64-vc14.37.32822-c8dc099f3a0743f4b0f89e71093583f6"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-c8dc099f3a0743f4b0f89e71093583f6.7z",
+        sha256 = "b291d82f63226084d852c3f2eb1fd6a75b68386a2c0e6c34c4810a09f3a5b36b"
+    },
+    ["windows-x64-vc14.29.30133-c8dc099f3a0743f4b0f89e71093583f6"] = {
         toolset = "14.29.30133",
-        sha256 = "cf5cf5b4801221ca6c2748cbdba37975b2eb9c34bef34f0196529f25a2f83c10",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-1d90c33105e640a784487f24b00c2764.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-c8dc099f3a0743f4b0f89e71093583f6.7z",
+        sha256 = "55d3bc4538d03f308623fb22c9f1498c0e166f3b3cdcf2f5b59d32873c4cd15c"
     },
-    ["windows-x64-vc142-84fe3808d5c44eafa98c3268df3b9da0"] = {
+    ["windows-x86-vc14.42.34433-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "59efb3f821138269131311b1a887e56f09e10653bd62f2bd9c74f19d187586e5"
+    },
+    ["windows-x86-vc14.29.30133-2f9bd5129eba4eae9ffedf228f9063bc"] = {
         toolset = "14.29.30133",
-        sha256 = "a7071eedec038e46bb8e3131bd4160f9b2924f4d25cb5f83289810853ead04d9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-84fe3808d5c44eafa98c3268df3b9da0.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-2f9bd5129eba4eae9ffedf228f9063bc.7z",
+        sha256 = "42fe4f8a49496f13968dc87d5f15200db40bfbda6e72b3cd894a368bc498b825"
     },
-    ["windows-x86-vc14.44.35207-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
-        sha256 = "1779230b7e696722e0a6fa5c5b4dd8eb571ce4ba4f583f89d88b15ed919f8d5a",
-        toolset = "14.44.35207"
+    ["windows-x86-vc142-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-19ffffbdfc2c4bbd8a22e060a69177c1.7z",
+        sha256 = "4be3b712d391980e039ce682fc4ceccef3424ba367704927deaa13454de2f6c8"
     },
-    ["windows-x86-vc14.44.35207-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
-        sha256 = "6c05500ba39e4c012f3c2c8e6f18b3acb22ff3d921ed4dc500e48998a9171459",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.39.33519-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "d98298467a27bbd870447f29850741218f67fda59bd7fbb32e1408a7b76d4be8"
     },
-    ["windows-x64-vc14.39.33519-0b9ab4104a794dd1825e7c4112aac060"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-0b9ab4104a794dd1825e7c4112aac060.7z",
-        sha256 = "d0146fd6bb695d675f40ea9fad735d3241963e78b0fd9c4f36bc63ea69e5d64c",
-        toolset = "14.39.33519"
+    ["windows-x64-vc14.37.32822-84fe3808d5c44eafa98c3268df3b9da0"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-84fe3808d5c44eafa98c3268df3b9da0.7z",
+        sha256 = "fb152fc102570daf003bf8c6ea496789a72dd0b75d546f383cc17d717a9f4e00"
     },
-    ["windows-x86-vc141-f1596f435dbc4b1aaa1a42a096d4280a"] = {
+    ["windows-x86-vc14.42.34433-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "0707b427ac83d9be019a7a8dd02270d98b665384dfd180744cfc31231140f386"
+    },
+    ["windows-x64-vc14.37.32822-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "c7fd74eeaa1435476a043eb69cbcce8ed60eb700c76113a8b22b42e5373b31fa"
+    },
+    ["windows-x64-vc14.39.33519-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "68d846a8f0d621e2d9bb690f58d1a103af9a39dc439495773487b87b7ed0b29f"
+    },
+    ["windows-x86-vc14.37.32822-77afebbc49ab4578896303402704bee4"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-77afebbc49ab4578896303402704bee4.7z",
+        sha256 = "45c6c85dc6d70429f48896c09dce0270d54cd8c8c20be658569882429b0ae634"
+    },
+    ["windows-x86-vc14.29.30133-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-19ffffbdfc2c4bbd8a22e060a69177c1.7z",
+        sha256 = "44a813f00741b7a7fa4b2a762226e0a94fdc560d98c909c78972910fe596202c"
+    },
+    ["windows-x86-vc142-a411be064df04da2bb8f2c326782d84c"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-a411be064df04da2bb8f2c326782d84c.7z",
+        sha256 = "1e140bfc09c543e5f5afd30eeb5cd89670cce7ec351efdfc2c02d7911b77b84f"
+    },
+    ["windows-x86-vc14.29.30133-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "2803f3badea3ced86756494a989565ece1fd164557e6f556598bc4186d084371"
+    },
+    ["windows-x64-vc14.39.33519-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "88a996dec9eb8f7d7317927daa0a7781c3cdd70c8e4f4dc4d26602314557c595"
+    },
+    ["windows-x64-vc142-9efd1c95581e4180ab1dce8eae72c07d"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-9efd1c95581e4180ab1dce8eae72c07d.7z",
+        sha256 = "1c6a5fb1c27fd4167d9f3668812440557f7c7bb9d83ef4fdf78275abad4ffd50"
+    },
+    ["windows-x64-vc14.40.33807-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "30f1cf5f60158bfdd209bbfe3a93f25aa5d3c193be808705a4931f969c86237f"
+    },
+    ["windows-x64-vc14.43.34808-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "357f803e028ff5e822cf262bc9b94d8723cfb3fe8faf5f55c28c76eeffee1cf2"
+    },
+    ["windows-x86-vc14.44.35207-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "2c75099ee232b0034a7014aaf411390851bc64dc7af3663a0577f60ef03b16a0"
+    },
+    ["windows-x86-vc14.43.34808-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "96e5dc114e9fab44617826428b4fc76aa8e852e39e488937a50b7440b6f660fe"
+    },
+    ["windows-x64-vc14.29.30133-07622a3a76b04b4f8a969e800e21cbbc"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-07622a3a76b04b4f8a969e800e21cbbc.7z",
+        sha256 = "9e0432980e838ec0fa5ab35ddfa8e68247c6f2383882ca8cfa7af9a8df380503"
+    },
+    ["windows-x86-vc141-77afebbc49ab4578896303402704bee4"] = {
         toolset = "14.16.27023",
-        sha256 = "42803afc33955ca7759944e8d732eefaf21151a660c0a84426ef18a6be5c804a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-f1596f435dbc4b1aaa1a42a096d4280a.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-77afebbc49ab4578896303402704bee4.7z",
+        sha256 = "eddb940a34c0eab184b948347c0495c23b2e0a67f5dac47daf3ad816c6385cfe"
     },
-    ["windows-x86-vc14.29.30133-77afebbc49ab4578896303402704bee4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-77afebbc49ab4578896303402704bee4.7z",
-        sha256 = "05519d53dfe12c3800bac717ff82c11de889f91f84f5953e09ccdefd48cc65e8",
-        toolset = "14.29.30133"
+    ["windows-x64-vc14.41.34120-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "23a3a14d1bafb6f31bd137409d30bb2b7e42d11f09dbfd8b2daac3f220903518"
+    },
+    ["windows-x64-vc14.40.33807-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "7d5b42d98671bd3561737d0f55d6d67d94ff7c19f8abd4b0539f023991f1a2e1"
+    },
+    ["windows-x64-vc14.29.30133-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "01fd5f41adc4f2f88522cb9fa314e3e6cb3c772326914e85578262c44b3d7c79"
     },
     ["windows-x86-vc142-f1596f435dbc4b1aaa1a42a096d4280a"] = {
         toolset = "14.29.30133",
-        sha256 = "16c7a3912d438eb8f47181bce12786deba28a32008364444e8148788313800c7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-f1596f435dbc4b1aaa1a42a096d4280a.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-f1596f435dbc4b1aaa1a42a096d4280a.7z",
+        sha256 = "16c7a3912d438eb8f47181bce12786deba28a32008364444e8148788313800c7"
+    },
+    ["windows-x64-vc14.44.35207-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "312bbc68fa2f703f8da54a95c5221e97b60b3f243963cdf6982da6fce957cc5e"
+    },
+    ["windows-x64-vc141-1d90c33105e640a784487f24b00c2764"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-1d90c33105e640a784487f24b00c2764.7z",
+        sha256 = "1a45285b309b8b2d4ef0175888b5879d5125aa33b33e3e58751b94883eeb74aa"
+    },
+    ["windows-x64-vc141-07622a3a76b04b4f8a969e800e21cbbc"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-07622a3a76b04b4f8a969e800e21cbbc.7z",
+        sha256 = "aa8ecfca895c691925a475efd1b55dc12dc4a78a2f21f4f60aadbd489800ccfc"
+    },
+    ["windows-x64-vc14.37.32822-07622a3a76b04b4f8a969e800e21cbbc"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-07622a3a76b04b4f8a969e800e21cbbc.7z",
+        sha256 = "85f1b4ae1f4637e38e49fe5664a759794fb730b7e57733dad3f74927dd14fd92"
+    },
+    ["windows-x86-vc14.42.34433-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "3c70845523fbcbcc025f2d5d18b99d8b295b2b474796e679837b918ffd425df3"
+    },
+    ["windows-x64-vc14.42.34433-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "da3a97e5d5122f4e0a52f76aaf6a8c0ee651f49755062ef25fe677b7ca87fd3d"
+    },
+    ["windows-x64-vc14.42.34433-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.42.34433-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "879aaa2db731db8b4009960bf2f1e6041c17e1d17fde3600970941c38876bddf"
+    },
+    ["windows-x64-vc141-9efd1c95581e4180ab1dce8eae72c07d"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-9efd1c95581e4180ab1dce8eae72c07d.7z",
+        sha256 = "4618a72fbe8f3ed4aa1dc16e123c94160c54176a0155e7478c7e8ce1d4b30409"
+    },
+    ["windows-x86-vc142-61dba86db07149248bc1c98ba36367ab"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-61dba86db07149248bc1c98ba36367ab.7z",
+        sha256 = "cd430f17ef83daca4dbb970a6781dbef6569baf93ea3212bb16d5dbe85dbd742"
+    },
+    ["windows-x86-vc14.37.32822-7cd2e4ed98444061a19ae1450702c1e9"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-7cd2e4ed98444061a19ae1450702c1e9.7z",
+        sha256 = "605bdfa34b289344724bba468757dd1c42ce5c67f598575f67828a613d440d21"
+    },
+    ["windows-x86-vc141-f1596f435dbc4b1aaa1a42a096d4280a"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-f1596f435dbc4b1aaa1a42a096d4280a.7z",
+        sha256 = "42803afc33955ca7759944e8d732eefaf21151a660c0a84426ef18a6be5c804a"
+    },
+    ["windows-x64-vc142-84fe3808d5c44eafa98c3268df3b9da0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-84fe3808d5c44eafa98c3268df3b9da0.7z",
+        sha256 = "a7071eedec038e46bb8e3131bd4160f9b2924f4d25cb5f83289810853ead04d9"
+    },
+    ["windows-x64-vc14.38.33130-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "d38ce249f31cd2887d3b672b0d5af82ca010abf387ef9614ca4b949400da6712"
+    },
+    ["windows-x64-vc14.37.32822-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "55eacdcbd3b35ad8e7044ddb73345ae7dace8139f6b39d9e26b8a06220cea700"
+    },
+    ["windows-x86-vc141-0719ad1d6eb145e3bf6fd343a1d46a98"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-0719ad1d6eb145e3bf6fd343a1d46a98.7z",
+        sha256 = "c8eaf3fffda16fd80580a4fecb795c525d906667c4de52a77e0071d2d4f7a090"
+    },
+    ["windows-x86-vc141-a411be064df04da2bb8f2c326782d84c"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-a411be064df04da2bb8f2c326782d84c.7z",
+        sha256 = "5ca6ce71b1c8ca7cca41d19795a77c040fa42c00f8cb128041831e192a777a1e"
+    },
+    ["windows-x86-vc142-7cd2e4ed98444061a19ae1450702c1e9"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-7cd2e4ed98444061a19ae1450702c1e9.7z",
+        sha256 = "4432be7e73808b36a4217987462d61ec6a5165dd1268aa8ae60fc215989a43a0"
+    },
+    ["windows-x86-vc14.37.32822-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "e7b98079236b4ce7548c2d0badd77141d92b3ec7a275e982c513a92acf84a537"
+    },
+    ["windows-x86-vc14.40.33807-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "2ac1bc2991825e5772da7c1f961f7f6b60fd23d90099e6db11f8158d9ca0de3b"
+    },
+    ["windows-x86-vc14.37.32822-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-19ffffbdfc2c4bbd8a22e060a69177c1.7z",
+        sha256 = "ff2ff52ae4864765b0caded2943a2b51098a8b473bda750dc2adc763ed3686b1"
+    },
+    ["windows-x64-vc14.44.35207-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "2d3626bfc5114c8d1e1b365bde479e12e26f580124ab19fb392ca2b9655def01"
+    },
+    ["windows-x86-vc14.41.34120-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "fd74883235a2c525f62c355c513538cbf21bca731b29a0aa17fd72a070b28dd7"
+    },
+    ["windows-x64-vc142-a2c88749bcf846199e76a985715a8837"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-a2c88749bcf846199e76a985715a8837.7z",
+        sha256 = "c3374a6392856c6624b39f5a8fd0d168ef56f9fdec22b798b5b2cd316974e754"
+    },
+    ["windows-x64-vc14.44.35207-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.44.35207-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "684b857ff5a3f72d3fb9d02bea842002a3c7c41ce4af78afbe56682f08473781"
+    },
+    ["windows-x86-vc14.38.33130-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "1f621fa78deaa326c3967c11d300ede6c2e7792c201cf30671fb198a3a784ed3"
+    },
+    ["windows-x86-vc14.41.34120-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "7f0b7c0f2037d47c92da1f33fb42f7455cf285f20b00c9a211d63ae17140e216"
+    },
+    ["windows-x64-vc14.37.32822-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "2a463adbb53523d4de43716132b73863ae98664fe2121ff959b3c42bfd5b2055"
+    },
+    ["windows-x64-vc141-c8dc099f3a0743f4b0f89e71093583f6"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-c8dc099f3a0743f4b0f89e71093583f6.7z",
+        sha256 = "7da183a5e0375b88ce2ff7216b11d63fdcc7a5051f5cfb035233497692c66365"
+    },
+    ["windows-x86-vc14.40.33807-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "8ac84e4fcaff3ad58a4c948f98a584b00441a091884b4ceebf7df5983a0a9082"
+    },
+    ["windows-x86-vc14.38.33130-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "46bdff7446b02afb2556d43fb829933d1dc68343276e054e77eb4e4c17538f3b"
+    },
+    ["windows-x86-vc14.39.33519-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "70254cbd16e847095128b17094afb442ec26a8ffa440c87703667585f7d9345d"
+    },
+    ["windows-x64-vc142-c8dc099f3a0743f4b0f89e71093583f6"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-c8dc099f3a0743f4b0f89e71093583f6.7z",
+        sha256 = "11fe2132b506745e215483e3ecd0242642e9dbf87f84d53afac7c0bff8ba4b8e"
+    },
+    ["windows-x64-vc14.43.34808-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "86de1a2a44f4fc21fffc5fe8afa1e594c9df9d42108f55533b058817da5d4dfc"
+    },
+    ["windows-x64-vc14.43.34808-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.43.34808-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "b48919fccfea16db702b5ff940914a639de7d559cdc886f6f87c4bf62177a70f"
+    },
+    ["windows-x64-vc14.40.33807-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "f1288ed1c431c65073a6965caf187521b16482db89495d340d134e4728b93aad"
+    },
+    ["windows-x86-vc14.39.33519-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "9145c634caec37b05dde4ff2a06ed0e77d2734af8aa42c3ec76c872c7f304669"
+    },
+    ["windows-x86-vc142-0719ad1d6eb145e3bf6fd343a1d46a98"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc142-0719ad1d6eb145e3bf6fd343a1d46a98.7z",
+        sha256 = "30dad21d43a49ac47939d859cfa99aeaca69f12b163b2c2043de2cfb34bab48d"
+    },
+    ["windows-x64-vc14.39.33519-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "90ea4d429a3f937de7ad705302e7449dc7ce4c5e9b34079b09b76ff54df394a7"
+    },
+    ["windows-x86-vc14.29.30133-7cd2e4ed98444061a19ae1450702c1e9"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-7cd2e4ed98444061a19ae1450702c1e9.7z",
+        sha256 = "73b4530256fab2e29e9c431810309333f95c95de5adc1544f2b0d34d2e3136b1"
+    },
+    ["windows-x64-vc14.29.30133-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "1bfcd3a87e1518d462f8c2e61d848b42944134a03d547ce9f63ea965e0b91465"
+    },
+    ["windows-x64-vc14.37.32822-a2c88749bcf846199e76a985715a8837"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.37.32822-a2c88749bcf846199e76a985715a8837.7z",
+        sha256 = "bd608bc2519b1e19e03787441f8e5867fb74de409a86bc760b1dc723b4ee9724"
+    },
+    ["windows-x64-vc14.29.30133-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "0980815e6c5790fdd0d377e422e2fde25307a596731f35b0156d6549005cd8f3"
+    },
+    ["windows-x64-vc141-84fe3808d5c44eafa98c3268df3b9da0"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-84fe3808d5c44eafa98c3268df3b9da0.7z",
+        sha256 = "b5b772e6ec725ee8ce4f653e39799bb7ed4273996643ae43192e48644c2376fe"
+    },
+    ["windows-x86-vc14.43.34808-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "a6b6c999cf048c6037f262eeb21ae1636cb0008087e6a4cee5a2597f31f5014a"
+    },
+    ["windows-x86-vc141-7cd2e4ed98444061a19ae1450702c1e9"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-7cd2e4ed98444061a19ae1450702c1e9.7z",
+        sha256 = "bb8a57cefdc84129fc8bff512c4e3f3e660d36ec7ddc6a67e14eaf15819f0ded"
+    },
+    ["windows-x86-vc14.37.32822-2f9bd5129eba4eae9ffedf228f9063bc"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-2f9bd5129eba4eae9ffedf228f9063bc.7z",
+        sha256 = "4d0750c95641c5449a4c082e21ae417446063c327da11a22e73d44eacca2f5fc"
+    },
+    ["windows-x64-vc14.38.33130-269a1fa8627e4d2dae9050fa04c80c73"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-269a1fa8627e4d2dae9050fa04c80c73.7z",
+        sha256 = "993700d0f509767b52c9fbd58c4d73b3dd1ef7390d7bc2fa37c036cdf8801092"
+    },
+    ["windows-x86-vc14.38.33130-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "ef3708eac3e208d2f6010aa72ff70ac05e0d745356acb371fd9c64aeee43ba4c"
+    },
+    ["windows-x64-vc14.38.33130-6e1f8a1be4574957b7dd007ae407eb46"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-6e1f8a1be4574957b7dd007ae407eb46.7z",
+        sha256 = "e770b635fafc8e3adf721e31a86d019272f9b62ea2658ccffaa10152f9bc4d2a"
+    },
+    ["windows-x86-vc14.41.34120-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "f55646872dd0529dd80ae253527be6cc3fd273248c828ee6719bc3930f0540d9"
+    },
+    ["windows-x86-vc14.37.32822-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "b25e72608b281293c1fa3dbe1ff28f119ff10cd3a0440f2607b514c9365782b6"
+    },
+    ["windows-x64-vc141-a2c88749bcf846199e76a985715a8837"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-a2c88749bcf846199e76a985715a8837.7z",
+        sha256 = "ab7bc7758b592e2df5d35db67ac06ad126c611192830064c92f5c67fadd1d1bf"
+    },
+    ["windows-x64-vc14.40.33807-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.40.33807-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "ac13e33dd739338837c8e26a9b9bc70ab0b47985b8443d42c47cec1fcc0ba4fe"
+    },
+    ["windows-x64-vc142-dc4d7dad85384e7696f0297928f9c50e"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-dc4d7dad85384e7696f0297928f9c50e.7z",
+        sha256 = "996a726cec93f58ea1cb2e6d5e33f9a776bc297ccdfb2bfd624cc0786020d78d"
+    },
+    ["windows-x86-vc14.29.30133-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "ab72879d8968d2f0eb9cf47e0b753d36b7718e2713ffd6c144b7352bd9866b23"
+    },
+    ["windows-x64-vc14.29.30133-84fe3808d5c44eafa98c3268df3b9da0"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.29.30133-84fe3808d5c44eafa98c3268df3b9da0.7z",
+        sha256 = "30264d02bc9c459b8b6fab9bd492456d32c3b0ea01588fd049a156fcb47c8c54"
+    },
+    ["windows-x64-vc14.38.33130-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.38.33130-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "232b9c7006092040650f4fc63a655f2bd05777552cf8b0c4187f0ff4a2374728"
+    },
+    ["windows-x64-vc142-1d90c33105e640a784487f24b00c2764"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-1d90c33105e640a784487f24b00c2764.7z",
+        sha256 = "cf5cf5b4801221ca6c2748cbdba37975b2eb9c34bef34f0196529f25a2f83c10"
+    },
+    ["windows-x86-vc14.41.34120-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.41.34120-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "2d682bb4f7574000b79cc6b4b9208b783eed0394fe6b8037115a4c50e24c8166"
+    },
+    ["windows-x86-vc14.44.35207-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "f0bc8bbf2428d25b486d566d140901d6a2333877487385c64f55430647289e09"
+    },
+    ["windows-x86-vc14.44.35207-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "49e88bfa76c4f53775544f5680e348440bfa618fe6ae23f25dbb7431b38ca11b"
+    },
+    ["windows-x86-vc14.40.33807-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.40.33807-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "3375abbf832d88d5ae68c6b072ddf80536e1aeb29e9f552b064b751b0ecaf43e"
+    },
+    ["windows-x86-vc14.29.30133-77afebbc49ab4578896303402704bee4"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-77afebbc49ab4578896303402704bee4.7z",
+        sha256 = "05519d53dfe12c3800bac717ff82c11de889f91f84f5953e09ccdefd48cc65e8"
+    },
+    ["windows-x64-vc14.41.34120-97b79d91a9c0400ca763e49dc586eff1"] = {
+        toolset = "14.41.34120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.41.34120-97b79d91a9c0400ca763e49dc586eff1.7z",
+        sha256 = "f00b87b1c488d9d77df7945623cbb254ef99e625421852994b4249341514bae5"
+    },
+    ["windows-x86-vc14.44.35207-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.44.35207-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "f832787384b238919a997420f304fa8c863ab51156b4a42554c1c68be3e7126c"
     },
     ["windows-x64-vc142-defb8db0f5624386b80226eac7952de5"] = {
         toolset = "14.29.30133",
-        sha256 = "ac43dc1b4124b9603c59febdc9de63397ea892856d92d6baac48ca39abf5a078",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-defb8db0f5624386b80226eac7952de5.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc142-defb8db0f5624386b80226eac7952de5.7z",
+        sha256 = "ac43dc1b4124b9603c59febdc9de63397ea892856d92d6baac48ca39abf5a078"
     },
-    ["windows-x86-vc14.42.34433-118f2f0ae50e4db4b187a75c05286e05"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-118f2f0ae50e4db4b187a75c05286e05.7z",
-        sha256 = "59efb3f821138269131311b1a887e56f09e10653bd62f2bd9c74f19d187586e5",
-        toolset = "14.42.34433"
+    ["windows-x86-vc14.42.34433-0d8757b9c03d4d1c8b58ea6dcae151f7"] = {
+        toolset = "14.42.34433",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.42.34433-0d8757b9c03d4d1c8b58ea6dcae151f7.7z",
+        sha256 = "78ac4e0ffc868d2fdd414cc163e3bcf91304b53213aa66c1201c3b01ab35c04e"
     },
-    ["windows-x86-vc14.37.32822-77afebbc49ab4578896303402704bee4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.37.32822-77afebbc49ab4578896303402704bee4.7z",
-        sha256 = "45c6c85dc6d70429f48896c09dce0270d54cd8c8c20be658569882429b0ae634",
-        toolset = "14.37.32822"
+    ["windows-x86-vc141-19ffffbdfc2c4bbd8a22e060a69177c1"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc141-19ffffbdfc2c4bbd8a22e060a69177c1.7z",
+        sha256 = "019e9bd11e8dae30286c4fc653e9cbabd7dee2693531f2a7498f72054fa07409"
+    },
+    ["windows-x86-vc14.29.30133-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.29.30133-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "db56a4f1e5f59d819c6f36a0d146b376068fde0a634c8540310b4af02b59e65e"
+    },
+    ["windows-x64-vc14.39.33519-0b9ab4104a794dd1825e7c4112aac060"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc14.39.33519-0b9ab4104a794dd1825e7c4112aac060.7z",
+        sha256 = "d0146fd6bb695d675f40ea9fad735d3241963e78b0fd9c4f36bc63ea69e5d64c"
+    },
+    ["windows-x86-vc14.38.33130-118f2f0ae50e4db4b187a75c05286e05"] = {
+        toolset = "14.38.33130",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.38.33130-118f2f0ae50e4db4b187a75c05286e05.7z",
+        sha256 = "fcb04a7fb3a047e4740c68d754f15c009c337be85c35d2f7b2e3c2ea5ad4741e"
+    },
+    ["windows-x86-vc14.43.34808-ff43d2712eaf4869ba0860cf49f2708e"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.43.34808-ff43d2712eaf4869ba0860cf49f2708e.7z",
+        sha256 = "c79037e1fdd8f9c6599aa2d2171c15f6cccf30eb6bee853d2b957df3a0ebf91d"
+    },
+    ["windows-x64-vc141-dc4d7dad85384e7696f0297928f9c50e"] = {
+        toolset = "14.16.27023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x64-vc141-dc4d7dad85384e7696f0297928f9c50e.7z",
+        sha256 = "a5ec9ea75d59a75ea6ffbbca71a38007256ccbf3cbaa23e352e73adbae29b379"
+    },
+    ["windows-x86-vc14.39.33519-8a9e56b70cf54e43b5a54f6ba37cefac"] = {
+        toolset = "14.39.33519",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/irrlicht-1.8.5/windows-x86-vc14.39.33519-8a9e56b70cf54e43b5a54f6ba37cefac.7z",
+        sha256 = "d0cff4a948c2863575d6182e28e66c67eeaed57136f904c4805a984df5a9aae5"
     }
 }
