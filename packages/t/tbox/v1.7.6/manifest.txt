@@ -1,162 +1,202 @@
 {
-    ["windows-x86-vc14.29.30133-666a48f26ca84425ab7630ceeba2c5bc"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-666a48f26ca84425ab7630ceeba2c5bc.7z",
-        sha256 = "0b0f450320c90b743daa15fc36e7b611204d29a2b668f4fedb30a719a32bb743"
-    },
-    ["windows-x64-vc14.43.34808-47e813a918cf4cad9b9740f18cdc211a"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-47e813a918cf4cad9b9740f18cdc211a.7z",
-        sha256 = "8f53133a702415f53ee775f43ccf6a6c495e76522038190f058824348b3ce761"
-    },
-    ["windows-x64-vc14.29.30133-ae66935bc4154785ba52dca28eae73e6"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-ae66935bc4154785ba52dca28eae73e6.7z",
-        sha256 = "cfa1701897081a7f0cb30b051de529c232b82c6ab27a5c463b6ff4507b9ea393"
-    },
-    ["windows-x64-vc14.29.30133-bf345a0e7db6409a9c1dba2b0f15d848"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-bf345a0e7db6409a9c1dba2b0f15d848.7z",
-        sha256 = "4d4fd61d692a755af4f9228bc29fd182924de28e281c19d04174221512099051"
-    },
-    ["windows-x64-vc14.43.34808-0d7260f2284f4c86a870299889a7a780"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-0d7260f2284f4c86a870299889a7a780.7z",
-        sha256 = "eae183c366694071a0e40cdf9282d7344f71fa1030f7f968e2d552d65e540e14"
-    },
-    ["windows-x64-vc14.43.34808-f47d09dae8314ac1924bd89495e33097"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-f47d09dae8314ac1924bd89495e33097.7z",
-        sha256 = "a0528ef4f2e07166bb74de9878f00ea887434a93467b59f869e5f22efb8cd4b8"
-    },
-    ["windows-x64-vc14.43.34808-bf345a0e7db6409a9c1dba2b0f15d848"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-bf345a0e7db6409a9c1dba2b0f15d848.7z",
-        sha256 = "dce2c156a07ae5013526e50087a6f4e837a0e58f2843f216c7410a975e0c4d1a"
-    },
-    ["windows-x86-vc14.43.34808-ada149cf0a1d4f12b3a7cbd20181a652"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-ada149cf0a1d4f12b3a7cbd20181a652.7z",
-        sha256 = "0e0e4486a435299c32439ffe86fe85a54a30231acddadb47612618400b667d09"
-    },
-    ["windows-x86-vc14.43.34808-0f080f0d01614ecf9d6c5692d1e01f49"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-0f080f0d01614ecf9d6c5692d1e01f49.7z",
-        sha256 = "9fe32bb3220316bdeacec586ba2abddb27db5821171fd695f7f99ef1ea3b05a2"
-    },
-    ["windows-x86-vc14.29.30133-5b1113c4e84243a4b46a9009c123ad5b"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-5b1113c4e84243a4b46a9009c123ad5b.7z",
-        sha256 = "583eb19ced55f42d744445e1b3fcdbde22df3c97f6dd888ee8c9f0b91b4fba8b"
-    },
-    ["windows-x64-vc14.29.30133-8dcab289f74647c695b89e7865bc9e60"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-8dcab289f74647c695b89e7865bc9e60.7z",
-        sha256 = "ab5b69d02b47da339cfe3d46c439ccb8a88b29c8829b35d046096e8a6e1cbda1"
-    },
-    ["windows-x64-vc14.43.34808-8dcab289f74647c695b89e7865bc9e60"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-8dcab289f74647c695b89e7865bc9e60.7z",
-        sha256 = "0bae298ba32037ff9b8087f870e9900726ebeb8b8d72d821ffa0464314515b7d"
-    },
-    ["windows-x86-vc14.29.30133-31b43b1d539148009e1476bbcd27cdd0"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-31b43b1d539148009e1476bbcd27cdd0.7z",
-        sha256 = "5551d0731d98986367e0adc5b7218c6ee87703ae3effe70345032eb8986ec5f2"
-    },
-    ["windows-x64-vc14.29.30133-bc560de238a145d6905f3cffa54d29a5"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-bc560de238a145d6905f3cffa54d29a5.7z",
-        sha256 = "0cef190cbc8254c2a175a1ed655cf94bf8ed736de17d59013dcd546c93ff8e12"
-    },
-    ["windows-x64-vc14.29.30133-f47d09dae8314ac1924bd89495e33097"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-f47d09dae8314ac1924bd89495e33097.7z",
-        sha256 = "8cfb0641ff2ba17682bf3112f1b9ab360f25f378847ebd561686bf42d7930e96"
-    },
-    ["windows-x86-vc14.43.34808-666a48f26ca84425ab7630ceeba2c5bc"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-666a48f26ca84425ab7630ceeba2c5bc.7z",
-        sha256 = "40a78f2383b4d42755d2c5fd6c9821bffb89274d1727dbc72ef00c4ef3100bf9"
-    },
-    ["windows-x64-vc14.29.30133-0d7260f2284f4c86a870299889a7a780"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-0d7260f2284f4c86a870299889a7a780.7z",
-        sha256 = "aad5527c7aae001c5f9810017ddeebb815816d95dd28052f0feeb70048ea979c"
-    },
-    ["windows-x64-vc14.29.30133-47e813a918cf4cad9b9740f18cdc211a"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-47e813a918cf4cad9b9740f18cdc211a.7z",
-        sha256 = "63696bd8ee8194ff5ef7ea57d08f2cf11a9013cd8ed568e2ee9520255d2c208c"
-    },
-    ["windows-x86-vc14.43.34808-737dbfbe4ad7475bacab705496b0ce0a"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-737dbfbe4ad7475bacab705496b0ce0a.7z",
-        sha256 = "21ac864f4a559f923d4c288e51047a60c460b7264f4112f5a3464a5299b44107"
-    },
-    ["windows-x64-vc14.43.34808-bc560de238a145d6905f3cffa54d29a5"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-bc560de238a145d6905f3cffa54d29a5.7z",
-        sha256 = "576dc5570996cc01a409ba79a3a67607c193983955b374fd9fcc6e4b2d8e05ae"
-    },
-    ["windows-x86-vc14.29.30133-f251a2dd4d794f949bfa4b36b61bc5a1"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-f251a2dd4d794f949bfa4b36b61bc5a1.7z",
-        sha256 = "f1fbe26b54ba83eab03c7acc5150359860c5690e72071984e709ea6e2fba4aeb"
-    },
-    ["windows-x86-vc14.29.30133-301d1516ecda48b0b9a2243b53c43663"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-301d1516ecda48b0b9a2243b53c43663.7z",
-        sha256 = "496f8fcf3a310fc96ad642cabd92f456aa8d05385e39e021e6101d619c85f038"
-    },
-    ["windows-x86-vc14.43.34808-f251a2dd4d794f949bfa4b36b61bc5a1"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-f251a2dd4d794f949bfa4b36b61bc5a1.7z",
-        sha256 = "cfd042e382276479724b53844e6b8a8e43392f40193f0215be5d32d2eeef92a3"
-    },
-    ["windows-x64-vc14.43.34808-ae66935bc4154785ba52dca28eae73e6"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-ae66935bc4154785ba52dca28eae73e6.7z",
-        sha256 = "f8e6e2da1cd737088de39696a6b71f0b305c2d760eadb5aa7cb91de50709dc75"
-    },
-    ["windows-x64-vc14.43.34808-577981cedb834c46a07dc19d780b71e4"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-577981cedb834c46a07dc19d780b71e4.7z",
-        sha256 = "0077a579abdd7b691592360478816e92b1c466b69a384d8aec02ddd0400293e7"
-    },
-    ["windows-x86-vc14.29.30133-ada149cf0a1d4f12b3a7cbd20181a652"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-ada149cf0a1d4f12b3a7cbd20181a652.7z",
-        sha256 = "bb9f7c1479353f2b712cc197ade8599623c56303f39575bad1ce8ef8a49b207c"
-    },
-    ["windows-x86-vc14.43.34808-31b43b1d539148009e1476bbcd27cdd0"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-31b43b1d539148009e1476bbcd27cdd0.7z",
-        sha256 = "7676753ce0518f212ed35d45d324eb2f24ac078223e137e3148846b9edb07cc0"
-    },
-    ["windows-x86-vc14.29.30133-737dbfbe4ad7475bacab705496b0ce0a"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-737dbfbe4ad7475bacab705496b0ce0a.7z",
-        sha256 = "7d45a7a8dcc296ce9f096d6e304b2f11a000bd830f1a9a3de75fafdd4613c00d"
+    ["windows-x64-vc14.44.35207-577981cedb834c46a07dc19d780b71e4"] = {
+        sha256 = "ddd81c62e7c9f8b00835399bd39eb2258c1b929050388ee9f021f09a8a82e4f3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.44.35207-577981cedb834c46a07dc19d780b71e4.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.43.34808-301d1516ecda48b0b9a2243b53c43663"] = {
-        toolset = "14.43.34808",
+        sha256 = "1baeaac6ee3f7685a9f1896a37d7443824397fb9f5173504bb015705ce26f041",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-301d1516ecda48b0b9a2243b53c43663.7z",
-        sha256 = "1baeaac6ee3f7685a9f1896a37d7443824397fb9f5173504bb015705ce26f041"
+        toolset = "14.43.34808"
     },
-    ["windows-x86-vc14.29.30133-0f080f0d01614ecf9d6c5692d1e01f49"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-0f080f0d01614ecf9d6c5692d1e01f49.7z",
-        sha256 = "ba771debd96ea42183e87ea38511472e6ef0fc93fec0cdfc5b5f6c84950cf520"
+    ["windows-x64-vc14.43.34808-577981cedb834c46a07dc19d780b71e4"] = {
+        sha256 = "0077a579abdd7b691592360478816e92b1c466b69a384d8aec02ddd0400293e7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-577981cedb834c46a07dc19d780b71e4.7z",
+        toolset = "14.43.34808"
     },
-    ["windows-x64-vc14.29.30133-577981cedb834c46a07dc19d780b71e4"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-577981cedb834c46a07dc19d780b71e4.7z",
-        sha256 = "f1f0690f43e09c9f62f475cf52eba90afcd16ecc63baae6b44b767a61980acde"
+    ["windows-x64-vc14.29.30133-ae66935bc4154785ba52dca28eae73e6"] = {
+        sha256 = "cfa1701897081a7f0cb30b051de529c232b82c6ab27a5c463b6ff4507b9ea393",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-ae66935bc4154785ba52dca28eae73e6.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-bf345a0e7db6409a9c1dba2b0f15d848"] = {
+        sha256 = "4d4fd61d692a755af4f9228bc29fd182924de28e281c19d04174221512099051",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-bf345a0e7db6409a9c1dba2b0f15d848.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-8dcab289f74647c695b89e7865bc9e60"] = {
+        sha256 = "0bae298ba32037ff9b8087f870e9900726ebeb8b8d72d821ffa0464314515b7d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-8dcab289f74647c695b89e7865bc9e60.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-737dbfbe4ad7475bacab705496b0ce0a"] = {
+        sha256 = "7d45a7a8dcc296ce9f096d6e304b2f11a000bd830f1a9a3de75fafdd4613c00d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-737dbfbe4ad7475bacab705496b0ce0a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-f47d09dae8314ac1924bd89495e33097"] = {
+        sha256 = "dc3d006d422f0c696c4f7bec9c936ef96dda4f08339f82fe5d8fd411e752fe94",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.44.35207-f47d09dae8314ac1924bd89495e33097.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-0f080f0d01614ecf9d6c5692d1e01f49"] = {
+        sha256 = "9fe32bb3220316bdeacec586ba2abddb27db5821171fd695f7f99ef1ea3b05a2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-0f080f0d01614ecf9d6c5692d1e01f49.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-f251a2dd4d794f949bfa4b36b61bc5a1"] = {
+        sha256 = "dabf55b5085f59b28c5ad4525fc91db4651346e7655ad01b6533dc91b924d204",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.44.35207-f251a2dd4d794f949bfa4b36b61bc5a1.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.43.34808-5b1113c4e84243a4b46a9009c123ad5b"] = {
-        toolset = "14.43.34808",
+        sha256 = "422e9bd631352d629bfdfcb3fcfdfd3e060ab410f244320db21058c6599e2dae",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-5b1113c4e84243a4b46a9009c123ad5b.7z",
-        sha256 = "422e9bd631352d629bfdfcb3fcfdfd3e060ab410f244320db21058c6599e2dae"
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-31b43b1d539148009e1476bbcd27cdd0"] = {
+        sha256 = "7676753ce0518f212ed35d45d324eb2f24ac078223e137e3148846b9edb07cc0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-31b43b1d539148009e1476bbcd27cdd0.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-bc560de238a145d6905f3cffa54d29a5"] = {
+        sha256 = "6a5fa5cebd2c5cf0766c043426e047bd9d949649ce5fba13389c912f4e48161e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.44.35207-bc560de238a145d6905f3cffa54d29a5.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-ada149cf0a1d4f12b3a7cbd20181a652"] = {
+        sha256 = "0e0e4486a435299c32439ffe86fe85a54a30231acddadb47612618400b667d09",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-ada149cf0a1d4f12b3a7cbd20181a652.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-0f080f0d01614ecf9d6c5692d1e01f49"] = {
+        sha256 = "ba771debd96ea42183e87ea38511472e6ef0fc93fec0cdfc5b5f6c84950cf520",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-0f080f0d01614ecf9d6c5692d1e01f49.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-666a48f26ca84425ab7630ceeba2c5bc"] = {
+        sha256 = "0b0f450320c90b743daa15fc36e7b611204d29a2b668f4fedb30a719a32bb743",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-666a48f26ca84425ab7630ceeba2c5bc.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-ada149cf0a1d4f12b3a7cbd20181a652"] = {
+        sha256 = "bb9f7c1479353f2b712cc197ade8599623c56303f39575bad1ce8ef8a49b207c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-ada149cf0a1d4f12b3a7cbd20181a652.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-bc560de238a145d6905f3cffa54d29a5"] = {
+        sha256 = "576dc5570996cc01a409ba79a3a67607c193983955b374fd9fcc6e4b2d8e05ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-bc560de238a145d6905f3cffa54d29a5.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-ae66935bc4154785ba52dca28eae73e6"] = {
+        sha256 = "f8e6e2da1cd737088de39696a6b71f0b305c2d760eadb5aa7cb91de50709dc75",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-ae66935bc4154785ba52dca28eae73e6.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-f47d09dae8314ac1924bd89495e33097"] = {
+        sha256 = "8cfb0641ff2ba17682bf3112f1b9ab360f25f378847ebd561686bf42d7930e96",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-f47d09dae8314ac1924bd89495e33097.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-bc560de238a145d6905f3cffa54d29a5"] = {
+        sha256 = "0cef190cbc8254c2a175a1ed655cf94bf8ed736de17d59013dcd546c93ff8e12",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-bc560de238a145d6905f3cffa54d29a5.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-5b1113c4e84243a4b46a9009c123ad5b"] = {
+        sha256 = "583eb19ced55f42d744445e1b3fcdbde22df3c97f6dd888ee8c9f0b91b4fba8b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-5b1113c4e84243a4b46a9009c123ad5b.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-666a48f26ca84425ab7630ceeba2c5bc"] = {
+        sha256 = "40a78f2383b4d42755d2c5fd6c9821bffb89274d1727dbc72ef00c4ef3100bf9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-666a48f26ca84425ab7630ceeba2c5bc.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-0d7260f2284f4c86a870299889a7a780"] = {
+        sha256 = "aad5527c7aae001c5f9810017ddeebb815816d95dd28052f0feeb70048ea979c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-0d7260f2284f4c86a870299889a7a780.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-301d1516ecda48b0b9a2243b53c43663"] = {
+        sha256 = "3450e7227913ecb312f52ca06cf0308a2ff2eeef300f4ec1f078ec9d70790531",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.44.35207-301d1516ecda48b0b9a2243b53c43663.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-47e813a918cf4cad9b9740f18cdc211a"] = {
+        sha256 = "63696bd8ee8194ff5ef7ea57d08f2cf11a9013cd8ed568e2ee9520255d2c208c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-47e813a918cf4cad9b9740f18cdc211a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.43.34808-737dbfbe4ad7475bacab705496b0ce0a"] = {
+        sha256 = "21ac864f4a559f923d4c288e51047a60c460b7264f4112f5a3464a5299b44107",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-737dbfbe4ad7475bacab705496b0ce0a.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-f251a2dd4d794f949bfa4b36b61bc5a1"] = {
+        sha256 = "f1fbe26b54ba83eab03c7acc5150359860c5690e72071984e709ea6e2fba4aeb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-f251a2dd4d794f949bfa4b36b61bc5a1.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.43.34808-bf345a0e7db6409a9c1dba2b0f15d848"] = {
+        sha256 = "dce2c156a07ae5013526e50087a6f4e837a0e58f2843f216c7410a975e0c4d1a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-bf345a0e7db6409a9c1dba2b0f15d848.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-47e813a918cf4cad9b9740f18cdc211a"] = {
+        sha256 = "8f53133a702415f53ee775f43ccf6a6c495e76522038190f058824348b3ce761",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-47e813a918cf4cad9b9740f18cdc211a.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-31b43b1d539148009e1476bbcd27cdd0"] = {
+        sha256 = "5551d0731d98986367e0adc5b7218c6ee87703ae3effe70345032eb8986ec5f2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-31b43b1d539148009e1476bbcd27cdd0.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.29.30133-577981cedb834c46a07dc19d780b71e4"] = {
+        sha256 = "f1f0690f43e09c9f62f475cf52eba90afcd16ecc63baae6b44b767a61980acde",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-577981cedb834c46a07dc19d780b71e4.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-ada149cf0a1d4f12b3a7cbd20181a652"] = {
+        sha256 = "2a6cb20246dd77a1882ff9cdc5717ec5b6f7f7c312ece456416ff0b32bf05b65",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.44.35207-ada149cf0a1d4f12b3a7cbd20181a652.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-737dbfbe4ad7475bacab705496b0ce0a"] = {
+        sha256 = "0417822030cc6b8ac2ac5427d560d13dd1ec4f98f20536d41bd0ebb1d1254e51",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.44.35207-737dbfbe4ad7475bacab705496b0ce0a.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-0d7260f2284f4c86a870299889a7a780"] = {
+        sha256 = "eae183c366694071a0e40cdf9282d7344f71fa1030f7f968e2d552d65e540e14",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-0d7260f2284f4c86a870299889a7a780.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.29.30133-8dcab289f74647c695b89e7865bc9e60"] = {
+        sha256 = "ab5b69d02b47da339cfe3d46c439ccb8a88b29c8829b35d046096e8a6e1cbda1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.29.30133-8dcab289f74647c695b89e7865bc9e60.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.44.35207-0d7260f2284f4c86a870299889a7a780"] = {
+        sha256 = "409cc8b0a8309cb37ec482b53e3ee850dc064ec7e0bf512caad7c312a60e7921",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.44.35207-0d7260f2284f4c86a870299889a7a780.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-f251a2dd4d794f949bfa4b36b61bc5a1"] = {
+        sha256 = "cfd042e382276479724b53844e6b8a8e43392f40193f0215be5d32d2eeef92a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.43.34808-f251a2dd4d794f949bfa4b36b61bc5a1.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-f47d09dae8314ac1924bd89495e33097"] = {
+        sha256 = "a0528ef4f2e07166bb74de9878f00ea887434a93467b59f869e5f22efb8cd4b8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x64-vc14.43.34808-f47d09dae8314ac1924bd89495e33097.7z",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.29.30133-301d1516ecda48b0b9a2243b53c43663"] = {
+        sha256 = "496f8fcf3a310fc96ad642cabd92f456aa8d05385e39e021e6101d619c85f038",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tbox-v1.7.6/windows-x86-vc14.29.30133-301d1516ecda48b0b9a2243b53c43663.7z",
+        toolset = "14.29.30133"
     }
 }
