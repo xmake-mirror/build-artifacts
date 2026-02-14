@@ -1,42 +1,62 @@
 {
     ["windows-x86-vc14.29.30133-fa143b844a64452b99eda939b001eecc"] = {
-        sha256 = "7b0b8190b2dc057df2cf9aa31ab177212a267c943023bdd958008cec662d1e9c",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.29.30133-fa143b844a64452b99eda939b001eecc.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.29.30133-c72823be95dd4ee296061d3503f9724a"] = {
-        sha256 = "058be18606c27b5c648996e990ed6e38bd9f6e223b246b3f5c83c740ee4806e6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.29.30133-c72823be95dd4ee296061d3503f9724a.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.43.34808-33d8ddf49a374c5b8d73cf072a35d671"] = {
-        sha256 = "a819eacdbce8c4c18c2648f3f3a63b52a686aef59e3c7c1a19a866f6cf968ccb",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.43.34808-33d8ddf49a374c5b8d73cf072a35d671.7z",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.29.30133-33d8ddf49a374c5b8d73cf072a35d671"] = {
-        sha256 = "c8a48c8a319e905aadb4a56b5c190b672de435c12dacc32986b59ce2358e06e5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.29.30133-33d8ddf49a374c5b8d73cf072a35d671.7z",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.43.34808-fa143b844a64452b99eda939b001eecc"] = {
-        sha256 = "1d24749942b002ee8be43c024df4ed17df925616264e7ef019142188eb50bc56",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.43.34808-fa143b844a64452b99eda939b001eecc.7z",
-        toolset = "14.43.34808"
+        sha256 = "7b0b8190b2dc057df2cf9aa31ab177212a267c943023bdd958008cec662d1e9c"
     },
     ["windows-x64-vc14.43.34808-0dc81ccd3db14263b1d3098573246cfd"] = {
-        sha256 = "2d028e47efd9a3cd0921e4ca63666bea9376a5dc2508c8946c266a92030a4c72",
+        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.43.34808-0dc81ccd3db14263b1d3098573246cfd.7z",
-        toolset = "14.43.34808"
+        sha256 = "2d028e47efd9a3cd0921e4ca63666bea9376a5dc2508c8946c266a92030a4c72"
+    },
+    ["windows-x86-vc14.44.35207-c72823be95dd4ee296061d3503f9724a"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.44.35207-c72823be95dd4ee296061d3503f9724a.7z",
+        sha256 = "74d2f4cd2208122e00b1642374210bb08f4ca5243c62abcb2f62ffad1929c632"
+    },
+    ["windows-x64-vc14.44.35207-33d8ddf49a374c5b8d73cf072a35d671"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.44.35207-33d8ddf49a374c5b8d73cf072a35d671.7z",
+        sha256 = "a98c7b0135d00fd24b58ffc56798769b6ff129c2d92f592e447338b1b4f44edd"
+    },
+    ["windows-x64-vc14.29.30133-33d8ddf49a374c5b8d73cf072a35d671"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.29.30133-33d8ddf49a374c5b8d73cf072a35d671.7z",
+        sha256 = "c8a48c8a319e905aadb4a56b5c190b672de435c12dacc32986b59ce2358e06e5"
     },
     ["windows-x64-vc14.29.30133-0dc81ccd3db14263b1d3098573246cfd"] = {
-        sha256 = "e9c13333707703850906d5ffb63e159818a09e19e431d84317dc8a5c2f2607c9",
+        toolset = "14.29.30133",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.29.30133-0dc81ccd3db14263b1d3098573246cfd.7z",
-        toolset = "14.29.30133"
+        sha256 = "e9c13333707703850906d5ffb63e159818a09e19e431d84317dc8a5c2f2607c9"
     },
     ["windows-x86-vc14.43.34808-c72823be95dd4ee296061d3503f9724a"] = {
-        sha256 = "088dfc80b296256d2996b11b7b59e328ac4be2d595091d6d390c882c6eea5a76",
+        toolset = "14.43.34808",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.43.34808-c72823be95dd4ee296061d3503f9724a.7z",
-        toolset = "14.43.34808"
+        sha256 = "088dfc80b296256d2996b11b7b59e328ac4be2d595091d6d390c882c6eea5a76"
+    },
+    ["windows-x86-vc14.29.30133-c72823be95dd4ee296061d3503f9724a"] = {
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.29.30133-c72823be95dd4ee296061d3503f9724a.7z",
+        sha256 = "058be18606c27b5c648996e990ed6e38bd9f6e223b246b3f5c83c740ee4806e6"
+    },
+    ["windows-x86-vc14.44.35207-fa143b844a64452b99eda939b001eecc"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.44.35207-fa143b844a64452b99eda939b001eecc.7z",
+        sha256 = "9807ea6d248187d566791331995e5c3f3b2845778e312c00755fdbbbab2481aa"
+    },
+    ["windows-x64-vc14.43.34808-33d8ddf49a374c5b8d73cf072a35d671"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.43.34808-33d8ddf49a374c5b8d73cf072a35d671.7z",
+        sha256 = "a819eacdbce8c4c18c2648f3f3a63b52a686aef59e3c7c1a19a866f6cf968ccb"
+    },
+    ["windows-x86-vc14.43.34808-fa143b844a64452b99eda939b001eecc"] = {
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x86-vc14.43.34808-fa143b844a64452b99eda939b001eecc.7z",
+        sha256 = "1d24749942b002ee8be43c024df4ed17df925616264e7ef019142188eb50bc56"
+    },
+    ["windows-x64-vc14.44.35207-0dc81ccd3db14263b1d3098573246cfd"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libnyquist-2023.02.12/windows-x64-vc14.44.35207-0dc81ccd3db14263b1d3098573246cfd.7z",
+        sha256 = "441a8d39d86491639ac0311ab38a8b98c45cf4da8e0c79c924e503faf8c23bf9"
     }
 }
