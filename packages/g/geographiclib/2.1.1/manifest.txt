@@ -1,13 +1,23 @@
 {
-    ["windows-x64-vc143-89acf1efe8a44bd9861500f6596c58e8"] = {
-        toolset = "14.33.31629",
-        sha256 = "ce0e613bc76f2d75e30271ce6665e5593caa9fb03500a4207b8b345d6cfb6ac3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc143-89acf1efe8a44bd9861500f6596c58e8.7z"
+    ["windows-x86-vc14.44.35207-b8ddded1e442461b82b13aa2f30059bd"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-b8ddded1e442461b82b13aa2f30059bd.7z",
+        sha256 = "c4cc81f347558d7e5cf9882786822af10297467243d06c44963ebaf4361c76d0"
     },
-    ["windows-x86-vc143-e2198e8078004ba6bb4277ee1daa947b"] = {
+    ["windows-x64-vc14.44.35207-ec88fefc6af54874b9c89ebd5db24f58"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-ec88fefc6af54874b9c89ebd5db24f58.7z",
+        sha256 = "a595e40f8f258bc5b99f9b826970808cee480c900a15ef1d253ec8d6c736cd1f"
+    },
+    ["windows-x86-vc143-97d810c333334f2d8838312470f28aeb"] = {
         toolset = "14.33.31629",
-        sha256 = "b145d6f6882cdcf57d67bfc2e0a42a1d1ed0de4109fc1a80d232b4694526d113",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc143-e2198e8078004ba6bb4277ee1daa947b.7z"
+        sha256 = "63df0e14e67f37e731b1c34ac499d04ecb86910ce8131f12ae3fbd0f64a2d197",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc143-97d810c333334f2d8838312470f28aeb.7z"
+    },
+    ["windows-x64-vc14.44.35207-166d1adcbf354bef82515ea2c41a44c9"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-166d1adcbf354bef82515ea2c41a44c9.7z",
+        sha256 = "ceea0ccc568f29deba895e2e6f53a447c99fc63b82a3ff474c20f512d8b3ae32"
     },
     ["windows-x64-vc142-89acf1efe8a44bd9861500f6596c58e8"] = {
         toolset = "14.29.30133",
@@ -19,25 +29,50 @@
         sha256 = "e7af3dfc56b636f1d04182e1aee70847d6c832558d6b82914df61a461762019e",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc142-eb23e7b55d96480eabd3c341a4bbb02c.7z"
     },
+    ["windows-x64-vc14.44.35207-389f71bb2ebd43b0945462dbc1e349de"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-389f71bb2ebd43b0945462dbc1e349de.7z",
+        sha256 = "bcadc931add316fbbabdff8f8298f4f16706bcdb7aaebbe7d16871adb58d6ebd"
+    },
     ["windows-x64-vc143-a3b8ca58df3d4cf7af2a6386c3b1f71c"] = {
         toolset = "14.33.31629",
         sha256 = "b20befd878ca77c710bf4c1c0a9ecbb274ca87684880ab40115ef1fecbbd3470",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc143-a3b8ca58df3d4cf7af2a6386c3b1f71c.7z"
+    },
+    ["windows-x86-vc142-e2198e8078004ba6bb4277ee1daa947b"] = {
+        toolset = "14.29.30133",
+        sha256 = "ed463f7db48c9a2b24b36a533a13b1f54d19ee25d374b1b30ee7de010cd19e83",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc142-e2198e8078004ba6bb4277ee1daa947b.7z"
+    },
+    ["windows-x64-vc14.44.35207-1a0a8b751b524e58af20b7382f2d19b8"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-1a0a8b751b524e58af20b7382f2d19b8.7z",
+        sha256 = "dd4d88a51b01da88fb40a5d2284d649aedecd04d1e6185120b4aaeb8aecdaae9"
     },
     ["windows-x64-vc143-eb23e7b55d96480eabd3c341a4bbb02c"] = {
         toolset = "14.33.31629",
         sha256 = "b03e68043360172ae91e3682b06c990028667912ef67e35eec5c184492b09ba2",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc143-eb23e7b55d96480eabd3c341a4bbb02c.7z"
     },
-    ["windows-x86-vc143-97d810c333334f2d8838312470f28aeb"] = {
+    ["windows-x86-vc143-e2198e8078004ba6bb4277ee1daa947b"] = {
         toolset = "14.33.31629",
-        sha256 = "63df0e14e67f37e731b1c34ac499d04ecb86910ce8131f12ae3fbd0f64a2d197",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc143-97d810c333334f2d8838312470f28aeb.7z"
+        sha256 = "b145d6f6882cdcf57d67bfc2e0a42a1d1ed0de4109fc1a80d232b4694526d113",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc143-e2198e8078004ba6bb4277ee1daa947b.7z"
     },
     ["windows-x86-vc142-0370ef4a04b54cc0904dc620afb140ea"] = {
         toolset = "14.29.30133",
         sha256 = "dff4a969aaea564969dcdb90f7a5ee422a7f55b213c49abc29a42eec3712b394",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc142-0370ef4a04b54cc0904dc620afb140ea.7z"
+    },
+    ["windows-x64-vc143-89acf1efe8a44bd9861500f6596c58e8"] = {
+        toolset = "14.33.31629",
+        sha256 = "ce0e613bc76f2d75e30271ce6665e5593caa9fb03500a4207b8b345d6cfb6ac3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc143-89acf1efe8a44bd9861500f6596c58e8.7z"
+    },
+    ["windows-x86-vc14.44.35207-8f4458d959ae418db74881dfb924d53d"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-8f4458d959ae418db74881dfb924d53d.7z",
+        sha256 = "37d3379faaa7b731c0770763a16e507f25cbdbcd65e62f180a1b9d6a5aa54c3a"
     },
     ["windows-x86-vc143-0370ef4a04b54cc0904dc620afb140ea"] = {
         toolset = "14.33.31629",
@@ -54,16 +89,6 @@
         sha256 = "c00e28b2a531e2beb9897577411fa1fc0c2d0d1d9e26a3c8fe11a1f07f148433",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc142-06bffb8b7e2d4bdb8c16403c5cc37d13.7z"
     },
-    ["windows-x64-vc14.44.35207-ec88fefc6af54874b9c89ebd5db24f58"] = {
-        toolset = "14.44.35207",
-        sha256 = "872f7340b2736265372abc766bbac5284d2588106ef7a76749df9d91a356c177",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-ec88fefc6af54874b9c89ebd5db24f58.7z"
-    },
-    ["windows-x64-vc14.44.35207-1a0a8b751b524e58af20b7382f2d19b8"] = {
-        toolset = "14.44.35207",
-        sha256 = "4ab9ea71b5430b8a13d3eb58791b1c932f1a277bbd2247f274bfbedcd268e38d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-1a0a8b751b524e58af20b7382f2d19b8.7z"
-    },
     ["windows-x86-vc143-450a3f4af39e44059dfa8df8ffcd1ada"] = {
         toolset = "14.33.31629",
         sha256 = "986548e81b7f30a22f8cb0097760fa62b6ae4eb9b74020111409710e092a2e9b",
@@ -74,49 +99,24 @@
         sha256 = "ad180d939931d5f67bd1906bf1c41e1fb0da9cbf6a43437f8bf6fded3bf3977b",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc143-06bffb8b7e2d4bdb8c16403c5cc37d13.7z"
     },
-    ["windows-x86-vc14.44.35207-b8ddded1e442461b82b13aa2f30059bd"] = {
-        toolset = "14.44.35207",
-        sha256 = "6530313607078b3e618ac03cdc8e10f54fb90bc4114fabaeee8f8e48454b9b10",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-b8ddded1e442461b82b13aa2f30059bd.7z"
-    },
     ["windows-x64-vc142-a3b8ca58df3d4cf7af2a6386c3b1f71c"] = {
         toolset = "14.29.30133",
         sha256 = "93bc7288db97e8fe51dd9129a1df881cfe4e4fe2c650c2f9d5bdb5c4b56a466c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc142-a3b8ca58df3d4cf7af2a6386c3b1f71c.7z"
     },
-    ["windows-x64-vc14.44.35207-166d1adcbf354bef82515ea2c41a44c9"] = {
-        toolset = "14.44.35207",
-        sha256 = "4e07482531a61cf2ec2593f4ca84d7ebbe4c70bbfad59d5f82df0260b9f78552",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-166d1adcbf354bef82515ea2c41a44c9.7z"
-    },
     ["windows-x86-vc14.44.35207-b91cb05b33f44f7bb0eb4e6267e68c00"] = {
         toolset = "14.44.35207",
-        sha256 = "d377455918e8506a50f15d8a3f91e0f3f355dd612d804671abe31f366b48fdfc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-b91cb05b33f44f7bb0eb4e6267e68c00.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-b91cb05b33f44f7bb0eb4e6267e68c00.7z",
+        sha256 = "bccede3750ca3ecdfaf481859dc159149ac100552b2f70f1f09f6264ebd5aad5"
     },
     ["windows-x86-vc142-450a3f4af39e44059dfa8df8ffcd1ada"] = {
         toolset = "14.29.30133",
         sha256 = "4770f08032b4078d0a6e17613bf3219aa8fce302a1552001f60c25721991d757",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc142-450a3f4af39e44059dfa8df8ffcd1ada.7z"
     },
-    ["windows-x86-vc142-e2198e8078004ba6bb4277ee1daa947b"] = {
-        toolset = "14.29.30133",
-        sha256 = "ed463f7db48c9a2b24b36a533a13b1f54d19ee25d374b1b30ee7de010cd19e83",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc142-e2198e8078004ba6bb4277ee1daa947b.7z"
-    },
     ["windows-x86-vc14.44.35207-c5a03481727a4c959af1ce7397431b9e"] = {
         toolset = "14.44.35207",
-        sha256 = "c674e6632301e17ee56801095602df068e8810d801957d867fd30457176047ac",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-c5a03481727a4c959af1ce7397431b9e.7z"
-    },
-    ["windows-x64-vc14.44.35207-389f71bb2ebd43b0945462dbc1e349de"] = {
-        toolset = "14.44.35207",
-        sha256 = "be80c3e7027037268e7ea2323dc9e0fe41aa034d75ac4f82ab2ed0703f6e12c0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x64-vc14.44.35207-389f71bb2ebd43b0945462dbc1e349de.7z"
-    },
-    ["windows-x86-vc14.44.35207-8f4458d959ae418db74881dfb924d53d"] = {
-        toolset = "14.44.35207",
-        sha256 = "13b245122b718e00c1ecfab416d39138fcafcd90a2e02b0729cf17ab93a581aa",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-8f4458d959ae418db74881dfb924d53d.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/geographiclib-2.1.1/windows-x86-vc14.44.35207-c5a03481727a4c959af1ce7397431b9e.7z",
+        sha256 = "d020076e6f77d06dd2825c99523f4b6bec8da658027c924b5893e241b4a4249c"
     }
 }
