@@ -1,77 +1,117 @@
 {
-    ["windows-x64-vc14.40.33807-50689b7348f5466ebfb960d69d668c9c"] = {
-        toolset = "14.40.33807",
-        sha256 = "33afc5de2f26552db1daa52673648e53c2f3f1b92b4ff32a3b5c0901599fd883",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-50689b7348f5466ebfb960d69d668c9c.7z"
-    },
-    ["windows-x64-vc14.29.30133-df117d7b00734ad6a59c44f3f82ea8ba"] = {
-        toolset = "14.29.30133",
-        sha256 = "ffaf8756bb078be8eb8176aeef805d4a37ab5fda0eca86ba941377b84ab440ac",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.29.30133-df117d7b00734ad6a59c44f3f82ea8ba.7z"
-    },
-    ["windows-x86-vc14.40.33807-c48df1498f0b49e6ad9a4a3c2b32882d"] = {
-        toolset = "14.40.33807",
-        sha256 = "8d6302805566e5ee4801f91916f1b097c5e55692818c1e450bc59c64baa42898",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-c48df1498f0b49e6ad9a4a3c2b32882d.7z"
+    ["windows-x64-vc14.44.35207-50689b7348f5466ebfb960d69d668c9c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.44.35207-50689b7348f5466ebfb960d69d668c9c.7z",
+        sha256 = "b698f038841c2409cd649cbd8c7594ec53b49675df64b3342d31cd0bf93502a4",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.29.30133-7138f6a385f240e0a4aedc72000c46ce"] = {
-        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-7138f6a385f240e0a4aedc72000c46ce.7z",
         sha256 = "925e157a559a7a3abf63f27ae9a4a3e9dced2f2e403141adfcc93c27b9762196",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-7138f6a385f240e0a4aedc72000c46ce.7z"
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-4f2761946b3343d5bc75a7a7f4f9d898"] = {
-        toolset = "14.29.30133",
-        sha256 = "dcf85f0f7f2ad72b4853e300600a2589d6ae08c0622f616187a17e13a7e27b0a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-4f2761946b3343d5bc75a7a7f4f9d898.7z"
+    ["windows-x64-vc14.44.35207-832a4d473e60461ca964b6862b3fa509"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.44.35207-832a4d473e60461ca964b6862b3fa509.7z",
+        sha256 = "fcc4da21dd0342770f15c90045f2fd97f753cba280de67b08ebc60693d02194d",
+        toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.29.30133-50689b7348f5466ebfb960d69d668c9c"] = {
-        toolset = "14.29.30133",
-        sha256 = "31f6ef38a9035447a87958958aca422cb8e52bdcc56a7bd70fb25f4dd0f9a195",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.29.30133-50689b7348f5466ebfb960d69d668c9c.7z"
-    },
-    ["windows-x86-vc14.40.33807-3bfa7aa1ef7b4fefb3b46219ed15709e"] = {
-        toolset = "14.40.33807",
-        sha256 = "d2adab1af966b19ca22723241c0b213ab75fc42af0f5167616a8c620a5e05cc3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-3bfa7aa1ef7b4fefb3b46219ed15709e.7z"
-    },
-    ["windows-x64-vc14.29.30133-1dd116b7c62e40b2979d861c041fd97a"] = {
-        toolset = "14.29.30133",
-        sha256 = "9599c34977513920c663940ce3dbd89a9a897b352164c93512e302ff7a61c54d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.29.30133-1dd116b7c62e40b2979d861c041fd97a.7z"
-    },
-    ["windows-x64-vc14.40.33807-832a4d473e60461ca964b6862b3fa509"] = {
-        toolset = "14.40.33807",
-        sha256 = "979fec6f1c5dd3efcc3ad82daab7306db304aa8757d1b0fd7f2220f23ac6e09e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-832a4d473e60461ca964b6862b3fa509.7z"
+    ["windows-x64-vc14.44.35207-df117d7b00734ad6a59c44f3f82ea8ba"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.44.35207-df117d7b00734ad6a59c44f3f82ea8ba.7z",
+        sha256 = "3c28c7cabcbed95f8996784b37ecc736ade5e7d6a7fef17134e78e8895b21fab",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.40.33807-df117d7b00734ad6a59c44f3f82ea8ba"] = {
-        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-df117d7b00734ad6a59c44f3f82ea8ba.7z",
         sha256 = "2b01889fd6551d9a3ad76661936818bcf708d1ff3fd0c80bb5c32418afdca0c9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-df117d7b00734ad6a59c44f3f82ea8ba.7z"
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.40.33807-7138f6a385f240e0a4aedc72000c46ce"] = {
-        toolset = "14.40.33807",
-        sha256 = "b0877da6c7c718fe7a58c34f6951c9ab159afa808430c382e79079235e9c0ba4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-7138f6a385f240e0a4aedc72000c46ce.7z"
+    ["windows-x86-vc14.44.35207-c48df1498f0b49e6ad9a4a3c2b32882d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.44.35207-c48df1498f0b49e6ad9a4a3c2b32882d.7z",
+        sha256 = "1e5162a582753fda0b8707eada7a0e440ae5f2b276cfc1eefde92d72bd79b6a3",
+        toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.40.33807-4f2761946b3343d5bc75a7a7f4f9d898"] = {
-        toolset = "14.40.33807",
-        sha256 = "bf06cbd9c26cac08aaa02e74b424d40a85fa9fabdd3c5a7fe28fc7fe0d790fc3",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-4f2761946b3343d5bc75a7a7f4f9d898.7z"
+    ["windows-x86-vc14.29.30133-4f2761946b3343d5bc75a7a7f4f9d898"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-4f2761946b3343d5bc75a7a7f4f9d898.7z",
+        sha256 = "dcf85f0f7f2ad72b4853e300600a2589d6ae08c0622f616187a17e13a7e27b0a",
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.29.30133-c48df1498f0b49e6ad9a4a3c2b32882d"] = {
-        toolset = "14.29.30133",
-        sha256 = "3e435916481aabf17961f8939cfbd0132fee233524060758f782c6f10877cae7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-c48df1498f0b49e6ad9a4a3c2b32882d.7z"
+    ["windows-x64-vc14.40.33807-50689b7348f5466ebfb960d69d668c9c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-50689b7348f5466ebfb960d69d668c9c.7z",
+        sha256 = "33afc5de2f26552db1daa52673648e53c2f3f1b92b4ff32a3b5c0901599fd883",
+        toolset = "14.40.33807"
     },
-    ["windows-x86-vc14.29.30133-3bfa7aa1ef7b4fefb3b46219ed15709e"] = {
-        toolset = "14.29.30133",
-        sha256 = "17703352c6be7953d320a94cb50cc1245e6c2722a4956df8787954db391a5b77",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-3bfa7aa1ef7b4fefb3b46219ed15709e.7z"
+    ["windows-x64-vc14.44.35207-1dd116b7c62e40b2979d861c041fd97a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.44.35207-1dd116b7c62e40b2979d861c041fd97a.7z",
+        sha256 = "84e6857fdd48ae2fbb38c5723629417cfbe241c95b08f83fb314891ccb84ff95",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-df117d7b00734ad6a59c44f3f82ea8ba"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.29.30133-df117d7b00734ad6a59c44f3f82ea8ba.7z",
+        sha256 = "ffaf8756bb078be8eb8176aeef805d4a37ab5fda0eca86ba941377b84ab440ac",
+        toolset = "14.29.30133"
     },
     ["windows-x64-vc14.40.33807-1dd116b7c62e40b2979d861c041fd97a"] = {
-        toolset = "14.40.33807",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-1dd116b7c62e40b2979d861c041fd97a.7z",
         sha256 = "f619084273215d2ec859b37240efcf4fce7f018c94f8b06671561a39ffaf2e89",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-1dd116b7c62e40b2979d861c041fd97a.7z"
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.40.33807-832a4d473e60461ca964b6862b3fa509"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.40.33807-832a4d473e60461ca964b6862b3fa509.7z",
+        sha256 = "979fec6f1c5dd3efcc3ad82daab7306db304aa8757d1b0fd7f2220f23ac6e09e",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.40.33807-7138f6a385f240e0a4aedc72000c46ce"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-7138f6a385f240e0a4aedc72000c46ce.7z",
+        sha256 = "b0877da6c7c718fe7a58c34f6951c9ab159afa808430c382e79079235e9c0ba4",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.44.35207-3bfa7aa1ef7b4fefb3b46219ed15709e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.44.35207-3bfa7aa1ef7b4fefb3b46219ed15709e.7z",
+        sha256 = "fc956c6c1cd9537e0462bdbbc7e64ff077bfb625c87139be7136f7ca3addddf1",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.29.30133-3bfa7aa1ef7b4fefb3b46219ed15709e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-3bfa7aa1ef7b4fefb3b46219ed15709e.7z",
+        sha256 = "17703352c6be7953d320a94cb50cc1245e6c2722a4956df8787954db391a5b77",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.44.35207-7138f6a385f240e0a4aedc72000c46ce"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.44.35207-7138f6a385f240e0a4aedc72000c46ce.7z",
+        sha256 = "b27fd28dd502c46d95a144aa4b164f429230984fc96434b84641486ebe7268b8",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.40.33807-c48df1498f0b49e6ad9a4a3c2b32882d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-c48df1498f0b49e6ad9a4a3c2b32882d.7z",
+        sha256 = "8d6302805566e5ee4801f91916f1b097c5e55692818c1e450bc59c64baa42898",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-1dd116b7c62e40b2979d861c041fd97a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.29.30133-1dd116b7c62e40b2979d861c041fd97a.7z",
+        sha256 = "9599c34977513920c663940ce3dbd89a9a897b352164c93512e302ff7a61c54d",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-4f2761946b3343d5bc75a7a7f4f9d898"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-4f2761946b3343d5bc75a7a7f4f9d898.7z",
+        sha256 = "bf06cbd9c26cac08aaa02e74b424d40a85fa9fabdd3c5a7fe28fc7fe0d790fc3",
+        toolset = "14.40.33807"
+    },
+    ["windows-x64-vc14.29.30133-50689b7348f5466ebfb960d69d668c9c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x64-vc14.29.30133-50689b7348f5466ebfb960d69d668c9c.7z",
+        sha256 = "31f6ef38a9035447a87958958aca422cb8e52bdcc56a7bd70fb25f4dd0f9a195",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-c48df1498f0b49e6ad9a4a3c2b32882d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.29.30133-c48df1498f0b49e6ad9a4a3c2b32882d.7z",
+        sha256 = "3e435916481aabf17961f8939cfbd0132fee233524060758f782c6f10877cae7",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.40.33807-3bfa7aa1ef7b4fefb3b46219ed15709e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.40.33807-3bfa7aa1ef7b4fefb3b46219ed15709e.7z",
+        sha256 = "d2adab1af966b19ca22723241c0b213ab75fc42af0f5167616a8c620a5e05cc3",
+        toolset = "14.40.33807"
+    },
+    ["windows-x86-vc14.44.35207-4f2761946b3343d5bc75a7a7f4f9d898"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/usockets-v0.8.8/windows-x86-vc14.44.35207-4f2761946b3343d5bc75a7a7f4f9d898.7z",
+        sha256 = "02e98de891487f3322af2be95e65aa13ddb89bf73413317fca7a1e331f412bf4",
+        toolset = "14.44.35207"
     }
 }
