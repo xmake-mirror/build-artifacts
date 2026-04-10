@@ -1,34 +1,74 @@
 {
-    ["windows-x64-331a971105da4c76959b7741278cacdb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-331a971105da4c76959b7741278cacdb.7z",
-        sha256 = "9bf337e4bea8364da1f6e6658c666b4bc57262762472ddc576b7011dc0d521e6"
-    },
-    ["windows-x64-c30eaedd748044f88a212c5150052e7b"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-c30eaedd748044f88a212c5150052e7b.7z",
-        sha256 = "218d44c51865be4a1bd1fc7ca0519a685541c1b3519680883cdab0a3a1438e2a"
+    ["windows-x86-e631e73516cc41bea1f30f2f2a646f34"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-e631e73516cc41bea1f30f2f2a646f34.7z",
+        sha256 = "809e4014b547d7144e7fb5d1b9de99a67eed7017a3b8fe6b69c36cf7797841a4"
     },
     ["windows-x64-c58d4757d0764e7b9e18e24d91add7ea"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-c58d4757d0764e7b9e18e24d91add7ea.7z",
         sha256 = "25dc61be2d209490a9d868b1b12dc5bbda8956c77cc64ee22c0daa2f416e9880"
     },
+    ["windows-x86-vc14.44.35207-025ed27d08a9466b8443519ca21d2c5a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-vc14.44.35207-025ed27d08a9466b8443519ca21d2c5a.7z",
+        toolset = "14.44.35207",
+        sha256 = "918c15d09437d1d244f2bdb3b15da5373de4e29801cbb775a218dd80d18ec86a"
+    },
+    ["windows-x64-331a971105da4c76959b7741278cacdb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-331a971105da4c76959b7741278cacdb.7z",
+        sha256 = "9bf337e4bea8364da1f6e6658c666b4bc57262762472ddc576b7011dc0d521e6"
+    },
     ["windows-x86-0d85ee22bc6245f6bbb5af07177970e0"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-0d85ee22bc6245f6bbb5af07177970e0.7z",
         sha256 = "1976204fd9f570e953299c8cd3014bc79b7aca9edfa4aba878a1c5e8cc511aa2"
     },
-    ["windows-x64-618c7b92c819453eaa1a00a41d1d32e3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-618c7b92c819453eaa1a00a41d1d32e3.7z",
-        sha256 = "244ce75647fea38a878427345e9564945848b881b198f1989bfd519f71ea51cd"
+    ["windows-x64-vc14.44.35207-b624c40e764e48a2989368361626750b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-vc14.44.35207-b624c40e764e48a2989368361626750b.7z",
+        toolset = "14.44.35207",
+        sha256 = "843b96aac877b37acfd29978e1115b535d2524888218c8f2bd0ec1666b5e49a4"
     },
-    ["windows-x86-f6b496fbb2f84dad9787ebbb65542383"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-f6b496fbb2f84dad9787ebbb65542383.7z",
-        sha256 = "c3d9de8bdb9b9440ca804c0201ad0f50266dcdadcdadfef89ce180d3faa263e3"
+    ["windows-x86-vc14.44.35207-c3f8e6e2eb7e4981bcb97df685c8360a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-vc14.44.35207-c3f8e6e2eb7e4981bcb97df685c8360a.7z",
+        toolset = "14.44.35207",
+        sha256 = "2c5e13aec56fd6d5665c8a232aa2c8c65b46a02c06f7fd6c7c6fcb326d029dba"
+    },
+    ["windows-x64-vc14.44.35207-6a8fc1e310a44318beb712a418386242"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-vc14.44.35207-6a8fc1e310a44318beb712a418386242.7z",
+        toolset = "14.44.35207",
+        sha256 = "c5703478760baa6f9ee2316a57192bbe6a8f5828a555414b33f7e05b7b52249b"
     },
     ["windows-x86-d1161559e5de460bac38a29f5cdcfbbe"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-d1161559e5de460bac38a29f5cdcfbbe.7z",
         sha256 = "7538e3820a0c3dafded44f96afc6f464bc9b3f60418707d6398cc346308d3ba9"
     },
-    ["windows-x86-e631e73516cc41bea1f30f2f2a646f34"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-e631e73516cc41bea1f30f2f2a646f34.7z",
-        sha256 = "809e4014b547d7144e7fb5d1b9de99a67eed7017a3b8fe6b69c36cf7797841a4"
+    ["windows-x64-vc14.44.35207-7e77cab88e014bf2a64860fbbda75159"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-vc14.44.35207-7e77cab88e014bf2a64860fbbda75159.7z",
+        toolset = "14.44.35207",
+        sha256 = "b2ca1cddf14612b890db072cd1cb1c93745fd1b2583b539cf16aab5822246516"
+    },
+    ["windows-x86-f6b496fbb2f84dad9787ebbb65542383"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-f6b496fbb2f84dad9787ebbb65542383.7z",
+        sha256 = "c3d9de8bdb9b9440ca804c0201ad0f50266dcdadcdadfef89ce180d3faa263e3"
+    },
+    ["windows-x64-618c7b92c819453eaa1a00a41d1d32e3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-618c7b92c819453eaa1a00a41d1d32e3.7z",
+        sha256 = "244ce75647fea38a878427345e9564945848b881b198f1989bfd519f71ea51cd"
+    },
+    ["windows-x86-vc14.44.35207-a37ac0f6ff194e11a221047993375c80"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-vc14.44.35207-a37ac0f6ff194e11a221047993375c80.7z",
+        toolset = "14.44.35207",
+        sha256 = "eaa0ff2d4193077ad498945bdbb8b85006c22945033e99339364dd84570c1dae"
+    },
+    ["windows-x64-c30eaedd748044f88a212c5150052e7b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-c30eaedd748044f88a212c5150052e7b.7z",
+        sha256 = "218d44c51865be4a1bd1fc7ca0519a685541c1b3519680883cdab0a3a1438e2a"
+    },
+    ["windows-x86-vc14.44.35207-5fad8283d4ab4ddf813dc14f617c8087"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x86-vc14.44.35207-5fad8283d4ab4ddf813dc14f617c8087.7z",
+        toolset = "14.44.35207",
+        sha256 = "e90551131495969f2e045f9bfb9ae406fa0da968c213187fff6991713aa916ba"
+    },
+    ["windows-x64-vc14.44.35207-9b7b0197c72248f3a8bf67631a19dbec"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glew-2.2.0/windows-x64-vc14.44.35207-9b7b0197c72248f3a8bf67631a19dbec.7z",
+        toolset = "14.44.35207",
+        sha256 = "fa335a7b4d9ee3ddc84696380f35625952b367fde83a859ff97730098e8b4fe5"
     }
 }
