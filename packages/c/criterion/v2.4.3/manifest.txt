@@ -1,57 +1,97 @@
 {
-    ["windows-x86-vc14.44.35207-33335451101d4e91b511afa9db39f056"] = {
-        sha256 = "12599ffd25e56f37289e956d8e3bb1326bc879e6304e1fbb7ba830bd49b36fbc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-33335451101d4e91b511afa9db39f056.7z",
+    ["windows-x86-vc14.50.35717-965ccd7a310540a3858f98811b2a2b08"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.50.35717-965ccd7a310540a3858f98811b2a2b08.7z",
+        sha256 = "5b065b87ef28fd8be878a35e55cad3f87222cffbfe5d14d6e69d3c9af841ee20",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.44.35207-cfa291ae277d41bc945f8cfae03a2593"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-cfa291ae277d41bc945f8cfae03a2593.7z",
+        sha256 = "cf7d2526450a60904a26dfa46c5e8effb69a239f65f692a9a1dff8f67fcdcd57",
         toolset = "14.44.35207"
     },
     ["windows-x64-vc14.44.35207-90635d030c0e4768801ede798cb25b8e"] = {
-        sha256 = "8b58b387905629e022f281641c53d03be5037dd8cca0716328b1bcb5c5924375",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.44.35207-90635d030c0e4768801ede798cb25b8e.7z",
+        sha256 = "b6e5b640b7cced50173f00bdaed57fd2d045f478685a83f4c743b993d699f464",
         toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.44.35207-bd06ac5dbced4d43871648ed810196a0"] = {
-        sha256 = "1ce20f0f0ea7ae4ca5ff3aeadf49592c974729d9e07f78289989dff3273a6f9b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-bd06ac5dbced4d43871648ed810196a0.7z",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.50.35717-ba7be50c67d44428bcd188afd37fd73f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.50.35717-ba7be50c67d44428bcd188afd37fd73f.7z",
+        sha256 = "a0278f6959101a916fb17ab4df49915f6754ce0fcb181b0c5908dd6ad9c37ba4",
+        toolset = "14.50.35717"
     },
-    ["windows-x64-vc14.44.35207-c899a061eb7243e4b8d7e4d61926512c"] = {
-        sha256 = "d7fb1569fc4e62a25fe5c760cd79d1d5597de8ea4026a0c314bd5c5a534fea65",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.44.35207-c899a061eb7243e4b8d7e4d61926512c.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.50.35717-387c722227804c17bb5b6f02745e25f7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.50.35717-387c722227804c17bb5b6f02745e25f7.7z",
+        sha256 = "56c049078b874041e78171f1cc056a7a4e9dd1369f7867ae3e88482d4f7a1d9c",
+        toolset = "14.50.35717"
     },
-    ["windows-x64-vc14.44.35207-387c722227804c17bb5b6f02745e25f7"] = {
-        sha256 = "3b3119c6cd90c1c9856c7171d76a4ed13e16056dbd0fff962cce11801b915b9b",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.44.35207-387c722227804c17bb5b6f02745e25f7.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.50.35717-64e0749d87a74e0bafec32f6ffd5a210"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.50.35717-64e0749d87a74e0bafec32f6ffd5a210.7z",
+        sha256 = "b781550b7178149cc53034e4a0824c1aff9a3ebb3796c6124b5fff3ae0d0a767",
+        toolset = "14.50.35717"
     },
-    ["windows-x86-vc14.44.35207-965ccd7a310540a3858f98811b2a2b08"] = {
-        sha256 = "8f678253e22bb7f5bad20068860b6867ae2ebe26ea796a5f7a5503b6c25fb02d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-965ccd7a310540a3858f98811b2a2b08.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-ba7be50c67d44428bcd188afd37fd73f"] = {
-        sha256 = "6d9649426527ae83d0bca94a79f8e2d29ceccb6768430b12a451465f823d21ff",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-ba7be50c67d44428bcd188afd37fd73f.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-46c36c61f68045e2a6cc71443af03ca3"] = {
-        sha256 = "995bb043a70e2c70f67cf34da10bb3189408be64d0cde53e679dea522cf11dbc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-46c36c61f68045e2a6cc71443af03ca3.7z",
+    ["windows-x86-vc14.44.35207-33335451101d4e91b511afa9db39f056"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-33335451101d4e91b511afa9db39f056.7z",
+        sha256 = "12599ffd25e56f37289e956d8e3bb1326bc879e6304e1fbb7ba830bd49b36fbc",
         toolset = "14.44.35207"
     },
     ["windows-x64-vc14.44.35207-64e0749d87a74e0bafec32f6ffd5a210"] = {
-        sha256 = "ff584a9a134e954bc983f0e52b72cc9ec8d42c5a6b21c3b18f28c84b40e44d5d",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.44.35207-64e0749d87a74e0bafec32f6ffd5a210.7z",
+        sha256 = "5877fa4c8e00b0c976b3bc03ddd1242cd2baea6ac1eaefffcb70fd36c93c0ace",
         toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.50.35717-90635d030c0e4768801ede798cb25b8e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.50.35717-90635d030c0e4768801ede798cb25b8e.7z",
+        sha256 = "15bd8dea201d42ba6db1bd63b421016b134be0d07c638bf86147df41ce046f2e",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.44.35207-bd06ac5dbced4d43871648ed810196a0"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-bd06ac5dbced4d43871648ed810196a0.7z",
+        sha256 = "1ce20f0f0ea7ae4ca5ff3aeadf49592c974729d9e07f78289989dff3273a6f9b",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-c899a061eb7243e4b8d7e4d61926512c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.44.35207-c899a061eb7243e4b8d7e4d61926512c.7z",
+        sha256 = "c374106c88fc08b264d029c65c66cc526eb82e08792379dd6852dbaba1c46f33",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.50.35717-cfa291ae277d41bc945f8cfae03a2593"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.50.35717-cfa291ae277d41bc945f8cfae03a2593.7z",
+        sha256 = "06d122bde6521729b312fe15c91da09bedc65876a099e7da805e33f67581cb57",
+        toolset = "14.50.35717"
     },
     ["windows-x86-vc14.44.35207-f6a876c9ab3341ff95f2489a089f8c3a"] = {
-        sha256 = "0e2baec6d4ef5b8afe8089585e46f578f534ca91fcf6a6c84dd78b0cc8e3b9b1",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-f6a876c9ab3341ff95f2489a089f8c3a.7z",
+        sha256 = "0e2baec6d4ef5b8afe8089585e46f578f534ca91fcf6a6c84dd78b0cc8e3b9b1",
         toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.44.35207-cfa291ae277d41bc945f8cfae03a2593"] = {
-        sha256 = "ded6e24ff6e90f45e949749cecebd99ec21b78541d38338768092bbdd6027fdc",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-cfa291ae277d41bc945f8cfae03a2593.7z",
+    ["windows-x86-vc14.44.35207-46c36c61f68045e2a6cc71443af03ca3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-46c36c61f68045e2a6cc71443af03ca3.7z",
+        sha256 = "ee2174fa21992b44fe169114d4119f730f9613e22e7af1daae1b21955dee19c6",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-965ccd7a310540a3858f98811b2a2b08"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-965ccd7a310540a3858f98811b2a2b08.7z",
+        sha256 = "c1f46b9ffd26fd0b7266d2335c6871903dc5568dfc0af562b96565b7e484d2a0",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.50.35717-46c36c61f68045e2a6cc71443af03ca3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.50.35717-46c36c61f68045e2a6cc71443af03ca3.7z",
+        sha256 = "c0bf4ffbdb5bcb1812e023048c1e93ca08cf4dadebbd4d7574721d1f587ef429",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.50.35717-c899a061eb7243e4b8d7e4d61926512c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.50.35717-c899a061eb7243e4b8d7e4d61926512c.7z",
+        sha256 = "40a8cc875a2d471bc28acc6ddc530701f7d2c1c299c4fe1ab5dc777aa960d77e",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.44.35207-387c722227804c17bb5b6f02745e25f7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x64-vc14.44.35207-387c722227804c17bb5b6f02745e25f7.7z",
+        sha256 = "f7f59ea000256c8d42ada1e39b8b9b2865772d8ea28243bf239916dc84910143",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-ba7be50c67d44428bcd188afd37fd73f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/criterion-v2.4.3/windows-x86-vc14.44.35207-ba7be50c67d44428bcd188afd37fd73f.7z",
+        sha256 = "b21c846b00cf2c5bc851d69e00f908d7a19bc1b64fceb6c1b27d8f5ced42a28d",
         toolset = "14.44.35207"
     }
 }
