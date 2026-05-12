@@ -1,47 +1,92 @@
 {
-    ["windows-x86-vc14.44.35207-acfa32edacb34f81942dd0aa0c8c3ec4"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-acfa32edacb34f81942dd0aa0c8c3ec4.7z",
-        sha256 = "257eb2a913d6321b6ddeb3d64148b20bc4dcb9ba85d72517f76c5d1b91c13921"
+    ["windows-x64-vc14.50.35717-c80c86083cb346bdb6de9baa6146924e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.50.35717-c80c86083cb346bdb6de9baa6146924e.7z",
+        sha256 = "e26828b9df8fd1e7bf4bc6d7e92aa10ced8d7aab97c64b80fc11272f92d34fcf",
+        toolset = "14.50.35717"
     },
-    ["windows-x86-vc14.44.35207-055d74f670bd47ea82af2c22f1fb14a5"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-055d74f670bd47ea82af2c22f1fb14a5.7z",
-        sha256 = "5856e0b436083273ffbb48684bcfc6bd92679caf82be8b4a6fe06b6e83a22375"
+    ["windows-x64-vc14.50.35717-b749e6d641c84b91a7fd6f176335dfde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.50.35717-b749e6d641c84b91a7fd6f176335dfde.7z",
+        sha256 = "77b454ca70595891aea5b4b7fcf89c1f4fe658e5e1b69fece52e3e30d226b7c9",
+        toolset = "14.50.35717"
     },
-    ["windows-x64-vc14.44.35207-b749e6d641c84b91a7fd6f176335dfde"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-b749e6d641c84b91a7fd6f176335dfde.7z",
-        sha256 = "7936857bc63d508afd2a877804d4ab40c5769870955f0e6536db40acf9477c1c"
-    },
-    ["windows-x86-vc14.44.35207-77f9ef53300049ddaaae95f8801581cc"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-77f9ef53300049ddaaae95f8801581cc.7z",
-        sha256 = "6f84e7a5814427dd0993fe3bc66f1fdfb37273ae489da93391474086cf75f351"
-    },
-    ["windows-x86-vc14.44.35207-3d18d4b3e993454e952e27e98a9a9163"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-3d18d4b3e993454e952e27e98a9a9163.7z",
-        sha256 = "704ec3d78cbc4098ee990ea06de5079c80a93c2b8ac49774933dd75022e0906e"
-    },
-    ["windows-x64-vc14.44.35207-4115d009cb594971808ebfa947b166d1"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-4115d009cb594971808ebfa947b166d1.7z",
-        sha256 = "d5ba6b483da93f66b917b9bc75c353c3da2fdf6e7032e93d8616331aa6940254"
-    },
-    ["windows-x64-vc14.44.35207-c80c86083cb346bdb6de9baa6146924e"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-c80c86083cb346bdb6de9baa6146924e.7z",
-        sha256 = "c13843ae4d70e1e9d5427736601d53a59735b365f02fa3c0f1b6cefe813c0b8d"
+    ["windows-x64-vc14.50.35717-30c1c6e2a3a345e4b77865bbe652ba52"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.50.35717-30c1c6e2a3a345e4b77865bbe652ba52.7z",
+        sha256 = "2fab29fdb4835393c49ccbff05fca3d02f1673c66e72d1bb4b4c035d405dcd25",
+        toolset = "14.50.35717"
     },
     ["windows-x86-vc14.44.35207-f6943164d6b349b5943b31a4d374a0a3"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-f6943164d6b349b5943b31a4d374a0a3.7z",
-        sha256 = "038f18b8500482025e57b0fc125535442487f6a9ab8ec5e5dff117a0c297914a"
+        sha256 = "038f18b8500482025e57b0fc125535442487f6a9ab8ec5e5dff117a0c297914a",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-055d74f670bd47ea82af2c22f1fb14a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-055d74f670bd47ea82af2c22f1fb14a5.7z",
+        sha256 = "665e3b4a39a1537d664cb01086b5c52fce18f9dace38b78c6bb5b53fff226d83",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.44.35207-c5305370accd4e7c90590326bf9ada30"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-c5305370accd4e7c90590326bf9ada30.7z",
-        sha256 = "6f4a3c52302679f5c6ab5015770cf5968b9649626ea3deed5388a1f5143c4553"
+        sha256 = "b99165d51c62e5d2e30eb1da0483f0f9493521f815cbbab877798155b330bed1",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-3d18d4b3e993454e952e27e98a9a9163"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-3d18d4b3e993454e952e27e98a9a9163.7z",
+        sha256 = "a5ad97adb06500f8769fab1e87adb272337369dee2395af7033e0dc97bf1d156",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-acfa32edacb34f81942dd0aa0c8c3ec4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-acfa32edacb34f81942dd0aa0c8c3ec4.7z",
+        sha256 = "81a88357f207624260fbc9606de4acfa3ba19324668118cd5ea6a9184d6548e6",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-b749e6d641c84b91a7fd6f176335dfde"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-b749e6d641c84b91a7fd6f176335dfde.7z",
+        sha256 = "7138157632fd4f7162e4a35d9baab31fdd1fa1136363243108802f7795cc54ec",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.50.35717-acfa32edacb34f81942dd0aa0c8c3ec4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.50.35717-acfa32edacb34f81942dd0aa0c8c3ec4.7z",
+        sha256 = "c4e2b7daff382f9769dc211f54cab22822243521f78373866abb550a5378813f",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.50.35717-c5305370accd4e7c90590326bf9ada30"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.50.35717-c5305370accd4e7c90590326bf9ada30.7z",
+        sha256 = "8e3c243eba3bb6fc9de1677ced1ae3abef8576a48d4749bc69587faeea5a7c5e",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.44.35207-30c1c6e2a3a345e4b77865bbe652ba52"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-30c1c6e2a3a345e4b77865bbe652ba52.7z",
+        sha256 = "908f0132e84f25cc623468a5dd7994482403367a7af9b7f0dde3afe482391cb8",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.50.35717-3d18d4b3e993454e952e27e98a9a9163"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.50.35717-3d18d4b3e993454e952e27e98a9a9163.7z",
+        sha256 = "572db13301b4aa73a9321fa1e52355c2d8f681aa789e78d22ead97942f05306a",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.50.35717-055d74f670bd47ea82af2c22f1fb14a5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.50.35717-055d74f670bd47ea82af2c22f1fb14a5.7z",
+        sha256 = "d6c17993156db7d35873796fe17aa215374cb67d393916e3db47118f0fd1774c",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.44.35207-4115d009cb594971808ebfa947b166d1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-4115d009cb594971808ebfa947b166d1.7z",
+        sha256 = "d5ba6b483da93f66b917b9bc75c353c3da2fdf6e7032e93d8616331aa6940254",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.50.35717-77f9ef53300049ddaaae95f8801581cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.50.35717-77f9ef53300049ddaaae95f8801581cc.7z",
+        sha256 = "2170b2a0858693aad6063ec832b673b7c28e673a7cd109d4126050b1ca543cbc",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.44.35207-c80c86083cb346bdb6de9baa6146924e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x64-vc14.44.35207-c80c86083cb346bdb6de9baa6146924e.7z",
+        sha256 = "c45f9f41d653a0e7e7f2594fc06da7a146eae657888f14c79bc3bf4a5e1f7c43",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-77f9ef53300049ddaaae95f8801581cc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdcm-v3.2.5/windows-x86-vc14.44.35207-77f9ef53300049ddaaae95f8801581cc.7z",
+        sha256 = "1994592e34ee0ae852e7dcd0d2fc21cca131b94dddcf55345c90191b58ce9a10",
+        toolset = "14.44.35207"
     }
 }
