@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.44.35207-4aac27f042fd4ab4951efb2ddbf7e5b7"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-4aac27f042fd4ab4951efb2ddbf7e5b7.7z",
-        sha256 = "e32d12074888cfb72f63c156b0d231569a4873c7ba2c35e11a8e0cf861818c27"
-    },
-    ["windows-x64-vc14.44.35207-38bcfa86e23341878ff37c9cbedd2610"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-38bcfa86e23341878ff37c9cbedd2610.7z",
-        sha256 = "5e568dd6a05410d9faec89967c628cf195793a5f7c776f23f081ab49541f5c21"
-    },
-    ["windows-x86-vc14.44.35207-d7f152c471ea4cfaa84a6b97f3beca12"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.44.35207-d7f152c471ea4cfaa84a6b97f3beca12.7z",
-        sha256 = "449d30d37aed9422ac8120dcc1a774c552964389af8243a9ccccc258be4d4fe4"
+    ["windows-x64-vc14.44.35207-382706d2a8ce4af4b720d43d8269cb99"] = {
+        sha256 = "1e13ed19a0a179e5d8637e6fee9a8b6bc8fc0a9b51e2e7eb3492fd6b03262dcf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-382706d2a8ce4af4b720d43d8269cb99.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.44.35207-2203b04f801d42139954d60f75ad3b3b"] = {
-        toolset = "14.44.35207",
+        sha256 = "442dc66992e559d801d08624a331d9894820f2df2ae055d6349b0cd38dd4b620",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.44.35207-2203b04f801d42139954d60f75ad3b3b.7z",
-        sha256 = "442dc66992e559d801d08624a331d9894820f2df2ae055d6349b0cd38dd4b620"
+        toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.44.35207-1bc047beb9ca466a8cf4301b9afdda7c"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.44.35207-1bc047beb9ca466a8cf4301b9afdda7c.7z",
-        sha256 = "5dc9901c97da52066eaa63985ced8f708fb3da8053f49f50440ef503fbce1736"
+    ["windows-x86-vc14.50.35717-1bc047beb9ca466a8cf4301b9afdda7c"] = {
+        sha256 = "c2a66c34aa23ba59eeb80cdd4dc8b0a0b77908423b6d7afe458920303cd994c5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.50.35717-1bc047beb9ca466a8cf4301b9afdda7c.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.44.35207-38bcfa86e23341878ff37c9cbedd2610"] = {
+        sha256 = "46ce46a1a01d48359ecc46fb5272cb792d12adfcfa8c5b1d97c056ca9aac833b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-38bcfa86e23341878ff37c9cbedd2610.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-4aac27f042fd4ab4951efb2ddbf7e5b7"] = {
+        sha256 = "af086601aca8a7f6c15924aeef801897ea3f144685344780aa7833508fe2a6b1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-4aac27f042fd4ab4951efb2ddbf7e5b7.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.50.35717-821b55663de84f2ba8b91e4c15196e67"] = {
+        sha256 = "ee645c354bfc02d673eb72d49f39d760b8aaefbd043cd934e5578b98dc33a60c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.50.35717-821b55663de84f2ba8b91e4c15196e67.7z",
+        toolset = "14.50.35717"
     },
     ["windows-x64-vc14.44.35207-821b55663de84f2ba8b91e4c15196e67"] = {
-        toolset = "14.44.35207",
+        sha256 = "f911a08fe188082e9bd36229b97d711fc9bbcf782f1a5c20cf212fa86f402881",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-821b55663de84f2ba8b91e4c15196e67.7z",
-        sha256 = "ec362067454eb9ecf3341c7451f0b4e1956bc189ea488464bbda06678be9969c"
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.50.35717-4aac27f042fd4ab4951efb2ddbf7e5b7"] = {
+        sha256 = "b419001b748507d0e9680b58ea5f48b59e1c8de0a8e27adbe06ffd90b543b7a3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.50.35717-4aac27f042fd4ab4951efb2ddbf7e5b7.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.44.35207-1bc047beb9ca466a8cf4301b9afdda7c"] = {
+        sha256 = "e0d413bfec9a9c112e6d8ea6e6b5e359e20a1c4e2ae5006822dec674ebb18952",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.44.35207-1bc047beb9ca466a8cf4301b9afdda7c.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-d7f152c471ea4cfaa84a6b97f3beca12"] = {
+        sha256 = "c82b46e1db99be4b75297c388734126db43e0fd8931cd3cecca9b651d8a3df02",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.44.35207-d7f152c471ea4cfaa84a6b97f3beca12.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.50.35717-38bcfa86e23341878ff37c9cbedd2610"] = {
+        sha256 = "fd7486cc73d7ea056a10e0afa3681d8e853f24b5af6de10e4ee9fde604f570c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.50.35717-38bcfa86e23341878ff37c9cbedd2610.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.50.35717-382706d2a8ce4af4b720d43d8269cb99"] = {
+        sha256 = "0655cb2fb651177ab034d71f490e1efc1ca32bda97691f64576b4b97319392df",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.50.35717-382706d2a8ce4af4b720d43d8269cb99.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.50.35717-c5cbc892c68d497a9391243512b4558c"] = {
+        sha256 = "f878fc41db0bf15e2faf64ae1cd5f702504f7f62b62eed6022a123943d57638d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.50.35717-c5cbc892c68d497a9391243512b4558c.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.50.35717-2203b04f801d42139954d60f75ad3b3b"] = {
+        sha256 = "0ebb0701e9c8597e3487fe1f3297beed39278401a581ed9f55ce27ccad881785",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.50.35717-2203b04f801d42139954d60f75ad3b3b.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.50.35717-d7f152c471ea4cfaa84a6b97f3beca12"] = {
+        sha256 = "d6b99614dc8e447b706a321b93e7299ece5d82bb9cf578e6de474aa743560cb5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.50.35717-d7f152c471ea4cfaa84a6b97f3beca12.7z",
+        toolset = "14.50.35717"
     },
     ["windows-x86-vc14.44.35207-c5cbc892c68d497a9391243512b4558c"] = {
-        toolset = "14.44.35207",
+        sha256 = "76e42fafc7cc396f50eb6fa64e81442f1d0e87409cdd5ab67ae49bfe246680c1",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x86-vc14.44.35207-c5cbc892c68d497a9391243512b4558c.7z",
-        sha256 = "d08acd459a08cfcb37b72bf3833571aab73c5e7829e8bb0dafb4494d8bc8a151"
-    },
-    ["windows-x64-vc14.44.35207-382706d2a8ce4af4b720d43d8269cb99"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/itk-5.4.5/windows-x64-vc14.44.35207-382706d2a8ce4af4b720d43d8269cb99.7z",
-        sha256 = "5d4b5010aebf96fc5833845054c9ca82218ed1ff9380bcd463f603031e3de422"
+        toolset = "14.44.35207"
     }
 }
