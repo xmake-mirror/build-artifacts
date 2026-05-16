@@ -1,82 +1,122 @@
 {
     ["windows-x86-vc14.44.35207-6b44e31f9bd144abac94a45e46ddf3c7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-6b44e31f9bd144abac94a45e46ddf3c7.7z",
-        sha256 = "fa3fd575a671a57dcf82d5264199cdaecef7272254dd5a741200f3319420c65f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-4d1182479425458fb8d6083cb9d67901"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-4d1182479425458fb8d6083cb9d67901.7z",
-        sha256 = "aef9034b38b0529aa12baaee4eadeb020e94c42eb9d8a62c3503f709583715be",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-69d9d84af3104d6092544d847515f893"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-69d9d84af3104d6092544d847515f893.7z",
-        sha256 = "8d2f14394efe56158bd3dacc3015f4569c0355df7214a7e4b4d15a11f1b392ab",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-dd7f689fa912436a8453f98a2653b0dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-dd7f689fa912436a8453f98a2653b0dc.7z",
-        sha256 = "3f505afab78abd70e70bfd16a8e9e1084e03041d490cd20d74588844689ea927",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-cbcd16f052cd40e2905bc2206c3c99e2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-cbcd16f052cd40e2905bc2206c3c99e2.7z",
-        sha256 = "46e7c8ded5923b0933b58e4876c72edf263cf8a814af54f049c0e6d5b353f63f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-8fa75a7482a64944ba486612b2e9d7ca"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-8fa75a7482a64944ba486612b2e9d7ca.7z",
-        sha256 = "3e63acbea9548be2a4dbb5ac9202fbda1b8ce67d6bd68c6f4de2d681dda60a83",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-417f02b9779147648e873c29dec37727"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-417f02b9779147648e873c29dec37727.7z",
-        sha256 = "055ca6dfd4d1a2991a1e3071080008c308f71487dcbd5876d2c50c8e2939d016",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-c3cccc56974345d28c4364cd57a71154"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-c3cccc56974345d28c4364cd57a71154.7z",
-        sha256 = "721e39b5375c05c719a8725d01257e9d421e13aa7f88a446aa07ae241139e0c9",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-f803240a7cc947a58bed7b274ab21b58"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-f803240a7cc947a58bed7b274ab21b58.7z",
-        sha256 = "a02dcab34df4f622fe245eb16d1a3fc28a5f8160e682f9cac82672885727a26e",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-09c431ff184045af96efa1ba3c052ddf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-09c431ff184045af96efa1ba3c052ddf.7z",
-        sha256 = "be4e03a834bc772a4d79ffa57207cdd2e42745df486764cfd16477eea31fde9b",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-fd47623d62884aa9b5c4d833e2fb9108"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-fd47623d62884aa9b5c4d833e2fb9108.7z",
-        sha256 = "aaee52e69ec5f292e96c1c16135d09c72b2d44cb4c9bff03b36ede2aa5460839",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-86a109eda92d44c8841c05827e9c41af"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-86a109eda92d44c8841c05827e9c41af.7z",
-        sha256 = "105d5365b963b7cfd3155fead55a1c007e54a0674faef29bdceb23407ee7b9d9",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "fa3fd575a671a57dcf82d5264199cdaecef7272254dd5a741200f3319420c65f"
     },
     ["windows-x86-vc14.44.35207-cc83884eabd042d591ed5c676b4820e4"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-cc83884eabd042d591ed5c676b4820e4.7z",
-        sha256 = "06dd6903a433ec0ebf73c5f0d6a708c43f6e47bad2dc2d1f6da89ef3f5284461",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "3493902d696e9617f49accbc4e74a1b68602c9167983096f691d85c6e8524b3f"
     },
-    ["windows-x86-vc14.44.35207-c249519aba474cb88d866d6685f39ca8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-c249519aba474cb88d866d6685f39ca8.7z",
-        sha256 = "a17b98e39dc9bf48cf3c6902bdc6bfaee0a0ccf65624a7bd05bde6ba6ecb3d90",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.44.35207-4d1182479425458fb8d6083cb9d67901"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-4d1182479425458fb8d6083cb9d67901.7z",
+        toolset = "14.44.35207",
+        sha256 = "9f9d14e3452e6f6f595acb153af949ca62d3498f8627016e1300c0ad940553fc"
     },
-    ["windows-x64-vc14.44.35207-79bee68e51094d65b9658174367a2784"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-79bee68e51094d65b9658174367a2784.7z",
-        sha256 = "a6a025f8941c08a4f5add83fba3b860b23699bc6873aff9bf3efee9032fbdd15",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.50.35717-f803240a7cc947a58bed7b274ab21b58"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.50.35717-f803240a7cc947a58bed7b274ab21b58.7z",
+        toolset = "14.50.35717",
+        sha256 = "fc7eb0151345766a72ae9960a56dbfef7d5ee26da3b7370ec649020487abf0fb"
+    },
+    ["windows-x86-vc14.44.35207-8fa75a7482a64944ba486612b2e9d7ca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-8fa75a7482a64944ba486612b2e9d7ca.7z",
+        toolset = "14.44.35207",
+        sha256 = "4816c582f66137776ba50f7ef579a0aa17b8f567a7e21d2b2891924aa387aad1"
+    },
+    ["windows-x86-vc14.44.35207-09c431ff184045af96efa1ba3c052ddf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-09c431ff184045af96efa1ba3c052ddf.7z",
+        toolset = "14.44.35207",
+        sha256 = "be4e03a834bc772a4d79ffa57207cdd2e42745df486764cfd16477eea31fde9b"
+    },
+    ["windows-x86-vc14.50.35717-c249519aba474cb88d866d6685f39ca8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.50.35717-c249519aba474cb88d866d6685f39ca8.7z",
+        toolset = "14.50.35717",
+        sha256 = "e28aad49a7d76f7746dae4157d348b90fb79b1ffc947d7f81f841178142c0ac7"
+    },
+    ["windows-x86-vc14.44.35207-69d9d84af3104d6092544d847515f893"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-69d9d84af3104d6092544d847515f893.7z",
+        toolset = "14.44.35207",
+        sha256 = "8d2f14394efe56158bd3dacc3015f4569c0355df7214a7e4b4d15a11f1b392ab"
+    },
+    ["windows-x86-vc14.44.35207-417f02b9779147648e873c29dec37727"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-417f02b9779147648e873c29dec37727.7z",
+        toolset = "14.44.35207",
+        sha256 = "055ca6dfd4d1a2991a1e3071080008c308f71487dcbd5876d2c50c8e2939d016"
+    },
+    ["windows-x64-vc14.44.35207-cbcd16f052cd40e2905bc2206c3c99e2"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-cbcd16f052cd40e2905bc2206c3c99e2.7z",
+        toolset = "14.44.35207",
+        sha256 = "46e7c8ded5923b0933b58e4876c72edf263cf8a814af54f049c0e6d5b353f63f"
+    },
+    ["windows-x86-vc14.50.35717-8fa75a7482a64944ba486612b2e9d7ca"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.50.35717-8fa75a7482a64944ba486612b2e9d7ca.7z",
+        toolset = "14.50.35717",
+        sha256 = "ea78dee38d2ab8a022054618f16cf140e2233407d8c7c8c6c75c06202ee01d80"
+    },
+    ["windows-x64-vc14.44.35207-86a109eda92d44c8841c05827e9c41af"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-86a109eda92d44c8841c05827e9c41af.7z",
+        toolset = "14.44.35207",
+        sha256 = "4d9360d4b8586cbdb9a9dac68b8ca84ff3fc84ce5d3d4c6de072f595ba183f1f"
+    },
+    ["windows-x64-vc14.44.35207-c3cccc56974345d28c4364cd57a71154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-c3cccc56974345d28c4364cd57a71154.7z",
+        toolset = "14.44.35207",
+        sha256 = "7576da3118df6dc740050ef01c75d48d5d16f17221f73dca24847b497375009f"
+    },
+    ["windows-x86-vc14.44.35207-f803240a7cc947a58bed7b274ab21b58"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-f803240a7cc947a58bed7b274ab21b58.7z",
+        toolset = "14.44.35207",
+        sha256 = "952fe45c9b2e48cdef949faf293c4e8b5a69218c750c0e9d1c1e73e26d3a4121"
+    },
+    ["windows-x64-vc14.50.35717-4d1182479425458fb8d6083cb9d67901"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.50.35717-4d1182479425458fb8d6083cb9d67901.7z",
+        toolset = "14.50.35717",
+        sha256 = "b910c4f8b2992ee5a8c1af062621a7196bc924d15181f9b7f1a8f7815445dbc0"
     },
     ["windows-x64-vc14.44.35207-260f2da30a584dca8fb09410074df34d"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-260f2da30a584dca8fb09410074df34d.7z",
-        sha256 = "1cc8309ea6d41a07031accdc2cfc54fdcf68a4b57aa4641279a9de42183ef616",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "1cc8309ea6d41a07031accdc2cfc54fdcf68a4b57aa4641279a9de42183ef616"
+    },
+    ["windows-x64-vc14.50.35717-86a109eda92d44c8841c05827e9c41af"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.50.35717-86a109eda92d44c8841c05827e9c41af.7z",
+        toolset = "14.50.35717",
+        sha256 = "52706bec90be019177756c338e242d930210b05c76d07c89e8f7a96a43f27fc3"
+    },
+    ["windows-x64-vc14.44.35207-79bee68e51094d65b9658174367a2784"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-79bee68e51094d65b9658174367a2784.7z",
+        toolset = "14.44.35207",
+        sha256 = "a6a025f8941c08a4f5add83fba3b860b23699bc6873aff9bf3efee9032fbdd15"
+    },
+    ["windows-x64-vc14.44.35207-dd7f689fa912436a8453f98a2653b0dc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-dd7f689fa912436a8453f98a2653b0dc.7z",
+        toolset = "14.44.35207",
+        sha256 = "3f505afab78abd70e70bfd16a8e9e1084e03041d490cd20d74588844689ea927"
+    },
+    ["windows-x64-vc14.44.35207-fd47623d62884aa9b5c4d833e2fb9108"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.44.35207-fd47623d62884aa9b5c4d833e2fb9108.7z",
+        toolset = "14.44.35207",
+        sha256 = "449b3c2371bafa52b9ef587ca609275505edc8ccf684f8a5aed693da34ca321f"
+    },
+    ["windows-x64-vc14.50.35717-c3cccc56974345d28c4364cd57a71154"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.50.35717-c3cccc56974345d28c4364cd57a71154.7z",
+        toolset = "14.50.35717",
+        sha256 = "bb406e08948b3823b0fb1f5aa8e1ddefd228bd395c5cf1f1e56f1313cac7e048"
+    },
+    ["windows-x86-vc14.44.35207-c249519aba474cb88d866d6685f39ca8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.44.35207-c249519aba474cb88d866d6685f39ca8.7z",
+        toolset = "14.44.35207",
+        sha256 = "1113a8a6ac6cfcff3e85413f1b22f48eba346bdd9df301088375ea47bb34b505"
+    },
+    ["windows-x64-vc14.50.35717-fd47623d62884aa9b5c4d833e2fb9108"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x64-vc14.50.35717-fd47623d62884aa9b5c4d833e2fb9108.7z",
+        toolset = "14.50.35717",
+        sha256 = "7e6a572d22d13d859d16a0802d1dc1b1b6ed611a6a14483496f13284ae471365"
+    },
+    ["windows-x86-vc14.50.35717-cc83884eabd042d591ed5c676b4820e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-c-event-stream-v0.7.0/windows-x86-vc14.50.35717-cc83884eabd042d591ed5c676b4820e4.7z",
+        toolset = "14.50.35717",
+        sha256 = "e17c910f1e1bf2f4b3966e398366c3e42ac7893d3e46138e9925028068a9919b"
     }
 }
