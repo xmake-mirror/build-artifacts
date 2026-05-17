@@ -1,162 +1,197 @@
 {
-    ["windows-x64-vc14.42.34433-2e78f2471c694c8ea026b9784f407e0a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-2e78f2471c694c8ea026b9784f407e0a.7z",
-        toolset = "14.42.34433",
-        sha256 = "b997553abe1e2373a7879b878e1f85bc20c4f814f5d14396d2c00dc558b54b8d"
-    },
-    ["windows-x86-vc14.42.34433-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
-        toolset = "14.42.34433",
-        sha256 = "04894d980b8bf9ddc93f0f5725698b28618634f0c0a0b0a85636f38451aeddad"
-    },
-    ["windows-x86-vc14.29.30133-63a732fc75574f46a2c7e481bb5ff86c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-63a732fc75574f46a2c7e481bb5ff86c.7z",
-        toolset = "14.29.30133",
-        sha256 = "64abac6f8ab71b5c7506f8ee839be99e8afef8922639aa3c907806c588bd7010"
-    },
-    ["windows-x64-vc14.42.34433-aa52033d155345dc98026706de4ca078"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-aa52033d155345dc98026706de4ca078.7z",
-        toolset = "14.42.34433",
-        sha256 = "ba0289c3749e4aacc6828ece19a9e8ef6257df9be42735de89fa410ac5c1e13b"
-    },
-    ["windows-x64-vc14.44.35207-2e78f2471c694c8ea026b9784f407e0a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-2e78f2471c694c8ea026b9784f407e0a.7z",
-        toolset = "14.44.35207",
-        sha256 = "878f1a3473817dc41f17d2b82555590bbc606b2bcd2bc3a3def08e6a78e747a2"
-    },
-    ["windows-x86-vc14.29.30133-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
-        toolset = "14.29.30133",
-        sha256 = "2d70be7b085244e6953192e9cc5ef751b5f60ada9dd675e27697d9be5f50623b"
-    },
-    ["windows-x64-vc14.43.34808-aa52033d155345dc98026706de4ca078"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-aa52033d155345dc98026706de4ca078.7z",
-        toolset = "14.43.34808",
-        sha256 = "26543c7cceee114cd18eb5d65da2414d301b3d67040eba195dc9201f68f90b98"
-    },
     ["windows-x64-vc14.43.34808-2e78f2471c694c8ea026b9784f407e0a"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-2e78f2471c694c8ea026b9784f407e0a.7z",
         toolset = "14.43.34808",
         sha256 = "4dc68a1b355b981e4dd9a373c050185bc5ccaec59100b03bb3a90bf25e3f2c31"
-    },
-    ["windows-x64-vc14.29.30133-aa52033d155345dc98026706de4ca078"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-aa52033d155345dc98026706de4ca078.7z",
-        toolset = "14.29.30133",
-        sha256 = "e304ef55b077ebd6cb7d247ae467152f906ea3a256cbd5e65f3dc4584bcec84b"
-    },
-    ["windows-x86-vc14.42.34433-63a732fc75574f46a2c7e481bb5ff86c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-63a732fc75574f46a2c7e481bb5ff86c.7z",
-        toolset = "14.42.34433",
-        sha256 = "d0856fef0bfd71f01b423bd668ba2bf984056ec48f6214db7b8b0680ddee8af2"
-    },
-    ["windows-x86-vc14.43.34808-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
-        toolset = "14.43.34808",
-        sha256 = "8659d6925729fccacfb754ed20318fd7719d879eca99678852c79b7ebe731bc6"
-    },
-    ["windows-x64-vc14.29.30133-a1b33dd5a975496a99fb86fcf728ade6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-a1b33dd5a975496a99fb86fcf728ade6.7z",
-        toolset = "14.29.30133",
-        sha256 = "80d3c12161baa04fb49820709f81fe18f14b294d5a65dc291657091637b4fd0e"
-    },
-    ["windows-x86-vc14.29.30133-03762b58fb764d4eb33d37d1daefff46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-03762b58fb764d4eb33d37d1daefff46.7z",
-        toolset = "14.29.30133",
-        sha256 = "7223284cd70913152294c89fc234425a4e37f6aa4b7d5ba8ebb07e27a9aecbcf"
-    },
-    ["windows-x86-vc14.42.34433-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
-        toolset = "14.42.34433",
-        sha256 = "fdb005db9954856127434a38c03df0a5853507b789dab6cf6f80e63cac11ff0d"
-    },
-    ["windows-x64-vc14.43.34808-239da6bf997540039b5bb03f428f41e3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-239da6bf997540039b5bb03f428f41e3.7z",
-        toolset = "14.43.34808",
-        sha256 = "4ca2e834a68c9b05e2e3fa68ab5e59d3540285a723a68bb97da00a08dd73ac19"
-    },
-    ["windows-x86-vc14.43.34808-03762b58fb764d4eb33d37d1daefff46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-03762b58fb764d4eb33d37d1daefff46.7z",
-        toolset = "14.43.34808",
-        sha256 = "5ad5a54479262c658d5efefb9d78ac1c1aa96ae00db0a49e1f434e64f1ea360c"
-    },
-    ["windows-x86-vc14.44.35207-03762b58fb764d4eb33d37d1daefff46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.44.35207-03762b58fb764d4eb33d37d1daefff46.7z",
-        toolset = "14.44.35207",
-        sha256 = "d80640529c0c50f3fafea2ec194030728133be299a26f3885e6fc94c3b778f6b"
-    },
-    ["windows-x86-vc14.42.34433-03762b58fb764d4eb33d37d1daefff46"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-03762b58fb764d4eb33d37d1daefff46.7z",
-        toolset = "14.42.34433",
-        sha256 = "9cca97f037d402f227ec82332f2762c1d04ac15e6f07010f1118ad37f3a41d8e"
-    },
-    ["windows-x86-vc14.43.34808-63a732fc75574f46a2c7e481bb5ff86c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-63a732fc75574f46a2c7e481bb5ff86c.7z",
-        toolset = "14.43.34808",
-        sha256 = "ea630b59e32eaf590e559dac7ca62b41686ced216e390d405850ff45ab4a5b5b"
-    },
-    ["windows-x86-vc14.44.35207-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.44.35207-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
-        toolset = "14.44.35207",
-        sha256 = "0398b13b2b8794993810d73c1f6247765b97cfb2b48bb205d4004583bf3c9d8a"
-    },
-    ["windows-x64-vc14.43.34808-a1b33dd5a975496a99fb86fcf728ade6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-a1b33dd5a975496a99fb86fcf728ade6.7z",
-        toolset = "14.43.34808",
-        sha256 = "05fb728975a7f9a6d40f046ee45d7731421d66cb65940d75e26823d46f5aa148"
-    },
-    ["windows-x64-vc14.44.35207-aa52033d155345dc98026706de4ca078"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-aa52033d155345dc98026706de4ca078.7z",
-        toolset = "14.44.35207",
-        sha256 = "a79f26ff7f0deefe37a1bb2b5742940d3e211531a3e8c5b413957a18ae5328f1"
     },
     ["windows-x64-vc14.42.34433-239da6bf997540039b5bb03f428f41e3"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-239da6bf997540039b5bb03f428f41e3.7z",
         toolset = "14.42.34433",
         sha256 = "2c081a81df3cff48dab4a94820bffc6cb24e6baf16805463d9a18618b5ca3b79"
     },
-    ["windows-x64-vc14.29.30133-2e78f2471c694c8ea026b9784f407e0a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-2e78f2471c694c8ea026b9784f407e0a.7z",
-        toolset = "14.29.30133",
-        sha256 = "311f32c92b0403665cca8bf18c71d02414522b38732f9a9d41ee189047e30c51"
-    },
-    ["windows-x64-vc14.29.30133-239da6bf997540039b5bb03f428f41e3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-239da6bf997540039b5bb03f428f41e3.7z",
-        toolset = "14.29.30133",
-        sha256 = "fe93bb761a91f85764758a3ae8b3a294c73f2fae7f45a3dc252a057379897e15"
-    },
-    ["windows-x64-vc14.44.35207-a1b33dd5a975496a99fb86fcf728ade6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-a1b33dd5a975496a99fb86fcf728ade6.7z",
-        toolset = "14.44.35207",
-        sha256 = "72e2668f400467f1d62d06f39b7f570fd2fa0d5860a5034ae4ff0c57b18e4822"
+    ["windows-x86-vc14.50.35717-63a732fc75574f46a2c7e481bb5ff86c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.50.35717-63a732fc75574f46a2c7e481bb5ff86c.7z",
+        toolset = "14.50.35717",
+        sha256 = "9a40114d5d2abbdf1660eb05cc74ac1d18d51c7eb4aeb64c47aad5b6dcb7ff84"
     },
     ["windows-x86-vc14.29.30133-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
         toolset = "14.29.30133",
         sha256 = "0e859201f649b18685b5084065d49f43bc6486879ad251262f7bff6f87d76dbe"
     },
+    ["windows-x64-vc14.29.30133-aa52033d155345dc98026706de4ca078"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-aa52033d155345dc98026706de4ca078.7z",
+        toolset = "14.29.30133",
+        sha256 = "e304ef55b077ebd6cb7d247ae467152f906ea3a256cbd5e65f3dc4584bcec84b"
+    },
+    ["windows-x86-vc14.29.30133-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
+        toolset = "14.29.30133",
+        sha256 = "2d70be7b085244e6953192e9cc5ef751b5f60ada9dd675e27697d9be5f50623b"
+    },
+    ["windows-x86-vc14.50.35717-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.50.35717-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
+        toolset = "14.50.35717",
+        sha256 = "8e9ad581adeb4ae00a267f41b0328f30e89a87f849a055899bba81bbf2dd2218"
+    },
     ["windows-x64-vc14.44.35207-239da6bf997540039b5bb03f428f41e3"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-239da6bf997540039b5bb03f428f41e3.7z",
         toolset = "14.44.35207",
-        sha256 = "ff1d63a650348b9e78d0cf5df9393d09674bf1bad464b9db7890fcaaec43f8cf"
-    },
-    ["windows-x64-vc14.42.34433-a1b33dd5a975496a99fb86fcf728ade6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-a1b33dd5a975496a99fb86fcf728ade6.7z",
-        toolset = "14.42.34433",
-        sha256 = "a88a60f1c6358a2e8f017c582da6a5dc9ac41177e35ae26648e3d11e098ac7ff"
+        sha256 = "760b365d8e8dedd6a2d5b216874f55ae8308a8b0592da8740da71168d8708e20"
     },
     ["windows-x86-vc14.44.35207-63a732fc75574f46a2c7e481bb5ff86c"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.44.35207-63a732fc75574f46a2c7e481bb5ff86c.7z",
         toolset = "14.44.35207",
-        sha256 = "059c6f1d35e29cd495ed5c5c19340041ce9d0ea48e8d2442591dc72d5e7681f9"
+        sha256 = "a206c77903dde9c87dc31779e91c80339b5aaa1fc9fbaa059143ded65a20f82d"
     },
     ["windows-x86-vc14.43.34808-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
         toolset = "14.43.34808",
         sha256 = "fbb0f10e0bcdf058b477eed22fb24a8de7a6b4177f0d5bf8f735018de866ff20"
     },
+    ["windows-x86-vc14.29.30133-03762b58fb764d4eb33d37d1daefff46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-03762b58fb764d4eb33d37d1daefff46.7z",
+        toolset = "14.29.30133",
+        sha256 = "7223284cd70913152294c89fc234425a4e37f6aa4b7d5ba8ebb07e27a9aecbcf"
+    },
+    ["windows-x64-vc14.29.30133-239da6bf997540039b5bb03f428f41e3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-239da6bf997540039b5bb03f428f41e3.7z",
+        toolset = "14.29.30133",
+        sha256 = "fe93bb761a91f85764758a3ae8b3a294c73f2fae7f45a3dc252a057379897e15"
+    },
+    ["windows-x86-vc14.42.34433-03762b58fb764d4eb33d37d1daefff46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-03762b58fb764d4eb33d37d1daefff46.7z",
+        toolset = "14.42.34433",
+        sha256 = "9cca97f037d402f227ec82332f2762c1d04ac15e6f07010f1118ad37f3a41d8e"
+    },
+    ["windows-x86-vc14.42.34433-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
+        toolset = "14.42.34433",
+        sha256 = "04894d980b8bf9ddc93f0f5725698b28618634f0c0a0b0a85636f38451aeddad"
+    },
+    ["windows-x64-vc14.43.34808-239da6bf997540039b5bb03f428f41e3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-239da6bf997540039b5bb03f428f41e3.7z",
+        toolset = "14.43.34808",
+        sha256 = "4ca2e834a68c9b05e2e3fa68ab5e59d3540285a723a68bb97da00a08dd73ac19"
+    },
+    ["windows-x86-vc14.44.35207-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.44.35207-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
+        toolset = "14.44.35207",
+        sha256 = "21122dbe8fca6bdf0061be4f89478572ceb585643e85708105463447af2860ab"
+    },
+    ["windows-x64-vc14.50.35717-2e78f2471c694c8ea026b9784f407e0a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.50.35717-2e78f2471c694c8ea026b9784f407e0a.7z",
+        toolset = "14.50.35717",
+        sha256 = "44183629462639d924ea8c88c591a799a0be1f897bef52068d297e70f44902f3"
+    },
+    ["windows-x64-vc14.50.35717-aa52033d155345dc98026706de4ca078"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.50.35717-aa52033d155345dc98026706de4ca078.7z",
+        toolset = "14.50.35717",
+        sha256 = "e3900cde4bfa8a747e8478556cf277630e42394ee4ac659a3c803255820c92b8"
+    },
+    ["windows-x86-vc14.42.34433-63a732fc75574f46a2c7e481bb5ff86c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-63a732fc75574f46a2c7e481bb5ff86c.7z",
+        toolset = "14.42.34433",
+        sha256 = "d0856fef0bfd71f01b423bd668ba2bf984056ec48f6214db7b8b0680ddee8af2"
+    },
     ["windows-x86-vc14.44.35207-6ffbfda6e5b2410c95fc568a3e4826b7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.44.35207-6ffbfda6e5b2410c95fc568a3e4826b7.7z",
         toolset = "14.44.35207",
-        sha256 = "6b1ce0c0006f2337e0f86b7ec3afede78aa92aeb0ec725f79e44c18636cd2a18"
+        sha256 = "8868572bf66e928a2297f08c9eb77abf37055c6ef7aaef147c541deb63c561fb"
+    },
+    ["windows-x64-vc14.42.34433-2e78f2471c694c8ea026b9784f407e0a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-2e78f2471c694c8ea026b9784f407e0a.7z",
+        toolset = "14.42.34433",
+        sha256 = "b997553abe1e2373a7879b878e1f85bc20c4f814f5d14396d2c00dc558b54b8d"
+    },
+    ["windows-x86-vc14.50.35717-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.50.35717-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
+        toolset = "14.50.35717",
+        sha256 = "9a823f2f15bf00ce64b6fe8f5720c0da0c40ee58b21fde089d16a447fceacf9e"
+    },
+    ["windows-x86-vc14.29.30133-63a732fc75574f46a2c7e481bb5ff86c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.29.30133-63a732fc75574f46a2c7e481bb5ff86c.7z",
+        toolset = "14.29.30133",
+        sha256 = "64abac6f8ab71b5c7506f8ee839be99e8afef8922639aa3c907806c588bd7010"
+    },
+    ["windows-x86-vc14.50.35717-03762b58fb764d4eb33d37d1daefff46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.50.35717-03762b58fb764d4eb33d37d1daefff46.7z",
+        toolset = "14.50.35717",
+        sha256 = "4c24edfbad021051a3acc5a76b22b52bcce4de2c1a721c579d4cb22a36550633"
+    },
+    ["windows-x64-vc14.44.35207-a1b33dd5a975496a99fb86fcf728ade6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-a1b33dd5a975496a99fb86fcf728ade6.7z",
+        toolset = "14.44.35207",
+        sha256 = "cc3dcb644781039cd822355a9b68470914f5714df8aade85fbdef4de2141cf09"
+    },
+    ["windows-x64-vc14.43.34808-aa52033d155345dc98026706de4ca078"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-aa52033d155345dc98026706de4ca078.7z",
+        toolset = "14.43.34808",
+        sha256 = "26543c7cceee114cd18eb5d65da2414d301b3d67040eba195dc9201f68f90b98"
+    },
+    ["windows-x64-vc14.50.35717-239da6bf997540039b5bb03f428f41e3"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.50.35717-239da6bf997540039b5bb03f428f41e3.7z",
+        toolset = "14.50.35717",
+        sha256 = "23fc6038f9e82d85d5d35a28a9c3a981e4d8b659d67649f18cf1e9e7ca2a5f20"
+    },
+    ["windows-x64-vc14.29.30133-2e78f2471c694c8ea026b9784f407e0a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-2e78f2471c694c8ea026b9784f407e0a.7z",
+        toolset = "14.29.30133",
+        sha256 = "311f32c92b0403665cca8bf18c71d02414522b38732f9a9d41ee189047e30c51"
+    },
+    ["windows-x86-vc14.43.34808-03762b58fb764d4eb33d37d1daefff46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-03762b58fb764d4eb33d37d1daefff46.7z",
+        toolset = "14.43.34808",
+        sha256 = "5ad5a54479262c658d5efefb9d78ac1c1aa96ae00db0a49e1f434e64f1ea360c"
+    },
+    ["windows-x86-vc14.43.34808-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
+        toolset = "14.43.34808",
+        sha256 = "8659d6925729fccacfb754ed20318fd7719d879eca99678852c79b7ebe731bc6"
+    },
+    ["windows-x64-vc14.42.34433-a1b33dd5a975496a99fb86fcf728ade6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-a1b33dd5a975496a99fb86fcf728ade6.7z",
+        toolset = "14.42.34433",
+        sha256 = "a88a60f1c6358a2e8f017c582da6a5dc9ac41177e35ae26648e3d11e098ac7ff"
+    },
+    ["windows-x64-vc14.44.35207-2e78f2471c694c8ea026b9784f407e0a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-2e78f2471c694c8ea026b9784f407e0a.7z",
+        toolset = "14.44.35207",
+        sha256 = "96924dafa94c7af140f4b230e34b313ef8e62eb489b0c5709fe4b321d648e08f"
+    },
+    ["windows-x86-vc14.43.34808-63a732fc75574f46a2c7e481bb5ff86c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.43.34808-63a732fc75574f46a2c7e481bb5ff86c.7z",
+        toolset = "14.43.34808",
+        sha256 = "ea630b59e32eaf590e559dac7ca62b41686ced216e390d405850ff45ab4a5b5b"
+    },
+    ["windows-x64-vc14.43.34808-a1b33dd5a975496a99fb86fcf728ade6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.43.34808-a1b33dd5a975496a99fb86fcf728ade6.7z",
+        toolset = "14.43.34808",
+        sha256 = "05fb728975a7f9a6d40f046ee45d7731421d66cb65940d75e26823d46f5aa148"
+    },
+    ["windows-x86-vc14.42.34433-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.42.34433-2aa1f6b65c8f4f4bbe4d4f9ba3d7cd33.7z",
+        toolset = "14.42.34433",
+        sha256 = "fdb005db9954856127434a38c03df0a5853507b789dab6cf6f80e63cac11ff0d"
+    },
+    ["windows-x86-vc14.44.35207-03762b58fb764d4eb33d37d1daefff46"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x86-vc14.44.35207-03762b58fb764d4eb33d37d1daefff46.7z",
+        toolset = "14.44.35207",
+        sha256 = "0017c5d2ddf9ac609e09f4c17b940104a0aed3fb03f43599d9155003b50cfa68"
+    },
+    ["windows-x64-vc14.42.34433-aa52033d155345dc98026706de4ca078"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.42.34433-aa52033d155345dc98026706de4ca078.7z",
+        toolset = "14.42.34433",
+        sha256 = "ba0289c3749e4aacc6828ece19a9e8ef6257df9be42735de89fa410ac5c1e13b"
+    },
+    ["windows-x64-vc14.29.30133-a1b33dd5a975496a99fb86fcf728ade6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.29.30133-a1b33dd5a975496a99fb86fcf728ade6.7z",
+        toolset = "14.29.30133",
+        sha256 = "80d3c12161baa04fb49820709f81fe18f14b294d5a65dc291657091637b4fd0e"
+    },
+    ["windows-x64-vc14.44.35207-aa52033d155345dc98026706de4ca078"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mysql-8.0.39/windows-x64-vc14.44.35207-aa52033d155345dc98026706de4ca078.7z",
+        toolset = "14.44.35207",
+        sha256 = "77636fe0a956b8d243736cd7aa75762495fdbef3cf1e53406afc241a58dbf3e9"
     }
 }
