@@ -1,42 +1,62 @@
 {
-    ["windows-x86-vc14.43.34808-fe6ba97e05bc49c99538aecf049fe915"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.43.34808-fe6ba97e05bc49c99538aecf049fe915.7z",
-        sha256 = "f1c4a84ef0fbc96fd2001437e7e7a9044dee6576e230971ae5dca5fe96804947"
-    },
-    ["windows-x86-vc14.44.35207-3a76f18131cf41b694233b5268a5bb44"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.44.35207-3a76f18131cf41b694233b5268a5bb44.7z",
-        sha256 = "5d17de896331723ae7c2d5cd8a61ba1574cb7186083a2d7358574ad57f4a6d7d"
-    },
-    ["windows-x64-vc14.43.34808-6b4fc3fb50be43c293834681d456c1c5"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.43.34808-6b4fc3fb50be43c293834681d456c1c5.7z",
-        sha256 = "03850dddb82c3fccf31680b213d99634c5ab2cf4832d378e157c8cfba64cc76d"
-    },
-    ["windows-x64-vc14.44.35207-afecab7e341c4d2283fc7358deb8e40c"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.44.35207-afecab7e341c4d2283fc7358deb8e40c.7z",
-        sha256 = "adc7dea10766e542f3b250240c19b8cf7f44eb71a4f30eb1adc14231f9143426"
-    },
-    ["windows-x86-vc14.44.35207-fe6ba97e05bc49c99538aecf049fe915"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.44.35207-fe6ba97e05bc49c99538aecf049fe915.7z",
-        sha256 = "0c4e79c2f8b715061c284fad085d330b300a4468c03b67ee9be3ea77115b77de"
-    },
-    ["windows-x86-vc14.43.34808-3a76f18131cf41b694233b5268a5bb44"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.43.34808-3a76f18131cf41b694233b5268a5bb44.7z",
-        sha256 = "fe581935fe7771700f4721b749b62a76b5d598ee2ef002f5da91ca1324a6995b"
-    },
-    ["windows-x64-vc14.43.34808-afecab7e341c4d2283fc7358deb8e40c"] = {
-        toolset = "14.43.34808",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.43.34808-afecab7e341c4d2283fc7358deb8e40c.7z",
-        sha256 = "5d07d37c140d5dba829a1340720b1cc52a7494e813531764f895f46525390af5"
+    ["windows-x64-vc14.50.35717-6b4fc3fb50be43c293834681d456c1c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.50.35717-6b4fc3fb50be43c293834681d456c1c5.7z",
+        sha256 = "d22091357c23ac1d697511a3fe99b642e93375ad34ebd7a3cf2d281d67fa8bbc",
+        toolset = "14.50.35717"
     },
     ["windows-x64-vc14.44.35207-6b4fc3fb50be43c293834681d456c1c5"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.44.35207-6b4fc3fb50be43c293834681d456c1c5.7z",
-        sha256 = "2a07e25bb6b9337b7daeca737269235b41584905614716a3745392767a8c914f"
+        sha256 = "94c9e65e097b7b73b9dc2b83a14ea2bada781e2ab028c154ad39d74a46f835f4",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-3a76f18131cf41b694233b5268a5bb44"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.44.35207-3a76f18131cf41b694233b5268a5bb44.7z",
+        sha256 = "bdaf5bdc1ee8bc9affacae917c30343aa56c6e762599edf03a9590eb975ae971",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.43.34808-afecab7e341c4d2283fc7358deb8e40c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.43.34808-afecab7e341c4d2283fc7358deb8e40c.7z",
+        sha256 = "5d07d37c140d5dba829a1340720b1cc52a7494e813531764f895f46525390af5",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.44.35207-fe6ba97e05bc49c99538aecf049fe915"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.44.35207-fe6ba97e05bc49c99538aecf049fe915.7z",
+        sha256 = "ecc51051ac9c6cf67d8b386c2229153d624a4d40d3a825c008c0c0943aac6465",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.43.34808-fe6ba97e05bc49c99538aecf049fe915"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.43.34808-fe6ba97e05bc49c99538aecf049fe915.7z",
+        sha256 = "f1c4a84ef0fbc96fd2001437e7e7a9044dee6576e230971ae5dca5fe96804947",
+        toolset = "14.43.34808"
+    },
+    ["windows-x86-vc14.43.34808-3a76f18131cf41b694233b5268a5bb44"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.43.34808-3a76f18131cf41b694233b5268a5bb44.7z",
+        sha256 = "fe581935fe7771700f4721b749b62a76b5d598ee2ef002f5da91ca1324a6995b",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.43.34808-6b4fc3fb50be43c293834681d456c1c5"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.43.34808-6b4fc3fb50be43c293834681d456c1c5.7z",
+        sha256 = "03850dddb82c3fccf31680b213d99634c5ab2cf4832d378e157c8cfba64cc76d",
+        toolset = "14.43.34808"
+    },
+    ["windows-x64-vc14.44.35207-afecab7e341c4d2283fc7358deb8e40c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.44.35207-afecab7e341c4d2283fc7358deb8e40c.7z",
+        sha256 = "e978c35e2793bce06bf1da11f2c37d21b807c80d9422345531b567808fa2724a",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.50.35717-fe6ba97e05bc49c99538aecf049fe915"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.50.35717-fe6ba97e05bc49c99538aecf049fe915.7z",
+        sha256 = "b3dc5540eeae6cab6922a17d88d15427f4dab928bef9fca576dae6bddb4e3d6d",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.50.35717-3a76f18131cf41b694233b5268a5bb44"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x86-vc14.50.35717-3a76f18131cf41b694233b5268a5bb44.7z",
+        sha256 = "ec792fe487c7096c3bf7fc373b8aed13f18aa4f7f27cf1caf4227c00befc5161",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.50.35717-afecab7e341c4d2283fc7358deb8e40c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/resiprocate-1.12.0/windows-x64-vc14.50.35717-afecab7e341c4d2283fc7358deb8e40c.7z",
+        sha256 = "ca92948b01b51cc13b2ead6af4983e0682ef99db1626e696efbfa608b5804eaa",
+        toolset = "14.50.35717"
     }
 }
