@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.44.35207-3ee5e880ef2d45f68161de8fd3a7181f"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-3ee5e880ef2d45f68161de8fd3a7181f.7z",
-        sha256 = "c38435cb647aa3046ccbdc2dd4aef1f32c4efcf5038f5417f553f9e75bb48554",
-        toolset = "14.44.35207"
-    },
     ["windows-x64-vc14.44.35207-66ca9e890ca842db9bb2e9a09685f9dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-66ca9e890ca842db9bb2e9a09685f9dc.7z",
-        sha256 = "e8521747e401b4bae1443fd5341d08db16abd24fc508339378f4a985ba6079cb",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-d22b6b2224b94a6087ab456725f60817"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-d22b6b2224b94a6087ab456725f60817.7z",
-        sha256 = "930e168863dde2676063eeb44a6e5834af6d67dfda4b767cbde23d2e01d75495",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "dfe1e363e266362a2c0ffa1da765e1ffd0e99caa7d091cb85145e139084e04a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-66ca9e890ca842db9bb2e9a09685f9dc.7z"
     },
     ["windows-x86-vc14.44.35207-63bde391a57e4a789cb22eb24b7608c4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-63bde391a57e4a789cb22eb24b7608c4.7z",
-        sha256 = "13f9268da6f1feebc50286d13fb847c3b267089492ca05c618b3bd7a2242a9c7",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "cf072b0b72568443cba28c109394bc42ea482de5394148124b8e60df8479f202",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-63bde391a57e4a789cb22eb24b7608c4.7z"
     },
-    ["windows-x86-vc14.44.35207-848dcc8d6e534247b2332345887731e5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-848dcc8d6e534247b2332345887731e5.7z",
-        sha256 = "01be65389cfba3e2b75b62276f82ce808924ecc03bd19b4606321caa6411e438",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.50.35717-18f300144e8c416aabcfbef1917c2a35"] = {
+        toolset = "14.50.35717",
+        sha256 = "20adbc251db492c06639e682be4187dc7dd5948ef1edc5cdfac612173c14bcf7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.50.35717-18f300144e8c416aabcfbef1917c2a35.7z"
+    },
+    ["windows-x86-vc14.44.35207-d22b6b2224b94a6087ab456725f60817"] = {
+        toolset = "14.44.35207",
+        sha256 = "1fcf1d2ec39a76bd85f6d0d5f4ed1e8aec213a1a1b1a66310325c9b5ed6de7d3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-d22b6b2224b94a6087ab456725f60817.7z"
     },
     ["windows-x86-vc14.44.35207-24d91f74f13742139252a72a25e05a50"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-24d91f74f13742139252a72a25e05a50.7z",
-        sha256 = "8d62dddf193e6903c05f52e001ecac7e838a4557957e49cd540bc1a206d94ab6",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "3015a4cf272771c919fe5c7f96263ba0409aee3d4a27e9b217cbfc255cf0e594",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-24d91f74f13742139252a72a25e05a50.7z"
+    },
+    ["windows-x64-vc14.50.35717-3ee5e880ef2d45f68161de8fd3a7181f"] = {
+        toolset = "14.50.35717",
+        sha256 = "218501c929e9bdf3f2e0047ddf32af05db3cdeb0fa6bd18900a9596b35f6f621",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.50.35717-3ee5e880ef2d45f68161de8fd3a7181f.7z"
+    },
+    ["windows-x64-vc14.50.35717-e0ee50413a3d409ca6930016a7ad3c4a"] = {
+        toolset = "14.50.35717",
+        sha256 = "895109981e1c91a347b40e662a220497b0f71f7572fd7a0b35bc8c616968e4b9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.50.35717-e0ee50413a3d409ca6930016a7ad3c4a.7z"
     },
     ["windows-x64-vc14.44.35207-e0ee50413a3d409ca6930016a7ad3c4a"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-e0ee50413a3d409ca6930016a7ad3c4a.7z",
-        sha256 = "be6eda7d89b7541129a05549136c36a3066d93f06b6b4024e2fd7b03f656d56b",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "9de3dab3ec68112023d793c56bc85118881e524fd5264e2e9bb8beb0ceccf514",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-e0ee50413a3d409ca6930016a7ad3c4a.7z"
+    },
+    ["windows-x86-vc14.50.35717-63bde391a57e4a789cb22eb24b7608c4"] = {
+        toolset = "14.50.35717",
+        sha256 = "e7a5e6de094cdde2774bd4f2c4773ab1b77b8bab184c49b7d7e47285993e2348",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.50.35717-63bde391a57e4a789cb22eb24b7608c4.7z"
+    },
+    ["windows-x86-vc14.50.35717-848dcc8d6e534247b2332345887731e5"] = {
+        toolset = "14.50.35717",
+        sha256 = "bb58dc1578755c046af83140248c3ba103e5e6587cb0c54956cf87808d259e6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.50.35717-848dcc8d6e534247b2332345887731e5.7z"
+    },
+    ["windows-x64-vc14.44.35207-3ee5e880ef2d45f68161de8fd3a7181f"] = {
+        toolset = "14.44.35207",
+        sha256 = "638d61c4ddbe1839af9d4f5d262df893b85345d60c75e3d9be03053c1d75bec1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-3ee5e880ef2d45f68161de8fd3a7181f.7z"
     },
     ["windows-x64-vc14.44.35207-18f300144e8c416aabcfbef1917c2a35"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-18f300144e8c416aabcfbef1917c2a35.7z",
-        sha256 = "16a00ecbcdcf44ba4218dda77d6b73e179e8ccfe8c488bbb9c8b95732c422a7a",
-        toolset = "14.44.35207"
+        toolset = "14.44.35207",
+        sha256 = "6e92a423ae5568294c955fe3211f4a7ad913a839ba09a355cc47c97d6d4c5b4b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.44.35207-18f300144e8c416aabcfbef1917c2a35.7z"
+    },
+    ["windows-x86-vc14.44.35207-848dcc8d6e534247b2332345887731e5"] = {
+        toolset = "14.44.35207",
+        sha256 = "53196f9899750f1f6c4c19f7d5f02f5c300f4ad2acf96cd99d4d456989ee5485",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.44.35207-848dcc8d6e534247b2332345887731e5.7z"
+    },
+    ["windows-x86-vc14.50.35717-24d91f74f13742139252a72a25e05a50"] = {
+        toolset = "14.50.35717",
+        sha256 = "d3cf9b85df7afa38a4086e261878357f464930d29e2c565811f39a4b3dc52120",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.50.35717-24d91f74f13742139252a72a25e05a50.7z"
+    },
+    ["windows-x86-vc14.50.35717-d22b6b2224b94a6087ab456725f60817"] = {
+        toolset = "14.50.35717",
+        sha256 = "b5ed8048cf8a1d904775843c875950c27e5f92d1719ccd30436ad857828be9cb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x86-vc14.50.35717-d22b6b2224b94a6087ab456725f60817.7z"
+    },
+    ["windows-x64-vc14.50.35717-66ca9e890ca842db9bb2e9a09685f9dc"] = {
+        toolset = "14.50.35717",
+        sha256 = "d4f7cbd6ea98ecdff44f79d4ae33512b856a25a493a2711cf0917f4f071857c6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/sqlcipher-4.14.0/windows-x64-vc14.50.35717-66ca9e890ca842db9bb2e9a09685f9dc.7z"
     }
 }
