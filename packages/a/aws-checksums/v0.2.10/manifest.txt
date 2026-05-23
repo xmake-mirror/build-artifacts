@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.44.35207-569725c771234d80b4273e260650b20e"] = {
-        sha256 = "493bd361adea30a996a8b98d9c83b0cca8ee118253d20dbd361257fc66a36017",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-569725c771234d80b4273e260650b20e.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-4fa547b186f04c5dabe4ccd16136deec"] = {
-        sha256 = "92e15b8387e91e325cc7eec3875c345b94cabe3e797b504ece5dd8851f566974",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-4fa547b186f04c5dabe4ccd16136deec.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.50.35717-569725c771234d80b4273e260650b20e"] = {
-        sha256 = "2658a7c772231b5b8f01da01357a145ee2d8d77ba55853b401ef524da035afa0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-569725c771234d80b4273e260650b20e.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.44.35207-0f03fc817b23491188c4d638c67d96eb"] = {
-        sha256 = "fde93504382db69dd11b44b6781aa2c652f619673ab24d366eef62ace0b6b842",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-0f03fc817b23491188c4d638c67d96eb.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-e278e5aa0c8445748f7ddaf83852de7e"] = {
-        sha256 = "eac5c4ffad88c6b7aceec1936fea77c0a40802920afb5ab72b0234d921dc0ca9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-e278e5aa0c8445748f7ddaf83852de7e.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.44.35207-7cef9a90e65c4673887fcf6e022868ba"] = {
-        sha256 = "11b33be4a923d353929e331316c4d830391d6de64bf7adf474a1ed1f644a796e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-7cef9a90e65c4673887fcf6e022868ba.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-23ad449ec6134cf69f7d4de0303993c1"] = {
-        sha256 = "00826c3dc267867910964d4f37a2ffdc6356895abe5957d6efbe182a205a04d2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-23ad449ec6134cf69f7d4de0303993c1.7z",
-        toolset = "14.50.35717"
+    ["windows-x64-vc14.44.35207-23ad449ec6134cf69f7d4de0303993c1"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-23ad449ec6134cf69f7d4de0303993c1.7z",
+        sha256 = "5dc1fdd79d5b60d1b7497388b6db7cb84951abfa212008f1a34967a2606f62b6"
     },
     ["windows-x64-vc14.44.35207-305dcdc656064b83ab6e42530c76d6a7"] = {
-        sha256 = "24c3f48116f285952d6defcc4e75dc6f5625b95739388461c6cc8d768af6819a",
+        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-305dcdc656064b83ab6e42530c76d6a7.7z",
-        toolset = "14.44.35207"
+        sha256 = "f5b639f1e4ec1d5745262ec2bded1e6f986a39c22117ce1faec82f52f4d14d60"
     },
-    ["windows-x86-vc14.50.35717-4fa547b186f04c5dabe4ccd16136deec"] = {
-        sha256 = "38392ebb53f7f8682f355a7ef40a6d2579771810fb58859f83cb5ceb151f7be1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-4fa547b186f04c5dabe4ccd16136deec.7z",
-        toolset = "14.50.35717"
+    ["windows-x86-vc14.44.35207-7cef9a90e65c4673887fcf6e022868ba"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-7cef9a90e65c4673887fcf6e022868ba.7z",
+        sha256 = "29fa37059824a7d6071c6d2e8a832a889e570ef258655d9c0189e3954b877786"
     },
-    ["windows-x64-vc14.44.35207-e278e5aa0c8445748f7ddaf83852de7e"] = {
-        sha256 = "94fc929525c3a0ba6447915b1d9de0bbff90e31ea2d5fae4d2ea8fe871ef356a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-e278e5aa0c8445748f7ddaf83852de7e.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.51.36231-23ad449ec6134cf69f7d4de0303993c1"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.51.36231-23ad449ec6134cf69f7d4de0303993c1.7z",
+        sha256 = "8c2ab6b53a7b665cfd0a1edac645d5a5d199ac34848cf892a3efe84109c7afaf"
     },
-    ["windows-x86-vc14.50.35717-215c45f8cbcd4a24a11af0ad11f94a16"] = {
-        sha256 = "ee69a15f1d139cd4a93bf7b944419e61236dd32486cb6ae59f6c2b74201e6ab4",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-215c45f8cbcd4a24a11af0ad11f94a16.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.50.35717-305dcdc656064b83ab6e42530c76d6a7"] = {
-        sha256 = "d1a79c919cd01af556e6c3212259f951e51ff2cf725443589b9ec6c01d405f97",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-305dcdc656064b83ab6e42530c76d6a7.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.50.35717-0f03fc817b23491188c4d638c67d96eb"] = {
-        sha256 = "35debb48aa92d12eca42a08840242e49f3f000b31f19d1711ee02bf19f090984",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-0f03fc817b23491188c4d638c67d96eb.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.44.35207-215c45f8cbcd4a24a11af0ad11f94a16"] = {
-        sha256 = "036f6dd65bf73b40c0449960888a19075663745e07677f12f7a17f5bc3023488",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-215c45f8cbcd4a24a11af0ad11f94a16.7z",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.51.36231-215c45f8cbcd4a24a11af0ad11f94a16"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.51.36231-215c45f8cbcd4a24a11af0ad11f94a16.7z",
+        sha256 = "6c0b7b1169a3723821713adc2288b1c0527298db774d71ee557aa88b3e205655"
     },
     ["windows-x86-vc14.50.35717-7cef9a90e65c4673887fcf6e022868ba"] = {
-        sha256 = "397c24b230755b68dbd6c69c61dddf468306743d9847d60d1393750c05351ccb",
+        toolset = "14.50.35717",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-7cef9a90e65c4673887fcf6e022868ba.7z",
-        toolset = "14.50.35717"
+        sha256 = "397c24b230755b68dbd6c69c61dddf468306743d9847d60d1393750c05351ccb"
     },
-    ["windows-x64-vc14.44.35207-23ad449ec6134cf69f7d4de0303993c1"] = {
-        sha256 = "d0cf829e1d27a8a6d053d33d8878699448cda5dce8d0e8fe2d6b73e816e8ae30",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-23ad449ec6134cf69f7d4de0303993c1.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.44.35207-e278e5aa0c8445748f7ddaf83852de7e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-e278e5aa0c8445748f7ddaf83852de7e.7z",
+        sha256 = "d43f75915a134c312e6534aca74d4167e84b83f58631f9d87c9cffb0e60789e6"
+    },
+    ["windows-x86-vc14.50.35717-569725c771234d80b4273e260650b20e"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-569725c771234d80b4273e260650b20e.7z",
+        sha256 = "2658a7c772231b5b8f01da01357a145ee2d8d77ba55853b401ef524da035afa0"
+    },
+    ["windows-x86-vc14.51.36231-7cef9a90e65c4673887fcf6e022868ba"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.51.36231-7cef9a90e65c4673887fcf6e022868ba.7z",
+        sha256 = "3eb92928b17bcc21324a14a44afb74eb2e9a93d55963d477c1c343b9c14213f9"
+    },
+    ["windows-x86-vc14.44.35207-215c45f8cbcd4a24a11af0ad11f94a16"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-215c45f8cbcd4a24a11af0ad11f94a16.7z",
+        sha256 = "af79685f909c360bb9f4b1e6d79b34caf700e7a4e42e9c52c1bc67736becb879"
+    },
+    ["windows-x64-vc14.44.35207-0f03fc817b23491188c4d638c67d96eb"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.44.35207-0f03fc817b23491188c4d638c67d96eb.7z",
+        sha256 = "cbb4b3e3554dcdaef8af8a541868f6aba54d879f768a4b6e098f20d3569b9994"
+    },
+    ["windows-x64-vc14.50.35717-305dcdc656064b83ab6e42530c76d6a7"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-305dcdc656064b83ab6e42530c76d6a7.7z",
+        sha256 = "d1a79c919cd01af556e6c3212259f951e51ff2cf725443589b9ec6c01d405f97"
+    },
+    ["windows-x64-vc14.51.36231-305dcdc656064b83ab6e42530c76d6a7"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.51.36231-305dcdc656064b83ab6e42530c76d6a7.7z",
+        sha256 = "ebcbc694e5cc6dbe71b3d36f3441fda5284618709fa8bc94e97572b909888ccc"
+    },
+    ["windows-x86-vc14.50.35717-4fa547b186f04c5dabe4ccd16136deec"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-4fa547b186f04c5dabe4ccd16136deec.7z",
+        sha256 = "38392ebb53f7f8682f355a7ef40a6d2579771810fb58859f83cb5ceb151f7be1"
+    },
+    ["windows-x64-vc14.51.36231-0f03fc817b23491188c4d638c67d96eb"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.51.36231-0f03fc817b23491188c4d638c67d96eb.7z",
+        sha256 = "7542a72003406231110806e3aafc214cdeffcd63394d43e67172dbb5f3a8f299"
+    },
+    ["windows-x86-vc14.44.35207-569725c771234d80b4273e260650b20e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-569725c771234d80b4273e260650b20e.7z",
+        sha256 = "2efeb18f9056e418dd833f774e7eb498d3b2aea1118c8c7785a40cb0dfedc2a2"
+    },
+    ["windows-x86-vc14.44.35207-4fa547b186f04c5dabe4ccd16136deec"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.44.35207-4fa547b186f04c5dabe4ccd16136deec.7z",
+        sha256 = "d0e79cc3e357bbcd4ec789713204e4923e5e1f612e78681a1673d53eac6013ab"
+    },
+    ["windows-x86-vc14.50.35717-215c45f8cbcd4a24a11af0ad11f94a16"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.50.35717-215c45f8cbcd4a24a11af0ad11f94a16.7z",
+        sha256 = "ee69a15f1d139cd4a93bf7b944419e61236dd32486cb6ae59f6c2b74201e6ab4"
+    },
+    ["windows-x64-vc14.50.35717-23ad449ec6134cf69f7d4de0303993c1"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-23ad449ec6134cf69f7d4de0303993c1.7z",
+        sha256 = "00826c3dc267867910964d4f37a2ffdc6356895abe5957d6efbe182a205a04d2"
+    },
+    ["windows-x64-vc14.51.36231-e278e5aa0c8445748f7ddaf83852de7e"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.51.36231-e278e5aa0c8445748f7ddaf83852de7e.7z",
+        sha256 = "490a2cf4c4e0c9c5b3e4787c06f8704358e7b70c9e0947a920ccc8bbad3e201a"
+    },
+    ["windows-x86-vc14.51.36231-4fa547b186f04c5dabe4ccd16136deec"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.51.36231-4fa547b186f04c5dabe4ccd16136deec.7z",
+        sha256 = "dd27f5475ddfc2fc86ecf5cc7c7ca8caac61e077811b42af8e615c2e4674e41a"
+    },
+    ["windows-x64-vc14.50.35717-0f03fc817b23491188c4d638c67d96eb"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-0f03fc817b23491188c4d638c67d96eb.7z",
+        sha256 = "35debb48aa92d12eca42a08840242e49f3f000b31f19d1711ee02bf19f090984"
+    },
+    ["windows-x86-vc14.51.36231-569725c771234d80b4273e260650b20e"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x86-vc14.51.36231-569725c771234d80b4273e260650b20e.7z",
+        sha256 = "dbaea045d3aa946705a8891ec33aefa8cd68fe2ffc408a48d0e3b9a45a64fb03"
+    },
+    ["windows-x64-vc14.50.35717-e278e5aa0c8445748f7ddaf83852de7e"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/aws-checksums-v0.2.10/windows-x64-vc14.50.35717-e278e5aa0c8445748f7ddaf83852de7e.7z",
+        sha256 = "eac5c4ffad88c6b7aceec1936fea77c0a40802920afb5ab72b0234d921dc0ca9"
     }
 }
