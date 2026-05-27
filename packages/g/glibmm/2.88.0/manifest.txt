@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.44.35207-16fc9a54c2804a39993aa50bf1e935ee"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-16fc9a54c2804a39993aa50bf1e935ee.7z",
-        sha256 = "89fe89478a29d7d923a2ea1d0d9cc0aa3cf2c380c3715bca8f4646c5899cbf34",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-9a92a266dc1949c79b5b8872d62a5cf5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-9a92a266dc1949c79b5b8872d62a5cf5.7z",
-        sha256 = "dc82ca190b1d0575d105cdb2c15833de1ba2405dd9083f16fd38f7f84a63ec1a",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-0fbbe667a7764e9fa965a6aaf0def5c3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-0fbbe667a7764e9fa965a6aaf0def5c3.7z",
-        sha256 = "2706cbd8a16ed6beb6f26dbdf92479ff2649cf87c54ea3e74e3e2150362082c0",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.50.35717-7e3833c5b61a4ba792acb97a2d6a2f07"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-7e3833c5b61a4ba792acb97a2d6a2f07.7z",
-        sha256 = "68af97a3a7ac290d3329793bed8e3feac77aaa9086ba817292f1a28f40506e96",
-        toolset = "14.50.35717"
+    ["windows-x86-vc14.50.35717-4f518fb8dbf140628348ba13791a98e7"] = {
+        toolset = "14.50.35717",
+        sha256 = "fdd859c8310139b9eb0761b36a28be55a1af8a9b9dd4a6bae5ebb8f9ee06a03d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-4f518fb8dbf140628348ba13791a98e7.7z"
     },
     ["windows-x64-vc14.44.35207-386a6d36788e46e5bdcb50ed30081b36"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-386a6d36788e46e5bdcb50ed30081b36.7z",
+        toolset = "14.44.35207",
         sha256 = "f9e2dd32bc8e01b89eabe8648c7d912d46dcc54da36d9cb84f1f47dcac43c637",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-386a6d36788e46e5bdcb50ed30081b36"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-386a6d36788e46e5bdcb50ed30081b36.7z",
-        sha256 = "56f376b0eb19317d5f8e2c6c8296b6e9922bb098f5ea9be0a5f288fb5af38206",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.44.35207-0fbbe667a7764e9fa965a6aaf0def5c3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-0fbbe667a7764e9fa965a6aaf0def5c3.7z",
-        sha256 = "e73c0671b8703c137f2debe6d297523e7d9ff0fce6af53ebcf56e5b7e3dc2a15",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-16fc9a54c2804a39993aa50bf1e935ee"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-16fc9a54c2804a39993aa50bf1e935ee.7z",
-        sha256 = "1f9fd147e7a63e05cd73430c6a69c715ac7d42ee4b0b3739bb5b21ae19b2d439",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.44.35207-0342a84fe7c04b68ab0a1082ae3d98ba"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-0342a84fe7c04b68ab0a1082ae3d98ba.7z",
-        sha256 = "bd9df2d152de06c9852bfab95cc5f4c7afd3dbbef3a563762cd04207317d88a7",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-4f518fb8dbf140628348ba13791a98e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-4f518fb8dbf140628348ba13791a98e7.7z",
-        sha256 = "dbbe0265f1c42846fd09d830bc976f7e18f6603e0a60f5f4c87e42f3b9a09665",
-        toolset = "14.44.35207"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-386a6d36788e46e5bdcb50ed30081b36.7z"
     },
     ["windows-x86-vc14.50.35717-0342a84fe7c04b68ab0a1082ae3d98ba"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-0342a84fe7c04b68ab0a1082ae3d98ba.7z",
+        toolset = "14.50.35717",
         sha256 = "49f61469735d9595ebb48d0fe4417ffff28a4153acb28b9908982178e56a26c3",
-        toolset = "14.50.35717"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-0342a84fe7c04b68ab0a1082ae3d98ba.7z"
     },
-    ["windows-x86-vc14.50.35717-4f518fb8dbf140628348ba13791a98e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-4f518fb8dbf140628348ba13791a98e7.7z",
-        sha256 = "fdd859c8310139b9eb0761b36a28be55a1af8a9b9dd4a6bae5ebb8f9ee06a03d",
-        toolset = "14.50.35717"
+    ["windows-x86-vc14.44.35207-64cb620bdb6a4af88c93394fecbd91c6"] = {
+        toolset = "14.44.35207",
+        sha256 = "8397b951b87f6d9877252f703ceae22020057a0d1430ba5205cf50f9ed46331e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-64cb620bdb6a4af88c93394fecbd91c6.7z"
     },
-    ["windows-x86-vc14.44.35207-89bfe598f9f1439885fda613c0a58c32"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-89bfe598f9f1439885fda613c0a58c32.7z",
-        sha256 = "31a72221a1c49bbac5676ffaa2cbd0ce12078d577da4347cba7edb12b513a9b2",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-7e3833c5b61a4ba792acb97a2d6a2f07"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-7e3833c5b61a4ba792acb97a2d6a2f07.7z",
-        sha256 = "ba2cded457a873f12c814056f290f666b78fc217a3380a4739f208c85d0c886d",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.50.35717-89bfe598f9f1439885fda613c0a58c32"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-89bfe598f9f1439885fda613c0a58c32.7z",
-        sha256 = "38bda6eb4f123c3f00fce40b4f335922d70db63dc6ae65a959806670572783db",
-        toolset = "14.50.35717"
+    ["windows-x86-vc14.44.35207-0e316066d08249b482e1015a9d2add55"] = {
+        toolset = "14.44.35207",
+        sha256 = "7e431cd58bed09e201ab46592ad0a4f69ebc7c1624842806588661ba002d2dff",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-0e316066d08249b482e1015a9d2add55.7z"
     },
     ["windows-x86-vc14.50.35717-9a92a266dc1949c79b5b8872d62a5cf5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-9a92a266dc1949c79b5b8872d62a5cf5.7z",
+        toolset = "14.50.35717",
         sha256 = "c2357bc1ad5445d60bfba98f8e9677dbb76e84f1eea73c9edeaa56c35b281c31",
-        toolset = "14.50.35717"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-9a92a266dc1949c79b5b8872d62a5cf5.7z"
+    },
+    ["windows-x64-vc14.44.35207-f89188e9628d4b84a4dece36ccd215c6"] = {
+        toolset = "14.44.35207",
+        sha256 = "686419919027ff69210785540aa53dd697421e731f825f1ee3f439be11a7ad88",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-f89188e9628d4b84a4dece36ccd215c6.7z"
+    },
+    ["windows-x64-vc14.50.35717-386a6d36788e46e5bdcb50ed30081b36"] = {
+        toolset = "14.50.35717",
+        sha256 = "56f376b0eb19317d5f8e2c6c8296b6e9922bb098f5ea9be0a5f288fb5af38206",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-386a6d36788e46e5bdcb50ed30081b36.7z"
+    },
+    ["windows-x64-vc14.51.36231-83a532f192ad43e6b725535501e5df4e"] = {
+        toolset = "14.51.36231",
+        sha256 = "ea0b795f96d9ffc037dee0583008b8150faa041e5b1bb4cc8c0f49394028e2ff",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.51.36231-83a532f192ad43e6b725535501e5df4e.7z"
+    },
+    ["windows-x64-vc14.44.35207-91f4903b06224cc8a8d28630d235f4a9"] = {
+        toolset = "14.44.35207",
+        sha256 = "9138b48f2e4d05e01b18be91378536191d6a147a8e30d044cb284507cdef938c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-91f4903b06224cc8a8d28630d235f4a9.7z"
+    },
+    ["windows-x86-vc14.44.35207-9a92a266dc1949c79b5b8872d62a5cf5"] = {
+        toolset = "14.44.35207",
+        sha256 = "dc82ca190b1d0575d105cdb2c15833de1ba2405dd9083f16fd38f7f84a63ec1a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-9a92a266dc1949c79b5b8872d62a5cf5.7z"
+    },
+    ["windows-x86-vc14.51.36231-64cb620bdb6a4af88c93394fecbd91c6"] = {
+        toolset = "14.51.36231",
+        sha256 = "cd31a7df12e7a8ade24c99f686b6890554a0cff2622527af273871198fb9918c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.51.36231-64cb620bdb6a4af88c93394fecbd91c6.7z"
+    },
+    ["windows-x86-vc14.50.35717-89bfe598f9f1439885fda613c0a58c32"] = {
+        toolset = "14.50.35717",
+        sha256 = "38bda6eb4f123c3f00fce40b4f335922d70db63dc6ae65a959806670572783db",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.50.35717-89bfe598f9f1439885fda613c0a58c32.7z"
+    },
+    ["windows-x86-vc14.44.35207-4f518fb8dbf140628348ba13791a98e7"] = {
+        toolset = "14.44.35207",
+        sha256 = "dbbe0265f1c42846fd09d830bc976f7e18f6603e0a60f5f4c87e42f3b9a09665",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-4f518fb8dbf140628348ba13791a98e7.7z"
+    },
+    ["windows-x64-vc14.50.35717-7e3833c5b61a4ba792acb97a2d6a2f07"] = {
+        toolset = "14.50.35717",
+        sha256 = "68af97a3a7ac290d3329793bed8e3feac77aaa9086ba817292f1a28f40506e96",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-7e3833c5b61a4ba792acb97a2d6a2f07.7z"
+    },
+    ["windows-x64-vc14.44.35207-521c23be3bcb472890a16da756badce9"] = {
+        toolset = "14.44.35207",
+        sha256 = "bf4ecd85919ca3b5aa38e64c027d43019dcd1c02f9d4a71c3f82076524ef7b97",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-521c23be3bcb472890a16da756badce9.7z"
+    },
+    ["windows-x86-vc14.44.35207-0342a84fe7c04b68ab0a1082ae3d98ba"] = {
+        toolset = "14.44.35207",
+        sha256 = "bd9df2d152de06c9852bfab95cc5f4c7afd3dbbef3a563762cd04207317d88a7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-0342a84fe7c04b68ab0a1082ae3d98ba.7z"
+    },
+    ["windows-x86-vc14.51.36231-d92f3cd424ac4a05a0096286bb8ffbd7"] = {
+        toolset = "14.51.36231",
+        sha256 = "ab3865dbbcf7cff7b9cd7d640b6870f06c556dafb9822e8ce2d1a1fa7773415f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.51.36231-d92f3cd424ac4a05a0096286bb8ffbd7.7z"
+    },
+    ["windows-x64-vc14.51.36231-f89188e9628d4b84a4dece36ccd215c6"] = {
+        toolset = "14.51.36231",
+        sha256 = "0d42a56a660dadd719e23087e16bd846e862d44795bf556ac84d65184202fe69",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.51.36231-f89188e9628d4b84a4dece36ccd215c6.7z"
+    },
+    ["windows-x64-vc14.44.35207-0fbbe667a7764e9fa965a6aaf0def5c3"] = {
+        toolset = "14.44.35207",
+        sha256 = "e73c0671b8703c137f2debe6d297523e7d9ff0fce6af53ebcf56e5b7e3dc2a15",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-0fbbe667a7764e9fa965a6aaf0def5c3.7z"
+    },
+    ["windows-x86-vc14.44.35207-d92f3cd424ac4a05a0096286bb8ffbd7"] = {
+        toolset = "14.44.35207",
+        sha256 = "0758b0392cfabec0b6c4bbce35a9aecb2514062080b1cc9823971edaccef18c3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-d92f3cd424ac4a05a0096286bb8ffbd7.7z"
+    },
+    ["windows-x86-vc14.51.36231-0e316066d08249b482e1015a9d2add55"] = {
+        toolset = "14.51.36231",
+        sha256 = "ff29f8e272448ff5854f717eab3479df35538d7f0437807ed17fe0ab29461508",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.51.36231-0e316066d08249b482e1015a9d2add55.7z"
+    },
+    ["windows-x64-vc14.51.36231-91f4903b06224cc8a8d28630d235f4a9"] = {
+        toolset = "14.51.36231",
+        sha256 = "05ae0a262576339f0aad66542e5fe4df8ae45ac17cf113a4270acb0e1d3b5b6b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.51.36231-91f4903b06224cc8a8d28630d235f4a9.7z"
+    },
+    ["windows-x64-vc14.44.35207-7e3833c5b61a4ba792acb97a2d6a2f07"] = {
+        toolset = "14.44.35207",
+        sha256 = "ba2cded457a873f12c814056f290f666b78fc217a3380a4739f208c85d0c886d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-7e3833c5b61a4ba792acb97a2d6a2f07.7z"
+    },
+    ["windows-x86-vc14.51.36231-e09cd5d85b234d47ac847c0803f110b7"] = {
+        toolset = "14.51.36231",
+        sha256 = "50474cf7a26bd1910fc15a40ba13c01ba820c754a426684e2f6074f2ef611d9e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.51.36231-e09cd5d85b234d47ac847c0803f110b7.7z"
+    },
+    ["windows-x86-vc14.44.35207-e09cd5d85b234d47ac847c0803f110b7"] = {
+        toolset = "14.44.35207",
+        sha256 = "848c59f8d80c2f4ac233ddc5939ee6d5e4216a56b1dfb262fdb1fe49ac0144c8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-e09cd5d85b234d47ac847c0803f110b7.7z"
+    },
+    ["windows-x86-vc14.44.35207-89bfe598f9f1439885fda613c0a58c32"] = {
+        toolset = "14.44.35207",
+        sha256 = "31a72221a1c49bbac5676ffaa2cbd0ce12078d577da4347cba7edb12b513a9b2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x86-vc14.44.35207-89bfe598f9f1439885fda613c0a58c32.7z"
+    },
+    ["windows-x64-vc14.44.35207-16fc9a54c2804a39993aa50bf1e935ee"] = {
+        toolset = "14.44.35207",
+        sha256 = "89fe89478a29d7d923a2ea1d0d9cc0aa3cf2c380c3715bca8f4646c5899cbf34",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-16fc9a54c2804a39993aa50bf1e935ee.7z"
+    },
+    ["windows-x64-vc14.50.35717-16fc9a54c2804a39993aa50bf1e935ee"] = {
+        toolset = "14.50.35717",
+        sha256 = "1f9fd147e7a63e05cd73430c6a69c715ac7d42ee4b0b3739bb5b21ae19b2d439",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-16fc9a54c2804a39993aa50bf1e935ee.7z"
+    },
+    ["windows-x64-vc14.50.35717-0fbbe667a7764e9fa965a6aaf0def5c3"] = {
+        toolset = "14.50.35717",
+        sha256 = "2706cbd8a16ed6beb6f26dbdf92479ff2649cf87c54ea3e74e3e2150362082c0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.50.35717-0fbbe667a7764e9fa965a6aaf0def5c3.7z"
+    },
+    ["windows-x64-vc14.51.36231-521c23be3bcb472890a16da756badce9"] = {
+        toolset = "14.51.36231",
+        sha256 = "369a449eda2347c096a3791d1b229ba82c9edd263ee37ae8f8d79e477a2db55c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.51.36231-521c23be3bcb472890a16da756badce9.7z"
+    },
+    ["windows-x64-vc14.44.35207-83a532f192ad43e6b725535501e5df4e"] = {
+        toolset = "14.44.35207",
+        sha256 = "4189aacb197db3f6d1942259e328a11f17d0a1fd5ac08c5957e8cfc5a7145023",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/glibmm-2.88.0/windows-x64-vc14.44.35207-83a532f192ad43e6b725535501e5df4e.7z"
     }
 }
