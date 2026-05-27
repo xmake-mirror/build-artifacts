@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.44.35207-1f0d7fa8c5b74ef487bf6519ca6c08a2"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-1f0d7fa8c5b74ef487bf6519ca6c08a2.7z",
-        sha256 = "fe53c5cd46a90d4a088478b2c0471a0b1c5ef2adfaabcbdc413e2051a8a96004"
-    },
-    ["windows-x64-vc14.44.35207-21cfb634add041aabb673d93d6ca632a"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-21cfb634add041aabb673d93d6ca632a.7z",
-        sha256 = "790683a4ab02aae99ebd9c540e98760e4a9525a327b5bd4623965614ad1c0489"
-    },
-    ["windows-x86-vc14.44.35207-4c1bcedf654141cc8038709435350be4"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.44.35207-4c1bcedf654141cc8038709435350be4.7z",
-        sha256 = "cd1f56e66ebb88021581219936f61f409620ad47b887111adbb8008c31d576b0"
-    },
     ["windows-x86-vc14.44.35207-c97b56f191bc479db6393987722412d4"] = {
-        toolset = "14.44.35207",
+        sha256 = "117ecf34214d2010194a7b9a68acbc0745d7c20132db98d60c9efac004adb368",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.44.35207-c97b56f191bc479db6393987722412d4.7z",
-        sha256 = "88d5acc610c5a65452d85df5057cbe90359ac4fb040db5b1f7ce7b4e2029361c"
-    },
-    ["windows-x64-vc14.44.35207-7a2b7278f6ad4c4fbaeb938c0c740077"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-7a2b7278f6ad4c4fbaeb938c0c740077.7z",
-        sha256 = "ffe1777b711819cfc6955640282c71067c0c5ec60f3ec5160a2cc8ac480e415e"
-    },
-    ["windows-x86-vc14.44.35207-a20857372443441bb7c707be58ef3744"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.44.35207-a20857372443441bb7c707be58ef3744.7z",
-        sha256 = "c72164c5a43752ca6030084bf243dc59e571e9916f96edfcb1e449c935e3631d"
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.44.35207-d9ee13087b9544e9aa990f28838c037e"] = {
-        toolset = "14.44.35207",
+        sha256 = "38a77b8cdb23b4def83161d4dcce706bba2bfa93e68878aa567054b58bceda92",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.44.35207-d9ee13087b9544e9aa990f28838c037e.7z",
-        sha256 = "27ee32360dc9e34150e9c045740f072ef2e3ca2b21e2e035c1a490f944549636"
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-21cfb634add041aabb673d93d6ca632a"] = {
+        sha256 = "ec184f9685be5db4384990c5414a8077f38f6871dd1ceee1c711a5427573777a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.51.36231-21cfb634add041aabb673d93d6ca632a.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-c97b56f191bc479db6393987722412d4"] = {
+        sha256 = "aeece5cf6d544be0f86f48c8da3b178c1ad952b9fa87c3f6f24a952a3e2de59e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.51.36231-c97b56f191bc479db6393987722412d4.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-21cfb634add041aabb673d93d6ca632a"] = {
+        sha256 = "e65373b7544f4053ea841941df88ab4f941d72d887627b0ea48355cffd45e0ca",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-21cfb634add041aabb673d93d6ca632a.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-d9ee13087b9544e9aa990f28838c037e"] = {
+        sha256 = "d6f0382415883f767dd86b005b8b2be529f39c541278adb7bbb88cb01c27e364",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.51.36231-d9ee13087b9544e9aa990f28838c037e.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-a20857372443441bb7c707be58ef3744"] = {
+        sha256 = "8d79c31a3db83c5885f46948897564276e0b6eccde36967751d249fa501514fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.51.36231-a20857372443441bb7c707be58ef3744.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-a20857372443441bb7c707be58ef3744"] = {
+        sha256 = "44879bfba4ec0ecd14fc77b699d635bb394b6dcfc25db9566622572cfaf349a4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.44.35207-a20857372443441bb7c707be58ef3744.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-1f0d7fa8c5b74ef487bf6519ca6c08a2"] = {
+        sha256 = "9858f77a4acbae26b001f4614a9790f8f8bd47d86bbb48fa1d3384445463c2eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.51.36231-1f0d7fa8c5b74ef487bf6519ca6c08a2.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-4c1bcedf654141cc8038709435350be4"] = {
+        sha256 = "310e091b355976c63f230106f8f1dd1a98ea58639a37f822d5e1040391dfe0f0",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.51.36231-4c1bcedf654141cc8038709435350be4.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-dfe70a5c2a9a48fb8155262cb571950b"] = {
+        sha256 = "2100350e9b395dc8ce52b1a5d7a05d37309456f8efe8b315612867f1b94714f3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.51.36231-dfe70a5c2a9a48fb8155262cb571950b.7z",
+        toolset = "14.51.36231"
     },
     ["windows-x64-vc14.44.35207-dfe70a5c2a9a48fb8155262cb571950b"] = {
-        toolset = "14.44.35207",
+        sha256 = "cdc5495e5a7e4a245d0ed8cd7cb4e78e8d88477de1343f7c2f30d057f828f09c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-dfe70a5c2a9a48fb8155262cb571950b.7z",
-        sha256 = "652ebb4e03e1f1f23e2c3fb83562638d61394f72ccff05079e60665392fc1953"
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-7a2b7278f6ad4c4fbaeb938c0c740077"] = {
+        sha256 = "7da29fb8445d17c53b291cdab4d6579dbe5cbc5eb784df1131ca1a2103b17375",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-7a2b7278f6ad4c4fbaeb938c0c740077.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-4c1bcedf654141cc8038709435350be4"] = {
+        sha256 = "14f4c174c0528ac8c713b0fc8f63902bff61707c01ea0bf79534c6123f6d6232",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x86-vc14.44.35207-4c1bcedf654141cc8038709435350be4.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-7a2b7278f6ad4c4fbaeb938c0c740077"] = {
+        sha256 = "34a76979aac661eb7a52bac554cf265c0718038dfa83195baa919c9441b8a0ae",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.51.36231-7a2b7278f6ad4c4fbaeb938c0c740077.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-1f0d7fa8c5b74ef487bf6519ca6c08a2"] = {
+        sha256 = "88299d2cd1fc4b2a4c4868026469387ede654a7d0fc116e13815d71d97d08675",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/apr-1.7.6/windows-x64-vc14.44.35207-1f0d7fa8c5b74ef487bf6519ca6c08a2.7z",
+        toolset = "14.44.35207"
     }
 }
