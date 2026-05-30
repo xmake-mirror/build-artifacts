@@ -1,22 +1,42 @@
 {
-    ["windows-x64-vc14.44.35207-47f900b372d141b0bb14fed7981a76e9"] = {
-        toolset = "14.44.35207",
-        sha256 = "1e45b9a3d1f00326724b033bc28ba457a5e5655d16afb1f4991052756849cf77",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x64-vc14.44.35207-47f900b372d141b0bb14fed7981a76e9.7z"
-    },
-    ["windows-x64-vc14.44.35207-ca03e33b488d4053a569ad04108aa771"] = {
-        toolset = "14.44.35207",
-        sha256 = "2015d0008dbc716efac38600b876e5b101f4e1e3f7c749bec5a3f86c21fe7fe2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x64-vc14.44.35207-ca03e33b488d4053a569ad04108aa771.7z"
-    },
     ["windows-x86-vc14.44.35207-c858a4943f9b4b32883e08f74b601017"] = {
-        toolset = "14.44.35207",
-        sha256 = "359fbb1d28e5ed060fde8b542ef39038873298449d9754b5baa00027e32656b6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x86-vc14.44.35207-c858a4943f9b4b32883e08f74b601017.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x86-vc14.44.35207-c858a4943f9b4b32883e08f74b601017.7z",
+        sha256 = "0b2ac3958bf24ac3e6d7004537f8f94cf4cd53adc9215a17b1e588031b5fdc53",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-26b69398bdf04cb183d4e75d059b4e94"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x86-vc14.51.36231-26b69398bdf04cb183d4e75d059b4e94.7z",
+        sha256 = "079a26abc1ccb4671873274af7f91422d4c82c354a827475616c2238c38cc203",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-c858a4943f9b4b32883e08f74b601017"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x86-vc14.51.36231-c858a4943f9b4b32883e08f74b601017.7z",
+        sha256 = "e1d04f57e6de74db4c8b937c370f219cc522a16d0b164a2b5d6347455956095b",
+        toolset = "14.51.36231"
     },
     ["windows-x86-vc14.44.35207-26b69398bdf04cb183d4e75d059b4e94"] = {
-        toolset = "14.44.35207",
-        sha256 = "f2e2c54612dcea47c60b004f28427a636712623b9771dc9385d862f42554a672",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x86-vc14.44.35207-26b69398bdf04cb183d4e75d059b4e94.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x86-vc14.44.35207-26b69398bdf04cb183d4e75d059b4e94.7z",
+        sha256 = "8f3bbe50b33f40be7d2ebd0716db015f11e215ea139461cf8476f2802fba7dcc",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-47f900b372d141b0bb14fed7981a76e9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x64-vc14.44.35207-47f900b372d141b0bb14fed7981a76e9.7z",
+        sha256 = "0b9e0526a25b0990caa3ab7d0ea5df14b24b21d20dcba34a0fd6fdafebbbda0b",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-ca03e33b488d4053a569ad04108aa771"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x64-vc14.44.35207-ca03e33b488d4053a569ad04108aa771.7z",
+        sha256 = "b36d629c0c1b0249a3c03fad62a04ddf602d9984ba15acb4368f359efeec3735",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-ca03e33b488d4053a569ad04108aa771"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x64-vc14.51.36231-ca03e33b488d4053a569ad04108aa771.7z",
+        sha256 = "9a907859ecfce63e0dda844356d3754ffe6e5bd2b8dae4afb503101801d2b733",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-47f900b372d141b0bb14fed7981a76e9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openmvs-v2.3.0/windows-x64-vc14.51.36231-47f900b372d141b0bb14fed7981a76e9.7z",
+        sha256 = "9e07f22cfe7b004a99b16c64fb2c8c7d6886757ddf44111536c6bd4922aa2bc4",
+        toolset = "14.51.36231"
     }
 }
