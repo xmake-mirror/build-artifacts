@@ -1,122 +1,122 @@
 {
+    ["windows-x86-vc14.51.36231-a2a6b21caff54680a0af2364abd7b77e"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-a2a6b21caff54680a0af2364abd7b77e.7z",
+        sha256 = "2b4f1f8b59e9efa24fed8c913dfc0c084af1411b5789bf6088d52b4f06f9c7d4"
+    },
     ["windows-x64-vc14.51.36231-59da166db1134ffea2ec80121e1f97a6"] = {
-        sha256 = "0d1a05406ca71de87d5b0e9066b4aee0f420253c5e116b9b4a6ab3d661c96255",
+        toolset = "14.51.36231",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-59da166db1134ffea2ec80121e1f97a6.7z",
-        toolset = "14.51.36231"
-    },
-    ["windows-x64-vc14.50.35717-1cf91d12fa9346c787761b30a510c865"] = {
-        sha256 = "70feb6a2e96a734622e6218cc267789ab0f86834cae130c552f2856cf0735f4e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-1cf91d12fa9346c787761b30a510c865.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.44.35207-a2a6b21caff54680a0af2364abd7b77e"] = {
-        sha256 = "4f0cd668f33a2052a877fcf77432c2d5ed04f4b19d22f68dc94301772b7a860d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-a2a6b21caff54680a0af2364abd7b77e.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.50.35717-a8a5133e9a4c47cb801794a74f31f069"] = {
-        sha256 = "c873ca1ce0a931b78d303615abee32c44e5f20c3c48f72811aaa162d5def4a66",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-a8a5133e9a4c47cb801794a74f31f069.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.50.35717-bc170dca7cd449319e42a2e1fc23c992"] = {
-        sha256 = "878467dfb947f4cff4c891df715fcf5ef7feb6ccca27e9412928229107861d68",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-bc170dca7cd449319e42a2e1fc23c992.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.44.35207-c6e2e05bd36b40c99ddbd6e19f34fef1"] = {
-        sha256 = "854f45091f1d9c951fecb154832d157fcc77b41b557a61426dda2b3784a7ff7a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-c6e2e05bd36b40c99ddbd6e19f34fef1.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-59da166db1134ffea2ec80121e1f97a6"] = {
-        sha256 = "5b69b5e8e0c4ff03e6f45bd07162862d044e34dacba27691adc288905a56b5a5",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-59da166db1134ffea2ec80121e1f97a6.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-1cf91d12fa9346c787761b30a510c865"] = {
-        sha256 = "9c0cf71f0b0dcd8d7931cc40803979dd97d2078690692c5650bbbbf41c0d42d6",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-1cf91d12fa9346c787761b30a510c865.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.51.36231-bc170dca7cd449319e42a2e1fc23c992"] = {
-        sha256 = "e3d014142f38945c23c640014fd25dcf2ee1edb68a0155d38c8960aa51da51ca",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-bc170dca7cd449319e42a2e1fc23c992.7z",
-        toolset = "14.51.36231"
-    },
-    ["windows-x86-vc14.50.35717-a2a6b21caff54680a0af2364abd7b77e"] = {
-        sha256 = "22cbdd01f189f8ce402c6ad21197195ad55036591594ae0b5547ee7dd9f4ee65",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-a2a6b21caff54680a0af2364abd7b77e.7z",
-        toolset = "14.50.35717"
+        sha256 = "87e4bde8bc5b1a317ab5f14623b5ba71354348f839beae18e0f7960cf324046d"
     },
     ["windows-x86-vc14.50.35717-55dd49b3fa7e4bb7800a0c5504fedac0"] = {
-        sha256 = "6120161df7dbde484dfa1a1268abfeb73a9956cac6415d14d10cf276d6fa90ee",
+        toolset = "14.50.35717",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-55dd49b3fa7e4bb7800a0c5504fedac0.7z",
-        toolset = "14.50.35717"
+        sha256 = "6120161df7dbde484dfa1a1268abfeb73a9956cac6415d14d10cf276d6fa90ee"
     },
-    ["windows-x86-vc14.51.36231-a2a6b21caff54680a0af2364abd7b77e"] = {
-        sha256 = "877cecbe05f89ded568f4674a5cabff200e9bcbe99f4b6adc351de148d583755",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-a2a6b21caff54680a0af2364abd7b77e.7z",
-        toolset = "14.51.36231"
+    ["windows-x86-vc14.44.35207-a2a6b21caff54680a0af2364abd7b77e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-a2a6b21caff54680a0af2364abd7b77e.7z",
+        sha256 = "2541b6f6f59e894e396296ed76a33c9a640df8819d93e297b2c63dcbfc8c77a4"
     },
-    ["windows-x64-vc14.51.36231-1cf91d12fa9346c787761b30a510c865"] = {
-        sha256 = "7dcfe98eedb1d78ef93aec0e4f918395d9cf46c83c4598015296116f7e77c400",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-1cf91d12fa9346c787761b30a510c865.7z",
-        toolset = "14.51.36231"
+    ["windows-x86-vc14.50.35717-a8a5133e9a4c47cb801794a74f31f069"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-a8a5133e9a4c47cb801794a74f31f069.7z",
+        sha256 = "c873ca1ce0a931b78d303615abee32c44e5f20c3c48f72811aaa162d5def4a66"
     },
-    ["windows-x64-vc14.50.35717-59da166db1134ffea2ec80121e1f97a6"] = {
-        sha256 = "877be0c7095803fb5a06762ece79a8b48ebd2a07352f6d97c5f07f3dcfb42ea9",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-59da166db1134ffea2ec80121e1f97a6.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.51.36231-06c8647e547e4f3985405855af4310e4"] = {
-        sha256 = "3ff3769a7c2ce3de8fdfdd12bbf0587835725b2ab48b1adf247eb3073236ec42",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-06c8647e547e4f3985405855af4310e4.7z",
-        toolset = "14.51.36231"
-    },
-    ["windows-x86-vc14.51.36231-a8a5133e9a4c47cb801794a74f31f069"] = {
-        sha256 = "88643793cb3a0c00f8b11cba34aa10078d52ee90f96e06f7da8b72a65229f1b1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-a8a5133e9a4c47cb801794a74f31f069.7z",
-        toolset = "14.51.36231"
-    },
-    ["windows-x64-vc14.44.35207-bc170dca7cd449319e42a2e1fc23c992"] = {
-        sha256 = "5cd2703be0fb0113ddf5d1ea5ad4df8523287e595ea0dbaf19e99463e8ba5e44",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-bc170dca7cd449319e42a2e1fc23c992.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-06c8647e547e4f3985405855af4310e4"] = {
-        sha256 = "4597e9991974beae248ded8d1e743cff803becf27fa2e582759dd8c0d6eef7df",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-06c8647e547e4f3985405855af4310e4.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.44.35207-a8a5133e9a4c47cb801794a74f31f069"] = {
-        sha256 = "39612ef1560e33730d847888e3e64b462174ff0de4043e51e1811664c0caf188",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-a8a5133e9a4c47cb801794a74f31f069.7z",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.51.36231-55dd49b3fa7e4bb7800a0c5504fedac0"] = {
-        sha256 = "d88430cc281fa174a8ba64505b43ea6726db79d420ed6d270c8818aab9ffa6e7",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-55dd49b3fa7e4bb7800a0c5504fedac0.7z",
-        toolset = "14.51.36231"
-    },
-    ["windows-x86-vc14.50.35717-c6e2e05bd36b40c99ddbd6e19f34fef1"] = {
-        sha256 = "ea1e74a8ecb58bfd6fcb45bbd2099fc9b16e5f92da9880b2dbd6f600941c55a8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-c6e2e05bd36b40c99ddbd6e19f34fef1.7z",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.44.35207-06c8647e547e4f3985405855af4310e4"] = {
-        sha256 = "3acc2d75924ebf37275612148dcd88a0db4933d4238b87e3ead9d01d0e6418a1",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-06c8647e547e4f3985405855af4310e4.7z",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.44.35207-59da166db1134ffea2ec80121e1f97a6"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-59da166db1134ffea2ec80121e1f97a6.7z",
+        sha256 = "4fcc343455303f5f9deb3d626c34d9c9e9e803bb8e10faa8eaea40d26eedd416"
     },
     ["windows-x86-vc14.44.35207-55dd49b3fa7e4bb7800a0c5504fedac0"] = {
-        sha256 = "85286c58805d8cf480adc0bb1e7f61ae03762cec165d6f9fb2efefc1775cfb7e",
+        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-55dd49b3fa7e4bb7800a0c5504fedac0.7z",
-        toolset = "14.44.35207"
+        sha256 = "fcab41edacd9f6348df21dfb8c5103bfcb48fc2c59535f3ac7f140919e1ebe17"
+    },
+    ["windows-x64-vc14.50.35717-1cf91d12fa9346c787761b30a510c865"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-1cf91d12fa9346c787761b30a510c865.7z",
+        sha256 = "70feb6a2e96a734622e6218cc267789ab0f86834cae130c552f2856cf0735f4e"
+    },
+    ["windows-x64-vc14.50.35717-06c8647e547e4f3985405855af4310e4"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-06c8647e547e4f3985405855af4310e4.7z",
+        sha256 = "4597e9991974beae248ded8d1e743cff803becf27fa2e582759dd8c0d6eef7df"
+    },
+    ["windows-x64-vc14.50.35717-bc170dca7cd449319e42a2e1fc23c992"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-bc170dca7cd449319e42a2e1fc23c992.7z",
+        sha256 = "878467dfb947f4cff4c891df715fcf5ef7feb6ccca27e9412928229107861d68"
+    },
+    ["windows-x64-vc14.51.36231-bc170dca7cd449319e42a2e1fc23c992"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-bc170dca7cd449319e42a2e1fc23c992.7z",
+        sha256 = "3b99aad845d7a0f297e4f07a3e81c03f1f2b5cda3b99e2bc70563fe3f429f888"
+    },
+    ["windows-x86-vc14.44.35207-c6e2e05bd36b40c99ddbd6e19f34fef1"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-c6e2e05bd36b40c99ddbd6e19f34fef1.7z",
+        sha256 = "707b95ee6d7b39126d82fa782fc12ce461121ec919c6606fe64c5cb75020d780"
+    },
+    ["windows-x64-vc14.44.35207-1cf91d12fa9346c787761b30a510c865"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-1cf91d12fa9346c787761b30a510c865.7z",
+        sha256 = "34dd5970cdda92cd7f70eac28cbcbd57aeca46e98f5c1f5301adc70cd3546803"
+    },
+    ["windows-x86-vc14.50.35717-a2a6b21caff54680a0af2364abd7b77e"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-a2a6b21caff54680a0af2364abd7b77e.7z",
+        sha256 = "22cbdd01f189f8ce402c6ad21197195ad55036591594ae0b5547ee7dd9f4ee65"
+    },
+    ["windows-x64-vc14.51.36231-1cf91d12fa9346c787761b30a510c865"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-1cf91d12fa9346c787761b30a510c865.7z",
+        sha256 = "929c148d7ebcc5e45e31e94ba2daebd144dbb67e1e087a69601c25b8decc3f77"
+    },
+    ["windows-x86-vc14.51.36231-55dd49b3fa7e4bb7800a0c5504fedac0"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-55dd49b3fa7e4bb7800a0c5504fedac0.7z",
+        sha256 = "407f592871bc38c7b3a58cfe8e41c021221b868c2ef5d5be6d360edc556093c7"
+    },
+    ["windows-x64-vc14.50.35717-59da166db1134ffea2ec80121e1f97a6"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.50.35717-59da166db1134ffea2ec80121e1f97a6.7z",
+        sha256 = "877be0c7095803fb5a06762ece79a8b48ebd2a07352f6d97c5f07f3dcfb42ea9"
+    },
+    ["windows-x64-vc14.51.36231-06c8647e547e4f3985405855af4310e4"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.51.36231-06c8647e547e4f3985405855af4310e4.7z",
+        sha256 = "e519d1ba2109747a32bda202457dec5558b776452664929e44769befd73c7265"
+    },
+    ["windows-x86-vc14.51.36231-a8a5133e9a4c47cb801794a74f31f069"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-a8a5133e9a4c47cb801794a74f31f069.7z",
+        sha256 = "b78900f5097fc15c36c1c95fe7d954accc17b58247c3b0b90490ade88a51084e"
     },
     ["windows-x86-vc14.51.36231-c6e2e05bd36b40c99ddbd6e19f34fef1"] = {
-        sha256 = "8638601f02c97924a62f22b3fb93498e2015577cc7a34057871bc93631329854",
+        toolset = "14.51.36231",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.51.36231-c6e2e05bd36b40c99ddbd6e19f34fef1.7z",
-        toolset = "14.51.36231"
+        sha256 = "549f3dae646bcdba04ca2e0305e86d189111fc232c7bacc03d269cf5b6a06a42"
+    },
+    ["windows-x64-vc14.44.35207-06c8647e547e4f3985405855af4310e4"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-06c8647e547e4f3985405855af4310e4.7z",
+        sha256 = "a94983d8ee7dc6b177d428be670dfb794aa41f0df30578781afefb2dc49b4eb6"
+    },
+    ["windows-x86-vc14.50.35717-c6e2e05bd36b40c99ddbd6e19f34fef1"] = {
+        toolset = "14.50.35717",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.50.35717-c6e2e05bd36b40c99ddbd6e19f34fef1.7z",
+        sha256 = "ea1e74a8ecb58bfd6fcb45bbd2099fc9b16e5f92da9880b2dbd6f600941c55a8"
+    },
+    ["windows-x86-vc14.44.35207-a8a5133e9a4c47cb801794a74f31f069"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x86-vc14.44.35207-a8a5133e9a4c47cb801794a74f31f069.7z",
+        sha256 = "a8ec9995322982fc8ad702a23fbccc29815300cae1f53e1eb992bad94249a5ca"
+    },
+    ["windows-x64-vc14.44.35207-bc170dca7cd449319e42a2e1fc23c992"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/gdk-pixbuf-2.44.2/windows-x64-vc14.44.35207-bc170dca7cd449319e42a2e1fc23c992.7z",
+        sha256 = "1947e52052fb1d0158afc46cfd97dd6b395bd7add0c62b129253630b0e525ffd"
     }
 }
