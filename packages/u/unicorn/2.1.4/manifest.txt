@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.44.35207-d49b1c7d5ed249618617e0a60c38b288"] = {
-        toolset = "14.44.35207",
-        sha256 = "41e944b32be906afdfc3c6cf911c9f8f0784e4c2b0820ef00c284e8d5cb4bfdd",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-d49b1c7d5ed249618617e0a60c38b288.7z"
-    },
-    ["windows-x86-vc14.50.35717-53ad5efada6d499aa9d7fc2606a2cb55"] = {
-        toolset = "14.50.35717",
-        sha256 = "25474450a076951a395fa91ff3347c8577c6243b600dff70382bc062c3665516",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-53ad5efada6d499aa9d7fc2606a2cb55.7z"
-    },
-    ["windows-x86-vc14.50.35717-6b21508a9b85416daf6948cf108bb861"] = {
-        toolset = "14.50.35717",
-        sha256 = "5002454ef9967149484b632d577e2f75700ed2a1e98e665533415135ab60c5f8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-6b21508a9b85416daf6948cf108bb861.7z"
-    },
-    ["windows-x86-vc14.44.35207-6b21508a9b85416daf6948cf108bb861"] = {
-        toolset = "14.44.35207",
-        sha256 = "41e37971f04541864ca31081c70912d546289d09dcf2f557aee0873eccd1281e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-6b21508a9b85416daf6948cf108bb861.7z"
-    },
-    ["windows-x86-vc14.50.35717-d49b1c7d5ed249618617e0a60c38b288"] = {
-        toolset = "14.50.35717",
-        sha256 = "b086bebec286f12ec3ebf8d387d6c31dd83766e06af656e847648c3e90fbe1c8",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-d49b1c7d5ed249618617e0a60c38b288.7z"
-    },
-    ["windows-x64-vc14.44.35207-c9af27e1732e496ebfee1161a95197c3"] = {
-        toolset = "14.44.35207",
-        sha256 = "ffa43f6865308ba4bcd86d9c82b9bb5f6fad1b44db15d6ef9db259d06766453a",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-c9af27e1732e496ebfee1161a95197c3.7z"
-    },
-    ["windows-x64-vc14.44.35207-273ec37d46d04638a69dd61807c2286c"] = {
-        toolset = "14.44.35207",
-        sha256 = "419df02a17e7a73eab92192a2120fd3b995f326fa815aa9bc3350da1132dd627",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-273ec37d46d04638a69dd61807c2286c.7z"
-    },
     ["windows-x64-vc14.50.35717-b700931fe0f742bd8030150ef88e6e84"] = {
-        toolset = "14.50.35717",
         sha256 = "83bcbf1062654ce9310c7312317d272606aae1ff11d0ac5e9a936167d0137c76",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-b700931fe0f742bd8030150ef88e6e84.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-b700931fe0f742bd8030150ef88e6e84.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.51.36231-c9af27e1732e496ebfee1161a95197c3"] = {
+        sha256 = "f48a55993d1eab9945e4b40421c4356237fd3a8cbf5b664ae75b36ce2d869f76",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.51.36231-c9af27e1732e496ebfee1161a95197c3.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-6b21508a9b85416daf6948cf108bb861"] = {
+        sha256 = "e7a9119208fda29cf8ad5993cdbce677b890d3de717079e98c2718ca5261c5cb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.51.36231-6b21508a9b85416daf6948cf108bb861.7z",
+        toolset = "14.51.36231"
     },
     ["windows-x64-vc14.44.35207-1220dd7d944e4103b0a36f500050ca64"] = {
-        toolset = "14.44.35207",
-        sha256 = "8a816df6cb7d6fbe546631f4d86b9d84e9e2c42774d26f8d7e7ade7bbaf61c19",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-1220dd7d944e4103b0a36f500050ca64.7z"
-    },
-    ["windows-x86-vc14.44.35207-53ad5efada6d499aa9d7fc2606a2cb55"] = {
-        toolset = "14.44.35207",
-        sha256 = "04b6ea7e9a2608380b5234d2bc57395c4ff8a0a2055516876dbf2406bf540f99",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-53ad5efada6d499aa9d7fc2606a2cb55.7z"
+        sha256 = "37bfa651d2a1a3226154edafd46d86c376bedd1a8ba97084e741ad8ebb066712",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-1220dd7d944e4103b0a36f500050ca64.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.44.35207-b700931fe0f742bd8030150ef88e6e84"] = {
-        toolset = "14.44.35207",
-        sha256 = "f2c0b04ece31276a6e6c28e58853b7078d99e976670b8ea9fd04317d70d51c57",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-b700931fe0f742bd8030150ef88e6e84.7z"
-    },
-    ["windows-x64-vc14.50.35717-c9af27e1732e496ebfee1161a95197c3"] = {
-        toolset = "14.50.35717",
-        sha256 = "dd2727feefa9a63f80d81683c1dcdc3caa51b6688a0e67a3a4cd6b9638b24d4f",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-c9af27e1732e496ebfee1161a95197c3.7z"
-    },
-    ["windows-x64-vc14.50.35717-273ec37d46d04638a69dd61807c2286c"] = {
-        toolset = "14.50.35717",
-        sha256 = "d726034d9a8b4d027e9e1efcde5f9c6eaf7ed56a5579dfe6e2a094a69b6e086e",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-273ec37d46d04638a69dd61807c2286c.7z"
+        sha256 = "8b0b974aac290a73e14540010dde3537203552b1c5ee3fee7f4678e3815ae940",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-b700931fe0f742bd8030150ef88e6e84.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.44.35207-088b4ebf08ed43d8bd71fcde8a27cfde"] = {
-        toolset = "14.44.35207",
-        sha256 = "e2f0f15256adecfa7d33394b014a9d21cc971f95a62e0f725000b4ab9158ee5d",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-088b4ebf08ed43d8bd71fcde8a27cfde.7z"
+        sha256 = "934c983ef71f52b1690f7d0c9d0d4164fa0a010bdcf7b72d1ed26f790ea6b75e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-088b4ebf08ed43d8bd71fcde8a27cfde.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.50.35717-088b4ebf08ed43d8bd71fcde8a27cfde"] = {
-        toolset = "14.50.35717",
         sha256 = "78b5015d4533d6595b93c1d9776f4ae7419d6b2bcabb17b9777035b57fc824a2",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-088b4ebf08ed43d8bd71fcde8a27cfde.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-088b4ebf08ed43d8bd71fcde8a27cfde.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.44.35207-53ad5efada6d499aa9d7fc2606a2cb55"] = {
+        sha256 = "1a01b5c0f42b95575a6fabe96e9df9d9a9a7c5e053e7b68224f555890f77b06b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-53ad5efada6d499aa9d7fc2606a2cb55.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-d49b1c7d5ed249618617e0a60c38b288"] = {
+        sha256 = "2dd08a379cc70c708489908006363131b3cac55814ec1c2eac06ec0d0abb154a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-d49b1c7d5ed249618617e0a60c38b288.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-c9af27e1732e496ebfee1161a95197c3"] = {
+        sha256 = "10281c62ffc88b5b23d2c5fd53f22a2bdc564463f8e697f0a591e38ad0eb18e9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-c9af27e1732e496ebfee1161a95197c3.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-6b21508a9b85416daf6948cf108bb861"] = {
+        sha256 = "6c2fafb83b32847138a93e9c8402eb914bf54e1d5be230f88cbff9ff49bf5929",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.44.35207-6b21508a9b85416daf6948cf108bb861.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.50.35717-273ec37d46d04638a69dd61807c2286c"] = {
+        sha256 = "d726034d9a8b4d027e9e1efcde5f9c6eaf7ed56a5579dfe6e2a094a69b6e086e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-273ec37d46d04638a69dd61807c2286c.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.50.35717-d49b1c7d5ed249618617e0a60c38b288"] = {
+        sha256 = "b086bebec286f12ec3ebf8d387d6c31dd83766e06af656e847648c3e90fbe1c8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-d49b1c7d5ed249618617e0a60c38b288.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.51.36231-1220dd7d944e4103b0a36f500050ca64"] = {
+        sha256 = "ca8cd5dfd43781b7cd7dd40d1061be4758face359e894448744b90a305d18515",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.51.36231-1220dd7d944e4103b0a36f500050ca64.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.50.35717-53ad5efada6d499aa9d7fc2606a2cb55"] = {
+        sha256 = "25474450a076951a395fa91ff3347c8577c6243b600dff70382bc062c3665516",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-53ad5efada6d499aa9d7fc2606a2cb55.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.51.36231-273ec37d46d04638a69dd61807c2286c"] = {
+        sha256 = "68362e8ef773da8db4eb9ea4766b897fd00b26b8aed68f5492dbbe220d2342ab",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.51.36231-273ec37d46d04638a69dd61807c2286c.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.50.35717-c9af27e1732e496ebfee1161a95197c3"] = {
+        sha256 = "dd2727feefa9a63f80d81683c1dcdc3caa51b6688a0e67a3a4cd6b9638b24d4f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-c9af27e1732e496ebfee1161a95197c3.7z",
+        toolset = "14.50.35717"
     },
     ["windows-x64-vc14.50.35717-1220dd7d944e4103b0a36f500050ca64"] = {
-        toolset = "14.50.35717",
         sha256 = "926e0eb7d93455ecf03886bb89964e6b442a9607fe2deb722d8580be984cecb0",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-1220dd7d944e4103b0a36f500050ca64.7z"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.50.35717-1220dd7d944e4103b0a36f500050ca64.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.51.36231-d49b1c7d5ed249618617e0a60c38b288"] = {
+        sha256 = "8b5908741558e41d4e09d20bea1841987a179208bf6e606b8157e9ae22bfad1b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.51.36231-d49b1c7d5ed249618617e0a60c38b288.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.50.35717-6b21508a9b85416daf6948cf108bb861"] = {
+        sha256 = "5002454ef9967149484b632d577e2f75700ed2a1e98e665533415135ab60c5f8",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.50.35717-6b21508a9b85416daf6948cf108bb861.7z",
+        toolset = "14.50.35717"
+    },
+    ["windows-x64-vc14.44.35207-273ec37d46d04638a69dd61807c2286c"] = {
+        sha256 = "db1619bad20dd7cc07691b65a1347fd8412e14a0365b1481e7ee95968b259db3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.44.35207-273ec37d46d04638a69dd61807c2286c.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-088b4ebf08ed43d8bd71fcde8a27cfde"] = {
+        sha256 = "7fabeb5d737499649aeff828559a216a9d3fbc68df3f8f4f26565d43022c6e13",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.51.36231-088b4ebf08ed43d8bd71fcde8a27cfde.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-b700931fe0f742bd8030150ef88e6e84"] = {
+        sha256 = "65ea947f859b12be5b54ea0619182c72a0a16d06035bfe804518797e0fc168a1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x64-vc14.51.36231-b700931fe0f742bd8030150ef88e6e84.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-53ad5efada6d499aa9d7fc2606a2cb55"] = {
+        sha256 = "4001ba8071025172092210ab953198ababb7e0f710f97c5c73ce5cec843cfa00",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/unicorn-2.1.4/windows-x86-vc14.51.36231-53ad5efada6d499aa9d7fc2606a2cb55.7z",
+        toolset = "14.51.36231"
     }
 }
