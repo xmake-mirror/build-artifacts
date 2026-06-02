@@ -1,82 +1,122 @@
 {
-    ["windows-x64-vc14.50.35717-f50a29f2de5340268c52b50a8cd1197b"] = {
-        sha256 = "1369e97267519ff7f6d1ceaf97bfbb3cfe04a46f432ace95baabe59290496d31",
-        toolset = "14.50.35717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-f50a29f2de5340268c52b50a8cd1197b.7z"
-    },
-    ["windows-x64-vc14.50.35717-5540b223643843c684f0f532fd363be1"] = {
-        sha256 = "fc8e6f8cc627858bdff4f9171b5a46a3a8042478dd0367cedcb0927412d6da1a",
-        toolset = "14.50.35717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-5540b223643843c684f0f532fd363be1.7z"
-    },
-    ["windows-x64-vc14.44.35207-3f24a3d8a5e64d5d9de72db8932b3619"] = {
-        sha256 = "4b573aeaff7d54a55493c3befa2f4e067dfd5d893c48636b806d31a7df3efb20",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-3f24a3d8a5e64d5d9de72db8932b3619.7z"
-    },
-    ["windows-x86-vc14.50.35717-149f2d98c4b04be4908ebf77295cde4a"] = {
-        sha256 = "feef7a3fb78417d67b08f9ad7f649986b4e98ec0396bfd920b4656a9cc58a3a9",
-        toolset = "14.50.35717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.50.35717-149f2d98c4b04be4908ebf77295cde4a.7z"
-    },
-    ["windows-x64-vc14.50.35717-c1ec712ea469455492849f446297d11d"] = {
-        sha256 = "9c83be351a97fde61f037790c6dbe290fd7c12f5e2b81b3e8731b3ff4fd5f49c",
-        toolset = "14.50.35717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-c1ec712ea469455492849f446297d11d.7z"
-    },
-    ["windows-x64-vc14.44.35207-5540b223643843c684f0f532fd363be1"] = {
-        sha256 = "917ef3d8244d6dcb012b3f4df2ffe8febd16b6b6c6a8cd3df1b58f85ef095463",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-5540b223643843c684f0f532fd363be1.7z"
-    },
-    ["windows-x64-vc14.44.35207-c1ec712ea469455492849f446297d11d"] = {
-        sha256 = "388cff6be0477f542946616dc29f2ec7ee2e00a35aaeaac0e85a29875a1012d1",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-c1ec712ea469455492849f446297d11d.7z"
-    },
-    ["windows-x86-vc14.44.35207-c91c557df0644c59ab84c21173bec762"] = {
-        sha256 = "c423ec7d6ece2dc62b4568f8b3eda8bafb3afce05920c304907d999a5bd396c5",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-c91c557df0644c59ab84c21173bec762.7z"
-    },
-    ["windows-x64-vc14.44.35207-f50a29f2de5340268c52b50a8cd1197b"] = {
-        sha256 = "58eb3db2f72a791a505690ac4ebd3b6c722413d8b6697471b1947d67e858da1e",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-f50a29f2de5340268c52b50a8cd1197b.7z"
-    },
-    ["windows-x86-vc14.44.35207-8896e36e53f14fb0a5c25d4c79251904"] = {
-        sha256 = "f3fbd9d941228a58cf665470e230d079c1d5acefb825b347486a01a3782fa634",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-8896e36e53f14fb0a5c25d4c79251904.7z"
-    },
-    ["windows-x86-vc14.44.35207-149f2d98c4b04be4908ebf77295cde4a"] = {
-        sha256 = "1e56d5c6ea0a13fb4f0738a2a3af27715bd8d3d01c661231dc5f94b99572f0e4",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-149f2d98c4b04be4908ebf77295cde4a.7z"
-    },
-    ["windows-x64-vc14.50.35717-3f24a3d8a5e64d5d9de72db8932b3619"] = {
-        sha256 = "cd09a0ad105903f34866cc85f55a5871425cdb451c3298f14f460d8f385ffab7",
-        toolset = "14.50.35717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-3f24a3d8a5e64d5d9de72db8932b3619.7z"
-    },
     ["windows-x86-vc14.50.35717-c91c557df0644c59ab84c21173bec762"] = {
-        sha256 = "417a15eee6d0ebb982eb94506f1553a5a6c4fd5fb73140fa9c94735f83dfa2dd",
         toolset = "14.50.35717",
+        sha256 = "417a15eee6d0ebb982eb94506f1553a5a6c4fd5fb73140fa9c94735f83dfa2dd",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.50.35717-c91c557df0644c59ab84c21173bec762.7z"
     },
-    ["windows-x86-vc14.50.35717-8896e36e53f14fb0a5c25d4c79251904"] = {
-        sha256 = "74b0a3793a5fa3eab337c6c5bc4eab956cecba26e533f5763afea9b88e19f651",
+    ["windows-x64-vc14.50.35717-3f24a3d8a5e64d5d9de72db8932b3619"] = {
         toolset = "14.50.35717",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.50.35717-8896e36e53f14fb0a5c25d4c79251904.7z"
+        sha256 = "cd09a0ad105903f34866cc85f55a5871425cdb451c3298f14f460d8f385ffab7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-3f24a3d8a5e64d5d9de72db8932b3619.7z"
     },
-    ["windows-x86-vc14.44.35207-2df8cb47bcfd486393e12b9a899babac"] = {
-        sha256 = "a310afc098cf8bb0f22e57163d7608bdb27e7bd4eb6855f2ea84d6c80e8367f6",
+    ["windows-x64-vc14.44.35207-f50a29f2de5340268c52b50a8cd1197b"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-2df8cb47bcfd486393e12b9a899babac.7z"
+        sha256 = "1c7683e121fe64836bc83512f1a4ac6fd6b9f4880092a9d18c82748a4db8b465",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-f50a29f2de5340268c52b50a8cd1197b.7z"
+    },
+    ["windows-x64-vc14.44.35207-3f24a3d8a5e64d5d9de72db8932b3619"] = {
+        toolset = "14.44.35207",
+        sha256 = "b1190e88c675e9fb294a7e8755150f80202f0e6f24b57ade7350f502107a98c5",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-3f24a3d8a5e64d5d9de72db8932b3619.7z"
+    },
+    ["windows-x64-vc14.50.35717-5540b223643843c684f0f532fd363be1"] = {
+        toolset = "14.50.35717",
+        sha256 = "fc8e6f8cc627858bdff4f9171b5a46a3a8042478dd0367cedcb0927412d6da1a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-5540b223643843c684f0f532fd363be1.7z"
+    },
+    ["windows-x86-vc14.44.35207-c91c557df0644c59ab84c21173bec762"] = {
+        toolset = "14.44.35207",
+        sha256 = "e66b7325f0c73b3b5bdaadba4cde48e357d2bea7576fe27dbbd1600e950577dc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-c91c557df0644c59ab84c21173bec762.7z"
+    },
+    ["windows-x64-vc14.44.35207-5540b223643843c684f0f532fd363be1"] = {
+        toolset = "14.44.35207",
+        sha256 = "d62325255d3f846d68c289b738adf8c1926594d0c1dc6a9a5d54d459af088fc2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-5540b223643843c684f0f532fd363be1.7z"
+    },
+    ["windows-x86-vc14.51.36231-149f2d98c4b04be4908ebf77295cde4a"] = {
+        toolset = "14.51.36231",
+        sha256 = "e646b694f62efd78b309b2920bbb40300cc0051726e72b20259c1ab18c73ec3d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.51.36231-149f2d98c4b04be4908ebf77295cde4a.7z"
+    },
+    ["windows-x64-vc14.44.35207-c1ec712ea469455492849f446297d11d"] = {
+        toolset = "14.44.35207",
+        sha256 = "25e941360f06899dbe83b8d5db9384b2ea222d75ea41bf03916b81362aade80a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.44.35207-c1ec712ea469455492849f446297d11d.7z"
+    },
+    ["windows-x64-vc14.50.35717-c1ec712ea469455492849f446297d11d"] = {
+        toolset = "14.50.35717",
+        sha256 = "9c83be351a97fde61f037790c6dbe290fd7c12f5e2b81b3e8731b3ff4fd5f49c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-c1ec712ea469455492849f446297d11d.7z"
     },
     ["windows-x86-vc14.50.35717-2df8cb47bcfd486393e12b9a899babac"] = {
-        sha256 = "1bff01d73291cb3f85d5f3b62f65bfde94d7eb905af86d7e4da75b2449c08dab",
         toolset = "14.50.35717",
+        sha256 = "1bff01d73291cb3f85d5f3b62f65bfde94d7eb905af86d7e4da75b2449c08dab",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.50.35717-2df8cb47bcfd486393e12b9a899babac.7z"
+    },
+    ["windows-x86-vc14.44.35207-149f2d98c4b04be4908ebf77295cde4a"] = {
+        toolset = "14.44.35207",
+        sha256 = "68884d801d97894cc6dc859e62e6d61367eee4d5f7a56fc760b68ea51e8caa49",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-149f2d98c4b04be4908ebf77295cde4a.7z"
+    },
+    ["windows-x64-vc14.51.36231-5540b223643843c684f0f532fd363be1"] = {
+        toolset = "14.51.36231",
+        sha256 = "2cf340f205da8dbcf3538448cb2044fe9ec85e2f5a569d646ec542cd8be9a0fd",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.51.36231-5540b223643843c684f0f532fd363be1.7z"
+    },
+    ["windows-x86-vc14.44.35207-2df8cb47bcfd486393e12b9a899babac"] = {
+        toolset = "14.44.35207",
+        sha256 = "cffa05c4efc4503baa4842ccc6fe83b3de34cfc899365ca6d8ed052b6a46a547",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-2df8cb47bcfd486393e12b9a899babac.7z"
+    },
+    ["windows-x86-vc14.51.36231-c91c557df0644c59ab84c21173bec762"] = {
+        toolset = "14.51.36231",
+        sha256 = "baffeffccf2a26c958d4f30b96bc9feeaf007675b4463dce1fb10045f5c87ea7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.51.36231-c91c557df0644c59ab84c21173bec762.7z"
+    },
+    ["windows-x64-vc14.51.36231-f50a29f2de5340268c52b50a8cd1197b"] = {
+        toolset = "14.51.36231",
+        sha256 = "d144161b8037cdbd82d949689a343278ca354e139070f3b57fdd208164370b7f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.51.36231-f50a29f2de5340268c52b50a8cd1197b.7z"
+    },
+    ["windows-x86-vc14.51.36231-2df8cb47bcfd486393e12b9a899babac"] = {
+        toolset = "14.51.36231",
+        sha256 = "012d87bb500c89195467c8092b7a7646c09ec8831f1bb8309ccbe1cc4679921f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.51.36231-2df8cb47bcfd486393e12b9a899babac.7z"
+    },
+    ["windows-x86-vc14.44.35207-8896e36e53f14fb0a5c25d4c79251904"] = {
+        toolset = "14.44.35207",
+        sha256 = "b9d5da2abfe5904674574276e3ea8460a68cdf2385b2ecba82a21a1b746e9420",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.44.35207-8896e36e53f14fb0a5c25d4c79251904.7z"
+    },
+    ["windows-x86-vc14.50.35717-149f2d98c4b04be4908ebf77295cde4a"] = {
+        toolset = "14.50.35717",
+        sha256 = "feef7a3fb78417d67b08f9ad7f649986b4e98ec0396bfd920b4656a9cc58a3a9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.50.35717-149f2d98c4b04be4908ebf77295cde4a.7z"
+    },
+    ["windows-x86-vc14.51.36231-8896e36e53f14fb0a5c25d4c79251904"] = {
+        toolset = "14.51.36231",
+        sha256 = "a4a821674a01adcf239954f1b20133a27b60008445f00bd646ab74e766292024",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.51.36231-8896e36e53f14fb0a5c25d4c79251904.7z"
+    },
+    ["windows-x64-vc14.50.35717-f50a29f2de5340268c52b50a8cd1197b"] = {
+        toolset = "14.50.35717",
+        sha256 = "1369e97267519ff7f6d1ceaf97bfbb3cfe04a46f432ace95baabe59290496d31",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.50.35717-f50a29f2de5340268c52b50a8cd1197b.7z"
+    },
+    ["windows-x86-vc14.50.35717-8896e36e53f14fb0a5c25d4c79251904"] = {
+        toolset = "14.50.35717",
+        sha256 = "74b0a3793a5fa3eab337c6c5bc4eab956cecba26e533f5763afea9b88e19f651",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x86-vc14.50.35717-8896e36e53f14fb0a5c25d4c79251904.7z"
+    },
+    ["windows-x64-vc14.51.36231-c1ec712ea469455492849f446297d11d"] = {
+        toolset = "14.51.36231",
+        sha256 = "380191f9c57f614164cc2cde8c8214f8e8dbd31c2fdf1adb3461724a7d790a02",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.51.36231-c1ec712ea469455492849f446297d11d.7z"
+    },
+    ["windows-x64-vc14.51.36231-3f24a3d8a5e64d5d9de72db8932b3619"] = {
+        toolset = "14.51.36231",
+        sha256 = "0d46286ac56f0173f6fe184e69e93f37407cfb630fce7e51d53e90166a34a6d2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libvips-v8.18.2/windows-x64-vc14.51.36231-3f24a3d8a5e64d5d9de72db8932b3619.7z"
     }
 }
