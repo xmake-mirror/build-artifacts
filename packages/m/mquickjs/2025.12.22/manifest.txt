@@ -1,82 +1,122 @@
 {
-    ["windows-x86-vc14.44.35207-3c7f2ad8ff6d4cf09a00c0da353cf0a2"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-3c7f2ad8ff6d4cf09a00c0da353cf0a2.7z",
-        sha256 = "51ca2e624f60290950611bd19ab6706aadc04d11bbd201afade432b738485c9b"
-    },
-    ["windows-x64-vc14.44.35207-5ed0d639ad994432b3ba3d4e4d7e93e7"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-5ed0d639ad994432b3ba3d4e4d7e93e7.7z",
-        sha256 = "3ae3096812e0df1a6f768f878f3675fc405deee6533e572718de91ad749af131"
-    },
-    ["windows-x64-vc14.44.35207-36baebb3f6c14d908f87676ebcb48750"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-36baebb3f6c14d908f87676ebcb48750.7z",
-        sha256 = "e775fc10a585a9151ce269b886d45ec0a5cf3f5a457fe7e177305b2aec0eb07c"
-    },
-    ["windows-x86-vc14.44.35207-a410ac22d9aa4f0487c3fbbf947ba5b3"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-a410ac22d9aa4f0487c3fbbf947ba5b3.7z",
-        sha256 = "e6d06568e424c2dac9b38c3eb60a2f8edc254de6550aa9c6a713b7145cc6d104"
+    ["windows-x86-vc14.51.36231-dc28dea502304ca18cbbc70c5e22ed5c"] = {
+        sha256 = "03f1960235ae5f81f297e34f0bd0dbead6b658833d7d25a33d5193c3d43e5248",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.51.36231-dc28dea502304ca18cbbc70c5e22ed5c.7z"
     },
     ["windows-x86-vc14.44.35207-9720941cd2a8464bbcc8e5c4091d8e4d"] = {
+        sha256 = "434b75ea9f7d8327370b31ed0ee4fc27fe0ebc3476084711953ddd9a58c197d2",
         toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-9720941cd2a8464bbcc8e5c4091d8e4d.7z",
-        sha256 = "434b75ea9f7d8327370b31ed0ee4fc27fe0ebc3476084711953ddd9a58c197d2"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-9720941cd2a8464bbcc8e5c4091d8e4d.7z"
     },
-    ["windows-x64-vc14.44.35207-40a8ad4943134e8bbc6eb2f37f475b22"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-40a8ad4943134e8bbc6eb2f37f475b22.7z",
-        sha256 = "5a8349f75456059bfa208399d9a6e20a45394f45b8100d36f4a2e0bd805917d3"
-    },
-    ["windows-x64-vc14.44.35207-883525814835456195cd91b2136d60a1"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-883525814835456195cd91b2136d60a1.7z",
-        sha256 = "781c58dde034887b84e8bcd7d82238cbfbb119c206e3f8bbc94a47c27e3c407d"
-    },
-    ["windows-x86-vc14.44.35207-26c117f577054812bd7fee0d69769d66"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-26c117f577054812bd7fee0d69769d66.7z",
-        sha256 = "ffd5fbdb50ef479bcf69d552a12aa672691821428cfbc3211355ab9bc90cd534"
-    },
-    ["windows-x86-vc14.44.35207-4cdad870142b4484901204422d70cfbf"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-4cdad870142b4484901204422d70cfbf.7z",
-        sha256 = "496d6da2f87138316403fa41a13e8977dab25d35238af7564879c8e3722483d0"
-    },
-    ["windows-x64-vc14.44.35207-4ad95858869542ba881bff51ddb7fbc0"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-4ad95858869542ba881bff51ddb7fbc0.7z",
-        sha256 = "533736cefd8e99f46e601a1bfe55f58a3d2609d061b0300e563e2bb32c369b31"
-    },
-    ["windows-x64-vc14.44.35207-6417fe53ac674326b3eee549aa33bc5e"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-6417fe53ac674326b3eee549aa33bc5e.7z",
-        sha256 = "0cecb3e29c934874445cc4f305cb4f08063db4a0b82a6d46e0bae8e78707e1a1"
-    },
-    ["windows-x86-vc14.44.35207-dc28dea502304ca18cbbc70c5e22ed5c"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-dc28dea502304ca18cbbc70c5e22ed5c.7z",
-        sha256 = "14f3eebf033d6ab00305b3d41fbac9110729c9b809682ff6ca482f28a15883c9"
-    },
-    ["windows-x86-vc14.44.35207-6385df8197f846c994906f92059e00f7"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-6385df8197f846c994906f92059e00f7.7z",
-        sha256 = "b4e8194f7175102f5e6a019d3c7202f96fd7123d0bc1cd7be127965bbc9c7d5d"
-    },
-    ["windows-x64-vc14.44.35207-5d5dbb58c2824264a23eb31304f0e1be"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-5d5dbb58c2824264a23eb31304f0e1be.7z",
-        sha256 = "d787912b57be4f30b80ed29b5767bd092125440fc65a5b446d6485b17e325e4f"
+    ["windows-x86-vc14.51.36231-4cdad870142b4484901204422d70cfbf"] = {
+        sha256 = "c6fcaaa9297676b41d5e4c9351088e546b832fd33df6a095e502a75259dcacbc",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.51.36231-4cdad870142b4484901204422d70cfbf.7z"
     },
     ["windows-x64-vc14.44.35207-d16b7113c2db45e99b5e8c4715ee9547"] = {
+        sha256 = "c7c9c68efeed0b5bd5584190212eea59dabe448c4b1173b0f957cc10f674afb0",
         toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-d16b7113c2db45e99b5e8c4715ee9547.7z",
-        sha256 = "c7c9c68efeed0b5bd5584190212eea59dabe448c4b1173b0f957cc10f674afb0"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-d16b7113c2db45e99b5e8c4715ee9547.7z"
+    },
+    ["windows-x64-vc14.44.35207-5d5dbb58c2824264a23eb31304f0e1be"] = {
+        sha256 = "b0fe182030684efbf1f2bd897f532136eb2dcb57ba60febfd43d541e2d824463",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-5d5dbb58c2824264a23eb31304f0e1be.7z"
+    },
+    ["windows-x86-vc14.44.35207-26c117f577054812bd7fee0d69769d66"] = {
+        sha256 = "ffd5fbdb50ef479bcf69d552a12aa672691821428cfbc3211355ab9bc90cd534",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-26c117f577054812bd7fee0d69769d66.7z"
+    },
+    ["windows-x64-vc14.44.35207-6417fe53ac674326b3eee549aa33bc5e"] = {
+        sha256 = "5ddf7f295b48b20d61a3bffcb0b2f5c0584356183051bb6c021f9a1f4d331344",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-6417fe53ac674326b3eee549aa33bc5e.7z"
+    },
+    ["windows-x86-vc14.51.36231-423fa7e523e547b49f475afa68ae27ed"] = {
+        sha256 = "ab193392c5ec10717d623d29807c3d4a491d0b826cb3279325a85bda0427a5d2",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.51.36231-423fa7e523e547b49f475afa68ae27ed.7z"
+    },
+    ["windows-x64-vc14.44.35207-36baebb3f6c14d908f87676ebcb48750"] = {
+        sha256 = "e775fc10a585a9151ce269b886d45ec0a5cf3f5a457fe7e177305b2aec0eb07c",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-36baebb3f6c14d908f87676ebcb48750.7z"
+    },
+    ["windows-x86-vc14.44.35207-dc28dea502304ca18cbbc70c5e22ed5c"] = {
+        sha256 = "4bd161b8563a26db124fa7625f244c7acb1b03b4127bb4e4c8320466d33c5bc4",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-dc28dea502304ca18cbbc70c5e22ed5c.7z"
+    },
+    ["windows-x64-vc14.44.35207-5ed0d639ad994432b3ba3d4e4d7e93e7"] = {
+        sha256 = "3ae3096812e0df1a6f768f878f3675fc405deee6533e572718de91ad749af131",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-5ed0d639ad994432b3ba3d4e4d7e93e7.7z"
+    },
+    ["windows-x64-vc14.44.35207-4ad95858869542ba881bff51ddb7fbc0"] = {
+        sha256 = "17ce902409771e94516da4667ffcb40272eda28557459b7b11cc267f6e88ce71",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-4ad95858869542ba881bff51ddb7fbc0.7z"
+    },
+    ["windows-x86-vc14.44.35207-3c7f2ad8ff6d4cf09a00c0da353cf0a2"] = {
+        sha256 = "51ca2e624f60290950611bd19ab6706aadc04d11bbd201afade432b738485c9b",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-3c7f2ad8ff6d4cf09a00c0da353cf0a2.7z"
     },
     ["windows-x86-vc14.44.35207-423fa7e523e547b49f475afa68ae27ed"] = {
+        sha256 = "369f6050c804f1a5df2a8e9aa2048856ad0524a1bc762fca1a894ffccc160b0c",
         toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-423fa7e523e547b49f475afa68ae27ed.7z",
-        sha256 = "c38a88b6132833a6a1821bdce9e8836afdbe37886dbd2fb88bc707b36b61daa6"
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-423fa7e523e547b49f475afa68ae27ed.7z"
+    },
+    ["windows-x86-vc14.44.35207-6385df8197f846c994906f92059e00f7"] = {
+        sha256 = "c184a32374a9319469cac2057ff233998fe7aba245402af87cf3825834890b24",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-6385df8197f846c994906f92059e00f7.7z"
+    },
+    ["windows-x86-vc14.44.35207-4cdad870142b4484901204422d70cfbf"] = {
+        sha256 = "2beecca82eb876917f0d129a1a0f1efe2b322e516621648760573079949cf028",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-4cdad870142b4484901204422d70cfbf.7z"
+    },
+    ["windows-x86-vc14.44.35207-a410ac22d9aa4f0487c3fbbf947ba5b3"] = {
+        sha256 = "e6d06568e424c2dac9b38c3eb60a2f8edc254de6550aa9c6a713b7145cc6d104",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.44.35207-a410ac22d9aa4f0487c3fbbf947ba5b3.7z"
+    },
+    ["windows-x64-vc14.51.36231-6417fe53ac674326b3eee549aa33bc5e"] = {
+        sha256 = "69fa999017dbc76eb69e53dbaf52b1f483bc4149a922abeb2ae7a7b3a16395dd",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.51.36231-6417fe53ac674326b3eee549aa33bc5e.7z"
+    },
+    ["windows-x64-vc14.51.36231-40a8ad4943134e8bbc6eb2f37f475b22"] = {
+        sha256 = "d6ed075a24aa70704440e9536f170bc15e820ab44255a9548f7a3884124beeca",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.51.36231-40a8ad4943134e8bbc6eb2f37f475b22.7z"
+    },
+    ["windows-x64-vc14.51.36231-4ad95858869542ba881bff51ddb7fbc0"] = {
+        sha256 = "53c630e44a89ebf1edbd3a9c5864d5a1ca516eafbd7bf51975f83bbccc49801e",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.51.36231-4ad95858869542ba881bff51ddb7fbc0.7z"
+    },
+    ["windows-x64-vc14.44.35207-40a8ad4943134e8bbc6eb2f37f475b22"] = {
+        sha256 = "410abb200f9a78bfe20aef454864a6c17504cd340ee11c37ce57101a2061f980",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-40a8ad4943134e8bbc6eb2f37f475b22.7z"
+    },
+    ["windows-x86-vc14.51.36231-6385df8197f846c994906f92059e00f7"] = {
+        sha256 = "bd47bde936ac88a53c277539b03607bd685439c2b87a789db001d20c0494de78",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x86-vc14.51.36231-6385df8197f846c994906f92059e00f7.7z"
+    },
+    ["windows-x64-vc14.51.36231-5d5dbb58c2824264a23eb31304f0e1be"] = {
+        sha256 = "c654ff8dba5325725a77779c087d6ffc90a976c203397cc6f77f8a01f8ae7968",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.51.36231-5d5dbb58c2824264a23eb31304f0e1be.7z"
+    },
+    ["windows-x64-vc14.44.35207-883525814835456195cd91b2136d60a1"] = {
+        sha256 = "781c58dde034887b84e8bcd7d82238cbfbb119c206e3f8bbc94a47c27e3c407d",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/mquickjs-2025.12.22/windows-x64-vc14.44.35207-883525814835456195cd91b2136d60a1.7z"
     }
 }
