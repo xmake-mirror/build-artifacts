@@ -1,162 +1,202 @@
 {
-    ["windows-x86-vc14.29.30133-ec3527d0f11c4f76b09ad9ee7693e729"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-ec3527d0f11c4f76b09ad9ee7693e729.7z",
-        sha256 = "8b8138e55f14fbc7df8acac56ca2eb265de1c3c6f92ffc8076eea4bbf2784c05",
-        toolset = "14.29.30133"
+    ["windows-x86-vc14.37.32822-5d4a56ecffa849b4b25b765e855c2406"] = {
+        sha256 = "9afcc5f7b006338d371a5990ea309d14cab07f4e312ceaf06df6005cc3442e80",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-5d4a56ecffa849b4b25b765e855c2406.7z"
     },
     ["windows-x64-vc14.37.32822-60d7bedb69534af0a72c89165d355882"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-60d7bedb69534af0a72c89165d355882.7z",
         sha256 = "8f6d63fbb6cb7f6e962c7f835d914bb53194cb7528d4d056670f1e54a92a49df",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-60d7bedb69534af0a72c89165d355882.7z"
     },
-    ["windows-x64-vc14.29.30133-60d7bedb69534af0a72c89165d355882"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-60d7bedb69534af0a72c89165d355882.7z",
-        sha256 = "28e7d76ec47e33a71bb57b94a4e5ba923ae7730cd9c656f0cee9b3f3140c1628",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.44.35207-ce1a7fb0f62c40219dd02ced5f05f263"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-ce1a7fb0f62c40219dd02ced5f05f263.7z",
-        sha256 = "bc76b7b4d15abefa31b5592005c86ab615c641f0d2f0293b311097f62b742924",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-7f4fb3cf1ea5440489383050e3dfece5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-7f4fb3cf1ea5440489383050e3dfece5.7z",
-        sha256 = "bef22cf8888d1cd7d3bb4a492409f7a0925f61e0f65fd9786afdfe032f91f608",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.29.30133-497deb850fd04412a5495e6ba7607ece"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-497deb850fd04412a5495e6ba7607ece.7z",
-        sha256 = "7286e016f4af36c7eb86eec394ccc4f1186d8f9c328578055e5d96d1693aff10",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-c3df5f3c732c4b1bb2f2208c1e0bf0b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-c3df5f3c732c4b1bb2f2208c1e0bf0b3.7z",
-        sha256 = "ae23694f968cd28d091906052585c9972cec3b70905eee6998737d73aaa51842",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.43.34808-7f4fb3cf1ea5440489383050e3dfece5"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-7f4fb3cf1ea5440489383050e3dfece5.7z",
-        sha256 = "6f04a05182b2df6522a38313087c8c8d805db39be6915a41afaa6729d9f017d1",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.43.34808-23ef774156b94efc80b9aecf153b9e5c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-23ef774156b94efc80b9aecf153b9e5c.7z",
-        sha256 = "46892e6cfe48719a56f8782303339af064ab9b91b007843b552f2885999e7184",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.37.32822-497deb850fd04412a5495e6ba7607ece"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-497deb850fd04412a5495e6ba7607ece.7z",
-        sha256 = "f057ead8b4dcd023f79b2a46a9f3bfe63a1966f901c33a90e955be853049f4d5",
-        toolset = "14.37.32822"
-    },
-    ["windows-x64-vc14.37.32822-32422040023d49d18d94559969e8c9b2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-32422040023d49d18d94559969e8c9b2.7z",
-        sha256 = "28cb9cd94af5e456e95c12cc0cda302e38ec914a993d909f226069f0ab2a8802",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.37.32822-db6cea29d00f48ccab0ee8dc11f241dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-db6cea29d00f48ccab0ee8dc11f241dc.7z",
-        sha256 = "7e46b2d87c6211a198572d2aff354d923d0c5face61883294c7ef4cc84d5a82f",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.51.36231-d69e99b4b2d542358a76bb53969dd527"] = {
+        sha256 = "2735d88988525a9624f353c9ae676cf1747dfc6d7d224b534392bdf1af70216b",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.51.36231-d69e99b4b2d542358a76bb53969dd527.7z"
     },
     ["windows-x86-vc14.43.34808-f9167cf08fa24ec58a48f347f5c84ebb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-f9167cf08fa24ec58a48f347f5c84ebb.7z",
         sha256 = "a2fca072d9918fa9fb5d46624f779390fa0d09b61258e31f5cebdc3a4695e464",
-        toolset = "14.43.34808"
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-f9167cf08fa24ec58a48f347f5c84ebb.7z"
     },
-    ["windows-x86-vc14.37.32822-84078526524047ccacd4d0c1b353953c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-84078526524047ccacd4d0c1b353953c.7z",
-        sha256 = "ad350c6c2d89b327a3daa3f212623794a5e735f03890709f7be13443a2f2d4ce",
-        toolset = "14.37.32822"
+    ["windows-x64-vc14.44.35207-7f4fb3cf1ea5440489383050e3dfece5"] = {
+        sha256 = "88eb1482ea879458f953f403e2af4fd86a6b86428129fc56c8fb86abe46543d3",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-7f4fb3cf1ea5440489383050e3dfece5.7z"
+    },
+    ["windows-x64-vc14.37.32822-497deb850fd04412a5495e6ba7607ece"] = {
+        sha256 = "f057ead8b4dcd023f79b2a46a9f3bfe63a1966f901c33a90e955be853049f4d5",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-497deb850fd04412a5495e6ba7607ece.7z"
     },
     ["windows-x64-vc14.43.34808-d69e99b4b2d542358a76bb53969dd527"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-d69e99b4b2d542358a76bb53969dd527.7z",
         sha256 = "9d2098aa244fccd7997971bfd66e87bb2b6af1e67d25ab34ab0aa93d8f98114a",
-        toolset = "14.43.34808"
-    },
-    ["windows-x86-vc14.29.30133-5d4a56ecffa849b4b25b765e855c2406"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-5d4a56ecffa849b4b25b765e855c2406.7z",
-        sha256 = "267a44119eee29c97e167f7469a4a55d2f1558ad8b52a43d3c47fe78f4ba2124",
-        toolset = "14.29.30133"
-    },
-    ["windows-x86-vc14.37.32822-5d4a56ecffa849b4b25b765e855c2406"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-5d4a56ecffa849b4b25b765e855c2406.7z",
-        sha256 = "9afcc5f7b006338d371a5990ea309d14cab07f4e312ceaf06df6005cc3442e80",
-        toolset = "14.37.32822"
-    },
-    ["windows-x86-vc14.43.34808-ce1a7fb0f62c40219dd02ced5f05f263"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-ce1a7fb0f62c40219dd02ced5f05f263.7z",
-        sha256 = "1c4cc41ba98449b8b7685b4a36129f7c8dd1112f13f61ab60fec0088dc0056ef",
-        toolset = "14.43.34808"
-    },
-    ["windows-x64-vc14.44.35207-d69e99b4b2d542358a76bb53969dd527"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-d69e99b4b2d542358a76bb53969dd527.7z",
-        sha256 = "1ad35097165c8a57d7a8e88ae4d12f5f650ce5bd9303b43236d29a43d9f75bfc",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.43.34808-e7e349ff3e884ffa9eea6485f092b46d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-e7e349ff3e884ffa9eea6485f092b46d.7z",
-        sha256 = "3fac12f0733077028f2da5d08f7901d72985ef6378dfcead087d74fb15a3fb50",
-        toolset = "14.43.34808"
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-d69e99b4b2d542358a76bb53969dd527.7z"
     },
     ["windows-x86-vc14.37.32822-ec3527d0f11c4f76b09ad9ee7693e729"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-ec3527d0f11c4f76b09ad9ee7693e729.7z",
         sha256 = "91304d6c92ed9aa2f5de9451e5fc700dc4eaa63a2e0295b5d39b7278eba7802b",
-        toolset = "14.37.32822"
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-ec3527d0f11c4f76b09ad9ee7693e729.7z"
     },
-    ["windows-x64-vc14.37.32822-c3df5f3c732c4b1bb2f2208c1e0bf0b3"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-c3df5f3c732c4b1bb2f2208c1e0bf0b3.7z",
-        sha256 = "fcaebfa58ab900336a3a6d097bddd582262e837672a738eaf6ab06c0f68f7e31",
-        toolset = "14.37.32822"
+    ["windows-x86-vc14.44.35207-ce1a7fb0f62c40219dd02ced5f05f263"] = {
+        sha256 = "30ae8757a517603b2f7037efbb95584fdfcce499a79d687bd52d5cabac3d59c8",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-ce1a7fb0f62c40219dd02ced5f05f263.7z"
     },
-    ["windows-x86-vc14.44.35207-7ab8055d2b1b4b069dc31e3847d89cfc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-7ab8055d2b1b4b069dc31e3847d89cfc.7z",
-        sha256 = "4ccd329b0ce365e8b0f62f81e362ed6ed1387aae1fa7875b07b1fef838dce00a",
-        toolset = "14.44.35207"
+    ["windows-x86-vc14.51.36231-e7e349ff3e884ffa9eea6485f092b46d"] = {
+        sha256 = "b7d370270decf20b627783afd5cd9ee6106fd5549ffb642a69560885367fe224",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.51.36231-e7e349ff3e884ffa9eea6485f092b46d.7z"
+    },
+    ["windows-x64-vc14.37.32822-32422040023d49d18d94559969e8c9b2"] = {
+        sha256 = "28cb9cd94af5e456e95c12cc0cda302e38ec914a993d909f226069f0ab2a8802",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-32422040023d49d18d94559969e8c9b2.7z"
     },
     ["windows-x86-vc14.44.35207-e7e349ff3e884ffa9eea6485f092b46d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-e7e349ff3e884ffa9eea6485f092b46d.7z",
-        sha256 = "9e8e6ddb727729df14baaed27dd1ac23bae48a2bb103c37f7db238902f4c740f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.29.30133-84078526524047ccacd4d0c1b353953c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-84078526524047ccacd4d0c1b353953c.7z",
-        sha256 = "f5a7c4d6763914794d8ebc5ef87f07295ce23e2f66efdcf804fddfcb6e3d3382",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.44.35207-23ef774156b94efc80b9aecf153b9e5c"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-23ef774156b94efc80b9aecf153b9e5c.7z",
-        sha256 = "7665b5d95b78ff7c1cae674c12c00b3294e9d7d1e9622dd1b228d890d962498c",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-f9167cf08fa24ec58a48f347f5c84ebb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-f9167cf08fa24ec58a48f347f5c84ebb.7z",
-        sha256 = "fa05fba88fff4ec2c5433ccae2aaafad6c69cbc6053369ede384ff981c5ade8d",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.29.30133-db6cea29d00f48ccab0ee8dc11f241dc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-db6cea29d00f48ccab0ee8dc11f241dc.7z",
-        sha256 = "c36ea0892101e006d33cd68def7501066fb2f0b9841ad00629f9c3a71e1b34d4",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.29.30133-32422040023d49d18d94559969e8c9b2"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-32422040023d49d18d94559969e8c9b2.7z",
-        sha256 = "058500cdebca4ab4813078c01270d7bac1340ffc5e5ac8af8c0a1258521d7763",
-        toolset = "14.29.30133"
-    },
-    ["windows-x64-vc14.44.35207-88e0522a0ea24528a8ae78a4698d7fe8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-88e0522a0ea24528a8ae78a4698d7fe8.7z",
-        sha256 = "4116db429e356b5d5feeae6a9ff3c8836f04a8db87cff737722d5a7545fe956a",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.43.34808-7ab8055d2b1b4b069dc31e3847d89cfc"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-7ab8055d2b1b4b069dc31e3847d89cfc.7z",
-        sha256 = "d4a490e5e04dba1ac8c35a8a408414b2f397ee534c3f9fe6769246e9dd2f1ed2",
-        toolset = "14.43.34808"
+        sha256 = "4175253335d13a1b7314fc424a2ac03b28d92b0a8fd8c63eb21cd61f1d032141",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-e7e349ff3e884ffa9eea6485f092b46d.7z"
     },
     ["windows-x64-vc14.43.34808-88e0522a0ea24528a8ae78a4698d7fe8"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-88e0522a0ea24528a8ae78a4698d7fe8.7z",
         sha256 = "f83e1ba73ca56cbbae4186dc00c784177131ec1646769b3c1dec2821baa8f0ee",
-        toolset = "14.43.34808"
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-88e0522a0ea24528a8ae78a4698d7fe8.7z"
+    },
+    ["windows-x86-vc14.29.30133-db6cea29d00f48ccab0ee8dc11f241dc"] = {
+        sha256 = "c36ea0892101e006d33cd68def7501066fb2f0b9841ad00629f9c3a71e1b34d4",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-db6cea29d00f48ccab0ee8dc11f241dc.7z"
+    },
+    ["windows-x86-vc14.51.36231-ce1a7fb0f62c40219dd02ced5f05f263"] = {
+        sha256 = "d6afbc4636a9a73edbe1489398dc2a241abba7852caa3a9086e960e50ef7408e",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.51.36231-ce1a7fb0f62c40219dd02ced5f05f263.7z"
+    },
+    ["windows-x64-vc14.44.35207-88e0522a0ea24528a8ae78a4698d7fe8"] = {
+        sha256 = "71607db32b672812ed97b45bf3c530e49fb3e51665219b8a09cc1860c80a7597",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-88e0522a0ea24528a8ae78a4698d7fe8.7z"
+    },
+    ["windows-x86-vc14.51.36231-f9167cf08fa24ec58a48f347f5c84ebb"] = {
+        sha256 = "1c68a3f17fddc90df254c72a6f4fc25440d078703f8ee9c8e973e9c0946a311c",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.51.36231-f9167cf08fa24ec58a48f347f5c84ebb.7z"
+    },
+    ["windows-x86-vc14.43.34808-7ab8055d2b1b4b069dc31e3847d89cfc"] = {
+        sha256 = "d4a490e5e04dba1ac8c35a8a408414b2f397ee534c3f9fe6769246e9dd2f1ed2",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-7ab8055d2b1b4b069dc31e3847d89cfc.7z"
+    },
+    ["windows-x86-vc14.29.30133-ec3527d0f11c4f76b09ad9ee7693e729"] = {
+        sha256 = "8b8138e55f14fbc7df8acac56ca2eb265de1c3c6f92ffc8076eea4bbf2784c05",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-ec3527d0f11c4f76b09ad9ee7693e729.7z"
+    },
+    ["windows-x86-vc14.37.32822-db6cea29d00f48ccab0ee8dc11f241dc"] = {
+        sha256 = "7e46b2d87c6211a198572d2aff354d923d0c5face61883294c7ef4cc84d5a82f",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-db6cea29d00f48ccab0ee8dc11f241dc.7z"
+    },
+    ["windows-x86-vc14.51.36231-7ab8055d2b1b4b069dc31e3847d89cfc"] = {
+        sha256 = "8501592bcba509cc6022b23487f138271761413d307a897ba63d4ae51bcab631",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.51.36231-7ab8055d2b1b4b069dc31e3847d89cfc.7z"
+    },
+    ["windows-x86-vc14.43.34808-ce1a7fb0f62c40219dd02ced5f05f263"] = {
+        sha256 = "1c4cc41ba98449b8b7685b4a36129f7c8dd1112f13f61ab60fec0088dc0056ef",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-ce1a7fb0f62c40219dd02ced5f05f263.7z"
+    },
+    ["windows-x64-vc14.37.32822-c3df5f3c732c4b1bb2f2208c1e0bf0b3"] = {
+        sha256 = "fcaebfa58ab900336a3a6d097bddd582262e837672a738eaf6ab06c0f68f7e31",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.37.32822-c3df5f3c732c4b1bb2f2208c1e0bf0b3.7z"
+    },
+    ["windows-x86-vc14.43.34808-e7e349ff3e884ffa9eea6485f092b46d"] = {
+        sha256 = "3fac12f0733077028f2da5d08f7901d72985ef6378dfcead087d74fb15a3fb50",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.43.34808-e7e349ff3e884ffa9eea6485f092b46d.7z"
+    },
+    ["windows-x86-vc14.29.30133-84078526524047ccacd4d0c1b353953c"] = {
+        sha256 = "f5a7c4d6763914794d8ebc5ef87f07295ce23e2f66efdcf804fddfcb6e3d3382",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-84078526524047ccacd4d0c1b353953c.7z"
+    },
+    ["windows-x64-vc14.51.36231-88e0522a0ea24528a8ae78a4698d7fe8"] = {
+        sha256 = "b414429ab1cc8ecf1cac8fbfe543147c0f89240892886b59d5f6d0ceefdda84b",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.51.36231-88e0522a0ea24528a8ae78a4698d7fe8.7z"
+    },
+    ["windows-x64-vc14.43.34808-7f4fb3cf1ea5440489383050e3dfece5"] = {
+        sha256 = "6f04a05182b2df6522a38313087c8c8d805db39be6915a41afaa6729d9f017d1",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-7f4fb3cf1ea5440489383050e3dfece5.7z"
+    },
+    ["windows-x64-vc14.43.34808-23ef774156b94efc80b9aecf153b9e5c"] = {
+        sha256 = "46892e6cfe48719a56f8782303339af064ab9b91b007843b552f2885999e7184",
+        toolset = "14.43.34808",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.43.34808-23ef774156b94efc80b9aecf153b9e5c.7z"
+    },
+    ["windows-x86-vc14.29.30133-5d4a56ecffa849b4b25b765e855c2406"] = {
+        sha256 = "267a44119eee29c97e167f7469a4a55d2f1558ad8b52a43d3c47fe78f4ba2124",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.29.30133-5d4a56ecffa849b4b25b765e855c2406.7z"
+    },
+    ["windows-x64-vc14.44.35207-d69e99b4b2d542358a76bb53969dd527"] = {
+        sha256 = "481f8101c069b4c895aa964ad505949dc6da9a3a78903a10a001b5538549278a",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-d69e99b4b2d542358a76bb53969dd527.7z"
+    },
+    ["windows-x86-vc14.44.35207-7ab8055d2b1b4b069dc31e3847d89cfc"] = {
+        sha256 = "3e291fcf36d1dbcdd1f6a2bf7ba236712136971b9724a2400d2ef72a3c07afe2",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-7ab8055d2b1b4b069dc31e3847d89cfc.7z"
+    },
+    ["windows-x64-vc14.29.30133-497deb850fd04412a5495e6ba7607ece"] = {
+        sha256 = "7286e016f4af36c7eb86eec394ccc4f1186d8f9c328578055e5d96d1693aff10",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-497deb850fd04412a5495e6ba7607ece.7z"
+    },
+    ["windows-x64-vc14.51.36231-7f4fb3cf1ea5440489383050e3dfece5"] = {
+        sha256 = "429290f2e42e9bd58a9c7e7cea1bb8bdb2825ed445eda54dab211014ae02ab1a",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.51.36231-7f4fb3cf1ea5440489383050e3dfece5.7z"
+    },
+    ["windows-x64-vc14.29.30133-60d7bedb69534af0a72c89165d355882"] = {
+        sha256 = "28e7d76ec47e33a71bb57b94a4e5ba923ae7730cd9c656f0cee9b3f3140c1628",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-60d7bedb69534af0a72c89165d355882.7z"
+    },
+    ["windows-x64-vc14.29.30133-32422040023d49d18d94559969e8c9b2"] = {
+        sha256 = "058500cdebca4ab4813078c01270d7bac1340ffc5e5ac8af8c0a1258521d7763",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-32422040023d49d18d94559969e8c9b2.7z"
+    },
+    ["windows-x86-vc14.37.32822-84078526524047ccacd4d0c1b353953c"] = {
+        sha256 = "ad350c6c2d89b327a3daa3f212623794a5e735f03890709f7be13443a2f2d4ce",
+        toolset = "14.37.32822",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.37.32822-84078526524047ccacd4d0c1b353953c.7z"
+    },
+    ["windows-x64-vc14.51.36231-23ef774156b94efc80b9aecf153b9e5c"] = {
+        sha256 = "d32217098bf2eb091e351264aeccd9c5d68f1f836798bfa1fb7391ea57e8b695",
+        toolset = "14.51.36231",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.51.36231-23ef774156b94efc80b9aecf153b9e5c.7z"
+    },
+    ["windows-x64-vc14.29.30133-c3df5f3c732c4b1bb2f2208c1e0bf0b3"] = {
+        sha256 = "ae23694f968cd28d091906052585c9972cec3b70905eee6998737d73aaa51842",
+        toolset = "14.29.30133",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.29.30133-c3df5f3c732c4b1bb2f2208c1e0bf0b3.7z"
+    },
+    ["windows-x64-vc14.44.35207-23ef774156b94efc80b9aecf153b9e5c"] = {
+        sha256 = "fafa4a51da391573b67e1bc29692b7bfc821e2ae22d7edd4cd2eb07639590ee2",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x64-vc14.44.35207-23ef774156b94efc80b9aecf153b9e5c.7z"
+    },
+    ["windows-x86-vc14.44.35207-f9167cf08fa24ec58a48f347f5c84ebb"] = {
+        sha256 = "ef7987c80a0fec30920e4a2c84dd163682d2f6e0d51f0b36604de7a90968bb2b",
+        toolset = "14.44.35207",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/libintl-0.22.3/windows-x86-vc14.44.35207-f9167cf08fa24ec58a48f347f5c84ebb.7z"
     }
 }
