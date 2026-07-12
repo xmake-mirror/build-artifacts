@@ -1,12 +1,22 @@
 {
-    ["windows-x86-vc14.44.35207-ecb436566c654172b2afbbe70a8bb8e7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-ecb436566c654172b2afbbe70a8bb8e7.7z",
-        sha256 = "449b0d8d451b48a604d61158ea392f610126677f5cb4ccb600edc39008942553",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.50.35717-60dbda4e757a43938dd8a887a9d5a389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.50.35717-60dbda4e757a43938dd8a887a9d5a389.7z",
+        sha256 = "5f08ce292cc4ad60d50d3fb0d17ec74d471009ba17aef41491dc2102650503f5",
+        toolset = "14.50.35717"
+    },
+    ["windows-x86-vc14.51.36231-1bc1018771b24dbe9b04a6c21337a0f7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.51.36231-1bc1018771b24dbe9b04a6c21337a0f7.7z",
+        sha256 = "a21c0b3cc32b3ac9a39d34ef56312a64c4ee002021db649a8808b3513fc9c9eb",
+        toolset = "14.51.36231"
     },
     ["windows-x86-vc14.51.36231-6aad215f5c664954bfc68868f4af4d7e"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.51.36231-6aad215f5c664954bfc68868f4af4d7e.7z",
-        sha256 = "cd71628860f7cf2c99c9f380e883a6818c06a0da04185e6e5a9cfbe8203b6983",
+        sha256 = "625dea0bb2b0423516c6f8b4fb929808da9ac4af716b0d69f46e21f1d794a071",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-d1e6fd6901774373b1a2eed1980cb4aa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-d1e6fd6901774373b1a2eed1980cb4aa.7z",
+        sha256 = "5ebe3584697e0b2ec92f49a8b2ca00ad01046f878cfa4ec00c64cb2017b0d0e7",
         toolset = "14.51.36231"
     },
     ["windows-x86-vc14.50.35717-6aad215f5c664954bfc68868f4af4d7e"] = {
@@ -14,49 +24,59 @@
         sha256 = "1e43b8a49ec54b7ad25df000b6a1d79c6ad1ec2c77121650de2de2011852d757",
         toolset = "14.50.35717"
     },
-    ["windows-x86-vc14.44.35207-3a7e32fcef0f41bebebb02bf2e16a5e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-3a7e32fcef0f41bebebb02bf2e16a5e4.7z",
-        sha256 = "7fec8e8b646cd6fbfa18141e2d13c19f4d3e3e23e16809f72df19aab9b86d4af",
+    ["windows-x64-vc14.44.35207-d1e6fd6901774373b1a2eed1980cb4aa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-d1e6fd6901774373b1a2eed1980cb4aa.7z",
+        sha256 = "e4b942c073c27c26aa4ebe6e56490e2e9a0437f6d930558ca893d4fcada60f06",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-f620618bb0404daf8e74a7ae24ddebc6"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-f620618bb0404daf8e74a7ae24ddebc6.7z",
+        sha256 = "49541de27b0bc61ba378090b66f6e5bd7e1ce17ba10ff8f23aed21eace30604a",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-3a7e32fcef0f41bebebb02bf2e16a5e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.51.36231-3a7e32fcef0f41bebebb02bf2e16a5e4.7z",
+        sha256 = "1e0931717ad4bf8a4f9437ef2bdf4b2ae70ff7e24aef5508fdeb2aab1e902a2a",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-60dbda4e757a43938dd8a887a9d5a389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-60dbda4e757a43938dd8a887a9d5a389.7z",
+        sha256 = "67af8cd6e1124d8072ac2691df6d76285725310eecd0fe2f3051226df4c52f6a",
         toolset = "14.44.35207"
     },
     ["windows-x86-vc14.51.36231-ecb436566c654172b2afbbe70a8bb8e7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.51.36231-ecb436566c654172b2afbbe70a8bb8e7.7z",
-        sha256 = "cae5272361c0d1120e3648e23ca099e54ab3005fc6767675d041bbf8ef4f07ab",
+        sha256 = "a354fcf484a52b203f86b7d8234513b5c6b9264c4f3ba6ffac808da4397ae672",
         toolset = "14.51.36231"
     },
-    ["windows-x86-vc14.51.36231-1bc1018771b24dbe9b04a6c21337a0f7"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.51.36231-1bc1018771b24dbe9b04a6c21337a0f7.7z",
-        sha256 = "0631f4961f7027681feb84aded0d048e0cf4e8f07b858bb773eb54a7db75fff9",
+    ["windows-x64-vc14.51.36231-ff5fa3b3d1f0453fa04baf68404a7ed1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-ff5fa3b3d1f0453fa04baf68404a7ed1.7z",
+        sha256 = "d32763ea86a9523d08ac5341943e6c2bfa9748989c537b3056f593342857dd2a",
         toolset = "14.51.36231"
     },
-    ["windows-x64-vc14.50.35717-ff5fa3b3d1f0453fa04baf68404a7ed1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.50.35717-ff5fa3b3d1f0453fa04baf68404a7ed1.7z",
-        sha256 = "689a4887a4069acb82391e43be23e6ddd232b54e673e80e398b48521e8ee197b",
-        toolset = "14.50.35717"
-    },
-    ["windows-x64-vc14.51.36231-60dbda4e757a43938dd8a887a9d5a389"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-60dbda4e757a43938dd8a887a9d5a389.7z",
-        sha256 = "9ac5af8aaecbeed9f0889fbd596c793c861aee0dfa5fb87958c5e1eefbf7c498",
-        toolset = "14.51.36231"
+    ["windows-x86-vc14.44.35207-6aad215f5c664954bfc68868f4af4d7e"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-6aad215f5c664954bfc68868f4af4d7e.7z",
+        sha256 = "f1be13c3c018edce49a3fb3cc1ed81fb9af1e3451385b87fcc7afa1efef909a3",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.50.35717-1bc1018771b24dbe9b04a6c21337a0f7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.50.35717-1bc1018771b24dbe9b04a6c21337a0f7.7z",
         sha256 = "0616797892b1d302c789a5bdda4f074a4d8d5b67c9a4c6e28167466a2197c9e3",
         toolset = "14.50.35717"
     },
-    ["windows-x64-vc14.51.36231-ff5fa3b3d1f0453fa04baf68404a7ed1"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-ff5fa3b3d1f0453fa04baf68404a7ed1.7z",
-        sha256 = "e1238ddf861a54ddaf07962b096aa8f4a40c408fc11114dd7f8ae71051d50517",
+    ["windows-x64-vc14.51.36231-60dbda4e757a43938dd8a887a9d5a389"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-60dbda4e757a43938dd8a887a9d5a389.7z",
+        sha256 = "94ed73173f7707b361f04bf6f6d642545dc24511f93bf88902806cea1e5438b1",
         toolset = "14.51.36231"
     },
-    ["windows-x64-vc14.51.36231-d1e6fd6901774373b1a2eed1980cb4aa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-d1e6fd6901774373b1a2eed1980cb4aa.7z",
-        sha256 = "850c1624f03f63a5b6d4d731ea67c29bc0388ef76f79d0ee174b9095d25ae1ac",
-        toolset = "14.51.36231"
+    ["windows-x86-vc14.44.35207-ecb436566c654172b2afbbe70a8bb8e7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-ecb436566c654172b2afbbe70a8bb8e7.7z",
+        sha256 = "1c6bc132655f12cf4af1ee68080d4695702360738e7cbd360a52d95decc989ff",
+        toolset = "14.44.35207"
     },
-    ["windows-x64-vc14.50.35717-d1e6fd6901774373b1a2eed1980cb4aa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.50.35717-d1e6fd6901774373b1a2eed1980cb4aa.7z",
-        sha256 = "af305ec1ad080cf9380fc54fdd1b75fe20410ed2108782ad3ef3dfecf0af41e0",
+    ["windows-x86-vc14.50.35717-3a7e32fcef0f41bebebb02bf2e16a5e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.50.35717-3a7e32fcef0f41bebebb02bf2e16a5e4.7z",
+        sha256 = "b99d8a1c3dc416a60c63f7e3ca59e97c6ded5e3b7929f636b76e4976ac4b8456",
         toolset = "14.50.35717"
     },
     ["windows-x64-vc14.50.35717-f620618bb0404daf8e74a7ae24ddebc6"] = {
@@ -64,30 +84,30 @@
         sha256 = "a17858d741404e482e6f6025e9e1c07f8979bcf9c4bf3404b1facd7140944298",
         toolset = "14.50.35717"
     },
-    ["windows-x64-vc14.44.35207-d1e6fd6901774373b1a2eed1980cb4aa"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-d1e6fd6901774373b1a2eed1980cb4aa.7z",
-        sha256 = "9d3d6936829123f49c31e0c894a54f5d97250ce17ca552e944b8c3eba89aeb84",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.50.35717-ff5fa3b3d1f0453fa04baf68404a7ed1"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.50.35717-ff5fa3b3d1f0453fa04baf68404a7ed1.7z",
+        sha256 = "689a4887a4069acb82391e43be23e6ddd232b54e673e80e398b48521e8ee197b",
+        toolset = "14.50.35717"
     },
     ["windows-x64-vc14.51.36231-f620618bb0404daf8e74a7ae24ddebc6"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.51.36231-f620618bb0404daf8e74a7ae24ddebc6.7z",
-        sha256 = "9159069ae9d5120432f180895dff7c24069df221b4ef0d9cc73ab1997ce71bdd",
+        sha256 = "0a40bfe4aee376aad0b49ee90bf8fa57ac5dddd19d540afa479c670c6307fb1f",
         toolset = "14.51.36231"
     },
-    ["windows-x64-vc14.44.35207-f620618bb0404daf8e74a7ae24ddebc6"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-f620618bb0404daf8e74a7ae24ddebc6.7z",
-        sha256 = "b6e35f04ab2cd3727fd66a53c884b5da7049f922df52019e67760e93f3b2effa",
-        toolset = "14.44.35207"
+    ["windows-x64-vc14.50.35717-d1e6fd6901774373b1a2eed1980cb4aa"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.50.35717-d1e6fd6901774373b1a2eed1980cb4aa.7z",
+        sha256 = "af305ec1ad080cf9380fc54fdd1b75fe20410ed2108782ad3ef3dfecf0af41e0",
+        toolset = "14.50.35717"
     },
     ["windows-x64-vc14.44.35207-ff5fa3b3d1f0453fa04baf68404a7ed1"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-ff5fa3b3d1f0453fa04baf68404a7ed1.7z",
-        sha256 = "f3be5ae400a24f22da8cd3b8e923fdd2e23a307b07e441a082120f3486bdf25d",
+        sha256 = "85f4e24dc7b60500a051e5bac4707001bab7ca8f175bd3402249d35ffdd208e3",
         toolset = "14.44.35207"
     },
-    ["windows-x86-vc14.50.35717-3a7e32fcef0f41bebebb02bf2e16a5e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.50.35717-3a7e32fcef0f41bebebb02bf2e16a5e4.7z",
-        sha256 = "b99d8a1c3dc416a60c63f7e3ca59e97c6ded5e3b7929f636b76e4976ac4b8456",
-        toolset = "14.50.35717"
+    ["windows-x86-vc14.44.35207-3a7e32fcef0f41bebebb02bf2e16a5e4"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-3a7e32fcef0f41bebebb02bf2e16a5e4.7z",
+        sha256 = "6c6111bd1c77f56fc8c9a9c25774419759c1e6e8ddd1e9952769736bdf1643da",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.50.35717-ecb436566c654172b2afbbe70a8bb8e7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.50.35717-ecb436566c654172b2afbbe70a8bb8e7.7z",
@@ -96,27 +116,7 @@
     },
     ["windows-x86-vc14.44.35207-1bc1018771b24dbe9b04a6c21337a0f7"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-1bc1018771b24dbe9b04a6c21337a0f7.7z",
-        sha256 = "35683179e9815749788d6033f5bc97faf47a95664db7e5723278adc1e83f4414",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.50.35717-60dbda4e757a43938dd8a887a9d5a389"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.50.35717-60dbda4e757a43938dd8a887a9d5a389.7z",
-        sha256 = "5f08ce292cc4ad60d50d3fb0d17ec74d471009ba17aef41491dc2102650503f5",
-        toolset = "14.50.35717"
-    },
-    ["windows-x86-vc14.51.36231-3a7e32fcef0f41bebebb02bf2e16a5e4"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.51.36231-3a7e32fcef0f41bebebb02bf2e16a5e4.7z",
-        sha256 = "e1412b14a39a830d0acd4ae1c48cfd42638d36eb61715e66d701333c88f5cfeb",
-        toolset = "14.51.36231"
-    },
-    ["windows-x86-vc14.44.35207-6aad215f5c664954bfc68868f4af4d7e"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x86-vc14.44.35207-6aad215f5c664954bfc68868f4af4d7e.7z",
-        sha256 = "4169cc471cef3cf93540d2677af8b7bbfea7da39b3465d708c52f3f7b8c6fd68",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-60dbda4e757a43938dd8a887a9d5a389"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/openimageio-3.1.12%2B0/windows-x64-vc14.44.35207-60dbda4e757a43938dd8a887a9d5a389.7z",
-        sha256 = "07d4bca152d5c069251ed726283e0ca7b145d1bbf0424a21117798b98fcff65e",
+        sha256 = "952e09b5046fbfb570f79f8d5fac755601e698dabf472402f9e157523bfdba16",
         toolset = "14.44.35207"
     }
 }
