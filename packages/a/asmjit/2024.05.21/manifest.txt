@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-7da9a2f0f8ec44dc902d2d38f4d184b8"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-7da9a2f0f8ec44dc902d2d38f4d184b8.7z",
-        sha256 = "1823160568d05df384d4b05459ad0d2efc99f07b21d943893989ef118728aeea"
-    },
-    ["windows-x64-vc14.29.30133-16cc3bcc461340c4a09cd9e1a223bb48"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.29.30133-16cc3bcc461340c4a09cd9e1a223bb48.7z",
-        sha256 = "8e27b28a8fff0795d5e25b07fb6f52822915358b7e42a78455667c9294f9cb6e"
-    },
-    ["windows-x86-vc14.39.33519-a64f1c935f264cdb852bb5023cbf7d73"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-a64f1c935f264cdb852bb5023cbf7d73.7z",
-        sha256 = "5cc9b4d6934e17ed7f33989ee2d56d229e4dd19185b6e8ce4b8bd66faf058d0f"
-    },
-    ["windows-x64-vc14.39.33519-d4218567c6b74feeacd8e5fe51048f06"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-d4218567c6b74feeacd8e5fe51048f06.7z",
-        sha256 = "9cc59bae0fb0baeb43083be4bec72c613783297b08ed2e0535d4d1a7435aa70e"
-    },
-    ["windows-x64-vc14.39.33519-16cc3bcc461340c4a09cd9e1a223bb48"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-16cc3bcc461340c4a09cd9e1a223bb48.7z",
-        sha256 = "484f8a24b9a7e8f1502b62f4d6dcb24d12b571b3bfdf34c7674cf17eeb6e95cb"
-    },
-    ["windows-x86-vc14.29.30133-a64f1c935f264cdb852bb5023cbf7d73"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-a64f1c935f264cdb852bb5023cbf7d73.7z",
-        sha256 = "c871956695756b15749ca3bb0390f40415036fe8ac454e8e48778679240859ea"
-    },
-    ["windows-x86-vc14.29.30133-ce9c703f3a264830b1c142883ab4fa1a"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-ce9c703f3a264830b1c142883ab4fa1a.7z",
-        sha256 = "6b74fb46500da3af91f2cfe8a07f15dfe5bb3eb8b3114d59928e5c2b010fc0cc"
-    },
-    ["windows-x64-vc14.39.33519-7a9007921bb74e3f8b789f9d4f815408"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-7a9007921bb74e3f8b789f9d4f815408.7z",
-        sha256 = "b6d5cfcacf4765e7b8c46b31dad9e725a84e517d5634e9044dcb21e374621639"
-    },
-    ["windows-x64-vc14.39.33519-1d439cad43c94d4290e08811493113a5"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-1d439cad43c94d4290e08811493113a5.7z",
-        sha256 = "daad36ed5cc3cbb9406f6e2362f710ddd09978c75ada1ec476f9981c4b2a81de"
-    },
-    ["windows-x86-vc14.29.30133-cb5efa1076ed46b7823c6f5a8032eab7"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-cb5efa1076ed46b7823c6f5a8032eab7.7z",
-        sha256 = "b8add5a06bad49d8ff65d1df78d713ecc37fe55f3c962c0af8077f00e4fa1d29"
-    },
-    ["windows-x86-vc14.39.33519-7da9a2f0f8ec44dc902d2d38f4d184b8"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-7da9a2f0f8ec44dc902d2d38f4d184b8.7z",
-        sha256 = "9c232379e6b4b5bdd32678835662c9d4890b8b0ca577ae5eeb7b3dc08e315b33"
-    },
-    ["windows-x86-vc14.39.33519-cb5efa1076ed46b7823c6f5a8032eab7"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-cb5efa1076ed46b7823c6f5a8032eab7.7z",
-        sha256 = "3e450265201cea541ea96edef17253a0420244050bd0ba6c7dff413af501482e"
+    ["windows-x64-vc14.44.35207-7a9007921bb74e3f8b789f9d4f815408"] = {
+        sha256 = "4def31ee4ddaa46d9b708b26140113a3f11e772437e2204bb7b5f6737037f429",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.44.35207-7a9007921bb74e3f8b789f9d4f815408.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-d4218567c6b74feeacd8e5fe51048f06"] = {
-        toolset = "14.29.30133",
+        sha256 = "f854a3f7684850c82e7a3470e36dd0c3cb60e233ef2521faee7b0f3703267b0c",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.29.30133-d4218567c6b74feeacd8e5fe51048f06.7z",
-        sha256 = "f854a3f7684850c82e7a3470e36dd0c3cb60e233ef2521faee7b0f3703267b0c"
+        toolset = "14.29.30133"
     },
-    ["windows-x86-vc14.39.33519-ce9c703f3a264830b1c142883ab4fa1a"] = {
-        toolset = "14.39.33519",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-ce9c703f3a264830b1c142883ab4fa1a.7z",
-        sha256 = "5e4529c5b577b266de84fa389d230a793a66de3ebcd198b103f2a86fd4e48c1f"
+    ["windows-x86-vc14.51.36231-a64f1c935f264cdb852bb5023cbf7d73"] = {
+        sha256 = "024fdbb4b6dda118036707ce396ddc6a108434b33ebf812a7b9585ab4d449266",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.51.36231-a64f1c935f264cdb852bb5023cbf7d73.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-cb5efa1076ed46b7823c6f5a8032eab7"] = {
+        sha256 = "6f742ec4f0485e233925bb7d500369a92026df62b938a9b6ef0eac17a7f501cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.51.36231-cb5efa1076ed46b7823c6f5a8032eab7.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.39.33519-cb5efa1076ed46b7823c6f5a8032eab7"] = {
+        sha256 = "3e450265201cea541ea96edef17253a0420244050bd0ba6c7dff413af501482e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-cb5efa1076ed46b7823c6f5a8032eab7.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.44.35207-16cc3bcc461340c4a09cd9e1a223bb48"] = {
+        sha256 = "1367222d7a26c5cbafcf6277cb36d37796daee9623c3b32df93cc5491edd4cc7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.44.35207-16cc3bcc461340c4a09cd9e1a223bb48.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-ce9c703f3a264830b1c142883ab4fa1a"] = {
+        sha256 = "1437a1f3dcef6da2f97ac142f62d94b979b47c2c9e0796259747019afddff11a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.51.36231-ce9c703f3a264830b1c142883ab4fa1a.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-7da9a2f0f8ec44dc902d2d38f4d184b8"] = {
+        sha256 = "f526c004a2570dfd3e2155f6cbb7cad2618f1e52a359c52b60e01013c8f62958",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.44.35207-7da9a2f0f8ec44dc902d2d38f4d184b8.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-d4218567c6b74feeacd8e5fe51048f06"] = {
+        sha256 = "9758f63c9c4786b3ff6d96582950a4d325340523ee1fbf1b6e1a72da6cf4324f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.51.36231-d4218567c6b74feeacd8e5fe51048f06.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-7a9007921bb74e3f8b789f9d4f815408"] = {
+        sha256 = "7731b5af58131139b0e00f426ec891da980f8be3b019439b9296c573e5829a03",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.51.36231-7a9007921bb74e3f8b789f9d4f815408.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-1d439cad43c94d4290e08811493113a5"] = {
+        sha256 = "1b8a71f322db61e86554117a38940f1b11a6168f98d39cde28c20633a1f49d41",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.51.36231-1d439cad43c94d4290e08811493113a5.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.29.30133-a64f1c935f264cdb852bb5023cbf7d73"] = {
+        sha256 = "c871956695756b15749ca3bb0390f40415036fe8ac454e8e48778679240859ea",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-a64f1c935f264cdb852bb5023cbf7d73.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-7da9a2f0f8ec44dc902d2d38f4d184b8"] = {
+        sha256 = "9c232379e6b4b5bdd32678835662c9d4890b8b0ca577ae5eeb7b3dc08e315b33",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-7da9a2f0f8ec44dc902d2d38f4d184b8.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.44.35207-1d439cad43c94d4290e08811493113a5"] = {
+        sha256 = "7027dd4f3c230498981086249c6492b79d07b0d687ff1f4b8e6e15979ac4d3f3",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.44.35207-1d439cad43c94d4290e08811493113a5.7z",
+        toolset = "14.44.35207"
     },
     ["windows-x64-vc14.29.30133-1d439cad43c94d4290e08811493113a5"] = {
-        toolset = "14.29.30133",
+        sha256 = "fd52435240fbfa9c5a40e59136b519fbddd85cf3618d784706faa4651954f907",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.29.30133-1d439cad43c94d4290e08811493113a5.7z",
-        sha256 = "fd52435240fbfa9c5a40e59136b519fbddd85cf3618d784706faa4651954f907"
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-7da9a2f0f8ec44dc902d2d38f4d184b8"] = {
+        sha256 = "1823160568d05df384d4b05459ad0d2efc99f07b21d943893989ef118728aeea",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-7da9a2f0f8ec44dc902d2d38f4d184b8.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.39.33519-a64f1c935f264cdb852bb5023cbf7d73"] = {
+        sha256 = "5cc9b4d6934e17ed7f33989ee2d56d229e4dd19185b6e8ce4b8bd66faf058d0f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-a64f1c935f264cdb852bb5023cbf7d73.7z",
+        toolset = "14.39.33519"
     },
     ["windows-x64-vc14.29.30133-7a9007921bb74e3f8b789f9d4f815408"] = {
-        toolset = "14.29.30133",
+        sha256 = "9c4482c4922ab77332836eb3c29f6fd0a7e7a23987446373f52c694194976680",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.29.30133-7a9007921bb74e3f8b789f9d4f815408.7z",
-        sha256 = "9c4482c4922ab77332836eb3c29f6fd0a7e7a23987446373f52c694194976680"
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-ce9c703f3a264830b1c142883ab4fa1a"] = {
+        sha256 = "6b74fb46500da3af91f2cfe8a07f15dfe5bb3eb8b3114d59928e5c2b010fc0cc",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-ce9c703f3a264830b1c142883ab4fa1a.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-1d439cad43c94d4290e08811493113a5"] = {
+        sha256 = "daad36ed5cc3cbb9406f6e2362f710ddd09978c75ada1ec476f9981c4b2a81de",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-1d439cad43c94d4290e08811493113a5.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.44.35207-a64f1c935f264cdb852bb5023cbf7d73"] = {
+        sha256 = "1d98e9d5489564a07cdbe4908365b27cb4aee9b25fb9891e764e6414cfab19d4",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.44.35207-a64f1c935f264cdb852bb5023cbf7d73.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-cb5efa1076ed46b7823c6f5a8032eab7"] = {
+        sha256 = "319118e80350513cb4307ebc11cc6c08d333fce36357ca7662035de1adc19014",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.44.35207-cb5efa1076ed46b7823c6f5a8032eab7.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.29.30133-16cc3bcc461340c4a09cd9e1a223bb48"] = {
+        sha256 = "8e27b28a8fff0795d5e25b07fb6f52822915358b7e42a78455667c9294f9cb6e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.29.30133-16cc3bcc461340c4a09cd9e1a223bb48.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x86-vc14.29.30133-cb5efa1076ed46b7823c6f5a8032eab7"] = {
+        sha256 = "b8add5a06bad49d8ff65d1df78d713ecc37fe55f3c962c0af8077f00e4fa1d29",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.29.30133-cb5efa1076ed46b7823c6f5a8032eab7.7z",
+        toolset = "14.29.30133"
+    },
+    ["windows-x64-vc14.39.33519-16cc3bcc461340c4a09cd9e1a223bb48"] = {
+        sha256 = "484f8a24b9a7e8f1502b62f4d6dcb24d12b571b3bfdf34c7674cf17eeb6e95cb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-16cc3bcc461340c4a09cd9e1a223bb48.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.51.36231-7da9a2f0f8ec44dc902d2d38f4d184b8"] = {
+        sha256 = "0fd3a80fa357b60ae8a513cdc74adc0544c340c566d5825026b364e5af666013",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.51.36231-7da9a2f0f8ec44dc902d2d38f4d184b8.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-d4218567c6b74feeacd8e5fe51048f06"] = {
+        sha256 = "bcdc2a4f0e2a332fb79b92687e9e5ed58e6232e35c9bc74f7fff6166da4a713c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.44.35207-d4218567c6b74feeacd8e5fe51048f06.7z",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-16cc3bcc461340c4a09cd9e1a223bb48"] = {
+        sha256 = "f3eab7bc64b88a80a86c800184e6df650ac2b7b855c20278d19c5156e387ea82",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.51.36231-16cc3bcc461340c4a09cd9e1a223bb48.7z",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.39.33519-ce9c703f3a264830b1c142883ab4fa1a"] = {
+        sha256 = "5e4529c5b577b266de84fa389d230a793a66de3ebcd198b103f2a86fd4e48c1f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.39.33519-ce9c703f3a264830b1c142883ab4fa1a.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.39.33519-d4218567c6b74feeacd8e5fe51048f06"] = {
+        sha256 = "9cc59bae0fb0baeb43083be4bec72c613783297b08ed2e0535d4d1a7435aa70e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-d4218567c6b74feeacd8e5fe51048f06.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x64-vc14.39.33519-7a9007921bb74e3f8b789f9d4f815408"] = {
+        sha256 = "b6d5cfcacf4765e7b8c46b31dad9e725a84e517d5634e9044dcb21e374621639",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x64-vc14.39.33519-7a9007921bb74e3f8b789f9d4f815408.7z",
+        toolset = "14.39.33519"
+    },
+    ["windows-x86-vc14.44.35207-ce9c703f3a264830b1c142883ab4fa1a"] = {
+        sha256 = "8e13fb7932b02c6a4be9e3021b46ef265477277596c6635c87ff40304d15f37f",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/asmjit-2024.05.21/windows-x86-vc14.44.35207-ce9c703f3a264830b1c142883ab4fa1a.7z",
+        toolset = "14.44.35207"
     }
 }
