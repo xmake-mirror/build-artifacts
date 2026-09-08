@@ -1,82 +1,162 @@
 {
-    ["windows-x86-vc14.29.30133-29a7d179575a4a12af4bf88963dafd3f"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-29a7d179575a4a12af4bf88963dafd3f.7z",
-        sha256 = "50b965ed3716b80bac855625860f2f64d2bc67f9a7f51b265595eeccc0c134c9"
+    ["windows-x86-vc14.51.36231-1fcd8592e2044cc8916ec875f86d5c4e"] = {
+        toolset = "14.51.36231",
+        sha256 = "f531b2a203d5904592acc3fb65c0454bacb9f98a0dbfcc19c659bc7f886b7a1b",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.51.36231-1fcd8592e2044cc8916ec875f86d5c4e.7z"
     },
-    ["windows-x64-vc14.41.34120-908ffab1ea5b4a02a9a0f703e1cb542e"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-908ffab1ea5b4a02a9a0f703e1cb542e.7z",
-        sha256 = "a5c552e47fd71bdc52247f4e0bb48e56b83772af46968a85444165c389fd9269"
+    ["windows-x64-vc14.44.35207-92283f529b064e478ebb7942a88363d3"] = {
+        toolset = "14.44.35207",
+        sha256 = "d3956cd3c743bd746ddcb0b486189f493568d6e4f6bb217fee7a0885ac2fcb0d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.44.35207-92283f529b064e478ebb7942a88363d3.7z"
     },
-    ["windows-x64-vc14.41.34120-e7687cebc6884445a30d7d279b8abd14"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-e7687cebc6884445a30d7d279b8abd14.7z",
-        sha256 = "a4c613c43869d0a26446f054ba34d32625824c1314eeb261ba21c33729edf427"
-    },
-    ["windows-x64-vc14.29.30133-908ffab1ea5b4a02a9a0f703e1cb542e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-908ffab1ea5b4a02a9a0f703e1cb542e.7z",
-        sha256 = "5f8938dded69c77bcfd22bea88f8310ad78fcffa108b1e003d7aa77910adad82"
+    ["windows-x64-vc14.51.36231-92283f529b064e478ebb7942a88363d3"] = {
+        toolset = "14.51.36231",
+        sha256 = "6feadfd1ef16feda148681b0ddf45873e88df9569b24f395b024f8c579bdd0eb",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.51.36231-92283f529b064e478ebb7942a88363d3.7z"
     },
     ["windows-x64-vc14.29.30133-5e0fb2265c144bcea4515486644a7f1a"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-5e0fb2265c144bcea4515486644a7f1a.7z",
-        sha256 = "0966ace70b591923fff2f131283d3d5c0fab9fe9e92cd741a321a9c90c114dfe"
+        sha256 = "0966ace70b591923fff2f131283d3d5c0fab9fe9e92cd741a321a9c90c114dfe",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-5e0fb2265c144bcea4515486644a7f1a.7z"
     },
-    ["windows-x86-vc14.41.34120-29a7d179575a4a12af4bf88963dafd3f"] = {
+    ["windows-x64-vc14.41.34120-908ffab1ea5b4a02a9a0f703e1cb542e"] = {
         toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-29a7d179575a4a12af4bf88963dafd3f.7z",
-        sha256 = "59fe4850b51f4526f0acaa23522c062f12fbdff2c5801ba093b13c40edb8f7b1"
-    },
-    ["windows-x86-vc14.29.30133-1fcd8592e2044cc8916ec875f86d5c4e"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-1fcd8592e2044cc8916ec875f86d5c4e.7z",
-        sha256 = "6b8121f65008441ed28c7220e425e8cf6b9ec4c2f1406cd84134e234ac5c23da"
-    },
-    ["windows-x64-vc14.29.30133-92283f529b064e478ebb7942a88363d3"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-92283f529b064e478ebb7942a88363d3.7z",
-        sha256 = "81b365ccb74772e80cdade5f23c96e0082dbff63e3425291126c8b4992446ca6"
-    },
-    ["windows-x86-vc14.41.34120-f1380a894a9e4e2a9c8e9e7b540e7b71"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-f1380a894a9e4e2a9c8e9e7b540e7b71.7z",
-        sha256 = "e26634b87d68b958dfb82efe82d447dbb27bdcf2a3d983f95617bc8ac596086a"
-    },
-    ["windows-x64-vc14.29.30133-e7687cebc6884445a30d7d279b8abd14"] = {
-        toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-e7687cebc6884445a30d7d279b8abd14.7z",
-        sha256 = "ad6e51346e5712d1c54da52d4c67e8d67a8d51057a527d614938cec4c0e8e541"
+        sha256 = "a5c552e47fd71bdc52247f4e0bb48e56b83772af46968a85444165c389fd9269",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-908ffab1ea5b4a02a9a0f703e1cb542e.7z"
     },
     ["windows-x64-vc14.41.34120-5e0fb2265c144bcea4515486644a7f1a"] = {
         toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-5e0fb2265c144bcea4515486644a7f1a.7z",
-        sha256 = "0083837859f0991e701345d11f970616f1ac9105bdf2442ca63e558f3e0566d2"
+        sha256 = "0083837859f0991e701345d11f970616f1ac9105bdf2442ca63e558f3e0566d2",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-5e0fb2265c144bcea4515486644a7f1a.7z"
     },
-    ["windows-x86-vc14.29.30133-f1380a894a9e4e2a9c8e9e7b540e7b71"] = {
+    ["windows-x86-vc14.44.35207-1fcd8592e2044cc8916ec875f86d5c4e"] = {
+        toolset = "14.44.35207",
+        sha256 = "63cbb47b51fcb26a9403164f02592f69abab915f307af3b2eba682e6428a596c",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.44.35207-1fcd8592e2044cc8916ec875f86d5c4e.7z"
+    },
+    ["windows-x64-vc14.29.30133-908ffab1ea5b4a02a9a0f703e1cb542e"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-f1380a894a9e4e2a9c8e9e7b540e7b71.7z",
-        sha256 = "a870d671205dc02eec5ebc5e13fe16e770ab379d130fdc843cc3222e3be2af59"
+        sha256 = "5f8938dded69c77bcfd22bea88f8310ad78fcffa108b1e003d7aa77910adad82",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-908ffab1ea5b4a02a9a0f703e1cb542e.7z"
     },
-    ["windows-x86-vc14.29.30133-4a329832444a4029bb2e618aaca50125"] = {
+    ["windows-x86-vc14.29.30133-29a7d179575a4a12af4bf88963dafd3f"] = {
         toolset = "14.29.30133",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-4a329832444a4029bb2e618aaca50125.7z",
-        sha256 = "f01b04ecad4786eb24aa760d899078e429179383bd8b7db4e2005fbfcbd00acf"
+        sha256 = "50b965ed3716b80bac855625860f2f64d2bc67f9a7f51b265595eeccc0c134c9",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-29a7d179575a4a12af4bf88963dafd3f.7z"
     },
-    ["windows-x64-vc14.41.34120-92283f529b064e478ebb7942a88363d3"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-92283f529b064e478ebb7942a88363d3.7z",
-        sha256 = "28cd02b8d74624b45bdf5619dae202d2a75805a22801b1d680be752132b2811d"
-    },
-    ["windows-x86-vc14.41.34120-4a329832444a4029bb2e618aaca50125"] = {
-        toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-4a329832444a4029bb2e618aaca50125.7z",
-        sha256 = "d84815ef531c13054c6c5a553e88c21e1a7bd5402d7cfae6c81d9bb3db18a0a7"
+    ["windows-x64-vc14.44.35207-5e0fb2265c144bcea4515486644a7f1a"] = {
+        toolset = "14.44.35207",
+        sha256 = "b8b2df511817983fed73de02a353076839b18498b421be936181216e375aa01a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.44.35207-5e0fb2265c144bcea4515486644a7f1a.7z"
     },
     ["windows-x86-vc14.41.34120-1fcd8592e2044cc8916ec875f86d5c4e"] = {
         toolset = "14.41.34120",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-1fcd8592e2044cc8916ec875f86d5c4e.7z",
-        sha256 = "7035f89ab9a9dec1ce5b103b6798f1cc845c473c8ab513a788a0454e85a08fde"
+        sha256 = "7035f89ab9a9dec1ce5b103b6798f1cc845c473c8ab513a788a0454e85a08fde",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-1fcd8592e2044cc8916ec875f86d5c4e.7z"
+    },
+    ["windows-x86-vc14.29.30133-1fcd8592e2044cc8916ec875f86d5c4e"] = {
+        toolset = "14.29.30133",
+        sha256 = "6b8121f65008441ed28c7220e425e8cf6b9ec4c2f1406cd84134e234ac5c23da",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-1fcd8592e2044cc8916ec875f86d5c4e.7z"
+    },
+    ["windows-x86-vc14.51.36231-f1380a894a9e4e2a9c8e9e7b540e7b71"] = {
+        toolset = "14.51.36231",
+        sha256 = "b047f9d1cf66968347143bdd3e8575cc371aa7fb1e3e564c0370d519b8b00368",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.51.36231-f1380a894a9e4e2a9c8e9e7b540e7b71.7z"
+    },
+    ["windows-x86-vc14.29.30133-f1380a894a9e4e2a9c8e9e7b540e7b71"] = {
+        toolset = "14.29.30133",
+        sha256 = "a870d671205dc02eec5ebc5e13fe16e770ab379d130fdc843cc3222e3be2af59",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-f1380a894a9e4e2a9c8e9e7b540e7b71.7z"
+    },
+    ["windows-x86-vc14.41.34120-4a329832444a4029bb2e618aaca50125"] = {
+        toolset = "14.41.34120",
+        sha256 = "d84815ef531c13054c6c5a553e88c21e1a7bd5402d7cfae6c81d9bb3db18a0a7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-4a329832444a4029bb2e618aaca50125.7z"
+    },
+    ["windows-x86-vc14.41.34120-f1380a894a9e4e2a9c8e9e7b540e7b71"] = {
+        toolset = "14.41.34120",
+        sha256 = "e26634b87d68b958dfb82efe82d447dbb27bdcf2a3d983f95617bc8ac596086a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-f1380a894a9e4e2a9c8e9e7b540e7b71.7z"
+    },
+    ["windows-x64-vc14.29.30133-e7687cebc6884445a30d7d279b8abd14"] = {
+        toolset = "14.29.30133",
+        sha256 = "ad6e51346e5712d1c54da52d4c67e8d67a8d51057a527d614938cec4c0e8e541",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-e7687cebc6884445a30d7d279b8abd14.7z"
+    },
+    ["windows-x64-vc14.44.35207-908ffab1ea5b4a02a9a0f703e1cb542e"] = {
+        toolset = "14.44.35207",
+        sha256 = "a6f16ade07cb626f51d62d4e68e7269675f330c0945ba552aaa195982327ad7a",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.44.35207-908ffab1ea5b4a02a9a0f703e1cb542e.7z"
+    },
+    ["windows-x86-vc14.44.35207-29a7d179575a4a12af4bf88963dafd3f"] = {
+        toolset = "14.44.35207",
+        sha256 = "2099eb4f67f0bdf268dc2efa916ee8b50feeff6aca0112877922390567a220c7",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.44.35207-29a7d179575a4a12af4bf88963dafd3f.7z"
+    },
+    ["windows-x86-vc14.51.36231-29a7d179575a4a12af4bf88963dafd3f"] = {
+        toolset = "14.51.36231",
+        sha256 = "f1c8d987cd920a21b2c0f2fd7bb018830be24be15d7474da7cbcea24db21e578",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.51.36231-29a7d179575a4a12af4bf88963dafd3f.7z"
+    },
+    ["windows-x86-vc14.29.30133-4a329832444a4029bb2e618aaca50125"] = {
+        toolset = "14.29.30133",
+        sha256 = "f01b04ecad4786eb24aa760d899078e429179383bd8b7db4e2005fbfcbd00acf",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.29.30133-4a329832444a4029bb2e618aaca50125.7z"
+    },
+    ["windows-x64-vc14.51.36231-5e0fb2265c144bcea4515486644a7f1a"] = {
+        toolset = "14.51.36231",
+        sha256 = "0b5529762931b3f2a5e1c4c7f6bc04b22727705947ea3ed8ecb55e1a02e935ad",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.51.36231-5e0fb2265c144bcea4515486644a7f1a.7z"
+    },
+    ["windows-x86-vc14.44.35207-4a329832444a4029bb2e618aaca50125"] = {
+        toolset = "14.44.35207",
+        sha256 = "47e8bd119997efdb718986ec3c349a78d5ff3e1dfcea86fbb7519c409f4d68ff",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.44.35207-4a329832444a4029bb2e618aaca50125.7z"
+    },
+    ["windows-x86-vc14.44.35207-f1380a894a9e4e2a9c8e9e7b540e7b71"] = {
+        toolset = "14.44.35207",
+        sha256 = "bb2d91dd5492f4a5e65c4cf87083e1ddfd14cd771e5d7ecad4935e62936bea41",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.44.35207-f1380a894a9e4e2a9c8e9e7b540e7b71.7z"
+    },
+    ["windows-x64-vc14.29.30133-92283f529b064e478ebb7942a88363d3"] = {
+        toolset = "14.29.30133",
+        sha256 = "81b365ccb74772e80cdade5f23c96e0082dbff63e3425291126c8b4992446ca6",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.29.30133-92283f529b064e478ebb7942a88363d3.7z"
+    },
+    ["windows-x64-vc14.51.36231-908ffab1ea5b4a02a9a0f703e1cb542e"] = {
+        toolset = "14.51.36231",
+        sha256 = "9f2c2c421217689253fbc6afbb92b090a7399ce9bd5b6a51e0d967d7378f5b61",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.51.36231-908ffab1ea5b4a02a9a0f703e1cb542e.7z"
+    },
+    ["windows-x64-vc14.51.36231-e7687cebc6884445a30d7d279b8abd14"] = {
+        toolset = "14.51.36231",
+        sha256 = "dffb012b98ec00f4c238fd6bbce93b0f496688036bdb0851b5dd916bfb9fea43",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.51.36231-e7687cebc6884445a30d7d279b8abd14.7z"
+    },
+    ["windows-x86-vc14.41.34120-29a7d179575a4a12af4bf88963dafd3f"] = {
+        toolset = "14.41.34120",
+        sha256 = "59fe4850b51f4526f0acaa23522c062f12fbdff2c5801ba093b13c40edb8f7b1",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.41.34120-29a7d179575a4a12af4bf88963dafd3f.7z"
+    },
+    ["windows-x64-vc14.44.35207-e7687cebc6884445a30d7d279b8abd14"] = {
+        toolset = "14.44.35207",
+        sha256 = "92c4802a5d84792de6e156e0fc595d9a8e6ff5fbe97f3f46a9d9ab07b21ace1e",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.44.35207-e7687cebc6884445a30d7d279b8abd14.7z"
+    },
+    ["windows-x86-vc14.51.36231-4a329832444a4029bb2e618aaca50125"] = {
+        toolset = "14.51.36231",
+        sha256 = "f3670f4bfd30de2c65de59b991ad7d02703a2e506397f854e4a5fcc8317c7c63",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x86-vc14.51.36231-4a329832444a4029bb2e618aaca50125.7z"
+    },
+    ["windows-x64-vc14.41.34120-92283f529b064e478ebb7942a88363d3"] = {
+        toolset = "14.41.34120",
+        sha256 = "28cd02b8d74624b45bdf5619dae202d2a75805a22801b1d680be752132b2811d",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-92283f529b064e478ebb7942a88363d3.7z"
+    },
+    ["windows-x64-vc14.41.34120-e7687cebc6884445a30d7d279b8abd14"] = {
+        toolset = "14.41.34120",
+        sha256 = "a4c613c43869d0a26446f054ba34d32625824c1314eeb261ba21c33729edf427",
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/cppunit-1.15.1/windows-x64-vc14.41.34120-e7687cebc6884445a30d7d279b8abd14.7z"
     }
 }
