@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.44.35207-25d6ce35575041f7ae2ce3e10fe0738d"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-25d6ce35575041f7ae2ce3e10fe0738d.7z",
-        sha256 = "dd83431e1d335128dfc2c716327665535086dc9b29a064f29813ae5a51be0f33"
+    ["windows-x64-vc14.51.36231-9e91e2fca7174cba9696e7e489950d31"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.51.36231-9e91e2fca7174cba9696e7e489950d31.7z",
+        sha256 = "d4f3434ced49052f3acb025ea751ff944a4bc200956d15f1b465005997368c9a",
+        toolset = "14.51.36231"
     },
-    ["windows-x86-vc14.44.35207-a01697cc365f495ea67489746f1c8998"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-a01697cc365f495ea67489746f1c8998.7z",
-        sha256 = "3d28957701051aaa9d4a642c5aa5c6a732d75502f96c674ac36ccc3e3ce7474d"
+    ["windows-x64-vc14.51.36231-25d6ce35575041f7ae2ce3e10fe0738d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.51.36231-25d6ce35575041f7ae2ce3e10fe0738d.7z",
+        sha256 = "4c416f8306e8af45f78581fc2fececf5bbcfc9ac1c56ae8206b6ca8b8f57c99f",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-7d1955bbd0e746c1b2953f915e825865"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.51.36231-7d1955bbd0e746c1b2953f915e825865.7z",
+        sha256 = "bcaf42081c534a58186a6660d87774a2a5629ee3f757057005b95a35d818da61",
+        toolset = "14.51.36231"
     },
     ["windows-x64-vc14.44.35207-7d1955bbd0e746c1b2953f915e825865"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-7d1955bbd0e746c1b2953f915e825865.7z",
-        sha256 = "0944e66cddf860fe11b9f1fb6709a98b27a27ee94b7825ee4ba45946f5173ca7"
-    },
-    ["windows-x86-vc14.44.35207-e1a57cc0dc3e4247a7b9abbdab76a6a9"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-e1a57cc0dc3e4247a7b9abbdab76a6a9.7z",
-        sha256 = "dee42890f46e2292eed6e6e17b23b120d0022ce4032c423524a0c248ad0070b1"
-    },
-    ["windows-x64-vc14.44.35207-9e91e2fca7174cba9696e7e489950d31"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-9e91e2fca7174cba9696e7e489950d31.7z",
-        sha256 = "682866d9ca4a64b4fd2dd5f3a8ccb5d27cc9e51e32d947d88433f937e42b47bc"
-    },
-    ["windows-x86-vc14.44.35207-89e7744458a14279b99a67d825fd7fad"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-89e7744458a14279b99a67d825fd7fad.7z",
-        sha256 = "5e70022de4d5c17efa8d0999ff495e9ae792391869db496f8286624ca2d17ced"
-    },
-    ["windows-x64-vc14.44.35207-97b5a0b2551e4f1cb1bd78f2b122c203"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-97b5a0b2551e4f1cb1bd78f2b122c203.7z",
-        sha256 = "8c3ac0564c610c1f0e6bceb025161f5cd6fd7d7791244386130de1153766b798"
+        sha256 = "03b4afc6b46861a3af9d8b9ffa640276c7279258f27757046dc3d08bb00c02ab",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.44.35207-698a53b014f04c219059415460fff830"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-698a53b014f04c219059415460fff830.7z",
-        sha256 = "469c236b6b8277762e4c1a3bee89218b0a13a7ea338f00faa8148f968b89d966"
+        sha256 = "a3701974c989c87186539638a8809abf8b723a7d463fc930e01779ef626619c2",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-a01697cc365f495ea67489746f1c8998"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-a01697cc365f495ea67489746f1c8998.7z",
+        sha256 = "0258e48e8d13c82ed0d5b9a3c103464f67231ff4de83f9847b9059cbc7682e9a",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-89e7744458a14279b99a67d825fd7fad"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-89e7744458a14279b99a67d825fd7fad.7z",
+        sha256 = "73b64b4d79af15759643f38015e4e02bf6dd413865d86fa0c039c857330acb9e",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-e1a57cc0dc3e4247a7b9abbdab76a6a9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.44.35207-e1a57cc0dc3e4247a7b9abbdab76a6a9.7z",
+        sha256 = "5cf4a313760c71a22f894854155230a533b36be93be9b6d8ff69194b5f9cb67a",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-a01697cc365f495ea67489746f1c8998"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.51.36231-a01697cc365f495ea67489746f1c8998.7z",
+        sha256 = "8846c32d13551d85efb644b1c75d2f182890dc9c01f1c18382d1d016388fd65f",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-698a53b014f04c219059415460fff830"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.51.36231-698a53b014f04c219059415460fff830.7z",
+        sha256 = "021eb0d10371d5beb9f8ab0fb324c3d7fcffc4370b55cc07bf2b6ead7b2c6bfc",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-89e7744458a14279b99a67d825fd7fad"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.51.36231-89e7744458a14279b99a67d825fd7fad.7z",
+        sha256 = "c68225af302972f2d0d35b373e04e586766701533a8f513cc439fd987ebd3405",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-97b5a0b2551e4f1cb1bd78f2b122c203"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.51.36231-97b5a0b2551e4f1cb1bd78f2b122c203.7z",
+        sha256 = "fb81ede2e31576e072d066c309225ce72d62a1b0ca2e40196c458dcfbd70762b",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-9e91e2fca7174cba9696e7e489950d31"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-9e91e2fca7174cba9696e7e489950d31.7z",
+        sha256 = "1ba9a033cca5c7d711e87a957b4e0b80fb1ef32fe5458cd61330a066a4ff2bbc",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-97b5a0b2551e4f1cb1bd78f2b122c203"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-97b5a0b2551e4f1cb1bd78f2b122c203.7z",
+        sha256 = "31f79b1b12cb5930c8d4557c680fdc013c60ff9d62dd199c186705717f1b4e47",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-e1a57cc0dc3e4247a7b9abbdab76a6a9"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x86-vc14.51.36231-e1a57cc0dc3e4247a7b9abbdab76a6a9.7z",
+        sha256 = "5b459f72fe28ae8570561c7ed75a71a5e30bec323ed700f21a15a071d1988fcf",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-25d6ce35575041f7ae2ce3e10fe0738d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/raylib-6.0/windows-x64-vc14.44.35207-25d6ce35575041f7ae2ce3e10fe0738d.7z",
+        sha256 = "76f690ff50bd1e506555a1eb0707a8a61cb1736c1ccb9708fca43e314cefa196",
+        toolset = "14.44.35207"
     }
 }
