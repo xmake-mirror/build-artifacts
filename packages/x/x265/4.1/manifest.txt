@@ -1,42 +1,77 @@
 {
-    ["windows-x86-vc14.44.35207-4122fc0060c24bb6ac4b728205f16c63"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.44.35207-4122fc0060c24bb6ac4b728205f16c63.7z",
-        sha256 = "69ae6908e349776d58be3f14adb393409b1eb13b9204113f205de239cffa9892"
-    },
-    ["windows-x64-vc14.44.35207-f86246cc8c654df0b2be3778e79a600f"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-f86246cc8c654df0b2be3778e79a600f.7z",
-        sha256 = "be65858f15b73a22ecf86f3aa94a3c0f73e70c5e32bd0ffef43f8d5aa63dab72"
-    },
-    ["windows-x64-vc14.44.35207-d6b06fe4a9984aff8da5f23f12f1853c"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-d6b06fe4a9984aff8da5f23f12f1853c.7z",
-        sha256 = "50e84a3edbe6357bb4c5c0f1d0737c7343baa7890fb88a29a315dcf336c5bfb8"
-    },
-    ["windows-x64-vc14.44.35207-4033508c0b3c4a2db6f33d4af2d31d91"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-4033508c0b3c4a2db6f33d4af2d31d91.7z",
-        sha256 = "ef4cfff03a543c783fc454fedee49fe75e91927d3013310bbb1d8ea70fa5e13b"
-    },
-    ["windows-x64-vc14.44.35207-92087500bc86405295066cdac65b0f1a"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-92087500bc86405295066cdac65b0f1a.7z",
-        sha256 = "bba0fbf6bdfbb00394b6eb6a37dbd74525d57a3161ceed3c6876490ff8357eab"
-    },
-    ["windows-x86-vc14.44.35207-2c124c4d97e54c67929a5cb8af66beb8"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.44.35207-2c124c4d97e54c67929a5cb8af66beb8.7z",
-        sha256 = "2db7e89a6fe6cc1e75376569cddf31300f3c735cfc536c968ec22a871d41e0a5"
+    ["windows-x86-vc14.51.36231-4f527600b4604f57bb9e1c2be333b6e7"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.51.36231-4f527600b4604f57bb9e1c2be333b6e7.7z",
+        sha256 = "b1db21ad87551ac11cf07a11014cfaf5c36ff2160ff17d93014ba94c8c077f1b",
+        toolset = "14.51.36231"
     },
     ["windows-x86-vc14.44.35207-4f527600b4604f57bb9e1c2be333b6e7"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.44.35207-4f527600b4604f57bb9e1c2be333b6e7.7z",
-        sha256 = "cc47f84bb079730779ec855b5b2b65762e96df878cc527b77e8e2a9e861af065"
+        sha256 = "5585a4a3f3ecd86e40b61c07717c1d2cec19d61380b601eadc03dadfaaef254f",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-4122fc0060c24bb6ac4b728205f16c63"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.44.35207-4122fc0060c24bb6ac4b728205f16c63.7z",
+        sha256 = "f69877cd0163cabb8dbb876146bd7ba16bac743f746ec2e2b4cdb6df360147de",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.44.35207-bfb0d8d824204846867f20f0cb41f54b"] = {
-        toolset = "14.44.35207",
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.44.35207-bfb0d8d824204846867f20f0cb41f54b.7z",
-        sha256 = "f4490fab07d3d8797ed90cb8f2bbfa372c98015ed275a4cc7a0900e2d319e068"
+        sha256 = "af7fed84b62effdecddc57c6d9ecb313ae29146eed422c60d83182c4fbd9fe89",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-d6b06fe4a9984aff8da5f23f12f1853c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-d6b06fe4a9984aff8da5f23f12f1853c.7z",
+        sha256 = "e590b3065852d8f4b677d7501c74820c829abe34157293fe29229f337b42317c",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-92087500bc86405295066cdac65b0f1a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-92087500bc86405295066cdac65b0f1a.7z",
+        sha256 = "ef984140d29afea61b9d0e214fb18071fcdc81c59a1c22bac8b60f655c76945a",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-f86246cc8c654df0b2be3778e79a600f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-f86246cc8c654df0b2be3778e79a600f.7z",
+        sha256 = "a9a2dc2fd2f13b011b0c1dcc678906887769308165fabb94666f217be1129bf3",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-4033508c0b3c4a2db6f33d4af2d31d91"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.44.35207-4033508c0b3c4a2db6f33d4af2d31d91.7z",
+        sha256 = "16d701b09d07528e422aff63d36d69e16d984aa31833905309453e2225390989",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-d6b06fe4a9984aff8da5f23f12f1853c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.51.36231-d6b06fe4a9984aff8da5f23f12f1853c.7z",
+        sha256 = "91e030e4ea213a1232705597d8eed019c4fbba1407e5cfb153b969e0805ee853",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-bfb0d8d824204846867f20f0cb41f54b"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.51.36231-bfb0d8d824204846867f20f0cb41f54b.7z",
+        sha256 = "e4dfcee2e4beb55bc859cec6cc9f9ba176fa5e90e1f1e792ca8041dfe8d0cd55",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-4122fc0060c24bb6ac4b728205f16c63"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.51.36231-4122fc0060c24bb6ac4b728205f16c63.7z",
+        sha256 = "a8bdce71dadd27b95d48d04fa38ac2a1b3e3717f1b1965814f1875b1e7514883",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-4033508c0b3c4a2db6f33d4af2d31d91"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.51.36231-4033508c0b3c4a2db6f33d4af2d31d91.7z",
+        sha256 = "f8213dce136e5db54e6528d03f10264e5d1bce4c5070ee561d6bada9d4595d62",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-92087500bc86405295066cdac65b0f1a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x64-vc14.51.36231-92087500bc86405295066cdac65b0f1a.7z",
+        sha256 = "e9ecc60f64ae95f0277a59276458f22df165bdad0ecba990d9c3c108273ef842",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-2c124c4d97e54c67929a5cb8af66beb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.44.35207-2c124c4d97e54c67929a5cb8af66beb8.7z",
+        sha256 = "974ba3fe0a6bad4cb673913c9345a3eb7192719fe454049154a724af36a0421d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-2c124c4d97e54c67929a5cb8af66beb8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/x265-4.1/windows-x86-vc14.51.36231-2c124c4d97e54c67929a5cb8af66beb8.7z",
+        sha256 = "d622e0586375b68d7ad907f0fab4b5923e5dd74f0fc62ce053df4de70cdf27c5",
+        toolset = "14.51.36231"
     }
 }
