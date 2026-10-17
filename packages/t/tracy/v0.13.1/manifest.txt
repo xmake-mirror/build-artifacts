@@ -1,42 +1,82 @@
 {
-    ["windows-x64-vc14.44.35207-2538022dd5dc4ac2880db97d05a16bfb"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.44.35207-2538022dd5dc4ac2880db97d05a16bfb.7z",
-        sha256 = "6e6e6a00d43be942d72606f2f8602ccb93d0347d4f2705cb4d5ecfe97788b923",
+    ["windows-x64-vc14.51.36231-9e70f59b17454f9a8b24e7e422e49117"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.51.36231-9e70f59b17454f9a8b24e7e422e49117.7z",
+        sha256 = "7c1a43240e74624d78dbd395688e5f108f94e1a04d1e16af786daa6609cd1c83",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-9909bb1299584798b70e5137b980d547"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-9909bb1299584798b70e5137b980d547.7z",
+        sha256 = "2db18b5f7ec17e0d234320e8084c64312a3ecec6d1604ebc0002a2eca680ca36",
         toolset = "14.44.35207"
     },
     ["windows-x64-vc14.44.35207-9e70f59b17454f9a8b24e7e422e49117"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.44.35207-9e70f59b17454f9a8b24e7e422e49117.7z",
-        sha256 = "2c81c9bf3a2e4323c6f261a6a4e1849fa34e42685ab389a71bf9add37e654bbe",
-        toolset = "14.44.35207"
-    },
-    ["windows-x64-vc14.44.35207-61cb245f8a754d9ea1ff73ed5a124caf"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.44.35207-61cb245f8a754d9ea1ff73ed5a124caf.7z",
-        sha256 = "efc2e875f550513500cdfe66193a870127f87f379f12bd52cdd64bf92ddb3d8d",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-412329c9a9494b4db4aec17b18948f73"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-412329c9a9494b4db4aec17b18948f73.7z",
-        sha256 = "73ead17c2c360da8bbc0b19ce446568294761bf63cbfbc56a889eb8a1e389a9f",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-5dbe9e97a68840d4b999efd45c8d940d"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-5dbe9e97a68840d4b999efd45c8d940d.7z",
-        sha256 = "66b8404d8d60e4a120d71e584dbfc12c34765207527ce0ba7b118cb5e7e52cec",
-        toolset = "14.44.35207"
-    },
-    ["windows-x86-vc14.44.35207-9909bb1299584798b70e5137b980d547"] = {
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-9909bb1299584798b70e5137b980d547.7z",
-        sha256 = "b1f992b0106557b8947a47cc82d6ee57eb70f97ad8d752eb1f3055b5e143c4d6",
+        sha256 = "6596bf7e787a516864f7015b44d22b70ecaad55c589d2de69b8dca51eec75d17",
         toolset = "14.44.35207"
     },
     ["windows-x86-vc14.44.35207-782daf482a044611a462d3731e0aa135"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-782daf482a044611a462d3731e0aa135.7z",
-        sha256 = "a4c623e2d4816923be5cbcada01827fd1f73f66cbb9a9a3875ebd6f2252966a5",
+        sha256 = "15e1ee847a3ff0a62e4bad7cc4e1742c86e3ad3702bd269ef0f52c17c1757976",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-61cb245f8a754d9ea1ff73ed5a124caf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.44.35207-61cb245f8a754d9ea1ff73ed5a124caf.7z",
+        sha256 = "e1ec24651605f70d288e8d4e7ba9b50ce346a0e13524343a6851d1866d70fcca",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-5dbe9e97a68840d4b999efd45c8d940d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-5dbe9e97a68840d4b999efd45c8d940d.7z",
+        sha256 = "06dd4572b0aa7a137769f2bc5b8d9457ca6b02e6efd742ce13bb1afde6ce4af0",
         toolset = "14.44.35207"
     },
     ["windows-x64-vc14.44.35207-ba0392df7bb74f10be8d32d11b40fd17"] = {
         urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.44.35207-ba0392df7bb74f10be8d32d11b40fd17.7z",
-        sha256 = "7ae3feb99ba9f53667567e8bfe6c5e0cc1c070e9c5a759d2c6d78ebb32efd8ef",
+        sha256 = "56252a5730b47088355460f28319e0b00b26798cab7c9c3256dcc2536e1f8e79",
         toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-9909bb1299584798b70e5137b980d547"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.51.36231-9909bb1299584798b70e5137b980d547.7z",
+        sha256 = "5c7a2ecf3312bf732cb292ed9a4b809287cfe621d6356af879ed671b577cf55c",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-5dbe9e97a68840d4b999efd45c8d940d"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.51.36231-5dbe9e97a68840d4b999efd45c8d940d.7z",
+        sha256 = "aa5267d8f7d2bba8ee93d7f1423f4af2703ba34c511c287fbb836b4d38a2132b",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-61cb245f8a754d9ea1ff73ed5a124caf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.51.36231-61cb245f8a754d9ea1ff73ed5a124caf.7z",
+        sha256 = "0c8ecda840c1fa807a73631744bd84ed733539637cda6f66da4532b6ef1a62fa",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-2538022dd5dc4ac2880db97d05a16bfb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.44.35207-2538022dd5dc4ac2880db97d05a16bfb.7z",
+        sha256 = "3f2d6d1732175dba9932f907252b95df347a5604fe11a6e7e5474615ce0206dd",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-2538022dd5dc4ac2880db97d05a16bfb"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.51.36231-2538022dd5dc4ac2880db97d05a16bfb.7z",
+        sha256 = "de36a311bf3bfc65dd7555d910c545cc64635e116e4a4aaebfb27b203968e426",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-ba0392df7bb74f10be8d32d11b40fd17"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x64-vc14.51.36231-ba0392df7bb74f10be8d32d11b40fd17.7z",
+        sha256 = "59db3ac1c2e5f9a24b7ca7427f1f52a43ebcc6c45fd8acd86c9c3e40e25a927d",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.51.36231-412329c9a9494b4db4aec17b18948f73"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.51.36231-412329c9a9494b4db4aec17b18948f73.7z",
+        sha256 = "ce76e92731a09094b9c4992e312541888f1ab6a51690541624e61eafc5d3ebf0",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-412329c9a9494b4db4aec17b18948f73"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.44.35207-412329c9a9494b4db4aec17b18948f73.7z",
+        sha256 = "556fc52eb24f7f5d23b9e3b7ae294dbec8f93d1deca7c52677e9f11328c512c4",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.51.36231-782daf482a044611a462d3731e0aa135"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/tracy-v0.13.1/windows-x86-vc14.51.36231-782daf482a044611a462d3731e0aa135.7z",
+        sha256 = "f30c6c7a2b3145373f21faaf5f78a381be04c6242931c2ff069f62535b1ba604",
+        toolset = "14.51.36231"
     }
 }
