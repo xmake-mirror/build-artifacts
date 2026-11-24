@@ -1,82 +1,162 @@
 {
-    ["windows-x64-vc14.44.35207-45b4285e29cc45cba6d1ef05721f9b47"] = {
-        sha256 = "7dad78a34bb300c058b3b42f4f201b42fe1c31a88fdc706e6005e7c5b43a0d1b",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-45b4285e29cc45cba6d1ef05721f9b47.7z"
-    },
-    ["windows-x64-vc14.51.36231-45b4285e29cc45cba6d1ef05721f9b47"] = {
-        sha256 = "87cc49edefbad4786386315b9c28bdab51ebdd4575673e48d5bd1224a8f10c37",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-45b4285e29cc45cba6d1ef05721f9b47.7z"
-    },
-    ["windows-x64-vc14.44.35207-f201ffd4568742879ffa6b21f6c9ecae"] = {
-        sha256 = "3b20114f874bbebcb3a48ba9db793492936fdddfc0c1abdff1248ae9bd7b2f92",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-f201ffd4568742879ffa6b21f6c9ecae.7z"
-    },
-    ["windows-x86-vc14.44.35207-a3d55e2bfd9943eeb997decba961817c"] = {
-        sha256 = "d0862ef191f64a1b99ce5aaef4010174828215763938ad6668b9a28684653770",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-a3d55e2bfd9943eeb997decba961817c.7z"
-    },
-    ["windows-x86-vc14.44.35207-f1caa2a2f26744dcb5acd1cc52a812e8"] = {
-        sha256 = "66e62659216a9bb0e8f9bbb3b985bddcb4fbad281e2e0013d0f53d9755fe2680",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-f1caa2a2f26744dcb5acd1cc52a812e8.7z"
-    },
-    ["windows-x64-vc14.51.36231-f201ffd4568742879ffa6b21f6c9ecae"] = {
-        sha256 = "b18592678e9d0c342b95b74fc9b51bf300c95c4ca68bb06e599e6b805130045c",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-f201ffd4568742879ffa6b21f6c9ecae.7z"
-    },
-    ["windows-x64-vc14.51.36231-11579196306c4078bbb6c3dae10417bc"] = {
-        sha256 = "b54b83f0498027551b113f00d6cbb660c000e84e5f7e07834e52b16ee9a55cd4",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-11579196306c4078bbb6c3dae10417bc.7z"
-    },
-    ["windows-x64-vc14.51.36231-e103b6ef5caf4ac1b0db4a95217b5fdf"] = {
-        sha256 = "4d4cfe0a3c0cf6c357ea1ea1d1bf432f28630798ac6bf183d36d403b5da95d15",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-e103b6ef5caf4ac1b0db4a95217b5fdf.7z"
-    },
     ["windows-x86-vc14.51.36231-f1caa2a2f26744dcb5acd1cc52a812e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-f1caa2a2f26744dcb5acd1cc52a812e8.7z",
         sha256 = "7fab90fb3e2591bbd9832e24cbbaaf8a1f5385dfb78692fac1950dbc91c9a9b2",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-f1caa2a2f26744dcb5acd1cc52a812e8.7z"
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-0d20f8d47e5c4667886f82877fa23e92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-0d20f8d47e5c4667886f82877fa23e92.7z",
+        sha256 = "efe0fdab3b0029bdd8bb8fe879f993957528805a59546cc82b7c4b73a466ee1e",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-1426d645dea14159b5fb373b103c22d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-1426d645dea14159b5fb373b103c22d8.7z",
+        sha256 = "e64ad9f6035d66ea79a606ab08d57bbea06a5db6af37dc6e17b55cfc5570e39f",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-aed25460c9b4409e8cdf571218cc012a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-aed25460c9b4409e8cdf571218cc012a.7z",
+        sha256 = "72fd2e84a762f11fb6cddabee6b9c6875025a0d80efa13e9b842fb378d417671",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.51.36231-a3d55e2bfd9943eeb997decba961817c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-a3d55e2bfd9943eeb997decba961817c.7z",
         sha256 = "1cf0624658ac47bfe5be3132218a2991b800b4d8ea7be11c0776587a799d8183",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-a3d55e2bfd9943eeb997decba961817c.7z"
-    },
-    ["windows-x64-vc14.44.35207-11579196306c4078bbb6c3dae10417bc"] = {
-        sha256 = "9340a8b1ef1828b123e051a6661cc16be77a4618b7ce6dcd71b2cf8719a91457",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-11579196306c4078bbb6c3dae10417bc.7z"
-    },
-    ["windows-x86-vc14.44.35207-beb2c2d6f84d408aa9aae7006e2427d8"] = {
-        sha256 = "9eb475ee631118df85636a4e5365add82076f3770da63e6b97a9b8a53a2d8f8f",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-beb2c2d6f84d408aa9aae7006e2427d8.7z"
-    },
-    ["windows-x64-vc14.44.35207-e103b6ef5caf4ac1b0db4a95217b5fdf"] = {
-        sha256 = "4d3b6c7a61584df1063082d1d6b01c9ecc003b5bfaeb77de6f4431f1b8f10145",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-e103b6ef5caf4ac1b0db4a95217b5fdf.7z"
-    },
-    ["windows-x86-vc14.44.35207-a459fc43d44741768afb91a40b83c597"] = {
-        sha256 = "8a03f888c498aba035456c28a38eb5164a35f3ff9af07e2c76ab607eb9689d34",
-        toolset = "14.44.35207",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-a459fc43d44741768afb91a40b83c597.7z"
+        toolset = "14.51.36231"
     },
     ["windows-x86-vc14.51.36231-a459fc43d44741768afb91a40b83c597"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-a459fc43d44741768afb91a40b83c597.7z",
         sha256 = "476bf4c5dfc49408d422b4f3c919cfc9cb06d1a605b41235e063923125d52af6",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-a459fc43d44741768afb91a40b83c597.7z"
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-11579196306c4078bbb6c3dae10417bc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-11579196306c4078bbb6c3dae10417bc.7z",
+        sha256 = "9340a8b1ef1828b123e051a6661cc16be77a4618b7ce6dcd71b2cf8719a91457",
+        toolset = "14.44.35207"
     },
     ["windows-x86-vc14.51.36231-beb2c2d6f84d408aa9aae7006e2427d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-beb2c2d6f84d408aa9aae7006e2427d8.7z",
         sha256 = "4ee1a59712c5b9b7a80b5a8a1507e4ec41ca1400cb183839daf341ba2781b122",
-        toolset = "14.51.36231",
-        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.51.36231-beb2c2d6f84d408aa9aae7006e2427d8.7z"
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.51.36231-f201ffd4568742879ffa6b21f6c9ecae"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-f201ffd4568742879ffa6b21f6c9ecae.7z",
+        sha256 = "b18592678e9d0c342b95b74fc9b51bf300c95c4ca68bb06e599e6b805130045c",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-beb2c2d6f84d408aa9aae7006e2427d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-beb2c2d6f84d408aa9aae7006e2427d8.7z",
+        sha256 = "9eb475ee631118df85636a4e5365add82076f3770da63e6b97a9b8a53a2d8f8f",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-e103b6ef5caf4ac1b0db4a95217b5fdf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-e103b6ef5caf4ac1b0db4a95217b5fdf.7z",
+        sha256 = "4d4cfe0a3c0cf6c357ea1ea1d1bf432f28630798ac6bf183d36d403b5da95d15",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-f201ffd4568742879ffa6b21f6c9ecae"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-f201ffd4568742879ffa6b21f6c9ecae.7z",
+        sha256 = "3b20114f874bbebcb3a48ba9db793492936fdddfc0c1abdff1248ae9bd7b2f92",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-45b4285e29cc45cba6d1ef05721f9b47"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-45b4285e29cc45cba6d1ef05721f9b47.7z",
+        sha256 = "87cc49edefbad4786386315b9c28bdab51ebdd4575673e48d5bd1224a8f10c37",
+        toolset = "14.51.36231"
+    },
+    ["windows-x64-vc14.44.35207-9a6742c61ee74c72b44352b829f53845"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-9a6742c61ee74c72b44352b829f53845.7z",
+        sha256 = "7c666b7678630d51c5cb91b17c009ec3e4e4f5d27f63a420c14ae8ac13104041",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.52.37025-d7f7a44ef84b4e91889e42ba7912d91f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.52.37025-d7f7a44ef84b4e91889e42ba7912d91f.7z",
+        sha256 = "0ce9126167b4b4770f591124e116c743151daff2c511a7102650dd43de986e8b",
+        toolset = "14.52.37025"
+    },
+    ["windows-x86-vc14.44.35207-a3d55e2bfd9943eeb997decba961817c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-a3d55e2bfd9943eeb997decba961817c.7z",
+        sha256 = "d0862ef191f64a1b99ce5aaef4010174828215763938ad6668b9a28684653770",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.51.36231-11579196306c4078bbb6c3dae10417bc"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.51.36231-11579196306c4078bbb6c3dae10417bc.7z",
+        sha256 = "b54b83f0498027551b113f00d6cbb660c000e84e5f7e07834e52b16ee9a55cd4",
+        toolset = "14.51.36231"
+    },
+    ["windows-x86-vc14.44.35207-20e703d91f754f09ade9289c8a96375c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-20e703d91f754f09ade9289c8a96375c.7z",
+        sha256 = "a965a764e57540d73eaad8e08bdb3fa961540b6c77387b8383b824372fa35016",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-55569b2e3a214b65909bdff74e2af546"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-55569b2e3a214b65909bdff74e2af546.7z",
+        sha256 = "58832de5a1e49bc0d607a0f68e484953489191405960028ae509c81c0789691d",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-a459fc43d44741768afb91a40b83c597"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-a459fc43d44741768afb91a40b83c597.7z",
+        sha256 = "8a03f888c498aba035456c28a38eb5164a35f3ff9af07e2c76ab607eb9689d34",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.52.37025-0d20f8d47e5c4667886f82877fa23e92"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.52.37025-0d20f8d47e5c4667886f82877fa23e92.7z",
+        sha256 = "018f6e53aa47f8384fac4b59db6bd0b95aed232bea2e6829d4c1221f6ac34741",
+        toolset = "14.52.37025"
+    },
+    ["windows-x64-vc14.44.35207-c9f8f79c1af245e8b00681c4d86183ef"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-c9f8f79c1af245e8b00681c4d86183ef.7z",
+        sha256 = "9f327cfc05a205d1c6a577f6772d398a2cfb613ba03d3b95f30600a301d63447",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-e103b6ef5caf4ac1b0db4a95217b5fdf"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-e103b6ef5caf4ac1b0db4a95217b5fdf.7z",
+        sha256 = "4d3b6c7a61584df1063082d1d6b01c9ecc003b5bfaeb77de6f4431f1b8f10145",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.44.35207-d7f7a44ef84b4e91889e42ba7912d91f"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-d7f7a44ef84b4e91889e42ba7912d91f.7z",
+        sha256 = "f1b702233844c5e265e754e9b1ca2d48a419aa9b50f619758951fa30ace44eff",
+        toolset = "14.44.35207"
+    },
+    ["windows-x86-vc14.44.35207-f1caa2a2f26744dcb5acd1cc52a812e8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.44.35207-f1caa2a2f26744dcb5acd1cc52a812e8.7z",
+        sha256 = "66e62659216a9bb0e8f9bbb3b985bddcb4fbad281e2e0013d0f53d9755fe2680",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.52.37025-c9f8f79c1af245e8b00681c4d86183ef"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.52.37025-c9f8f79c1af245e8b00681c4d86183ef.7z",
+        sha256 = "d002cbbfa6ae70004e68e4794138be0d1f07a175ef84cb49a1eb633bcaf653b7",
+        toolset = "14.52.37025"
+    },
+    ["windows-x86-vc14.52.37025-20e703d91f754f09ade9289c8a96375c"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.52.37025-20e703d91f754f09ade9289c8a96375c.7z",
+        sha256 = "d88b857e2b1beaee0bb3e650e80ba5757a48209106484c23ebdb5b87e2226aa2",
+        toolset = "14.52.37025"
+    },
+    ["windows-x64-vc14.44.35207-45b4285e29cc45cba6d1ef05721f9b47"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.44.35207-45b4285e29cc45cba6d1ef05721f9b47.7z",
+        sha256 = "7dad78a34bb300c058b3b42f4f201b42fe1c31a88fdc706e6005e7c5b43a0d1b",
+        toolset = "14.44.35207"
+    },
+    ["windows-x64-vc14.52.37025-aed25460c9b4409e8cdf571218cc012a"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.52.37025-aed25460c9b4409e8cdf571218cc012a.7z",
+        sha256 = "7a18d677866a1f2faca5f3ff63feb90ce2c7a6b608c0680c764371c23ce203bc",
+        toolset = "14.52.37025"
+    },
+    ["windows-x86-vc14.52.37025-55569b2e3a214b65909bdff74e2af546"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.52.37025-55569b2e3a214b65909bdff74e2af546.7z",
+        sha256 = "4d996c48e0f2d0cce597f3d8b48613dcfb37eb7834d73000741ffe929e1c4bdb",
+        toolset = "14.52.37025"
+    },
+    ["windows-x64-vc14.52.37025-9a6742c61ee74c72b44352b829f53845"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x64-vc14.52.37025-9a6742c61ee74c72b44352b829f53845.7z",
+        sha256 = "c91b4bb1a0f2770aa552f9c6b7c1444117c1c2e8cdd8361390c1fece9cc308cd",
+        toolset = "14.52.37025"
+    },
+    ["windows-x86-vc14.52.37025-1426d645dea14159b5fb373b103c22d8"] = {
+        urls = "https://github.com/xmake-mirror/build-artifacts/releases/download/ngtcp2-1.26.0/windows-x86-vc14.52.37025-1426d645dea14159b5fb373b103c22d8.7z",
+        sha256 = "863de6a4724d68778ead1788d1162f096b81ce892848d07ba3e5a34d0bc6c180",
+        toolset = "14.52.37025"
     }
 }
